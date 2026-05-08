@@ -1,21 +1,21 @@
 {
-    "name": "Mes recettes",
-    "short_name": "Recettes",
-    "start_url": "/",
-    "display": "standalone",
-    "background_color": "#fdfaf6",
-    "theme_color": "#8b4513",
-    "description": "Mes recettes favorites",
-    "icons": [
-        {
-            "src": "/static/icon-192.png",
-            "sizes": "192x192",
-            "type": "image/png"
-        },
-        {
-            "src": "/static/icon-512.png",
-            "sizes": "512x512",
-            "type": "image/png"
-        }
-    ]
+  "name": "Mes recettes",
+  "short_name": "Recettes",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fdfaf6",
+  "theme_color": "#8b4513",
+  "description": "Mes recettes favorites",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
