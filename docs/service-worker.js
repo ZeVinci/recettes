@@ -1,0 +1,128 @@
+// Service worker — généré automatiquement par build.py
+const CACHE = "recettes-v1";
+const PRECACHE = [
+    "./index.html",
+    "./style.css",
+    "./recettes/0.html",
+    "./recettes/1.html",
+    "./recettes/2.html",
+    "./recettes/3.html",
+    "./recettes/4.html",
+    "./recettes/5.html",
+    "./recettes/6.html",
+    "./recettes/7.html",
+    "./recettes/8.html",
+    "./recettes/9.html",
+    "./recettes/10.html",
+    "./recettes/11.html",
+    "./recettes/12.html",
+    "./recettes/13.html",
+    "./recettes/14.html",
+    "./recettes/15.html",
+    "./recettes/16.html",
+    "./recettes/17.html",
+    "./recettes/18.html",
+    "./recettes/19.html",
+    "./recettes/20.html",
+    "./recettes/21.html",
+    "./recettes/22.html",
+    "./recettes/23.html",
+    "./recettes/24.html",
+    "./recettes/25.html",
+    "./recettes/26.html",
+    "./recettes/27.html",
+    "./recettes/28.html",
+    "./recettes/29.html",
+    "./recettes/30.html",
+    "./recettes/31.html",
+    "./recettes/32.html",
+    "./recettes/33.html",
+    "./recettes/34.html",
+    "./recettes/35.html",
+    "./recettes/36.html",
+    "./recettes/37.html",
+    "./recettes/38.html",
+    "./recettes/39.html",
+    "./recettes/40.html",
+    "./recettes/41.html",
+    "./recettes/42.html",
+    "./recettes/43.html",
+    "./recettes/44.html",
+    "./recettes/45.html",
+    "./recettes/46.html",
+    "./recettes/47.html",
+    "./recettes/48.html",
+    "./recettes/49.html",
+    "./recettes/50.html",
+    "./recettes/51.html",
+    "./recettes/52.html",
+    "./recettes/53.html",
+    "./recettes/54.html",
+    "./recettes/55.html",
+    "./recettes/56.html",
+    "./recettes/57.html",
+    "./recettes/58.html",
+    "./recettes/59.html",
+    "./recettes/60.html",
+    "./recettes/61.html",
+    "./recettes/62.html",
+    "./recettes/63.html",
+    "./recettes/64.html",
+    "./recettes/65.html",
+    "./recettes/66.html",
+    "./recettes/67.html",
+    "./recettes/68.html",
+    "./recettes/69.html",
+    "./recettes/70.html",
+    "./recettes/71.html",
+    "./recettes/72.html",
+    "./recettes/73.html",
+    "./recettes/74.html",
+    "./recettes/75.html",
+    "./recettes/76.html",
+    "./recettes/77.html",
+    "./recettes/78.html",
+    "./recettes/79.html",
+    "./recettes/80.html",
+    "./recettes/81.html",
+    "./recettes/82.html",
+    "./recettes/83.html",
+    "./recettes/84.html",
+    "./recettes/85.html",
+    "./recettes/86.html",
+    "./recettes/87.html",
+    "./recettes/88.html",
+    "./recettes/89.html",
+    "./recettes/90.html",
+    "./recettes/91.html",
+    "./recettes/92.html",
+    "./recettes/93.html",
+    "./recettes/94.html",
+    "./recettes/95.html",
+    "./recettes/96.html",
+    "./recettes/97.html",
+    "./recettes/98.html",
+    "./recettes/99.html"
+];
+
+self.addEventListener("install", e => {
+    e.waitUntil(
+        caches.open(CACHE).then(c => c.addAll(PRECACHE))
+    );
+    self.skipWaiting();
+});
+
+self.addEventListener("activate", e => {
+    e.waitUntil(
+        caches.keys().then(keys =>
+            Promise.all(keys.filter(k => k !== CACHE).map(k => caches.delete(k)))
+        )
+    );
+    self.clients.claim();
+});
+
+self.addEventListener("fetch", e => {
+    e.respondWith(
+        caches.match(e.request).then(cached => cached || fetch(e.request))
+    );
+});

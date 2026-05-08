@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mes recettes</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#8b4513">
+</head>
+<body>
+    <header>
+        <h1>Mes recettes</h1>
+        <input type="text" id="recherche" placeholder="Rechercher…" autocomplete="off">
+    </header>
+
+    <ul id="liste-recettes">
+        {% for r in recettes %}
+            <li><a href="{{ url_for('recette', recette_id=r.id) }}">{{ r.titre }}</a></li>
+        {% endfor %}
+    </ul>
+
+    <p class="compteur">{{ recettes|length }} recettes</p>
+
+    <script>
+        // Filtrage en temps réel côté client. Pas besoin de serveur.
+        const champ = document.getElementById('recherche');
+        const items = document.querySelectorAll('#liste-recettes li');
+        champ.addEventListener('input', () => {
+            const q = champ.value.toLowerCase().trim();
+            items.forEach(li => {
+                const txt = li.textContent.toLowerCase();
+                li.style.display = txt.includes(q) ? '' : 'none';
+            });
+        });
+
+        // Enregistrement du service worker pour la PWA.
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('/service-worker.js');
+        }
+    </script>
+</body>
+</html>

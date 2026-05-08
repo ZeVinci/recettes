@@ -1,0 +1,79 @@
+/* Style minimal mais lisible, optimisé mobile. */
+* { box-sizing: border-box; }
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    line-height: 1.6;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 1rem;
+    color: #2a2a2a;
+    background: #fdfaf6;
+}
+
+header {
+    border-bottom: 2px solid #8b4513;
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.75rem;
+}
+
+h1 { color: #8b4513; margin: 0 0 0.5rem 0; }
+
+#recherche {
+    width: 100%;
+    padding: 0.6rem;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+}
+
+#liste-recettes {
+    list-style: none;
+    padding: 0;
+}
+
+#liste-recettes li {
+    border-bottom: 1px solid #eee;
+}
+
+#liste-recettes a {
+    display: block;
+    padding: 0.9rem 0.4rem;
+    color: #2a2a2a;
+    text-decoration: none;
+    font-size: 1.05rem;
+}
+
+#liste-recettes a:active { background: #f0e6d6; }
+
+.compteur {
+    text-align: center;
+    color: #888;
+    font-size: 0.9rem;
+    margin-top: 1.5rem;
+}
+
+.header-recette { border: none; }
+
+.bouton-retour {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background: #8b4513;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-size: 1rem;
+}
+
+.recette h1 { color: #8b4513; }
+.recette h2 {
+    color: #8b4513;
+    border-bottom: 1px solid #d4b896;
+    padding-bottom: 0.3rem;
+    margin-top: 2rem;
+}
+.recette h3 { color: #6b3410; margin-top: 1.2rem; }
+.recette ul, .recette ol { padding-left: 1.5rem; }
+.recette li { margin-bottom: 0.4rem; }
+.recette em { color: #6b3410; }
+.recette hr { border: none; border-top: 1px dashed #d4b896; margin: 2rem 0; }
