@@ -85,9 +85,20 @@ TMPL_RECETTE = """<!DOCTYPE html>
 def build():
     # 1. Table rase du dossier docs/ (pour ne pas garder d'anciennes recettes)
     if DOCS.exists():
-        shutil.rmtree(DOCS)
-    DOCS.mkdir()
-    (DOCS / "recettes").mkdir()
+        import time
+        for tentative in range(5):
+            try:
+                shutil.rmtree(DOCS)
+                break
+            except PermissionError:
+                time.sleep(0.5)
+        else:
+            # Si ça échoue encore, on vide le contenu sans supprimer le dossier
+            for f in DOCS.rglob("*"):
+                if f.is_file():
+                    f.unlink(missing_ok=True)
+    DOCS.mkdir(exist_ok=True)
+    (DOCS / "recettes").mkdir(exist_ok=True)
 
     # 2. Copie des fichiers statiques
     for f in STATIC_SRC.iterdir():
