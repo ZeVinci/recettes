@@ -8,20 +8,39 @@
     <link rel="manifest" href="manifest.json">
     <meta name="theme-color" content="#8b4513">
     <style>
-        .filters { margin-bottom: 8px; }
         .filter-label { font-size: 11px; color: #888; margin-bottom: 4px; letter-spacing: 0.04em; }
         .filter-row { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 8px; }
-        .chip {
-            display: inline-flex; align-items: center; gap: 4px;
-            padding: 4px 10px; border-radius: 99px; font-size: 12px;
-            border: 0.5px solid #ccc; background: #f5f5f5;
-            color: #555; cursor: pointer; user-select: none;
-        }
+
+        .chip { display: inline-flex; align-items: center; gap: 4px; padding: 4px 10px;
+                border-radius: 99px; font-size: 12px; border: 0.5px solid #ccc;
+                background: #f5f5f5; color: #555; cursor: pointer; user-select: none; }
         .chip .dot { width: 6px; height: 6px; border-radius: 50%; flex-shrink: 0; }
         .dot-origine { background: #7F77DD; }
         .dot-type    { background: #1D9E75; }
         .chip.active-origine { background: #EEEDFE; border-color: #7F77DD; color: #3C3489; }
         .chip.active-type    { background: #E1F5EE; border-color: #1D9E75; color: #085041; }
+
+        .ing-section { margin-top: 8px; }
+        .ing-wrap { position: relative; }
+        .ing-wrap input { width: 100%; padding: 8px 10px; font-size: 14px;
+                          border-radius: 6px; border: 1px solid #ccc;
+                          background: #f9f9f9; box-sizing: border-box; }
+        .suggestions { position: absolute; left: 0; right: 0; top: calc(100% + 2px);
+                       background: white; border: 1px solid #ccc; border-radius: 6px;
+                       z-index: 100; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
+        .suggestion { padding: 9px 12px; font-size: 13px; color: #222; cursor: pointer;
+                      border-bottom: 0.5px solid #eee; }
+        .suggestion:last-child { border-bottom: none; }
+        .suggestion:hover, .suggestion.focused { background: #f5f5f5; }
+        .suggestion mark { background: none; color: #BA7517; font-weight: 500; }
+
+        .ing-tags { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 8px; }
+        .ing-tag { display: inline-flex; align-items: center; gap: 5px;
+                   padding: 3px 8px 3px 10px; border-radius: 99px; font-size: 12px;
+                   background: #FAEEDA; color: #633806; border: 0.5px solid #EF9F27; }
+        .ing-tag button { background: none; border: none; cursor: pointer;
+                          color: #BA7517; font-size: 15px; line-height: 1;
+                          padding: 0; display: flex; align-items: center; }
 
         .item-tags { display: flex; gap: 4px; flex-wrap: wrap; margin-top: 4px; }
         .tag { font-size: 11px; padding: 2px 7px; border-radius: 99px; }
@@ -29,13 +48,15 @@
         .tag-type    { background: #E1F5EE; color: #085041; }
 
         .compteur { text-align: center; color: #888; font-size: 0.9rem; margin-top: 1.5rem; }
+        .vide { text-align: center; padding: 2rem 1rem; color: #aaa; font-size: 14px; }
     </style>
 </head>
 <body>
     <header>
         <h1>Mes recettes</h1>
         <input type="text" id="recherche" placeholder="Rechercher…" autocomplete="off">
-        <div class="filters" style="margin-top: 10px;">
+
+        <div style="margin-top: 10px;">
             <div class="filter-label">Origine</div>
             <div class="filter-row" id="filtres-origine">
                 
@@ -80,12 +101,23 @@
                 </div>
                 
             </div>
+
+            <div class="ing-section">
+                <div class="filter-label">Ingrédients dans mon frigo</div>
+                <div class="ing-wrap">
+                    <input type="text" id="ing-input"
+                           placeholder="Ex : aubergine, citron…" autocomplete="off">
+                    <div class="suggestions" id="suggestions"></div>
+                </div>
+                <div class="ing-tags" id="ing-tags"></div>
+            </div>
         </div>
     </header>
 
     <ul id="liste-recettes">
         
-        <li data-tags="Ottolenghi,Végé,Dessert">
+        <li data-tags="Ottolenghi,Végé,Dessert"
+            data-ingredients="pistaches|||biscuits amaretti croquants|||sucre en poudre|||mascarpone|||crème double|||zeste de citron vert bio|||sauternes|||citron vert bio : 3 lanières fines de zeste ; 1 cuil. à soupe de jus|||eau|||de cuil. à café de pâte de vanille|||abricots moyens|||eau de fleur d'oranger">
             <a href="recettes/0.html">
                 Abricots pochés et mascarpone aux pistaches et biscuits amaretti
                 <div class="item-tags">
@@ -106,7 +138,8 @@
             </a>
         </li>
         
-        <li data-tags="Japonais,Végé">
+        <li data-tags="Japonais,Végé"
+            data-ingredients="aubergines|||daïkon râpé|||piment d'espelette|||bouillon dashi au shiitaké|||mirin|||sauce soja|||sucre semoule|||huile pour la friture">
             <a href="recettes/1.html">
                 Aubergines frites mijotées
                 <div class="item-tags">
@@ -123,7 +156,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé">
+        <li data-tags="Ottolenghi,Végé"
+            data-ingredients="aubergines longues|||feuilles de thym citron|||grenade|||zaatar|||huile d'olive|||sel de maldon|||lait fermenté|||yaourt à la grecque|||gousse d'ail écrasée|||sel">
             <a href="recettes/2.html">
                 Aubergines grillées, sauce au lait fermenté
                 <div class="item-tags">
@@ -140,7 +174,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé">
+        <li data-tags="Ottolenghi,Végé"
+            data-ingredients="aubergines|||huile d'olive pour badigeonner|||portion de sauce verte au tahini|||sel de mer en flocons et poivre noir|||piment rouge doux épépiné et émincé|||coriandre ciselée|||origan ciselé|||ail écrasée|||jus de citron|||huile d'olive">
             <a href="recettes/3.html">
                 Aubergines marinées au tahini et à l'origan
                 <div class="item-tags">
@@ -157,7 +192,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Poisson">
+        <li data-tags="Ottolenghi,Poisson"
+            data-ingredients="aubergines|||huile d'olive|||filets d'anchois à l'huile|||vinaigre de vin blanc|||gousse d'ail|||origan|||feuilles de persil|||sel et poivre noir">
             <a href="recettes/4.html">
                 Aubergines rôties aux anchois et à l'origan
                 <div class="item-tags">
@@ -174,7 +210,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé">
+        <li data-tags="Ottolenghi,Végé"
+            data-ingredients="aubergines|||huile d'arachide|||yaourt à la grecque|||de cuil. à café de curcuma en poudre|||citron vert : 1 cuil. à café de zeste et 2 cuil. à café de jus|||curry en poudre|||oignon|||amandes effilées|||graines de cumin|||graines de coriandre|||arilles de grenade|||sel et poivre noir">
             <a href="recettes/5.html">
                 Aubergines rôties, sauce yaourt et curry
                 <div class="item-tags">
@@ -191,7 +228,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé,Dessert">
+        <li data-tags="Ottolenghi,Végé,Dessert"
+            data-ingredients="crème double|||lait|||cassonade|||les graines grattées de 1 gousse de vanille|||jaunes d'œufs + 2 blancs pour la meringue|||sel|||blancs d'œufs|||sucre en poudre|||noisettes blanchies|||maïzena®|||vinaigre de cidre|||noix de coco déshydratée|||expressos chauds">
             <a href="recettes/6.html">
                 Baked custard servie en affogato
                 <div class="item-tags">
@@ -212,7 +250,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé">
+        <li data-tags="Ottolenghi,Végé"
+            data-ingredients="beaux poireaux nettoyés|||échalotes finement hachées|||piment rouge frais épépiné et coupé en tranches|||persil finement haché|||de cuil. à café de coriandre moulue|||cumin moulu|||de cuil. à café de curcuma moulu|||de cuil. à café de cannelle moulue|||sucre en poudre|||blanc d'œuf fermier|||farine à levure incorporée|||levure en poudre|||œuf fermier|||lait|||beurre doux fondu|||huile d'olive|||sel|||yaourt à la grecque|||crème aigre|||ail écrasées|||jus de citron|||feuilles de persil hachées|||feuilles de coriandre hachées">
             <a href="recettes/7.html">
                 Beignets de poireaux
                 <div class="item-tags">
@@ -229,7 +268,8 @@
             </a>
         </li>
         
-        <li data-tags="Gagnaire,Végé,Dessert">
+        <li data-tags="Gagnaire,Végé,Dessert"
+            data-ingredients="œufs + 3 jaunes|||sucre|||farine|||beurre fondu avec les grains d'une gousse de vanille|||jaunes d'œufs|||lait|||vanille fendue en deux|||fraises équeutées et lavées|||le jus de ½ citron">
             <a href="recettes/8.html">
                 Biscuit roulé à la vanille, jus de fraise
                 <div class="item-tags">
@@ -250,7 +290,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Viande">
+        <li data-tags="Ottolenghi,Viande"
+            data-ingredients="viande d'agneau hachée|||feta|||thym|||ail|||persil|||la mie de 1 à 2 tranches de pain blanc|||cannelle|||huile d'olive|||mélasse de grenade|||sel et poivre noir">
             <a href="recettes/9.html">
                 Boulettes d'agneau à la feta
                 <div class="item-tags">
@@ -267,7 +308,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Viande">
+        <li data-tags="Ottolenghi,Viande"
+            data-ingredients="bœuf haché|||mie de pain|||oignon|||persil|||œuf de gros calibre|||de cuil. à café de quatre-épices en poudre|||huile d'olive|||céleri-rave|||ail|||curcuma en poudre|||paprika fumé doux|||bouillon de volaille|||sel et poivre noir">
             <a href="recettes/10.html">
                 Boulettes de bœuf au citron et au céleri
                 <div class="item-tags">
@@ -284,7 +326,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Viande">
+        <li data-tags="Ottolenghi,Viande"
+            data-ingredients="pâtes sèches|||beurre doux|||graines de pavot|||pain rassis|||lait|||c. à s. d'huile d'olive|||oignon|||ail|||bœuf ou de porc haché|||moutarde de dijon|||œuf|||aneth|||zeste de citron râpé|||huile d'olive|||sel et poivre noir|||échalotes bananes|||champignons bruns|||c. à s. de cognac|||paprika fumé fort|||c. à s. de concentré de tomates|||c. à s. de moutarde de dijon|||c. à s. de sauce worcestershire|||bouillon de bœuf|||crème aigre|||cornichons à l'aneth">
             <a href="recettes/11.html">
                 Boulettes de viande Stroganoff et tagliatelles
                 <div class="item-tags">
@@ -301,7 +344,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé,Dessert">
+        <li data-tags="Ottolenghi,Végé,Dessert"
+            data-ingredients="beurre doux|||farine de ménage|||sel|||chocolat noir cassé en morceaux|||œufs fermiers|||sucre en poudre|||extrait de vanille|||confiture d'abricots ou de framboises">
             <a href="recettes/12.html">
                 Brownies au caramel
                 <div class="item-tags">
@@ -322,7 +366,8 @@
             </a>
         </li>
         
-        <li data-tags="Gagnaire,Végé,Dessert">
+        <li data-tags="Gagnaire,Végé,Dessert"
+            data-ingredients="poires comice épluchées et taillées en gros dés|||sucre semoule|||le zeste de 1 citron|||beurre|||lait de coco|||gélatine trempée dans l'eau froide|||purée de coco|||gouttes d'essence d'amande amère|||sucre muscovado|||blanc d'œuf|||beurre fondu|||farine">
             <a href="recettes/13.html">
                 Brunoise de poires caramélisées, bavaroises au coco, tuiles au muscovado
                 <div class="item-tags">
@@ -343,7 +388,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé">
+        <li data-tags="Ottolenghi,Végé"
+            data-ingredients="pâtes bucatini sèches|||beurre doux|||zaatar + 1 ½ cuil. à café pour servir|||poivre noir|||parmesan|||pecorino romano|||huile d'olive|||feuilles de marjolaine fraîche|||sel">
             <a href="recettes/14.html">
                 Cacio e pepe au zaatar
                 <div class="item-tags">
@@ -360,7 +406,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé,Dessert">
+        <li data-tags="Ottolenghi,Végé,Dessert"
+            data-ingredients="beurre doux|||sucre semoule|||citrons : 2 cuil. à café de zeste et 2 cuil. à soupe de jus|||extrait de vanille|||œufs de gros calibre|||farine à poudre à lever incorporée|||bonne pincée de sel|||poudre d'amande|||myrtilles|||sucre glace">
             <a href="recettes/15.html">
                 Cake aux myrtilles, citron et amandes
                 <div class="item-tags">
@@ -381,7 +428,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé">
+        <li data-tags="Ottolenghi,Végé"
+            data-ingredients="graines de cumin|||miel|||harissa à la rose|||beurre doux|||huile d'olive|||longues carottes nouvelles|||feuilles de coriandre|||arilles de grenade|||jus de citron|||sel">
             <a href="recettes/16.html">
                 Carottes nouvelles rôties, harissa et grenade
                 <div class="item-tags">
@@ -398,7 +446,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Viande">
+        <li data-tags="Ottolenghi,Viande"
+            data-ingredients="carré d'agneau paré|||persil plat|||menthe|||ail pelées|||gingembre frais épluché et coupé en tranches fines|||piments épépinés|||jus de citron|||sauce soja|||huile de tournesol|||miel|||vinaigre de vin rouge">
             <a href="recettes/17.html">
                 Carré d'agneau mariné à la coriandre et au miel
                 <div class="item-tags">
@@ -415,7 +464,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé">
+        <li data-tags="Ottolenghi,Végé"
+            data-ingredients="céleri-rave|||huile d'olive|||sel de maldon®">
             <a href="recettes/18.html">
                 Céleri-rave entier rôti de trois façons
                 <div class="item-tags">
@@ -432,7 +482,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé">
+        <li data-tags="Ottolenghi,Végé"
+            data-ingredients="céleri-rave|||huile d'olive|||citron|||fleur de sel">
             <a href="recettes/19.html">
                 Céleri-rave rôti entier et ses graines de coriandre
                 <div class="item-tags">
@@ -449,7 +500,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé">
+        <li data-tags="Ottolenghi,Végé"
+            data-ingredients="huile d'olive|||citrons : 6 fines lanières de zeste + 5 cl de jus|||ail|||c. à s. de graines de cumin|||gros|||poivrons rouges grillés|||noisettes blanchies : 50 g grillées + 10 g hachées grossièrement|||mélasse de grenade|||flocons de piment d'alep|||c. à s. de vinaigre de vin rouge|||gorgonzola|||crème fraîche|||ciboulette|||feuilles de persil|||sel et poivre noir">
             <a href="recettes/20.html">
                 Céleri-rave rôti et crème au gorgonzola
                 <div class="item-tags">
@@ -466,7 +518,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé">
+        <li data-tags="Ottolenghi,Végé"
+            data-ingredients="beaux champignons de paris sans les pieds|||oignon coupé en petits dés|||branche de céleri coupée en petits dés|||tomates séchées hachées fin|||ail écrasées|||parmesan râpé|||feuilles d'estragon hachées|||feuilles de basilic grossièrement hachées|||taleggio en tranches|||huile d'olive|||sel et poivre noir">
             <a href="recettes/21.html">
                 Champignons farcis au taleggio
                 <div class="item-tags">
@@ -483,7 +536,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé,Dessert">
+        <li data-tags="Ottolenghi,Végé,Dessert"
+            data-ingredients="feta|||fromage frais type philadelphia|||sucre semoule|||citron : 1 cuil. à café de zeste|||crème entière liquide|||huile d'olive|||noisettes émondées|||beurre doux bien froid|||poudre d'amande|||graines de sésame noir|||bonne pincée de sel|||cerises surgelées dénoyautées|||étoiles de badiane|||orange : 4 longs morceaux d'écorce">
             <a href="recettes/22.html">
                 Cheesecake sucré-salé à la cerise
                 <div class="item-tags">
@@ -504,7 +558,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé">
+        <li data-tags="Ottolenghi,Végé"
+            data-ingredients="huile d'olive|||citrons : 2 cuil. à soupe de zeste et 2 cuil. à soupe de jus|||ail|||choux pointus|||feuilles d'estragon|||pecorino|||sel et poivre noir">
             <a href="recettes/23.html">
                 Chou rôti à l'estragon et au pecorino
                 <div class="item-tags">
@@ -521,7 +576,8 @@
             </a>
         </li>
         
-        <li data-tags="Japonais,Végé">
+        <li data-tags="Japonais,Végé"
+            data-ingredients="chou rouge entre 500 et 800 g coupé en 4 morceaux dans sa hauteur|||dashi|||oignon épluché coupé en 2|||miso rouge|||gingembre fraîchement râpé|||miso doux|||purée de sésame complet|||tamari|||c. à s. de mirin|||c. à s. de vinaigre de riz|||en fonction de la saison|||du persil">
             <a href="recettes/24.html">
                 Chou rouge rôti au miso
                 <div class="item-tags">
@@ -538,7 +594,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Viande">
+        <li data-tags="Ottolenghi,Viande"
+            data-ingredients="choux-fleurs entiers|||oignons|||piments rouges entiers|||citron|||sel|||beurre doux|||huile d'olive|||flocons de poivron rouge|||concentré de tomates|||piment d'urfa|||harissa à la rose|||de cuil. à café de flocons de piment d'alep|||ail|||sucre en poudre">
             <a href="recettes/25.html">
                 Chou-fleur rôti au beurre pimenté
                 <div class="item-tags">
@@ -555,7 +612,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé">
+        <li data-tags="Ottolenghi,Végé"
+            data-ingredients="chou-fleur|||beurre pommade|||huile d'olive|||citron|||fleur de sel|||tahin|||persil|||gousse d'ail|||jus de citron">
             <a href="recettes/26.html">
                 Chou-fleur rôti entier
                 <div class="item-tags">
@@ -572,7 +630,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé,Dessert">
+        <li data-tags="Ottolenghi,Végé,Dessert"
+            data-ingredients="rhubarbe|||fraises|||sucre semoule|||jaunes d'œufs|||maïzena|||extrait de vanille|||crème entière liquide">
             <a href="recettes/27.html">
                 Crème aux œufs fraise-rhubarbe
                 <div class="item-tags">
@@ -593,7 +652,8 @@
             </a>
         </li>
         
-        <li data-tags="Breton,Végé">
+        <li data-tags="Breton,Végé"
+            data-ingredients="farine de froment|||œufs|||beurre + un peu de beurre pour la cuisson|||sucre + un peu de sucre pour saupoudrer chaque crêpe après leur cuisson|||lait">
             <a href="recettes/28.html">
                 Crêpes de froment
                 <div class="item-tags">
@@ -610,7 +670,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé">
+        <li data-tags="Ottolenghi,Végé"
+            data-ingredients="aubergines moyennes|||pommes de terre à chair farineuse|||œuf fermier battu|||feta émiettée|||parmesan râpé|||sel|||g environ de chapelure blanche|||huile de tournesol pour la friture|||poivre noir|||jaune d'œuf fermier|||gousse d'ail écrasée|||jus de citron|||de cuil. à café de sel|||huile de colza|||huile d'olive|||estragon haché">
             <a href="recettes/29.html">
                 Croquettes d'aubergines
                 <div class="item-tags">
@@ -627,7 +688,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé">
+        <li data-tags="Ottolenghi,Végé"
+            data-ingredients="pignons de pin|||ail pelée|||pain au levain de 1|||poires semi-mûres avec la peau|||sucre en poudre|||jus de citron|||fromage de chèvre|||quelques pluches de cerfeuil|||huile d'olive|||sel et poivre noir">
             <a href="recettes/30.html">
                 Crostinis aux poires
                 <div class="item-tags">
@@ -644,7 +706,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé">
+        <li data-tags="Ottolenghi,Végé"
+            data-ingredients="huile d'olive|||à 4 piments rouges doux|||ail|||gingembre|||tiges de coriandre|||tomates cœur de bœuf|||fleur de sel et poivre noir">
             <a href="recettes/31.html">
                 Cœurs de bœuf grillées, piment, ail et gingembre
                 <div class="item-tags">
@@ -661,7 +724,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Viande">
+        <li data-tags="Ottolenghi,Viande"
+            data-ingredients="farine ordinaire|||parmesan|||c. à s. de feuilles de thym|||moutarde anglaise en poudre|||œufs|||lait|||bacon|||cheddar|||sel et poivre noir|||tomates cerises|||branches de thym|||gousse d'ail|||c. à s. d'huile d'olive|||c. à s. de vinaigre balsamique|||c. à s. de cassonade|||⅛ de c. à c. de flocons de piment|||feuilles de basilic">
             <a href="recettes/32.html">
                 Dutch baby aux tomates rôties
                 <div class="item-tags">
@@ -678,7 +742,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé">
+        <li data-tags="Ottolenghi,Végé"
+            data-ingredients="roquefort|||crème fraîche|||pignons de pin grossièrement hachés|||noix grossièrement hachées|||beurre|||endives|||quelques feuilles de radicchio|||sel et poivre blanc">
             <a href="recettes/33.html">
                 Endives aux noix et au roquefort
                 <div class="item-tags">
@@ -695,7 +760,8 @@
             </a>
         </li>
         
-        <li data-tags="Breton,Végé,Dessert">
+        <li data-tags="Breton,Végé,Dessert"
+            data-ingredients="pruneaux|||farine|||sucre|||œufs|||lait cru entier|||beurre demi-sel|||sel|||bouchon de rhum">
             <a href="recettes/34.html">
                 Far breton aux pruneaux
                 <div class="item-tags">
@@ -716,7 +782,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Viande">
+        <li data-tags="Ottolenghi,Viande"
+            data-ingredients="faux-filets|||harissa à la rose|||poivrons rouges ou jaunes|||huile d'olive|||ail|||g de pulpe de tomate en dés|||piment en flocons|||de cuil. à café de paprika|||citron confit|||persil|||citron|||fleur de sel et poivre noir">
             <a href="recettes/35.html">
                 Faux-filet épicé, sauce poivron-citron
                 <div class="item-tags">
@@ -733,7 +800,8 @@
             </a>
         </li>
         
-        <li data-tags="Gagnaire,Poisson">
+        <li data-tags="Gagnaire,Poisson"
+            data-ingredients="merlans levés et désarêtés par le poissonnier|||œufs battus|||c. à s. d'huile de tournesol|||farine|||chapelure blonde|||huile d'olive|||sel fin|||jus de citron frais filtré|||eau|||sucre|||agar-agar|||gélatine trempées dans l'eau froide|||le zeste de ¼ de citron jaune non traité|||pommes de terre épluchées|||beurre|||lait|||crème liquide|||c. à s. de persil plat ciselé|||roquette hachée grossièrement au couteau">
             <a href="recettes/36.html">
                 Filets de merlan, gel de citron, purée de pommes de terre roquette-persil
                 <div class="item-tags">
@@ -750,7 +818,8 @@
             </a>
         </li>
         
-        <li data-tags="Breton,Végé">
+        <li data-tags="Breton,Végé"
+            data-ingredients="beurre demi-sel|||farine|||eau|||pommes|||sucre">
             <a href="recettes/37.html">
                 Fine tarte aux pommes et au beurre salé
                 <div class="item-tags">
@@ -767,7 +836,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé">
+        <li data-tags="Ottolenghi,Végé"
+            data-ingredients="patates douces de très gros calibre|||paprika fumé doux|||piment de cayenne|||ail|||polenta|||huile d'olive|||sumac|||fleur de sel">
             <a href="recettes/38.html">
                 Frites de patate douce épicées
                 <div class="item-tags">
@@ -784,7 +854,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé">
+        <li data-tags="Ottolenghi,Végé"
+            data-ingredients="ciabatta|||lait entier|||crème entière liquide|||gousses d'ail|||œufs de gros calibre|||de cuil. à café de cumin en poudre|||parmesan|||courgettes|||feuilles de basilic|||huile d'olive|||sel et poivre noir">
             <a href="recettes/39.html">
                 Frittata moelleuse aux courgettes
                 <div class="item-tags">
@@ -801,7 +872,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé">
+        <li data-tags="Ottolenghi,Végé"
+            data-ingredients="patates douces pelées et coupées en gros morceaux|||sauce soja|||farine de type 55|||sel|||sucre en poudre|||oignon vert haché|||piment rouge frais haché|||beaucoup de beurre pour la cuisson|||yaourt à la grecque|||crème aigre|||huile d'olive|||jus de citron|||coriandre hachée|||sel et poivre noir">
             <a href="recettes/40.html">
                 Galettes de patates douces
                 <div class="item-tags">
@@ -818,7 +890,8 @@
             </a>
         </li>
         
-        <li data-tags="Breton,Végé">
+        <li data-tags="Breton,Végé"
+            data-ingredients="œuf|||farine de blé noir|||farine de froment|||sel gris de guérande|||beurre">
             <a href="recettes/41.html">
                 Galettes ou crêpes de blé noir
                 <div class="item-tags">
@@ -835,7 +908,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé,Dessert">
+        <li data-tags="Ottolenghi,Végé,Dessert"
+            data-ingredients="chocolat noir|||beurre doux|||œuf + 3 jaunes|||sucre en poudre|||fleur de sel pour servir|||crème fraîche|||sucre glace|||le zeste de ½ orange|||huile d'olive|||graines de coriandre|||de cuil. à café de grains de poivre noir|||bâtonnet de cannelle|||étoile d'anis|||cardamome|||de cuil. à café de sucre en poudre|||noisettes grillées">
             <a href="recettes/42.html">
                 Ganache au chocolat, noisettes aux épices et huile à l'orange
                 <div class="item-tags">
@@ -856,7 +930,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé,Dessert">
+        <li data-tags="Ottolenghi,Végé,Dessert"
+            data-ingredients="beurre doux|||sucre semoule|||œufs de gros calibre|||extrait de vanille|||farine à poudre à lever incorporée|||de cuil. à café de sel|||crème aigre ou fraîche|||cassonade|||mélange quatre-épices|||pommes bramley ou reine des reinettes|||pomme granny smith">
             <a href="recettes/43.html">
                 Gâteau aux pommes et aux épices
                 <div class="item-tags">
@@ -877,7 +952,8 @@
             </a>
         </li>
         
-        <li data-tags="Gagnaire,Végé,Dessert">
+        <li data-tags="Gagnaire,Végé,Dessert"
+            data-ingredients="café|||gélatine en feuilles trempées dans l'eau froide|||sucre de canne en poudre|||zestes d'orange prélevés à l'économe|||jus d'orange frais filtré|||limoncello|||rhum blanc|||sucre semoule|||poire épluchée et coupée en cubes|||oranges pelées à vif">
             <a href="recettes/44.html">
                 Gelée de café et granité orange, rhum blanc et limoncello
                 <div class="item-tags">
@@ -898,7 +974,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Poisson">
+        <li data-tags="Ottolenghi,Poisson"
+            data-ingredients="lait|||anchois|||ail|||citron : le zeste prélevé et détaillé en fines lanières|||graines de fenouil|||pommes de terre yukon gold|||jaunes d'œuf|||feuilles d'aneth|||ciboulette|||feuilles de persil|||c. à s. de beurre doux|||tranches de saumon fumé|||sel et poivre noir|||c. à s. de jus de citron|||câpres|||beurre doux">
             <a href="recettes/45.html">
                 Gratin de pommes de terre, fenouil et saumon fumé
                 <div class="item-tags">
@@ -915,7 +992,8 @@
             </a>
         </li>
         
-        <li data-tags="Japonais,Viande">
+        <li data-tags="Japonais,Viande"
+            data-ingredients="farine blanche de blé|||farine de riz|||eau|||porc haché|||chou vert|||oignon nouveau émincé|||ail hachée|||gingembre frais râpé|||sauce soja|||huile de sésame grillé + pour la cuisson|||sel et poivre du moulin|||vinaigre de riz">
             <a href="recettes/46.html">
                 Gyoza
                 <div class="item-tags">
@@ -932,7 +1010,8 @@
             </a>
         </li>
         
-        <li data-tags="Japonais,Viande,Poisson">
+        <li data-tags="Japonais,Viande,Poisson"
+            data-ingredients="nouilles yakisoba séchées|||chou vert|||ciboules|||pois mange-tout|||tranches de lard|||œufs|||fécule de pomme de terre|||farine blanche|||bouillon dashi|||huile de tournesol pour la cuisson|||sauce okonomiyaki|||mayonnaise kewpie">
             <a href="recettes/47.html">
                 Hiroshima okonomiyaki
                 <div class="item-tags">
@@ -953,7 +1032,8 @@
             </a>
         </li>
         
-        <li data-tags="Japonais,Viande,Poisson">
+        <li data-tags="Japonais,Viande,Poisson"
+            data-ingredients="nouilles ramen fraîches|||jambon blanc|||crêpes d'œufs taillées en tagliatelles|||tomate|||concombre non traité|||grains de maïs|||nori finement ciselée|||graines de sésame|||moutarde karashi|||bouillon de poule|||gingembre frais râpé|||sauce soja|||vinaigre de riz|||sucre semoule|||purée de piment|||jus de citron|||huile de sésame grillé">
             <a href="recettes/48.html">
                 Hiyashi chuka
                 <div class="item-tags">
@@ -974,7 +1054,8 @@
             </a>
         </li>
         
-        <li data-tags="Japonais,Viande">
+        <li data-tags="Japonais,Viande"
+            data-ingredients="cuisses de poulet désossées|||citron coupé en quartiers|||ail|||assiette de fécule de pomme de terre|||gingembre frais râpé|||saké|||sauce soja|||huile pour la friture|||poivre du moulin">
             <a href="recettes/49.html">
                 Kara age
                 <div class="item-tags">
@@ -991,7 +1072,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Viande">
+        <li data-tags="Ottolenghi,Viande"
+            data-ingredients="lentilles du puy|||laurier|||ou 3 échalotes émincées finement|||huile d'olive|||sucre en poudre|||griottes séchées|||vinaigre de vin rouge|||tranches fines de lard fumé|||pousses d'épinards|||gorgonzola crémeux|||sel et poivre noir">
             <a href="recettes/50.html">
                 Lentilles du Puy aux griottes, au lard fumé et au gorgonzola
                 <div class="item-tags">
@@ -1008,7 +1090,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé">
+        <li data-tags="Ottolenghi,Végé"
+            data-ingredients="pâtes sèches|||c. à s. d'huile d'olive|||beurre doux|||échalote banane|||champignons shiitake frais|||ail|||pâte de miso blanche|||sauce soja légère|||c. à s. de vinaigre noir de chinkiang|||épinards|||sel et poivre noir|||shichimi togarashi|||quartiers de citron jaune ou vert">
             <a href="recettes/51.html">
                 Linguine au beurre miso, shiitake et épinards
                 <div class="item-tags">
@@ -1025,7 +1108,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé,Dessert">
+        <li data-tags="Ottolenghi,Végé,Dessert"
+            data-ingredients="sucre glace|||sucre en poudre|||blancs d'œufs fermiers|||cacahuètes grillées|||dulce de leche|||sel|||amandes en poudre|||basilic ciselées|||le zeste râpé de 1 citron vert|||beurre doux à température ambiante|||le jus et le zeste finement râpé de 1 citron vert|||cacao en poudre|||chocolat noir|||beurre doux|||crème fraîche épaisse|||rhum brun">
             <a href="recettes/52.html">
                 Macarons
                 <div class="item-tags">
@@ -1046,7 +1130,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Viande">
+        <li data-tags="Ottolenghi,Viande"
+            data-ingredients="magrets de canard moyens|||sucre muscovado|||citron vert|||sel de mer|||noisettes|||moutarde de dijon|||sirop de datte|||huile de tournesol|||quinoa rouge|||huile d'olive|||échalote moyenne|||gousse d'ail|||champignons shimeji|||pleurotes|||vinaigre de riz|||mirin|||sauce soja claire|||ciboulette">
             <a href="recettes/53.html">
                 Magret de canard rôti, beurre de noisettes à la bière, quinoa rouge
                 <div class="item-tags">
@@ -1063,7 +1148,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé,Dessert">
+        <li data-tags="Ottolenghi,Végé,Dessert"
+            data-ingredients="beurre doux coupé en petits dés|||chocolat noir|||sucre muscovado|||eau|||œufs fermiers|||sel|||cacao en poudre pour saupoudrer">
             <a href="recettes/54.html">
                 Moelleux au chocolat
                 <div class="item-tags">
@@ -1084,7 +1170,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé,Dessert">
+        <li data-tags="Ottolenghi,Végé,Dessert"
+            data-ingredients="chocolat noir|||œufs|||sucre en poudre|||crème liquide|||crème aigre|||noisettes blanchies|||flocons de sel de mer|||à 3 grosses oranges : 12">
             <a href="recettes/55.html">
                 Mousse au chocolat et caramel à l'orange
                 <div class="item-tags">
@@ -1105,7 +1192,8 @@
             </a>
         </li>
         
-        <li data-tags="Japonais,Viande,Poisson">
+        <li data-tags="Japonais,Viande,Poisson"
+            data-ingredients="nouilles udon fraîches|||magret de canard|||épinards|||champignons shiitaké frais|||champignons énoki|||sauce soja|||mirin|||poivre sansho">
             <a href="recettes/56.html">
                 Nabé udon au canard
                 <div class="item-tags">
@@ -1126,7 +1214,8 @@
             </a>
         </li>
         
-        <li data-tags="Japonais,Viande">
+        <li data-tags="Japonais,Viande"
+            data-ingredients="riz cuit chaud|||porc haché|||poireau|||concombre|||ail|||gingembre frais râpé|||coriandre ciselée|||fécule de maïs|||graines de sésame|||cuillerées à soupe rases de miso|||sauce soja|||sucre semoule|||huile de sésame grillé|||huile de tournesol">
             <a href="recettes/57.html">
                 Niku-miso domburi
                 <div class="item-tags">
@@ -1143,7 +1232,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Viande">
+        <li data-tags="Ottolenghi,Viande"
+            data-ingredients="ail|||thym|||citrons : 1 cuil. à soupe de zeste et 150 ml de jus|||huile d'olive|||filet d'agneau|||amandes|||miel|||eau de fleur d'oranger|||poivrons rouges|||feuilles de menthe|||sel et poivre noir">
             <a href="recettes/58.html">
                 Noisettes d'agneau aux amandes et à la fleur d'oranger
                 <div class="item-tags">
@@ -1160,7 +1250,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé">
+        <li data-tags="Ottolenghi,Végé"
+            data-ingredients="vinaigre de riz|||sucre en poudre|||sel|||ail écrasées|||piment rouge frais émincé|||huile de sésame grillé|||citron vert pour le zeste|||aubergines coupées en tranches de 2 cm d'épaisseur|||nouilles soba|||mangue mûre coupée en dés de 1 cm de côté ou en lanières de 5 mm d'épaisseur|||feuilles de basilic hachées|||feuilles de coriandre ciselées|||oignon rouge émincé très finement|||huile de tournesol">
             <a href="recettes/59.html">
                 Nouilles soba aux aubergines et à la mangue
                 <div class="item-tags">
@@ -1177,7 +1268,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé">
+        <li data-tags="Ottolenghi,Végé"
+            data-ingredients="oignons de taille normale|||beurre doux|||miso blanc">
             <a href="recettes/60.html">
                 Oignons au beurre de miso
                 <div class="item-tags">
@@ -1194,7 +1286,8 @@
             </a>
         </li>
         
-        <li data-tags="Japonais,Viande,Poisson">
+        <li data-tags="Japonais,Viande,Poisson"
+            data-ingredients="tranches de lard|||chou vert|||œuf|||ciboule|||lamelles de gingembre vinaigré|||farine blanche|||fécule de pomme de terre|||bouillon dashi|||huile de tournesol pour la cuisson|||sauce okonomiyaki|||poignée de flocons de bonite séchée|||paillettes d'algues ao nori">
             <a href="recettes/61.html">
                 Okonomiyaki au lard
                 <div class="item-tags">
@@ -1215,7 +1308,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé">
+        <li data-tags="Ottolenghi,Végé"
+            data-ingredients="feuilles de sauge|||oignons|||pâtes sèches|||eau|||c. à s. de jus de citron|||noisettes|||sel et poivre noir">
             <a href="recettes/62.html">
                 Orecchiette aux oignons caramélisés, noisettes grillées et feuilles de sauge frites
                 <div class="item-tags">
@@ -1232,7 +1326,8 @@
             </a>
         </li>
         
-        <li data-tags="Japonais,Viande">
+        <li data-tags="Japonais,Viande"
+            data-ingredients="cuisse de poulet|||riz blanc cuit|||œufs|||ciboules|||nori coupée en fines lamelles|||bouillon dashi|||mirin|||sauce soja">
             <a href="recettes/63.html">
                 Oyako-don
                 <div class="item-tags">
@@ -1249,7 +1344,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé">
+        <li data-tags="Ottolenghi,Végé"
+            data-ingredients="yaourt à la grecque|||le zeste finement râpé de ½ orange|||jus d'orange|||sucre glace|||fruits rouges surgelés|||sucre en poudre|||jus de citron|||étoiles d'anis entières|||œufs|||lait entier|||pain brioché|||beurre doux bien froid">
             <a href="recettes/64.html">
                 Pain perdu et yaourt à l'orange
                 <div class="item-tags">
@@ -1266,7 +1362,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé">
+        <li data-tags="Ottolenghi,Végé"
+            data-ingredients="épinards rincés|||farine à levure incorporée|||levure|||œuf fermier|||beurre doux fondu|||sel|||cumin moulu|||lait|||oignons verts émincés|||piments verts frais émincés|||blanc d'œuf fermier|||huile d'olive pour la cuisson des pancakes|||beurre doux ramolli|||citron pour le zeste|||jus de citron vert|||de cuil. à café de sel|||poivre blanc|||coriandre hachée|||ail finement hachée|||de cuil. à café de flocons de piment">
             <a href="recettes/65.html">
                 Pancakes verts au beurre de citron vert
                 <div class="item-tags">
@@ -1283,7 +1380,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé">
+        <li data-tags="Ottolenghi,Végé"
+            data-ingredients="huile d'olive|||sirop d'érable|||cardamome moulue|||cumin moulu|||sel et poivre noir|||ail|||piments verts|||échalotes|||tomates en conserve|||concentré de tomates|||sucre semoule|||citrons verts bio : 1 cuil. à café de zeste finement râpé|||aneth">
             <a href="recettes/66.html">
                 Patates douces à la sauce tomate, citron vert et cardamome
                 <div class="item-tags">
@@ -1300,7 +1398,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé">
+        <li data-tags="Ottolenghi,Végé"
+            data-ingredients="feuilles de basilic|||pignons de pin|||ail|||huile d'olive|||parmesan|||citron : le zeste finement râpé + 1 c. à s. de jus du fruit|||pâtes sèches|||pommes de terre nouvelles|||haricots verts fins|||sel et poivre noir">
             <a href="recettes/67.html">
                 Pâtes au pesto, haricots grillés et pommes de terre
                 <div class="item-tags">
@@ -1317,7 +1416,8 @@
             </a>
         </li>
         
-        <li data-tags="Breton,Viande">
+        <li data-tags="Breton,Viande"
+            data-ingredients="x 400 g de faux-filet paré|||beurre|||sel|||pommes de terre|||farine de blé noir|||eau|||beurre mou|||crème fraîche|||un peu de lait si la purée est trop épaisse">
             <a href="recettes/68.html">
                 Pièce de bœuf rôtie au sarrasin
                 <div class="item-tags">
@@ -1334,7 +1434,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé">
+        <li data-tags="Ottolenghi,Végé"
+            data-ingredients="poireaux moyens|||huile de tournesol|||fécule de maïs|||ail|||huile d'olive|||sel et sel de maldon®|||gingembre frais|||graines de sésame noir et blanc|||ciboulette|||miso blanc|||mirin|||de cuil. à soupe de vinaigre de riz">
             <a href="recettes/69.html">
                 Poireaux et salsa au miso et à la ciboulette
                 <div class="item-tags">
@@ -1351,7 +1452,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé">
+        <li data-tags="Ottolenghi,Végé"
+            data-ingredients="huile d'olive|||champignons variés|||ail écrasées|||estragon ciselé|||thym haché|||huile à la truffe|||bouillon de légumes|||polenta|||parmesan râpé|||beurre|||romarin haché|||cerfeuil haché|||taleggio|||sel et poivre noir">
             <a href="recettes/70.html">
                 Polenta aux champignons et aux herbes
                 <div class="item-tags">
@@ -1368,7 +1470,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Viande">
+        <li data-tags="Ottolenghi,Viande"
+            data-ingredients="viande de cuisses de poulet bio ou fermier|||poivron rouge|||de cuil. à café de graines de coriandre|||de cuil. à café de graines de cumin|||de cuil. à café de graines de carvi|||huile d'olive|||oignon rouge émincé grossièrement|||ail émincées grossièrement|||piments rouges frais|||piment rouge séché|||concentré de tomates|||jus de citron|||yaourt grec|||jus de pamplemousse rose|||sirop d'érable|||cannelle en poudre|||étoile de badiane|||pamplemousses roses|||roquette sauvage poivrée|||sel de mer en flocons et poivre noir">
             <a href="recettes/71.html">
                 Poulet mariné à la harissa et salade de pamplemousses roses
                 <div class="item-tags">
@@ -1385,7 +1488,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé">
+        <li data-tags="Ottolenghi,Végé"
+            data-ingredients="pommes de terre désirée|||ail|||branches de thym|||menthe|||citron : 5 longs morceaux d'écorce|||huile d'olive|||sel et poivre noir|||feuilles de thym|||feuilles de menthe|||citron : 1 cuil. à soupe de zeste et 1 cuil. à soupe de jus">
             <a href="recettes/72.html">
                 Purée à l'huile d'olive aromatisée
                 <div class="item-tags">
@@ -1402,7 +1506,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé">
+        <li data-tags="Ottolenghi,Végé"
+            data-ingredients="poivrons rouges|||ail|||thym|||de cuil. à café de paprika fumé doux|||de cuil. à café de piment en flocons|||vinaigre balsamique|||sel|||cerneaux de noix|||g de haricots blancs|||huile d'olive|||ail en chemise|||branches de thym">
             <a href="recettes/73.html">
                 Purée de haricots blancs au muhammara
                 <div class="item-tags">
@@ -1419,7 +1524,8 @@
             </a>
         </li>
         
-        <li data-tags="Réunion,Viande">
+        <li data-tags="Réunion,Viande"
+            data-ingredients="saucisses fumées|||oignons hachés finement|||ail écrasées|||safran péi|||tomates hachées|||gingembre|||huile|||eau si nécessaire|||feuille de thym + épices">
             <a href="recettes/74.html">
                 Rougail Sosis Fumé
                 <div class="item-tags">
@@ -1436,7 +1542,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Viande">
+        <li data-tags="Ottolenghi,Viande"
+            data-ingredients="de c. à c. de poivre blanc|||de c. à c. de poivre noir|||graines de coriandre|||graines de carvi|||de c. à c. de marjolaine séchée|||de c. à c. de gingembre moulu|||macis moulu|||moutarde anglaise en poudre|||bretzels|||lait|||œuf battu|||c. à s. d'huile d'olive|||beurre doux|||oignons|||sucre brun|||chair à saucisse|||ciboulette|||rouleau de pâte feuilletée pur beurre|||farine pour le plan de travail|||sel|||c. à s. de moutarde jaune|||c. à s. de mayonnaise|||c. à s. de miel liquide">
             <a href="recettes/75.html">
                 Roulés à la saucisse et sauce moutarde au miel
                 <div class="item-tags">
@@ -1453,7 +1560,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Viande">
+        <li data-tags="Ottolenghi,Viande"
+            data-ingredients="basilic|||ail|||huile d'olive|||faux-filet|||pains pitas|||endives rouges|||roquette|||jus de citron|||parmesan|||sel et poivre noir">
             <a href="recettes/76.html">
                 Salade au bœuf et au basilic
                 <div class="item-tags">
@@ -1470,7 +1578,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé">
+        <li data-tags="Ottolenghi,Végé"
+            data-ingredients="carottes|||huile d'olive + 1½ c. pour servir|||sirop d'érable|||feuilles de menthe|||aneth|||abricots secs|||amandes grillées salées|||sel et poivre noir|||sumac|||piment d'alep|||gousse d'ail|||huile d'olive">
             <a href="recettes/77.html">
                 Salade de carottes rôties, sauce Chamoy
                 <div class="item-tags">
@@ -1487,7 +1596,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé">
+        <li data-tags="Ottolenghi,Végé"
+            data-ingredients="œufs de caille|||pois écossés|||pommes de terre royale de jersey|||feuilles de persil|||pignons de pin|||parmesan râpé|||ail écrasées|||huile d'olive|||vinaigre de vin blanc|||bouquet d'oseille|||sel et poivre noir">
             <a href="recettes/78.html">
                 Salade de pommes de terre royales
                 <div class="item-tags">
@@ -1504,7 +1614,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé">
+        <li data-tags="Ottolenghi,Végé"
+            data-ingredients="noix de macadamia|||beurre|||sucre en poudre|||sel|||flocons de piment|||feuilles intérieures de chou vert|||chou rouge|||mangue en très fines lamelles|||papaye en très fines lamelles|||piment rouge frais épépiné et émincé|||feuilles de menthe grossièrement ciselées|||feuilles de coriandre grossièrement ciselées|||jus de citron vert|||citronnelle hachée|||sirop d'érable|||huile de sésame grillé|||sauce soja|||de cuil. à café de flocons de piment|||huile d'olive douce ou d'huile de tournesol">
             <a href="recettes/79.html">
                 Salade douce pour l'hiver
                 <div class="item-tags">
@@ -1521,7 +1632,8 @@
             </a>
         </li>
         
-        <li data-tags="Japonais,Végé">
+        <li data-tags="Japonais,Végé"
+            data-ingredients="">
             <a href="recettes/80.html">
                 Sauces japonaises
                 <div class="item-tags">
@@ -1538,7 +1650,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Viande">
+        <li data-tags="Ottolenghi,Viande"
+            data-ingredients="lentilles vertes du puy|||c. à s. d'huile d'olive|||kietbasa|||oignon|||branches de céleri|||poivron vert|||ail|||c. à s. de feuilles de thym|||laurier|||blettes : les côtes blanches coupées en dés de 1 cm ; les feuilles grossièrement déchirées|||c. à s. de concentré de tomates|||cumin moulu|||bouillon de volaille|||persil|||oignons frits prêts à l'emploi|||sel et poivre noir|||crème fraîche|||moutarde de dijon|||moutarde à l'ancienne">
             <a href="recettes/81.html">
                 Saucisses aux lentilles et crème à la moutarde
                 <div class="item-tags">
@@ -1555,7 +1668,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Poisson">
+        <li data-tags="Ottolenghi,Poisson"
+            data-ingredients="saumon bio de 200 g environ chacun|||huile d'olive|||sel et poivre|||poivrons rouges|||noisettes|||ciboulette ciselée|||ail écrasée|||le jus et le zeste râpé de 1 citron|||vinaigre de cidre">
             <a href="recettes/82.html">
                 Saumon bio et salsa de poivrons rouges et de noisettes
                 <div class="item-tags">
@@ -1572,7 +1686,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Poisson">
+        <li data-tags="Ottolenghi,Poisson"
+            data-ingredients="pavés de saumon avec la peau|||sel et poivre noir|||anchois|||c. à s. de concentré de tomates|||flocons de piment|||graines de coriandre|||ail|||citrons confits : retirez la chair et détaillez la peau en julienne très finement|||citron confit : retirez la chair et détaillez la peau en julienne|||tomates cerises de couleurs variées|||oignons verts|||haricots verts fins|||citrons confits : retirez la chair et détaillez la peau en julienne|||olives de kalamata dénoyautées|||câpres|||feuilles de basilic|||feuilles de persil|||c. à s. d'huile d'olive|||jus de citron|||sirop d'érable">
             <a href="recettes/83.html">
                 Saumon rôti alla puttanesca
                 <div class="item-tags">
@@ -1589,7 +1704,8 @@
             </a>
         </li>
         
-        <li data-tags="Japonais,Poisson">
+        <li data-tags="Japonais,Poisson"
+            data-ingredients="pavés de saumon de 150 g chacun environ|||poignée de pois mange-tout|||poignée de pousses de soja|||gingembre frais râpé|||graines de sésame|||sauce teriyaki">
             <a href="recettes/84.html">
                 Saumon teriyaki
                 <div class="item-tags">
@@ -1606,7 +1722,8 @@
             </a>
         </li>
         
-        <li data-tags="Japonais,Viande">
+        <li data-tags="Japonais,Viande"
+            data-ingredients="nouilles ramen séchées|||rôti de porc de 400 g environ|||épinards|||mini-épis de maïs|||oignon nouveau émincé|||œufs mollets écalés|||algue nori coupée en quatre|||bouillon de poulet|||sauce soja|||mirin|||huile de tournesol|||sel">
             <a href="recettes/85.html">
                 Shoyu ramen
                 <div class="item-tags">
@@ -1623,7 +1740,8 @@
             </a>
         </li>
         
-        <li data-tags="Japonais,Viande">
+        <li data-tags="Japonais,Viande"
+            data-ingredients="nouilles soba séchées|||cuisses de poulet|||poireau|||poignée d'épinards|||sauce soja|||mirin|||saké|||poivre sansho|||huile de tournesol|||sucre semoule|||sel et poivre du moulin">
             <a href="recettes/86.html">
                 Soba au poulet namban
                 <div class="item-tags">
@@ -1640,7 +1758,8 @@
             </a>
         </li>
         
-        <li data-tags="Gagnaire,Végé">
+        <li data-tags="Gagnaire,Végé"
+            data-ingredients="spaghettis de cecco® n°7|||lardons fumés|||beurre frais|||oignons doux émincés|||crème fraîche liquide|||gorgonzola|||sel et poivre">
             <a href="recettes/87.html">
                 Spaghettis De Cecco® n°7, crème d'oignon au gorgonzola
                 <div class="item-tags">
@@ -1657,7 +1776,8 @@
             </a>
         </li>
         
-        <li data-tags="Japonais,Viande">
+        <li data-tags="Japonais,Viande"
+            data-ingredients="riz cuit chaud|||filet de bœuf coupé en très fines lamelles|||pack choï|||poireau|||carotte|||champignons shiitaké|||champignons énoki|||œufs bio extra-frais|||le vert de 1 oignon nouveau|||huile végétale|||sauce soja|||mirin|||saké|||eau|||sucre semoule">
             <a href="recettes/88.html">
                 Sukiyaki-don
                 <div class="item-tags">
@@ -1674,7 +1794,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé">
+        <li data-tags="Ottolenghi,Végé"
+            data-ingredients="de cuil. à café de stigmates de safran|||farine t45|||semoule fine|||œufs entiers + 2 jaunes">
             <a href="recettes/89.html">
                 Tagliatelles au safran
                 <div class="item-tags">
@@ -1691,7 +1812,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé">
+        <li data-tags="Ottolenghi,Végé"
+            data-ingredients="stigmates de safran|||œufs fermiers moyens|||farine de type 55|||curcuma moulu|||pignons de pin grillés et grossièrement hachés|||menthe ciselée grossièrement|||persil ciselé grossièrement|||huile d'olive|||beurre|||échalotes finement hachées|||gingembre moulu|||paprika doux|||coriandre moulue|||cannelle moulue|||poivre de cayenne|||flocons de piment|||sel|||poivre noir">
             <a href="recettes/90.html">
                 Tagliatelles au safran et au beurre épicé
                 <div class="item-tags">
@@ -1708,7 +1830,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé">
+        <li data-tags="Ottolenghi,Végé"
+            data-ingredients="sel et poivre noir|||huile d'olive + 2 cuil. à soupe pour servir|||ail|||tagliatelles|||de cuil. à café de ricotta finement râpé|||parmesan|||persil finement haché|||huile d'olive|||sirop d'érable|||de cuil. à café de coriandre graines de|||de cuil. à café de graines de cumin|||flocons de chipotle|||piments verts|||vinaigre de riz|||sucre en poudre">
             <a href="recettes/91.html">
                 Tagliatelles au safran, ricotta et échalotes frites au piment chipotle
                 <div class="item-tags">
@@ -1725,7 +1848,8 @@
             </a>
         </li>
         
-        <li data-tags="Japonais,Végé">
+        <li data-tags="Japonais,Végé"
+            data-ingredients="haricots verts|||carottes|||de daïkon râpé|||huile pour la friture|||jaune d'œuf|||farine blanche t45 tamisée|||levure chimique|||eau glacée|||bouillon dashi|||mirin|||sauce soja|||sucre semoule">
             <a href="recettes/92.html">
                 Tempura de légumes
                 <div class="item-tags">
@@ -1742,7 +1866,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé">
+        <li data-tags="Ottolenghi,Végé"
+            data-ingredients="champignons de paris blonds|||huile d'olive|||ail|||cannelle|||feuilles de basilic|||⅛ de cuil. à café de piment en flocons|||brioche de 2 cm d'épaisseur|||œufs de gros calibre|||crème fraîche|||fleur de sel et poivre noir">
             <a href="recettes/93.html">
                 Toasts briochés, champignons et œufs pochés
                 <div class="item-tags">
@@ -1759,7 +1884,8 @@
             </a>
         </li>
         
-        <li data-tags="Japonais,Végé,Dessert">
+        <li data-tags="Japonais,Végé,Dessert"
+            data-ingredients="biscuits type petits-beurre|||faisselle|||quelques framboises pour la décoration|||cuillerées à café rases d'agar-agar|||crème fraîche liquide|||le jus de 1 yuzu|||beurre fondu|||sucre semoule">
             <a href="recettes/94.html">
                 Tokyo cheesecake au yuzu
                 <div class="item-tags">
@@ -1780,7 +1906,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé">
+        <li data-tags="Ottolenghi,Végé"
+            data-ingredients="potiron|||parmesan râpé|||chapelure sèche|||persil finement haché|||thym finement haché|||citrons pour le zeste|||ail écrasées|||crème aigre|||aneth haché|||huile d'olive|||sel et poivre blanc">
             <a href="recettes/95.html">
                 Tranches de potiron croustillantes et crème aigre
                 <div class="item-tags">
@@ -1797,7 +1924,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Viande">
+        <li data-tags="Ottolenghi,Viande"
+            data-ingredients="travers de porc|||sel de mer|||cm de gingembre|||oignon moyen|||ail|||étoiles d'anis entières|||bâton de cannelle|||grains de poivre noir|||vin shaoxing|||vinaigre de riz|||échalotes|||bourbon|||sirop d'érable|||grains de poivre du sichuan|||jus de citron|||huile de sésame|||ketchup|||piments rouges séchés|||épis de maïs|||brins de thym citron|||jus de citron vert|||huile d'olive|||piment vert|||feuilles de coriandre|||feuilles de menthe|||feuilles de persil|||oignons verts">
             <a href="recettes/96.html">
                 Travers de porc caramélisés au bourbon et salade de maïs fumé
                 <div class="item-tags">
@@ -1814,7 +1942,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Poisson">
+        <li data-tags="Ottolenghi,Poisson"
+            data-ingredients="tomates cerise|||orange : 1 cuil. à café de zeste et 1 cuil. à soupe de jus|||citrons verts : 1 cuil. à soupe de jus et des quartiers pour le dressage|||graines de fenouil|||huile d'olive|||beurre doux|||gousse d'ail|||truites|||feuilles de coriandre|||sel et poivre noir">
             <a href="recettes/97.html">
                 Truite rôtie, tomates, orange et baies d'épine-vinette
                 <div class="item-tags">
@@ -1831,7 +1960,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé,Dessert">
+        <li data-tags="Ottolenghi,Végé,Dessert"
+            data-ingredients="yaourt à la grecque|||sucre glace|||crème entière liquide|||citron : 1 cuil. à café de zeste et 2 cuil. à soupe de jus|||fraises bien mûres|||menthe : 5 g de brins entiers et 5 g de feuilles|||vanille|||sel">
             <a href="recettes/98.html">
                 Verrines de fraises rôties au sumac et yaourt égoutté
                 <div class="item-tags">
@@ -1852,7 +1982,8 @@
             </a>
         </li>
         
-        <li data-tags="Ottolenghi,Végé">
+        <li data-tags="Ottolenghi,Végé"
+            data-ingredients="beurre doux|||huile d'olive|||poireaux|||graines de cumin|||citrons confits|||bouillon de légumes|||pousses d'épinard|||œufs de gros calibre|||feta|||zaatar|||sel et poivre noir">
             <a href="recettes/99.html">
                 Œufs braisés, poireaux et zaatar
                 <div class="item-tags">
@@ -1874,49 +2005,143 @@
     <p class="compteur" id="compteur">100 recettes</p>
 
     <script>
-        const ORIGINES = ["Ottolenghi", "Japonais", "Gagnaire", "Breton", "R\u00e9union"];
-        const actifs = new Set();
-        let texteRecherche = "";
+    const ORIGINES    = ["Ottolenghi", "Japonais", "Gagnaire", "Breton", "R\u00e9union"];
+    const TOUS_INGR   = ["\u00e0 3 grosses oranges : 12", "\u00e0 4 piments rouges doux", "abricots moyens", "abricots secs", "agar-agar", "ail", "ail \u00e9cras\u00e9e", "ail \u00e9cras\u00e9es", "ail \u00e9minc\u00e9es grossi\u00e8rement", "ail en chemise", "ail finement hach\u00e9e", "ail hach\u00e9e", "ail pel\u00e9e", "ail pel\u00e9es", "algue nori coup\u00e9e en quatre", "amandes", "amandes effil\u00e9es", "amandes en poudre", "amandes grill\u00e9es sal\u00e9es", "anchois", "aneth", "aneth hach\u00e9", "arilles de grenade", "assiette de f\u00e9cule de pomme de terre", "aubergines", "aubergines coup\u00e9es en tranches de 2 cm d'\u00e9paisseur", "aubergines longues", "aubergines moyennes", "bacon", "basilic", "basilic cisel\u00e9es", "b\u00e2ton de cannelle", "b\u00e2tonnet de cannelle", "beaucoup de beurre pour la cuisson", "beaux champignons de paris sans les pieds", "beaux poireaux nettoy\u00e9s", "beurre", "beurre + un peu de beurre pour la cuisson", "beurre demi-sel", "beurre doux", "beurre doux \u00e0 temp\u00e9rature ambiante", "beurre doux bien froid", "beurre doux coup\u00e9 en petits d\u00e9s", "beurre doux fondu", "beurre doux ramolli", "beurre fondu", "beurre fondu avec les grains d'une gousse de vanille", "beurre frais", "beurre mou", "beurre pommade", "biscuits amaretti croquants", "biscuits type petits-beurre", "blanc d'\u0153uf", "blanc d'\u0153uf fermier", "blancs d'\u0153ufs", "blancs d'\u0153ufs fermiers", "blettes : les c\u00f4tes blanches coup\u00e9es en d\u00e9s de 1 cm ; les feuilles grossi\u00e8rement d\u00e9chir\u00e9es", "bonne pinc\u00e9e de sel", "bouchon de rhum", "bouillon dashi", "bouillon dashi au shiitak\u00e9", "bouillon de b\u0153uf", "bouillon de l\u00e9gumes", "bouillon de poule", "bouillon de poulet", "bouillon de volaille", "bouquet d'oseille", "bourbon", "branche de c\u00e9leri coup\u00e9e en petits d\u00e9s", "branches de c\u00e9leri", "branches de thym", "bretzels", "brins de thym citron", "brioche de 2 cm d'\u00e9paisseur", "b\u0153uf hach\u00e9", "b\u0153uf ou de porc hach\u00e9", "c. \u00e0 s. d'huile d'olive", "c. \u00e0 s. d'huile de tournesol", "c. \u00e0 s. de beurre doux", "c. \u00e0 s. de cassonade", "c. \u00e0 s. de cognac", "c. \u00e0 s. de concentr\u00e9 de tomates", "c. \u00e0 s. de feuilles de thym", "c. \u00e0 s. de graines de cumin", "c. \u00e0 s. de jus de citron", "c. \u00e0 s. de mayonnaise", "c. \u00e0 s. de miel liquide", "c. \u00e0 s. de mirin", "c. \u00e0 s. de moutarde de dijon", "c. \u00e0 s. de moutarde jaune", "c. \u00e0 s. de persil plat cisel\u00e9", "c. \u00e0 s. de sauce worcestershire", "c. \u00e0 s. de vinaigre balsamique", "c. \u00e0 s. de vinaigre de riz", "c. \u00e0 s. de vinaigre de vin rouge", "c. \u00e0 s. de vinaigre noir de chinkiang", "cacahu\u00e8tes grill\u00e9es", "cacao en poudre", "cacao en poudre pour saupoudrer", "caf\u00e9", "cannelle", "cannelle en poudre", "cannelle moulue", "c\u00e2pres", "cardamome", "cardamome moulue", "carotte", "carottes", "carr\u00e9 d'agneau par\u00e9", "cassonade", "c\u00e9leri-rave", "cerfeuil hach\u00e9", "cerises surgel\u00e9es d\u00e9noyaut\u00e9es", "cerneaux de noix", "chair \u00e0 saucisse", "champignons bruns", "champignons de paris blonds", "champignons \u00e9noki", "champignons shiitak\u00e9", "champignons shiitake frais", "champignons shimeji", "champignons vari\u00e9s", "chapelure blonde", "chapelure s\u00e8che", "cheddar", "chocolat noir", "chocolat noir cass\u00e9 en morceaux", "chou rouge", "chou rouge entre 500 et 800 g coup\u00e9 en 4 morceaux dans sa hauteur", "chou vert", "chou-fleur", "choux pointus", "choux-fleurs entiers", "ciabatta", "ciboule", "ciboules", "ciboulette", "ciboulette cisel\u00e9e", "citron", "citron : 1 cuil. \u00e0 caf\u00e9 de zeste", "citron : 1 cuil. \u00e0 caf\u00e9 de zeste et 2 cuil. \u00e0 soupe de jus", "citron : 1 cuil. \u00e0 soupe de zeste et 1 cuil. \u00e0 soupe de jus", "citron : 5 longs morceaux d'\u00e9corce", "citron : le zeste finement r\u00e2p\u00e9 + 1 c. \u00e0 s. de jus du fruit", "citron : le zeste pr\u00e9lev\u00e9 et d\u00e9taill\u00e9 en fines lani\u00e8res", "citron confit", "citron confit : retirez la chair et d\u00e9taillez la peau en julienne", "citron coup\u00e9 en quartiers", "citron pour le zeste", "citron vert", "citron vert : 1 cuil. \u00e0 caf\u00e9 de zeste et 2 cuil. \u00e0 caf\u00e9 de jus", "citron vert bio : 3 lani\u00e8res fines de zeste ; 1 cuil. \u00e0 soupe de jus", "citron vert pour le zeste", "citronnelle hach\u00e9e", "citrons : 1 cuil. \u00e0 soupe de zeste et 150 ml de jus", "citrons : 2 cuil. \u00e0 caf\u00e9 de zeste et 2 cuil. \u00e0 soupe de jus", "citrons : 2 cuil. \u00e0 soupe de zeste et 2 cuil. \u00e0 soupe de jus", "citrons : 6 fines lani\u00e8res de zeste + 5 cl de jus", "citrons confits", "citrons confits : retirez la chair et d\u00e9taillez la peau en julienne", "citrons confits : retirez la chair et d\u00e9taillez la peau en julienne tr\u00e8s finement", "citrons pour le zeste", "citrons verts : 1 cuil. \u00e0 soupe de jus et des quartiers pour le dressage", "citrons verts bio : 1 cuil. \u00e0 caf\u00e9 de zeste finement r\u00e2p\u00e9", "cm de gingembre", "concentr\u00e9 de tomates", "concombre", "concombre non trait\u00e9", "confiture d'abricots ou de framboises", "coriandre cisel\u00e9e", "coriandre hach\u00e9e", "coriandre moulue", "cornichons \u00e0 l'aneth", "courgettes", "cr\u00e8me aigre", "cr\u00e8me aigre ou fra\u00eeche", "cr\u00e8me double", "cr\u00e8me enti\u00e8re liquide", "cr\u00e8me fra\u00eeche", "cr\u00e8me fra\u00eeche \u00e9paisse", "cr\u00e8me fra\u00eeche liquide", "cr\u00e8me liquide", "cr\u00eapes d'\u0153ufs taill\u00e9es en tagliatelles", "cuiller\u00e9es \u00e0 caf\u00e9 rases d'agar-agar", "cuiller\u00e9es \u00e0 soupe rases de miso", "cuisse de poulet", "cuisses de poulet", "cuisses de poulet d\u00e9soss\u00e9es", "cumin moulu", "curcuma en poudre", "curcuma moulu", "curry en poudre", "da\u00efkon r\u00e2p\u00e9", "dashi", "de c. \u00e0 c. de gingembre moulu", "de c. \u00e0 c. de marjolaine s\u00e9ch\u00e9e", "de c. \u00e0 c. de poivre blanc", "de c. \u00e0 c. de poivre noir", "de cuil. \u00e0 caf\u00e9 de cannelle moulue", "de cuil. \u00e0 caf\u00e9 de coriandre graines de", "de cuil. \u00e0 caf\u00e9 de coriandre moulue", "de cuil. \u00e0 caf\u00e9 de cumin en poudre", "de cuil. \u00e0 caf\u00e9 de curcuma en poudre", "de cuil. \u00e0 caf\u00e9 de curcuma moulu", "de cuil. \u00e0 caf\u00e9 de flocons de piment", "de cuil. \u00e0 caf\u00e9 de flocons de piment d'alep", "de cuil. \u00e0 caf\u00e9 de graines de carvi", "de cuil. \u00e0 caf\u00e9 de graines de coriandre", "de cuil. \u00e0 caf\u00e9 de graines de cumin", "de cuil. \u00e0 caf\u00e9 de grains de poivre noir", "de cuil. \u00e0 caf\u00e9 de paprika", "de cuil. \u00e0 caf\u00e9 de paprika fum\u00e9 doux", "de cuil. \u00e0 caf\u00e9 de p\u00e2te de vanille", "de cuil. \u00e0 caf\u00e9 de piment en flocons", "de cuil. \u00e0 caf\u00e9 de quatre-\u00e9pices en poudre", "de cuil. \u00e0 caf\u00e9 de ricotta finement r\u00e2p\u00e9", "de cuil. \u00e0 caf\u00e9 de sel", "de cuil. \u00e0 caf\u00e9 de stigmates de safran", "de cuil. \u00e0 caf\u00e9 de sucre en poudre", "de cuil. \u00e0 soupe de vinaigre de riz", "de da\u00efkon r\u00e2p\u00e9", "du persil", "dulce de leche", "eau", "eau de fleur d'oranger", "eau glac\u00e9e", "eau si n\u00e9cessaire", "\u00e9chalote banane", "\u00e9chalote moyenne", "\u00e9chalotes", "\u00e9chalotes bananes", "\u00e9chalotes finement hach\u00e9es", "en fonction de la saison", "endives", "endives rouges", "\u00e9pinards", "\u00e9pinards rinc\u00e9s", "\u00e9pis de ma\u00efs", "estragon cisel\u00e9", "estragon hach\u00e9", "\u00e9toile d'anis", "\u00e9toile de badiane", "\u00e9toiles d'anis enti\u00e8res", "\u00e9toiles de badiane", "expressos chauds", "extrait de vanille", "faisselle", "farine", "farine \u00e0 levure incorpor\u00e9e", "farine \u00e0 poudre \u00e0 lever incorpor\u00e9e", "farine blanche", "farine blanche de bl\u00e9", "farine blanche t45 tamis\u00e9e", "farine de bl\u00e9 noir", "farine de froment", "farine de m\u00e9nage", "farine de riz", "farine de type 55", "farine ordinaire", "farine pour le plan de travail", "farine t45", "faux-filet", "faux-filets", "f\u00e9cule de ma\u00efs", "f\u00e9cule de pomme de terre", "feta", "feta \u00e9miett\u00e9e", "feuille de thym + \u00e9pices", "feuilles d'aneth", "feuilles d'estragon", "feuilles d'estragon hach\u00e9es", "feuilles de basilic", "feuilles de basilic grossi\u00e8rement hach\u00e9es", "feuilles de basilic hach\u00e9es", "feuilles de coriandre", "feuilles de coriandre cisel\u00e9es", "feuilles de coriandre grossi\u00e8rement cisel\u00e9es", "feuilles de coriandre hach\u00e9es", "feuilles de marjolaine fra\u00eeche", "feuilles de menthe", "feuilles de menthe grossi\u00e8rement cisel\u00e9es", "feuilles de persil", "feuilles de persil hach\u00e9es", "feuilles de sauge", "feuilles de thym", "feuilles de thym citron", "feuilles int\u00e9rieures de chou vert", "filet d'agneau", "filet de b\u0153uf coup\u00e9 en tr\u00e8s fines lamelles", "filets d'anchois \u00e0 l'huile", "fleur de sel", "fleur de sel et poivre noir", "fleur de sel pour servir", "flocons de chipotle", "flocons de piment", "flocons de piment d'alep", "flocons de poivron rouge", "flocons de sel de mer", "fraises", "fraises bien m\u00fbres", "fraises \u00e9queut\u00e9es et lav\u00e9es", "fromage de ch\u00e8vre", "fromage frais type philadelphia", "fruits rouges surgel\u00e9s", "g de haricots blancs", "g de pulpe de tomate en d\u00e9s", "g environ de chapelure blanche", "g\u00e9latine en feuilles tremp\u00e9es dans l'eau froide", "g\u00e9latine tremp\u00e9e dans l'eau froide", "g\u00e9latine tremp\u00e9es dans l'eau froide", "gingembre", "gingembre fra\u00eechement r\u00e2p\u00e9", "gingembre frais", "gingembre frais \u00e9pluch\u00e9 et coup\u00e9 en tranches fines", "gingembre frais r\u00e2p\u00e9", "gingembre moulu", "gorgonzola", "gorgonzola cr\u00e9meux", "gousse d'ail", "gousse d'ail \u00e9cras\u00e9e", "gousses d'ail", "gouttes d'essence d'amande am\u00e8re", "graines de carvi", "graines de coriandre", "graines de cumin", "graines de fenouil", "graines de pavot", "graines de s\u00e9same", "graines de s\u00e9same noir", "graines de s\u00e9same noir et blanc", "grains de ma\u00efs", "grains de poivre du sichuan", "grains de poivre noir", "grenade", "griottes s\u00e9ch\u00e9es", "gros", "haricots verts", "haricots verts fins", "harissa \u00e0 la rose", "huile", "huile \u00e0 la truffe", "huile d'arachide", "huile d'olive", "huile d'olive + 1\u00bd c. pour servir", "huile d'olive + 2 cuil. \u00e0 soupe pour servir", "huile d'olive douce ou d'huile de tournesol", "huile d'olive pour badigeonner", "huile d'olive pour la cuisson des pancakes", "huile de colza", "huile de s\u00e9same", "huile de s\u00e9same grill\u00e9", "huile de s\u00e9same grill\u00e9 + pour la cuisson", "huile de tournesol", "huile de tournesol pour la cuisson", "huile de tournesol pour la friture", "huile pour la friture", "huile v\u00e9g\u00e9tale", "jambon blanc", "jaune d'\u0153uf", "jaune d'\u0153uf fermier", "jaunes d'\u0153uf", "jaunes d'\u0153ufs", "jaunes d'\u0153ufs + 2 blancs pour la meringue", "jus d'orange", "jus d'orange frais filtr\u00e9", "jus de citron", "jus de citron frais filtr\u00e9", "jus de citron vert", "jus de pamplemousse rose", "ketchup", "kietbasa", "la mie de 1 \u00e0 2 tranches de pain blanc", "lait", "lait cru entier", "lait de coco", "lait entier", "lait ferment\u00e9", "lamelles de gingembre vinaigr\u00e9", "lardons fum\u00e9s", "laurier", "le jus de 1 yuzu", "le jus de \u00bd citron", "le jus et le zeste finement r\u00e2p\u00e9 de 1 citron vert", "le jus et le zeste r\u00e2p\u00e9 de 1 citron", "le vert de 1 oignon nouveau", "le zeste de 1 citron", "le zeste de \u00bc de citron jaune non trait\u00e9", "le zeste de \u00bd orange", "le zeste finement r\u00e2p\u00e9 de \u00bd orange", "le zeste r\u00e2p\u00e9 de 1 citron vert", "lentilles du puy", "lentilles vertes du puy", "les graines gratt\u00e9es de 1 gousse de vanille", "levure", "levure chimique", "levure en poudre", "limoncello", "longues carottes nouvelles", "macis moulu", "magret de canard", "magrets de canard moyens", "ma\u00efzena", "ma\u00efzena\u00ae", "mangue en tr\u00e8s fines lamelles", "mangue m\u00fbre coup\u00e9e en d\u00e9s de 1 cm de c\u00f4t\u00e9 ou en lani\u00e8res de 5 mm d'\u00e9paisseur", "mascarpone", "mayonnaise kewpie", "m\u00e9lange quatre-\u00e9pices", "m\u00e9lasse de grenade", "menthe", "menthe : 5 g de brins entiers et 5 g de feuilles", "menthe cisel\u00e9e grossi\u00e8rement", "merlans lev\u00e9s et d\u00e9sar\u00eat\u00e9s par le poissonnier", "mie de pain", "miel", "mini-\u00e9pis de ma\u00efs", "mirin", "miso blanc", "miso doux", "miso rouge", "moutarde \u00e0 l'ancienne", "moutarde anglaise en poudre", "moutarde de dijon", "moutarde karashi", "myrtilles", "noisettes", "noisettes blanchies", "noisettes blanchies : 50 g grill\u00e9es + 10 g hach\u00e9es grossi\u00e8rement", "noisettes \u00e9mond\u00e9es", "noisettes grill\u00e9es", "noix de coco d\u00e9shydrat\u00e9e", "noix de macadamia", "noix grossi\u00e8rement hach\u00e9es", "nori coup\u00e9e en fines lamelles", "nori finement cisel\u00e9e", "nouilles ramen fra\u00eeches", "nouilles ramen s\u00e9ch\u00e9es", "nouilles soba", "nouilles soba s\u00e9ch\u00e9es", "nouilles udon fra\u00eeches", "nouilles yakisoba s\u00e9ch\u00e9es", "oignon", "oignon coup\u00e9 en petits d\u00e9s", "oignon \u00e9pluch\u00e9 coup\u00e9 en 2", "oignon moyen", "oignon nouveau \u00e9minc\u00e9", "oignon rouge \u00e9minc\u00e9 grossi\u00e8rement", "oignon rouge \u00e9minc\u00e9 tr\u00e8s finement", "oignon vert hach\u00e9", "oignons", "oignons de taille normale", "oignons doux \u00e9minc\u00e9s", "oignons frits pr\u00eats \u00e0 l'emploi", "oignons hach\u00e9s finement", "oignons verts", "oignons verts \u00e9minc\u00e9s", "olives de kalamata d\u00e9noyaut\u00e9es", "orange : 1 cuil. \u00e0 caf\u00e9 de zeste et 1 cuil. \u00e0 soupe de jus", "orange : 4 longs morceaux d'\u00e9corce", "oranges pel\u00e9es \u00e0 vif", "origan", "origan cisel\u00e9", "ou 3 \u00e9chalotes \u00e9minc\u00e9es finement", "pack cho\u00ef", "paillettes d'algues ao nori", "pain au levain de 1", "pain brioch\u00e9", "pain rassis", "pains pitas", "pamplemousses roses", "papaye en tr\u00e8s fines lamelles", "paprika doux", "paprika fum\u00e9 doux", "paprika fum\u00e9 fort", "parmesan", "parmesan r\u00e2p\u00e9", "patates douces de tr\u00e8s gros calibre", "patates douces pel\u00e9es et coup\u00e9es en gros morceaux", "p\u00e2te de miso blanche", "p\u00e2tes bucatini s\u00e8ches", "p\u00e2tes s\u00e8ches", "pav\u00e9s de saumon avec la peau", "pav\u00e9s de saumon de 150 g chacun environ", "pecorino", "pecorino romano", "persil", "persil cisel\u00e9 grossi\u00e8rement", "persil finement hach\u00e9", "persil plat", "pignons de pin", "pignons de pin grill\u00e9s et grossi\u00e8rement hach\u00e9s", "pignons de pin grossi\u00e8rement hach\u00e9s", "piment d'alep", "piment d'espelette", "piment d'urfa", "piment de cayenne", "piment en flocons", "piment rouge doux \u00e9p\u00e9pin\u00e9 et \u00e9minc\u00e9", "piment rouge frais \u00e9minc\u00e9", "piment rouge frais \u00e9p\u00e9pin\u00e9 et coup\u00e9 en tranches", "piment rouge frais \u00e9p\u00e9pin\u00e9 et \u00e9minc\u00e9", "piment rouge frais hach\u00e9", "piment rouge s\u00e9ch\u00e9", "piment vert", "piments \u00e9p\u00e9pin\u00e9s", "piments rouges entiers", "piments rouges frais", "piments rouges s\u00e9ch\u00e9s", "piments verts", "piments verts frais \u00e9minc\u00e9s", "pistaches", "pleurotes", "poign\u00e9e d'\u00e9pinards", "poign\u00e9e de flocons de bonite s\u00e9ch\u00e9e", "poign\u00e9e de pois mange-tout", "poign\u00e9e de pousses de soja", "poire \u00e9pluch\u00e9e et coup\u00e9e en cubes", "poireau", "poireaux", "poireaux moyens", "poires comice \u00e9pluch\u00e9es et taill\u00e9es en gros d\u00e9s", "poires semi-m\u00fbres avec la peau", "pois \u00e9coss\u00e9s", "pois mange-tout", "poivre blanc", "poivre de cayenne", "poivre du moulin", "poivre noir", "poivre sansho", "poivron rouge", "poivron vert", "poivrons rouges", "poivrons rouges grill\u00e9s", "poivrons rouges ou jaunes", "polenta", "pomme granny smith", "pommes", "pommes bramley ou reine des reinettes", "pommes de terre", "pommes de terre \u00e0 chair farineuse", "pommes de terre d\u00e9sir\u00e9e", "pommes de terre \u00e9pluch\u00e9es", "pommes de terre nouvelles", "pommes de terre royale de jersey", "pommes de terre yukon gold", "porc hach\u00e9", "portion de sauce verte au tahini", "potiron", "poudre d'amande", "pousses d'\u00e9pinard", "pousses d'\u00e9pinards", "pruneaux", "pur\u00e9e de coco", "pur\u00e9e de piment", "pur\u00e9e de s\u00e9same complet", "quartiers de citron jaune ou vert", "quelques feuilles de radicchio", "quelques framboises pour la d\u00e9coration", "quelques pluches de cerfeuil", "quinoa rouge", "rhubarbe", "rhum blanc", "rhum brun", "riz blanc cuit", "riz cuit chaud", "romarin hach\u00e9", "roquefort", "roquette", "roquette hach\u00e9e grossi\u00e8rement au couteau", "roquette sauvage poivr\u00e9e", "r\u00f4ti de porc de 400 g environ", "rouleau de p\u00e2te feuillet\u00e9e pur beurre", "safran p\u00e9i", "sak\u00e9", "sauce okonomiyaki", "sauce soja", "sauce soja claire", "sauce soja l\u00e9g\u00e8re", "sauce teriyaki", "saucisses fum\u00e9es", "saumon bio de 200 g environ chacun", "sauternes", "sel", "sel de maldon", "sel de maldon\u00ae", "sel de mer", "sel de mer en flocons et poivre noir", "sel et poivre", "sel et poivre blanc", "sel et poivre du moulin", "sel et poivre noir", "sel et sel de maldon\u00ae", "sel fin", "sel gris de gu\u00e9rande", "semoule fine", "shichimi togarashi", "sirop d'\u00e9rable", "sirop de datte", "spaghettis de cecco\u00ae n\u00b07", "stigmates de safran", "sucre", "sucre + un peu de sucre pour saupoudrer chaque cr\u00eape apr\u00e8s leur cuisson", "sucre brun", "sucre de canne en poudre", "sucre en poudre", "sucre glace", "sucre muscovado", "sucre semoule", "sumac", "tagliatelles", "tahin", "taleggio", "taleggio en tranches", "tamari", "thym", "thym finement hach\u00e9", "thym hach\u00e9", "tiges de coriandre", "tomate", "tomates cerise", "tomates cerises", "tomates cerises de couleurs vari\u00e9es", "tomates c\u0153ur de b\u0153uf", "tomates en conserve", "tomates hach\u00e9es", "tomates s\u00e9ch\u00e9es hach\u00e9es fin", "tranches de lard", "tranches de saumon fum\u00e9", "tranches fines de lard fum\u00e9", "travers de porc", "truites", "un peu de lait si la pur\u00e9e est trop \u00e9paisse", "vanille", "vanille fendue en deux", "viande d'agneau hach\u00e9e", "viande de cuisses de poulet bio ou fermier", "vin shaoxing", "vinaigre balsamique", "vinaigre de cidre", "vinaigre de riz", "vinaigre de vin blanc", "vinaigre de vin rouge", "x 400 g de faux-filet par\u00e9", "yaourt \u00e0 la grecque", "yaourt grec", "zaatar", "zaatar + 1 \u00bd cuil. \u00e0 caf\u00e9 pour servir", "zeste de citron r\u00e2p\u00e9", "zeste de citron vert bio", "zestes d'orange pr\u00e9lev\u00e9s \u00e0 l'\u00e9conome", "\u0153uf", "\u0153uf + 3 jaunes", "\u0153uf battu", "\u0153uf de gros calibre", "\u0153uf fermier", "\u0153uf fermier battu", "\u0153ufs", "\u0153ufs + 3 jaunes", "\u0153ufs battus", "\u0153ufs bio extra-frais", "\u0153ufs de caille", "\u0153ufs de gros calibre", "\u0153ufs entiers + 2 jaunes", "\u0153ufs fermiers", "\u0153ufs fermiers moyens", "\u0153ufs mollets \u00e9cal\u00e9s", "\u215b de c. \u00e0 c. de flocons de piment", "\u215b de cuil. \u00e0 caf\u00e9 de piment en flocons"];
+    const actifs      = new Set();
+    const ingActifs   = new Set();
+    let texteRecherche = "";
 
-        const items = Array.from(document.querySelectorAll("#liste-recettes li"));
-        const compteur = document.getElementById("compteur");
+    const items    = Array.from(document.querySelectorAll("#liste-recettes li"));
+    const compteur = document.getElementById("compteur");
 
-        function filtrer() {
-            const filtresOrigine = [...actifs].filter(v => ORIGINES.includes(v));
-            const filtresType    = [...actifs].filter(v => !ORIGINES.includes(v));
-            let visible = 0;
-            items.forEach(li => {
-                const tags = li.dataset.tags ? li.dataset.tags.split(",") : [];
-                const titre = li.textContent.toLowerCase();
-                const okTexte   = !texteRecherche || titre.includes(texteRecherche);
-                const okOrigine = !filtresOrigine.length || filtresOrigine.every(f => tags.includes(f));
-                const okType    = !filtresType.length    || filtresType.every(f => tags.includes(f));
-                const show = okTexte && okOrigine && okType;
-                li.style.display = show ? "" : "none";
-                if (show) visible++;
-            });
-            compteur.textContent = visible + " recette" + (visible > 1 ? "s" : "");
-        }
+    /* ── Filtrage ────────────────────────────────────────────────────────── */
+    function filtrer() {
+        const filtresOrigine = [...actifs].filter(v => ORIGINES.includes(v));
+        const filtresType    = [...actifs].filter(v => !ORIGINES.includes(v));
+        let visible = 0;
+        items.forEach(li => {
+            const tags  = li.dataset.tags ? li.dataset.tags.split(",") : [];
+            const ingrs = li.dataset.ingredients ? li.dataset.ingredients.split("|||") : [];
+            const titre = li.textContent.toLowerCase();
 
-        document.querySelectorAll(".chip").forEach(chip => {
-            chip.addEventListener("click", () => {
-                const val = chip.dataset.val;
-                const dim = chip.dataset.dim;
-                actifs.has(val) ? actifs.delete(val) : actifs.add(val);
-                chip.classList.toggle("active-origine", actifs.has(val) && dim === "origine");
-                chip.classList.toggle("active-type",    actifs.has(val) && dim === "type");
-                filtrer();
-            });
+            const okTexte   = !texteRecherche || titre.includes(texteRecherche);
+            const okOrigine = !filtresOrigine.length ||
+                              filtresOrigine.every(f => tags.includes(f));
+            const okType    = !filtresType.length ||
+                              filtresType.every(f => tags.includes(f));
+            const okIngr    = !ingActifs.size ||
+                              [...ingActifs].every(q =>
+                                  ingrs.some(i => i.includes(q.toLowerCase()))
+                              );
+
+            const show = okTexte && okOrigine && okType && okIngr;
+            li.style.display = show ? "" : "none";
+            if (show) visible++;
         });
+        compteur.textContent = visible + " recette" + (visible > 1 ? "s" : "");
+    }
 
-        document.getElementById("recherche").addEventListener("input", e => {
-            texteRecherche = e.target.value.toLowerCase().trim();
+    /* ── Chips catégories ────────────────────────────────────────────────── */
+    document.querySelectorAll(".chip").forEach(chip => {
+        chip.addEventListener("click", () => {
+            const val = chip.dataset.val;
+            const dim = chip.dataset.dim;
+            actifs.has(val) ? actifs.delete(val) : actifs.add(val);
+            chip.classList.toggle("active-origine", actifs.has(val) && dim === "origine");
+            chip.classList.toggle("active-type",    actifs.has(val) && dim === "type");
             filtrer();
         });
+    });
 
-        if ("serviceWorker" in navigator) {
-            navigator.serviceWorker.register("service-worker.js");
+    /* ── Recherche texte ─────────────────────────────────────────────────── */
+    document.getElementById("recherche").addEventListener("input", e => {
+        texteRecherche = e.target.value.toLowerCase().trim();
+        filtrer();
+    });
+
+    /* ── Autocomplétion ingrédients ──────────────────────────────────────── */
+    const ingInput  = document.getElementById("ing-input");
+    const sugBox    = document.getElementById("suggestions");
+    const ingTagsEl = document.getElementById("ing-tags");
+    let focusedIdx  = -1;
+
+    function highlight(str, q) {
+        const i = str.toLowerCase().indexOf(q.toLowerCase());
+        if (i < 0) return str;
+        return str.slice(0, i)
+             + "<mark>" + str.slice(i, i + q.length) + "</mark>"
+             + str.slice(i + q.length);
+    }
+
+    function afficherSuggestions(q) {
+        if (!q || q.length < 2) { sugBox.innerHTML = ""; return; }
+        const matches = TOUS_INGR
+            .filter(i => i.includes(q.toLowerCase()))
+            .slice(0, 6);
+        focusedIdx = -1;
+        sugBox.innerHTML = matches.map((m, idx) =>
+            `<div class="suggestion" data-val="${m}" data-idx="${idx}">
+                ${highlight(m, q)}
+             </div>`
+        ).join("");
+        sugBox.querySelectorAll(".suggestion").forEach(el => {
+            el.addEventListener("mousedown", e => {
+                e.preventDefault();
+                ajouterTag(el.dataset.val);
+            });
+        });
+    }
+
+    function ajouterTag(val) {
+        ingInput.value = "";
+        sugBox.innerHTML = "";
+        if (ingActifs.has(val)) return;
+        ingActifs.add(val);
+
+        const tag = document.createElement("span");
+        tag.className = "ing-tag";
+        tag.innerHTML = `${val} <button aria-label="Retirer ${val}">×</button>`;
+        tag.querySelector("button").addEventListener("click", () => {
+            ingActifs.delete(val);
+            tag.remove();
+            filtrer();
+        });
+        ingTagsEl.appendChild(tag);
+        filtrer();
+    }
+
+    ingInput.addEventListener("input", e =>
+        afficherSuggestions(e.target.value.trim())
+    );
+
+    ingInput.addEventListener("keydown", e => {
+        const sugs = sugBox.querySelectorAll(".suggestion");
+        if (e.key === "ArrowDown") {
+            focusedIdx = Math.min(focusedIdx + 1, sugs.length - 1);
+        } else if (e.key === "ArrowUp") {
+            focusedIdx = Math.max(focusedIdx - 1, 0);
+        } else if (e.key === "Enter") {
+            if (focusedIdx >= 0 && sugs[focusedIdx]) {
+                ajouterTag(sugs[focusedIdx].dataset.val);
+            } else if (ingInput.value.trim().length >= 2) {
+                ajouterTag(ingInput.value.trim().toLowerCase());
+            }
+            return;
+        } else if (e.key === "Escape") {
+            sugBox.innerHTML = "";
+            return;
         }
+        sugs.forEach((el, i) => el.classList.toggle("focused", i === focusedIdx));
+    });
+
+    ingInput.addEventListener("blur", () =>
+        setTimeout(() => { sugBox.innerHTML = ""; }, 150)
+    );
+
+    /* ── PWA ─────────────────────────────────────────────────────────────── */
+    if ("serviceWorker" in navigator) {
+        navigator.serviceWorker.register("service-worker.js");
+    }
     </script>
 </body>
 </html>
