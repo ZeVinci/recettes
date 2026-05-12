@@ -1,5 +1,4 @@
-// Service worker — généré automatiquement par build.py
-const CACHE = "recettes-v1";
+const CACHE = "recettes-v2";
 const PRECACHE = [
     "./index.html",
     "./style.css",
@@ -104,14 +103,10 @@ const PRECACHE = [
     "./recettes/98.html",
     "./recettes/99.html"
 ];
-
 self.addEventListener("install", e => {
-    e.waitUntil(
-        caches.open(CACHE).then(c => c.addAll(PRECACHE))
-    );
+    e.waitUntil(caches.open(CACHE).then(c => c.addAll(PRECACHE)));
     self.skipWaiting();
 });
-
 self.addEventListener("activate", e => {
     e.waitUntil(
         caches.keys().then(keys =>
@@ -120,7 +115,6 @@ self.addEventListener("activate", e => {
     );
     self.clients.claim();
 });
-
 self.addEventListener("fetch", e => {
     e.respondWith(
         caches.match(e.request).then(cached => cached || fetch(e.request))

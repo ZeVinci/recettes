@@ -7,230 +7,1915 @@
     <link rel="stylesheet" href="style.css">
     <link rel="manifest" href="manifest.json">
     <meta name="theme-color" content="#8b4513">
+    <style>
+        .filters { margin-bottom: 8px; }
+        .filter-label { font-size: 11px; color: #888; margin-bottom: 4px; letter-spacing: 0.04em; }
+        .filter-row { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 8px; }
+        .chip {
+            display: inline-flex; align-items: center; gap: 4px;
+            padding: 4px 10px; border-radius: 99px; font-size: 12px;
+            border: 0.5px solid #ccc; background: #f5f5f5;
+            color: #555; cursor: pointer; user-select: none;
+        }
+        .chip .dot { width: 6px; height: 6px; border-radius: 50%; flex-shrink: 0; }
+        .dot-origine { background: #7F77DD; }
+        .dot-type    { background: #1D9E75; }
+        .chip.active-origine { background: #EEEDFE; border-color: #7F77DD; color: #3C3489; }
+        .chip.active-type    { background: #E1F5EE; border-color: #1D9E75; color: #085041; }
+
+        .item-tags { display: flex; gap: 4px; flex-wrap: wrap; margin-top: 4px; }
+        .tag { font-size: 11px; padding: 2px 7px; border-radius: 99px; }
+        .tag-origine { background: #EEEDFE; color: #3C3489; }
+        .tag-type    { background: #E1F5EE; color: #085041; }
+
+        .compteur { text-align: center; color: #888; font-size: 0.9rem; margin-top: 1.5rem; }
+    </style>
 </head>
 <body>
     <header>
         <h1>Mes recettes</h1>
         <input type="text" id="recherche" placeholder="Rechercher…" autocomplete="off">
+        <div class="filters" style="margin-top: 10px;">
+            <div class="filter-label">Origine</div>
+            <div class="filter-row" id="filtres-origine">
+                
+                <div class="chip" data-val="Ottolenghi" data-dim="origine">
+                    <span class="dot dot-origine"></span>Ottolenghi
+                </div>
+                
+                <div class="chip" data-val="Japonais" data-dim="origine">
+                    <span class="dot dot-origine"></span>Japonais
+                </div>
+                
+                <div class="chip" data-val="Gagnaire" data-dim="origine">
+                    <span class="dot dot-origine"></span>Gagnaire
+                </div>
+                
+                <div class="chip" data-val="Breton" data-dim="origine">
+                    <span class="dot dot-origine"></span>Breton
+                </div>
+                
+                <div class="chip" data-val="Réunion" data-dim="origine">
+                    <span class="dot dot-origine"></span>Réunion
+                </div>
+                
+            </div>
+            <div class="filter-label">Type</div>
+            <div class="filter-row" id="filtres-type">
+                
+                <div class="chip" data-val="Végé" data-dim="type">
+                    <span class="dot dot-type"></span>Végé
+                </div>
+                
+                <div class="chip" data-val="Viande" data-dim="type">
+                    <span class="dot dot-type"></span>Viande
+                </div>
+                
+                <div class="chip" data-val="Poisson" data-dim="type">
+                    <span class="dot dot-type"></span>Poisson
+                </div>
+                
+                <div class="chip" data-val="Dessert" data-dim="type">
+                    <span class="dot dot-type"></span>Dessert
+                </div>
+                
+            </div>
+        </div>
     </header>
 
     <ul id="liste-recettes">
         
-        <li><a href="recettes/0.html">Abricots pochés et mascarpone aux pistaches et biscuits amaretti</a></li>
-        
-        <li><a href="recettes/1.html">Aubergines frites mijotées</a></li>
-        
-        <li><a href="recettes/2.html">Aubergines grillées, sauce au lait fermenté</a></li>
-        
-        <li><a href="recettes/3.html">Aubergines marinées au tahini et à l'origan</a></li>
-        
-        <li><a href="recettes/4.html">Aubergines rôties aux anchois et à l'origan</a></li>
-        
-        <li><a href="recettes/5.html">Aubergines rôties, sauce yaourt et curry</a></li>
-        
-        <li><a href="recettes/6.html">Baked custard servie en affogato</a></li>
-        
-        <li><a href="recettes/7.html">Beignets de poireaux</a></li>
-        
-        <li><a href="recettes/8.html">Biscuit roulé à la vanille, jus de fraise</a></li>
-        
-        <li><a href="recettes/9.html">Boulettes d'agneau à la feta</a></li>
-        
-        <li><a href="recettes/10.html">Boulettes de bœuf au citron et au céleri</a></li>
-        
-        <li><a href="recettes/11.html">Boulettes de viande Stroganoff et tagliatelles</a></li>
-        
-        <li><a href="recettes/12.html">Brownies au caramel</a></li>
-        
-        <li><a href="recettes/13.html">Brunoise de poires caramélisées, bavaroises au coco, tuiles au muscovado</a></li>
-        
-        <li><a href="recettes/14.html">Cacio e pepe au zaatar</a></li>
-        
-        <li><a href="recettes/15.html">Cake aux myrtilles, citron et amandes</a></li>
-        
-        <li><a href="recettes/16.html">Carottes nouvelles rôties, harissa et grenade</a></li>
-        
-        <li><a href="recettes/17.html">Carré d'agneau mariné à la coriandre et au miel</a></li>
-        
-        <li><a href="recettes/18.html">Céleri-rave entier rôti de trois façons</a></li>
-        
-        <li><a href="recettes/19.html">Céleri-rave rôti entier et ses graines de coriandre</a></li>
-        
-        <li><a href="recettes/20.html">Céleri-rave rôti et crème au gorgonzola</a></li>
-        
-        <li><a href="recettes/21.html">Champignons farcis au taleggio</a></li>
-        
-        <li><a href="recettes/22.html">Cheesecake sucré-salé à la cerise</a></li>
-        
-        <li><a href="recettes/23.html">Chou rôti à l'estragon et au pecorino</a></li>
-        
-        <li><a href="recettes/24.html">Chou rouge rôti au miso</a></li>
-        
-        <li><a href="recettes/25.html">Chou-fleur rôti au beurre pimenté</a></li>
-        
-        <li><a href="recettes/26.html">Chou-fleur rôti entier</a></li>
-        
-        <li><a href="recettes/27.html">Crème aux œufs fraise-rhubarbe</a></li>
-        
-        <li><a href="recettes/28.html">Crêpes de froment</a></li>
-        
-        <li><a href="recettes/29.html">Croquettes d'aubergines</a></li>
-        
-        <li><a href="recettes/30.html">Crostinis aux poires</a></li>
-        
-        <li><a href="recettes/31.html">Cœurs de bœuf grillées, piment, ail et gingembre</a></li>
-        
-        <li><a href="recettes/32.html">Dutch baby aux tomates rôties</a></li>
-        
-        <li><a href="recettes/33.html">Endives aux noix et au roquefort</a></li>
-        
-        <li><a href="recettes/34.html">Far breton aux pruneaux</a></li>
-        
-        <li><a href="recettes/35.html">Faux-filet épicé, sauce poivron-citron</a></li>
-        
-        <li><a href="recettes/36.html">Filets de merlan, gel de citron, purée de pommes de terre roquette-persil</a></li>
-        
-        <li><a href="recettes/37.html">Fine tarte aux pommes et au beurre salé</a></li>
-        
-        <li><a href="recettes/38.html">Frites de patate douce épicées</a></li>
-        
-        <li><a href="recettes/39.html">Frittata moelleuse aux courgettes</a></li>
-        
-        <li><a href="recettes/40.html">Galettes de patates douces</a></li>
-        
-        <li><a href="recettes/41.html">Galettes ou crêpes de blé noir</a></li>
-        
-        <li><a href="recettes/42.html">Ganache au chocolat, noisettes aux épices et huile à l'orange</a></li>
-        
-        <li><a href="recettes/43.html">Gâteau aux pommes et aux épices</a></li>
-        
-        <li><a href="recettes/44.html">Gelée de café et granité orange, rhum blanc et limoncello</a></li>
-        
-        <li><a href="recettes/45.html">Gratin de pommes de terre, fenouil et saumon fumé</a></li>
-        
-        <li><a href="recettes/46.html">Gyoza</a></li>
-        
-        <li><a href="recettes/47.html">Hiroshima okonomiyaki</a></li>
-        
-        <li><a href="recettes/48.html">Hiyashi chuka</a></li>
-        
-        <li><a href="recettes/49.html">Kara age</a></li>
-        
-        <li><a href="recettes/50.html">Lentilles du Puy aux griottes, au lard fumé et au gorgonzola</a></li>
-        
-        <li><a href="recettes/51.html">Linguine au beurre miso, shiitake et épinards</a></li>
-        
-        <li><a href="recettes/52.html">Macarons</a></li>
-        
-        <li><a href="recettes/53.html">Magret de canard rôti, beurre de noisettes à la bière, quinoa rouge</a></li>
-        
-        <li><a href="recettes/54.html">Moelleux au chocolat</a></li>
-        
-        <li><a href="recettes/55.html">Mousse au chocolat et caramel à l'orange</a></li>
-        
-        <li><a href="recettes/56.html">Nabé udon au canard</a></li>
-        
-        <li><a href="recettes/57.html">Niku-miso domburi</a></li>
-        
-        <li><a href="recettes/58.html">Noisettes d'agneau aux amandes et à la fleur d'oranger</a></li>
-        
-        <li><a href="recettes/59.html">Nouilles soba aux aubergines et à la mangue</a></li>
-        
-        <li><a href="recettes/60.html">Oignons au beurre de miso</a></li>
-        
-        <li><a href="recettes/61.html">Okonomiyaki au lard</a></li>
-        
-        <li><a href="recettes/62.html">Orecchiette aux oignons caramélisés, noisettes grillées et feuilles de sauge frites</a></li>
-        
-        <li><a href="recettes/63.html">Oyako-don</a></li>
-        
-        <li><a href="recettes/64.html">Pain perdu et yaourt à l'orange</a></li>
-        
-        <li><a href="recettes/65.html">Pancakes verts au beurre de citron vert</a></li>
-        
-        <li><a href="recettes/66.html">Patates douces à la sauce tomate, citron vert et cardamome</a></li>
-        
-        <li><a href="recettes/67.html">Pâtes au pesto, haricots grillés et pommes de terre</a></li>
-        
-        <li><a href="recettes/68.html">Pièce de bœuf rôtie au sarrasin</a></li>
-        
-        <li><a href="recettes/69.html">Poireaux et salsa au miso et à la ciboulette</a></li>
-        
-        <li><a href="recettes/70.html">Polenta aux champignons et aux herbes</a></li>
-        
-        <li><a href="recettes/71.html">Poulet mariné à la harissa et salade de pamplemousses roses</a></li>
-        
-        <li><a href="recettes/72.html">Purée à l'huile d'olive aromatisée</a></li>
-        
-        <li><a href="recettes/73.html">Purée de haricots blancs au muhammara</a></li>
-        
-        <li><a href="recettes/74.html">Rougail Sosis Fumé</a></li>
-        
-        <li><a href="recettes/75.html">Roulés à la saucisse et sauce moutarde au miel</a></li>
-        
-        <li><a href="recettes/76.html">Salade au bœuf et au basilic</a></li>
-        
-        <li><a href="recettes/77.html">Salade de carottes rôties, sauce Chamoy</a></li>
-        
-        <li><a href="recettes/78.html">Salade de pommes de terre royales</a></li>
-        
-        <li><a href="recettes/79.html">Salade douce pour l'hiver</a></li>
-        
-        <li><a href="recettes/80.html">Sauces japonaises</a></li>
-        
-        <li><a href="recettes/81.html">Saucisses aux lentilles et crème à la moutarde</a></li>
-        
-        <li><a href="recettes/82.html">Saumon bio et salsa de poivrons rouges et de noisettes</a></li>
-        
-        <li><a href="recettes/83.html">Saumon rôti alla puttanesca</a></li>
-        
-        <li><a href="recettes/84.html">Saumon teriyaki</a></li>
-        
-        <li><a href="recettes/85.html">Shoyu ramen</a></li>
-        
-        <li><a href="recettes/86.html">Soba au poulet namban</a></li>
-        
-        <li><a href="recettes/87.html">Spaghettis De Cecco® n°7, crème d'oignon au gorgonzola</a></li>
-        
-        <li><a href="recettes/88.html">Sukiyaki-don</a></li>
-        
-        <li><a href="recettes/89.html">Tagliatelles au safran</a></li>
-        
-        <li><a href="recettes/90.html">Tagliatelles au safran et au beurre épicé</a></li>
-        
-        <li><a href="recettes/91.html">Tagliatelles au safran, ricotta et échalotes frites au piment chipotle</a></li>
-        
-        <li><a href="recettes/92.html">Tempura de légumes</a></li>
-        
-        <li><a href="recettes/93.html">Toasts briochés, champignons et œufs pochés</a></li>
-        
-        <li><a href="recettes/94.html">Tokyo cheesecake au yuzu</a></li>
-        
-        <li><a href="recettes/95.html">Tranches de potiron croustillantes et crème aigre</a></li>
-        
-        <li><a href="recettes/96.html">Travers de porc caramélisés au bourbon et salade de maïs fumé</a></li>
-        
-        <li><a href="recettes/97.html">Truite rôtie, tomates, orange et baies d'épine-vinette</a></li>
-        
-        <li><a href="recettes/98.html">Verrines de fraises rôties au sumac et yaourt égoutté</a></li>
-        
-        <li><a href="recettes/99.html">Œufs braisés, poireaux et zaatar</a></li>
+        <li data-tags="Ottolenghi,Végé,Dessert">
+            <a href="recettes/0.html">
+                Abricots pochés et mascarpone aux pistaches et biscuits amaretti
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Dessert
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Japonais,Végé">
+            <a href="recettes/1.html">
+                Aubergines frites mijotées
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Japonais
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé">
+            <a href="recettes/2.html">
+                Aubergines grillées, sauce au lait fermenté
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé">
+            <a href="recettes/3.html">
+                Aubergines marinées au tahini et à l'origan
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Poisson">
+            <a href="recettes/4.html">
+                Aubergines rôties aux anchois et à l'origan
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Poisson
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé">
+            <a href="recettes/5.html">
+                Aubergines rôties, sauce yaourt et curry
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé,Dessert">
+            <a href="recettes/6.html">
+                Baked custard servie en affogato
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Dessert
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé">
+            <a href="recettes/7.html">
+                Beignets de poireaux
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Gagnaire,Végé,Dessert">
+            <a href="recettes/8.html">
+                Biscuit roulé à la vanille, jus de fraise
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Gagnaire
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Dessert
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Viande">
+            <a href="recettes/9.html">
+                Boulettes d'agneau à la feta
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Viande
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Viande">
+            <a href="recettes/10.html">
+                Boulettes de bœuf au citron et au céleri
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Viande
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Viande">
+            <a href="recettes/11.html">
+                Boulettes de viande Stroganoff et tagliatelles
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Viande
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé,Dessert">
+            <a href="recettes/12.html">
+                Brownies au caramel
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Dessert
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Gagnaire,Végé,Dessert">
+            <a href="recettes/13.html">
+                Brunoise de poires caramélisées, bavaroises au coco, tuiles au muscovado
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Gagnaire
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Dessert
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé">
+            <a href="recettes/14.html">
+                Cacio e pepe au zaatar
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé,Dessert">
+            <a href="recettes/15.html">
+                Cake aux myrtilles, citron et amandes
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Dessert
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé">
+            <a href="recettes/16.html">
+                Carottes nouvelles rôties, harissa et grenade
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Viande">
+            <a href="recettes/17.html">
+                Carré d'agneau mariné à la coriandre et au miel
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Viande
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé">
+            <a href="recettes/18.html">
+                Céleri-rave entier rôti de trois façons
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé">
+            <a href="recettes/19.html">
+                Céleri-rave rôti entier et ses graines de coriandre
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé">
+            <a href="recettes/20.html">
+                Céleri-rave rôti et crème au gorgonzola
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé">
+            <a href="recettes/21.html">
+                Champignons farcis au taleggio
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé,Dessert">
+            <a href="recettes/22.html">
+                Cheesecake sucré-salé à la cerise
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Dessert
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé">
+            <a href="recettes/23.html">
+                Chou rôti à l'estragon et au pecorino
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Japonais,Végé">
+            <a href="recettes/24.html">
+                Chou rouge rôti au miso
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Japonais
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Viande">
+            <a href="recettes/25.html">
+                Chou-fleur rôti au beurre pimenté
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Viande
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé">
+            <a href="recettes/26.html">
+                Chou-fleur rôti entier
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé,Dessert">
+            <a href="recettes/27.html">
+                Crème aux œufs fraise-rhubarbe
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Dessert
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Breton,Végé">
+            <a href="recettes/28.html">
+                Crêpes de froment
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Breton
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé">
+            <a href="recettes/29.html">
+                Croquettes d'aubergines
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé">
+            <a href="recettes/30.html">
+                Crostinis aux poires
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé">
+            <a href="recettes/31.html">
+                Cœurs de bœuf grillées, piment, ail et gingembre
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Viande">
+            <a href="recettes/32.html">
+                Dutch baby aux tomates rôties
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Viande
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé">
+            <a href="recettes/33.html">
+                Endives aux noix et au roquefort
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Breton,Végé,Dessert">
+            <a href="recettes/34.html">
+                Far breton aux pruneaux
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Breton
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Dessert
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Viande">
+            <a href="recettes/35.html">
+                Faux-filet épicé, sauce poivron-citron
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Viande
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Gagnaire,Poisson">
+            <a href="recettes/36.html">
+                Filets de merlan, gel de citron, purée de pommes de terre roquette-persil
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Gagnaire
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Poisson
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Breton,Végé">
+            <a href="recettes/37.html">
+                Fine tarte aux pommes et au beurre salé
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Breton
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé">
+            <a href="recettes/38.html">
+                Frites de patate douce épicées
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé">
+            <a href="recettes/39.html">
+                Frittata moelleuse aux courgettes
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé">
+            <a href="recettes/40.html">
+                Galettes de patates douces
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Breton,Végé">
+            <a href="recettes/41.html">
+                Galettes ou crêpes de blé noir
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Breton
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé,Dessert">
+            <a href="recettes/42.html">
+                Ganache au chocolat, noisettes aux épices et huile à l'orange
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Dessert
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé,Dessert">
+            <a href="recettes/43.html">
+                Gâteau aux pommes et aux épices
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Dessert
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Gagnaire,Végé,Dessert">
+            <a href="recettes/44.html">
+                Gelée de café et granité orange, rhum blanc et limoncello
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Gagnaire
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Dessert
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Poisson">
+            <a href="recettes/45.html">
+                Gratin de pommes de terre, fenouil et saumon fumé
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Poisson
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Japonais,Viande">
+            <a href="recettes/46.html">
+                Gyoza
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Japonais
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Viande
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Japonais,Viande,Poisson">
+            <a href="recettes/47.html">
+                Hiroshima okonomiyaki
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Japonais
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Viande
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Poisson
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Japonais,Viande,Poisson">
+            <a href="recettes/48.html">
+                Hiyashi chuka
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Japonais
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Viande
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Poisson
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Japonais,Viande">
+            <a href="recettes/49.html">
+                Kara age
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Japonais
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Viande
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Viande">
+            <a href="recettes/50.html">
+                Lentilles du Puy aux griottes, au lard fumé et au gorgonzola
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Viande
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé">
+            <a href="recettes/51.html">
+                Linguine au beurre miso, shiitake et épinards
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé,Dessert">
+            <a href="recettes/52.html">
+                Macarons
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Dessert
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Viande">
+            <a href="recettes/53.html">
+                Magret de canard rôti, beurre de noisettes à la bière, quinoa rouge
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Viande
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé,Dessert">
+            <a href="recettes/54.html">
+                Moelleux au chocolat
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Dessert
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé,Dessert">
+            <a href="recettes/55.html">
+                Mousse au chocolat et caramel à l'orange
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Dessert
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Japonais,Viande,Poisson">
+            <a href="recettes/56.html">
+                Nabé udon au canard
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Japonais
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Viande
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Poisson
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Japonais,Viande">
+            <a href="recettes/57.html">
+                Niku-miso domburi
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Japonais
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Viande
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Viande">
+            <a href="recettes/58.html">
+                Noisettes d'agneau aux amandes et à la fleur d'oranger
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Viande
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé">
+            <a href="recettes/59.html">
+                Nouilles soba aux aubergines et à la mangue
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé">
+            <a href="recettes/60.html">
+                Oignons au beurre de miso
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Japonais,Viande,Poisson">
+            <a href="recettes/61.html">
+                Okonomiyaki au lard
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Japonais
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Viande
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Poisson
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé">
+            <a href="recettes/62.html">
+                Orecchiette aux oignons caramélisés, noisettes grillées et feuilles de sauge frites
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Japonais,Viande">
+            <a href="recettes/63.html">
+                Oyako-don
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Japonais
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Viande
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé">
+            <a href="recettes/64.html">
+                Pain perdu et yaourt à l'orange
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé">
+            <a href="recettes/65.html">
+                Pancakes verts au beurre de citron vert
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé">
+            <a href="recettes/66.html">
+                Patates douces à la sauce tomate, citron vert et cardamome
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé">
+            <a href="recettes/67.html">
+                Pâtes au pesto, haricots grillés et pommes de terre
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Breton,Viande">
+            <a href="recettes/68.html">
+                Pièce de bœuf rôtie au sarrasin
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Breton
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Viande
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé">
+            <a href="recettes/69.html">
+                Poireaux et salsa au miso et à la ciboulette
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé">
+            <a href="recettes/70.html">
+                Polenta aux champignons et aux herbes
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Viande">
+            <a href="recettes/71.html">
+                Poulet mariné à la harissa et salade de pamplemousses roses
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Viande
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé">
+            <a href="recettes/72.html">
+                Purée à l'huile d'olive aromatisée
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé">
+            <a href="recettes/73.html">
+                Purée de haricots blancs au muhammara
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Réunion,Viande">
+            <a href="recettes/74.html">
+                Rougail Sosis Fumé
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Réunion
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Viande
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Viande">
+            <a href="recettes/75.html">
+                Roulés à la saucisse et sauce moutarde au miel
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Viande
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Viande">
+            <a href="recettes/76.html">
+                Salade au bœuf et au basilic
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Viande
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé">
+            <a href="recettes/77.html">
+                Salade de carottes rôties, sauce Chamoy
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé">
+            <a href="recettes/78.html">
+                Salade de pommes de terre royales
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé">
+            <a href="recettes/79.html">
+                Salade douce pour l'hiver
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Japonais,Végé">
+            <a href="recettes/80.html">
+                Sauces japonaises
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Japonais
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Viande">
+            <a href="recettes/81.html">
+                Saucisses aux lentilles et crème à la moutarde
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Viande
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Poisson">
+            <a href="recettes/82.html">
+                Saumon bio et salsa de poivrons rouges et de noisettes
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Poisson
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Poisson">
+            <a href="recettes/83.html">
+                Saumon rôti alla puttanesca
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Poisson
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Japonais,Poisson">
+            <a href="recettes/84.html">
+                Saumon teriyaki
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Japonais
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Poisson
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Japonais,Viande">
+            <a href="recettes/85.html">
+                Shoyu ramen
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Japonais
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Viande
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Japonais,Viande">
+            <a href="recettes/86.html">
+                Soba au poulet namban
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Japonais
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Viande
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Gagnaire,Végé">
+            <a href="recettes/87.html">
+                Spaghettis De Cecco® n°7, crème d'oignon au gorgonzola
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Gagnaire
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Japonais,Viande">
+            <a href="recettes/88.html">
+                Sukiyaki-don
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Japonais
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Viande
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé">
+            <a href="recettes/89.html">
+                Tagliatelles au safran
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé">
+            <a href="recettes/90.html">
+                Tagliatelles au safran et au beurre épicé
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé">
+            <a href="recettes/91.html">
+                Tagliatelles au safran, ricotta et échalotes frites au piment chipotle
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Japonais,Végé">
+            <a href="recettes/92.html">
+                Tempura de légumes
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Japonais
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé">
+            <a href="recettes/93.html">
+                Toasts briochés, champignons et œufs pochés
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Japonais,Végé,Dessert">
+            <a href="recettes/94.html">
+                Tokyo cheesecake au yuzu
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Japonais
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Dessert
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé">
+            <a href="recettes/95.html">
+                Tranches de potiron croustillantes et crème aigre
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Viande">
+            <a href="recettes/96.html">
+                Travers de porc caramélisés au bourbon et salade de maïs fumé
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Viande
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Poisson">
+            <a href="recettes/97.html">
+                Truite rôtie, tomates, orange et baies d'épine-vinette
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Poisson
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé,Dessert">
+            <a href="recettes/98.html">
+                Verrines de fraises rôties au sumac et yaourt égoutté
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Dessert
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-tags="Ottolenghi,Végé">
+            <a href="recettes/99.html">
+                Œufs braisés, poireaux et zaatar
+                <div class="item-tags">
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                </div>
+            </a>
+        </li>
         
     </ul>
 
-    <p class="compteur">100 recettes</p>
+    <p class="compteur" id="compteur">100 recettes</p>
 
     <script>
-        const champ = document.getElementById('recherche');
-        const items = document.querySelectorAll('#liste-recettes li');
-        champ.addEventListener('input', () => {
-            const q = champ.value.toLowerCase().trim();
+        const ORIGINES = ["Ottolenghi", "Japonais", "Gagnaire", "Breton", "R\u00e9union"];
+        const actifs = new Set();
+        let texteRecherche = "";
+
+        const items = Array.from(document.querySelectorAll("#liste-recettes li"));
+        const compteur = document.getElementById("compteur");
+
+        function filtrer() {
+            const filtresOrigine = [...actifs].filter(v => ORIGINES.includes(v));
+            const filtresType    = [...actifs].filter(v => !ORIGINES.includes(v));
+            let visible = 0;
             items.forEach(li => {
-                li.style.display = li.textContent.toLowerCase().includes(q) ? '' : 'none';
+                const tags = li.dataset.tags ? li.dataset.tags.split(",") : [];
+                const titre = li.textContent.toLowerCase();
+                const okTexte   = !texteRecherche || titre.includes(texteRecherche);
+                const okOrigine = !filtresOrigine.length || filtresOrigine.every(f => tags.includes(f));
+                const okType    = !filtresType.length    || filtresType.every(f => tags.includes(f));
+                const show = okTexte && okOrigine && okType;
+                li.style.display = show ? "" : "none";
+                if (show) visible++;
+            });
+            compteur.textContent = visible + " recette" + (visible > 1 ? "s" : "");
+        }
+
+        document.querySelectorAll(".chip").forEach(chip => {
+            chip.addEventListener("click", () => {
+                const val = chip.dataset.val;
+                const dim = chip.dataset.dim;
+                actifs.has(val) ? actifs.delete(val) : actifs.add(val);
+                chip.classList.toggle("active-origine", actifs.has(val) && dim === "origine");
+                chip.classList.toggle("active-type",    actifs.has(val) && dim === "type");
+                filtrer();
             });
         });
-        if ('serviceWorker' in navigator) {
-            navigator.serviceWorker.register('service-worker.js');
+
+        document.getElementById("recherche").addEventListener("input", e => {
+            texteRecherche = e.target.value.toLowerCase().trim();
+            filtrer();
+        });
+
+        if ("serviceWorker" in navigator) {
+            navigator.serviceWorker.register("service-worker.js");
         }
     </script>
 </body>
