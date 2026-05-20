@@ -42,16 +42,32 @@
         .ing-tag button { background: none; border: none; cursor: pointer; color: #BA7517;
                           font-size: 15px; line-height: 1; padding: 0; }
 
+        /* ── Onglets ── */
+        .tabs { display: flex; border-bottom: 0.5px solid #eee;
+                background: white; position: sticky; top: 0; z-index: 10; }
+        .tab-btn { flex: 1; padding: 11px 8px; font-size: 13px; cursor: pointer;
+                   text-align: center; color: #888; background: white;
+                   border: none; position: relative; }
+        .tab-btn.active { color: #7F77DD; font-weight: 500; }
+        .tab-btn.active::after { content: ''; position: absolute; bottom: -0.5px;
+                                  left: 0; right: 0; height: 2px; background: #7F77DD; }
+        .tab-count { display: inline-block; font-size: 11px; padding: 1px 6px;
+                     border-radius: 99px; margin-left: 4px;
+                     background: #f5f5f5; color: #888; }
+        .tab-btn.active .tab-count { background: #EEEDFE; color: #3C3489; }
+
         /* ── Tags recettes ── */
         .item-tags { display: flex; gap: 4px; flex-wrap: wrap; margin-top: 4px; }
         .tag { font-size: 11px; padding: 2px 7px; border-radius: 99px; }
         .tag-origine { background: #EEEDFE; color: #3C3489; }
         .tag-type    { background: #E1F5EE; color: #085041; }
+        .tag-bib     { background: #FAEEDA; color: #633806; }
+        .score-badge { font-size: 10px; padding: 1px 6px; border-radius: 99px; }
 
         /* ── Mode sélection ── */
         .sel-btn { padding: 6px 10px; font-size: 12px; border-radius: 6px;
                    border: 0.5px solid #ccc; background: #f5f5f5; color: #555;
-                   cursor: pointer; white-space: nowrap; margin-top: 8px; }
+                   cursor: pointer; white-space: nowrap; }
         .sel-btn.on { background: #EEEDFE; border-color: #7F77DD; color: #3C3489; }
         #liste-recettes li.picked { background: #F5F3FE; }
         #liste-recettes li .check-circle { width: 20px; height: 20px; border-radius: 50%;
@@ -145,9 +161,20 @@
         </div>
     </header>
 
+    <!-- Onglets -->
+    <div class="tabs">
+        <button class="tab-btn active" id="tab-approuvees" onclick="switchTab('approuvees')">
+            Mes recettes <span class="tab-count" id="cnt-approuvees">0</span>
+        </button>
+        <button class="tab-btn" id="tab-bibliotheque" onclick="switchTab('bibliotheque')">
+            Bibliothèque <span class="tab-count" id="cnt-bibliotheque">0</span>
+        </button>
+    </div>
+
     <ul id="liste-recettes">
         
         <li data-id="0"
+            data-approuvee="true"
             data-tags="Ottolenghi,Végé,Dessert"
             data-ingredients="abricots|||biscuits amaretti croquants|||citron vert|||crème double|||eau de fleur d'oranger|||mascarpone|||pistaches|||sauternes|||sucre|||vanille">
             <div class="check-circle"></div>
@@ -155,2077 +182,3910 @@
                 Abricots pochés et mascarpone aux pistaches et biscuits amaretti
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
+                    
+                    
                     
                     <span class="tag tag-type">
                         Végé
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
                         Dessert
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="1"
-            data-tags="Japonais,Végé"
-            data-ingredients="aubergines|||bouillon dashi|||daïkon|||huile de tournesol|||mirin|||piment d'espelette|||sauce soja|||sucre">
+            data-approuvee="false"
+            data-tags="Ottolenghi,Simple,Pas testé,Végé"
+            data-ingredients="amandes|||aneth|||asperges|||beurre|||câpres|||huile d'olive">
             <div class="check-circle"></div>
             <a href="recettes/1.html" class="item-link">
-                Aubergines frites mijotées
+                Asperges rôties aux amandes, aux câpres et à l'aneth
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Japonais
+                        Ottolenghi
                     </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Simple
+                    </span>
+                    
+                    
+                    
+                    
                     
                     <span class="tag tag-type">
                         Végé
                     </span>
+                    
+                    
+                    
+                    <span class="tag tag-bib">À tester</span>
                     
                 </div>
             </a>
         </li>
         
         <li data-id="2"
-            data-tags="Ottolenghi,Végé"
-            data-ingredients="ail|||aubergines|||citron|||grenade|||huile d'olive|||lait fermenté|||sel|||sel de maldon|||yaourt grec|||zaatar">
+            data-approuvee="true"
+            data-tags="Japonais,Végé"
+            data-ingredients="aubergines|||bouillon dashi|||daïkon|||huile de tournesol|||mirin|||piment d'espelette|||sauce soja|||sucre">
             <div class="check-circle"></div>
             <a href="recettes/2.html" class="item-link">
-                Aubergines grillées, sauce au lait fermenté
+                Aubergines frites mijotées
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Ottolenghi
+                        Japonais
                     </span>
+                    
+                    
                     
                     <span class="tag tag-type">
                         Végé
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="3"
+            data-approuvee="true"
             data-tags="Ottolenghi,Végé"
-            data-ingredients="ail|||aubergines|||coriandre|||huile d'olive|||jus de citron|||origan|||piment rouge frais|||poivre noir|||tahin">
+            data-ingredients="ail|||aubergines|||citron|||grenade|||huile d'olive|||lait fermenté|||sel|||sel de maldon|||yaourt grec|||zaatar">
             <div class="check-circle"></div>
             <a href="recettes/3.html" class="item-link">
-                Aubergines marinées au tahini et à l'origan
+                Aubergines grillées, sauce au lait fermenté
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
                         Végé
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="4"
-            data-tags="Ottolenghi,Poisson"
-            data-ingredients="ail|||anchois|||aubergines|||huile d'olive|||origan|||persil|||poivre noir|||vinaigre de vin blanc">
+            data-approuvee="true"
+            data-tags="Ottolenghi,Végé"
+            data-ingredients="ail|||aubergines|||coriandre|||huile d'olive|||jus de citron|||origan|||piment rouge frais|||poivre noir|||tahin">
             <div class="check-circle"></div>
             <a href="recettes/4.html" class="item-link">
-                Aubergines rôties aux anchois et à l'origan
+                Aubergines marinées au tahini et à l'origan
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
-                        Poisson
+                        Végé
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="5"
-            data-tags="Ottolenghi,Végé"
-            data-ingredients="amandes|||arilles de grenade|||aubergines|||citron vert|||curcuma|||curry en poudre|||graines de coriandre|||graines de cumin|||huile d'arachide|||oignons|||poivre noir|||yaourt grec">
+            data-approuvee="true"
+            data-tags="Ottolenghi,Poisson"
+            data-ingredients="ail|||anchois|||aubergines|||huile d'olive|||origan|||persil|||poivre noir|||vinaigre de vin blanc">
             <div class="check-circle"></div>
             <a href="recettes/5.html" class="item-link">
-                Aubergines rôties, sauce yaourt et curry
+                Aubergines rôties aux anchois et à l'origan
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
-                        Végé
+                        Poisson
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="6"
-            data-tags="Ottolenghi,Végé,Dessert"
-            data-ingredients="blancs d'œufs|||café|||cassonade|||crème double|||jaunes d'œufs|||lait|||maïzena|||noisettes|||noix de coco déshydratée|||sel|||sucre|||vanille|||vinaigre de cidre">
+            data-approuvee="true"
+            data-tags="Ottolenghi,Végé"
+            data-ingredients="amandes|||arilles de grenade|||aubergines|||citron vert|||curcuma|||curry en poudre|||graines de coriandre|||graines de cumin|||huile d'arachide|||oignons|||poivre noir|||yaourt grec">
             <div class="check-circle"></div>
             <a href="recettes/6.html" class="item-link">
-                Baked custard servie en affogato
+                Aubergines rôties, sauce yaourt et curry
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
                         Végé
                     </span>
                     
-                    <span class="tag tag-type">
-                        Dessert
-                    </span>
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="7"
-            data-tags="Ottolenghi,Végé"
-            data-ingredients="ail|||beurre|||blancs d'œufs|||cannelle|||coriandre|||crème aigre|||cumin|||curcuma|||échalotes|||farine|||huile d'olive|||jus de citron|||lait|||levure|||persil|||piment rouge frais|||poireaux|||sel|||sucre|||yaourt grec|||œufs">
+            data-approuvee="true"
+            data-tags="Ottolenghi,Végé,Dessert"
+            data-ingredients="blancs d'œufs|||café|||cassonade|||crème double|||jaunes d'œufs|||lait|||maïzena|||noisettes|||noix de coco déshydratée|||sel|||sucre|||vanille|||vinaigre de cidre">
             <div class="check-circle"></div>
             <a href="recettes/7.html" class="item-link">
-                Beignets de poireaux
+                Baked custard servie en affogato
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
                         Végé
                     </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Dessert
+                    </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="8"
-            data-tags="Gagnaire,Végé,Dessert"
-            data-ingredients="citron|||farine|||fraises|||jaunes d'œufs|||lait|||sucre|||vanille|||œufs">
+            data-approuvee="true"
+            data-tags="Ottolenghi,Végé"
+            data-ingredients="ail|||beurre|||blancs d'œufs|||cannelle|||coriandre|||crème aigre|||cumin|||curcuma|||échalotes|||farine|||huile d'olive|||jus de citron|||lait|||levure|||persil|||piment rouge frais|||poireaux|||sel|||sucre|||yaourt grec|||œufs">
             <div class="check-circle"></div>
             <a href="recettes/8.html" class="item-link">
-                Biscuit roulé à la vanille, jus de fraise
+                Beignets de poireaux
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Gagnaire
+                        Ottolenghi
                     </span>
+                    
+                    
                     
                     <span class="tag tag-type">
                         Végé
                     </span>
                     
-                    <span class="tag tag-type">
-                        Dessert
-                    </span>
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="9"
-            data-tags="Ottolenghi,Viande"
-            data-ingredients="ail|||cannelle|||feta|||huile d'olive|||mie de pain|||mélasse de grenade|||persil|||poivre noir|||thym|||viande d'agneau hachée">
+            data-approuvee="true"
+            data-tags="Gagnaire,Végé,Dessert"
+            data-ingredients="citron|||farine|||fraises|||jaunes d'œufs|||lait|||sucre|||vanille|||œufs">
             <div class="check-circle"></div>
             <a href="recettes/9.html" class="item-link">
-                Boulettes d'agneau à la feta
+                Biscuit roulé à la vanille, jus de fraise
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Ottolenghi
+                        Gagnaire
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
-                        Viande
+                        Végé
                     </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Dessert
+                    </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="10"
+            data-approuvee="true"
             data-tags="Ottolenghi,Viande"
-            data-ingredients="ail|||bouillon de volaille|||bœuf haché|||café|||curcuma|||céleri-rave|||huile d'olive|||mie de pain|||oignons|||paprika fumé|||persil|||poivre noir|||œufs">
+            data-ingredients="ail|||cannelle|||feta|||huile d'olive|||mie de pain|||mélasse de grenade|||persil|||poivre noir|||thym|||viande d'agneau hachée">
             <div class="check-circle"></div>
             <a href="recettes/10.html" class="item-link">
-                Boulettes de bœuf au citron et au céleri
+                Boulettes d'agneau à la feta
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
                         Viande
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="11"
+            data-approuvee="true"
             data-tags="Ottolenghi,Viande"
-            data-ingredients="ail|||aneth|||beurre|||bouillon de bœuf|||champignons|||citron|||concentré de tomates|||cornichons à l'aneth|||crème aigre|||échalotes|||graines de pavot|||huile d'olive|||lait|||moutarde de dijon|||oignons|||pain rassis|||paprika fumé|||pâtes sèches|||poivre noir|||porc haché|||œufs">
+            data-ingredients="ail|||bouillon de volaille|||bœuf haché|||café|||curcuma|||céleri-rave|||huile d'olive|||mie de pain|||oignons|||paprika fumé|||persil|||poivre noir|||œufs">
             <div class="check-circle"></div>
             <a href="recettes/11.html" class="item-link">
-                Boulettes de viande Stroganoff et tagliatelles
+                Boulettes de bœuf au citron et au céleri
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
                         Viande
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="12"
-            data-tags="Ottolenghi,Végé,Dessert"
-            data-ingredients="abricots|||beurre|||chocolat noir|||extrait de vanille|||farine|||sel|||sucre|||œufs">
+            data-approuvee="true"
+            data-tags="Ottolenghi,Viande"
+            data-ingredients="ail|||aneth|||beurre|||bouillon de bœuf|||champignons|||citron|||concentré de tomates|||cornichons à l'aneth|||crème aigre|||échalotes|||graines de pavot|||huile d'olive|||lait|||moutarde de dijon|||oignons|||pain rassis|||paprika fumé|||pâtes sèches|||poivre noir|||porc haché|||œufs">
             <div class="check-circle"></div>
             <a href="recettes/12.html" class="item-link">
-                Brownies au caramel
+                Boulettes de viande Stroganoff et tagliatelles
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
-                    <span class="tag tag-type">
-                        Végé
-                    </span>
+                    
                     
                     <span class="tag tag-type">
-                        Dessert
+                        Viande
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="13"
-            data-tags="Gagnaire,Végé,Dessert"
-            data-ingredients="beurre|||blancs d'œufs|||citron|||farine|||gélatine|||gouttes d'essence d'amande amère|||lait de coco|||poires|||purée de coco|||sucre|||sucre muscovado">
+            data-approuvee="false"
+            data-tags="Ottolenghi,Simple,Pas testé,Végé"
+            data-ingredients="avocat|||concombre|||coriandre|||graines de nigelle|||harissa|||huile d'olive|||jus de citron vert|||oignons|||pain rassis|||piment vert">
             <div class="check-circle"></div>
             <a href="recettes/13.html" class="item-link">
-                Brunoise de poires caramélisées, bavaroises au coco, tuiles au muscovado
+                Brouillade de tofu à la harissa
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Gagnaire
+                        Ottolenghi
                     </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Simple
+                    </span>
+                    
+                    
+                    
+                    
                     
                     <span class="tag tag-type">
                         Végé
                     </span>
                     
-                    <span class="tag tag-type">
-                        Dessert
-                    </span>
+                    
+                    
+                    <span class="tag tag-bib">À tester</span>
                     
                 </div>
             </a>
         </li>
         
         <li data-id="14"
-            data-tags="Ottolenghi,Végé"
-            data-ingredients="beurre|||bucatini|||huile d'olive|||marjolaine|||parmesan|||pecorino|||poivre noir|||sel|||zaatar">
+            data-approuvee="true"
+            data-tags="Ottolenghi,Végé,Dessert"
+            data-ingredients="abricots|||beurre|||chocolat noir|||extrait de vanille|||farine|||sel|||sucre|||œufs">
             <div class="check-circle"></div>
             <a href="recettes/14.html" class="item-link">
-                Cacio e pepe au zaatar
+                Brownies au caramel
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
                         Végé
                     </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Dessert
+                    </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="15"
-            data-tags="Ottolenghi,Végé,Dessert"
-            data-ingredients="beurre|||citron|||extrait de vanille|||farine|||myrtilles|||poudre d'amande|||sel|||sucre|||sucre glace|||œufs">
+            data-approuvee="true"
+            data-tags="Gagnaire,Végé,Dessert"
+            data-ingredients="beurre|||blancs d'œufs|||citron|||farine|||gélatine|||gouttes d'essence d'amande amère|||lait de coco|||poires|||purée de coco|||sucre|||sucre muscovado">
             <div class="check-circle"></div>
             <a href="recettes/15.html" class="item-link">
-                Cake aux myrtilles, citron et amandes
+                Brunoise de poires caramélisées, bavaroises au coco, tuiles au muscovado
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Ottolenghi
+                        Gagnaire
                     </span>
+                    
+                    
                     
                     <span class="tag tag-type">
                         Végé
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
                         Dessert
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="16"
-            data-tags="Ottolenghi,Végé"
-            data-ingredients="arilles de grenade|||beurre|||carottes|||coriandre|||graines de cumin|||harissa|||huile d'olive|||jus de citron|||miel|||sel">
+            data-approuvee="false"
+            data-tags="Ottolenghi,Simple,Pas testé,Végé"
+            data-ingredients="ail|||basilic|||burrata|||fleur de sel|||fromage frais|||graines de fenouil|||huile d'olive|||sucre|||vinaigre de vin blanc">
             <div class="check-circle"></div>
             <a href="recettes/16.html" class="item-link">
-                Carottes nouvelles rôties, harissa et grenade
+                Burrata au basilic, brochettes de raisin grillé
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
+                    <span class="tag tag-type">
+                        Simple
+                    </span>
+                    
+                    
+                    
+                    
+                    
                     <span class="tag tag-type">
                         Végé
                     </span>
+                    
+                    
+                    
+                    <span class="tag tag-bib">À tester</span>
                     
                 </div>
             </a>
         </li>
         
         <li data-id="17"
-            data-tags="Ottolenghi,Viande"
-            data-ingredients="ail|||carré d'agneau|||gingembre|||huile de tournesol|||jus de citron|||menthe|||miel|||persil|||piment rouge frais|||sauce soja|||vinaigre de vin rouge">
+            data-approuvee="true"
+            data-tags="Ottolenghi,Végé"
+            data-ingredients="beurre|||bucatini|||huile d'olive|||marjolaine|||parmesan|||pecorino|||poivre noir|||sel|||zaatar">
             <div class="check-circle"></div>
             <a href="recettes/17.html" class="item-link">
-                Carré d'agneau mariné à la coriandre et au miel
+                Cacio e pepe au zaatar
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
-                        Viande
+                        Végé
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="18"
-            data-tags="Ottolenghi,Végé"
-            data-ingredients="céleri-rave|||huile d'olive|||sel de maldon">
+            data-approuvee="true"
+            data-tags="Ottolenghi,Végé,Dessert"
+            data-ingredients="beurre|||citron|||extrait de vanille|||farine|||myrtilles|||poudre d'amande|||sel|||sucre|||sucre glace|||œufs">
             <div class="check-circle"></div>
             <a href="recettes/18.html" class="item-link">
-                Céleri-rave entier rôti de trois façons
+                Cake aux myrtilles, citron et amandes
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
                         Végé
                     </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Dessert
+                    </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="19"
+            data-approuvee="true"
             data-tags="Ottolenghi,Végé"
-            data-ingredients="céleri-rave|||citron|||fleur de sel|||huile d'olive">
+            data-ingredients="arilles de grenade|||beurre|||carottes|||coriandre|||graines de cumin|||harissa|||huile d'olive|||jus de citron|||miel|||sel">
             <div class="check-circle"></div>
             <a href="recettes/19.html" class="item-link">
-                Céleri-rave rôti entier et ses graines de coriandre
+                Carottes nouvelles rôties, harissa et grenade
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
                         Végé
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="20"
-            data-tags="Ottolenghi,Végé"
-            data-ingredients="ail|||ciboulette|||citron|||crème fraîche|||flocons de piment|||gorgonzola|||graines de cumin|||huile d'olive|||mélasse de grenade|||noisettes|||persil|||poivre noir|||poivrons rouges|||vinaigre de vin rouge">
+            data-approuvee="false"
+            data-tags="Ottolenghi,Simple,Pas testé,Végé"
+            data-ingredients="coriandre|||fleur de sel|||gingembre|||huile d'olive|||huile de tournesol|||oignons verts|||piment vert|||tomates|||vinaigre de vin blanc">
             <div class="check-circle"></div>
             <a href="recettes/20.html" class="item-link">
-                Céleri-rave rôti et crème au gorgonzola
+                Carpaccio de cœurs de bœuf, cébettes et gingembre
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
+                    <span class="tag tag-type">
+                        Simple
+                    </span>
+                    
+                    
+                    
+                    
+                    
                     <span class="tag tag-type">
                         Végé
                     </span>
+                    
+                    
+                    
+                    <span class="tag tag-bib">À tester</span>
                     
                 </div>
             </a>
         </li>
         
         <li data-id="21"
-            data-tags="Ottolenghi,Végé"
-            data-ingredients="ail|||basilic|||céleri|||champignons de paris|||estragon|||huile d'olive|||oignons|||parmesan|||poivre noir|||taleggio|||tomates séchées">
+            data-approuvee="true"
+            data-tags="Ottolenghi,Viande"
+            data-ingredients="ail|||carré d'agneau|||gingembre|||huile de tournesol|||jus de citron|||menthe|||miel|||persil|||piment rouge frais|||sauce soja|||vinaigre de vin rouge">
             <div class="check-circle"></div>
             <a href="recettes/21.html" class="item-link">
-                Champignons farcis au taleggio
+                Carré d'agneau mariné à la coriandre et au miel
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
-                        Végé
+                        Viande
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="22"
-            data-tags="Ottolenghi,Végé,Dessert"
-            data-ingredients="badiane|||beurre|||cerises|||citron|||crème liquide|||feta|||fromage frais|||graines de sésame|||huile d'olive|||noisettes|||orange|||poudre d'amande|||sel|||sucre">
+            data-approuvee="true"
+            data-tags="Ottolenghi,Végé"
+            data-ingredients="céleri-rave|||huile d'olive|||sel de maldon">
             <div class="check-circle"></div>
             <a href="recettes/22.html" class="item-link">
-                Cheesecake sucré-salé à la cerise
+                Céleri-rave entier rôti de trois façons
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
                         Végé
                     </span>
                     
-                    <span class="tag tag-type">
-                        Dessert
-                    </span>
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="23"
+            data-approuvee="true"
             data-tags="Ottolenghi,Végé"
-            data-ingredients="ail|||chou pointu|||citron|||estragon|||huile d'olive|||pecorino|||poivre noir">
+            data-ingredients="céleri-rave|||citron|||fleur de sel|||huile d'olive">
             <div class="check-circle"></div>
             <a href="recettes/23.html" class="item-link">
-                Chou rôti à l'estragon et au pecorino
+                Céleri-rave rôti entier et ses graines de coriandre
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
                         Végé
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="24"
-            data-tags="Japonais,Végé"
-            data-ingredients="chou rouge|||dashi|||gingembre|||mirin|||miso doux|||miso rouge|||oignons|||persil|||purée de sésame|||tamari|||vinaigre de riz">
+            data-approuvee="true"
+            data-tags="Ottolenghi,Végé"
+            data-ingredients="ail|||ciboulette|||citron|||crème fraîche|||flocons de piment|||gorgonzola|||graines de cumin|||huile d'olive|||mélasse de grenade|||noisettes|||persil|||poivre noir|||poivrons rouges|||vinaigre de vin rouge">
             <div class="check-circle"></div>
             <a href="recettes/24.html" class="item-link">
-                Chou rouge rôti au miso
+                Céleri-rave rôti et crème au gorgonzola
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Japonais
+                        Ottolenghi
                     </span>
+                    
+                    
                     
                     <span class="tag tag-type">
                         Végé
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="25"
-            data-tags="Ottolenghi,Viande"
-            data-ingredients="ail|||beurre|||chou-fleur|||citron|||concentré de tomates|||flocons de piment|||harissa|||huile d'olive|||oignons|||piment d'urfa|||piment rouge frais|||sel|||sucre">
+            data-approuvee="true"
+            data-tags="Ottolenghi,Végé"
+            data-ingredients="ail|||basilic|||céleri|||champignons de paris|||estragon|||huile d'olive|||oignons|||parmesan|||poivre noir|||taleggio|||tomates séchées">
             <div class="check-circle"></div>
             <a href="recettes/25.html" class="item-link">
-                Chou-fleur rôti au beurre pimenté
+                Champignons farcis au taleggio
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
-                        Viande
+                        Végé
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="26"
-            data-tags="Ottolenghi,Végé"
-            data-ingredients="ail|||beurre|||chou-fleur|||citron|||fleur de sel|||huile d'olive|||jus de citron|||persil|||tahin">
+            data-approuvee="false"
+            data-tags="Ottolenghi,Simple,Pas testé,Végé"
+            data-ingredients="ail|||citron|||fleur de sel|||graines de cumin|||huile d'olive|||origan|||piment d'urfa|||sucre|||thym|||tomates cerises|||yaourt grec">
             <div class="check-circle"></div>
             <a href="recettes/26.html" class="item-link">
-                Chou-fleur rôti entier
+                Chaud-froid de tomates cerise au yaourt citronné
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
+                    <span class="tag tag-type">
+                        Simple
+                    </span>
+                    
+                    
+                    
+                    
+                    
                     <span class="tag tag-type">
                         Végé
                     </span>
+                    
+                    
+                    
+                    <span class="tag tag-bib">À tester</span>
                     
                 </div>
             </a>
         </li>
         
         <li data-id="27"
+            data-approuvee="true"
             data-tags="Ottolenghi,Végé,Dessert"
-            data-ingredients="crème liquide|||extrait de vanille|||fraises|||jaunes d'œufs|||maïzena|||rhubarbe|||sucre">
+            data-ingredients="badiane|||beurre|||cerises|||citron|||crème liquide|||feta|||fromage frais|||graines de sésame|||huile d'olive|||noisettes|||orange|||poudre d'amande|||sel|||sucre">
             <div class="check-circle"></div>
             <a href="recettes/27.html" class="item-link">
-                Crème aux œufs fraise-rhubarbe
+                Cheesecake sucré-salé à la cerise
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
                         Végé
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
                         Dessert
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="28"
-            data-tags="Breton,Végé"
-            data-ingredients="beurre|||farine|||lait|||sucre|||œufs">
+            data-approuvee="true"
+            data-tags="Ottolenghi,Végé"
+            data-ingredients="ail|||chou pointu|||citron|||estragon|||huile d'olive|||pecorino|||poivre noir">
             <div class="check-circle"></div>
             <a href="recettes/28.html" class="item-link">
-                Crêpes de froment
+                Chou rôti à l'estragon et au pecorino
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Breton
+                        Ottolenghi
                     </span>
+                    
+                    
                     
                     <span class="tag tag-type">
                         Végé
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="29"
-            data-tags="Ottolenghi,Végé"
-            data-ingredients="ail|||aubergines|||café|||chapelure|||estragon|||feta|||huile d'olive|||huile de colza|||huile de tournesol|||jaunes d'œufs|||jus de citron|||parmesan|||poivre noir|||pommes de terre|||sel|||œufs">
+            data-approuvee="true"
+            data-tags="Japonais,Végé"
+            data-ingredients="chou rouge|||dashi|||gingembre|||mirin|||miso doux|||miso rouge|||oignons|||persil|||purée de sésame|||tamari|||vinaigre de riz">
             <div class="check-circle"></div>
             <a href="recettes/29.html" class="item-link">
-                Croquettes d'aubergines
+                Chou rouge rôti au miso
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Ottolenghi
+                        Japonais
                     </span>
+                    
+                    
                     
                     <span class="tag tag-type">
                         Végé
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="30"
-            data-tags="Ottolenghi,Végé"
-            data-ingredients="ail|||cerfeuil|||fromage de chèvre|||huile d'olive|||jus de citron|||pain rassis|||pignons de pin|||poires|||poivre noir|||sucre">
+            data-approuvee="true"
+            data-tags="Ottolenghi,Viande"
+            data-ingredients="ail|||beurre|||chou-fleur|||citron|||concentré de tomates|||flocons de piment|||harissa|||huile d'olive|||oignons|||piment d'urfa|||piment rouge frais|||sel|||sucre">
             <div class="check-circle"></div>
             <a href="recettes/30.html" class="item-link">
-                Crostinis aux poires
+                Chou-fleur rôti au beurre pimenté
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
-                        Végé
+                        Viande
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="31"
+            data-approuvee="true"
             data-tags="Ottolenghi,Végé"
-            data-ingredients="ail|||coriandre|||fleur de sel|||gingembre|||huile d'olive|||piment rouge frais|||tomates">
+            data-ingredients="ail|||beurre|||chou-fleur|||citron|||fleur de sel|||huile d'olive|||jus de citron|||persil|||tahin">
             <div class="check-circle"></div>
             <a href="recettes/31.html" class="item-link">
-                Cœurs de bœuf grillées, piment, ail et gingembre
+                Chou-fleur rôti entier
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
                         Végé
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="32"
-            data-tags="Ottolenghi,Viande"
-            data-ingredients="ail|||bacon|||basilic|||cassonade|||cheddar|||farine|||flocons de piment|||huile d'olive|||lait|||moutarde anglaise|||parmesan|||poivre noir|||thym|||tomates cerises|||vinaigre balsamique|||œufs">
+            data-approuvee="false"
+            data-tags="Ottolenghi,Simple,Pas testé,Végé"
+            data-ingredients="ail|||bouillon de légumes|||courgettes|||fleur de sel|||huile d'olive|||origan">
             <div class="check-circle"></div>
             <a href="recettes/32.html" class="item-link">
-                Dutch baby aux tomates rôties
+                Courgettes à l'étuvée, ail et origan
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
-                        Viande
+                        Simple
                     </span>
+                    
+                    
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-bib">À tester</span>
                     
                 </div>
             </a>
         </li>
         
         <li data-id="33"
-            data-tags="Ottolenghi,Végé"
-            data-ingredients="beurre|||crème fraîche|||endives|||noix|||pignons de pin|||poivre blanc|||roquefort">
+            data-approuvee="false"
+            data-tags="Ottolenghi,Simple,Pas testé,Végé"
+            data-ingredients="ail|||basilic|||beurre|||citron|||courgettes|||estragon|||huile d'olive|||lait|||pecorino|||pignons de pin|||pois mange-tout|||semoule fine">
             <div class="check-circle"></div>
             <a href="recettes/33.html" class="item-link">
-                Endives aux noix et au roquefort
+                Courgettes et petits pois aux herbes, semoule au lait
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
+                    <span class="tag tag-type">
+                        Simple
+                    </span>
+                    
+                    
+                    
+                    
+                    
                     <span class="tag tag-type">
                         Végé
                     </span>
+                    
+                    
+                    
+                    <span class="tag tag-bib">À tester</span>
                     
                 </div>
             </a>
         </li>
         
         <li data-id="34"
-            data-tags="Breton,Végé,Dessert"
-            data-ingredients="beurre demi-sel|||farine|||lait|||pruneaux|||rhum brun|||sel|||sucre|||œufs">
+            data-approuvee="false"
+            data-tags="Ottolenghi,Simple,Pas testé,Végé"
+            data-ingredients="ail|||citron|||courgettes|||huile d'olive|||mie de pain|||œufs|||origan|||parmesan|||pignons de pin|||tomates cerises">
             <div class="check-circle"></div>
             <a href="recettes/34.html" class="item-link">
-                Far breton aux pruneaux
+                Courgettes farcies, sauce vierge aux pignons
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Breton
+                        Ottolenghi
                     </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Simple
+                    </span>
+                    
+                    
+                    
+                    
                     
                     <span class="tag tag-type">
                         Végé
                     </span>
                     
-                    <span class="tag tag-type">
-                        Dessert
-                    </span>
+                    
+                    
+                    <span class="tag tag-bib">À tester</span>
                     
                 </div>
             </a>
         </li>
         
         <li data-id="35"
-            data-tags="Ottolenghi,Viande"
-            data-ingredients="ail|||citron|||faux-filet|||fleur de sel|||harissa|||huile d'olive|||paprika|||persil|||piment en flocons|||poivrons rouges|||tomates en conserve">
+            data-approuvee="true"
+            data-tags="Ottolenghi,Végé,Dessert"
+            data-ingredients="crème liquide|||extrait de vanille|||fraises|||jaunes d'œufs|||maïzena|||rhubarbe|||sucre">
             <div class="check-circle"></div>
             <a href="recettes/35.html" class="item-link">
-                Faux-filet épicé, sauce poivron-citron
+                Crème aux œufs fraise-rhubarbe
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
-                        Viande
+                        Végé
                     </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Dessert
+                    </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="36"
-            data-tags="Gagnaire,Poisson"
-            data-ingredients="agar-agar|||beurre|||chapelure|||citron|||crème liquide|||farine|||gélatine|||huile d'olive|||huile de tournesol|||jus de citron|||lait|||merlans|||persil|||pommes de terre|||roquette|||sel|||sucre|||œufs">
+            data-approuvee="true"
+            data-tags="Breton,Végé"
+            data-ingredients="beurre|||farine|||lait|||sucre|||œufs">
             <div class="check-circle"></div>
             <a href="recettes/36.html" class="item-link">
-                Filets de merlan, gel de citron, purée de pommes de terre roquette-persil
+                Crêpes de froment
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Gagnaire
+                        Breton
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
-                        Poisson
+                        Végé
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="37"
-            data-tags="Breton,Végé"
-            data-ingredients="beurre demi-sel|||farine|||pommes|||sucre">
+            data-approuvee="false"
+            data-tags="Ottolenghi,Simple,Pas testé,Végé"
+            data-ingredients="cresson|||échalotes|||fraises|||huile d'olive|||mélange quatre-épices|||sirop d'érable|||vinaigre de cidre">
             <div class="check-circle"></div>
             <a href="recettes/37.html" class="item-link">
-                Fine tarte aux pommes et au beurre salé
+                Cresson et radicchio aux pêches, framboises et cinq épices
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Breton
+                        Ottolenghi
                     </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Simple
+                    </span>
+                    
+                    
+                    
+                    
                     
                     <span class="tag tag-type">
                         Végé
                     </span>
+                    
+                    
+                    
+                    <span class="tag tag-bib">À tester</span>
                     
                 </div>
             </a>
         </li>
         
         <li data-id="38"
-            data-tags="Ottolenghi,Végé"
-            data-ingredients="ail|||fleur de sel|||huile d'olive|||paprika fumé|||patates douces|||piment de cayenne|||polenta|||sumac">
+            data-approuvee="false"
+            data-tags="Ottolenghi,Simple,Pas testé,Végé"
+            data-ingredients="citron|||farine|||feta|||huile de tournesol|||levure|||menthe|||œufs|||pois mange-tout|||ricotta|||zaatar">
             <div class="check-circle"></div>
             <a href="recettes/38.html" class="item-link">
-                Frites de patate douce épicées
+                Croquettes aux petits pois, à la feta et au zaatar
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
+                    <span class="tag tag-type">
+                        Simple
+                    </span>
+                    
+                    
+                    
+                    
+                    
                     <span class="tag tag-type">
                         Végé
                     </span>
+                    
+                    
+                    
+                    <span class="tag tag-bib">À tester</span>
                     
                 </div>
             </a>
         </li>
         
         <li data-id="39"
+            data-approuvee="true"
             data-tags="Ottolenghi,Végé"
-            data-ingredients="ail|||basilic|||courgettes|||crème liquide|||cumin|||huile d'olive|||lait|||pain rassis|||parmesan|||poivre noir|||œufs">
+            data-ingredients="ail|||aubergines|||café|||chapelure|||estragon|||feta|||huile d'olive|||huile de colza|||huile de tournesol|||jaunes d'œufs|||jus de citron|||parmesan|||poivre noir|||pommes de terre|||sel|||œufs">
             <div class="check-circle"></div>
             <a href="recettes/39.html" class="item-link">
-                Frittata moelleuse aux courgettes
+                Croquettes d'aubergines
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
                         Végé
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="40"
+            data-approuvee="true"
             data-tags="Ottolenghi,Végé"
-            data-ingredients="beurre|||coriandre|||crème aigre|||farine|||huile d'olive|||jus de citron|||oignons verts|||patates douces|||piment rouge frais|||poivre noir|||sauce soja|||sel|||sucre|||yaourt grec">
+            data-ingredients="ail|||cerfeuil|||fromage de chèvre|||huile d'olive|||jus de citron|||pain rassis|||pignons de pin|||poires|||poivre noir|||sucre">
             <div class="check-circle"></div>
             <a href="recettes/40.html" class="item-link">
-                Galettes de patates douces
+                Crostinis aux poires
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
                         Végé
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="41"
-            data-tags="Breton,Végé"
-            data-ingredients="beurre|||farine|||sel|||œufs">
+            data-approuvee="true"
+            data-tags="Ottolenghi,Végé"
+            data-ingredients="ail|||coriandre|||fleur de sel|||gingembre|||huile d'olive|||piment rouge frais|||tomates">
             <div class="check-circle"></div>
             <a href="recettes/41.html" class="item-link">
-                Galettes ou crêpes de blé noir
+                Cœurs de bœuf grillées, piment, ail et gingembre
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Breton
+                        Ottolenghi
                     </span>
+                    
+                    
                     
                     <span class="tag tag-type">
                         Végé
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="42"
-            data-tags="Ottolenghi,Végé,Dessert"
-            data-ingredients="badiane|||beurre|||cannelle|||cardamome|||chocolat noir|||crème fraîche|||fleur de sel|||graines de coriandre|||huile d'olive|||noisettes|||orange|||poivre noir|||sucre|||sucre glace|||œufs">
+            data-approuvee="true"
+            data-tags="Ottolenghi,Viande"
+            data-ingredients="ail|||bacon|||basilic|||cassonade|||cheddar|||farine|||flocons de piment|||huile d'olive|||lait|||moutarde anglaise|||parmesan|||poivre noir|||thym|||tomates cerises|||vinaigre balsamique|||œufs">
             <div class="check-circle"></div>
             <a href="recettes/42.html" class="item-link">
-                Ganache au chocolat, noisettes aux épices et huile à l'orange
+                Dutch baby aux tomates rôties
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
-                    <span class="tag tag-type">
-                        Végé
-                    </span>
+                    
                     
                     <span class="tag tag-type">
-                        Dessert
+                        Viande
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="43"
-            data-tags="Ottolenghi,Végé,Dessert"
-            data-ingredients="beurre|||café|||cassonade|||crème fraîche|||extrait de vanille|||farine|||mélange quatre-épices|||pommes|||sucre|||œufs">
+            data-approuvee="false"
+            data-tags="Ottolenghi,Simple,Pas testé,Végé"
+            data-ingredients="ail|||aneth|||courgettes|||huile d'olive|||jus de citron|||menthe|||thym">
             <div class="check-circle"></div>
             <a href="recettes/43.html" class="item-link">
-                Gâteau aux pommes et aux épices
+                Écrasé de courgettes à l'ail et aux herbes
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
+                    <span class="tag tag-type">
+                        Simple
+                    </span>
+                    
+                    
+                    
+                    
+                    
                     <span class="tag tag-type">
                         Végé
                     </span>
                     
-                    <span class="tag tag-type">
-                        Dessert
-                    </span>
+                    
+                    
+                    <span class="tag tag-bib">À tester</span>
                     
                 </div>
             </a>
         </li>
         
         <li data-id="44"
-            data-tags="Gagnaire,Végé,Dessert"
-            data-ingredients="café|||gélatine|||jus d'orange|||limoncello|||orange|||poires|||rhum blanc|||sucre">
+            data-approuvee="true"
+            data-tags="Ottolenghi,Végé"
+            data-ingredients="beurre|||crème fraîche|||endives|||noix|||pignons de pin|||poivre blanc|||roquefort">
             <div class="check-circle"></div>
             <a href="recettes/44.html" class="item-link">
-                Gelée de café et granité orange, rhum blanc et limoncello
+                Endives aux noix et au roquefort
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Gagnaire
+                        Ottolenghi
                     </span>
+                    
+                    
                     
                     <span class="tag tag-type">
                         Végé
                     </span>
                     
-                    <span class="tag tag-type">
-                        Dessert
-                    </span>
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="45"
-            data-tags="Ottolenghi,Poisson"
-            data-ingredients="ail|||anchois|||aneth|||beurre|||câpres|||ciboulette|||citron|||graines de fenouil|||jaunes d'œufs|||jus de citron|||lait|||persil|||poivre noir|||pommes de terre|||saumon fumé">
+            data-approuvee="true"
+            data-tags="Breton,Végé,Dessert"
+            data-ingredients="beurre demi-sel|||farine|||lait|||pruneaux|||rhum brun|||sel|||sucre|||œufs">
             <div class="check-circle"></div>
             <a href="recettes/45.html" class="item-link">
-                Gratin de pommes de terre, fenouil et saumon fumé
+                Far breton aux pruneaux
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Ottolenghi
+                        Breton
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
-                        Poisson
+                        Végé
                     </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Dessert
+                    </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="46"
-            data-tags="Japonais,Viande"
-            data-ingredients="ail|||chou vert|||farine|||gingembre|||huile de sésame|||oignons verts|||porc haché|||sauce soja|||sel|||vinaigre de riz">
+            data-approuvee="true"
+            data-tags="Ottolenghi,Viande"
+            data-ingredients="ail|||citron|||faux-filet|||fleur de sel|||harissa|||huile d'olive|||paprika|||persil|||piment en flocons|||poivrons rouges|||tomates en conserve">
             <div class="check-circle"></div>
             <a href="recettes/46.html" class="item-link">
-                Gyoza
+                Faux-filet épicé, sauce poivron-citron
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Japonais
+                        Ottolenghi
                     </span>
+                    
+                    
                     
                     <span class="tag tag-type">
                         Viande
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="47"
-            data-tags="Japonais,Viande,Poisson"
-            data-ingredients="bouillon dashi|||chou vert|||farine|||fécule de pomme de terre|||huile de tournesol|||lard|||mayonnaise kewpie|||nouilles yakisoba|||oignons verts|||pois mange-tout|||sauce okonomiyaki|||œufs">
+            data-approuvee="true"
+            data-tags="Gagnaire,Poisson"
+            data-ingredients="agar-agar|||beurre|||chapelure|||citron|||crème liquide|||farine|||gélatine|||huile d'olive|||huile de tournesol|||jus de citron|||lait|||merlans|||persil|||pommes de terre|||roquette|||sel|||sucre|||œufs">
             <div class="check-circle"></div>
             <a href="recettes/47.html" class="item-link">
-                Hiroshima okonomiyaki
+                Filets de merlan, gel de citron, purée de pommes de terre roquette-persil
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Japonais
+                        Gagnaire
                     </span>
                     
-                    <span class="tag tag-type">
-                        Viande
-                    </span>
+                    
                     
                     <span class="tag tag-type">
                         Poisson
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="48"
-            data-tags="Japonais,Viande,Poisson"
-            data-ingredients="bouillon de poulet|||concombre|||gingembre|||graines de sésame|||huile de sésame|||jambon blanc|||jus de citron|||moutarde karashi|||nori|||nouilles ramen|||piment en flocons|||sauce soja|||sucre|||tagliatelles|||tomates|||vinaigre de riz">
+            data-approuvee="true"
+            data-tags="Breton,Végé"
+            data-ingredients="beurre demi-sel|||farine|||pommes|||sucre">
             <div class="check-circle"></div>
             <a href="recettes/48.html" class="item-link">
-                Hiyashi chuka
+                Fine tarte aux pommes et au beurre salé
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Japonais
+                        Breton
                     </span>
                     
-                    <span class="tag tag-type">
-                        Viande
-                    </span>
+                    
                     
                     <span class="tag tag-type">
-                        Poisson
+                        Végé
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="49"
-            data-tags="Japonais,Viande"
-            data-ingredients="ail|||citron|||cuisses de poulet|||fécule de pomme de terre|||gingembre|||huile de tournesol|||poivre noir|||saké|||sauce soja">
+            data-approuvee="true"
+            data-tags="Ottolenghi,Végé"
+            data-ingredients="ail|||fleur de sel|||huile d'olive|||paprika fumé|||patates douces|||piment de cayenne|||polenta|||sumac">
             <div class="check-circle"></div>
             <a href="recettes/49.html" class="item-link">
-                Kara age
+                Frites de patate douce épicées
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Japonais
+                        Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
-                        Viande
+                        Végé
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="50"
-            data-tags="Ottolenghi,Viande"
-            data-ingredients="échalotes|||épinards|||gorgonzola|||griottes|||huile d'olive|||lard|||laurier|||lentilles du puy|||poivre noir|||sucre|||vinaigre de vin rouge">
+            data-approuvee="true"
+            data-tags="Ottolenghi,Végé"
+            data-ingredients="ail|||basilic|||courgettes|||crème liquide|||cumin|||huile d'olive|||lait|||pain rassis|||parmesan|||poivre noir|||œufs">
             <div class="check-circle"></div>
             <a href="recettes/50.html" class="item-link">
-                Lentilles du Puy aux griottes, au lard fumé et au gorgonzola
+                Frittata moelleuse aux courgettes
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
-                        Viande
+                        Végé
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="51"
+            data-approuvee="true"
             data-tags="Ottolenghi,Végé"
-            data-ingredients="ail|||beurre|||champignons shiitaké|||citron|||échalotes|||épinards|||huile d'olive|||miso blanc|||pâtes sèches|||poivre noir|||sauce soja|||shichimi togarashi|||vinaigre noir de chinkiang">
+            data-ingredients="beurre|||coriandre|||crème aigre|||farine|||huile d'olive|||jus de citron|||oignons verts|||patates douces|||piment rouge frais|||poivre noir|||sauce soja|||sel|||sucre|||yaourt grec">
             <div class="check-circle"></div>
             <a href="recettes/51.html" class="item-link">
-                Linguine au beurre miso, shiitake et épinards
+                Galettes de patates douces
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
                         Végé
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="52"
-            data-tags="Ottolenghi,Végé,Dessert"
-            data-ingredients="amandes|||basilic|||beurre|||blancs d'œufs|||cacahuètes grillées|||cacao|||chocolat noir|||citron vert|||crème fraîche|||dulce de leche|||rhum brun|||sel|||sucre|||sucre glace">
+            data-approuvee="false"
+            data-tags="Ottolenghi,Simple,Pas testé,Végé"
+            data-ingredients="aneth|||basilic|||coriandre|||cumin|||huile de tournesol|||mie de pain|||noix|||œufs|||tahin">
             <div class="check-circle"></div>
             <a href="recettes/52.html" class="item-link">
-                Macarons
+                Galettes iraniennes aux herbes
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
+                    <span class="tag tag-type">
+                        Simple
+                    </span>
+                    
+                    
+                    
+                    
+                    
                     <span class="tag tag-type">
                         Végé
                     </span>
                     
-                    <span class="tag tag-type">
-                        Dessert
-                    </span>
+                    
+                    
+                    <span class="tag tag-bib">À tester</span>
                     
                 </div>
             </a>
         </li>
         
         <li data-id="53"
-            data-tags="Ottolenghi,Viande"
-            data-ingredients="ail|||champignons shimeji|||ciboulette|||citron vert|||échalotes|||huile d'olive|||huile de tournesol|||magret de canard|||mirin|||moutarde de dijon|||noisettes|||pleurotes|||quinoa rouge|||sauce soja|||sel de mer|||sirop de datte|||sucre muscovado|||vinaigre de riz">
+            data-approuvee="true"
+            data-tags="Breton,Végé"
+            data-ingredients="beurre|||farine|||sel|||œufs">
             <div class="check-circle"></div>
             <a href="recettes/53.html" class="item-link">
-                Magret de canard rôti, beurre de noisettes à la bière, quinoa rouge
+                Galettes ou crêpes de blé noir
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Ottolenghi
+                        Breton
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
-                        Viande
+                        Végé
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="54"
+            data-approuvee="true"
             data-tags="Ottolenghi,Végé,Dessert"
-            data-ingredients="beurre|||cacao|||chocolat noir|||sel|||sucre muscovado|||œufs">
+            data-ingredients="badiane|||beurre|||cannelle|||cardamome|||chocolat noir|||crème fraîche|||fleur de sel|||graines de coriandre|||huile d'olive|||noisettes|||orange|||poivre noir|||sucre|||sucre glace|||œufs">
             <div class="check-circle"></div>
             <a href="recettes/54.html" class="item-link">
-                Moelleux au chocolat
+                Ganache au chocolat, noisettes aux épices et huile à l'orange
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
                         Végé
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
                         Dessert
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="55"
+            data-approuvee="true"
             data-tags="Ottolenghi,Végé,Dessert"
-            data-ingredients="chocolat noir|||crème aigre|||crème liquide|||noisettes|||orange|||sel de mer|||sucre|||œufs">
+            data-ingredients="beurre|||café|||cassonade|||crème fraîche|||extrait de vanille|||farine|||mélange quatre-épices|||pommes|||sucre|||œufs">
             <div class="check-circle"></div>
             <a href="recettes/55.html" class="item-link">
-                Mousse au chocolat et caramel à l'orange
+                Gâteau aux pommes et aux épices
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
                         Végé
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
                         Dessert
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="56"
-            data-tags="Japonais,Viande,Poisson"
-            data-ingredients="champignons énoki|||champignons shiitaké|||épinards|||magret de canard|||mirin|||nouilles udon|||poivre sansho|||sauce soja">
+            data-approuvee="true"
+            data-tags="Gagnaire,Végé,Dessert"
+            data-ingredients="café|||gélatine|||jus d'orange|||limoncello|||orange|||poires|||rhum blanc|||sucre">
             <div class="check-circle"></div>
             <a href="recettes/56.html" class="item-link">
-                Nabé udon au canard
+                Gelée de café et granité orange, rhum blanc et limoncello
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Japonais
+                        Gagnaire
                     </span>
                     
-                    <span class="tag tag-type">
-                        Viande
-                    </span>
+                    
                     
                     <span class="tag tag-type">
-                        Poisson
+                        Végé
                     </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Dessert
+                    </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="57"
-            data-tags="Japonais,Viande"
-            data-ingredients="ail|||concombre|||coriandre|||gingembre|||graines de sésame|||huile de sésame|||huile de tournesol|||maïzena|||miso|||poireaux|||porc haché|||riz|||sauce soja|||sucre">
+            data-approuvee="true"
+            data-tags="Ottolenghi,Poisson"
+            data-ingredients="ail|||anchois|||aneth|||beurre|||câpres|||ciboulette|||citron|||graines de fenouil|||jaunes d'œufs|||jus de citron|||lait|||persil|||poivre noir|||pommes de terre|||saumon fumé">
             <div class="check-circle"></div>
             <a href="recettes/57.html" class="item-link">
-                Niku-miso domburi
+                Gratin de pommes de terre, fenouil et saumon fumé
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Japonais
+                        Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
-                        Viande
+                        Poisson
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="58"
-            data-tags="Ottolenghi,Viande"
-            data-ingredients="ail|||amandes|||citron|||eau de fleur d'oranger|||filet d'agneau|||huile d'olive|||menthe|||miel|||poivre noir|||poivrons rouges|||thym">
+            data-approuvee="true"
+            data-tags="Japonais,Viande"
+            data-ingredients="ail|||chou vert|||farine|||gingembre|||huile de sésame|||oignons verts|||porc haché|||sauce soja|||sel|||vinaigre de riz">
             <div class="check-circle"></div>
             <a href="recettes/58.html" class="item-link">
-                Noisettes d'agneau aux amandes et à la fleur d'oranger
+                Gyoza
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Ottolenghi
+                        Japonais
                     </span>
+                    
+                    
                     
                     <span class="tag tag-type">
                         Viande
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="59"
-            data-tags="Ottolenghi,Végé"
-            data-ingredients="ail|||aubergines|||basilic|||citron vert|||coriandre|||huile de sésame|||huile de tournesol|||mangue|||nouilles soba|||oignons rouges|||piment rouge frais|||sel|||sucre|||vinaigre de riz">
+            data-approuvee="true"
+            data-tags="Japonais,Viande,Poisson"
+            data-ingredients="bouillon dashi|||chou vert|||farine|||fécule de pomme de terre|||huile de tournesol|||lard|||mayonnaise kewpie|||nouilles yakisoba|||oignons verts|||pois mange-tout|||sauce okonomiyaki|||œufs">
             <div class="check-circle"></div>
             <a href="recettes/59.html" class="item-link">
-                Nouilles soba aux aubergines et à la mangue
+                Hiroshima okonomiyaki
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Ottolenghi
+                        Japonais
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
-                        Végé
+                        Viande
                     </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Poisson
+                    </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="60"
-            data-tags="Ottolenghi,Végé"
-            data-ingredients="beurre|||miso blanc|||oignons">
+            data-approuvee="true"
+            data-tags="Japonais,Viande,Poisson"
+            data-ingredients="bouillon de poulet|||concombre|||gingembre|||graines de sésame|||huile de sésame|||jambon blanc|||jus de citron|||moutarde karashi|||nori|||nouilles ramen|||piment en flocons|||sauce soja|||sucre|||tagliatelles|||tomates|||vinaigre de riz">
             <div class="check-circle"></div>
             <a href="recettes/60.html" class="item-link">
-                Oignons au beurre de miso
+                Hiyashi chuka
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Ottolenghi
+                        Japonais
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
-                        Végé
+                        Viande
                     </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Poisson
+                    </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="61"
-            data-tags="Japonais,Viande,Poisson"
-            data-ingredients="ao nori|||bouillon dashi|||chou vert|||farine|||fécule de pomme de terre|||gingembre|||huile de tournesol|||lard|||oignons verts|||sauce okonomiyaki|||œufs">
+            data-approuvee="false"
+            data-tags="Ottolenghi,Simple,Pas testé,Végé"
+            data-ingredients="aneth|||asperges|||estragon|||fèves|||graines de courge|||huile d'olive|||kale|||moutarde à l'ancienne|||sirop d'érable|||vinaigre de vin blanc">
             <div class="check-circle"></div>
             <a href="recettes/61.html" class="item-link">
-                Okonomiyaki au lard
+                Kale mariné à la moutarde, asperges et fèves
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Japonais
+                        Ottolenghi
                     </span>
                     
-                    <span class="tag tag-type">
-                        Viande
-                    </span>
+                    
                     
                     <span class="tag tag-type">
-                        Poisson
+                        Simple
                     </span>
+                    
+                    
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-bib">À tester</span>
                     
                 </div>
             </a>
         </li>
         
         <li data-id="62"
-            data-tags="Ottolenghi,Végé"
-            data-ingredients="jus de citron|||noisettes|||oignons|||pâtes sèches|||poivre noir|||sauge">
+            data-approuvee="true"
+            data-tags="Japonais,Viande"
+            data-ingredients="ail|||citron|||cuisses de poulet|||fécule de pomme de terre|||gingembre|||huile de tournesol|||poivre noir|||saké|||sauce soja">
             <div class="check-circle"></div>
             <a href="recettes/62.html" class="item-link">
-                Orecchiette aux oignons caramélisés, noisettes grillées et feuilles de sauge frites
+                Kara age
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Ottolenghi
+                        Japonais
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
-                        Végé
+                        Viande
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="63"
-            data-tags="Japonais,Viande"
-            data-ingredients="bouillon dashi|||cuisses de poulet|||mirin|||nori|||oignons verts|||riz|||sauce soja|||œufs">
+            data-approuvee="true"
+            data-tags="Ottolenghi,Viande"
+            data-ingredients="échalotes|||épinards|||gorgonzola|||griottes|||huile d'olive|||lard|||laurier|||lentilles du puy|||poivre noir|||sucre|||vinaigre de vin rouge">
             <div class="check-circle"></div>
             <a href="recettes/63.html" class="item-link">
-                Oyako-don
+                Lentilles du Puy aux griottes, au lard fumé et au gorgonzola
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Japonais
+                        Ottolenghi
                     </span>
+                    
+                    
                     
                     <span class="tag tag-type">
                         Viande
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="64"
+            data-approuvee="true"
             data-tags="Ottolenghi,Végé"
-            data-ingredients="badiane|||beurre|||fruits rouges|||jus d'orange|||jus de citron|||lait|||orange|||pain brioché|||sucre|||sucre glace|||yaourt grec|||œufs">
+            data-ingredients="ail|||beurre|||champignons shiitaké|||citron|||échalotes|||épinards|||huile d'olive|||miso blanc|||pâtes sèches|||poivre noir|||sauce soja|||shichimi togarashi|||vinaigre noir de chinkiang">
             <div class="check-circle"></div>
             <a href="recettes/64.html" class="item-link">
-                Pain perdu et yaourt à l'orange
+                Linguine au beurre miso, shiitake et épinards
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
                         Végé
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="65"
-            data-tags="Ottolenghi,Végé"
-            data-ingredients="ail|||beurre|||blancs d'œufs|||café|||citron|||coriandre|||cumin|||épinards|||farine|||flocons de piment|||huile d'olive|||jus de citron vert|||lait|||levure|||oignons verts|||piments verts|||poivre blanc|||sel|||œufs">
+            data-approuvee="true"
+            data-tags="Ottolenghi,Végé,Dessert"
+            data-ingredients="amandes|||basilic|||beurre|||blancs d'œufs|||cacahuètes grillées|||cacao|||chocolat noir|||citron vert|||crème fraîche|||dulce de leche|||rhum brun|||sel|||sucre|||sucre glace">
             <div class="check-circle"></div>
             <a href="recettes/65.html" class="item-link">
-                Pancakes verts au beurre de citron vert
+                Macarons
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
                         Végé
                     </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Dessert
+                    </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="66"
-            data-tags="Ottolenghi,Végé"
-            data-ingredients="ail|||aneth|||cardamome|||citron|||concentré de tomates|||cumin|||échalotes|||huile d'olive|||piments verts|||poivre noir|||sirop d'érable|||sucre|||tomates en conserve">
+            data-approuvee="true"
+            data-tags="Ottolenghi,Viande"
+            data-ingredients="ail|||champignons shimeji|||ciboulette|||citron vert|||échalotes|||huile d'olive|||huile de tournesol|||magret de canard|||mirin|||moutarde de dijon|||noisettes|||pleurotes|||quinoa rouge|||sauce soja|||sel de mer|||sirop de datte|||sucre muscovado|||vinaigre de riz">
             <div class="check-circle"></div>
             <a href="recettes/66.html" class="item-link">
-                Patates douces à la sauce tomate, citron vert et cardamome
+                Magret de canard rôti, beurre de noisettes à la bière, quinoa rouge
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
-                        Végé
+                        Viande
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="67"
-            data-tags="Ottolenghi,Végé"
-            data-ingredients="ail|||basilic|||citron|||haricots verts|||huile d'olive|||parmesan|||pâtes sèches|||pignons de pin|||poivre noir|||pommes de terre">
+            data-approuvee="false"
+            data-tags="Ottolenghi,Simple,Pas testé,Végé"
+            data-ingredients="basilic|||échalotes|||huile d'olive|||pignons de pin|||sumac|||tomates|||vinaigre de vin blanc">
             <div class="check-circle"></div>
             <a href="recettes/67.html" class="item-link">
-                Pâtes au pesto, haricots grillés et pommes de terre
+                Méli-mélo de tomates, échalion au sumac et pignons de pin
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
+                    <span class="tag tag-type">
+                        Simple
+                    </span>
+                    
+                    
+                    
+                    
+                    
                     <span class="tag tag-type">
                         Végé
                     </span>
+                    
+                    
+                    
+                    <span class="tag tag-bib">À tester</span>
                     
                 </div>
             </a>
         </li>
         
         <li data-id="68"
-            data-tags="Breton,Viande"
-            data-ingredients="beurre|||crème fraîche|||farine|||faux-filet|||lait|||pommes de terre|||sel">
+            data-approuvee="true"
+            data-tags="Ottolenghi,Végé,Dessert"
+            data-ingredients="beurre|||cacao|||chocolat noir|||sel|||sucre muscovado|||œufs">
             <div class="check-circle"></div>
             <a href="recettes/68.html" class="item-link">
-                Pièce de bœuf rôtie au sarrasin
+                Moelleux au chocolat
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Breton
+                        Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
-                        Viande
+                        Végé
                     </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Dessert
+                    </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="69"
-            data-tags="Ottolenghi,Végé"
-            data-ingredients="ail|||ciboulette|||gingembre|||graines de sésame|||huile d'olive|||huile de tournesol|||maïzena|||mirin|||miso blanc|||poireaux|||sel de maldon|||vinaigre de riz">
+            data-approuvee="true"
+            data-tags="Ottolenghi,Végé,Dessert"
+            data-ingredients="chocolat noir|||crème aigre|||crème liquide|||noisettes|||orange|||sel de mer|||sucre|||œufs">
             <div class="check-circle"></div>
             <a href="recettes/69.html" class="item-link">
-                Poireaux et salsa au miso et à la ciboulette
+                Mousse au chocolat et caramel à l'orange
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
                         Végé
                     </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Dessert
+                    </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="70"
-            data-tags="Ottolenghi,Végé"
-            data-ingredients="ail|||beurre|||bouillon de légumes|||cerfeuil|||champignons|||estragon|||huile d'olive|||parmesan|||poivre noir|||polenta|||romarin|||taleggio|||thym">
+            data-approuvee="true"
+            data-tags="Japonais,Viande,Poisson"
+            data-ingredients="champignons énoki|||champignons shiitaké|||épinards|||magret de canard|||mirin|||nouilles udon|||poivre sansho|||sauce soja">
             <div class="check-circle"></div>
             <a href="recettes/70.html" class="item-link">
-                Polenta aux champignons et aux herbes
+                Nabé udon au canard
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Ottolenghi
+                        Japonais
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
-                        Végé
+                        Viande
                     </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Poisson
+                    </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="71"
-            data-tags="Ottolenghi,Viande"
-            data-ingredients="ail|||badiane|||cannelle|||concentré de tomates|||cuisses de poulet|||graines de carvi|||graines de coriandre|||graines de cumin|||huile d'olive|||jus de citron|||oignons rouges|||pamplemousses roses|||piment rouge frais|||piment rouge séché|||poivre noir|||poivrons rouges|||roquette|||sirop d'érable|||yaourt grec">
+            data-approuvee="true"
+            data-tags="Japonais,Viande"
+            data-ingredients="ail|||concombre|||coriandre|||gingembre|||graines de sésame|||huile de sésame|||huile de tournesol|||maïzena|||miso|||poireaux|||porc haché|||riz|||sauce soja|||sucre">
             <div class="check-circle"></div>
             <a href="recettes/71.html" class="item-link">
-                Poulet mariné à la harissa et salade de pamplemousses roses
+                Niku-miso domburi
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Ottolenghi
+                        Japonais
                     </span>
+                    
+                    
                     
                     <span class="tag tag-type">
                         Viande
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="72"
-            data-tags="Ottolenghi,Végé"
-            data-ingredients="ail|||citron|||huile d'olive|||menthe|||poivre noir|||pommes de terre|||thym">
+            data-approuvee="true"
+            data-tags="Ottolenghi,Viande"
+            data-ingredients="ail|||amandes|||citron|||eau de fleur d'oranger|||filet d'agneau|||huile d'olive|||menthe|||miel|||poivre noir|||poivrons rouges|||thym">
             <div class="check-circle"></div>
             <a href="recettes/72.html" class="item-link">
-                Purée à l'huile d'olive aromatisée
+                Noisettes d'agneau aux amandes et à la fleur d'oranger
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
-                        Végé
+                        Viande
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="73"
+            data-approuvee="true"
             data-tags="Ottolenghi,Végé"
-            data-ingredients="ail|||haricots verts|||huile d'olive|||noix|||paprika fumé|||piment en flocons|||poivrons rouges|||sel|||thym|||vinaigre balsamique">
+            data-ingredients="ail|||aubergines|||basilic|||citron vert|||coriandre|||huile de sésame|||huile de tournesol|||mangue|||nouilles soba|||oignons rouges|||piment rouge frais|||sel|||sucre|||vinaigre de riz">
             <div class="check-circle"></div>
             <a href="recettes/73.html" class="item-link">
-                Purée de haricots blancs au muhammara
+                Nouilles soba aux aubergines et à la mangue
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
                         Végé
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="74"
-            data-tags="Réunion,Viande"
-            data-ingredients="ail|||gingembre|||huile d'olive|||oignons|||safran|||saucisses fumées|||thym|||tomates">
+            data-approuvee="true"
+            data-tags="Ottolenghi,Végé"
+            data-ingredients="beurre|||miso blanc|||oignons">
             <div class="check-circle"></div>
             <a href="recettes/74.html" class="item-link">
-                Rougail Sosis Fumé
+                Oignons au beurre de miso
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Réunion
+                        Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
-                        Viande
+                        Végé
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="75"
-            data-tags="Ottolenghi,Viande"
-            data-ingredients="beurre|||chair à saucisse|||ciboulette|||farine|||gingembre moulu|||graines de carvi|||graines de coriandre|||huile d'olive|||lait|||macis moulu|||marjolaine|||mayonnaise kewpie|||miel|||moutarde anglaise|||moutarde de dijon|||oignons|||poivre blanc|||poivre noir|||sel|||sucre|||œufs">
+            data-approuvee="true"
+            data-tags="Japonais,Viande,Poisson"
+            data-ingredients="ao nori|||bouillon dashi|||chou vert|||farine|||fécule de pomme de terre|||gingembre|||huile de tournesol|||lard|||oignons verts|||sauce okonomiyaki|||œufs">
             <div class="check-circle"></div>
             <a href="recettes/75.html" class="item-link">
-                Roulés à la saucisse et sauce moutarde au miel
+                Okonomiyaki au lard
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Ottolenghi
+                        Japonais
                     </span>
+                    
+                    
                     
                     <span class="tag tag-type">
                         Viande
                     </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Poisson
+                    </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="76"
-            data-tags="Ottolenghi,Viande"
-            data-ingredients="ail|||basilic|||endives rouges|||faux-filet|||huile d'olive|||jus de citron|||pains pitas|||parmesan|||poivre noir|||roquette">
+            data-approuvee="true"
+            data-tags="Ottolenghi,Végé"
+            data-ingredients="jus de citron|||noisettes|||oignons|||pâtes sèches|||poivre noir|||sauge">
             <div class="check-circle"></div>
             <a href="recettes/76.html" class="item-link">
-                Salade au bœuf et au basilic
+                Orecchiette aux oignons caramélisés, noisettes grillées et feuilles de sauge frites
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
-                        Viande
+                        Végé
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="77"
-            data-tags="Ottolenghi,Végé"
-            data-ingredients="abricots secs|||ail|||amandes|||aneth|||carottes|||huile d'olive|||menthe|||piment d'alep|||poivre noir|||sirop d'érable|||sumac">
+            data-approuvee="true"
+            data-tags="Japonais,Viande"
+            data-ingredients="bouillon dashi|||cuisses de poulet|||mirin|||nori|||oignons verts|||riz|||sauce soja|||œufs">
             <div class="check-circle"></div>
             <a href="recettes/77.html" class="item-link">
-                Salade de carottes rôties, sauce Chamoy
+                Oyako-don
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Ottolenghi
+                        Japonais
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
-                        Végé
+                        Viande
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="78"
-            data-tags="Ottolenghi,Végé"
-            data-ingredients="ail|||huile d'olive|||parmesan|||persil|||pignons de pin|||pois mange-tout|||poivre noir|||pommes de terre|||vinaigre de vin blanc|||œufs de caille">
+            data-approuvee="false"
+            data-tags="Ottolenghi,Simple,Pas testé,Végé"
+            data-ingredients="crème fraîche|||farine|||fromage de chèvre|||graines de carvi|||graines de courge|||graines de nigelle|||huile de tournesol|||levure|||miel|||parmesan|||thym|||œufs">
             <div class="check-circle"></div>
             <a href="recettes/78.html" class="item-link">
-                Salade de pommes de terre royales
+                Pain de betterave au chèvre et aux graines
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
+                    <span class="tag tag-type">
+                        Simple
+                    </span>
+                    
+                    
+                    
+                    
+                    
                     <span class="tag tag-type">
                         Végé
                     </span>
+                    
+                    
+                    
+                    <span class="tag tag-bib">À tester</span>
                     
                 </div>
             </a>
         </li>
         
         <li data-id="79"
-            data-tags="Ottolenghi,Végé"
-            data-ingredients="beurre|||chou rouge|||chou vert|||citron|||coriandre|||flocons de piment|||huile de sésame|||huile de tournesol|||jus de citron vert|||mangue|||menthe|||noix de macadamia|||papaye|||piment rouge frais|||sauce soja|||sel|||sirop d'érable|||sucre">
+            data-approuvee="false"
+            data-tags="Ottolenghi,Simple,Pas testé,Végé"
+            data-ingredients="cheddar|||coriandre|||crème fraîche|||cumin|||épis de maïs|||farine|||feta|||graines de nigelle|||huile d'olive|||levure|||oignons rouges|||oignons verts|||piment de cayenne|||piment rouge frais|||polenta|||sucre|||œufs">
             <div class="check-circle"></div>
             <a href="recettes/79.html" class="item-link">
-                Salade douce pour l'hiver
+                Pain de maïs au fromage et au piment
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
+                    <span class="tag tag-type">
+                        Simple
+                    </span>
+                    
+                    
+                    
+                    
+                    
                     <span class="tag tag-type">
                         Végé
                     </span>
+                    
+                    
+                    
+                    <span class="tag tag-bib">À tester</span>
                     
                 </div>
             </a>
         </li>
         
         <li data-id="80"
-            data-tags="Japonais,Végé"
-            data-ingredients="">
+            data-approuvee="true"
+            data-tags="Ottolenghi,Végé"
+            data-ingredients="badiane|||beurre|||fruits rouges|||jus d'orange|||jus de citron|||lait|||orange|||pain brioché|||sucre|||sucre glace|||yaourt grec|||œufs">
             <div class="check-circle"></div>
             <a href="recettes/80.html" class="item-link">
-                Sauces japonaises
+                Pain perdu et yaourt à l'orange
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Japonais
+                        Ottolenghi
                     </span>
+                    
+                    
                     
                     <span class="tag tag-type">
                         Végé
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="81"
-            data-tags="Ottolenghi,Viande"
-            data-ingredients="ail|||blettes|||bouillon de volaille|||céleri|||concentré de tomates|||crème fraîche|||cumin|||huile d'olive|||kielbasa|||laurier|||lentilles du puy|||moutarde à l'ancienne|||moutarde de dijon|||oignons|||persil|||poivre noir|||poivrons verts|||thym">
+            data-approuvee="true"
+            data-tags="Ottolenghi,Végé"
+            data-ingredients="ail|||beurre|||blancs d'œufs|||café|||citron|||coriandre|||cumin|||épinards|||farine|||flocons de piment|||huile d'olive|||jus de citron vert|||lait|||levure|||oignons verts|||piments verts|||poivre blanc|||sel|||œufs">
             <div class="check-circle"></div>
             <a href="recettes/81.html" class="item-link">
-                Saucisses aux lentilles et crème à la moutarde
+                Pancakes verts au beurre de citron vert
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
-                        Viande
+                        Végé
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="82"
-            data-tags="Ottolenghi,Poisson"
-            data-ingredients="ail|||ciboulette|||citron|||huile d'olive|||noisettes|||poivrons rouges|||saumon|||sel|||vinaigre de cidre">
+            data-approuvee="true"
+            data-tags="Ottolenghi,Végé"
+            data-ingredients="ail|||aneth|||cardamome|||citron|||concentré de tomates|||cumin|||échalotes|||huile d'olive|||piments verts|||poivre noir|||sirop d'érable|||sucre|||tomates en conserve">
             <div class="check-circle"></div>
             <a href="recettes/82.html" class="item-link">
-                Saumon bio et salsa de poivrons rouges et de noisettes
+                Patates douces à la sauce tomate, citron vert et cardamome
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
-                        Poisson
+                        Végé
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="83"
-            data-tags="Ottolenghi,Poisson"
-            data-ingredients="ail|||anchois|||basilic|||câpres|||citron|||concentré de tomates|||flocons de piment|||graines de coriandre|||haricots verts|||huile d'olive|||jus de citron|||oignons verts|||olives de kalamata|||persil|||poivre noir|||saumon|||sirop d'érable|||tomates cerises">
+            data-approuvee="true"
+            data-tags="Ottolenghi,Végé"
+            data-ingredients="ail|||basilic|||citron|||haricots verts|||huile d'olive|||parmesan|||pâtes sèches|||pignons de pin|||poivre noir|||pommes de terre">
             <div class="check-circle"></div>
             <a href="recettes/83.html" class="item-link">
-                Saumon rôti alla puttanesca
+                Pâtes au pesto, haricots grillés et pommes de terre
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
-                        Poisson
+                        Végé
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="84"
-            data-tags="Japonais,Poisson"
-            data-ingredients="gingembre|||graines de sésame|||pois mange-tout|||sauce teriyaki|||saumon">
+            data-approuvee="true"
+            data-tags="Breton,Viande"
+            data-ingredients="beurre|||crème fraîche|||farine|||faux-filet|||lait|||pommes de terre|||sel">
             <div class="check-circle"></div>
             <a href="recettes/84.html" class="item-link">
-                Saumon teriyaki
+                Pièce de bœuf rôtie au sarrasin
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Japonais
+                        Breton
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
-                        Poisson
+                        Viande
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="85"
-            data-tags="Japonais,Viande"
-            data-ingredients="bouillon de poulet|||épinards|||épis de maïs|||huile de tournesol|||mirin|||nori|||nouilles ramen|||oignons verts|||porc haché|||sauce soja|||sel|||œufs">
+            data-approuvee="false"
+            data-tags="Ottolenghi,Simple,Pas testé,Végé"
+            data-ingredients="ail|||brocoli|||graines de cumin|||huile d'olive|||jus de citron vert|||kale|||menthe|||piment d'urfa">
             <div class="check-circle"></div>
             <a href="recettes/85.html" class="item-link">
-                Shoyu ramen
+                Poêlée de brocoli et kale à l'ail, cumin et citron vert
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Japonais
+                        Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
-                        Viande
+                        Simple
                     </span>
+                    
+                    
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-bib">À tester</span>
                     
                 </div>
             </a>
         </li>
         
         <li data-id="86"
-            data-tags="Japonais,Viande"
-            data-ingredients="cuisses de poulet|||épinards|||huile de tournesol|||mirin|||nouilles soba|||poireaux|||poivre sansho|||saké|||sauce soja|||sel|||sucre">
+            data-approuvee="true"
+            data-tags="Ottolenghi,Végé"
+            data-ingredients="ail|||ciboulette|||gingembre|||graines de sésame|||huile d'olive|||huile de tournesol|||maïzena|||mirin|||miso blanc|||poireaux|||sel de maldon|||vinaigre de riz">
             <div class="check-circle"></div>
             <a href="recettes/86.html" class="item-link">
-                Soba au poulet namban
+                Poireaux et salsa au miso et à la ciboulette
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Japonais
+                        Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
-                        Viande
+                        Végé
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="87"
-            data-tags="Gagnaire,Végé"
-            data-ingredients="beurre|||crème fraîche|||gorgonzola|||lardons fumés|||oignons doux|||sel|||spaghettis">
+            data-approuvee="true"
+            data-tags="Ottolenghi,Végé"
+            data-ingredients="ail|||beurre|||bouillon de légumes|||cerfeuil|||champignons|||estragon|||huile d'olive|||parmesan|||poivre noir|||polenta|||romarin|||taleggio|||thym">
             <div class="check-circle"></div>
             <a href="recettes/87.html" class="item-link">
-                Spaghettis De Cecco® n°7, crème d'oignon au gorgonzola
+                Polenta aux champignons et aux herbes
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Gagnaire
+                        Ottolenghi
                     </span>
+                    
+                    
                     
                     <span class="tag tag-type">
                         Végé
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="88"
-            data-tags="Japonais,Viande"
-            data-ingredients="carottes|||champignons énoki|||champignons shiitaké|||faux-filet|||huile de tournesol|||mirin|||oignons verts|||pack choï|||poireaux|||riz|||saké|||sauce soja|||sucre|||œufs">
+            data-approuvee="true"
+            data-tags="Ottolenghi,Viande"
+            data-ingredients="ail|||badiane|||cannelle|||concentré de tomates|||cuisses de poulet|||graines de carvi|||graines de coriandre|||graines de cumin|||huile d'olive|||jus de citron|||oignons rouges|||pamplemousses roses|||piment rouge frais|||piment rouge séché|||poivre noir|||poivrons rouges|||roquette|||sirop d'érable|||yaourt grec">
             <div class="check-circle"></div>
             <a href="recettes/88.html" class="item-link">
-                Sukiyaki-don
+                Poulet mariné à la harissa et salade de pamplemousses roses
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Japonais
+                        Ottolenghi
                     </span>
+                    
+                    
                     
                     <span class="tag tag-type">
                         Viande
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="89"
+            data-approuvee="true"
             data-tags="Ottolenghi,Végé"
-            data-ingredients="farine|||safran|||semoule fine|||œufs">
+            data-ingredients="ail|||citron|||huile d'olive|||menthe|||poivre noir|||pommes de terre|||thym">
             <div class="check-circle"></div>
             <a href="recettes/89.html" class="item-link">
-                Tagliatelles au safran
+                Purée à l'huile d'olive aromatisée
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
                         Végé
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="90"
+            data-approuvee="true"
             data-tags="Ottolenghi,Végé"
-            data-ingredients="beurre|||cannelle|||coriandre|||curcuma|||échalotes|||farine|||flocons de piment|||gingembre moulu|||huile d'olive|||menthe|||paprika|||persil|||pignons de pin|||piment de cayenne|||poivre noir|||safran|||sel|||œufs">
+            data-ingredients="ail|||haricots verts|||huile d'olive|||noix|||paprika fumé|||piment en flocons|||poivrons rouges|||sel|||thym|||vinaigre balsamique">
             <div class="check-circle"></div>
             <a href="recettes/90.html" class="item-link">
-                Tagliatelles au safran et au beurre épicé
+                Purée de haricots blancs au muhammara
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
                         Végé
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="91"
-            data-tags="Ottolenghi,Végé"
-            data-ingredients="ail|||café|||coriandre|||flocons de chipotle|||graines de cumin|||huile d'olive|||parmesan|||persil|||piments verts|||poivre noir|||sirop d'érable|||sucre|||tagliatelles|||vinaigre de riz">
+            data-approuvee="false"
+            data-tags="Ottolenghi,Simple,Pas testé,Végé"
+            data-ingredients="ail|||citron confit|||concombre|||graines de cumin|||huile d'olive|||jus de citron|||menthe|||oignons|||piment vert|||tomates cerises|||yaourt grec">
             <div class="check-circle"></div>
             <a href="recettes/91.html" class="item-link">
-                Tagliatelles au safran, ricotta et échalotes frites au piment chipotle
+                Raïta de tomates et de concombres
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
+                    <span class="tag tag-type">
+                        Simple
+                    </span>
+                    
+                    
+                    
+                    
+                    
                     <span class="tag tag-type">
                         Végé
                     </span>
+                    
+                    
+                    
+                    <span class="tag tag-bib">À tester</span>
                     
                 </div>
             </a>
         </li>
         
         <li data-id="92"
-            data-tags="Japonais,Végé"
-            data-ingredients="bouillon dashi|||carottes|||daïkon|||farine|||haricots verts|||huile de tournesol|||jaunes d'œufs|||levure|||mirin|||sauce soja|||sucre">
+            data-approuvee="false"
+            data-tags="Ottolenghi,Simple,Pas testé,Végé"
+            data-ingredients="ail|||cacahuètes grillées|||gingembre|||huile d'arachide|||miel|||orange|||sauce soja">
             <div class="check-circle"></div>
             <a href="recettes/92.html" class="item-link">
-                Tempura de légumes
+                Rapini vapeur à la sauce soja, ail et cacahuètes
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Japonais
+                        Ottolenghi
                     </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Simple
+                    </span>
+                    
+                    
+                    
+                    
                     
                     <span class="tag tag-type">
                         Végé
                     </span>
+                    
+                    
+                    
+                    <span class="tag tag-bib">À tester</span>
                     
                 </div>
             </a>
         </li>
         
         <li data-id="93"
-            data-tags="Ottolenghi,Végé"
-            data-ingredients="ail|||basilic|||cannelle|||champignons de paris|||crème fraîche|||fleur de sel|||huile d'olive|||pain brioché|||piment en flocons|||œufs">
+            data-approuvee="true"
+            data-tags="Réunion,Viande"
+            data-ingredients="ail|||gingembre|||huile d'olive|||oignons|||safran|||saucisses fumées|||thym|||tomates">
             <div class="check-circle"></div>
             <a href="recettes/93.html" class="item-link">
-                Toasts briochés, champignons et œufs pochés
+                Rougail Sosis Fumé
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Ottolenghi
+                        Réunion
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
-                        Végé
+                        Viande
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="94"
-            data-tags="Japonais,Végé,Dessert"
-            data-ingredients="agar-agar|||beurre|||crème fraîche|||faisselle|||fraises|||sucre">
+            data-approuvee="true"
+            data-tags="Ottolenghi,Viande"
+            data-ingredients="beurre|||chair à saucisse|||ciboulette|||farine|||gingembre moulu|||graines de carvi|||graines de coriandre|||huile d'olive|||lait|||macis moulu|||marjolaine|||mayonnaise kewpie|||miel|||moutarde anglaise|||moutarde de dijon|||oignons|||poivre blanc|||poivre noir|||sel|||sucre|||œufs">
             <div class="check-circle"></div>
             <a href="recettes/94.html" class="item-link">
-                Tokyo cheesecake au yuzu
+                Roulés à la saucisse et sauce moutarde au miel
                 <div class="item-tags">
                     
+                    
                     <span class="tag tag-origine">
-                        Japonais
+                        Ottolenghi
                     </span>
                     
-                    <span class="tag tag-type">
-                        Végé
-                    </span>
+                    
                     
                     <span class="tag tag-type">
-                        Dessert
+                        Viande
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="95"
-            data-tags="Ottolenghi,Végé"
-            data-ingredients="ail|||aneth|||chapelure|||citron|||crème aigre|||huile d'olive|||parmesan|||persil|||poivre blanc|||potiron|||thym">
+            data-approuvee="true"
+            data-tags="Ottolenghi,Viande"
+            data-ingredients="ail|||basilic|||endives rouges|||faux-filet|||huile d'olive|||jus de citron|||pains pitas|||parmesan|||poivre noir|||roquette">
             <div class="check-circle"></div>
             <a href="recettes/95.html" class="item-link">
-                Tranches de potiron croustillantes et crème aigre
+                Salade au bœuf et au basilic
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
-                        Végé
+                        Viande
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="96"
-            data-tags="Ottolenghi,Viande"
-            data-ingredients="ail|||badiane|||bourbon|||cannelle|||citron|||coriandre|||échalotes|||épis de maïs|||gingembre|||huile d'olive|||huile de sésame|||jus de citron|||jus de citron vert|||ketchup|||menthe|||oignons|||oignons verts|||persil|||piment rouge séché|||piment vert|||poivre du sichuan|||poivre noir|||sel de mer|||sirop d'érable|||travers de porc|||vin shaoxing|||vinaigre de riz">
+            data-approuvee="true"
+            data-tags="Ottolenghi,Végé"
+            data-ingredients="abricots secs|||ail|||amandes|||aneth|||carottes|||huile d'olive|||menthe|||piment d'alep|||poivre noir|||sirop d'érable|||sumac">
             <div class="check-circle"></div>
             <a href="recettes/96.html" class="item-link">
-                Travers de porc caramélisés au bourbon et salade de maïs fumé
+                Salade de carottes rôties, sauce Chamoy
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
-                        Viande
+                        Végé
                     </span>
+                    
+                    
                     
                 </div>
             </a>
         </li>
         
         <li data-id="97"
-            data-tags="Ottolenghi,Poisson"
-            data-ingredients="ail|||beurre|||citron|||coriandre|||graines de fenouil|||huile d'olive|||orange|||poivre noir|||tomates|||truites">
+            data-approuvee="false"
+            data-tags="Ottolenghi,Simple,Pas testé,Végé"
+            data-ingredients="ail|||concombre|||coriandre|||fleur de sel|||gingembre|||graines de nigelle|||jus de citron|||mâche|||menthe|||yaourt grec">
             <div class="check-circle"></div>
             <a href="recettes/97.html" class="item-link">
-                Truite rôtie, tomates, orange et baies d'épine-vinette
+                Salade de mâche et de concombre
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
-                        Poisson
+                        Simple
                     </span>
+                    
+                    
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-bib">À tester</span>
                     
                 </div>
             </a>
         </li>
         
         <li data-id="98"
-            data-tags="Ottolenghi,Végé,Dessert"
-            data-ingredients="citron|||crème liquide|||fraises|||menthe|||sel|||sucre glace|||vanille|||yaourt grec">
+            data-approuvee="false"
+            data-tags="Ottolenghi,Simple,Pas testé,Végé"
+            data-ingredients="citron vert|||coriandre|||fleur de sel|||huile d'olive|||menthe|||pastèque|||pommes">
             <div class="check-circle"></div>
             <a href="recettes/98.html" class="item-link">
-                Verrines de fraises rôties au sumac et yaourt égoutté
+                Salade de pastèque, granny smith et citron vert
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
+                    <span class="tag tag-type">
+                        Simple
+                    </span>
+                    
+                    
+                    
+                    
+                    
                     <span class="tag tag-type">
                         Végé
                     </span>
                     
-                    <span class="tag tag-type">
-                        Dessert
-                    </span>
+                    
+                    
+                    <span class="tag tag-bib">À tester</span>
                     
                 </div>
             </a>
         </li>
         
         <li data-id="99"
+            data-approuvee="true"
             data-tags="Ottolenghi,Végé"
-            data-ingredients="beurre|||bouillon de légumes|||citron|||épinards|||feta|||graines de cumin|||huile d'olive|||poireaux|||poivre noir|||zaatar|||œufs">
+            data-ingredients="ail|||huile d'olive|||parmesan|||persil|||pignons de pin|||pois mange-tout|||poivre noir|||pommes de terre|||vinaigre de vin blanc|||œufs de caille">
             <div class="check-circle"></div>
             <a href="recettes/99.html" class="item-link">
-                Œufs braisés, poireaux et zaatar
+                Salade de pommes de terre royales
                 <div class="item-tags">
+                    
                     
                     <span class="tag tag-origine">
                         Ottolenghi
                     </span>
                     
+                    
+                    
                     <span class="tag tag-type">
                         Végé
                     </span>
+                    
+                    
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-id="100"
+            data-approuvee="false"
+            data-tags="Ottolenghi,Simple,Pas testé,Poisson"
+            data-ingredients="ail|||anchois|||basilic|||câpres|||citron|||fleur de sel|||huile d'olive|||pain rassis|||persil|||piment d'urfa|||tomates">
+            <div class="check-circle"></div>
+            <a href="recettes/100.html" class="item-link">
+                Salade de tomates aux anchois et aux câpres
+                <div class="item-tags">
+                    
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Simple
+                    </span>
+                    
+                    
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Poisson
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-bib">À tester</span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-id="101"
+            data-approuvee="true"
+            data-tags="Ottolenghi,Végé"
+            data-ingredients="beurre|||chou rouge|||chou vert|||citron|||coriandre|||flocons de piment|||huile de sésame|||huile de tournesol|||jus de citron vert|||mangue|||menthe|||noix de macadamia|||papaye|||piment rouge frais|||sauce soja|||sel|||sirop d'érable|||sucre">
+            <div class="check-circle"></div>
+            <a href="recettes/101.html" class="item-link">
+                Salade douce pour l'hiver
+                <div class="item-tags">
+                    
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-id="102"
+            data-approuvee="false"
+            data-tags="Ottolenghi,Simple,Pas testé,Végé"
+            data-ingredients="coriandre|||concombre|||feta|||huile d'olive|||jus de citron|||oignons verts|||poivrons rouges|||tahin|||tomates|||zaatar">
+            <div class="check-circle"></div>
+            <a href="recettes/102.html" class="item-link">
+                Salade fraîcheur au tahin et au zaatar
+                <div class="item-tags">
+                    
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Simple
+                    </span>
+                    
+                    
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-bib">À tester</span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-id="103"
+            data-approuvee="false"
+            data-tags="Ottolenghi,Simple,Pas testé,Végé"
+            data-ingredients="concombre|||coriandre|||gingembre|||graines de nigelle|||huile d'olive|||jus de citron|||menthe|||oignons verts|||poivrons verts">
+            <div class="check-circle"></div>
+            <a href="recettes/103.html" class="item-link">
+                Salade toute verte aux cébettes et aux herbes
+                <div class="item-tags">
+                    
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Simple
+                    </span>
+                    
+                    
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-bib">À tester</span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-id="104"
+            data-approuvee="false"
+            data-tags="Ottolenghi,Simple,Pas testé,Végé"
+            data-ingredients="ail|||aneth|||basilic|||citron|||coriandre|||estragon|||gingembre|||graines de sésame|||huile d'olive|||menthe|||persil|||piment vert|||tahin">
+            <div class="check-circle"></div>
+            <a href="recettes/104.html" class="item-link">
+                Salade verte, sauce fourre-tout
+                <div class="item-tags">
+                    
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Simple
+                    </span>
+                    
+                    
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-bib">À tester</span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-id="105"
+            data-approuvee="true"
+            data-tags="Japonais,Végé"
+            data-ingredients="">
+            <div class="check-circle"></div>
+            <a href="recettes/105.html" class="item-link">
+                Sauces japonaises
+                <div class="item-tags">
+                    
+                    
+                    <span class="tag tag-origine">
+                        Japonais
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-id="106"
+            data-approuvee="true"
+            data-tags="Ottolenghi,Viande"
+            data-ingredients="ail|||blettes|||bouillon de volaille|||céleri|||concentré de tomates|||crème fraîche|||cumin|||huile d'olive|||kielbasa|||laurier|||lentilles du puy|||moutarde à l'ancienne|||moutarde de dijon|||oignons|||persil|||poivre noir|||poivrons verts|||thym">
+            <div class="check-circle"></div>
+            <a href="recettes/106.html" class="item-link">
+                Saucisses aux lentilles et crème à la moutarde
+                <div class="item-tags">
+                    
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Viande
+                    </span>
+                    
+                    
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-id="107"
+            data-approuvee="true"
+            data-tags="Ottolenghi,Poisson"
+            data-ingredients="ail|||ciboulette|||citron|||huile d'olive|||noisettes|||poivrons rouges|||saumon|||sel|||vinaigre de cidre">
+            <div class="check-circle"></div>
+            <a href="recettes/107.html" class="item-link">
+                Saumon bio et salsa de poivrons rouges et de noisettes
+                <div class="item-tags">
+                    
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Poisson
+                    </span>
+                    
+                    
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-id="108"
+            data-approuvee="true"
+            data-tags="Ottolenghi,Poisson"
+            data-ingredients="ail|||anchois|||basilic|||câpres|||citron|||concentré de tomates|||flocons de piment|||graines de coriandre|||haricots verts|||huile d'olive|||jus de citron|||oignons verts|||olives de kalamata|||persil|||poivre noir|||saumon|||sirop d'érable|||tomates cerises">
+            <div class="check-circle"></div>
+            <a href="recettes/108.html" class="item-link">
+                Saumon rôti alla puttanesca
+                <div class="item-tags">
+                    
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Poisson
+                    </span>
+                    
+                    
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-id="109"
+            data-approuvee="true"
+            data-tags="Japonais,Poisson"
+            data-ingredients="gingembre|||graines de sésame|||pois mange-tout|||sauce teriyaki|||saumon">
+            <div class="check-circle"></div>
+            <a href="recettes/109.html" class="item-link">
+                Saumon teriyaki
+                <div class="item-tags">
+                    
+                    
+                    <span class="tag tag-origine">
+                        Japonais
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Poisson
+                    </span>
+                    
+                    
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-id="110"
+            data-approuvee="true"
+            data-tags="Japonais,Viande"
+            data-ingredients="bouillon de poulet|||épinards|||épis de maïs|||huile de tournesol|||mirin|||nori|||nouilles ramen|||oignons verts|||porc haché|||sauce soja|||sel|||œufs">
+            <div class="check-circle"></div>
+            <a href="recettes/110.html" class="item-link">
+                Shoyu ramen
+                <div class="item-tags">
+                    
+                    
+                    <span class="tag tag-origine">
+                        Japonais
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Viande
+                    </span>
+                    
+                    
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-id="111"
+            data-approuvee="true"
+            data-tags="Japonais,Viande"
+            data-ingredients="cuisses de poulet|||épinards|||huile de tournesol|||mirin|||nouilles soba|||poireaux|||poivre sansho|||saké|||sauce soja|||sel|||sucre">
+            <div class="check-circle"></div>
+            <a href="recettes/111.html" class="item-link">
+                Soba au poulet namban
+                <div class="item-tags">
+                    
+                    
+                    <span class="tag tag-origine">
+                        Japonais
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Viande
+                    </span>
+                    
+                    
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-id="112"
+            data-approuvee="false"
+            data-tags="Ottolenghi,Simple,Pas testé,Végé"
+            data-ingredients="bouillon de légumes|||coriandre|||crème fraîche|||flocons de piment|||graines de courge|||harissa|||huile d'olive|||oignons|||orange|||potiron|||safran|||sirop d'érable">
+            <div class="check-circle"></div>
+            <a href="recettes/112.html" class="item-link">
+                Soupe de citrouille au safran et à l'orange
+                <div class="item-tags">
+                    
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Simple
+                    </span>
+                    
+                    
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-bib">À tester</span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-id="113"
+            data-approuvee="false"
+            data-tags="Ottolenghi,Simple,Pas testé,Végé"
+            data-ingredients="ail|||amandes|||chou-fleur|||concombre|||gingembre|||huile d'olive|||jus de citron|||menthe|||poivre blanc|||yaourt grec">
+            <div class="check-circle"></div>
+            <a href="recettes/113.html" class="item-link">
+                Soupe de concombre froide, chou-fleur et gingembre
+                <div class="item-tags">
+                    
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Simple
+                    </span>
+                    
+                    
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-bib">À tester</span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-id="114"
+            data-approuvee="false"
+            data-tags="Ottolenghi,Simple,Pas testé,Végé"
+            data-ingredients="ail|||coriandre|||curry en poudre|||flocons de piment|||gingembre|||huile de tournesol|||lait de coco|||lentilles du puy|||oignons|||tomates en conserve">
+            <div class="check-circle"></div>
+            <a href="recettes/114.html" class="item-link">
+                Soupe de lentilles corail au curry, tomates et lait de coco
+                <div class="item-tags">
+                    
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Simple
+                    </span>
+                    
+                    
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-bib">À tester</span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-id="115"
+            data-approuvee="true"
+            data-tags="Gagnaire,Végé"
+            data-ingredients="beurre|||crème fraîche|||gorgonzola|||lardons fumés|||oignons doux|||sel|||spaghettis">
+            <div class="check-circle"></div>
+            <a href="recettes/115.html" class="item-link">
+                Spaghettis De Cecco® n°7, crème d'oignon au gorgonzola
+                <div class="item-tags">
+                    
+                    
+                    <span class="tag tag-origine">
+                        Gagnaire
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-id="116"
+            data-approuvee="true"
+            data-tags="Japonais,Viande"
+            data-ingredients="carottes|||champignons énoki|||champignons shiitaké|||faux-filet|||huile de tournesol|||mirin|||oignons verts|||pack choï|||poireaux|||riz|||saké|||sauce soja|||sucre|||œufs">
+            <div class="check-circle"></div>
+            <a href="recettes/116.html" class="item-link">
+                Sukiyaki-don
+                <div class="item-tags">
+                    
+                    
+                    <span class="tag tag-origine">
+                        Japonais
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Viande
+                    </span>
+                    
+                    
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-id="117"
+            data-approuvee="false"
+            data-tags="Ottolenghi,Simple,Pas testé,Végé"
+            data-ingredients="aneth|||arilles de grenade|||chou-fleur|||grenade|||huile d'olive|||jus de citron|||mélange quatre-épices|||menthe|||oignons verts|||persil">
+            <div class="check-circle"></div>
+            <a href="recettes/117.html" class="item-link">
+                Taboulé de chou-fleur
+                <div class="item-tags">
+                    
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Simple
+                    </span>
+                    
+                    
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-bib">À tester</span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-id="118"
+            data-approuvee="true"
+            data-tags="Ottolenghi,Végé"
+            data-ingredients="farine|||safran|||semoule fine|||œufs">
+            <div class="check-circle"></div>
+            <a href="recettes/118.html" class="item-link">
+                Tagliatelles au safran
+                <div class="item-tags">
+                    
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-id="119"
+            data-approuvee="true"
+            data-tags="Ottolenghi,Végé"
+            data-ingredients="beurre|||cannelle|||coriandre|||curcuma|||échalotes|||farine|||flocons de piment|||gingembre moulu|||huile d'olive|||menthe|||paprika|||persil|||pignons de pin|||piment de cayenne|||poivre noir|||safran|||sel|||œufs">
+            <div class="check-circle"></div>
+            <a href="recettes/119.html" class="item-link">
+                Tagliatelles au safran et au beurre épicé
+                <div class="item-tags">
+                    
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-id="120"
+            data-approuvee="true"
+            data-tags="Ottolenghi,Végé"
+            data-ingredients="ail|||café|||coriandre|||flocons de chipotle|||graines de cumin|||huile d'olive|||parmesan|||persil|||piments verts|||poivre noir|||sirop d'érable|||sucre|||tagliatelles|||vinaigre de riz">
+            <div class="check-circle"></div>
+            <a href="recettes/120.html" class="item-link">
+                Tagliatelles au safran, ricotta et échalotes frites au piment chipotle
+                <div class="item-tags">
+                    
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-id="121"
+            data-approuvee="false"
+            data-tags="Ottolenghi,Simple,Pas testé,Végé"
+            data-ingredients="ail|||basilic|||citron|||courgettes|||huile d'olive|||noix|||thym">
+            <div class="check-circle"></div>
+            <a href="recettes/121.html" class="item-link">
+                Tagliatelles de courgettes au thym et aux noix
+                <div class="item-tags">
+                    
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Simple
+                    </span>
+                    
+                    
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-bib">À tester</span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-id="122"
+            data-approuvee="false"
+            data-tags="Ottolenghi,Simple,Pas testé,Végé"
+            data-ingredients="ail|||aneth|||beurre|||câpres|||citron vert|||estragon|||graines de cumin|||huile d'olive|||pain rassis|||tomates cerises">
+            <div class="check-circle"></div>
+            <a href="recettes/122.html" class="item-link">
+                Tartines au beurre d'avocat et tomates en sauce vierge
+                <div class="item-tags">
+                    
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Simple
+                    </span>
+                    
+                    
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-bib">À tester</span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-id="123"
+            data-approuvee="true"
+            data-tags="Japonais,Végé"
+            data-ingredients="bouillon dashi|||carottes|||daïkon|||farine|||haricots verts|||huile de tournesol|||jaunes d'œufs|||levure|||mirin|||sauce soja|||sucre">
+            <div class="check-circle"></div>
+            <a href="recettes/123.html" class="item-link">
+                Tempura de légumes
+                <div class="item-tags">
+                    
+                    
+                    <span class="tag tag-origine">
+                        Japonais
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-id="124"
+            data-approuvee="true"
+            data-tags="Ottolenghi,Végé"
+            data-ingredients="ail|||basilic|||cannelle|||champignons de paris|||crème fraîche|||fleur de sel|||huile d'olive|||pain brioché|||piment en flocons|||œufs">
+            <div class="check-circle"></div>
+            <a href="recettes/124.html" class="item-link">
+                Toasts briochés, champignons et œufs pochés
+                <div class="item-tags">
+                    
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-id="125"
+            data-approuvee="true"
+            data-tags="Japonais,Végé,Dessert"
+            data-ingredients="agar-agar|||beurre|||crème fraîche|||faisselle|||fraises|||sucre">
+            <div class="check-circle"></div>
+            <a href="recettes/125.html" class="item-link">
+                Tokyo cheesecake au yuzu
+                <div class="item-tags">
+                    
+                    
+                    <span class="tag tag-origine">
+                        Japonais
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Dessert
+                    </span>
+                    
+                    
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-id="126"
+            data-approuvee="false"
+            data-tags="Ottolenghi,Simple,Pas testé,Végé"
+            data-ingredients="ail|||amandes|||aneth|||blettes|||citron vert|||épinards|||graines de carvi|||huile d'olive|||menthe|||oignons verts|||paprika|||tomates en conserve">
+            <div class="check-circle"></div>
+            <a href="recettes/126.html" class="item-link">
+                Tomates, bettes et épinards aux amandes
+                <div class="item-tags">
+                    
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Simple
+                    </span>
+                    
+                    
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-bib">À tester</span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-id="127"
+            data-approuvee="true"
+            data-tags="Ottolenghi,Végé"
+            data-ingredients="ail|||aneth|||chapelure|||citron|||crème aigre|||huile d'olive|||parmesan|||persil|||poivre blanc|||potiron|||thym">
+            <div class="check-circle"></div>
+            <a href="recettes/127.html" class="item-link">
+                Tranches de potiron croustillantes et crème aigre
+                <div class="item-tags">
+                    
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-id="128"
+            data-approuvee="true"
+            data-tags="Ottolenghi,Viande"
+            data-ingredients="ail|||badiane|||bourbon|||cannelle|||citron|||coriandre|||échalotes|||épis de maïs|||gingembre|||huile d'olive|||huile de sésame|||jus de citron|||jus de citron vert|||ketchup|||menthe|||oignons|||oignons verts|||persil|||piment rouge séché|||piment vert|||poivre du sichuan|||poivre noir|||sel de mer|||sirop d'érable|||travers de porc|||vin shaoxing|||vinaigre de riz">
+            <div class="check-circle"></div>
+            <a href="recettes/128.html" class="item-link">
+                Travers de porc caramélisés au bourbon et salade de maïs fumé
+                <div class="item-tags">
+                    
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Viande
+                    </span>
+                    
+                    
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-id="129"
+            data-approuvee="true"
+            data-tags="Ottolenghi,Poisson"
+            data-ingredients="ail|||beurre|||citron|||coriandre|||graines de fenouil|||huile d'olive|||orange|||poivre noir|||tomates|||truites">
+            <div class="check-circle"></div>
+            <a href="recettes/129.html" class="item-link">
+                Truite rôtie, tomates, orange et baies d'épine-vinette
+                <div class="item-tags">
+                    
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Poisson
+                    </span>
+                    
+                    
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-id="130"
+            data-approuvee="false"
+            data-tags="Ottolenghi,Simple,Pas testé,Végé"
+            data-ingredients="ail|||basilic|||bouillon de légumes|||citron|||courgettes|||feta|||huile d'olive|||pois mange-tout">
+            <div class="check-circle"></div>
+            <a href="recettes/130.html" class="item-link">
+                Velouté de courgettes, petits pois et basilic
+                <div class="item-tags">
+                    
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Simple
+                    </span>
+                    
+                    
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-bib">À tester</span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-id="131"
+            data-approuvee="false"
+            data-tags="Ottolenghi,Simple,Pas testé,Végé"
+            data-ingredients="citron vert|||coriandre|||graines de nigelle|||harissa|||huile d'olive|||lait|||oignons|||œufs">
+            <div class="check-circle"></div>
+            <a href="recettes/131.html" class="item-link">
+                Verrines de fraises rôties au sumac et yaourt égoutté
+                <div class="item-tags">
+                    
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Simple
+                    </span>
+                    
+                    
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-bib">À tester</span>
+                    
+                </div>
+            </a>
+        </li>
+        
+        <li data-id="132"
+            data-approuvee="true"
+            data-tags="Ottolenghi,Végé"
+            data-ingredients="beurre|||bouillon de légumes|||citron|||épinards|||feta|||graines de cumin|||huile d'olive|||poireaux|||poivre noir|||zaatar|||œufs">
+            <div class="check-circle"></div>
+            <a href="recettes/132.html" class="item-link">
+                Œufs braisés, poireaux et zaatar
+                <div class="item-tags">
+                    
+                    
+                    <span class="tag tag-origine">
+                        Ottolenghi
+                    </span>
+                    
+                    
+                    
+                    <span class="tag tag-type">
+                        Végé
+                    </span>
+                    
+                    
                     
                 </div>
             </a>
@@ -2233,29 +4093,30 @@
         
     </ul>
 
-    <p class="compteur" id="compteur">100 recettes</p>
+    <p class="compteur" id="compteur"></p>
 
     <div class="fabs" id="fabs">
-        <a class="fab fab-menu" href="menu.html" id="lien-menu">
+        <a class="fab fab-menu" href="menu.html">
             ☰ Mon menu <span class="bdg" id="bdg-m">0</span>
         </a>
-        <a class="fab fab-ing" href="ingredients.html" id="lien-ing">
+        <a class="fab fab-ing" href="ingredients.html">
             🛒 Ingrédients <span class="bdg" id="bdg-i">0</span>
         </a>
     </div>
 
     <script>
     const ORIGINES    = ["Ottolenghi", "Japonais", "Gagnaire", "Breton", "R\u00e9union"];
-    const TOUS_INGR   = ["abricots", "abricots secs", "agar-agar", "ail", "amandes", "anchois", "aneth", "ao nori", "arilles de grenade", "aubergines", "bacon", "badiane", "basilic", "beurre", "beurre demi-sel", "biscuits amaretti croquants", "blancs d'\u0153ufs", "blettes", "bouillon dashi", "bouillon de b\u0153uf", "bouillon de l\u00e9gumes", "bouillon de poulet", "bouillon de volaille", "bourbon", "bucatini", "b\u0153uf hach\u00e9", "cacahu\u00e8tes grill\u00e9es", "cacao", "caf\u00e9", "cannelle", "c\u00e2pres", "cardamome", "carottes", "carr\u00e9 d'agneau", "cassonade", "c\u00e9leri", "c\u00e9leri-rave", "cerfeuil", "cerises", "chair \u00e0 saucisse", "champignons", "champignons de paris", "champignons \u00e9noki", "champignons shiitak\u00e9", "champignons shimeji", "chapelure", "cheddar", "chocolat noir", "chou pointu", "chou rouge", "chou vert", "chou-fleur", "ciboulette", "citron", "citron vert", "concentr\u00e9 de tomates", "concombre", "coriandre", "cornichons \u00e0 l'aneth", "courgettes", "cr\u00e8me aigre", "cr\u00e8me double", "cr\u00e8me fra\u00eeche", "cr\u00e8me liquide", "cuisses de poulet", "cumin", "curcuma", "curry en poudre", "da\u00efkon", "dashi", "dulce de leche", "eau de fleur d'oranger", "\u00e9chalotes", "endives", "endives rouges", "\u00e9pinards", "\u00e9pis de ma\u00efs", "estragon", "extrait de vanille", "faisselle", "farine", "faux-filet", "f\u00e9cule de pomme de terre", "feta", "filet d'agneau", "fleur de sel", "flocons de chipotle", "flocons de piment", "fraises", "fromage de ch\u00e8vre", "fromage frais", "fruits rouges", "g\u00e9latine", "gingembre", "gingembre moulu", "gorgonzola", "gouttes d'essence d'amande am\u00e8re", "graines de carvi", "graines de coriandre", "graines de cumin", "graines de fenouil", "graines de pavot", "graines de s\u00e9same", "grenade", "griottes", "haricots verts", "harissa", "huile d'arachide", "huile d'olive", "huile de colza", "huile de s\u00e9same", "huile de tournesol", "jambon blanc", "jaunes d'\u0153ufs", "jus d'orange", "jus de citron", "jus de citron vert", "ketchup", "kielbasa", "lait", "lait de coco", "lait ferment\u00e9", "lard", "lardons fum\u00e9s", "laurier", "lentilles du puy", "levure", "limoncello", "macis moulu", "magret de canard", "ma\u00efzena", "mangue", "marjolaine", "mascarpone", "mayonnaise kewpie", "m\u00e9lange quatre-\u00e9pices", "m\u00e9lasse de grenade", "menthe", "merlans", "mie de pain", "miel", "mirin", "miso", "miso blanc", "miso doux", "miso rouge", "moutarde \u00e0 l'ancienne", "moutarde anglaise", "moutarde de dijon", "moutarde karashi", "myrtilles", "noisettes", "noix", "noix de coco d\u00e9shydrat\u00e9e", "noix de macadamia", "nori", "nouilles ramen", "nouilles soba", "nouilles udon", "nouilles yakisoba", "oignons", "oignons doux", "oignons rouges", "oignons verts", "olives de kalamata", "orange", "origan", "pack cho\u00ef", "pain brioch\u00e9", "pain rassis", "pains pitas", "pamplemousses roses", "papaye", "paprika", "paprika fum\u00e9", "parmesan", "patates douces", "p\u00e2tes s\u00e8ches", "pecorino", "persil", "pignons de pin", "piment d'alep", "piment d'espelette", "piment d'urfa", "piment de cayenne", "piment en flocons", "piment rouge frais", "piment rouge s\u00e9ch\u00e9", "piment vert", "piments verts", "pistaches", "pleurotes", "poireaux", "poires", "pois mange-tout", "poivre blanc", "poivre du sichuan", "poivre noir", "poivre sansho", "poivrons rouges", "poivrons verts", "polenta", "pommes", "pommes de terre", "porc hach\u00e9", "potiron", "poudre d'amande", "pruneaux", "pur\u00e9e de coco", "pur\u00e9e de s\u00e9same", "quinoa rouge", "rhubarbe", "rhum blanc", "rhum brun", "riz", "romarin", "roquefort", "roquette", "safran", "sak\u00e9", "sauce okonomiyaki", "sauce soja", "sauce teriyaki", "saucisses fum\u00e9es", "sauge", "saumon", "saumon fum\u00e9", "sauternes", "sel", "sel de maldon", "sel de mer", "semoule fine", "shichimi togarashi", "sirop d'\u00e9rable", "sirop de datte", "spaghettis", "sucre", "sucre glace", "sucre muscovado", "sumac", "tagliatelles", "tahin", "taleggio", "tamari", "thym", "tomates", "tomates cerises", "tomates en conserve", "tomates s\u00e9ch\u00e9es", "travers de porc", "truites", "vanille", "viande d'agneau hach\u00e9e", "vin shaoxing", "vinaigre balsamique", "vinaigre de cidre", "vinaigre de riz", "vinaigre de vin blanc", "vinaigre de vin rouge", "vinaigre noir de chinkiang", "yaourt grec", "zaatar", "\u0153ufs", "\u0153ufs de caille"];
+    const TOUS_INGR   = ["abricots", "abricots secs", "agar-agar", "ail", "amandes", "anchois", "aneth", "ao nori", "arilles de grenade", "asperges", "aubergines", "avocat", "bacon", "badiane", "basilic", "beurre", "beurre demi-sel", "biscuits amaretti croquants", "blancs d'\u0153ufs", "blettes", "bouillon dashi", "bouillon de b\u0153uf", "bouillon de l\u00e9gumes", "bouillon de poulet", "bouillon de volaille", "bourbon", "brocoli", "bucatini", "burrata", "b\u0153uf hach\u00e9", "cacahu\u00e8tes grill\u00e9es", "cacao", "caf\u00e9", "cannelle", "c\u00e2pres", "cardamome", "carottes", "carr\u00e9 d'agneau", "cassonade", "c\u00e9leri", "c\u00e9leri-rave", "cerfeuil", "cerises", "chair \u00e0 saucisse", "champignons", "champignons de paris", "champignons \u00e9noki", "champignons shiitak\u00e9", "champignons shimeji", "chapelure", "cheddar", "chocolat noir", "chou pointu", "chou rouge", "chou vert", "chou-fleur", "ciboulette", "citron", "citron confit", "citron vert", "concentr\u00e9 de tomates", "concombre", "coriandre", "cornichons \u00e0 l'aneth", "courgettes", "cr\u00e8me aigre", "cr\u00e8me double", "cr\u00e8me fra\u00eeche", "cr\u00e8me liquide", "cresson", "cuisses de poulet", "cumin", "curcuma", "curry en poudre", "da\u00efkon", "dashi", "dulce de leche", "eau de fleur d'oranger", "\u00e9chalotes", "endives", "endives rouges", "\u00e9pinards", "\u00e9pis de ma\u00efs", "estragon", "extrait de vanille", "faisselle", "farine", "faux-filet", "f\u00e9cule de pomme de terre", "feta", "f\u00e8ves", "filet d'agneau", "fleur de sel", "flocons de chipotle", "flocons de piment", "fraises", "fromage de ch\u00e8vre", "fromage frais", "fruits rouges", "g\u00e9latine", "gingembre", "gingembre moulu", "gorgonzola", "gouttes d'essence d'amande am\u00e8re", "graines de carvi", "graines de coriandre", "graines de courge", "graines de cumin", "graines de fenouil", "graines de nigelle", "graines de pavot", "graines de s\u00e9same", "grenade", "griottes", "haricots verts", "harissa", "huile d'arachide", "huile d'olive", "huile de colza", "huile de s\u00e9same", "huile de tournesol", "jambon blanc", "jaunes d'\u0153ufs", "jus d'orange", "jus de citron", "jus de citron vert", "kale", "ketchup", "kielbasa", "lait", "lait de coco", "lait ferment\u00e9", "lard", "lardons fum\u00e9s", "laurier", "lentilles du puy", "levure", "limoncello", "m\u00e2che", "macis moulu", "magret de canard", "ma\u00efzena", "mangue", "marjolaine", "mascarpone", "mayonnaise kewpie", "m\u00e9lange quatre-\u00e9pices", "m\u00e9lasse de grenade", "menthe", "merlans", "mie de pain", "miel", "mirin", "miso", "miso blanc", "miso doux", "miso rouge", "moutarde \u00e0 l'ancienne", "moutarde anglaise", "moutarde de dijon", "moutarde karashi", "myrtilles", "noisettes", "noix", "noix de coco d\u00e9shydrat\u00e9e", "noix de macadamia", "nori", "nouilles ramen", "nouilles soba", "nouilles udon", "nouilles yakisoba", "oignons", "oignons doux", "oignons rouges", "oignons verts", "olives de kalamata", "orange", "origan", "pack cho\u00ef", "pain brioch\u00e9", "pain rassis", "pains pitas", "pamplemousses roses", "papaye", "paprika", "paprika fum\u00e9", "parmesan", "past\u00e8que", "patates douces", "p\u00e2tes s\u00e8ches", "pecorino", "persil", "pignons de pin", "piment d'alep", "piment d'espelette", "piment d'urfa", "piment de cayenne", "piment en flocons", "piment rouge frais", "piment rouge s\u00e9ch\u00e9", "piment vert", "piments verts", "pistaches", "pleurotes", "poireaux", "poires", "pois mange-tout", "poivre blanc", "poivre du sichuan", "poivre noir", "poivre sansho", "poivrons rouges", "poivrons verts", "polenta", "pommes", "pommes de terre", "porc hach\u00e9", "potiron", "poudre d'amande", "pruneaux", "pur\u00e9e de coco", "pur\u00e9e de s\u00e9same", "quinoa rouge", "rhubarbe", "rhum blanc", "rhum brun", "ricotta", "riz", "romarin", "roquefort", "roquette", "safran", "sak\u00e9", "sauce okonomiyaki", "sauce soja", "sauce teriyaki", "saucisses fum\u00e9es", "sauge", "saumon", "saumon fum\u00e9", "sauternes", "sel", "sel de maldon", "sel de mer", "semoule fine", "shichimi togarashi", "sirop d'\u00e9rable", "sirop de datte", "spaghettis", "sucre", "sucre glace", "sucre muscovado", "sumac", "tagliatelles", "tahin", "taleggio", "tamari", "thym", "tomates", "tomates cerises", "tomates en conserve", "tomates s\u00e9ch\u00e9es", "travers de porc", "truites", "vanille", "viande d'agneau hach\u00e9e", "vin shaoxing", "vinaigre balsamique", "vinaigre de cidre", "vinaigre de riz", "vinaigre de vin blanc", "vinaigre de vin rouge", "vinaigre noir de chinkiang", "yaourt grec", "zaatar", "\u0153ufs", "\u0153ufs de caille"];
     const actifs      = new Set();
     const ingActifs   = new Set();
     let texteRecherche = "";
     let modeSel = false;
+    let onglet  = "approuvees";   // "approuvees" | "bibliotheque"
 
     const items    = Array.from(document.querySelectorAll("#liste-recettes li"));
     const compteur = document.getElementById("compteur");
 
-    /* ── Sélection stockée dans sessionStorage ────────────────────────────── */
+    /* ── Sélection persistante ───────────────────────────────────────────── */
     function getSelection() {
         try { return new Set(JSON.parse(sessionStorage.getItem("sel") || "[]")); }
         catch { return new Set(); }
@@ -2272,10 +4133,96 @@
         document.getElementById("bdg-i").textContent = n;
     }
 
+    /* ── Mode sélection ──────────────────────────────────────────────────── */
     function toggleSel() {
         modeSel = !modeSel;
         document.getElementById("sel-btn").classList.toggle("on", modeSel);
         document.body.classList.toggle("sel-mode", modeSel);
+    }
+
+    /* ── Onglets ─────────────────────────────────────────────────────────── */
+    function switchTab(t) {
+        onglet = t;
+        document.getElementById("tab-approuvees").className =
+            "tab-btn" + (t === "approuvees" ? " active" : "");
+        document.getElementById("tab-bibliotheque").className =
+            "tab-btn" + (t === "bibliotheque" ? " active" : "");
+        filtrer();
+    }
+
+    /* ── Score ingrédients ───────────────────────────────────────────────── */
+    function scoreIng(li) {
+        if (!ingActifs.size) return 1;
+        const ingrs = li.dataset.ingredients
+            ? li.dataset.ingredients.split("|||") : [];
+        return [...ingActifs].filter(q =>
+            ingrs.some(i => i.includes(q.toLowerCase()))
+        ).length;
+    }
+
+    /* ── Filtrage + tri + compteurs ──────────────────────────────────────── */
+    function filtrer() {
+        const filtresOrigine = [...actifs].filter(v => ORIGINES.includes(v));
+        const filtresType    = [...actifs].filter(v => !ORIGINES.includes(v));
+        const liste = document.getElementById("liste-recettes");
+
+        let cntApp = 0, cntBib = 0;
+        const visibles = [];
+
+        items.forEach(li => {
+            const tags      = li.dataset.tags ? li.dataset.tags.split(",") : [];
+            const titre     = li.textContent.toLowerCase();
+            const approuvee = li.dataset.approuvee === "true";
+
+            const okTexte   = !texteRecherche || titre.includes(texteRecherche);
+            const okOrigine = !filtresOrigine.length ||
+                              filtresOrigine.every(f => tags.includes(f));
+            const okType    = !filtresType.length ||
+                              filtresType.every(f => tags.includes(f));
+            const s         = scoreIng(li);
+            const okIng     = !ingActifs.size || s > 0;
+
+            const passeFiltres = okTexte && okOrigine && okType && okIng;
+
+            // Compteurs dynamiques (toutes recettes passant les filtres)
+            if (passeFiltres) {
+                if (approuvee)  cntApp++;
+                else            cntBib++;
+            }
+
+            // Visibilité selon onglet actif
+            const dansOnglet = (onglet === "approuvees") === approuvee;
+            li.style.display = (passeFiltres && dansOnglet) ? "" : "none";
+
+            if (passeFiltres && dansOnglet) visibles.push({ li, s });
+        });
+
+        // Mise à jour des compteurs d'onglets
+        document.getElementById("cnt-approuvees").textContent = cntApp;
+        document.getElementById("cnt-bibliotheque").textContent = cntBib;
+
+        // Tri par score ingrédients décroissant + badges
+        if (ingActifs.size > 0 && visibles.length > 0) {
+            visibles.sort((a, b) => b.s - a.s);
+            visibles.forEach(({ li, s }) => {
+                const old = li.querySelector(".score-badge");
+                if (old) old.remove();
+                if (ingActifs.size > 1) {
+                    const badge = document.createElement("span");
+                    badge.className = "score-badge";
+                    badge.textContent = s + "/" + ingActifs.size;
+                    badge.style.cssText =
+                        "background:" + (s === ingActifs.size ? "#E1F5EE" : "#FFF3E0") + ";" +
+                        "color:"      + (s === ingActifs.size ? "#085041" : "#8b4513") + ";";
+                    li.querySelector(".item-link").appendChild(badge);
+                }
+                liste.appendChild(li);
+            });
+        }
+
+        // Compteur global de l'onglet actif
+        const total = onglet === "approuvees" ? cntApp : cntBib;
+        compteur.textContent = total + " recette" + (total > 1 ? "s" : "");
     }
 
     /* ── Clic sur une recette ─────────────────────────────────────────────── */
@@ -2297,82 +4244,7 @@
     });
     updateFabs();
 
-    /* ── Filtrage catégories + texte + tri par pertinence ingrédients ──────── */
-    function filtrer() {
-        const filtresOrigine = [...actifs].filter(v => ORIGINES.includes(v));
-        const filtresType    = [...actifs].filter(v => !ORIGINES.includes(v));
-        const ingList        = [...ingActifs];
-
-        // Calculer le score (nb d'ingrédients actifs présents) pour chaque item
-        const liste = document.getElementById("liste-recettes");
-        let visible = 0;
-        const visibles = [];
-
-        items.forEach(li => {
-            const tags  = li.dataset.tags ? li.dataset.tags.split(",") : [];
-            const ingrs = li.dataset.ingredients
-                ? li.dataset.ingredients.split("|||") : [];
-            const titre = li.textContent.toLowerCase();
-
-            // Filtres stricts : texte et catégories
-            const okTexte   = !texteRecherche || titre.includes(texteRecherche);
-            const okOrigine = !filtresOrigine.length ||
-                              filtresOrigine.every(f => tags.includes(f));
-            const okType    = !filtresType.length ||
-                              filtresType.every(f => tags.includes(f));
-
-            if (!okTexte || !okOrigine || !okType) {
-                li.style.display = "none";
-                return;
-            }
-
-            // Score ingrédients : nombre de filtres actifs présents dans la recette
-            // Si aucun filtre ingrédient actif, score = 1 (toutes égales)
-            const score = ingList.length === 0 ? 1
-                : ingList.filter(q =>
-                    ingrs.some(i => i.includes(q.toLowerCase()))
-                  ).length;
-
-            // Masquer si score = 0 (aucun ingrédient correspondant)
-            if (ingList.length > 0 && score === 0) {
-                li.style.display = "none";
-                return;
-            }
-
-            li.style.display = "";
-            visibles.push({ li, score });
-            visible++;
-        });
-
-        // Trier par score décroissant en réordonnant les éléments dans le DOM
-        if (ingList.length > 0 && visibles.length > 0) {
-            visibles.sort((a, b) => b.score - a.score);
-
-            visibles.forEach(({ li, score }) => {
-                // Retirer l'ancien badge s'il existe
-                const old = li.querySelector(".score-badge");
-                if (old) old.remove();
-
-                // Badge "X/N" uniquement si plusieurs filtres actifs
-                if (ingList.length > 1) {
-                    const badge = document.createElement("span");
-                    badge.className = "score-badge";
-                    badge.textContent = score + "/" + ingList.length;
-                    badge.style.cssText =
-                        "font-size:10px;padding:1px 6px;border-radius:99px;margin-left:6px;" +
-                        "background:" + (score === ingList.length ? "#E1F5EE" : "#FFF3E0") + ";" +
-                        "color:"      + (score === ingList.length ? "#085041" : "#8b4513") + ";";
-                    li.querySelector(".item-link").appendChild(badge);
-                }
-
-                // Réordonner dans le DOM par score décroissant
-                liste.appendChild(li);
-            });
-        }
-
-        compteur.textContent = visible + " recette" + (visible > 1 ? "s" : "");
-    }
-
+    /* ── Chips catégories ─────────────────────────────────────────────────── */
     document.querySelectorAll(".chip").forEach(chip => {
         chip.addEventListener("click", () => {
             const val = chip.dataset.val, dim = chip.dataset.dim;
@@ -2383,6 +4255,7 @@
         });
     });
 
+    /* ── Recherche texte ─────────────────────────────────────────────────── */
     document.getElementById("recherche").addEventListener("input", e => {
         texteRecherche = e.target.value.toLowerCase().trim();
         filtrer();
@@ -2408,7 +4281,8 @@
             `<div class="suggestion" data-val="${m}" data-idx="${idx}">
                 ${highlight(m, q)}</div>`).join("");
         sugBox.querySelectorAll(".suggestion").forEach(el =>
-            el.addEventListener("mousedown", e => { e.preventDefault(); ajouterTag(el.dataset.val); }));
+            el.addEventListener("mousedown", e => {
+                e.preventDefault(); ajouterTag(el.dataset.val); }));
     }
     function ajouterTag(val) {
         ingInput.value = ""; sugBox.innerHTML = "";
@@ -2436,6 +4310,9 @@
     });
     ingInput.addEventListener("blur", () =>
         setTimeout(() => { sugBox.innerHTML = ""; }, 150));
+
+    /* ── Init ─────────────────────────────────────────────────────────────── */
+    filtrer();
 
     if ("serviceWorker" in navigator)
         navigator.serviceWorker.register("service-worker.js");

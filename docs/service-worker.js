@@ -1,4 +1,4 @@
-const CACHE = "recettes-v5";
+const CACHE = "recettes-v6";
 const PRECACHE = [
     "./index.html",
     "./style.css",
@@ -104,22 +104,50 @@ const PRECACHE = [
     "./recettes/96.html",
     "./recettes/97.html",
     "./recettes/98.html",
-    "./recettes/99.html"
+    "./recettes/99.html",
+    "./recettes/100.html",
+    "./recettes/101.html",
+    "./recettes/102.html",
+    "./recettes/103.html",
+    "./recettes/104.html",
+    "./recettes/105.html",
+    "./recettes/106.html",
+    "./recettes/107.html",
+    "./recettes/108.html",
+    "./recettes/109.html",
+    "./recettes/110.html",
+    "./recettes/111.html",
+    "./recettes/112.html",
+    "./recettes/113.html",
+    "./recettes/114.html",
+    "./recettes/115.html",
+    "./recettes/116.html",
+    "./recettes/117.html",
+    "./recettes/118.html",
+    "./recettes/119.html",
+    "./recettes/120.html",
+    "./recettes/121.html",
+    "./recettes/122.html",
+    "./recettes/123.html",
+    "./recettes/124.html",
+    "./recettes/125.html",
+    "./recettes/126.html",
+    "./recettes/127.html",
+    "./recettes/128.html",
+    "./recettes/129.html",
+    "./recettes/130.html",
+    "./recettes/131.html",
+    "./recettes/132.html"
 ];
 self.addEventListener("install", e => {
     e.waitUntil(caches.open(CACHE).then(c => c.addAll(PRECACHE)));
     self.skipWaiting();
 });
 self.addEventListener("activate", e => {
-    e.waitUntil(
-        caches.keys().then(keys =>
-            Promise.all(keys.filter(k => k !== CACHE).map(k => caches.delete(k)))
-        )
-    );
+    e.waitUntil(caches.keys().then(keys =>
+        Promise.all(keys.filter(k => k !== CACHE).map(k => caches.delete(k)))));
     self.clients.claim();
 });
 self.addEventListener("fetch", e => {
-    e.respondWith(
-        caches.match(e.request).then(cached => cached || fetch(e.request))
-    );
+    e.respondWith(caches.match(e.request).then(cached => cached || fetch(e.request)));
 });
