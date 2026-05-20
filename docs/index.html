@@ -2297,24 +2297,79 @@
     });
     updateFabs();
 
-    /* ── Filtrage catégories + ingrédients + texte ────────────────────────── */
+    /* ── Filtrage catégories + texte + tri par pertinence ingrédients ──────── */
     function filtrer() {
         const filtresOrigine = [...actifs].filter(v => ORIGINES.includes(v));
         const filtresType    = [...actifs].filter(v => !ORIGINES.includes(v));
+        const ingList        = [...ingActifs];
+
+        // Calculer le score (nb d'ingrédients actifs présents) pour chaque item
+        const liste = document.getElementById("liste-recettes");
         let visible = 0;
+        const visibles = [];
+
         items.forEach(li => {
             const tags  = li.dataset.tags ? li.dataset.tags.split(",") : [];
             const ingrs = li.dataset.ingredients
                 ? li.dataset.ingredients.split("|||") : [];
             const titre = li.textContent.toLowerCase();
-            const ok = (!texteRecherche || titre.includes(texteRecherche))
-                    && (!filtresOrigine.length || filtresOrigine.every(f => tags.includes(f)))
-                    && (!filtresType.length    || filtresType.every(f => tags.includes(f)))
-                    && (!ingActifs.size        || [...ingActifs].every(q =>
-                           ingrs.some(i => i.includes(q.toLowerCase()))));
-            li.style.display = ok ? "" : "none";
-            if (ok) visible++;
+
+            // Filtres stricts : texte et catégories
+            const okTexte   = !texteRecherche || titre.includes(texteRecherche);
+            const okOrigine = !filtresOrigine.length ||
+                              filtresOrigine.every(f => tags.includes(f));
+            const okType    = !filtresType.length ||
+                              filtresType.every(f => tags.includes(f));
+
+            if (!okTexte || !okOrigine || !okType) {
+                li.style.display = "none";
+                return;
+            }
+
+            // Score ingrédients : nombre de filtres actifs présents dans la recette
+            // Si aucun filtre ingrédient actif, score = 1 (toutes égales)
+            const score = ingList.length === 0 ? 1
+                : ingList.filter(q =>
+                    ingrs.some(i => i.includes(q.toLowerCase()))
+                  ).length;
+
+            // Masquer si score = 0 (aucun ingrédient correspondant)
+            if (ingList.length > 0 && score === 0) {
+                li.style.display = "none";
+                return;
+            }
+
+            li.style.display = "";
+            visibles.push({ li, score });
+            visible++;
         });
+
+        // Trier par score décroissant en réordonnant les éléments dans le DOM
+        if (ingList.length > 0 && visibles.length > 0) {
+            visibles.sort((a, b) => b.score - a.score);
+
+            visibles.forEach(({ li, score }) => {
+                // Retirer l'ancien badge s'il existe
+                const old = li.querySelector(".score-badge");
+                if (old) old.remove();
+
+                // Badge "X/N" uniquement si plusieurs filtres actifs
+                if (ingList.length > 1) {
+                    const badge = document.createElement("span");
+                    badge.className = "score-badge";
+                    badge.textContent = score + "/" + ingList.length;
+                    badge.style.cssText =
+                        "font-size:10px;padding:1px 6px;border-radius:99px;margin-left:6px;" +
+                        "background:" + (score === ingList.length ? "#E1F5EE" : "#FFF3E0") + ";" +
+                        "color:"      + (score === ingList.length ? "#085041" : "#8b4513") + ";";
+                    li.querySelector(".item-link").appendChild(badge);
+                }
+
+                // Réordonner dans le DOM par score décroissant
+                liste.appendChild(li);
+            });
+        }
+
         compteur.textContent = visible + " recette" + (visible > 1 ? "s" : "");
     }
 
