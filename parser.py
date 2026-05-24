@@ -150,11 +150,15 @@ def _extrait_categories(sections: dict) -> list[str]:
 
 def _extrait_approuvee(categories: list[str]) -> bool:
     """
-    Retourne True si la recette est approuvée (pas de 'Pas testé' dans les catégories).
+    Retourne True si la recette est approuvée (pas de 'Pas testé' ou 'Non testé' dans les catégories).
     Retourne False si la recette est dans la bibliothèque ('Pas testé' présent).
     """
-    return not any(_normaliser(c) == _normaliser("Pas testé") for c in categories)
-
+    mots_cles = [_normaliser("Non testé"), _normaliser("Pas testé")]
+    return not any(
+        mot in _normaliser(c)
+        for c in categories
+        for mot in mots_cles
+    )
 
 # ── Extraction des ingrédients curés ──────────────────────────────────────────
 
