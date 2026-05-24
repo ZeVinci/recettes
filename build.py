@@ -18,7 +18,7 @@ ORIGINES = ["Ottolenghi", "Japonais", "Gagnaire", "Breton", "Réunion"]
 TYPES    = ["Végé", "Viande", "Poisson", "Dessert"]
 
 
-# ── Template page liste (index.html) ──────────────────────────────────────────
+# ── Template index.html ────────────────────────────────────────────────────────
 
 TMPL_LISTE = """<!DOCTYPE html>
 <html lang="fr">
@@ -64,16 +64,32 @@ TMPL_LISTE = """<!DOCTYPE html>
         .ing-tag button { background: none; border: none; cursor: pointer; color: #BA7517;
                           font-size: 15px; line-height: 1; padding: 0; }
 
+        /* ── Onglets ── */
+        .tabs { display: flex; border-bottom: 0.5px solid #eee;
+                background: white; position: sticky; top: 0; z-index: 10; }
+        .tab-btn { flex: 1; padding: 11px 8px; font-size: 13px; cursor: pointer;
+                   text-align: center; color: #888; background: white;
+                   border: none; position: relative; }
+        .tab-btn.active { color: #7F77DD; font-weight: 500; }
+        .tab-btn.active::after { content: ''; position: absolute; bottom: -0.5px;
+                                  left: 0; right: 0; height: 2px; background: #7F77DD; }
+        .tab-count { display: inline-block; font-size: 11px; padding: 1px 6px;
+                     border-radius: 99px; margin-left: 4px;
+                     background: #f5f5f5; color: #888; }
+        .tab-btn.active .tab-count { background: #EEEDFE; color: #3C3489; }
+
         /* ── Tags recettes ── */
         .item-tags { display: flex; gap: 4px; flex-wrap: wrap; margin-top: 4px; }
         .tag { font-size: 11px; padding: 2px 7px; border-radius: 99px; }
         .tag-origine { background: #EEEDFE; color: #3C3489; }
         .tag-type    { background: #E1F5EE; color: #085041; }
+        .tag-bib     { background: #FAEEDA; color: #633806; }
+        .score-badge { font-size: 10px; padding: 1px 6px; border-radius: 99px; }
 
         /* ── Mode sélection ── */
         .sel-btn { padding: 6px 10px; font-size: 12px; border-radius: 6px;
                    border: 0.5px solid #ccc; background: #f5f5f5; color: #555;
-                   cursor: pointer; white-space: nowrap; margin-top: 8px; }
+                   cursor: pointer; white-space: nowrap; }
         .sel-btn.on { background: #EEEDFE; border-color: #7F77DD; color: #3C3489; }
         #liste-recettes li.picked { background: #F5F3FE; }
         #liste-recettes li .check-circle { width: 20px; height: 20px; border-radius: 50%;
@@ -139,9 +155,20 @@ TMPL_LISTE = """<!DOCTYPE html>
         </div>
     </header>
 
+    <!-- Onglets -->
+    <div class="tabs">
+        <button class="tab-btn active" id="tab-approuvees" onclick="switchTab('approuvees')">
+            Mes recettes <span class="tab-count" id="cnt-approuvees">0</span>
+        </button>
+        <button class="tab-btn" id="tab-bibliotheque" onclick="switchTab('bibliotheque')">
+            Bibliothèque <span class="tab-count" id="cnt-bibliotheque">0</span>
+        </button>
+    </div>
+
     <ul id="liste-recettes">
         {% for r in recettes %}
         <li data-id="{{ r.id }}"
+            data-approuvee="{{ 'true' if r.approuvee else 'false' }}"
             data-tags="{{ r.tags | join(',') }}"
             data-ingredients="{{ r.ingredients | join('|||') }}">
             <div class="check-circle"></div>
@@ -149,23 +176,28 @@ TMPL_LISTE = """<!DOCTYPE html>
                 {{ r.titre }}
                 <div class="item-tags">
                     {% for tag in r.tags %}
+                    {% if tag != 'Pas testé' %}
                     <span class="tag {% if tag in origines %}tag-origine{% else %}tag-type{% endif %}">
                         {{ tag }}
                     </span>
+                    {% endif %}
                     {% endfor %}
+                    {% if not r.approuvee %}
+                    <span class="tag tag-bib">À tester</span>
+                    {% endif %}
                 </div>
             </a>
         </li>
         {% endfor %}
     </ul>
 
-    <p class="compteur" id="compteur">{{ recettes|length }} recettes</p>
+    <p class="compteur" id="compteur"></p>
 
     <div class="fabs" id="fabs">
-        <a class="fab fab-menu" href="menu.html" id="lien-menu">
+        <a class="fab fab-menu" href="menu.html">
             ☰ Mon menu <span class="bdg" id="bdg-m">0</span>
         </a>
-        <a class="fab fab-ing" href="ingredients.html" id="lien-ing">
+        <a class="fab fab-ing" href="ingredients.html">
             🛒 Ingrédients <span class="bdg" id="bdg-i">0</span>
         </a>
     </div>
@@ -177,11 +209,12 @@ TMPL_LISTE = """<!DOCTYPE html>
     const ingActifs   = new Set();
     let texteRecherche = "";
     let modeSel = false;
+    let onglet  = "approuvees";   // "approuvees" | "bibliotheque"
 
     const items    = Array.from(document.querySelectorAll("#liste-recettes li"));
     const compteur = document.getElementById("compteur");
 
-    /* ── Sélection stockée dans sessionStorage ────────────────────────────── */
+    /* ── Sélection persistante ───────────────────────────────────────────── */
     function getSelection() {
         try { return new Set(JSON.parse(sessionStorage.getItem("sel") || "[]")); }
         catch { return new Set(); }
@@ -198,10 +231,96 @@ TMPL_LISTE = """<!DOCTYPE html>
         document.getElementById("bdg-i").textContent = n;
     }
 
+    /* ── Mode sélection ──────────────────────────────────────────────────── */
     function toggleSel() {
         modeSel = !modeSel;
         document.getElementById("sel-btn").classList.toggle("on", modeSel);
         document.body.classList.toggle("sel-mode", modeSel);
+    }
+
+    /* ── Onglets ─────────────────────────────────────────────────────────── */
+    function switchTab(t) {
+        onglet = t;
+        document.getElementById("tab-approuvees").className =
+            "tab-btn" + (t === "approuvees" ? " active" : "");
+        document.getElementById("tab-bibliotheque").className =
+            "tab-btn" + (t === "bibliotheque" ? " active" : "");
+        filtrer();
+    }
+
+    /* ── Score ingrédients ───────────────────────────────────────────────── */
+    function scoreIng(li) {
+        if (!ingActifs.size) return 1;
+        const ingrs = li.dataset.ingredients
+            ? li.dataset.ingredients.split("|||") : [];
+        return [...ingActifs].filter(q =>
+            ingrs.some(i => i.includes(q.toLowerCase()))
+        ).length;
+    }
+
+    /* ── Filtrage + tri + compteurs ──────────────────────────────────────── */
+    function filtrer() {
+        const filtresOrigine = [...actifs].filter(v => ORIGINES.includes(v));
+        const filtresType    = [...actifs].filter(v => !ORIGINES.includes(v));
+        const liste = document.getElementById("liste-recettes");
+
+        let cntApp = 0, cntBib = 0;
+        const visibles = [];
+
+        items.forEach(li => {
+            const tags      = li.dataset.tags ? li.dataset.tags.split(",") : [];
+            const titre     = li.textContent.toLowerCase();
+            const approuvee = li.dataset.approuvee === "true";
+
+            const okTexte   = !texteRecherche || titre.includes(texteRecherche);
+            const okOrigine = !filtresOrigine.length ||
+                              filtresOrigine.every(f => tags.includes(f));
+            const okType    = !filtresType.length ||
+                              filtresType.every(f => tags.includes(f));
+            const s         = scoreIng(li);
+            const okIng     = !ingActifs.size || s > 0;
+
+            const passeFiltres = okTexte && okOrigine && okType && okIng;
+
+            // Compteurs dynamiques (toutes recettes passant les filtres)
+            if (passeFiltres) {
+                if (approuvee)  cntApp++;
+                else            cntBib++;
+            }
+
+            // Visibilité selon onglet actif
+            const dansOnglet = (onglet === "approuvees") === approuvee;
+            li.style.display = (passeFiltres && dansOnglet) ? "" : "none";
+
+            if (passeFiltres && dansOnglet) visibles.push({ li, s });
+        });
+
+        // Mise à jour des compteurs d'onglets
+        document.getElementById("cnt-approuvees").textContent = cntApp;
+        document.getElementById("cnt-bibliotheque").textContent = cntBib;
+
+        // Tri par score ingrédients décroissant + badges
+        if (ingActifs.size > 0 && visibles.length > 0) {
+            visibles.sort((a, b) => b.s - a.s);
+            visibles.forEach(({ li, s }) => {
+                const old = li.querySelector(".score-badge");
+                if (old) old.remove();
+                if (ingActifs.size > 1) {
+                    const badge = document.createElement("span");
+                    badge.className = "score-badge";
+                    badge.textContent = s + "/" + ingActifs.size;
+                    badge.style.cssText =
+                        "background:" + (s === ingActifs.size ? "#E1F5EE" : "#FFF3E0") + ";" +
+                        "color:"      + (s === ingActifs.size ? "#085041" : "#8b4513") + ";";
+                    li.querySelector(".item-link").appendChild(badge);
+                }
+                liste.appendChild(li);
+            });
+        }
+
+        // Compteur global de l'onglet actif
+        const total = onglet === "approuvees" ? cntApp : cntBib;
+        compteur.textContent = total + " recette" + (total > 1 ? "s" : "");
     }
 
     /* ── Clic sur une recette ─────────────────────────────────────────────── */
@@ -223,27 +342,7 @@ TMPL_LISTE = """<!DOCTYPE html>
     });
     updateFabs();
 
-    /* ── Filtrage catégories + ingrédients + texte ────────────────────────── */
-    function filtrer() {
-        const filtresOrigine = [...actifs].filter(v => ORIGINES.includes(v));
-        const filtresType    = [...actifs].filter(v => !ORIGINES.includes(v));
-        let visible = 0;
-        items.forEach(li => {
-            const tags  = li.dataset.tags ? li.dataset.tags.split(",") : [];
-            const ingrs = li.dataset.ingredients
-                ? li.dataset.ingredients.split("|||") : [];
-            const titre = li.textContent.toLowerCase();
-            const ok = (!texteRecherche || titre.includes(texteRecherche))
-                    && (!filtresOrigine.length || filtresOrigine.every(f => tags.includes(f)))
-                    && (!filtresType.length    || filtresType.every(f => tags.includes(f)))
-                    && (!ingActifs.size        || [...ingActifs].every(q =>
-                           ingrs.some(i => i.includes(q.toLowerCase()))));
-            li.style.display = ok ? "" : "none";
-            if (ok) visible++;
-        });
-        compteur.textContent = visible + " recette" + (visible > 1 ? "s" : "");
-    }
-
+    /* ── Chips catégories ─────────────────────────────────────────────────── */
     document.querySelectorAll(".chip").forEach(chip => {
         chip.addEventListener("click", () => {
             const val = chip.dataset.val, dim = chip.dataset.dim;
@@ -254,6 +353,7 @@ TMPL_LISTE = """<!DOCTYPE html>
         });
     });
 
+    /* ── Recherche texte ─────────────────────────────────────────────────── */
     document.getElementById("recherche").addEventListener("input", e => {
         texteRecherche = e.target.value.toLowerCase().trim();
         filtrer();
@@ -279,7 +379,8 @@ TMPL_LISTE = """<!DOCTYPE html>
             `<div class="suggestion" data-val="${m}" data-idx="${idx}">
                 ${highlight(m, q)}</div>`).join("");
         sugBox.querySelectorAll(".suggestion").forEach(el =>
-            el.addEventListener("mousedown", e => { e.preventDefault(); ajouterTag(el.dataset.val); }));
+            el.addEventListener("mousedown", e => {
+                e.preventDefault(); ajouterTag(el.dataset.val); }));
     }
     function ajouterTag(val) {
         ingInput.value = ""; sugBox.innerHTML = "";
@@ -308,6 +409,9 @@ TMPL_LISTE = """<!DOCTYPE html>
     ingInput.addEventListener("blur", () =>
         setTimeout(() => { sugBox.innerHTML = ""; }, 150));
 
+    /* ── Init ─────────────────────────────────────────────────────────────── */
+    filtrer();
+
     if ("serviceWorker" in navigator)
         navigator.serviceWorker.register("service-worker.js");
     </script>
@@ -315,7 +419,7 @@ TMPL_LISTE = """<!DOCTYPE html>
 </html>"""
 
 
-# ── Template page menu.html ────────────────────────────────────────────────────
+# ── Templates inchangés ────────────────────────────────────────────────────────
 
 TMPL_MENU = """<!DOCTYPE html>
 <html lang="fr">
@@ -349,6 +453,8 @@ TMPL_MENU = """<!DOCTYPE html>
                    background: #7F77DD; color: white; border: none; border-radius: 8px;
                    font-size: 14px; font-weight: 500; cursor: pointer;
                    text-decoration: none; text-align: center; }
+        .tag-bib { background: #FAEEDA; color: #633806; font-size: 11px;
+                   padding: 1px 6px; border-radius: 99px; margin-left: 4px; }
     </style>
 </head>
 <body>
@@ -356,7 +462,6 @@ TMPL_MENU = """<!DOCTYPE html>
         <a href="index.html" class="bouton-retour">← Retour</a>
         <h1 style="margin-top:8px">Mon menu</h1>
     </header>
-
     <div style="padding: 0 1rem;">
         <div id="menu-body"></div>
         <button class="valider" id="val-btn" onclick="valider()">
@@ -364,12 +469,10 @@ TMPL_MENU = """<!DOCTYPE html>
         </button>
         <a class="nav-ing" href="ingredients.html">Voir les ingrédients</a>
     </div>
-
     <script>
     const TOUTES = {{ recettes_json }};
     const couverts = {};
     TOUTES.forEach(r => { couverts[r.id] = r.personnes; });
-
     function getSelection() {
         try { return new Set(JSON.parse(sessionStorage.getItem("sel") || "[]")); }
         catch { return new Set(); }
@@ -377,29 +480,26 @@ TMPL_MENU = """<!DOCTYPE html>
     function saveCouverts() {
         sessionStorage.setItem("couverts", JSON.stringify(couverts));
     }
-
-    // Restaurer les couverts ajustés si déjà modifiés
     try {
         const saved = JSON.parse(sessionStorage.getItem("couverts") || "{}");
         Object.assign(couverts, saved);
     } catch {}
-
     function render() {
         const sel = getSelection();
         const recSel = TOUTES.filter(r => sel.has(String(r.id)));
         document.getElementById("val-btn").disabled = recSel.length === 0;
-
         if (recSel.length === 0) {
             document.getElementById("menu-body").innerHTML =
                 '<p class="empty">Aucune recette sélectionnée.<br>' +
                 '<a href="index.html">← Retour à la liste</a></p>';
             return;
         }
-
         document.getElementById("menu-body").innerHTML = recSel.map(r => `
             <div class="mitem">
                 <div style="flex:1">
-                    <div class="mitem-title">${r.titre}</div>
+                    <div class="mitem-title">${r.titre}
+                        ${!r.approuvee ? '<span class="tag-bib">À tester</span>' : ''}
+                    </div>
                     <div class="mitem-base">Base : ${r.personnes} pers.</div>
                 </div>
                 <div class="stepper">
@@ -411,33 +511,27 @@ TMPL_MENU = """<!DOCTYPE html>
                 <button class="rm" onclick="retirer(${r.id})">×</button>
             </div>`).join("");
     }
-
     function changer(id, delta) {
         couverts[id] = Math.max(1, (couverts[id] || 4) + delta);
         const el = document.getElementById("cov-" + id);
         if (el) el.textContent = couverts[id];
         saveCouverts();
     }
-
     function retirer(id) {
         const sel = getSelection();
         sel.delete(String(id));
         sessionStorage.setItem("sel", JSON.stringify([...sel]));
         render();
     }
-
     function valider() {
         sessionStorage.setItem("couverts", JSON.stringify(couverts));
         window.location.href = "courses.html";
     }
-
     render();
     </script>
 </body>
 </html>"""
 
-
-# ── Template page ingredients.html ────────────────────────────────────────────
 
 TMPL_INGREDIENTS = """<!DOCTYPE html>
 <html lang="fr">
@@ -466,17 +560,12 @@ TMPL_INGREDIENTS = """<!DOCTYPE html>
         <h1 style="margin-top:8px">Ingrédients</h1>
         <p id="sub" style="font-size:12px;color:#888;margin-top:4px"></p>
     </header>
-
     <div style="padding: 0 1rem;">
         <div id="ing-body"></div>
-        <button class="valider" onclick="valider()">
-            Valider → liste de courses
-        </button>
+        <button class="valider" onclick="valider()">Valider → liste de courses</button>
     </div>
-
     <script>
     const TOUTES = {{ recettes_json }};
-
     function getSelection() {
         try { return new Set(JSON.parse(sessionStorage.getItem("sel") || "[]")); }
         catch { return new Set(); }
@@ -485,23 +574,18 @@ TMPL_INGREDIENTS = """<!DOCTYPE html>
         try { return JSON.parse(sessionStorage.getItem("couverts") || "{}"); }
         catch { return {}; }
     }
-
     function fmtQte(qte, unite, ratio) {
         if (!qte) return '';
         const q = Math.round(qte * ratio * 10) / 10;
-        return q + (unite ? '\u00a0' + unite : '');
+        return q + (unite ? '\\u00a0' + unite : '');
     }
-
     function render() {
-        const sel      = getSelection();
-        const couverts = getCouverts();
-        const recSel   = TOUTES.filter(r => sel.has(String(r.id)));
-
+        const sel = getSelection(), couverts = getCouverts();
+        const recSel = TOUTES.filter(r => sel.has(String(r.id)));
         document.getElementById("sub").textContent =
             recSel.length + " recette" + (recSel.length > 1 ? "s" : "");
-
         document.getElementById("ing-body").innerHTML = recSel.map(r => {
-            const cv    = couverts[r.id] || r.personnes;
+            const cv = couverts[r.id] || r.personnes;
             const ratio = cv / r.personnes;
             return `<div class="sec">${r.titre} — ${cv} pers.</div>` +
                 r.ingredients_qte.map(i => `
@@ -511,18 +595,12 @@ TMPL_INGREDIENTS = """<!DOCTYPE html>
                     </div>`).join('');
         }).join('');
     }
-
-    function valider() {
-        window.location.href = "courses.html";
-    }
-
+    function valider() { window.location.href = "courses.html"; }
     render();
     </script>
 </body>
 </html>"""
 
-
-# ── Template page courses.html ─────────────────────────────────────────────────
 
 TMPL_COURSES = """<!DOCTYPE html>
 <html lang="fr">
@@ -534,20 +612,22 @@ TMPL_COURSES = """<!DOCTYPE html>
     <link rel="manifest" href="manifest.json">
     <meta name="theme-color" content="#8b4513">
     <style>
+        .toolbar { display: flex; gap: 8px; margin-bottom: 10px; flex-wrap: wrap; }
+        .tbtn { flex: 1; padding: 8px 10px; border-radius: 6px; border: 0.5px solid #ccc;
+                background: #f5f5f5; color: #555; font-size: 12px; cursor: pointer; }
+        .tbtn.primary   { background: #8b4513; color: white; border-color: #8b4513; }
+        .tbtn.secondary { background: #7F77DD; color: white; border-color: #7F77DD; }
         .add-row { display: flex; gap: 8px; margin-bottom: 12px; }
         .add-row input { flex: 1; padding: 8px 10px; font-size: 14px; border-radius: 6px;
                          border: 1px solid #ccc; background: #f9f9f9; }
         .add-row button { padding: 8px 14px; background: #8b4513; color: white;
                           border: none; border-radius: 6px; font-size: 18px; cursor: pointer; }
-        .citem { border-bottom: 0.5px solid #eee; padding: 10px 0;
-                 display: flex; align-items: center; gap: 10px;
-                 cursor: grab; user-select: none; }
-        .citem.raye .clabel { text-decoration: line-through; color: #aaa; }
-        .citem.raye .cqty   { text-decoration: line-through; color: #aaa; }
-        .ccheck { width: 22px; height: 22px; border-radius: 50%;
-                  border: 1.5px solid #ccc; flex-shrink: 0;
-                  display: flex; align-items: center; justify-content: center;
-                  cursor: pointer; }
+        .citem { border-bottom: 0.5px solid #eee; padding: 10px 0; display: flex;
+                 align-items: center; gap: 10px; cursor: grab; user-select: none; }
+        .citem.raye .clabel, .citem.raye .cqty { text-decoration: line-through; color: #aaa; }
+        .ccheck { width: 22px; height: 22px; border-radius: 50%; border: 1.5px solid #ccc;
+                  flex-shrink: 0; display: flex; align-items: center;
+                  justify-content: center; cursor: pointer; }
         .citem.raye .ccheck { background: #1D9E75; border-color: #1D9E75; }
         .ccheck-inner { font-size: 12px; color: white; display: none; }
         .citem.raye .ccheck-inner { display: block; }
@@ -560,6 +640,23 @@ TMPL_COURSES = """<!DOCTYPE html>
         .sub { font-size: 12px; color: #888; margin-top: 4px; }
         .empty { text-align: center; padding: 2rem; color: #aaa; }
         .drag-over { border-top: 2px solid #8b4513; }
+        .panel { display: none; background: #fafafa; border: 0.5px solid #eee;
+                 border-radius: 8px; padding: 12px; margin-bottom: 12px; }
+        .panel.open { display: block; }
+        .panel h3 { font-size: 13px; font-weight: 500; margin-bottom: 10px; color: #333; }
+        .modal-bg { display: none; position: fixed; inset: 0; background: rgba(0,0,0,.4);
+                    z-index: 200; align-items: center; justify-content: center; }
+        .modal-bg.open { display: flex; }
+        .modal { background: white; border-radius: 10px; padding: 20px;
+                 width: 280px; max-width: 90vw; }
+        .modal h3 { font-size: 15px; font-weight: 500; margin-bottom: 12px; }
+        .modal input { width: 100%; padding: 8px 10px; font-size: 14px; border-radius: 6px;
+                       border: 1px solid #ccc; margin-bottom: 12px; box-sizing: border-box; }
+        .modal-btns { display: flex; gap: 8px; }
+        .modal-btns button { flex: 1; padding: 10px; border-radius: 6px;
+                             font-size: 13px; cursor: pointer; border: none; }
+        .btn-cancel { background: #f5f5f5; color: #555; }
+        .btn-ok     { background: #8b4513; color: white; }
     </style>
 </head>
 <body>
@@ -568,20 +665,38 @@ TMPL_COURSES = """<!DOCTYPE html>
         <h1 style="margin-top:8px">Liste de courses</h1>
         <p class="sub" id="sub"></p>
     </header>
-
     <div style="padding: 0 1rem;">
+        <div class="toolbar">
+            <button class="tbtn primary"   onclick="demanderNomSauvegarde()">↓ Sauvegarder</button>
+            <button class="tbtn secondary" onclick="togglePanel()">↑ Charger une liste</button>
+        </div>
+        <div class="panel" id="panel-listes">
+            <h3>Charger une liste</h3>
+            <p style="font-size:13px;color:#555;margin-bottom:10px">
+                Sélectionne un fichier .json sauvegardé précédemment :
+            </p>
+            <input type="file" accept=".json" id="file-inp" style="font-size:13px;width:100%"
+                   onchange="chargerFichier(this)">
+        </div>
         <div class="add-row">
             <input type="text" id="add-inp" placeholder="Ajouter un ingrédient…">
             <button onclick="ajouter()">+</button>
         </div>
         <div id="courses-body"></div>
     </div>
-
+    <div class="modal-bg" id="modal-bg">
+        <div class="modal">
+            <h3>Nom de la liste</h3>
+            <input type="text" id="modal-inp" placeholder="Ex : Semaine du 20 mai…" maxlength="50">
+            <div class="modal-btns">
+                <button class="btn-cancel" onclick="fermerModal()">Annuler</button>
+                <button class="btn-ok"     onclick="sauvegarderListe()">Sauvegarder</button>
+            </div>
+        </div>
+    </div>
     <script>
     const TOUTES = {{ recettes_json }};
-    let courses = [];
-    let dragIdx = null;
-
+    let courses = [], dragIdx = null;
     function getSelection() {
         try { return new Set(JSON.parse(sessionStorage.getItem("sel") || "[]")); }
         catch { return new Set(); }
@@ -590,147 +705,134 @@ TMPL_COURSES = """<!DOCTYPE html>
         try { return JSON.parse(sessionStorage.getItem("couverts") || "{}"); }
         catch { return {}; }
     }
-    function saveCourses() {
-        sessionStorage.setItem("courses", JSON.stringify(courses));
+    function saveCourses() { sessionStorage.setItem("courses", JSON.stringify(courses)); }
+    function loadSessionCourses() {
+        try { const s = JSON.parse(sessionStorage.getItem("courses")); if (s && s.length > 0) return s; }
+        catch {} return null;
     }
-    function loadCourses() {
-        try {
-            const saved = JSON.parse(sessionStorage.getItem("courses"));
-            if (saved && saved.length > 0) return saved;
-        } catch {}
-        return null;
-    }
-
-    function fmtQte(qte, unite, ratio) {
-        if (!qte) return '';
-        const q = Math.round(qte * ratio * 10) / 10;
-        return q + (unite ? '\u00a0' + unite : '');
-    }
-
     function genererCourses() {
-        const sel      = getSelection();
-        const couverts = getCouverts();
-        const recSel   = TOUTES.filter(r => sel.has(String(r.id)));
-
-        // Fusion et addition des quantités par ingrédient curé
+        const sel = getSelection(), couverts = getCouverts();
+        const recSel = TOUTES.filter(r => sel.has(String(r.id)));
         const map = {};
         recSel.forEach(r => {
             const ratio = (couverts[r.id] || r.personnes) / r.personnes;
             r.ingredients_qte.forEach(i => {
-                // Clé = nom curé si disponible, sinon nom extrait
                 const key = i.nom_cure || i.nom;
                 if (!map[key]) map[key] = { nom: key, entrees: [] };
-                map[key].entrees.push({
-                    qte: i.qte ? i.qte * ratio : null,
-                    unite: i.unite
-                });
+                map[key].entrees.push({ qte: i.qte ? i.qte * ratio : null, unite: i.unite });
             });
         });
-
         courses = Object.values(map).map(({ nom, entrees }) => {
+            const us = [...new Set(entrees.map(e => e.unite).filter(Boolean))];
             let qteStr = '';
-            const unitesDistinctes = [...new Set(
-                entrees.map(e => e.unite).filter(Boolean))];
-
-            if (unitesDistinctes.length === 1) {
-                const total = entrees.reduce((s, e) => s + (e.qte || 0), 0);
-                const t = Math.round(total * 10) / 10;
-                qteStr = t > 0 ? t + '\u00a0' + unitesDistinctes[0] : '';
-            } else if (unitesDistinctes.length === 0) {
-                const total = entrees.reduce((s, e) => s + (e.qte || 0), 0);
-                qteStr = total > 0 ? String(Math.round(total * 10) / 10) : '';
+            if (us.length === 1) {
+                const t = Math.round(entrees.reduce((s,e) => s+(e.qte||0), 0) * 10) / 10;
+                qteStr = t > 0 ? t + '\\u00a0' + us[0] : '';
+            } else if (us.length === 0) {
+                const t = Math.round(entrees.reduce((s,e) => s+(e.qte||0), 0) * 10) / 10;
+                qteStr = t > 0 ? String(t) : '';
             } else {
-                // Unités hétérogènes : lister séparément
-                qteStr = entrees
-                    .map(e => e.qte
-                        ? (Math.round(e.qte*10)/10) + (e.unite ? '\u00a0'+e.unite : '')
-                        : '')
+                qteStr = entrees.map(e => e.qte
+                    ? (Math.round(e.qte*10)/10) + (e.unite ? '\\u00a0'+e.unite : '') : '')
                     .filter(Boolean).join(' + ');
             }
             return { nom, qteStr, raye: false };
         }).sort((a, b) => a.nom.localeCompare(b.nom, 'fr'));
-
         saveCourses();
     }
-
     function render() {
         const restants = courses.filter(i => !i.raye).length;
         document.getElementById("sub").textContent =
             restants + "/" + courses.length +
             " élément" + (courses.length !== 1 ? "s" : "") + " restant";
-
         const el = document.getElementById("courses-body");
-        if (!courses.length) {
-            el.innerHTML = '<div class="empty">Liste vide</div>';
-            return;
-        }
-
+        if (!courses.length) { el.innerHTML = '<div class="empty">Liste vide</div>'; return; }
         el.innerHTML = courses.map((item, idx) => `
-            <div class="citem ${item.raye ? 'raye' : ''}"
-                 draggable="true" data-idx="${idx}">
+            <div class="citem ${item.raye ? 'raye' : ''}" draggable="true" data-idx="${idx}">
                 <span class="dragh">⠿</span>
                 <div class="ccheck" onclick="rayer(${idx})">
                     <span class="ccheck-inner">✓</span>
                 </div>
                 <span class="clabel">${item.nom}</span>
-                ${item.qteStr
-                    ? `<span class="cqty">${item.qteStr}</span>` : ''}
+                ${item.qteStr ? `<span class="cqty">${item.qteStr}</span>` : ''}
                 <button class="crm" onclick="retirer(${idx})">×</button>
             </div>`).join('');
-
         el.querySelectorAll('.citem').forEach(row => {
-            row.addEventListener('dragstart', () => {
-                dragIdx = +row.dataset.idx;
-                row.style.opacity = '.4';
-            });
-            row.addEventListener('dragend', () => {
-                row.style.opacity = '';
-            });
-            row.addEventListener('dragover', e => {
-                e.preventDefault();
-                row.classList.add('drag-over');
-            });
-            row.addEventListener('dragleave', () => {
-                row.classList.remove('drag-over');
-            });
+            row.addEventListener('dragstart', () => { dragIdx = +row.dataset.idx; row.style.opacity = '.4'; });
+            row.addEventListener('dragend',   () => { row.style.opacity = ''; });
+            row.addEventListener('dragover',  e => { e.preventDefault(); row.classList.add('drag-over'); });
+            row.addEventListener('dragleave', () => { row.classList.remove('drag-over'); });
             row.addEventListener('drop', e => {
-                e.preventDefault();
-                row.classList.remove('drag-over');
+                e.preventDefault(); row.classList.remove('drag-over');
                 const dest = +row.dataset.idx;
                 if (dragIdx === dest) return;
                 const moved = courses.splice(dragIdx, 1)[0];
                 courses.splice(dest, 0, moved);
-                saveCourses();
-                render();
+                saveCourses(); render();
             });
         });
     }
-
     function rayer(idx)   { courses[idx].raye = !courses[idx].raye; saveCourses(); render(); }
     function retirer(idx) { courses.splice(idx, 1); saveCourses(); render(); }
     function ajouter() {
-        const inp = document.getElementById("add-inp");
-        const val = inp.value.trim();
+        const inp = document.getElementById("add-inp"), val = inp.value.trim();
         if (!val) return;
         courses.push({ nom: val, qteStr: '', raye: false });
-        inp.value = '';
-        saveCourses();
-        render();
+        inp.value = ''; saveCourses(); render();
     }
     document.getElementById("add-inp").addEventListener("keydown", e => {
-        if (e.key === "Enter") ajouter();
+        if (e.key === "Enter") ajouter(); });
+    function demanderNomSauvegarde() {
+        if (!courses.length) { alert("La liste est vide."); return; }
+        const today = new Date().toLocaleDateString('fr-FR', { day: 'numeric', month: 'long' });
+        document.getElementById("modal-inp").value = "Courses du " + today;
+        document.getElementById("modal-bg").classList.add("open");
+        setTimeout(() => document.getElementById("modal-inp").select(), 50);
+    }
+    function fermerModal() { document.getElementById("modal-bg").classList.remove("open"); }
+    function sauvegarderListe() {
+        const nom = document.getElementById("modal-inp").value.trim();
+        if (!nom) return;
+        fermerModal();
+        const recSel = TOUTES.filter(r => getSelection().has(String(r.id))).map(r => r.titre);
+        const data = { version: 1, nom, date: new Date().toISOString(), recettes: recSel, articles: courses };
+        const blob = new Blob([JSON.stringify(data, null, 2)], { type: "application/json" });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement("a");
+        a.href = url;
+        a.download = nom.replace(/[^a-zA-Z0-9 -]/g, '').trim().replace(/ +/g, '_') + ".json";
+        a.click(); URL.revokeObjectURL(url);
+    }
+    function togglePanel() { document.getElementById("panel-listes").classList.toggle("open"); }
+    function chargerFichier(input) {
+        const file = input.files[0]; if (!file) return;
+        const reader = new FileReader();
+        reader.onload = e => {
+            try {
+                const data = JSON.parse(e.target.result);
+                if (!data.articles || !Array.isArray(data.articles)) throw new Error();
+                courses = data.articles; saveCourses(); render();
+                document.getElementById("panel-listes").classList.remove("open");
+                const date = data.date ? new Date(data.date).toLocaleDateString('fr-FR',
+                    { day: 'numeric', month: 'long', year: 'numeric' }) : '';
+                alert('Liste "' + data.nom + '" chargée' + (date ? ' (' + date + ')' : '') + '.');
+            } catch { alert("Fichier invalide."); }
+        };
+        reader.readAsText(file);
+    }
+    document.getElementById("modal-inp").addEventListener("keydown", e => {
+        if (e.key === "Enter") sauvegarderListe();
+        if (e.key === "Escape") fermerModal();
     });
-
-    // Générer ou restaurer la liste
-    const saved = loadCourses();
+    document.getElementById("modal-bg").addEventListener("click", e => {
+        if (e.target === e.currentTarget) fermerModal(); });
+    const saved = loadSessionCourses();
     if (saved) { courses = saved; render(); }
     else { genererCourses(); render(); }
     </script>
 </body>
 </html>"""
 
-
-# ── Template page recette individuelle ────────────────────────────────────────
 
 TMPL_RECETTE = """<!DOCTYPE html>
 <html lang="fr">
@@ -773,8 +875,9 @@ def build():
 
     # 3. Recettes
     recettes = charger_recettes(RECETTES_MD)
-    nb_cures = sum(1 for r in recettes if r["source_ing"] == "cure")
-    print(f"{len(recettes)} recettes chargées ({nb_cures} curées).")
+    nb_app = sum(1 for r in recettes if r["approuvee"])
+    nb_bib = sum(1 for r in recettes if not r["approuvee"])
+    print(f"{len(recettes)} recettes — {nb_app} approuvées, {nb_bib} bibliothèque.")
 
     # 4. Ingrédients uniques pour l'autocomplétion
     import unicodedata
@@ -787,21 +890,15 @@ def build():
     tous_ingredients = sorted(ing_set, key=norm)
     print(f"{len(tous_ingredients)} ingrédients uniques.")
 
-    # 5. JSON des recettes pour les pages JS
-    #    On inclut ingredients_qte (avec le nom curé si disponible)
+    # 5. JSON des recettes
     def recette_json(r):
-        # Associer chaque ligne d'ingrédient à son mot-clé curé
-        # On cherche le mot-clé curé qui correspond au nom extrait
-        cures_set = set(r["ingredients"])
-
         ing_qte_enrichis = []
+        cures_set = set(r["ingredients"])
         for i in r["ingredients_qte"]:
             nom_cure = None
-            # chercher si un mot-clé curé est contenu dans le nom extrait
             for mc in cures_set:
                 if norm(mc) in norm(i["nom"]):
-                    nom_cure = mc
-                    break
+                    nom_cure = mc; break
             ing_qte_enrichis.append({
                 "nom":      i["nom"],
                 "nom_cure": nom_cure or i["nom"],
@@ -812,12 +909,13 @@ def build():
             "id":              r["id"],
             "titre":           r["titre"],
             "tags":            r["tags"],
+            "approuvee":       r["approuvee"],
             "personnes":       r["personnes"],
             "ingredients":     r["ingredients"],
             "ingredients_qte": ing_qte_enrichis,
         }
 
-    recettes_data = [recette_json(r) for r in recettes]
+    recettes_data     = [recette_json(r) for r in recettes]
     recettes_json_str = json.dumps(recettes_data, ensure_ascii=False)
 
     env = Environment(loader=BaseLoader())
@@ -833,30 +931,26 @@ def build():
     # 7. menu.html
     tmpl = env.from_string(TMPL_MENU)
     (DOCS / "menu.html").write_text(
-        tmpl.render(recettes_json=recettes_json_str),
-        encoding="utf-8")
+        tmpl.render(recettes_json=recettes_json_str), encoding="utf-8")
 
     # 8. ingredients.html
     tmpl = env.from_string(TMPL_INGREDIENTS)
     (DOCS / "ingredients.html").write_text(
-        tmpl.render(recettes_json=recettes_json_str),
-        encoding="utf-8")
+        tmpl.render(recettes_json=recettes_json_str), encoding="utf-8")
 
     # 9. courses.html
     tmpl = env.from_string(TMPL_COURSES)
     (DOCS / "courses.html").write_text(
-        tmpl.render(recettes_json=recettes_json_str),
-        encoding="utf-8")
+        tmpl.render(recettes_json=recettes_json_str), encoding="utf-8")
 
     # 10. Pages recettes individuelles
     tmpl = env.from_string(TMPL_RECETTE)
     for r in recettes:
         html = md_lib.markdown(r["contenu_md"], extensions=["extra", "sane_lists"])
         (DOCS / "recettes" / f"{r['id']}.html").write_text(
-            tmpl.render(titre=r["titre"], contenu_html=html),
-            encoding="utf-8")
+            tmpl.render(titre=r["titre"], contenu_html=html), encoding="utf-8")
 
-    # 11. Service worker v5
+    # 11. Service worker v6
     fichiers = (
         ["./index.html", "./style.css", "./menu.html",
          "./ingredients.html", "./courses.html"]
@@ -870,7 +964,7 @@ def build():
 
 def _genere_sw(fichiers):
     liste = ",\n    ".join(f'"{f}"' for f in fichiers)
-    return f"""const CACHE = "recettes-v5";
+    return f"""const CACHE = "recettes-v6";
 const PRECACHE = [
     {liste}
 ];
@@ -879,17 +973,12 @@ self.addEventListener("install", e => {{
     self.skipWaiting();
 }});
 self.addEventListener("activate", e => {{
-    e.waitUntil(
-        caches.keys().then(keys =>
-            Promise.all(keys.filter(k => k !== CACHE).map(k => caches.delete(k)))
-        )
-    );
+    e.waitUntil(caches.keys().then(keys =>
+        Promise.all(keys.filter(k => k !== CACHE).map(k => caches.delete(k)))));
     self.clients.claim();
 }});
 self.addEventListener("fetch", e => {{
-    e.respondWith(
-        caches.match(e.request).then(cached => cached || fetch(e.request))
-    );
+    e.respondWith(caches.match(e.request).then(cached => cached || fetch(e.request)));
 }});
 """
 

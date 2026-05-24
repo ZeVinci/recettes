@@ -19,15 +19,12 @@ def _parse_nombre(s: str) -> float | None:
     s = s.strip()
     if s in _FRACS:
         return _FRACS[s]
-    # "1 ½" ou "1½"
     m = re.match(r"^(\d+)\s*([½¼¾⅓⅔⅛])$", s)
     if m:
         return int(m.group(1)) + _FRACS[m.group(2)]
-    # "1/2"
     m = re.match(r"^(\d+)/(\d+)$", s)
     if m:
         return int(m.group(1)) / int(m.group(2))
-    # nombre simple
     m = re.match(r"^(\d+(?:[.,]\d+)?)$", s)
     if m:
         return float(m.group(1).replace(",", "."))
@@ -36,12 +33,10 @@ def _parse_nombre(s: str) -> float | None:
 
 # ── Extraction des quantités ───────────────────────────────────────────────────
 
-# Préfixe optionnel de fraction seule : "¼ de cuil. à café de…"
 _RE_FRAC_PREFIX = re.compile(
     r"^([¼½¾⅓⅔⅛]|\d+/\d+)\s+de\s+", re.IGNORECASE
 )
 
-# Regex principale : nombre + unité + connecteur + nom
 _RE_QTE = re.compile(
     r"^(?P<qte>[¼½¾⅓⅔⅛]|\d+(?:[.,]\d+)?(?:\s*[½¼¾⅓⅔⅛])?|\d+/\d+)\s*"
     r"(?P<unite>"
@@ -72,18 +67,11 @@ def _normaliser_unite(u: str | None) -> str | None:
 
 
 def parse_ligne_ingredient(ligne: str) -> dict:
-    """
-    Parse une ligne d'ingrédient markdown (avec ou sans tiret).
-    Retourne {nom, qte, unite, ligne_brute}.
-    """
     ligne_brute = ligne.lstrip("- ").strip()
-    # Supprimer italiques
     s = re.sub(r"\*([^*]+)\*", r"\1", ligne_brute)
-    # Supprimer précisions entre parenthèses et après virgule
     s = s.split("(")[0].strip()
     s = s.split(",")[0].strip()
 
-    # Cas "¼ de cuil. à café de X" — fraction seule avant unité
     m_frac = _RE_FRAC_PREFIX.match(s)
     frac_mult = None
     if m_frac:
@@ -99,13 +87,11 @@ def parse_ligne_ingredient(ligne: str) -> dict:
     unite = _normaliser_unite(m.group("unite"))
     nom   = m.group("nom").strip().lower()
 
-    # Appliquer la fraction préfixe si présente
     if frac_mult is not None and qte is not None:
         qte = frac_mult * qte
     elif frac_mult is not None:
         qte = frac_mult
 
-    # Conversions d'unités → g et cl
     if unite == "kg" and qte is not None:
         qte *= 1000; unite = "g"
     if unite == "l" and qte is not None:
@@ -122,12 +108,10 @@ _RE_PERSONNES = re.compile(
     r"[Pp]our\s+(\d+)(?:\s*[àa]\s*(\d+))?\s*personnes?", re.IGNORECASE
 )
 
-
 def _extrait_personnes(contenu_md: str) -> int:
-    """Extrait le nombre de personnes depuis le markdown d'une recette."""
     m = _RE_PERSONNES.search(contenu_md)
     if not m:
-        return 4   # valeur par défaut
+        return 4
     n1 = int(m.group(1))
     n2 = int(m.group(2)) if m.group(2) else None
     return (n1 + n2) // 2 if n2 else n1
@@ -162,7 +146,17 @@ def _extrait_categories(sections: dict) -> list[str]:
     return []
 
 
-# ── Extraction des ingrédients curés (section ## Noms ingrédients) ────────────
+# ── Détection approuvée / bibliothèque ────────────────────────────────────────
+
+def _extrait_approuvee(categories: list[str]) -> bool:
+    """
+    Retourne True si la recette est approuvée (pas de 'Pas testé' dans les catégories).
+    Retourne False si la recette est dans la bibliothèque ('Pas testé' présent).
+    """
+    return not any(_normaliser(c) == _normaliser("Pas testé") for c in categories)
+
+
+# ── Extraction des ingrédients curés ──────────────────────────────────────────
 
 def _extrait_ingredients_cures(sections: dict) -> list[str] | None:
     for cle, contenu in sections.items():
@@ -174,13 +168,9 @@ def _extrait_ingredients_cures(sections: dict) -> list[str] | None:
     return None
 
 
-# ── Extraction des ingrédients avec quantités (section ## Ingrédients) ────────
+# ── Extraction des ingrédients avec quantités ─────────────────────────────────
 
 def _extrait_ingredients_avec_qtes(sections: dict) -> list[dict]:
-    """
-    Extrait les ingrédients avec leurs quantités depuis ## Ingrédients.
-    Retourne une liste de {nom, qte, unite, ligne_brute}.
-    """
     for cle, contenu in sections.items():
         if "ingredients" in cle and "noms" not in cle:
             result = []
@@ -194,7 +184,7 @@ def _extrait_ingredients_avec_qtes(sections: dict) -> list[dict]:
     return []
 
 
-# ── Extraction automatique (fallback noms uniquement) ─────────────────────────
+# ── Extraction automatique (fallback) ─────────────────────────────────────────
 
 _RE_QUANTITE_AUTO = re.compile(
     r"""^[\d½¼¾⅓⅔\s,./]+\s*
@@ -267,14 +257,15 @@ def _reordonne(sections: dict) -> str:
 def charger_recettes(chemin_md: str | Path) -> list[dict]:
     """
     Retourne une liste de dicts :
-      id           : int
-      titre        : str
-      tags         : list[str]
-      personnes    : int          — nombre de personnes de base
-      ingredients  : list[str]   — mots-clés pour le filtre frigo
-      ingredients_qte : list[dict] — [{nom, qte, unite, ligne_brute}]
-      source_ing   : str          — "cure" | "auto"
-      contenu_md   : str
+      id              : int
+      titre           : str
+      tags            : list[str]
+      approuvee       : bool   — True = recette éprouvée, False = bibliothèque
+      personnes       : int
+      ingredients     : list[str]   — mots-clés pour le filtre frigo
+      ingredients_qte : list[dict]  — [{nom, qte, unite, ligne_brute}]
+      source_ing      : str         — "cure" | "auto"
+      contenu_md      : str
     """
     texte = Path(chemin_md).read_text(encoding="utf-8")
     blocs = re.split(r"\n---\n(?=\n?#\s)", texte)
@@ -297,9 +288,10 @@ def charger_recettes(chemin_md: str | Path) -> list[dict]:
 
         sections  = _decoupe_sections(corps)
         tags      = _extrait_categories(sections)
+        approuvee = _extrait_approuvee(tags)
         personnes = _extrait_personnes(corps)
 
-        # Ingrédients curés (filtre) — priorité à ## Noms ingrédients
+        # Ingrédients curés (filtre frigo)
         ingredients_cures = _extrait_ingredients_cures(sections)
         if ingredients_cures is not None:
             ingredients = ingredients_cures
@@ -318,6 +310,7 @@ def charger_recettes(chemin_md: str | Path) -> list[dict]:
             "id":              len(recettes),
             "titre":           titre,
             "tags":            tags,
+            "approuvee":       approuvee,
             "personnes":       personnes,
             "ingredients":     ingredients,
             "ingredients_qte": ingredients_qte,
@@ -338,12 +331,13 @@ if __name__ == "__main__":
     import sys
     chemin = sys.argv[1] if len(sys.argv) > 1 else "recettes.md"
     recettes = charger_recettes(chemin)
-
+    nb_app = sum(1 for r in recettes if r["approuvee"])
+    nb_bib = sum(1 for r in recettes if not r["approuvee"])
     nb_cures = sum(1 for r in recettes if r["source_ing"] == "cure")
-    print(f"{len(recettes)} recettes — {nb_cures} curées")
+    print(f"{len(recettes)} recettes — {nb_app} approuvées, {nb_bib} bibliothèque, {nb_cures} curées")
     print()
     for r in recettes[:3]:
-        print(f"  {r['titre']} ({r['personnes']} pers.)")
-        print(f"  mots-clés : {r['ingredients'][:4]}")
-        print(f"  avec qtes : {[(i['qte'], i['unite'], i['nom'][:15]) for i in r['ingredients_qte'][:3]]}")
+        print(f"  [{'✓' if r['approuvee'] else '📚'}] {r['titre']}")
+        print(f"       tags: {r['tags']}")
+        print(f"       ing:  {r['ingredients'][:4]}")
         print()
