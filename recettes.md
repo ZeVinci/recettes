@@ -16141,4 +16141,4101 @@ Laissez reposer 5 min avant d'étaler un peu de crème fraîche à la cuillère.
 amandes effilées. amandes moulues. beurre. cacao. chocolat noir. crème double. crème fraîche. farine. figues sèches. lait. lait malté. levure chimique. œuf. sirop d'érable. sucre brun
 
 
+---
+# Pêches et haricots d'Espagne grillés, par Calvin
+
+## Commentaire
+
+Calvin Von Niebel, le chef exécutif d'Ottolenghi, a d'abord créé cette recette dans notre laboratoire avec des pêches blanches mûres à point, des haricots de saison et du miel provenant d'une ruche sur un toit de Londres. Ce fut un moment mémorable, grâce à la netteté des saveurs et à la qualité des ingrédients. Il est essentiel de choisir les meilleurs ingrédients possibles. Ce plat repose entièrement sur eux, car il y a peu de cuisson et seulement une vinaigrette légère. Les pêches peuvent être remplacées par des nectarines ou des abricots, les haricots d'Espagne par une autre variété de haricots verts.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En entrée ou en buffet*
+
+- 400 g de haricots d'Espagne, équeutés et coupés en deux
+- 3 cuil. à soupe d'huile d'olive + un peu pour le gril
+- 2 pêches mûres et fermes, dénoyautées et coupées en tranches de ½ cm (200 g)
+- 5 g de feuilles de menthe, grossièrement déchirées
+- ½ cuil. à soupe de jus de citron
+- 80 g de fromage de chèvre frais crémeux sans croûte, cassé en morceaux de 4 cm
+- 20 g d'amandes salées grillées, grossièrement hachées
+- ¼ cuil. à soupe de miel
+- Sel de Maldon et poivre noir
+
+---
+
+## Déroulé de la recette
+
+1. Mélangez les haricots avec 2 cuil. à soupe d'huile et ½ cuil. à café de sel de Maldon. Faites chauffer à feu vif un gril bien graissé et aérez la cuisine. Quand le gril est chaud, faites cuire les haricots 3-4 min de chaque côté, jusqu'à ce que les haricots portent des marques de grillé bien franches et soient presque cuits. Transférez-les dans un récipient et couvrez-les avec une assiette pendant 5 à 10 min, selon le degré de croquant que vous souhaitez leur donner ; la chaleur résiduelle les fera ramollir.
+
+2. Versez l'huile restante sur les tranches de pêche avant de les faire griller 1-2 min de chaque côté, jusqu'à ce qu'elles soient marquées.
+
+3. Mélangez les haricots et les pêches avec la menthe et présentez-les sur un plat de service. Assaisonnez avec le jus de citron, une bonne pincée de sel de Maldon et un bon tour de moulin à poivre. Déposez le fromage de chèvre et les amandes tout autour et arrosez avec le miel.
+
+## Noms ingrédients
+
+amandes. fromage de chèvre. haricots d'Espagne. huile d'olive. jus de citron. miel. menthe. pêches. sel de maldon
+
+---
+
+# Quartiers de laitue iceberg à la crème d'aubergine fumée
+
+## Commentaire
+
+Cette salade est une bombe de textures croustillantes, avec une sauce fumée crémeuse pour faire la liaison entre les ingrédients. Le goût fumé est obtenu selon une méthode classique éprouvée : on fait brûler l'aubergine directement sur la flamme pendant assez longtemps, jusqu'à ce qu'elle se recroqueville. Cela reste notre méthode préférée, mais si vous souhaitez éviter d'enfumer votre cuisine, voici une autre technique : préchauffez le four à 230 °C (th. 7-8) en mode chaleur tournante, puis coupez les aubergines en deux dans la longueur et faites des entailles profondes côté chair. Badigeonnez-les avec un peu d'huile, placez-les sur une plaque tapissée de papier sulfurisé, face coupée vers le haut, et laissez-les rôtir 40-45 min, jusqu'à ce qu'elles soient tendres et très colorées. Transférez-les dans un récipient, couvrez avec une grande assiette et laissez-les ramollir pendant 20 minutes. Retirez la chair de l'aubergine — éliminez la peau et l'eau de végétation.
+
+Cette salade est inspirée d'une recette de l'Aloette, un restaurant fabuleux de Toronto, au Canada.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En accompagnement ou en entrée*
+
+- 1 petite tête de laitue iceberg (350 g), coupée en 12 quartiers
+- 6 cl d'huile d'olive
+- 25 g de parmesan, finement râpé
+- 45 g de radis arc-en-ciel ou rouge et blanc, coupés en fines tranches à la mandoline ou à la main
+- 2 petits avocats, dénoyautés, pelés et coupés en fines tranches
+- 5 g de ciboulette, détaillée en tronçons de 1,5 cm
+- Sel et poivre noir
+
+### Crème d'aubergine
+
+- 2 aubergines moyennes (600 g)
+- 2 ½ cuil. à soupe de jus de citron
+- 1 gousse d'ail, grossièrement hachée
+- 50 g de yaourt à la grecque
+- 2 cuil. à café de moutarde de Dijon
+- 6 cl d'huile d'olive
+
+### Croustillant
+
+- 1 cuil. à soupe d'huile d'olive
+- 60 g d'amandes, grossièrement hachées
+- 100 g de pain au levain, sans la croûte et grossièrement émietté pour obtenir 60 g
+- 50 g de graines de potiron
+- ¼ cuil. à café de flocons de piment Urfa (ou une autre variété)
+
+---
+
+## Déroulé de la recette
+
+1. Préparez d'abord la crème d'aubergine. Faites chauffer à feu vif un gril bien graissé et aérez la cuisine. Piquez les aubergines en 7 ou 8 endroits. Quand le gril est chaud, faites-les griller environ 45-50 min, jusqu'à ce que la surface soit carbonisée et l'intérieur fondant. Transférez-les dans un tamis placé au-dessus d'un récipient. Quand elles sont assez froides pour être manipulées, récupérez la chair : jetez les tiges et la peau brûlée. Mesurez 200 g de chair d'aubergine (réservez le reste pour un autre usage) que vous placez dans le bol d'un robot de cuisine avec les autres ingrédients et ½ cuil. à café de sel. Donnez enfin un bon tour de moulin à poivre. Mixez jusqu'à obtention d'une consistance lisse. Réservez.
+
+2. Pendant ce temps, préparez le croustillant. Faites chauffer l'huile à feu moyen-vif dans une grande poêle, puis ajoutez les amandes et laissez-les cuire environ 2 min, en remuant souvent. Ajoutez le pain, les graines de courge et ¼ cuil. à café de sel, puis laissez cuire encore 5 min sans cesser de remuer, jusqu'à ce que le mélange soit doré. Ajoutez les flocons de piment, laissez cuire encore 30 s, puis transférez sur une plaque et laissez refroidir complètement.
+
+3. Pour l'assemblage, répartissez les quartiers de laitue dans 4 assiettes. Arrosez avec 2 cuil. à soupe d'huile, saupoudrez de sel et de poivre. Ajoutez la crème d'aubergine, puis le parmesan, les radis et l'avocat. Salez et poivrez légèrement, puis arrosez avec les 2 cuil. à soupe d'huile restantes. Décorez de ciboulette et d'une généreuse quantité de croustillant. Servez le reste à côté.
+
+## Noms ingrédients
+
+amandes. aubergines. avocat. ciboulette. graines de courge. huile d'olive. jus de citron. laitue iceberg. moutarde de dijon. pain au levain. parmesan. piment d'urfa. radis. yaourt grec
+
+---
+
+# Haricots de Lima à l'huile de cascabel fumée
+
+## Commentaire
+
+À notre humble avis, les piments cascabel sont les meilleurs piments séchés que l'on puisse acheter. Avec leurs notes de fruits, de noix et de chocolat, leur saveur sucrée et légèrement fumée, ils cochent toutes les cases quand nous essayons d'injecter aux légumes des saveurs variées. Dans notre restaurant ROVI, on les utilise pour parfumer les moules ou les pommes de terre nouvelles et pour préparer ces haricots saupoudrés de graines de coriandre écrasées, servis en antipasto aux clients quand ils prennent place à table.
+
+Servez-les à l'apéritif ou en en-cas, avec du pain et une mayonnaise maison, ou mélangez-les avec des herbes ciselées et des feuilles de roquette pour faire une salade. Ils se conservent 2 semaines dans un bocal au réfrigérateur. L'huile de cascabel fumée se gardera 1 mois dans un bocal en verre, prête à l'emploi pour être ajoutée sur des œufs, des pâtes ou n'importe quoi d'autre.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 6 personnes — En antipasti*
+
+- 1 x 700 g de haricots de Lima cuits, égouttés (425 g)
+- Sel de Maldon
+
+### Huile de cascabel fumée
+
+- 4 piments cascabel secs, grossièrement coupés en deux
+- 5 gousses d'ail avec la peau, écrasées avec la lame d'un couteau
+- 2 piments jalapeño, tranchés dans le sens de la longueur (épépinés si vous n'aimez pas le feu)
+- 1 citron vert bio : 5 bandes de zeste ; 1 cuil. à soupe de jus
+- 1 citron jaune bio : 5 bandes de zeste ; 1 cuil. à soupe de jus
+- ½ cuil. à soupe de graines de coriandre, grillées
+- 1 cuil. à café de graines de cumin, grillées
+- 40 cl d'huile d'olive
+
+---
+
+## Déroulé de la recette
+
+1. Faites chauffer à feu vif une grande poêle antiadhésive et aérez votre cuisine. Quand la poêle fume, baissez à feu moyen. Placez les piments cascabel, l'ail, les piments jalapeño et les zestes des citrons vert et jaune dans la poêle, puis laissez cuire jusqu'à ce que les ingrédients commencent à noircir et que le mélange soit très odorant — cela devrait prendre environ 3 min pour les peaux d'agrumes, 4 min pour l'ail et les piments cascabel, 9 min pour les piments jalapeño. Utilisez une pince métallique pour les retirer un à un de la poêle.
+
+2. Mettez tous les ingrédients grillés dans une casserole moyenne avec les graines de coriandre et de cumin grillées, le jus des citrons, l'huile et 2 cuil. à café de sel de Maldon, puis placez à feu doux. Laissez cuire doucement pendant 4 min environ, jusqu'à ce que l'huile commence à frémir. Retirez du feu et, avec une pince ou un presse-purée, pressez les ingrédients dans l'huile pour libérer leur saveur. Incorporez les haricots et laissez refroidir.
+
+3. Quand le mélange est froid, transférez-le dans un grand bocal et placez au réfrigérateur, ou dans un plat de service si vous le servez dans la journée. Laissez infuser au moins 2 h ou toute une nuit.
+
+## Noms ingrédients
+
+ail. citron. citron vert. graines de coriandre. graines de cumin. haricots de lima. huile d'olive. piments cascabel. piments jalapeño. sel de maldon
+
+---
+
+# Soupe aux herbes et aux aubergines grillées
+
+## Commentaire
+
+Cette soupe s'inspire des techniques culinaires du Moyen-Orient et de l'Inde : de grandes quantités d'herbes sont filtrées pour la base de la soupe, les aubergines sont grillées, et une huile aromatique complète le tout. Cette recette se marie très bien avec les haricots de Lima à l'huile de cascabel fumée, que l'on sert à la cuillère sur le dessus. Vous pouvez la préparer 2 jours à l'avance, mais vous attendrez le dernier moment pour ajouter le jus de citron et les herbes fraîches sur les aubergines et pour arroser la soupe d'un filet d'huile.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 3 aubergines, piquées en 7 ou 8 endroits (750 g)
+- 3 cuil. à soupe de jus de citron
+- 10,5 cl d'huile d'olive + un peu pour le gril
+- 2 oignons, finement hachés (300 g)
+- 6 gousses d'ail, écrasées
+- 60 g de coriandre, hachée grossièrement + 2 cuil. à soupe de feuilles pour servir
+- 60 g de persil, haché grossièrement + 2 cuil. à soupe de feuilles pour servir
+- 40 g d'aneth, haché grossièrement + 2 cuil. à soupe de feuilles pour servir
+- 5 oignons verts, émincés (75 g)
+- 2 ½ cuil. à café de cannelle moulue
+- 2 ½ cuil. à café de cumin moulu
+- 1 cuil. à café de curcuma moulu + ¼ cuil. à café
+- 400 g de jeunes pousses d'épinards, finement déchiquetées
+- 50 cl de bouillon de légumes ou de volaille
+- 1 piment rouge, coupé en fines rondelles (70 g)
+- 2 cuil. à café de graines de moutarde noire
+- Sel et poivre noir
+
+---
+
+## Déroulé de la recette
+
+1. Placez un gril bien graissé à feu vif et ventilez votre cuisine. Quand le gril est flambant, faites griller les aubergines 45-50 min en les retournant deux ou trois fois, jusqu'à ce que la peau soit carbonisée et l'intérieur fondant. Transférez les aubergines dans une passoire au-dessus d'un récipient et laissez-les égoutter pendant 30 min environ. Pelez-les, jetez les tiges et les peaux. Défaites la chair en lanières que vous placez dans un saladier avec 1 cuil. à soupe de jus de citron, ½ cuil. à café de sel et un tour de moulin à poivre. Mélangez, puis réservez.
+
+2. Pendant la cuisson des aubergines, préparez la soupe. Faites chauffer 6 cl d'huile dans une grande casserole à feu moyen-vif. Ajoutez l'oignon haché et laissez-le cuire environ 12 min en remuant souvent, jusqu'à ce qu'il soit fondant et bien doré. Ajoutez l'ail, que vous laissez revenir 30 s. Baissez à feu doux, puis ajoutez les herbes, les oignons verts et 3 cuil. à soupe d'eau. Faites cuire pendant 15 min, jusqu'à ce que le mélange soit d'un vert profond et très odorant, en remuant souvent. Augmentez à feu moyen, ajoutez la cannelle, le cumin et 1 cuil. à café de curcuma. Laissez cuire 30 s, puis ajoutez les épinards, le bouillon, 40 cl d'eau, 1 ¾ cuil. à café de sel et un généreux tour de moulin à poivre. Portez à ébullition, puis baissez à feu moyen et laissez mijoter environ 20 min.
+
+3. Retirez du feu, ajoutez les 2 cuil. à soupe restantes de jus de citron et mixez grossièrement la soupe avec un mixeur plongeant — elle ne doit pas être complètement lisse. Gardez au chaud jusqu'au moment de servir.
+
+4. Pour préparer l'huile, mettez le piment et les 3 cuil. à soupe d'huile restantes dans une petite poêle à feu moyen. Laissez cuire 10-12 min en remuant de temps en temps, jusqu'à ce que le piment soit translucide et brillant. Ajoutez les graines de moutarde et poursuivez la cuisson pendant 1 min. Incorporez le curcuma et versez aussitôt le mélange dans un bol pour stopper la cuisson. Réservez.
+
+5. Répartissez la soupe dans 4 bols. Mélangez les herbes fraîches avec l'aubergine et ajoutez-les à la soupe, et terminez par un filet d'huile.
+
+## Noms ingrédients
+
+ail. aneth. aubergines. bouillon de légumes. cannelle. coriandre. cumin. curcuma. épinards. graines de moutarde. huile d'olive. jus de citron. oignons. oignons verts. persil. piment rouge
+
+---
+
+# Chou hispi et nam phrik
+
+## Commentaire
+
+*Nam phrik* est le nom générique de différentes sauces typiques de la cuisine thaïe. Leur intensité contraste avec les aliments grillés, mais aussi avec le riz et les légumes, les plats de viande ou de poisson. Ce chou est merveilleusement aromatique. Le nam phrik peut être préparé 1 semaine à l'avance et conservé au réfrigérateur, mais le chou doit être grillé au dernier moment.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 6 personnes — En accompagnement*
+
+- 2 choux pointus (hispi ou chou d'amour), coupés en quatre dans la longueur (1,6 kg)
+- 3 cuil. à soupe d'huile de tournesol
+- 5 g de coriandre, finement hachée
+- 1 citron vert, coupé en quartiers, pour servir
+- Sel de Maldon
+
+### Nam phrik
+
+- 20 g de galanga frais (ou de gingembre), pelé et grossièrement haché
+- 1 petite gousse d'ail
+- 1 cuil. à soupe de sauce de poisson (ou de sauce soja claire)
+- 1 ½ cuil. à café de flocons de piment d'Alep (ou ¾ cuil. à café de flocons de piment ordinaires)
+- 1 cuil. à soupe de pâte de tamarin (ou le double si vous l'extrayez vous-même de la pulpe)
+- 1 ¼ cuil. à café de cassonade claire
+- 50 g de tomates cerise
+- 1 ½ cuil. à soupe de jus de citron vert
+- 1 cuil. à café d'huile de tournesol
+
+---
+
+## Déroulé de la recette
+
+1. Pour préparer le nam phrik, mettez le galanga et l'ail dans le bol d'un robot de cuisine et broyez-le rapidement. Ajoutez les autres ingrédients et donnez de nouvelles impulsions jusqu'à ce que le mélange soit homogène et finement haché, mais pas complètement lisse. Transférez dans un bol et réservez jusqu'au moment de servir.
+
+2. Mélangez le chou avec l'huile et 1 cuil. à café de sel de Maldon. Faites-le cuire 4-5 min de chaque côté (soit 12-15 min en tout) au barbecue ou sur un gril bien chaud, jusqu'à ce que l'intérieur soit souple, tout en restant un peu croquant. Le chou doit porter les marques du gril. Transférez-le sur un plat de service. Ajoutez la coriandre dans le nam phrik, puis répartissez cette sauce à la cuillère sur les quartiers de chou. Servez chaud ou à température ambiante, avec les quartiers de citron vert.
+
+## Noms ingrédients
+
+ail. cassonade. chou pointu. citron vert. coriandre. galanga. huile de tournesol. jus de citron vert. piment d'alep. pâte de tamarin. sauce de poisson. tomates cerises
+
+---
+
+# Aubergines à la vapeur et salsa au piment grillé
+
+## Commentaire
+
+Il faut savoir se montrer convaincant pour inciter les gens à faire cuire des aubergines à la vapeur, au lieu de les faire rôtir ou frire. Les aubergines y sont certes un peu pâles, mais incroyablement fondantes, avec une merveilleuse capacité à absorber les arômes du piment, de l'ail et du gingembre — de vraies éponges.
+
+On peut doubler ou tripler les quantités de la salsa et conserver le reste 1 semaine au frais dans un bocal. Les aubergines doivent être cuites au dernier moment, car elles ont tendance à s'oxyder si on les laisse attendre.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En accompagnement ou en buffet*
+
+- 2 aubergines (700 g)
+- 1 ou 2 oignons verts, taillés en julienne (15 g)
+- 1 ½ cuil. à soupe d'amandes salées grillées, hachées grossièrement
+- 1 cuil. à soupe de feuilles de coriandre, ciselées grossièrement
+- Sel de Maldon
+
+### Salsa au piment grillé
+
+- 2 gros piments rouges doux (30 g)
+- 140 g de tomates cerise Datterini (ou une autre variété mûre et sucrée), coupées en petits morceaux
+- 1 ½ cuil. à café de vinaigre de Xérès + ½ cuil. à café pour servir
+
+### Huile à l'ail et au gingembre
+
+- 4 cl d'huile d'olive
+- 2 petites gousses d'ail, très finement hachées
+- 1 cuil. à café de gingembre frais, pelé et très finement haché
+
+---
+
+## Déroulé de la recette
+
+1. Pour la salsa, faites chauffer une poêle à feu vif, puis ajoutez les piments que vous laissez cuire environ 10 min, en les retournant plusieurs fois, jusqu'à ce qu'ils soient grillés de tous les côtés. Transférez-les dans un bol, couvrez avec une soucoupe et laissez-les s'attendrir 10 min. Épépinez un des piments (ou les deux si vous n'aimez pas les saveurs trop brûlantes), puis hachez-les finement avec la peau. Placez-les dans un bol avec les tomates, le vinaigre et ¼ cuil. à café de sel de Maldon. Mélangez et réservez.
+
+2. Pour l'huile parfumée, mettez tous les ingrédients dans une casserole avec ½ cuil. à café de sel de Maldon et laissez cuire à feu très doux pendant 8 min, en remuant de temps en temps, jusqu'à ce que l'ail et le gingembre s'écrasent quand on les presse avec le dos d'une cuillère. Attention à ne pas laisser l'huile chauffer trop, sinon l'ail va brûler. Dès que l'huile commence à bouillonner, retirez la casserole du feu et laissez l'huile refroidir un peu.
+
+3. Découpez les aubergines en bâtonnets de 7 x 2 cm, puis mélangez-les dans un saladier avec 2 cuil. à soupe de sel de Maldon. Déposez-les dans un panier à vapeur. Dans une grande casserole, versez de l'eau jusqu'à 4 cm du bord supérieur. Portez à ébullition à feu vif, puis placez le panier vapeur sur la casserole. Posez un couvercle ou une feuille de papier d'aluminium bien scellée. Baissez à feu moyen et laissez cuire 20 à 25 min, jusqu'à ce que les aubergines soient très tendres, sans se défaire. Retirez le panier et mettez-le dans l'évier pour que les aubergines s'égouttent pendant 5 min.
+
+4. Transférez les aubergines dans un plat de service, arrosez avec le vinaigre restant, puis assaisonnez avec ¼ cuil. à café de sel de Maldon. Ajoutez les oignons et mélangez délicatement. Répartissez à la cuillère la salsa, puis l'huile à l'ail et au gingembre. Ajoutez les amandes et la coriandre avant de servir.
+
+## Noms ingrédients
+
+ail. amandes. aubergines. coriandre. gingembre. huile d'olive. oignons verts. piments rouges. sel de maldon. tomates cerises. vinaigre de xérès
+
+---
+
+# Haricots verts grillés, puis mijotés
+
+## Commentaire
+
+Alors que la mode est aux haricots verts cuits à la vapeur ou juste blanchis pour leur garder leur croquant et une belle couleur verte, ils sont également merveilleux cuits plus longtemps et plus lentement. Ils s'imprègnent alors de la sauce dans laquelle ils cuisent, comme ici, tout en prenant une saveur fumée très subtile.
+
+Vous pouvez faire cuire les haricots la veille pour prendre de l'avance, mais attendez le dernier moment pour ajouter le zeste et le jus de citron, et pour préparer la salsa aux herbes.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En accompagnement*
+
+- 500 g de haricots verts, parés et coupés en deux dans la longueur
+- 500 g de haricots d'Espagne, parés et coupés en 3 ou 4 tronçons biseautés
+- 12 gousses d'ail, pelées
+- 1 piment vert, piqué plusieurs fois avec un petit couteau (15 g)
+- 12 cl d'huile d'olive
+- 2 oignons, finement hachés (300 g)
+- 25 cl de bouillon de légumes ou de volaille
+- 2 citrons bio : 2 cuil. à café de zeste finement râpé ; 3 cuil. à soupe de jus
+- 10 g de feuilles d'estragon
+- 10 g de feuilles d'aneth, hachées grossièrement
+- 10 g de feuilles de persil, hachées grossièrement
+- 35 g de citron confit, sans la pulpe, la peau détaillée en julienne
+- Sel et poivre noir
+
+---
+
+## Déroulé de la recette
+
+1. Placez une grande sauteuse à feu vif. Quand elle fume, ajoutez un quart des haricots (des deux variétés) et laissez-les cuire environ 5 min jusqu'à ce qu'ils commencent à noircir par endroits, en agitant la poêle de temps en temps. Mettez-les dans une assiette et faites de même avec le reste des haricots (pour gagner du temps, vous pouvez utiliser 2 sauteuses). Ajoutez l'ail et le piment dans la sauteuse et faites-les cuire 3 à 4 min environ, jusqu'à ce qu'ils soient grillés de toutes parts, puis mettez-les dans l'assiette avec les haricots. Laissez la sauteuse refroidir légèrement.
+
+2. Ajoutez 9 cl d'huile dans la sauteuse et faites-la chauffer à feu moyen-vif. Faites cuire les oignons pendant 10 min environ, en remuant de temps en temps, jusqu'à ce qu'ils soient tendres et dorés. Ajoutez les haricots, l'ail et le piment carbonisés, puis le bouillon, 1 ½ cuil. à café de sel et un bon tour de moulin à poivre. Laissez mijoter, puis baissez à feu moyen, couvrez et prolongez la cuisson de 20 min, jusqu'à ce que les haricots soient très tendres. Ajoutez le zeste et le jus de citron, puis mélangez.
+
+3. Déposez dans un bol les herbes, le citron confit, les 2 cuil. à soupe d'huile restantes, ½ cuil. à café de sel et beaucoup de poivre, puis mélangez bien.
+
+4. Au moment de servir, ajoutez le mélange aux herbes sur les haricots, puis remuez pour bien l'incorporer. Servez chaud ou à température ambiante.
+
+## Noms ingrédients
+
+ail. aneth. bouillon de légumes. citron. citron confit. estragon. haricots d'Espagne. haricots verts. huile d'olive. oignons. persil. piment vert
+
+---
+
+# Betterave Hasselback et beurre de feuilles de combava
+
+## Commentaire
+
+La préparation Hasselback (ou à la suédoise) consiste à entailler des légumes pour faire de fines tranches, sans aller jusqu'à la base pour que les tranches s'ouvrent comme un éventail. Cela leur donne une belle apparence, mais le principal intérêt de cette technique réside dans le croustillant délicieux que vous obtenez sur toute la surface.
+
+Pour compenser le travail supplémentaire qu'implique cette préparation, vous pouvez facilement commencer avec des betteraves cuites achetées dans le commerce. Vous pouvez doubler ou tripler les quantités pour le beurre aux feuilles de combava — il se conserve 2 semaines au réfrigérateur, prêt à l'emploi pour accompagner divers légumes rôtis ou un poisson grillé.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En accompagnement*
+
+- 8-10 betteraves moyennes à grosses (soit environ 2 bottes), avec la peau (1,2 kg), ou 8-10 betteraves cuites (1 kg)
+- Sel de Maldon
+
+### Beurre aux feuilles de combava
+
+- 90 g de beurre doux
+- 4 cl d'huile d'olive
+- 5 feuilles de combava fraîches, grossièrement hachées
+- 10 g de gingembre frais, pelé et finement haché
+- 1 gousse d'ail, écrasée
+- 1 cuil. à soupe de jus de citron vert + 2 cuil. à café pour servir
+
+### Salsa aux feuilles de combava
+
+- 10 feuilles de combava fraîches, sans la queue, broyées dans un moulin à épices (ou très finement hachées)
+- ¼ cuil. à café de gingembre frais, pelé et très finement haché
+- ½ gousse d'ail, écrasée
+- ½ piment vert, haché très finement (épépiné si vous n'aimez pas les saveurs brûlantes)
+- 1 cuil. à soupe de feuilles de coriandre, finement hachées
+- 3 cuil. à soupe d'huile d'olive
+
+### Yaourt à la crème
+
+- 8 cl de crème double (ou de crème entière liquide à 33-35 % de MG)
+- 90 g de yaourt à la grecque
+
+---
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 220 °C (th. 7-8) en mode chaleur tournante.
+
+2. Placez les betteraves dans un plat de cuisson assez grand pour qu'elles forment une seule couche. Versez de l'eau dans le plat jusqu'à 2 cm du bord supérieur. Saupoudrez avec 1 cuil. à soupe de sel de Maldon, couvrez hermétiquement avec du papier d'aluminium et laissez cuire 1 h 20, jusqu'à ce qu'un couteau pénètre facilement dans les betteraves. Jetez l'eau. Quand les betteraves ont suffisamment refroidi, pelez-les sous l'eau froide (avec des gants). Coupez les plus grosses en deux dans la hauteur. Réduisez la température du four à 190 °C (th. 6-7).
+
+3. Pendant que les betteraves cuisent, préparez le beurre aux feuilles de combava. Mettez dans une petite casserole le beurre, l'huile, les feuilles de combava, le gingembre et l'ail, puis faites chauffer le tout à feu moyen-vif. Laissez cuire doucement environ 4 min, jusqu'à ce que le beurre fonde et commence à bouillonner, puis retirez la casserole du feu et laissez infuser au moins 40 min. Filtrez la préparation et jetez les aromates. Ajoutez 1 cuil. à soupe de jus de citron vert et 1 cuil. à café de sel de Maldon.
+
+4. Pour la salsa aux feuilles de combava, mélangez dans un bol tous les ingrédients avec ¼ cuil. à café de sel de Maldon, puis réservez.
+
+5. Dans un bol moyen, fouettez 3 min la crème, le yaourt et une pincée de sel de Maldon, jusqu'à ce que le mélange soit aéré et mousseux, avec des pics moyennement fermes. Réfrigérez jusqu'à utilisation.
+
+6. Quand les betteraves sont épluchées, faites des entailles à 4 mm d'intervalle, en vous arrêtant à 1 cm de la base pour que les tranches restent solidaires. Placez les betteraves sur une plaque de cuisson tapissée de papier sulfurisé et écartez le plus possible les tranches. Versez le beurre sur les betteraves, en particulier entre les tranches, en veillant à le répartir de façon uniforme. Laissez rôtir 1 h 15, en écartant toutes les 20 min les tranches et en les arrosant avec le beurre de cuisson, jusqu'à ce que les bords soient croustillants et caramélisés. Laisser refroidir 15 min.
+
+7. Pour servir, étalez la crème au yaourt sur un plat, puis placez les betteraves dessus, en répartissant le beurre brun dessus et tout autour. Garnissez de salsa de feuilles de combava et arrosez avec les 2 cuil. à café restantes de jus de citron vert. Servez aussitôt.
+
+## Noms ingrédients
+
+ail. betteraves. beurre. citron vert. coriandre. crème double. feuilles de combava. gingembre. huile d'olive. piment vert. yaourt grec
+
+---
+
+# Céleri-rave entier rôti de trois façons
+
+## Commentaire
+
+Nous avons déjà exploré par le passé ce mode de cuisson qui consiste à faire rôtir lentement le céleri-rave entier, avec uniquement de l'huile et du sel, pour le servir avec du zeste de citron ou une cuillerée de crème fraîche. Mais le procédé, qui consiste à transformer les amidons en sucres pour former un merveilleux caramel au goût de céleri, est exploité pour réaliser trois recettes différentes centrées sur le céleri. Si vous n'obtenez pas beaucoup de caramel, il suffit de badigeonner le céleri-rave d'huile et d'un peu de sirop d'érable ou de miel après l'avoir découpé.
+
+Le céleri-rave rôti est meilleur quand il est dégusté le jour même, mais vous pouvez le faire préparer la veille si vous voulez gagner du temps.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour les trois recettes suivantes*
+
+- 1 gros céleri-rave, non pelé, mais nettoyé et sans les petites racines (900 g)
+- 6 cl d'huile d'olive
+- Sel de Maldon
+
+---
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 170 °C (th. 5-6) en mode chaleur tournante.
+
+2. Piquez le céleri-rave à la fourchette en 40 points différents et placez-le sur une plaque tapissée de papier sulfurisé. Mélangez l'huile et 1 ½ cuil. à café de sel de Maldon, puis frottez généreusement le céleri-rave avec cette préparation. Laissez rôtir au moins 2 h 15, voire 2 h 45 selon la taille de votre céleri-rave, en l'arrosant toutes les 20 min environ, jusqu'à ce qu'il soit bien doré, tout à fait tendre et qu'un caramel parfumé s'en écoule.
+
+3. Laissez reposer 15 min, puis découpez-le en quartiers ou en steaks (en fonction de la recette) et badigeonnez chaque face avec l'huile et le caramel laissés sur la plaque.
+
+## Noms ingrédients
+
+céleri-rave. huile d'olive. sel de maldon
+
+---
+
+# 1. Céleri-rave rôti et mariné avec une vinaigrette au piment doux
+
+## Commentaire
+
+Ce plat met le céleri-rave en valeur sous deux formes très différentes — rôti lentement et mariné —, ce qui apporte un contraste de texture et une complexité de goût lui permettant d'occuper une place centrale dans un buffet de légumes.
+
+Vous pouvez préparer la vinaigrette un jour à l'avance, à condition d'ajouter le piment et l'ail frits juste avant de servir. Le céleri mariné se garde 3 jours au réfrigérateur : excellent dans les sandwichs et sur des toasts ou dans une salade.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 2 personnes en entrée (ou en accompagnement pour 4 personnes)*
+
+- 1 céleri-rave entier rôti, coupé en 8 quartiers (voir recette précédente)
+- 2 oignons verts, finement coupés en biseau, pour servir
+- 5 g de feuilles de basilic thaï, grossièrement déchirées, pour servir
+- Sel de Maldon
+
+### Céleri-rave mariné
+
+- 1 céleri-rave moyen, paré, pelé et coupé en bâtonnets de 6 cm de long (500 g)
+- 3 tiges de céleri, coupées en fins bâtonnets de 6 cm de long (120 g)
+- 2 gousses d'ail, avec la peau et écrasées avec la lame d'un couteau
+- 3 citrons verts : 6 bandes de zeste ; 6 cl de jus
+- 15 cl de vinaigre de riz
+
+### Vinaigrette au piment doux
+
+- 12 cl d'huile de tournesol
+- 5 gousses d'ail, en très fines tranches
+- 3 piments rouges, en fines rondelles (30 g)
+- 2 étoiles d'anis (badiane)
+- 1 ½ cuil. à soupe de graines de sésame blanc ou noir, ou un mélange des deux, grillées
+- 2 ½ cuil. à soupe de sirop d'érable
+- 1 cuil. à soupe de vinaigre de riz
+- 6 cl de sauce soja
+- 2 cuil. à soupe de ciboulette, finement hachée
+
+---
+
+## Déroulé de la recette
+
+1. Pour préparer le céleri mariné, mélangez tous les ingrédients dans un saladier et réservez pendant au moins 2 h, en remuant de temps en temps. Vous pouvez préparer le céleri mariné jusqu'à 3 jours à l'avance et le garder au réfrigérateur.
+
+2. Pour la vinaigrette au piment, faites chauffer l'huile de tournesol à feu moyen-vif dans une petite casserole. Quand elle est bien chaude, ajoutez l'ail, les piments et l'anis étoilé que vous laissez frire 2 min à 2 min ½, en remuant pour séparer les tranches d'ail, jusqu'à ce qu'elles soient croustillantes et dorées. Filtrez le mélange dans un tamis au-dessus d'un bol résistant à la chaleur pour récupérer l'huile. Réservez le piment et l'ail frits pour le service. Prélevez 8 cl d'huile aromatique et gardez le reste pour une autre recette. Mélangez les 4 cl d'huile de tournesol restants avec les ingrédients de la vinaigrette au piment.
+
+3. Préchauffez le four à 200 °C (th. 6-7) en mode chaleur tournante.
+
+4. Placez les quartiers de céleri-rave rôtis sur une plaque tapissée de papier sulfurisé, face coupée vers le haut. Assurez-vous qu'ils ont été badigeonnés de leur huile de cuisson et de leur caramel de céleri-rave ; sinon, badigeonnez-les d'un peu d'huile d'olive et d'un peu de sirop d'érable ou de miel. Faites-les rôtir 20 min, jusqu'à ce qu'ils soient bien dorés.
+
+5. Disposez les quartiers de céleri dans un grand plat et saupoudrez-les d'un peu de sel de Maldon.
+
+6. Ajoutez le piment et l'ail frits dans la vinaigrette que vous répartissez à la cuillère sur le céleri et tout autour. Garnissez avec 200 g du mélange de céleri-rave mariné, en évitant de mettre le liquide de la marinade, l'ail et la peau du citron vert. Ajoutez les oignons verts et le basilic thaï, puis servez.
+
+## Noms ingrédients
+
+ail. anis étoilé. basilic. céleri-rave. ciboulette. citron vert. graines de sésame. huile de tournesol. oignons verts. piments rouges. sauce soja. sirop d'érable. vinaigre de riz
+
+---
+# 2. « Tacos » de chou au céleri-rave et sauce barbecue aux dattes
+
+## Commentaire
+
+Cette recette a été le premier plat végétarien sélectionné pour le festival Meatopia, totalement centré sur la viande. Il a fallu supplier les organisateurs pour qu'ils acceptent cette démarche hérétique, mais notre céleri-rave a fait fureur auprès des amateurs de viande.
+
+Le chou fait un excellent contenant pour accueillir le céleri-rave, mais le mariage du céleri-rave et de la sauce aux dattes se suffit à lui-même si vous n'avez pas envie de faire blanchir les feuilles de chou. N'hésitez pas à préparer plus de sauce : elle se garde 3 semaines au réfrigérateur et peut être utilisée comme une sauce barbecue classique.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 16 tacos — Pour 4 à 6 personnes*
+
+- 16 feuilles de chou entières, prises dans un grand chou pointu dont la base a été coupée
+- 1 céleri-rave entier rôti, coupé en 16 quartiers (voir recette céleri-rave entier rôti)
+- 120 g de fromage de chèvre frais sans croûte, grossièrement cassé en morceaux de 2 cm (facultatif)
+- 2 citrons verts, coupés en quartiers, pour servir
+- Sel
+
+### Sauce barbecue aux dattes
+
+- 9 cl d'huile d'olive
+- 1 petite échalote banane, finement hachée (30 g)
+- 2 gousses d'ail, écrasées
+- ¼ cuil. à café de flocons de piment rouge
+- 6 cl de vinaigre balsamique
+- ¼ cuil. à café de paprika fumé
+- ½ cuil. à café de cumin moulu
+- 100 g de dattes dénoyautées et hachées grossièrement
+- 20 g d'ail noir (environ 10 gousses)
+
+### Huile aromatique
+
+- 9 cl d'huile d'olive
+- 2 piments rouges, en fines rondelles
+- 2 gousses d'ail, finement hachées (pas écrasées)
+- 2 cuil. à café de graines de coriandre, légèrement écrasées
+- 2 cuil. à café de ciboulette, finement hachée
+
+---
+
+## Déroulé de la recette
+
+1. Pour la sauce barbecue, mettez 2 cuil. à soupe d'huile, l'échalote et l'ail dans une petite casserole à feu moyen. Laissez le mélange frire environ 6 min, en remuant souvent, jusqu'à ce que l'échalote soit tendre et dorée. Ajoutez tous les autres ingrédients sauf le reste d'huile, ainsi que 13 cl d'eau et ½ cuil. à café de sel. Portez à petite ébullition, puis baissez le feu et laissez cuire 8 min, jusqu'à ce que les dattes soient fondantes. Laissez refroidir 10 min, puis transférez le mélange dans un moulin à épices ou dans le bol d'un robot de cuisine avec les 6 cl d'huile restants. Mixez en sauce lisse.
+
+2. Pour l'huile aromatique, mettez tous les ingrédients sauf la ciboulette dans une petite casserole, ajoutez ¼ cuil. à café de sel, puis faites chauffer à feu moyen et laissez frire doucement pendant 8 min, jusqu'à ce que l'ail soit tendre et parfumé. Baissez le feu si l'ail se colore trop rapidement. Retirez du feu, ajoutez la ciboulette et mélangez bien.
+
+3. Portez de l'eau salée à ébullition dans une grande casserole. Faites blanchir les feuilles de chou entre 30 s et 1 min, pour qu'elles soient tout juste cuites et encore croquantes, puis égouttez-les. Transférez-les dans un torchon propre et séchez-les en les tapotant soigneusement — elles doivent être parfaitement sèches.
+
+4. Juste avant de servir, réglez le four en position gril, thermostat au maximum. Placez les quartiers de céleri-rave sur une grande plaque tapissée de papier sulfurisé, en les espaçant bien et en veillant à ce que le papier ne déborde pas. Faites-les griller 6 min sur la grille supérieure du four, jusqu'à ce qu'ils soient dorés. Sortez-les du four et badigeonnez-les sur les deux faces avec 6 cuil. à soupe (120 g) de sauce barbecue.
+
+5. Pour assembler, placez un quartier de céleri-rave sur chaque feuille de chou. Garnissez de fromage de chèvre, puis arrosez d'un peu d'huile aromatique. Servez chaud, avec les quartiers de citron vert et proposez le reste de sauce à part.
+
+## Noms ingrédients
+
+ail. ail noir. céleri-rave. chou pointu. ciboulette. citron vert. cumin. dattes. échalotes. fromage de chèvre. graines de coriandre. huile d'olive. paprika fumé. piments rouges. vinaigre balsamique
+
+---
+
+# 3. Steaks de céleri-rave et sauce café de Paris
+
+## Commentaire
+
+Il y a longtemps, à Paris, Ixta a dégusté un steak à la sauce café de Paris et elle s'est crue transportée au paradis. Ce souvenir, gravé dans son esprit depuis l'enfance, a constitué notre base pour créer ce plat. Nous ne saurons sans doute jamais si notre version se rapproche de l'original, mais ce qui est sûr, c'est qu'elle donne au céleri une dimension très charnue, même sans viande, et en fait une alternative parfaite au rosbif dominical.
+
+Si la sauce se dissocie, ne vous inquiétez pas : cela peut se produire.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En plat principal*
+
+- 2 céleris-raves entiers rôtis (le double de la recette), coupés en steaks de 2,5 cm d'épaisseur
+- Sel de Maldon et poivre noir
+
+### Sauce café de Paris
+
+- 110 g de beurre doux, coupé en cubes de 2 cm
+- 1 petite échalote banane, finement hachée (25 g)
+- 1 gousse d'ail, écrasée
+- 3 filets d'anchois à l'huile, égouttés et finement hachés (facultatif ; ajustez l'assaisonnement si vous n'en utilisez pas)
+- ½ cuil. à café de curry moyen en poudre
+- ¼ cuil. à café de poivre de Cayenne
+- 1 cuil. à soupe de moutarde moulue
+- 1 cuil. à soupe de petites câpres
+- 2 cuil. à soupe de ciboulette, finement hachée
+- 2 cuil. à soupe de feuilles d'estragon, finement hachées
+- 1 cuil. à soupe de persil, finement haché
+- 2 cuil. à café de feuilles de thym
+- 11 cl de crème liquide
+- 2 cuil. à café de jus de citron
+
+---
+
+## Déroulé de la recette
+
+1. Mélangez dans une casserole à feu moyen les sept premiers ingrédients de la sauce et ¼ cuil. à café de sel. Laissez cuire environ 6 min en faisant tourner la casserole en tous sens, jusqu'à ce que les échalotes aient ramolli et que le beurre soit fondu en prenant une teinte caramélisée. Ajoutez les câpres et les herbes, poivrez généreusement et poursuivez la cuisson 1 min, puis retirez du feu.
+
+2. Réglez le four en position gril, thermostat au maximum. Étalez les steaks de céleri-rave, en les espaçant, sur une plaque tapissée de papier sulfurisé. À ce stade, les steaks doivent avoir été badigeonnés de leur huile de cuisson et du caramel de céleri-rave. Si ce n'est pas le cas, badigeonnez-les d'un peu d'huile d'olive et d'un peu de sirop d'érable ou de miel. Assurez-vous que le papier ne déborde pas (il pourrait brûler). Glissez les steaks dans le haut du four et laissez-les griller environ 6-8 min, jusqu'à ce qu'ils soient dorés sur le dessus. Éteignez le four, en gardant la plaque dedans jusqu'à ce que vous soyez prêt à servir.
+
+3. Remettez la sauce à feu moyen et réchauffez-la doucement pendant 1 min, puis ajoutez la crème et le jus de citron. Laissez chauffer encore 2 minutes en agitant la casserole, jusqu'à ce que la sauce soit chaude. Ne mélangez pas trop : la sauce ne doit ni se dissocier ni former une émulsion.
+
+4. Versez la sauce dans un grand plat de service creux et disposez les steaks de céleri-rave par-dessus (ou servez-les sur des assiettes avec la sauce à part). Saupoudrez de sel de Maldon et de poivre noir. Servez chaud avec une salade verte croquante.
+
+## Noms ingrédients
+
+anchois. beurre. câpres. céleri-rave. ciboulette. crème liquide. curry. échalotes. estragon. jus de citron. moutarde. persil. poivre de cayenne. thym
+
+---
+
+# Banane plantain aux épices et salade de noix de coco, pommes et gingembre
+
+## Commentaire
+
+La mère d'Ixta a grandi au Brésil et à Cuba, où les bananes plantains étaient servies avec à peu près tous les plats, des *feijoadas* (le plat national brésilien) aux *guisos* (ragoûts cubains). Cette tradition a perduré jusqu'à l'enfance d'Ixta.
+
+Les bananes plantains sont plus grandes, plus fermes et légèrement moins sucrées que les bananes classiques. Pour cette recette, vous avez besoin de bananes plantains très mûres : jaune foncé, souples et couvertes de taches noires. Il s'agit d'une entrée assez particulière, que vous pouvez garnir de tofu frit ou de crevettes grillées pour en faire un plat complet.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 2 bananes plantains très mûres, pelées, coupées en deux dans l'épaisseur et dans la longueur (400 g)
+- 6 cl d'huile d'olive
+- 2 ½ cuil. à café de cassonade fine
+- ½ cuil. à café de gingembre frais, pelé et finement râpé
+- ¾ cuil. à thé de cannelle moulue
+- ¾ cuil. à thé de cumin moulu
+- ½ cuil. à café de poivre de Cayenne moulu
+- ½ cuil. à café de noix de muscade moulue
+- ½ petite noix de coco, coupée en tranches fines à la mandoline ou à la main (90 g)
+- 2 citrons : 1 cuil. à café de zeste finement râpé ; 2 cuil. à soupe de jus ; le reste en quartiers, pour servir
+- 1 piment vert, épépiné et coupé en julienne
+- 1 pomme Granny Smith, avec la peau, épépinée et coupée en julienne (140 g)
+- 15 g de beurre doux
+- 10 g de feuilles de coriandre fraîches
+- 10 g de feuilles de menthe fraîches
+- Sel
+
+---
+
+## Déroulé de la recette
+
+1. Placez les bananes plantains dans un saladier moyen avec 3 cuil. à soupe d'huile, la cassonade, ¼ cuil. à café de gingembre, ½ cuil. à café de cannelle, ½ cuil. à café de cumin, le poivre de Cayenne et la noix de muscade. Remuez pour enrober les bananes de ce mélange, puis laissez mariner au moins 30 min.
+
+2. Pendant ce temps, préparez la salade. Dans un récipient moyen, mettez la noix de coco, le zeste et le jus de citron, le piment, la pomme, le reste du gingembre, le cumin, la cannelle, le reste d'huile (1 cuil. à soupe) et 1 pincée de sel. Mélangez bien et réservez.
+
+3. Préchauffez le four à 180 °C (th. 6) en mode chaleur tournante.
+
+4. Mettez le beurre dans une grande poêle antiadhésive allant au four que vous faites chauffer à feu vif. Quand le beurre a fondu et qu'il est chaud, ajoutez les bananes plantains sans les faire se toucher. Réservez l'huile et les épices de la marinade — vous en aurez besoin pour la salade. Baissez à feu moyen et laissez frire les bananes 3 min, en les retournant de temps en temps jusqu'à ce que tous les côtés soient dorés et croustillants. Glissez la poêle dans le four et poursuivez la cuisson encore 3 min.
+
+5. Ajoutez la coriandre, la menthe et la salade dans le saladier contenant la marinade des bananes, puis mélangez bien le tout.
+
+6. Répartissez les bananes et la salade dans 4 assiettes et servez avec les quartiers de citron.
+
+## Noms ingrédients
+
+bananes plantains. beurre. cannelle. cassonade. citron. coriandre. cumin. gingembre. huile d'olive. menthe. noix de coco. noix de muscade. piment vert. poivre de cayenne. pomme
+
+---
+
+# Steaks de rutabaga en croûte de curry
+
+## Commentaire
+
+Ce plat végétarien — facile à véganiser si on remplace la crème fraîche par du yaourt à la noix de coco — souligne l'amertume naturelle du rutabaga, mise en valeur par une marinade douce, piquante et épicée qui imprègne la chair et l'enrobe d'une délicieuse croûte. Grâce au fenugrec, la saveur générale évoque celle d'un curry indien. Attention, l'odeur de cette merveilleuse graine persistera longtemps dans votre cuisine.
+
+Si vous préparez la marinade à l'avance, elle pourra se garder 2 semaines au réfrigérateur dans un bocal hermétique. Doublez ou triplez les quantités : vous pourrez l'utiliser comme base pour les currys ou pour faire mariner des légumes ou des viandes.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En plat principal*
+
+- 2-3 rutabagas (1,8 kg), pelés et coupés en 8 steaks (en tout) de 3 cm d'épaisseur
+- 120 g de crème fraîche (ou de yaourt à la noix de coco)
+- Sel
+
+### Marinade au fenugrec
+
+- 1 ½ cuil. à soupe de graines de fenugrec
+- 6 petites gousses d'ail, pelées et hachées grossièrement (25 g)
+- 1 ½ cuil. à café de poivre de Cayenne
+- 1 ½ cuil. à café de curcuma en poudre
+- 2 cuil. à café de sucre en poudre
+- 2 cuil. à soupe de jus de citron vert
+- 7,5 cl d'huile d'olive
+
+### Salade
+
+- 3-4 pamplemousses ruby (750 g avec l'écorce)
+- 1-2 échalotes banane, en fines tranches à la mandoline ou à la main (70 g)
+- 2 piments rouges, en fines rondelles
+- 20 g de feuilles de menthe
+- 10 g de feuilles de coriandre
+- 2 cuil. à café d'huile d'olive
+- 2 citrons verts : 1 cuil. à soupe de jus ; le reste en quartiers, pour servir
+
+---
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 180 °C (th. 6) en mode chaleur tournante.
+
+2. Pour la marinade, mettez tous les ingrédients dans un moulin à épices ou dans le bol d'un robot de cuisine avec ¾ cuil. à café de sel, puis réduisez le tout en pâte en raclant les côtés au fur et à mesure si nécessaire. Réservez 2 cuil. à café de cette marinade dans un bol de service.
+
+3. Versez le reste de la marinade dans un saladier, ajoutez les steaks de rutabaga et mélangez bien pour les enduire sur toutes les faces (c'est plus facile à la main, mais mettez des gants). Disposez les steaks sur une grande plaque tapissée de papier sulfurisé, en les espaçant bien. Couvrez avec du papier d'aluminium et faites rôtir 1 h 20. Retirez le papier d'aluminium, mettez le four en position gril et prolongez la cuisson pendant 3-4 min, jusqu'à ce que le rutabaga soit bien cuit et que la marinade ait formé une croûte dorée.
+
+4. Quand le rutabaga est presque cuit, préparez la salade. Prélevez les quartiers des pamplemousses : retirez l'écorce et la partie blanche à l'intérieur, puis coupez entre les membranes pour libérer les quartiers, en prenant soin d'éliminer les pépins. Mettez les quartiers de pamplemousse dans un saladier (réservez le jus pour un autre emploi).
+
+5. Au moment de servir, ajoutez tous les autres ingrédients de la salade dans le récipient contenant les quartiers de pamplemousse, puis ajoutez une généreuse pincée de sel et mélangez délicatement.
+
+6. Disposez les steaks de rutabaga sur un plat de service, puis ajoutez la salade. Battez la crème fraîche avec la marinade restant sur la plaque de cuisson et servez avec les steaks de rutabaga.
+
+## Noms ingrédients
+
+ail. citron vert. coriandre. crème fraîche. curcuma. échalotes. fenugrec. huile d'olive. jus de citron vert. menthe. pamplemousses. piments rouges. poivre de cayenne. rutabaga. sucre
+
+---
+
+# Purée de carottes au curry et au beurre brun
+
+## Commentaire
+
+Vous serez sans doute surpris de constater combien les carottes cuites à la vapeur sont délicieuses quand elles sont servies avec un beurre brun, des épices douces et du piment. Comptez sur elles pour donner de la profondeur à un repas. Vous pouvez les servir avec du tofu, du halloumi, du poisson ou du poulet grillé, ou les proposer dans le cadre d'un assortiment de recettes de légumes.
+
+La purée et les piments marinés peuvent être confectionnés la veille pour gagner du temps, mais le beurre doit être préparé au dernier moment pour que les graines restent croquantes. Remplacez le beurre par de l'huile si vous ne consommez pas de produits laitiers.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En accompagnement (ou en dip pour 6 personnes)*
+
+- 1-2 piments rouges, en fines rondelles (épépinés si vous n'aimez pas le feu)
+- 1 ½ cuil. à soupe de vinaigre de vin blanc
+- ½ cuil. à café de sucre semoule
+- 800 g de carottes (environ 8), pelées et coupées en morceaux de 2 cm
+- 2 cuil. à soupe d'huile d'olive
+- 1 cuil. à café de curry moyen en poudre
+- ¼ cuil. à café de cannelle moulue
+- 30 g de beurre doux (ou 2 cuil. à soupe d'huile d'olive)
+- 5 g de gingembre frais, pelé et coupé en julienne
+- ½ cuil. à café de graines de nigelle
+- ½ cuil. à café de graines de fenouil
+- ½ cuil. à thé de graines de cumin
+- ½ cuil. à soupe de jus de citron vert
+- 1 oignon vert, paré et coupé en julienne (10 g)
+- 5 g de feuilles de menthe, finement déchiquetées
+- Sel
+
+---
+
+## Déroulé de la recette
+
+1. Mettez dans un petit bol les piments, le vinaigre et le sucre, ajoutez ¼ cuil. à café de sel, puis massez bien et laissez mariner au moins 30 min.
+
+2. Mettez les carottes dans un cuit-vapeur, couvrez et faites-les cuire à feu vif pendant environ 25 min, jusqu'à ce que vous puissiez les couper facilement avec un couteau. Transférez-les dans le bol d'un robot de cuisine avec l'huile, le curry, la cannelle et 1 cuil. à café de sel. Mixez pendant environ 1 min pour obtenir une purée presque lisse (elle doit encore avoir une certaine texture).
+
+3. Pendant que les carottes cuisent, mettez dans une petite casserole le beurre, le gingembre, les graines de nigelle, de fenouil et de cumin, ajoutez une généreuse pincée de sel et faites chauffer à feu moyen. Laissez cuire doucement 3-5 min, en remuant de temps en temps, jusqu'à ce que le beurre commence à mousser et prenne une couleur brun clair. Les graines doivent également embaumer. Réservez jusqu'au moment de servir.
+
+4. Disposez la purée sur un plat de service, en créant des cavités avec le dos d'une cuillère. Arrosez de beurre au gingembre et aux graines, puis de jus de citron vert. Égouttez les piments marinés et répartissez-les sur la purée. Terminez avec les oignons verts et la menthe. Servez chaud.
+
+## Noms ingrédients
+
+beurre. cannelle. carottes. curry. gingembre. graines de cumin. graines de fenouil. graines de nigelle. huile d'olive. jus de citron vert. menthe. oignons verts. piments rouges. sucre. vinaigre de vin blanc
+
+---
+
+# Ragoût d'orge, tomate et cresson
+
+## Commentaire
+
+Servi cru le plus souvent, le chou-rave n'est pas un légume qu'on imagine pouvoir faire rôtir. Faites l'essai, car il devient alors une autre version de lui-même merveilleusement dorée et caramélisée. Nous l'utilisons ici pour garnir un riche ragoût d'orge, pour un plat unique suffisamment léger lors d'un dîner d'été, mais qui sera aussi très réconfortant quand les températures chuteront.
+
+Les véganes, les végétariens et ceux qui n'aiment pas trop les saveurs relevées pourront éliminer les anchois (il faudra saler davantage dans ce cas), la crème fraîche et les piments (ou réduire la quantité). Ce plat n'est pas compliqué à réaliser, à condition de pouvoir cuisiner trois choses en même temps : faire rôtir les légumes, faire bouillir l'orge et préparer les aromates qui donnent du goût au ragoût.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En plat principal*
+
+- 4 petits choux-raves (1 kg)
+- 4 filets d'anchois à l'huile d'olive, égouttés et finement hachés (facultatif)
+- 14 cl d'huile d'olive + un peu pour servir
+- 1 grosse tête d'ail, dont le haut est coupé pour exposer la chair des gousses + 4 gousses d'ail, écrasées
+- 300 g de tomates cerise mûres et sucrées (variété datterini, par exemple)
+- 300 g d'orge perlé
+- 2 à 3 échalotes banane, en fines tranches (120 g)
+- 2 cuil. à café de graines de cumin
+- 2 citrons bio : 5 bandes de zeste ; 2 cuil. à soupe de jus ; le reste en quartiers, pour servir
+- 1 piment rouge scotch bonnet (facultatif)
+- 3 cuil. à soupe de concentré de tomates
+- 15 cl de vin blanc sec
+- 100 g de cresson
+- 6 cl de crème double, ou de crème entière liquide à 33-35 % de MG (facultatif)
+- Sel et poivre noir
+
+---
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 190 °C (th. 6-7) en mode chaleur tournante.
+
+2. Nettoyez et épluchez les choux-raves, puis coupez chacun en 8 quartiers verticaux. Mettez ces derniers dans un saladier, puis ajoutez les anchois (si vous en utilisez), 2 cuil. à soupe d'huile, la moitié de l'ail écrasé, ½ cuil. à café de sel ; poivrez généreusement, puis mélangez. Étalez les quartiers sur une grande plaque tapissée de papier sulfurisé. Arrosez la tête d'ail avec peu d'huile, saupoudrez d'un peu de sel et de poivre. Enveloppez-la dans du papier d'aluminium et placez-la dans un coin de la plaque. Enfournez pour 25 min. Retournez les quartiers de chou-rave, ajoutez les tomates autour, puis enfournez de nouveau pour 15-20 min, jusqu'à ce que les quartiers soient tendres, d'un brun doré profond, et que la peau des tomates forme des cloques. Réservez au chaud.
+
+3. Quand l'ail est assez froid pour être manipulé sans risque, retirez le papier d'aluminium et pressez les gousses dans un petit bol. Jetez la peau.
+
+4. Pendant que les légumes cuisent, mettez l'orge dans une casserole moyenne avec beaucoup d'eau froide et faites cuire 20 min à feu moyen-vif : les grains doivent rester encore fermes. Égouttez et réservez.
+
+5. Pendant que l'orge mijote, placez à feu moyen-vif dans une grande sauteuse 5 cl d'huile, la purée d'ail rôti, le reste d'ail écrasé, les échalotes, les graines de cumin, les zestes de citron, le piment et 2 cuil. à café de sel. Laissez frire doucement pendant 12 min, en remuant souvent, jusqu'à ce que les échalotes soient tendres et dorées. Réduisez le feu si elles se colorent trop vite. Ajoutez le concentré de tomates et poursuivez la cuisson 30 s avant d'incorporer le vin, 50 cl d'eau et beaucoup de poivre. Laissez mijoter 7 min à feu moyen avant d'ajouter l'orge mi-cuit ; poursuivez la cuisson pendant 10 min, jusqu'à ce que l'orge ait gonflé et pris le goût de la sauce. Retirez le piment et les zestes de citron, puis jetez-les.
+
+6. Dans un moulin à épices ou dans un robot de cuisine, broyez la moitié du cresson avec le jus de citron, les 6 cl d'huile restants et ¼ cuil. à café de sel pour obtenir une sauce onctueuse.
+
+7. Servez directement dans la sauteuse : versez la sauce au cresson et la crème (facultatif) sur l'orge, puis mélangez doucement. Garnissez de cresson frais, de chou-rave rôti et de tomates rôties. Servez chaud, avec les quartiers de citron.
+
+## Noms ingrédients
+
+anchois. ail. choux-raves. citron. concentré de tomates. cresson. crème double. échalotes. graines de cumin. huile d'olive. orge perlé. piment rouge. tomates cerises. vin blanc
+
+---
+
+# Gratin de pommes de terre au citron vert et noix de coco
+
+## Commentaire
+
+Ce gratin faisait partie d'un buffet de Noël que nous avons conçu pour *The Guardian*. Vous pouvez le servir dans le cadre d'un buffet à la chinoise, accompagné de notre salade de concombre inspirée par Xi'an Impression, d'aubergines à la vapeur servies avec une salsa de piments grillés et de choux de Bruxelles à l'aigre-douce aux châtaignes et aux raisins.
+
+Les pommes de terre doivent être détaillées en tranches très fines. L'idéal est d'utiliser une mandoline. Pour gagner du temps, il est possible de cuisiner le gratin la veille et de le réchauffer au four très chaud juste avant de servir. Ajoutez les aromates et le zeste de citron au dernier moment.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 6 personnes — En accompagnement ou en buffet*
+
+- 4 à 5 échalotes banane, coupées en tranches de 3 mm d'épaisseur à la mandoline ou à la main (220 g)
+- 2 gousses d'ail, écrasées
+- 2 cuil. à soupe d'huile d'olive
+- 1,4 kg de pommes de terre Yukon Gold (ou une autre variété à cuire au four, ni trop farineuse, ni trop ferme), avec la peau, coupées en tranches de 3 mm d'épaisseur à la mandoline ou à la main
+- 100 g de crème de coco, fondue
+- 3 citrons verts bio : 1 ½ cuil. à café de zeste finement râpé ; 6 cl de jus
+- 20 cl de bouillon de légumes ou de volaille
+- Sel, sel de Maldon et poivre noir
+
+### Aromates croustillants
+
+- 15 cl d'huile d'olive
+- 2 piments rouges, en fines rondelles
+- 3 gousses d'ail, en fines tranches
+- 5 g de gingembre frais, pelé et coupé en julienne
+- 4 oignons verts, coupés en fines tranches biseautées (40 g)
+
+---
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 180 °C (th. 6) en mode chaleur tournante. Mélangez dans une sauteuse allant au four (diamètre 28 cm) les échalotes, l'ail, l'huile et ½ cuil. à café de sel. Laissez revenir 8-10 min à feu moyen, en remuant de temps en temps, jusqu'à ce que les échalotes soient fondantes et bien dorées. Réservez dans un grand saladier. Gardez la sauteuse pour la suite (pas besoin de la laver).
+
+2. Ajoutez dans le saladier les pommes de terre, la crème de coco, le jus de citron vert, 2 cuil. à café de sel et beaucoup de poivre, puis mélangez très délicatement en prenant soin de ne pas briser les tranches de pommes de terre. Déposez un quart des pommes de terre dans la sauteuse, de préférence les plus petites ou celles qui sont cassées, en réservant les plus grandes pour le dessus du gratin. Formez une couche uniforme, puis disposez les pommes de terre restantes en spirale, en les faisant se chevaucher légèrement. Versez le bouillon, couvrez bien avec du papier d'aluminium et enfournez pour 40 min.
+
+3. Préparez les aromates croustillants. Faites chauffer l'huile à feu moyen dans une poêle pour y faire revenir pendant 5 min les piments, l'ail et le gingembre, jusqu'à ce que l'ail soit légèrement doré. Avec une écumoire, transférez les aromates sur une assiette. Ajoutez les oignons verts dans la poêle pour les faire frire pendant 2 min jusqu'à ce qu'ils soient croustillants, en remuant pour qu'ils ne s'agglomèrent pas. Transférez-les dans l'assiette et étalez bien tous les aromates avant de les saupoudrer de sel de Maldon. Retirez le papier d'aluminium et arrosez le gratin de façon uniforme avec 6 cl de l'huile qui a servi à faire cuire les aromates (réservez le reste pour un autre usage), puis remettez au four et terminez la cuisson à découvert pendant 50 min. Finissez à 200 °C (th. 6-7) pendant les 5 dernières minutes, jusqu'à ce que le dessus soit doré et croustillant.
+
+4. Laissez le gratin refroidir 10 min, puis garnissez-le avec les aromates frits, le zeste de citron et une généreuse pincée de sel de Maldon.
+
+## Noms ingrédients
+
+ail. bouillon de légumes. citron vert. crème de coco. échalotes. gingembre. huile d'olive. oignons verts. piments rouges. pommes de terre
+
+---
+
+# Bkaïla, ragoût de pommes de terre et haricots de Lima
+
+## Commentaire
+
+Les juifs tunisiens fabriquent un condiment extraordinaire appelé *pkaïla* ou *bkaïla*. Il se prépare en faisant cuire pendant des heures un gros volume d'épinards dans une généreuse quantité d'huile. Les épinards perdent toute leur eau et sont confits dans l'huile, ce qui donne une pâte grasse aussi noire que l'huile brute, utilisée pour parfumer soupes et ragoûts. La version proposée ici est très simplifiée, mais elle donne un goût d'épinards à ce ragoût rustique et très original — le genre de plat vers lequel on se tourne quand on a besoin d'un repas réconfortant et nourrissant.
+
+Si vous avez le temps de cuisiner les haricots avec de l'huile de cascabel fumée ou si vous en avez en réserve, ils constituent un merveilleux ajout à la place des haricots nature. Ce ragoût se conserve jusqu'à 3 jours au réfrigérateur et 1 mois au congélateur.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En plat principal*
+
+- 80 g de coriandre + 20 g grossièrement hachée, pour servir
+- 30 g de persil
+- 600 g de jeunes pousses d'épinards
+- 12 cl d'huile d'olive + un peu pour servir
+- 1 oignon, finement haché (150 g)
+- 5 gousses d'ail, écrasées
+- 2 piments verts, finement hachés (épépinés si vous n'aimez pas le feu)
+- 1 ¾ cuil. à soupe de cumin moulu
+- 1 cuil. à soupe de coriandre moulue
+- ¾ cuil. à café de cannelle moulue
+- 1 ½ cuil. à café de sucre en poudre
+- 2 citrons : 2 cuil. à café de jus ; le reste en quartiers, pour servir
+- 1 l de bouillon de légumes ou de poulet
+- 500 g de pommes de terre à chair ferme, pelées et coupées en morceaux de 3 cm
+- 1 x 700 g de haricots de Lima cuits, égouttés (425 g)
+- Sel
+
+---
+
+## Déroulé de la recette
+
+1. Mettez les herbes et les épinards dans le bol d'un robot de cuisine (procédez en plusieurs tournées) et hachez-les finement (vous pouvez aussi utiliser un hachoir manuel). Réservez.
+
+2. Faites chauffer 7,5 cl d'huile à feu moyen dans une grande cocotte à fond épais pour y faire revenir doucement l'oignon pendant 8 min, en remuant de temps en temps, jusqu'à ce qu'il soit tendre et doré. Ajoutez l'ail, les piments et les épices ; prolongez la cuisson pendant 6 min en remuant souvent.
+
+3. Augmentez à feu vif, puis ajoutez les épinards et les herbes hachées, ainsi que les 3 cuil. à soupe d'huile restantes. Faites cuire 10 min, en remuant de temps en temps, jusqu'à ce que les épinards prennent une couleur vert foncé, presque grise. Ils peuvent attacher un peu, mais ne doivent surtout pas brûler ; réduisez le feu au besoin. Incorporez le sucre, le jus de citron, le bouillon et 2 cuil. à café de sel, en raclant le fond de la casserole avec une spatule. Portez à ébullition, puis baissez à feu moyen. Ajoutez les pommes de terre et laissez-les cuire doucement pendant 25 min environ, jusqu'à ce qu'elles soient tendres. Incorporez les haricots de Lima et réchauffez-les pendant 5 min environ.
+
+4. Retirez la cocotte du feu et ajoutez les 20 g de coriandre restants, puis remuez. Répartissez dans 4 bols, arrosez d'un peu d'huile et proposez les quartiers de citron à côté.
+
+## Noms ingrédients
+
+ail. bouillon de légumes. cannelle. citron. coriandre. cumin. épinards. haricots de lima. huile d'olive. oignons. persil. piments verts. pommes de terre. sucre
+
+---
+
+# Purée de haricots blancs et aïoli
+
+## Commentaire
+
+L'huile d'olive infusée à l'ail est utilisée à trois reprises dans cette recette : pour parfumer la purée de haricots, pour faire l'aïoli qui recouvre cette purée et, enfin, pour arroser les haricots entiers qui ajoutent de la texture à la préparation. Il en résulte une joyeuse symphonie de haricots, d'ail et de citron qui peut être servie avec des tartines de pain et un assortiment de dips.
+
+Faites tremper les haricots dès le matin dans de l'eau froide, avec le bicarbonate de soude : ils cuiront plus rapidement et de manière uniforme. Vous pouvez aussi utiliser des haricots en conserve (dans ce cas, vous n'aurez pas besoin d'oignon). Tous les éléments peuvent être préparés 3 jours à l'avance.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 6 personnes — En accompagnement ou en mezze*
+
+- 350 g de haricots cannellini, trempés toute une nuit dans beaucoup d'eau froide avec 1 cuil. à café de bicarbonate de soude
+- 1 oignon, pelé et coupé en 8 quartiers (150 g)
+- 10 gousses d'ail, pelées
+- 2 brins de romarin
+- 3 brins de thym
+- 1 piment vert, coupé en deux dans la longueur
+- 20 cl d'huile d'olive
+- 1 cuil. à soupe de moutarde de Dijon
+- 2 filets d'anchois à l'huile, égouttés et grossièrement hachés (facultatif)
+- 9 cl de jus de citron (environ 4 citrons)
+- 10 g d'aneth, grossièrement haché
+- ½ cuil. à café de flocons de piment d'Alep (ou ¼ cuil. à café de flocons de piments ordinaires)
+- Sel et poivre noir
+
+---
+
+## Déroulé de la recette
+
+1. Égouttez les haricots et mettez-les dans une cocotte avec l'oignon. Versez assez d'eau pour qu'elle recouvre les haricots sur une hauteur de 4 cm. Faites chauffer à feu moyen-vif, portez à ébullition, puis baissez à feu moyen et laissez cuire environ 50 min, jusqu'à ce que les haricots soient tendres et commencent à se défaire. Égouttez-les bien.
+
+2. Pendant que les haricots cuisent, mettez l'ail, le romarin, le thym, le piment et l'huile d'olive dans une petite casserole. Couvrez et laissez cuire 25 à 30 min à feu doux, jusqu'à ce que l'ail soit fondant et commence à se colorer très légèrement. Laissez le couvercle, retirez la casserole du feu et laissez reposer pendant 10 min ; l'ail continuera de cuire dans l'huile chaude. Versez le mélange dans une passoire pour récupérer l'huile dans un bol. Récupérez les aromates.
+
+3. Pour l'aïoli, mettez l'ail cuit dans le bol d'un robot de cuisine, avec 100 g de haricots cuits, la moutarde, les anchois (facultatif), 2 cuil. à soupe de jus de citron, 7,5 cl d'huile parfumée, 1 cuil. à soupe d'eau, une pincée de sel et un bon tour de moulin à poivre. Fouettez pour obtenir la consistance d'une mayonnaise et réservez.
+
+4. Pour les haricots au vinaigre, mélangez dans un saladier 150 g de haricots cuits avec 1 ½ cuil. à soupe de jus de citron, 3 cuil. à soupe d'huile parfumée, l'aneth, ¼ cuil. à café de sel et un bon tour de moulin à poivre. Réservez.
+
+5. Mettez le reste des haricots cuits (refroidis) et l'oignon dans un robot de cuisine avec 2 ½ cuil. à soupe de jus de citron, 3 cuil. à soupe d'huile parfumée, ½ cuil. à café de sel et du poivre. Faites une purée épaisse et lisse, puis transférez-la dans un plat peu profond. Étalez-la en créant au centre un petit cratère que vous remplissez avec l'aïoli, puis recouvrez avec les haricots vinaigrés. Saupoudrez de flocons de piment et garnissez avec les aromates réservés (piment vert, romarin et thym).
+
+## Noms ingrédients
+
+ail. anchois. aneth. haricots cannellini. huile d'olive. jus de citron. moutarde de dijon. oignons. piment d'alep. piment vert. romarin. thym
+
+---
+
+# Pois chiches cuits — recette de base
+
+## Commentaire
+
+Cette recette donne 600 g de pois chiches cuits, soit la quantité nécessaire pour préparer les deux recettes de houmous de ce livre.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 600 g*
+
+- 250 g de pois chiches secs
+- 1 ½ cuil. à café de bicarbonate de soude
+- Sel
+
+---
+
+## Déroulé de la recette
+
+1. La veille, faites tremper les pois chiches dans un grand volume d'eau froide avec 1 cuil. à café de bicarbonate de soude. Égouttez-les et rafraîchissez-les, puis mettez-les dans une grande casserole avec 1,8 l d'eau et le bicarbonate restant. Portez à ébullition à feu moyen-vif, puis baissez à feu moyen, couvrez et laissez cuire 35 min. Retirez le couvercle, ajoutez 1 cuil. à café de sel et poursuivez la cuisson pendant 15 min, jusqu'à ce que les pois chiches soient très tendres et s'écrasent entre les doigts (faites-les cuire plus longtemps si nécessaire). Égouttez-les bien.
+
+## Noms ingrédients
+
+bicarbonate de soude. pois chiches
+
+---
+
+# Houmous au citron, ail frit et piment
+
+## Commentaire
+
+Ce houmous est parfait en mezze. Il est également délicieux chaud, garni de pois chiches entiers cuits, voire de poulet cuit émincé ou d'agneau haché frit. Pour gagner du temps, il peut être préparé la veille et conservé au réfrigérateur. Les aromates doivent être frits le jour même pour rester croustillants.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En mezze*
+
+### Houmous
+
+- 300 g de pois chiches cuits (recette de base ci-dessus), ou de pois chiches en bocal
+- 10 g de gingembre frais, pelé et finement râpé
+- 1 cuil. à soupe d'huile d'olive
+- 1 cuil. à soupe de tahini
+- 1 petite gousse d'ail, écrasée
+- 2 citrons bio : 1 cuil. à soupe de zeste finement râpé ; 3 cuil. à soupe de jus
+- 2 cuil. à soupe d'eau glacée
+- Sel de Maldon
+
+### Aromates frits
+
+- 9 cl d'huile d'olive
+- 3 piments rouges, épépinés et coupés en fines rondelles
+- 3 grosses gousses d'ail, en fines tranches
+- 15 g de gingembre frais, pelé et coupé en julienne
+- 2 bâtons de cannelle
+- 15 g de tiges de coriandre, en tronçons de 4 cm + 2 cuil. à soupe de feuilles fraîches, pour servir
+
+---
+
+## Déroulé de la recette
+
+1. Pour le houmous, mettez tous les ingrédients dans le bol d'un robot, ajoutez ¾ cuil. à café de sel de Maldon et mixez pour obtenir une purée lisse, en raclant les bords du récipient plusieurs fois si besoin.
+
+2. Préparez maintenant les aromates frits : mettez l'huile à chauffer à feu moyen dans une grande poêle pour y faire frire les piments, l'ail, le gingembre et la cannelle pendant 4-5 min, en remuant de temps en temps, jusqu'à ce que l'ail commence tout juste à dorer. Ajoutez les tiges de coriandre que vous laissez frire 1 min : l'ail doit prendre une teinte légèrement dorée et les piments dégager leur parfum. Déposez les aromates sur une assiette avec une écumoire (réservez l'huile), puis saupoudrez-les généreusement de sel de Maldon.
+
+3. Disposez le houmous dans un plat de service, en formant un large puits au centre avec le dos d'une cuillère.
+
+4. Avec la cuillère, versez l'huile aromatique dans le puits. Garnissez avec les aromates frits et la coriandre fraîche. Servez avec du pain pour « saucer » l'huile.
+
+## Noms ingrédients
+
+ail. cannelle. citron. coriandre. gingembre. huile d'olive. piments rouges. pois chiches. sel de maldon. tahini
+
+---
+
+# Salade de melon et mozzarella di buffala, kasha et feuilles de curry
+
+## Commentaire
+
+Ce n'est pas la première fois — et certainement pas la dernière — que nous associons du melon avec du fromage frais. En l'occurrence, ce n'est ni la saveur salée de la feta ni le goût caprin du fromage de chèvre qui viennent mettre en valeur l'arôme du fruit, mais la richesse de la mozzarella qui apporte une merveilleuse nuance crémeuse. Les parfums complexes sont apportés par une huile d'olive infusée de feuilles de curry et de graines de moutarde.
+
+La salade est fabuleuse quand les différentes saveurs ont eu le temps de s'apprivoiser. Pour prendre de l'avance, assaisonnez les melons avec l'huile aromatique, les échalotes et le jus de citron 1 heure avant, mais ajoutez la garniture (zeste de citron, graines de moutarde, kasha et feuilles de curry croustillantes) au dernier moment. Cette recette s'inspire d'une salade de tomates créée par Peter Gordon.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En entrée (ou pour 6 personnes en buffet)*
+
+- 1 grosse échalote banane, en fines rondelles
+- 2 citrons bio : ½ cuil. à café de zeste finement râpé ; 3 cuil. à soupe de jus
+- 6 cl d'huile d'olive
+- 30 feuilles de curry fraîches (à défaut, utilisez 20 feuilles de basilic frais, bien séchées)
+- 1 cuil. à café de graines de moutarde noire
+- 1 petite pastèque, avec ou sans peau, coupée en deux, puis en quartiers de 2 cm d'épaisseur (700 g avec la peau)
+- ⅔ de melon cantaloup, avec ou sans peau, épépiné et coupé en 8 quartiers (600 g avec la peau)
+- 2-4 boules de mozzarella di buffala, en 10 morceaux (400 g)
+- 1 cuil. à soupe de kasha (gruau de sarrasin rôti), grossièrement concassé (facultatif)
+- Sel de Maldon
+
+---
+
+## Déroulé de la recette
+
+1. Dans un petit bol, mélangez les échalotes avec le jus de citron et une pincée de sel.
+
+2. Faites chauffer l'huile à feu moyen-vif dans une petite casserole pour y faire frire les feuilles de curry et les graines de moutarde pendant 30 s à 1 min en inclinant en tous sens la casserole, jusqu'à ce qu'elles soient croustillantes et parfumées. Égouttez le mélange au-dessus d'un petit bol, dans une passoire, puis réservez séparément l'huile et les aromates.
+
+3. Disposez la pastèque, le cantaloup et la mozzarella sur un grand plat de service et saupoudrez avec ½ cuil. à café de sel de Maldon. Arrosez d'huile aromatique, puis ajoutez les échalotes et le jus de citron. Laissez infuser 10 min, voire 1 h, pour que les arômes se mélangent. Ajoutez pour finir le zeste de citron, les graines de moutarde, le kasha (si vous en utilisez) et les feuilles de curry croustillantes. Servez sans attendre.
+
+## Noms ingrédients
+
+citron. échalotes. feuilles de curry. graines de moutarde. huile d'olive. kasha. melon. mozzarella. pastèque. sel de maldon
+
+---
+
+# Soupe d'avocat froide et huile croquante à l'ail
+
+## Commentaire
+
+Cette soupe est à la fois crémeuse (grâce à l'avocat) et rafraîchissante (grâce au concombre). C'est donc une excellente façon de commencer un repas d'été. Elle se conserve 2 jours au réfrigérateur sans perdre sa couleur vert vif. L'huile parfumée à l'ail peut également être préparée à l'avance et se garde 2 jours dans un bocal hermétique.
+
+Vous pouvez préparer davantage d'huile aromatique. Elle est délicieuse pour arroser des toasts, des salades ou des pâtes.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 6 cl d'huile d'olive
+- ½ cuil. à café de graines de cumin, légèrement écrasées
+- ½ cuil. à café de graines de coriandre, légèrement écrasées
+- 2 gousses d'ail, finement hachées
+- 180 g de petits pois surgelés, décongelés
+- 2 gros avocats très mûrs, pelés et dénoyautés (260 g)
+- ⅓ concombre (160 g), pelé et découpé : 120 g en gros morceaux et 40 g en petits dés
+- 1 citron bio : 1 ½ cuil. à café de zeste finement râpé ; 1 ½ cuil. à soupe de jus
+- 1 petit piment vert, épépiné et finement haché
+- 80 g de crème aigre (à défaut, de la crème mélangée à un trait de jus de citron — facultatif)
+- 1 cuil. à soupe de feuilles d'aneth, finement hachées
+- Sel
+
+---
+
+## Déroulé de la recette
+
+1. Mettez dans une petite casserole 2 cuil. à soupe d'huile, les graines de cumin, les graines de coriandre, l'ail et une bonne pincée de sel. Placez à feu doux et laissez cuire doucement pendant 8 min en remuant souvent, jusqu'à ce que l'ail soit assez fondant pour s'écraser avec le dos d'une cuillère. Ne faites pas trop chauffer l'huile pour éviter que l'ail brûle : si elle commence à faire des bulles, retirez la casserole du feu. Laissez refroidir.
+
+2. Mettez dans un blender les petits pois, l'avocat, les morceaux de concombre, le zeste de citron, les 2 cuil. à soupe d'huile restantes, ¾ cuil. à café de sel et 40 cl d'eau froide. Mixez pour obtenir une soupe très lisse. Laissez refroidir au réfrigérateur.
+
+3. Mettez les dés de concombre dans un petit bol avec le jus de citron, le piment et une pincée de sel.
+
+4. Pour servir, répartissez la soupe froide dans 2 bols et garnissez chaque bol avec 1 cuil. de crème aigre (facultatif), 1 cuil. de salsa de concombre, un généreux filet d'huile aromatisée à l'ail et l'aneth.
+
+## Noms ingrédients
+
+ail. aneth. avocat. citron. concombre. crème aigre. graines de coriandre. graines de cumin. huile d'olive. piment vert. petits pois
+
+---
+
+# Pappa al pomodoro au citron vert et graines de moutarde
+
+## Commentaire
+
+La *pappa al pomodoro* est un plat paysan toscan, généralement préparé avec des tomates très mûres et trop molles pour faire une salade et du pain trop rassis pour un sandwich. Une délicieuse façon de ne rien jeter. Ce plat a marqué l'enfance d'Ixta en Italie, qui conserve des souvenirs mémorables du Podere il Poggiolo, un restaurant-jardin où la propriétaire, Serena, prépare une fabuleuse *pappa al pomodoro*.
+
+Cette version a pris une tournure Ottolenghi avec l'ajout de graines de moutarde, de piment et d'huile infusée de feuilles de curry. Vous pouvez la préparer quelques heures avant — les arômes se développeront davantage —, mais ajoutez les aromates croustillants, le basilic et le zeste de citron vert au moment de servir.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En accompagnement*
+
+- 12 cl d'huile d'olive
+- 1-2 piments verts, en fines rondelles (15 g)
+- 1-2 piments rouges, en fines rondelles (15 g)
+- 20 feuilles de curry fraîches (si vous n'en trouvez pas, vous pouvez vous en passer)
+- 1 ½ cuil. à café de graines de moutarde noire
+- 1 boîte (400 g) de tomates pelées, en conserve
+- 5 gousses d'ail, finement hachées (pas écrasées)
+- 6-8 tomates mûres, grossièrement hachées (600 g)
+- 2 feuilles de laurier
+- 10 g de feuilles de basilic, grossièrement déchirées
+- 1 cuil. à café de sucre semoule
+- 100 g de pain au levain sans croûte, bien grillé et coupé grossièrement en morceaux de 4 cm
+- 1 citron vert bio : ¼ cuil. à café de zeste ; 1 cuil. à soupe de jus
+- Sel et poivre noir
+
+---
+
+## Déroulé de la recette
+
+1. Faites chauffer l'huile à feu moyen-vif dans une grande sauteuse, puis ajoutez les piments et laissez-les frire doucement pendant 3 min. Ajoutez les feuilles de curry (facultatif) et faites-les frire 45 s, puis les graines de moutarde (15 s), en agitant la poêle sans cesse. Passez l'huile dans un tamis au-dessus d'un bol résistant à la chaleur. Transférez les piments, les feuilles de curry et les graines de moutarde sur une assiette tapissée de papier absorbant et salez généreusement. Laissez refroidir l'huile 5 min.
+
+2. Dans un récipient de taille moyenne, écrasez grossièrement à la fourchette les tomates en conserve, avec leur jus.
+
+3. Versez 3 cuil. à soupe de l'huile aromatique dans la sauteuse, ajoutez l'ail réservé et ½ cuil. à café de sel, puis laissez frire doucement à feu moyen pendant 4 min, en remuant sans cesse, jusqu'à ce que l'ail soit tendre et parfumé (il ne doit pas brunir : baissez le feu si nécessaire). Ajoutez les tomates écrasées, 400 g de tomates fraîches, le laurier, les deux tiers du basilic, le sucre, ½ cuil. à café de sel et un généreux tour de moulin à poivre. Augmentez le feu et laissez frémir 8 min. Hors du feu, ajoutez le pain et les tomates restantes, puis laissez reposer 5 min. Jetez le laurier.
+
+4. Présentez la soupe dans un grand plat creux et arrosez-la de jus de citron vert et de 3 cuil. à soupe d'huile aromatique (réservez le reste pour un autre usage). Laissez reposer au moins 25 min, voire quelques heures, pour que les arômes se mélangent. Au moment de servir, garnissez avec le zeste de citron vert, les aromates frits et le reste du basilic. Servez à température ambiante.
+
+## Noms ingrédients
+
+ail. basilic. citron vert. feuilles de curry. graines de moutarde. huile d'olive. laurier. pain au levain. piments. sucre. tomates
+
+---
+
+# Haricots noirs à la noix de coco, piment et citron vert
+
+## Commentaire
+
+Le citron vert, le piment et l'ail sont les saveurs qui dominent dans cette recette. Elles sont apportées à la fois par l'huile infusée et le mélange d'aromates frits ajouté à la fin, et rendent ces haricots délicieux.
+
+Nous vous conseillons de choisir des haricots secs (que vous devrez faire tremper la veille dans de l'eau froide). Si vous optez pour des haricots en boîte ou en bocal, sautez l'étape de cuisson — il suffira de les ajouter aux échalotes cuites avec 6 cl d'eau et de simplement les réchauffer.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En accompagnement*
+
+- 2 échalotes banane, finement hachées (120 g)
+- 2 gousses d'ail, écrasées
+- 4 feuilles de combava fraîches
+- 1 piment ancho, coupé en deux à la main
+- 350 g de haricots tortue noirs, trempés toute la nuit dans une grande quantité d'eau froide avec 1 cuil. à café de bicarbonate de soude (ou 800 g de haricots cuits)
+- 3 cuil. à soupe de jus de citron vert
+- ½ petite noix de coco, en fins copeaux à la mandoline ou grossièrement râpée (50 g)
+
+### Aromates frits
+
+- 9 cl d'huile d'olive
+- 2 gousses d'ail, en fines tranches
+- 2 piments rouges, en fines rondelles
+- 10 feuilles de combava fraîches
+- 2 cuil. à café de graines de moutarde noire
+- Sel
+
+---
+
+## Déroulé de la recette
+
+1. Commencez par préparer les aromates frits. Faites chauffer l'huile à feu moyen-vif dans une petite casserole, baissez à feu moyen, puis ajoutez l'ail, les piments et les feuilles de combava. Laissez frire 2 min en remuant pour séparer les tranches d'ail, jusqu'à ce que ce dernier commence à dorer. Ajoutez les graines de moutarde que vous laissez frire 30 s. Quand l'ail a pris une teinte plus dorée, passez le contenu de la casserole dans un tamis, au-dessus d'un bol pour recueillir l'huile. Réservez séparément les aromates et l'huile.
+
+2. Pour la préparation des haricots, faites chauffer à feu moyen-vif 3 cuil. à soupe d'huile aromatique dans une casserole moyenne, puis ajoutez les échalotes, l'ail, les feuilles de combava, le piment ancho et 1 ¼ cuil. à café de sel. Baissez à feu moyen et laissez frire 6 min en remuant souvent, jusqu'à ce que les échalotes soient fondantes et dorées. Rincez les haricots que vous avez mis à tremper la veille, puis ajoutez-les dans la casserole avec 70 cl d'eau fraîche. Portez à frémissement, puis baissez le feu et laissez mijoter 40 min, en remuant de temps en temps : les haricots doivent être cuits, sans s'écraser. Retirez du feu, couvrez et laissez reposer 10 min.
+
+3. Pour servir, placez les haricots dans un plat creux ou un saladier peu profond. Jetez les feuilles de combava et le piment ancho. Arrosez de jus de citron vert et d'huile aromatique réservée. Garnissez avec la noix de coco et avec les aromates frits. Servez aussitôt.
+
+## Noms ingrédients
+
+ail. citron vert. échalotes. feuilles de combava. graines de moutarde. haricots noirs. huile d'olive. noix de coco. piment ancho. piments rouges
+
+---
+
+# Frites au four et mayonnaise aux feuilles de curry
+
+## Commentaire
+
+Vous ne regretterez pas le travail qu'exige la préparation de la mayonnaise aromatique. La Belgique et les Pays-Bas nous ont montré le chemin, car cela fait longtemps qu'ils ont compris que la mayonnaise était le meilleur accompagnement des frites. Nous y avons ajouté des notes de curry et de cardamome. Quant aux frites, elles sont parfumées avec un mélange de sel et de citron vert, offrant une expérience de saveurs riches, chaudes, piquantes et crémeuses.
+
+Vous pouvez doubler les quantités pour la mayonnaise, qui se conserve 2 semaines au réfrigérateur. Les frites se marient très bien avec les steaks de céleri-rave à la sauce café de Paris ou les schnitzels de poivron rouge.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En accompagnement*
+
+- 1 kg de pommes de terre maris piper (ou de bintje), avec la peau et coupées en morceaux de 1 cm
+- 4,5 cl d'huile de tournesol
+- Sel et sel de Maldon
+
+### Mayonnaise aux feuilles de curry
+
+- 14 gousses de cardamome, gousses éliminées et graines broyées dans un moulin à épices (ou pilées dans un mortier)
+- 30 feuilles de curry fraîches, 20 passées au moulin à épices (ou finement hachées) et les autres entières
+- 12 cl d'huile de tournesol
+- 1 jaune d'œuf
+- ½ petite gousse d'ail, écrasée
+- 4 citrons verts bio : 1 ½ cuil. à soupe de zeste finement râpé ; 2 cl de jus ; le reste en quartiers, pour servir
+
+---
+
+## Déroulé de la recette
+
+1. Pour la mayonnaise, faites revenir la cardamome et les feuilles de curry hachées dans une petite casserole à feu vif pendant 1 min, jusqu'à ce que le mélange embaume. Ajoutez l'huile et laissez chauffer 30 s, jusqu'à ce qu'elle bouillonne doucement, avant d'ajouter les feuilles de curry entières. Laissez-les frire doucement pour qu'elles soient croustillantes (environ 30 s). Retirez la casserole du feu, sortez les feuilles de curry entières avec une écumoire et réservez-les pour la garniture. Laissez le reste des aromates infuser dans l'huile pendant 30 min. Réservez ½ cuil. à soupe d'huile et une partie des aromates pour servir. Filtrez le reste dans un verre gradué.
+
+2. Mettez dans un robot le jaune d'œuf, l'ail, 1 cuil. à soupe de jus de citron vert et une pincée de sel, puis battez le mélange. Sans couper le moteur, versez progressivement l'huile infusée en un filet mince, jusqu'à ce que la préparation épaississe et forme une mayonnaise. Transférez-la dans un petit bol et ajoutez le jus de citron vert restant. Si elle devient trop épaisse ou qu'elle donne l'impression de « tourner », incorporez 1 cuil. à café d'eau en fouettant vivement pour l'émulsionner.
+
+3. Préchauffez le four à 200 °C (th. 6-7) en mode chaleur tournante.
+
+4. Étalez les frites sur une grande plaque tapissée de papier sulfurisé. Arrosez d'huile de tournesol et saupoudrez avec ¾ cuil. à café de sel, puis remuez doucement pour enrober les frites. Enfournez pour 20 min, retournez les frites et poursuivez la cuisson 25 min, en les retournant encore une fois, jusqu'à ce qu'elles soient croustillantes et dorées de toutes parts.
+
+5. Mélangez le zeste de citron vert avec ½ cuil. à soupe de sel de Maldon, en l'écrasant doucement. Assaisonnez les frites avec ce mélange avant de les transférer dans un plat de service. Arrosez la mayonnaise avec la cuillerée d'huile infusée et d'aromates réservés, puis ajouter les feuilles de curry croustillantes. Servez aussitôt en proposant les quartiers de citron vert à part.
+
+## Noms ingrédients
+
+ail. cardamome. citron vert. feuilles de curry. huile de tournesol. jaune d'œuf. pommes de terre. sel de maldon
+
+---
+
+# Pancakes de pois chiches et yaourt à la mangue
+
+## Commentaire
+
+Ces pancakes véganes parfumés au gingembre, à l'ail et au piment sont à la fois denses, légers et moelleux — comme les savoureux pancakes américains. Les œufs mollets s'accordent très bien avec cette recette, mais vous pouvez les omettre et utiliser une alternative végétale au yaourt pour une recette 100 % végane.
+
+Vous pouvez servir ces pancakes avec une salade d'oignons verts, de menthe, de coriandre et de piment vert, assaisonnée de jus de citron vert. Mangez les pancakes sans tarder, car ils perdent leur moelleux en refroidissant.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 8 pancakes — Pour 4 personnes*
+
+- 4 cl d'huile d'olive
+- 12 feuilles de curry fraîches (à défaut, des feuilles de menthe, bien séchées)
+- 2 cuil. à café de gingembre frais, pelé et finement haché
+- 2 petites gousses d'ail, écrasées
+- 1 piment vert, finement haché
+- 2 oignons verts, finement hachés
+- 6 cl d'huile de tournesol, pour la friture
+- Sel
+
+### Pâte
+
+- 250 g de farine de pois chiches
+- 50 g de fécule de maïs
+- 1 cuil. à café de levure chimique
+- 30 cl d'eau gazeuse
+- 6 cl de vinaigre de cidre
+- 1 cuil. à café de cumin moulu
+- 1 ½ cuil. de mélange d'épices garam masala
+
+### Yaourt aux pickles de mangue
+
+- 150 g de yaourt à la grecque
+- ½ mangue, pelée et finement hachée (60 g)
+- 2 cuil. à soupe de pickles de mangue piquant, grossièrement haché
+- 1 citron vert bio : 1 cuil. à café de zeste finement râpé ; le reste en quartiers, pour servir
+
+---
+
+## Déroulé de la recette
+
+1. Faites chauffer l'huile d'olive à feu moyen-vif dans une petite casserole. Quand elle est bien chaude, ajoutez les feuilles de curry et laissez-les frire 30 s à 1 min, jusqu'à ce qu'elles soient croustillantes sans perdre leur couleur vert vif. Avec une écumoire, transférez-les sur une assiette tapissée de papier absorbant. Laissez l'huile dans la casserole et retirez-la du feu pour la laisser refroidir quelques minutes, puis remettez-la à feu doux avec le gingembre, l'ail, le piment et les oignons verts. Laissez frire doucement pendant 6 min, en remuant souvent, jusqu'à ce que le mélange embaume. Laissez refroidir.
+
+2. Pendant ce temps, mettez tous les ingrédients de la pâte dans un grand récipient avec 1 cuil. à café de sel et fouettez jusqu'à ce que le mélange soit lisse. Incorporez les aromates refroidis et laissez infuser 15 min pour que les saveurs se mélangent.
+
+3. Pour le yaourt, mettez tous les ingrédients dans un bol avec une pincée de sel, puis mélangez légèrement (la couleur ne doit pas être homogène). Réservez.
+
+4. Tapissez le fond d'une grande poêle antiadhésive avec ½ cuil. à soupe d'huile de tournesol et faites chauffer à feu moyen-vif. Quand l'huile est chaude, versez 80 g (5-6 cuil. à soupe) de pâte à pancake sans trop l'étaler pour former un disque d'environ 12 cm de diamètre. Faites-le dorer entre 1 min et 1 min ½ de chaque côté, jusqu'à ce qu'il soit bien gonflé. Procédez de la même manière avec le reste de la pâte, en rajoutant de l'huile au besoin et en gardant au chaud les pancakes prêts.
+
+5. Répartissez les pancakes dans 4 assiettes, déposez un peu de yaourt à côté et garnissez de feuilles de curry croustillantes. Servez aussitôt avec une salade et des œufs, si vous le souhaitez.
+
+## Noms ingrédients
+
+ail. citron vert. cumin. farine de pois chiches. fécule de maïs. feuilles de curry. garam masala. gingembre. huile d'olive. huile de tournesol. levure chimique. mangue. oignons verts. pickles de mangue. piment vert. vinaigre de cidre. yaourt grec
+
+---
+
+# Choux de Bruxelles à l'aigre-douce, châtaignes et raisins
+
+## Commentaire
+
+Il se produit quelque chose de magique quand on laisse mariner des choux de Bruxelles, des châtaignes et des raisins dans un mélange de vin de riz et de sauce soja, auquel vient s'ajouter leur eau de végétation. Une douceur subtile et vive, avec une pointe d'amertume, se déploie peu à peu, et l'ensemble prend tout de suite des airs de fête.
+
+Les choux de Bruxelles et les châtaignes font de ce plat le candidat parfait pour Noël. Vous pouvez facilement gagner du temps en faisant cuire la veille les échalotes, l'ail, les châtaignes et les raisins. Les choux de Bruxelles doivent être rôtis le jour même. Les piments marinés et le persil seront ajoutés au dernier moment.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En accompagnement*
+
+- 12 petites échalotes (240 g), pelées, mais entières (220 g)
+- 5 gousses d'ail, pelées et écrasées avec la lame d'un couteau
+- 250 g de châtaignes cuites et pelées
+- 4 feuilles de laurier
+- 1 cuil. à soupe de sirop d'érable
+- 13 cl d'huile d'olive
+- 9 cl de vin de riz de Shaoxing (ou de xérès sec fino)
+- 6 cl de sauce soja
+- 180 g de raisins rouges
+- 800 g de choux de Bruxelles, coupés en deux dans la hauteur
+- 2 piments verts, en fines rondelles
+- 2 cuil. à soupe de vinaigre de riz
+- 1 cuil. à café de sucre semoule
+- 3 cuil. à soupe de persil frais
+- Sel
+
+---
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 160 °C (th. 5-6) en mode chaleur tournante.
+
+2. Mettez dans un plat à rôtir à bords hauts (34 x 26 cm) les 5 premiers ingrédients de la liste, puis ajoutez 10 cl d'huile, 7,5 cl de vin de Shaoxing et 2 cuil. à soupe de sauce soja. Couvrez hermétiquement avec du papier d'aluminium et enfournez pour 35 min, jusqu'à ce que les échalotes soient tendres sans se défaire. Ajoutez les raisins, recouvrez de nouveau et poursuivez la cuisson pendant 10 min. Retirez le plat du four, retirez le papier d'aluminium et réservez pendant que vous préparez les choux de Bruxelles. Réglez le four à 220 °C (th. 7-8).
+
+3. Mélangez les choux de Bruxelles avec 2 cuil. à soupe d'huile et ¼ cuil. à café de sel, puis étalez-les sur deux plaques de cuisson tapissées de papier sulfurisé. Enfournez pour 16 min, en intervertissant les plaques à mi-cuisson, jusqu'à ce que les petits choux soient dorés. Transférez-les dans le plat contenant le raisin et les châtaignes, mélangez délicatement et laissez 1 h à température ambiante sans couvrir (ou au moins 30 min), pour que les arômes se développent.
+
+4. Pendant ce temps, mélangez dans un bol les piments, le vinaigre de riz, le sucre et une pincée de sel. Laissez mariner au moins 30 min.
+
+5. Quand le mélange de raisins, châtaignes et choux a reposé assez longtemps, incorporez le reste de vin de Shaoxing (1 cuil. à soupe) et de sauce soja (2 cuil. à soupe). Ajoutez le persil et dressez sur un plat de service creux. Garnissez avec les piments marinés et arrosez de marinade. Servez aussitôt.
+
+## Noms ingrédients
+
+ail. châtaignes. choux de Bruxelles. échalotes. huile d'olive. laurier. persil. piments verts. raisins. sauce soja. sirop d'érable. sucre. vinaigre de riz. vin shaoxing
+
+---
+
+# Gnocchis de rutabaga au beurre de miso
+
+## Commentaire
+
+Vous pouvez utiliser des gnocchis de pommes de terre tout prêts — le beurre de miso les transformera complètement. Si vous choisissez de préparer ces gnocchis de rutabaga, qui offrent une saveur aigre-douce très séduisante, nous pouvons vous faciliter la tâche : au lieu de former des rouleaux de pâte à détailler en gnocchis, nous mettons le mélange dans une poche à douille et nous les pressons directement dans l'eau frémissante. Cette technique permet en outre d'obtenir des gnocchis plus légers, car il n'est pas nécessaire de les fariner.
+
+Le liseron d'eau se trouve facilement dans les magasins asiatiques ; à défaut, des épinards à grande feuille feront l'affaire. La pâte des gnocchis peut être préparée la veille et conservée dans une poche à douille au réfrigérateur.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En plat principal*
+
+- 1-2 pommes de terre maris piper (ou de bintje), avec la peau (400 g)
+- 2-3 petits rutabagas, pelés et coupés en cubes d'environ 2 cm (600 g)
+- 7 cl d'huile d'olive
+- 1 jaune d'œuf
+- 150 g de farine T45
+- 50 cl de bouillon de légumes ou de volaille
+- 200 g de feuilles de liseron d'eau (ou de grandes feuilles d'épinards), grossièrement hachées en bandes de 8 cm de long
+- 1 cuil. à soupe de pâte de miso blanche
+- 1 citron vert bio : 1 cuil. à café de zeste finement râpé ; 2 cuil. à café de jus
+- 5 g de gingembre frais, pelé et finement râpé
+- 50 g de beurre doux, coupé en cubes de 1,5 cm
+- 2 oignons verts, en fines lamelles (30 g)
+- 1 cuil. à café de graines de sésame blanc, grillées
+- Sel
+
+---
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 220 °C (th. 7-8) en mode chaleur tournante.
+
+2. Enveloppez chaque pomme de terre dans du papier d'aluminium et enfournez-les pour 1 h, jusqu'à ce qu'elles soient cuites à point. Épluchez-les quand elles sont encore chaudes, puis écrasez-les dans un récipient avec un presse-purée pour obtenir environ 230 g de purée lisse.
+
+3. Pendant la cuisson des pommes de terre, étalez les cubes de rutabaga sur une plaque tapissée de papier sulfurisé. Arrosez-les avec 1 cuil. à soupe d'huile d'olive, mélangez, couvrez de papier d'aluminium et enfournez pour 30 min, jusqu'à cuisson complète. Mixez le rutabaga dans un robot avec 2 cuil. à soupe d'huile d'olive, jusqu'à ce que le mélange soit bien lisse. Vous devez obtenir environ 320 g de purée de rutabaga. Incorporez-la à la purée de pommes de terre, avec le jaune d'œuf et ¼ cuil. à café de sel, puis ajoutez la farine en mélangeant sans former de grumeaux. Transférez la pâte dans une poche à douille et mettez-la au réfrigérateur pendant 1 h, jusqu'à ce qu'elle soit bien froide.
+
+4. Coupez la pointe de la poche à douille pour dégager une ouverture de 2 cm de large. Versez 1,5 l d'eau dans une casserole, ajoutez 2 cuil. à café de sel et portez à ébullition, puis baissez à feu moyen pour que l'eau frémisse doucement. Faites cuire les gnocchis en cinq tournées : avec la poche à douille, formez des morceaux de 3 cm dans l'eau, en utilisant un petit couteau affûté pour libérer rapidement la pâte. Laissez-les cuire 2-3 min, jusqu'à ce qu'ils remontent à la surface. Sortez-les avec une écumoire et étalez-les sur une plaque de papier sulfurisé, sans les faire se toucher. Quand tous les gnocchis sont cuits, arrosez-les avec 2 cuil. à café d'huile et laissez-les refroidir légèrement 20 min.
+
+5. Mettez le bouillon dans une grande sauteuse et faites-le réduire à feu moyen-vif pendant 12-14 min pour qu'il n'en reste plus que 20 cl. Ajoutez les liserons d'eau (ou les épinards) et laissez-les cuire 2 min, jusqu'à ce qu'ils soient tendres. Sortez-les de la sauteuse et réservez-les, en laissant la plus grande partie du liquide dans le récipient. Remettez la sauteuse à feu moyen, ajoutez le miso, le jus de citron vert, le gingembre et le beurre, puis fouettez pendant 3 min jusqu'à ce que le beurre fonde et que la sauce soit lisse et légèrement épaisse. Attention, elle ne doit pas bouillir pour ne pas « tourner ». Retirez la sauteuse du feu et réservez.
+
+6. Faites chauffer l'huile restante (1 ½ cuil. à soupe) à feu moyen-vif dans une poêle. Quand elle est très chaude, ajoutez la moitié des gnocchis que vous laissez frire 1-2 min de chaque côté, jusqu'à ce qu'ils soient dorés uniformément. Transférez-les dans une assiette et faites cuire de la même manière le reste des gnocchis. Transférez tous les gnocchis dans la sauteuse avec les liserons d'eau (ou les épinards), remettez à feu moyen-vif et réchauffez le tout pendant 1-2 min.
+
+7. Répartissez le mélange dans 4 assiettes, puis saupoudrez de zeste de citron vert, de ciboulette et de graines de sésame. Servez aussitôt.
+
+## Noms ingrédients
+
+beurre. bouillon de légumes. citron vert. épinards. farine. gingembre. graines de sésame. huile d'olive. jaune d'œuf. miso blanc. oignons verts. pommes de terre. rutabaga
+
+---
+
+# Pommes de terre et œufs braisés au gochujang
+
+## Commentaire
+
+Les œufs cuisent dans une galette de pomme de terre au fond croustillant, dans l'esprit du breakfast américain aux pommes de terre et œufs rissolés dans une même poêle. Nous apprécions la complexité de saveurs qu'apporte le chou-rave, mais n'hésitez pas à n'utiliser que des pommes de terre si ce n'est pas votre cas. Essayez de tailler les légumes en bâtonnets uniformes (5 mm) et, surtout, ne les râpez pas, car vous n'obtiendrez pas le croustillant recherché.
+
+Cherchez un gochujang (pâte de piment fermentée coréenne) de bonne qualité plutôt qu'un gochujang d'une marque générique des grandes surfaces. Cela fait vraiment la différence.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Pour un petit-déjeuner ou un dîner léger*
+
+- 2-3 grosses pommes de terre à chair ferme, pelées et coupées en bâtonnets de 0,5 x 4 cm (380 g)
+- 1 petit chou-rave, pelé et coupé en bâtonnets de 0,5 x 4 cm (160 g)
+- 1 cuil. à soupe de pâte de piment gochujang (quantité à ajuster selon la marque)
+- 2 cuil. à café de pâte de miso blanche
+- 2 petites gousses d'ail, écrasées
+- 3 cuil. à soupe d'huile d'olive + un peu pour graisser le moule
+- 8 œufs
+- 1 citron vert, coupé en quartiers, pour servir
+- Sel
+
+### Salsa
+
+- 1 cuil. à soupe de jus de citron vert
+- 1 cuil. à café de pâte de piment gochujang (à ajuster en fonction de la marque)
+- 2 cuil. à soupe d'huile d'olive
+- 2 cuil. à café de ciboulette, finement hachée
+- 2 cuil. à café de graines de sésame blanches ou noires, de préférence un mélange des deux, grillées
+
+---
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 200 °C (th. 6-7) en mode chaleur tournante. Graissez légèrement une grande sauteuse antiadhésive (diamètre 28 cm) munie d'un couvercle et qui peut aller au four (sinon, optez pour un plat rond). Glissez-la 5 min au four pour la chauffer.
+
+2. Dans un grand récipient, mélangez les 6 premiers ingrédients de la liste, ajoutez ¼ cuil. à café de sel et mélangez bien (c'est plus facile à la main, en mettant des gants). Sortez la sauteuse, transférez les légumes dedans et étalez uniformément le mélange. Enfournez pour 25 min sans couvrir, en tournant le récipient à mi-cuisson, jusqu'à ce que le mélange soit doré et forme une croûte sur le dessus.
+
+3. Creusez 8 puits avec le dos d'une cuillère. Cassez les œufs dedans, puis couvrez la sauteuse et remettez-la au four pour 8 à 10 min, jusqu'à ce que les blancs soient cuits (les jaunes doivent rester liquides). Vous pouvez délicatement retirer la pellicule blanche qui s'est formée sur les jaunes avec une petite cuillère. Salez légèrement les œufs.
+
+4. Mélangez les ingrédients de la salsa dans un petit bol, puis arrosez les œufs de cette préparation. Servez aussitôt, avec les quartiers de citron vert.
+
+## Noms ingrédients
+
+ail. chou-rave. ciboulette. citron vert. gochujang. graines de sésame. huile d'olive. miso blanc. œufs. pommes de terre
+
+---
+
+# Le ragù ultime cuit sur une plaque
+
+## Commentaire
+
+En vue de créer le meilleur ragù sans viande, nous avons concocté une multitude de versions différentes. La liste des ingrédients est longue, certes, mais il faut tout cela pour donner au ragù sa richesse en umami. En contrepartie, la façon de procéder est ultra-simple. Si vous avez un robot de cuisine, vous pourrez hacher facilement les six premiers ingrédients, ce qui vous économisera du temps et de l'énergie.
+
+Ce ragù se conserve 3 jours au réfrigérateur ou 1 mois au congélateur, prêt à être servi avec des pâtes ou de la polenta, ou employé comme base pour des lasagnes ou un hachis parmentier.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 6-8 personnes*
+
+- 3 carottes, épluchées et coupées en gros morceaux (250 g)
+- 2 oignons, pelés et coupés en gros morceaux (300 g)
+- 300 g de pleurotes, grossièrement hachés
+- 60 g de cèpes séchés, grossièrement coupés
+- 4 gousses d'ail, écrasées
+- 3-4 tomates allongées, coupées en gros morceaux (350 g)
+- 12 cl d'huile d'olive
+- 70 g de miso blanc
+- 40 g de harissa à la rose (ajustez la quantité selon la marque)
+- 4 cuil. à soupe de concentré de tomates
+- 9 cl de sauce soja
+- 2 cuil. à café de graines de cumin, écrasées
+- 180 g de lentilles brunes ou vertes séchées
+- 100 g d'orge perlé
+- 1 l de bouillon de légumes ou de volaille
+- 160 g de crème de coco
+- 10 cl de vin rouge
+- Sel et poivre noir
+
+---
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 190 °C (th. 6-7) en mode chaleur tournante.
+
+2. Mettez les six premiers ingrédients dans un robot de cuisine et hachez-les en donnant de brèves impulsions (si vous n'avez pas de robot, hachez les ingrédients à la main).
+
+3. Sur une plaque de cuisson antiadhésive (36 x 28 cm), mélangez les légumes hachés avec l'huile, le miso, la harissa, le concentré de tomates, la sauce soja et les graines de cumin. Enfournez pour 40 min, en remuant à mi-cuisson, jusqu'à ce que les légumes soient dorés sur les bords et que le jus bouillonne.
+
+4. Réduisez le four à 180 °C (th. 6) en mode chaleur tournante.
+
+5. Ajoutez tous les autres ingrédients, ainsi que 15 cl d'eau et ¾ cuil. à café de sel. Poivrez généreusement. Remuez en raclant les côtés et le fond croustillants à l'aide d'une spatule. Couvrez avec du papier d'aluminium et enfournez de nouveau pour 40 min. Retirez le papier d'aluminium et poursuivez la cuisson pendant 5 min. Laissez reposer 15 min avant de servir, pour que les légumes absorbent encore un peu de liquide de cuisson.
+
+## Noms ingrédients
+
+ail. bouillon de légumes. carottes. cèpes séchés. concentré de tomates. crème de coco. graines de cumin. harissa. huile d'olive. lentilles. miso blanc. oignons. orge perlé. pleurotes. sauce soja. tomates. vin rouge
+
+---
+
+# Pancakes aux asperges et au gochujang
+
+## Commentaire
+
+Ces pancakes moelleux sont moins épais que les pancakes classiques, ce qui permet de préserver la texture des asperges. Comme ils ne sont pas trop épicés, ils seront parfaits pour un brunch dominical ou un dîner léger.
+
+Essayez de dénicher du vrai gochujang (pâte de piment fermentée coréenne). Les marques coréennes, comme O'food, ont des saveurs plus profondes que les produits vendus en grande surface. Si celui que vous avez est un peu doux, proposez-en à part, à côté du dip.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 pancakes — En brunch pour 2 personnes*
+
+- 135 g de farine complète
+- 60 g de farine de riz (mais pas de riz gluant)
+- 1 œuf
+- 32,5 cl d'eau glacée
+- 1 ½ cuil. à soupe de pâte de piment gochujang (ajustez la quantité selon la marque)
+- 5 g de coriandre, grossièrement hachée + un peu pour servir
+- ½ piment rouge, épépiné et finement haché (5 g)
+- 400 g d'asperges vertes, base ligneuse éliminée, tige coupée en deux dans la hauteur (280 g)
+- 120 g d'oignons verts (6-7), parés, coupés en deux dans l'épaisseur, puis dans la hauteur
+- 7,5 cl d'huile de tournesol
+- Sel
+
+### Dip
+
+- 5 cl de sauce soja légère
+- 1 cuil. à soupe de miel liquide
+- 2 cuil. à café de graines de sésame, grillées
+- 2 cuil. à café de vinaigre de riz
+- 1 gousse d'ail, écrasée
+- ½ piment rouge, épépiné et finement haché (5 g)
+
+---
+
+## Déroulé de la recette
+
+1. Pour le dip, fouettez tous les ingrédients dans un bol pour obtenir un mélange homogène.
+
+2. Mettez les deux farines dans un récipient avec ½ cuil. à café de sel et mélangez bien. Dans un autre bol, battez légèrement l'œuf, l'eau, le gochujang, la coriandre et le piment. Creusez un puits au centre du mélange de farine, versez lentement les ingrédients humides et fouettez jusqu'à ce que la pâte soit juste lisse, sans trop mélanger.
+
+3. Graissez une poêle antiadhésive moyenne (18 cm) avec à peine 1 cuil. à soupe d'huile et faites-la chauffer à feu moyen-vif. Ajoutez un quart des asperges (toutes disposées dans le même sens) et une petite pincée de sel, et faites-les cuire entre 1 min ½ et 2 min, en les retournant plusieurs fois, jusqu'à ce qu'elles commencent à s'assouplir et à se colorer. Ajoutez un quart des oignons verts, que vous laissez cuire 30 s de plus. Versez 140 g (environ un quart) de la pâte à pancakes, en l'étalant pour couvrir le fond de la poêle. Laissez cuire le pancake pendant 2 min ½ avant de le retourner et poursuivez la cuisson pendant 2 min ½, jusqu'à ce qu'il soit croustillant et doré. Réservez-le sur une assiette et préparez de la même manière les autres pancakes (4 en tout).
+
+4. Répartissez les pancakes sur 2 assiettes et saupoudrez de coriandre hachée. Servez la sauce à côté ou arrosez-en légèrement les pancakes.
+
+## Noms ingrédients
+
+ail. asperges. coriandre. farine complète. farine de riz. gochujang. graines de sésame. huile de tournesol. miel. oignons verts. œuf. piment rouge. sauce soja. vinaigre de riz
+
+---
+
+# Cacio e pepe au zaatar
+
+## Commentaire
+
+S'amuser avec un classique italien ne se fait pas à la légère, mais l'ajout de zaatar ne retire rien à l'admirable simplicité de ce plat. Cela ajoute au contraire une merveilleuse note herbacée qui se marie bien avec le poivre et le fromage.
+
+Il n'est pas difficile de réussir le *cacio e pepe*, à condition de le surveiller comme le lait sur le feu si on veut obtenir une sauce riche et onctueuse. Il est indispensable de choisir une grande casserole et d'utiliser peu d'eau pour cuire les pâtes : cela permet d'obtenir assez d'amidon dans l'eau, ce qui est la clé pour une sauce émulsionnée. Râpez le parmesan et le pecorino aussi finement que possible pour qu'ils fondent bien dans la sauce. Enfin, mesurez tous les ingrédients avant de vous lancer ; ensuite, tout va très vite !
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En plat principal*
+
+- 400 g de pâtes bucatini sèches (ou d'autres pâtes longues, en ajustant le temps de cuisson au besoin)
+- 50 g de beurre doux
+- 10 g de zaatar + 1 ½ cuil. à café pour servir
+- 2 cuil. à café de poivre noir, fraîchement concassé
+- 130 g de parmesan, très finement râpé
+- 30 g de pecorino romano, très finement râpé
+- 2 ½ cuil. à soupe d'huile d'olive
+- 2 cuil. à café de feuilles de marjolaine fraîche (facultatif)
+- Sel
+
+---
+
+## Déroulé de la recette
+
+1. Faites bouillir 1,3 l d'eau dans une grande casserole à feu moyen-vif, puis ajoutez ¾ cuil. à café de sel. Plongez les pâtes bucatini dans l'eau et faites-les cuire 9 min pour qu'elles soient *al dente*, en remuant de temps en temps afin qu'elles ne collent pas au fond de la casserole et qu'elles restent bien immergées. Égouttez-les, en réservant toute l'eau de cuisson (vous devez en avoir environ 52 cl — sinon, ajoutez un peu d'eau chaude).
+
+2. Faites fondre le beurre à feu vif dans une grande poêle antiadhésive jusqu'à ce qu'il bouillonne, puis ajoutez le zaatar et le poivre. Laissez cuire 1 min en remuant jusqu'à ce que le mélange embaume. Versez l'eau de cuisson des pâtes, portez à ébullition et laissez cuire 5 min pour que le liquide réduise un peu et prenne une consistance onctueuse. Ajoutez les pâtes et mélangez-les vigoureusement avec la sauce. Incorporez le parmesan en deux fois, en mélangeant toujours vigoureusement — attendez que la première portion soit fondue avant de verser la seconde. Quand le parmesan est fondu, incorporez le pecorino en continuant à remuer pour qu'il fonde également. La sauce doit être lisse et onctueuse.
+
+3. Transférez dans un plat creux et arrosez avec l'huile, puis saupoudrez de marjolaine (facultatif), du zaatar restant et d'une petite pincée de sel. Servez aussitôt.
+
+## Noms ingrédients
+
+beurre. bucatini. huile d'olive. marjolaine. parmesan. pecorino. poivre noir. zaatar
+
+---
+
+# Légumes de printemps au bouillon de parmesan et salsa au citron grillé
+
+## Commentaire
+
+Avec les petits pois et les pois gourmands printaniers, on peut faire au plus simple ou au plus riche. Cette recette choisit la seconde option, en les servant dans un bouillon chargé des saveurs intenses du citron, de l'olive, de l'ail et du parmesan.
+
+On peut tirer trois enseignements de cette préparation. Premièrement, ne jetez jamais vos croûtes de fromage — elles se conservent des mois au réfrigérateur ou au congélateur, prêtes à être ajoutées aux bouillons et ragoûts. Deuxièmement, la base d'oignons, d'ail et d'olives sautés donne un coup de fouet au bouillon. Troisièmement, la sauce au citron est polyvalente — doublez les quantités et gardez-la au réfrigérateur (2 jours) pour l'ajouter sur des légumes grillés, du poisson ou du poulet.
+
+Pour prendre de l'avance, vous pouvez préparer le bouillon et la sauce au citron la veille, mais attendez le dernier moment pour faire cuire les légumes dans le bouillon.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En entrée*
+
+### Bouillon
+
+- 2 cuil. à soupe d'huile d'olive
+- ¼ oignon, finement haché
+- 2 gousses d'ail, écrasées
+- 80 g d'olives Nocellara (ou d'autres olives vertes), dénoyautées et finement hachées (50 g)
+- 100 g de parmesan (avec la croûte, coupée à part), détaillé en trois morceaux + un peu de parmesan râpé, pour servir
+- 1 cuil. à soupe de jus de citron
+- 5 g de tiges de persil
+- 5 g de tiges de basilic
+- 100 g de pois gourmands, en fines lamelles biseautées
+- 100 g de petits pois frais ou surgelés (décongelés en ce cas)
+- 400 g de pois mange-tout, coupés en deux dans la longueur
+- Sel
+
+### Sauce au citron grillé
+
+- 1 petit citron, coupé en 8 tranches de 5 mm d'épaisseur, puis épépiné (60 g)
+- 70 g d'olives Nocellara (ou d'autres olives vertes), dénoyautées et finement hachées (40 g)
+- 2 petites gousses d'ail, finement hachées
+- 10 g de feuilles de persil, finement hachées
+- 10 g de feuilles de basilic, finement hachées
+- 7,5 cl d'huile d'olive
+
+---
+
+## Déroulé de la recette
+
+1. Pour le bouillon, mettez l'huile, l'oignon et ¾ cuil. à café de sel dans une casserole à feu moyen-vif et laissez frire doucement pendant 6 min, en remuant de temps en temps, jusqu'à ce que les oignons soient tendres et dorés. Ajoutez l'ail et les olives. Prolongez la cuisson pendant 2 min, jusqu'à ce qu'ils soient fondants et parfumés. Incorporez la croûte et les morceaux de parmesan, que vous laissez revenir 30 s, puis ajoutez le jus de citron, les tiges d'herbes fraîches, 1,8 l d'eau et 1 ¼ cuil. à café de sel. Portez à petit frémissement, puis baissez à feu moyen et laissez mijoter 20 min. Filtrez le bouillon, puis remettez-le dans la casserole pour le garder au chaud. Jetez les légumes et la croûte de parmesan.
+
+2. Préparez la sauce au citron. Faites chauffer une poêle antiadhésive à feu vif pour y faire dorer 4 tranches de citron 3 min de chaque côté, jusqu'à ce qu'elles soient bien grillées, mais pas brûlées. Hachez finement les tranches de citron grillé, ainsi que les tranches de citron frais, et mettez le tout dans un bol de service. Ajoutez les ingrédients restants et ¼ cuil. à café de sel. Réservez.
+
+3. Remettez le bouillon à chauffer à feu moyen-vif pour atteindre une petite ébullition. Baissez alors le feu au minimum, incorporez tous les légumes et laissez cuire 3 min, jusqu'à ce qu'ils soient cuits (ils doivent rester croquants).
+
+4. Répartissez les légumes et le bouillon dans 4 bols et ajoutez 1 cuil. à soupe de sauce. Terminez avec du parmesan râpé et servez le reste de sauce à part.
+
+## Noms ingrédients
+
+ail. basilic. citron. huile d'olive. jus de citron. olives vertes. oignons. parmesan. persil. petits pois. pois gourmands. pois mange-tout
+
+---
+
+# Figues grillées et vinaigrette au vin de Shaoxing
+
+## Commentaire
+
+Sur le papier, le mélange peut sembler étrange, mais la combinaison des figues, du vin de riz et de la ricotta est réellement merveilleuse. Le plat offre un juste équilibre entre les saveurs sucrées et salées, c'est pourquoi il faut choisir des figues bien mûres. Si ce n'est pas le cas, ajoutez un peu plus de sirop d'érable.
+
+L'huile aromatique et les figues cuites doivent infuser assez longtemps pour que les saveurs se développent, donc n'hésitez pas à les préparer la veille. Vous pouvez même laisser les figues 3 semaines au réfrigérateur pour qu'elles fermentent ; elles seront idéales avec un plateau de fromages.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En entrée*
+
+- 8 figues violettes mûres, coupées en deux (320 g)
+- 1 cuil. à soupe de sauce soja
+- 2 ½ cuil. à soupe de sirop d'érable
+- 2 cuil. à soupe de vin de riz de Shaoxing (ou de xérès sec fino)
+- 2 ½ cuil. à café de vinaigre Chinkiang (ou du vinaigre balsamique en divisant par deux la quantité)
+- 6 cl d'huile d'olive
+- 2 piments rouges, en fines rondelles (20 g)
+- 5 fines lanières de zeste de citron bio
+- 60 g de roquette
+- 140 g de ricotta
+
+---
+
+## Déroulé de la recette
+
+1. Préchauffez le gril du four (thermostat au maximum).
+
+2. Mélangez dans un saladier les figues avec la sauce soja et 1 ½ cuil. à soupe de sirop d'érable, avant de les étaler sur une plaque tapissée de papier sulfurisé, face coupée vers le haut. Glissez les figues dans le haut du four et laissez-les rôtir 12 min, jusqu'à ce qu'elles soient tendres et caramélisées (mais sans s'écraser). Remettez-les dans le saladier avec leur jus de cuisson, ajoutez le vin de Shaoxing, le vinaigre de Chinkiang et le reste du sirop d'érable (1 cuil. à soupe). Mélangez délicatement, puis réservez au moins 1 h (ou toute une nuit) au frais, pour que les saveurs se mélangent.
+
+3. Faites chauffer l'huile à feu moyen dans une petite casserole pour y faire frire les piments pendant 3 min, en remuant pour les séparer. Ajoutez les zestes de citron et faites-les frire 30 s jusqu'à ce qu'ils embaument, puis transférez aussitôt le mélange dans un bol résistant à la chaleur et laissez infuser 30 min (ou une nuit complète).
+
+4. Disposez la roquette sur un plat de service avec les figues sur le dessus et arrosez de vinaigrette. Parsemez de cuillerées de ricotta, terminez avec l'huile infusée, les piments et les zestes de citron. Servez sans attendre.
+
+## Noms ingrédients
+
+citron. figues. huile d'olive. piments rouges. ricotta. roquette. sauce soja. sirop d'érable. vinaigre balsamique. vin shaoxing
+
+---
+
+# Salade de concombre inspirée par Xi'an Impression
+
+## Commentaire
+
+Les restaurants londoniens Xi'an Impression et Master Wei sont spécialisés dans la cuisine Xi'an, la capitale de la province du Shaanxi, en Chine. Ces établissements sont très populaires auprès des chefs Ottolenghi pour la richesse des saveurs qu'ils proposent, avec une utilisation très libérale des piments, du vinaigre, de la sauce soja et de l'huile. Une salade de concombre apparaît toujours en premier sur la table et c'est d'elle que nous nous sommes inspirés pour cette recette.
+
+La vinaigrette peut être préparée 1 semaine à l'avance et conservée au réfrigérateur — il faudra la mélanger de nouveau, en ajoutant au besoin un peu d'eau.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En accompagnement*
+
+- 2-3 concombres, coupés en deux dans la longueur, le cœur retiré, la chair détaillée en morceaux de 2 cm (700 g)
+- 2 gousses d'ail, écrasées
+- 2 cuil. à café de vinaigre de riz
+- 3 cuil. à soupe de jus de citron vert
+- 3 cuil. à soupe d'huile de tournesol
+- 2 oignons verts, en fines tranches biseautées
+- ½ cuil. à soupe de graines de sésame noir, légèrement grillées
+- Sel de Maldon
+
+### Vinaigrette au tahini et à la sauce soja
+
+- 60 g de tahini
+- 2 cuil. à soupe de sauce soja
+- 1 ½ cuil. à soupe de mirin (ou de sirop d'érable)
+- 1 ½ cuil. à soupe de vinaigre de riz
+
+---
+
+## Déroulé de la recette
+
+1. Mettez le concombre dans un bol avec l'ail, le vinaigre, le jus de citron vert et 3 cuil. à café de sel de Maldon. Mélangez bien en pressant légèrement les morceaux de concombre avec vos mains. Faites chauffer l'huile environ 2 min dans une petite casserole, puis versez-la sur les morceaux de concombre. Laissez mariner 30 min (voire jusqu'à 2 h).
+
+2. Fouettez tous les ingrédients de la vinaigrette avec 2 cuil. à soupe d'eau pour obtenir une texture très onctueuse (elle sera d'abord très consistante, avant de s'assouplir et de devenir lisse).
+
+3. Versez la vinaigrette dans un plat de service creux pour qu'elle forme naturellement un disque. Égouttez bien les concombres et disposez-les sur la sauce. Terminez avec les oignons verts et les graines de sésame. Servez aussitôt.
+
+## Noms ingrédients
+
+ail. concombre. graines de sésame. huile de tournesol. jus de citron vert. mirin. oignons verts. sauce soja. sel de maldon. tahini. vinaigre de riz
+
+---
+
+# Patates douces à la sauce tomate, citron vert et cardamome
+
+## Commentaire
+
+Ce plat a eu plusieurs vies. Il a commencé comme un kefta de maquereau dans une sauce à base de tomate, de citron vert et de cardamome dont nous sommes tombés amoureux. Il s'est ensuite transformé en boulettes végétaliennes servies dans la même sauce. Finalement, nous avons convenu que la patate douce grillée était la meilleure solution. Le mariage est très réussi, mais la sauce sera tout aussi délicieuse avec des pois chiches, du tofu, du poisson ou du poulet. Servez du riz ou du couscous à côté.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En plat principal*
+
+- 4-5 grosses patates douces, avec la peau, coupées en tranches de 2,5 cm d'épaisseur (1 kg)
+- 2 cuil. à soupe d'huile d'olive
+- 1 ½ cuil. à soupe de sirop d'érable
+- ½ cuil. à café de cardamome moulue
+- ½ cuil. à café de cumin moulu
+- Sel et poivre noir
+
+### Sauce tomate, citron vert et cardamome
+
+- 7,5 cl d'huile d'olive
+- 6 gousses d'ail, finement hachées (pas écrasées)
+- 2 piments verts, finement hachés (épépinés si vous n'aimez pas le feu)
+- 2 petites échalotes banane, finement hachées (100 g)
+- 400 g de tomates en conserve, mixées en coulis lisse
+- 1 cuil. à soupe de concentré de tomates
+- 1 ½ cuil. à café de sucre semoule
+- 1 ½ cuil. à café de cardamome moulue
+- 1 cuil. à café de cumin moulu
+- 2 citrons verts bio : 1 cuil. à café de zeste finement râpé ; 1 cuil. à soupe de jus ; le reste en quartiers, pour servir
+- 2 cuil. à café d'aneth, finement haché, pour servir
+
+---
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 240 °C (th. 8) en mode chaleur tournante.
+
+2. Dans un grand bol, mélangez les tranches de patate douce avec l'huile, le sirop d'érable, la cardamome, le cumin, ½ cuil. à café de sel et un bon tour de moulin à poivre. Étalez-les sur une grande plaque tapissée de papier sulfurisé, couvrez de papier d'aluminium et enfournez pour 25 min. Retirez le papier d'aluminium et poursuivez la cuisson pendant 10-12 min, jusqu'à ce que la patate douce soit cuite à point et que la base soit très brunie.
+
+3. Pendant la cuisson de la patate douce, préparez la sauce. Mélangez dans une sauteuse l'huile, l'ail, le piment et une pincée de sel, puis faites revenir à feu moyen ce mélange pendant 8-10 min, en remuant de temps en temps, jusqu'à ce que l'ail soit tendre et parfumé. Transférez dans un petit bol la moitié de cette huile aromatique et laissez le reste dans la poêle. Ajoutez les échalotes que vous laissez revenir 5 min à feu moyen, en remuant souvent, jusqu'à ce qu'elles soient tendres et translucides. Incorporez les tomates, le concentré de tomates, le sucre, la cardamome, le cumin, le zeste de citron vert et 1 cuil. à café de sel. Laissez cuire encore 5 min en remuant plusieurs fois. Versez 25 cl d'eau, portez à petite ébullition, puis laissez frémir 5 min.
+
+4. Déposez les patates douces, face brunie vers le haut, dans la sauteuse. Baissez à feu doux, couvrez et poursuivez la cuisson pendant 10 min.
+
+5. Mélangez l'aneth et le jus de citron vert avec l'huile aromatique réservée, puis arrosez les patates douces de cet assaisonnement. Servez dans la poêle, avec les quartiers de citron vert.
+
+## Noms ingrédients
+
+ail. aneth. cardamome. citron vert. concentré de tomates. cumin. échalotes. huile d'olive. patates douces. piments verts. sirop d'érable. sucre. tomates
+
+---
+
+# Galette de butternut, orange et sauge
+
+## Commentaire
+
+Hyperfluide, riche en beurre et croustillante grâce à la polenta, la pâte tient la vedette ici. Doublez les quantités et conservez le surplus au congélateur ; vous pourrez l'utiliser pour toutes sortes de préparations salées.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 1 petite courge butternut, avec la peau, graines enlevées, en demi-lunes de 1 cm d'épaisseur (680 g)
+- 2 carottes, pelées, en rondelles de 1 cm (180 g)
+- 2 cuil. à soupe d'huile d'olive + un peu pour l'ail et l'échalote
+- 2 cuil. à soupe de feuilles de sauge, finement hachées + 3 feuilles entières
+- 2 cuil. à café de graines de cumin, grillées et grossièrement écrasées
+- 1 tête d'ail, sans le sommet pour exposer les gousses
+- 1 grosse échalote banane, avec la peau, mais sans les extrémités (160 g)
+- 2-3 oranges : 1 ½ cuil. à café de zeste finement râpé ; 16 cl de jus
+- 5 cl de sirop d'érable
+- 125 g de mascarpone
+- 1 petit œuf, battu
+- Sel de Maldon et poivre noir
+
+### Pâte
+
+- 100 g de farine ordinaire + un peu pour la pâte
+- 30 g de farine complète
+- 20 g de polenta à cuisson rapide
+- 1 ½ cuil. à café de sucre semoule
+- ½ cuil. à café de sel de Maldon
+- 1 cuil. à soupe de feuilles de sauge, finement hachées (6 feuilles)
+- ½ cuil. à café de poivre noir fraîchement moulu
+- 2 cl d'huile d'olive
+- 80 g de beurre doux bien froid, coupé en cubes de 1,5 cm
+- 6 cl d'eau glacée
+
+---
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 220 °C (th. 7-8) en mode chaleur tournante. Pour la pâte, mélangez les 8 premiers ingrédients dans un saladier. Incorporez le beurre en l'écrasant légèrement entre vos doigts, sans trop le travailler : il doit rester des morceaux. Versez l'eau et rassemblez la pâte avec les mains — elle sera assez collante. Posez-la sur un plan de travail bien fariné et abaissez-la en un rectangle de 28 x 18 cm. Rabattez les grands côtés pour qu'ils se rejoignent au centre et roulez une fois. Rabattez de la même manière les petits côtés, roulez une fois avant de plier l'ensemble en deux pour obtenir un carré. À la main, formez un disque de 14 cm de diamètre, enveloppez-le dans du film alimentaire et mettez-le au réfrigérateur pour 30 min.
+
+2. Pendant ce temps, mélangez les carottes et la courge avec l'huile, 1 cuil. à soupe de sauge hachée, les graines de cumin, 1 cuil. à café de sel de Maldon et beaucoup de poivre. Étalez-les sur deux plaques tapissées de papier sulfurisé. Arrosez la tête d'ail et l'échalote avec un peu d'huile, enveloppez-les chacune dans du papier d'aluminium et placez-les sur une des plaques. Enfournez pour 25 min, jusqu'à ce que les carottes et la courge soient dorées. Sortez ces dernières du four et laissez rôtir l'ail et l'échalote 15 min de plus, puis réservez. Quand ils ne sont plus trop chauds, pressez l'ail et l'échalote pour extraire leur chair que vous hachez finement. Réduisez la température du four à 200 °C (th. 6-7).
+
+3. Posez la pâte sur un plan de travail bien fariné et abaissez-la en un disque de 30 cm, en saupoudrant plusieurs fois de farine le rouleau. Transférez délicatement la pâte sur une plaque tapissée de papier sulfurisé et remettez-la au réfrigérateur pour 30 min.
+
+4. Versez le jus d'orange et le sirop d'érable dans une petite casserole et faites chauffer 10 min à feu moyen, pour obtenir la consistance d'un sirop épais.
+
+5. Mélangez dans un bol le mascarpone avec le hachis d'ail et d'échalote, le zeste d'orange et le reste de sauge hachée. Ajoutez une pincée de sel, poivrez généreusement.
+
+6. Sortez la pâte du réfrigérateur pour y étaler le mélange au mascarpone jusqu'à 4 cm du bord. Ajoutez la courge et les carottes, puis nappez de caramel à l'orange. Rabattez les bords de la pâte sur le caramel avant de les dorer à l'œuf. Enfournez pour 30 min, jusqu'à ce que la pâte soit dorée. Laissez refroidir 20 min, parsemez le reste des feuilles de sauge sur la galette et servez.
+
+## Noms ingrédients
+
+ail. beurre. carottes. courge butternut. échalotes. farine. graines de cumin. huile d'olive. mascarpone. œuf. orange. polenta. sauge. sirop d'érable
+
+---
+
+# Caponata fusion au tofu soyeux
+
+## Commentaire
+
+L'expression « cuisine fusion » n'est pas toujours bien accueillie. Pourtant, les idées voyagent à travers le monde très rapidement, et beaucoup de chefs ou de cuisiniers amateurs semblent très heureux de tester différents mélanges. Dans cette recette, la *caponata* (un plat sicilien d'aubergines aigres-douces) rencontre le *mapo tofu* (un plat du Sichuan épicé et aromatique) dans une union tellement décalée qu'elle en devient juste.
+
+Il peut faire une entrée raffinée, ou un plat principal si vous le servez avec du riz gluant et des légumes verts sautés. La caponata se garde 1 semaine au réfrigérateur dans un récipient fermé et son goût se bonifie au fil du temps.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes en plat principal (pour 6 personnes en entrée)*
+
+- 2 aubergines moyennes, coupées en morceaux de 1,5 cm (550 g)
+- 12 cl d'huile de tournesol
+- 1 tige de céleri, en tranches de 5 mm (35 g)
+- 20 g de pignons, bien grillés
+- 80 g de tomates cerise bien mûres, grossièrement hachées
+- 20 g de gingembre frais, pelé et coupé en julienne
+- 5 à 6 oignons verts, finement coupés (60 g)
+- 1 ½ cuil. à soupe de graines de sésame noir et blanc, grillées
+- 40 g de raisins secs
+- 6 cl de sauce soja
+- 10 cl de vin de riz de Shaoxing (ou de xérès sec fino)
+- 3 ½ cuil. à soupe de vinaigre de riz
+- 2 ½ cuil. à soupe de sirop d'érable
+- 3 gros piments rouges doux : 2 entiers et 1 épépiné et finement tranché, pour servir
+- 2 x 300 g de tofu soyeux, chaque bloc découpé en 8 tranches de 1,5 cm d'épaisseur (600 g)
+- Sel et sel de Maldon
+
+---
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 210 °C (th. 7) en mode chaleur tournante.
+
+2. Mélangez les aubergines avec 7,5 cl d'huile de tournesol et ⅓ cuil. à café de sel, puis étalez-les sur une grande plaque de cuisson (40 x 30 cm) tapissée de papier sulfurisé. Enfournez pour 15 min, remuez, puis ajoutez le céleri et laissez cuire encore 15 min, jusqu'à ce que les aubergines soient brun foncé. Laissez refroidir, puis transférez dans un grand saladier avec les pignons, les tomates et les trois quarts du gingembre, des oignons verts et des graines de sésame.
+
+3. Mélangez dans une petite casserole les raisins secs, la sauce soja, le vin de riz, le vinaigre et le sirop d'érable, puis faites chauffer à feu moyen-vif jusqu'à ce que la préparation bouillonne. Laissez tiédir 10 min, puis versez sur les aubergines.
+
+4. Faites chauffer une petite poêle à feu vif pour y faire revenir les piments entiers pendant 9 min, en les retournant plusieurs fois, jusqu'à ce qu'ils soient carbonisés de tous les côtés. Laissez-les refroidir 5 min, puis hachez-les grossièrement (en retirant les pépins si vous préférez une saveur pas trop brûlante). Ajoutez-les dans le saladier d'aubergines.
+
+5. Portez à ébullition les 3 cuil. à soupe d'huile restantes, avant d'en arroser les aubergines. Incorporez 1 cuil. à soupe d'eau, puis laissez mariner au moins 2 h (voire une nuit complète).
+
+6. Répartissez les tranches de tofu soyeux dans 4 bols peu profonds (6 bols pour une entrée), et saupoudrez généreusement de sel de Maldon. Déposez la caponata à côté du tofu, puis arrosez le tout avec 1 cuil. à soupe du liquide de la préparation. Garnissez avec le reste du gingembre, des oignons verts et des graines de sésame, ajoutez le piment haché et servez à température ambiante.
+
+## Noms ingrédients
+
+aubergines. céleri. gingembre. graines de sésame. huile de tournesol. oignons verts. pignons. piments rouges. raisins secs. sauce soja. sirop d'érable. tomates cerises. tofu. vinaigre de riz. vin shaoxing
+
+
+---
+
+# Purée de courge, par Esme
+
+## Commentaire
+
+Esme Howarth est une amie, une ancienne collègue et une cheffe talentueuse. Elle a le don de créer des plats uniques pleins de saveurs et qui ne demandent pas beaucoup d'efforts. Cette purée est incroyablement facile et délicieuse. Elle peut constituer un plat d'accompagnement chaud ou être servie en dip, à température ambiante, avec beaucoup de pain et d'huile d'olive. D'autres variétés de courge, comme la kabocha ou la bleue de Hongrie, peuvent aussi convenir ici.
+
+Pour prendre de l'avance, la purée peut être préparée la veille et réchauffée doucement, ou servie à température ambiante.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En accompagnement (ou en dip chaud pour 6 personnes)*
+
+- 2 petites courges butternut, pelées et coupées en morceaux de 3-4 cm (1,2 kg)
+- 5 cl d'huile d'olive + 2 cuil. à soupe pour servir
+- 1 ½ cuil. à soupe de sirop d'érable
+- 2 cuil. à soupe de pâte de miso blanche
+- 2 piments jalapeño, coupés en deux dans la longueur
+- ½ cuil. à café de cannelle moulue
+- ½ cuil. à café de cumin moulu
+- 4 gousses d'ail, pelées et écrasées avec la lame d'un couteau
+- 2 citrons verts bio : 1 ½ cuil. à café de zeste finement râpé ; le reste coupé en quartiers, pour servir
+- 1 oignon vert, coupé en lanières fines de 4 cm de long
+- Sel
+
+---
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 220 °C (th. 7-8) en mode chaleur tournante.
+
+2. Mettez dans un plat de cuisson à bords hauts les 8 premiers ingrédients, 2 cuil. à soupe d'eau et ½ cuil. à café de sel. Mélangez bien, couvrez d'une feuille de papier d'aluminium, puis enfournez pour 40 min, jusqu'à ce que le mélange commence à ramollir. Retirez le papier d'aluminium et laissez cuire encore 35-40 min, jusqu'à ce que le dessus soit très tendre et bien coloré. Retirez les piments, coupez-les en fines tranches et réservez-les.
+
+3. Écrasez grossièrement la courge à la fourchette ou au presse-purée, puis arrosez avec le reste d'huile et pressez la moitié des quartiers de citron dessus. Terminez avec le zeste de citron vert, les oignons verts et les tranches de piments réservées. Servez avec les quartiers de citron vert restants.
+
+## Noms ingrédients
+
+ail. cannelle. citron vert. courge butternut. cumin. huile d'olive. miso blanc. oignons verts. piments jalapeño. sirop d'érable
+
+---
+
+# Couscous perlé et courge, sauce tomate à l'anis étoilé
+
+## Commentaire
+
+La courge bleue de Hongrie a une saveur douce et beurrée. Sa peau coriace est difficile à couper lorsqu'elle est crue. Il vous faudra donc un grand couteau et un bras costaud, mais vous pouvez aussi choisir une autre variété, comme la butternut.
+
+Avec un peu de chance, vous devriez obtenir une couche de couscous croustillant et caramélisé au fond de la casserole. Ce n'est pas systématique, mais le résultat n'en reste pas moins délicieux.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En plat principal*
+
+- ½ courge bleue de Hongrie (750 g), avec la peau, coupée en tranches de 2 cm, puis en deux dans la hauteur si la courge est très grosse (on peut aussi utiliser une butternut)
+- 3 cuil. à café de cannelle moulue
+- 8 gousses d'ail, écrasées
+- 10,5 cl d'huile d'olive
+- 2 gros oignons (360 g) : 1 coupé en tranches de 1 cm d'épaisseur, l'autre finement haché
+- 2 ½ cuil. à café de sucre en poudre
+- 4 étoiles d'anis (badiane)
+- ½ cuil. à café de flocons de piment
+- 750 g de tomates allongées (6-7), pelées et hachées grossièrement (600 g)
+- 1 cuil. à soupe de concentré de tomates
+- 250 g de couscous perlé
+- 250 g de jeunes pousses d'épinards
+- 15 g de coriandre, grossièrement hachée
+- Sel et poivre noir
+
+---
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 230 °C (th. 7-8) en mode chaleur tournante. Mélangez les morceaux de courge avec 1 cuil. à café de cannelle, un quart de l'ail, 2 cuil. à soupe d'huile, ¾ cuil. à café de sel et un bon tour de moulin à poivre. Étalez-les sur une plaque de cuisson tapissée de papier sulfurisé et enfournez pour 30 min, jusqu'à ce qu'elles soient cuites et bien dorées.
+
+2. Placez les tranches d'oignon (intactes) sur une autre plaque tapissée de papier sulfurisé et arrosez-les avec 1 ½ cuil. à café d'huile. Saupoudrez de sucre (½ cuil. à café), salez et poivrez. Enfournez pour 18 min, en retournant les tranches à mi-cuisson, jusqu'à ce qu'elles soient fondantes et bien grillées. Retirez-les du four et réservez au chaud.
+
+3. Pendant que les légumes rôtissent, préparez la sauce. Faites chauffer à feu moyen-vif 3 cuil. à soupe d'huile dans une sauteuse, ajoutez les oignons hachés et l'anis étoilé, puis laissez revenir 8 min en remuant de temps en temps, jusqu'à ce que les oignons soient tendres et dorés. Ajoutez le reste d'ail et de cannelle moulue (2 cuil. à café), prolongez la cuisson de 30 s pour que le mélange embaume. Incorporez le piment, les tomates, le concentré, le reste du sucre (2 cuil. à café), 1 ½ cuil. à café de sel et un bon tour de moulin à poivre. Laissez épaissir pendant 8 min, en remuant souvent, puis versez 50 cl d'eau et portez à ébullition. Réduisez à feu moyen et laissez mijoter 30 min, jusqu'à ce que la sauce soit épaisse et riche. Prélevez 40 cl de sauce (en laissant l'anis dans la sauteuse) que vous réservez au chaud dans une casserole.
+
+4. Ajoutez le couscous dans la sauteuse et mélangez bien. Versez 37,5 cl d'eau, ajoutez ¼ cuil. à café de sel et portez à ébullition à feu vif. Couvrez, baissez à feu moyen et laissez cuire 30 min, jusqu'à ce que tout le liquide soit absorbé (les bords du couscous devraient être croustillants).
+
+5. Faites chauffer 1 cuil. à soupe d'huile dans une grande poêle à feu moyen-vif, ajoutez les épinards, une pincée de sel et du poivre. Faites cuire 2 min environ pour que les épinards soient juste flétris. Ajoutez la coriandre et réservez.
+
+6. Déposez sur le couscous, en couches successives, la sauce réservée, la courge et les épinards. Terminez avec les tranches d'oignons. Arrosez avec l'huile d'olive restante et servez chaud.
+
+## Noms ingrédients
+
+ail. anis étoilé. cannelle. concentré de tomates. coriandre. couscous perlé. courge. épinards. huile d'olive. oignons. piment. sucre. tomates
+
+---
+
+# Orecchiette puttanesca façon one-pot
+
+## Commentaire
+
+Voici une version sucrée des pâtes *alla puttanesca* — une recette napolitaine — sans les anchois, avec des pois chiches et des épices. Une recette rapide et très pratique à préparer, puisque les pâtes cuisent dans la sauce. Testez cette technique et vous renoncerez sans doute à faire cuire les pâtes à part !
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En plat principal*
+
+- 5 cl d'huile d'olive + 2 cuil. à soupe pour servir
+- 6 gousses d'ail, écrasées
+- 400 g de pois chiches en conserve, bien égouttés et séchés (240 g)
+- 2 cuil. à café de paprika fumé fort
+- 2 cuil. à café de cumin moulu
+- ¾ cuil. à soupe de concentré de tomates
+- 40 g de persil, haché grossièrement
+- 2 cuil. à café de zeste de citron bio
+- 3 cuil. à soupe de petites câpres
+- 125 g d'olives Nocellara (ou d'autres olives vertes), dénoyautées et coupées en deux (80 g)
+- 250 g de petites tomates cerise douces
+- 2 cuil. à café de sucre en poudre
+- ½ cuil. à soupe de graines de carvi, légèrement grillées et écrasées
+- 250 g d'orecchiette sèches
+- 50 cl de bouillon de légumes ou de volaille
+- Sel et poivre noir
+
+---
+
+## Déroulé de la recette
+
+1. Mettez dans une grande sauteuse les 6 premiers ingrédients et ½ cuil. à café de sel, puis faites revenir le mélange à feu moyen-vif pendant 12 min, en remuant de temps en temps, jusqu'à ce que les pois chiches soient légèrement croquants — s'ils brunissent trop vite, baissez le feu. Retirez un tiers des pois chiches et réservez-les pour la garniture.
+
+2. Dans un petit bol, mélangez le persil, le zeste de citron, les câpres et les olives. Ajoutez les deux tiers de ce mélange dans la sauteuse, ainsi que les tomates cerise, le sucre et les graines de carvi. Laissez cuire 2 min, en remuant souvent, avant d'incorporer les pâtes, le bouillon, ¾ cuil. à café de sel et 20 cl d'eau. Portez à petit frémissement, puis baissez à feu moyen, couvrez, laissez mijoter 12-14 min, jusqu'à ce que les pâtes soient *al dente*.
+
+3. Incorporez le reste du mélange au persil, arrosez avec l'huile restante (2 cuil. à soupe), puis garnissez les pâtes avec les pois chiches frits et poivrez généreusement.
+
+## Noms ingrédients
+
+ail. bouillon de légumes. câpres. citron. concentré de tomates. cumin. graines de carvi. huile d'olive. olives vertes. orecchiette. paprika fumé. persil. pois chiches. sucre. tomates cerises
+
+---
+
+# Poivrons grillés, polenta de maïs et jaunes d'œufs confits en sauce soja
+
+## Commentaire
+
+L'ajout de jaunes d'œufs infusés dans la sauce soja ajoute de l'onctuosité, de la complexité et une touche d'umami à la polenta. C'est une technique astucieuse et d'une simplicité enfantine à ajouter à votre répertoire. Vous pouvez l'employer pour toutes les recettes à base de céréales (pâtes ou riz), mais aussi pour les soupes épaisses. Choisissez des œufs de bonne qualité, bio de préférence, car ils sont consommés crus.
+
+Vous pouvez préparer les poivrons 3 jours à l'avance. La préparation de la polenta étant très rapide, il vaut mieux la confectionner au dernier moment.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En plat principal*
+
+- 7 cl de sauce soja
+- 4 œufs de bonne qualité
+- 12 petits poivrons romano rouges, orange et jaunes mélangés, avec les pédoncules (1,1 kg)
+- 1 bulbe d'ail entier, le haut coupé pour exposer les gousses + 2 gousses avec la peau, écrasées avec la lame d'un couteau
+- 1 cuil. à soupe de sirop d'érable
+- 1 cuil. à café de vinaigre de cidre
+- 10 g de brins de thym
+- 1 citron bio : ½ cuil. à café de zeste finement râpé ; le reste du zeste détaillé en 5 fines lanières
+- 6 cl d'huile d'olive + un peu pour servir
+- 5 g de basilic
+- Sel et poivre noir
+
+### Polenta
+
+- 4-6 petits épis de maïs frais, grains rasés (500 g), ou 500 g de grains de maïs surgelés (décongelés)
+- 40 g de beurre doux
+- 180 g de yaourt à la grecque
+- 40 g de parmesan, finement râpé + un peu pour servir
+- 100 g de polenta précuite
+
+---
+
+## Déroulé de la recette
+
+1. Mettez la sauce soja dans un bol moyen. Cassez les œufs pour séparer les blancs des jaunes ; déposez délicatement les jaunes dans la sauce soja ; réservez les blancs pour une autre recette. Laissez les jaunes se raffermir pendant 1-2 h, en les retournant très délicatement une fois avec une cuillère. Ne les laissez pas plus longtemps, car ils doivent rester moelleux.
+
+2. Préchauffez le four à 220 °C (th. 7-8) en mode chaleur tournante.
+
+3. Placez les poivrons sur une grande plaque tapissée de papier sulfurisé en les étalant bien. Salez et poivrez la tête d'ail avant de l'envelopper dans du papier d'aluminium et de la placer sur la plaque. Enfournez pour 30 min, en retournant délicatement les poivrons au bout de 20 min, jusqu'à ce que les poivrons soient bien cuits et noircis par endroits. Mettez-les dans un saladier avec l'ail cru écrasé, le sirop d'érable, le vinaigre, le thym, les lanières de zeste de citron, l'huile, ¼ cuil. à café de sel et un bon tour de moulin à poivre. Laissez tiédir la tête d'ail, puis retirez le papier d'aluminium et pressez sur les gousses pour les faire tomber dans le saladier. Mélangez délicatement, puis couvrez-les d'une grande assiette et laissez-les mariner au moins 1 h, ou toute une nuit.
+
+4. Pour la polenta, mettez le maïs dans un robot et faites une pâte humide. Transférez-la dans une grande sauteuse avec le beurre, le yaourt, le parmesan, 1 ¾ cuil. à café de sel et 60 cl d'eau. Faire cuire 7 min à feu moyen, puis réduisez le feu au minimum et incorporez en pluie la polenta précuite, en remuant sans cesse pendant 5 min pour éviter les grumeaux.
+
+5. Répartissez la polenta dans 4 bols, ajoutez 3 poivrons par bol et arrosez de marinade (sans les aromates). Retirez les jaunes d'œufs de la sauce soja, délicatement et un à un, pour les placer sur la polenta, à côté des poivrons. Terminez par un filet d'huile, le basilic, le zeste de citron, une pincée de sel, du poivre et un peu de parmesan râpé.
+
+## Noms ingrédients
+
+ail. basilic. beurre. citron. huile d'olive. maïs. œufs. parmesan. poivrons. polenta. sauce soja. sirop d'érable. thym. vinaigre de cidre. yaourt grec
+
+---
+
+# Omelettes fines au lait de coco et curcuma
+
+## Commentaire
+
+Ces omelettes sont beaucoup plus fines que la moyenne et rappellent plutôt des crêpes, mais sans farine. Elles se dégustent comme les *bánh xèo* (crêpes vietnamiennes), en les farcissant d'herbes avant de les tremper dans une sauce. Une manière de manger un peu salissante, mais cela fait partie du plaisir.
+
+Choisissez un lait de coco avec une teneur élevée en extrait de noix de coco (70 % au moins). Pour prendre de l'avance, vous pouvez préparer la pâte la veille. Les omelettes peuvent être cuites 2 h avant d'être servies.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 8 omelettes — Pour 2 à 4 personnes*
+
+### Omelettes
+
+- 9 cl d'huile de tournesol
+- 3 gousses d'ail, écrasées
+- 2 piments verts, finement hachés (épépinés si vous n'aimez pas le feu)
+- 3 échalotes banane, finement hachées
+- 5 g de gingembre frais, pelé et finement haché
+- ¾ cuil. à café de curcuma moulu
+- 1 citron vert bio : 1 cuil. à café de zeste finement râpé ; coupez le reste en quartiers, pour servir
+- 6 œufs
+- 1 x 40 cl de lait de coco (70 % d'extrait de noix de coco)
+- Sel
+
+### Dip au pamplemousse
+
+- 12 cl de jus de pamplemousse, avec la pulpe (1-2 fruits)
+- 2 cuil. à soupe de vinaigre de riz
+- 2 cuil. à soupe de mirin
+- 1 cuil. à soupe de jus de citron vert
+- 2 piments rouges, finement hachés (épépinés si vous n'aimez pas le feu)
+
+### Salade
+
+- 3 oignons verts, en julienne (50 g)
+- 15 g de feuilles de menthe
+- 15 g de feuilles de coriandre
+- 70 g de germes de haricots
+- 70 g de radis rose et blanc ou arc-en-ciel, en fines tranches
+
+---
+
+## Déroulé de la recette
+
+1. Pour les omelettes, faites chauffer à feu moyen-vif 2 cuil. à soupe d'huile dans une grande poêle antiadhésive. Ajoutez l'ail, les piments, les échalotes, le gingembre et ½ cuil. à café de sel. Laissez cuire doucement 8-10 min, en remuant souvent, jusqu'à ce que le mélange soit coloré et fondant. Laissez refroidir 5 min.
+
+2. Dans un grand récipient, mélangez le curcuma, le zeste de citron vert, les œufs, le lait de coco et ½ cuil. à café de sel, puis fouettez le tout pour obtenir une préparation lisse et homogène. Incorporez le mélange aux échalotes. Transférez dans un pichet gradué.
+
+3. Préparez le dip en mélangeant tous les ingrédients, puis assaisonnez avec une pincée de sel.
+
+4. Pour la salade, réunissez tous les ingrédients dans un saladier.
+
+5. Essuyez la poêle et remettez-la à chauffer. Quand elle est bien chaude, graissez-la avec 1 ½ cuil. à café d'huile. Versez 100 g de pâte à frire dedans et inclinez la poêle pour bien étaler la pâte. Laissez cuire 1 min ½, jusqu'à ce que le fond soit doré. Posez le couvercle sur la poêle et poursuivez la cuisson 20-30 s, jusqu'à ce que le dessus de l'omelette soit pris. Transférez sur une plaque tapissée de papier sulfurisé et réservez au chaud. Préparez de la même manière les autres omelettes (vous en confectionnerez 8 en tout).
+
+6. Disposez les omelettes sur un grand plat de service, face dorée vers le haut. Servez chaud, avec la salade, le dip et les quartiers de citron vert.
+
+## Noms ingrédients
+
+ail. citron vert. coriandre. curcuma. échalotes. germes de haricots. gingembre. huile de tournesol. jus de pamplemousse. lait de coco. menthe. mirin. oignons verts. œufs. piments. radis. vinaigre de riz
+
+---
+
+# Schnitzels de poivrons rouges
+
+## Commentaire
+
+En 2016, le ministre allemand de l'Agriculture a demandé qu'il soit interdit de donner aux préparations à base de légumes des noms qui pouvaient créer une confusion avec des recettes similaires à base de viande. Les nôtres ne sont pas des schnitzels végétariens, mais des schnitzels de légumes — une différence sémantique de taille. Et si vous avez des doutes sur leur conformité à la recette originale, nous sommes convaincus qu'ils seront dissipés quand vous y aurez goûté.
+
+La sauce est une adaptation de la classique Marie Rose, avec des piments et des tomates bien grillés et une tête d'ail entière. Vous pouvez doubler les quantités, car cette sauce excellente dans les sandwichs se garde 1 semaine au réfrigérateur.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En entrée*
+
+- 8 poivrons romano rouges (850 g)
+- 100 g de farine ordinaire
+- 4 œufs, battus
+- 100 g de chapelure panko
+- 60 g de graines de sésame blanc ou noir, ou un mélange des deux
+- 16 feuilles de combava fraîches, tiges jetées et finement hachées
+- 1 cuil. à soupe de nori en poudre (ou 1 feuille de nori broyée au moulin à épices dont vous prélevez 1 cuil. à soupe)
+- 60 cl d'huile de tournesol, pour la friture
+- 2 citrons verts bio : 2 cuil. à café de zeste râpé ; le reste coupé en quartiers, pour servir
+- Sel, sel de Maldon et poivre noir
+
+### Sauce Marie Rose (facultatif)
+
+- 1 tête d'ail, la partie haute coupée pour exposer les gousses
+- 180 g de tomates cerise
+- 4 gros piments rouges (75 g)
+- 1 cuil. à soupe de sirop d'érable
+- 2 cuil. à café de sauce Worcestershire
+- ½ cuil. à café de flocons de piment chipotle
+- 60 g de mayonnaise
+
+---
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 230 °C (th. 7-8) en mode chaleur tournante.
+
+2. Commencez par la sauce. Salez et poivrez le dessus de la tête d'ail, puis enveloppez-la dans du papier d'aluminium et placez-la sur une plaque de cuisson tapissée de papier sulfurisé, avec les tomates et les piments. Enfournez pour 30 min, jusqu'à ce que les légumes commencent à noircir, avec des cloques sur la peau. Sortez la plaque du four. Quand la tête d'ail a un peu refroidi, pressez dessus pour extraire les gousses que vous placez dans un robot (jetez les peaux). Ajoutez dans le bol du robot les piments, les tomates cerise, le sirop d'érable, la sauce Worcestershire, les flocons de piment chipotle et ¼ cuil. à café de sel. Mixez en pâte grossière. Laissez refroidir complètement, puis incorporez la mayonnaise. Réservez au réfrigérateur jusqu'au moment de servir.
+
+3. Faites une entaille verticale de 5 cm à la base de chaque poivron, puis placez-les sur une grande plaque tapissée de papier sulfurisé. Enfournez pour 16 minutes, en retournant les poivrons à mi-cuisson, jusqu'à ce qu'ils soient bien cuits et commencent à noircir. Transférez-les dans une passoire, partie coupée vers le bas pour que le liquide s'écoule, en prenant soin de garder les pédoncules intacts. Quand ils ont suffisamment refroidi pour être manipulés, retirez le plus possible de peau sans percer la chair, puis saupoudrez chaque poivron d'une bonne pincée de sel. Réservez.
+
+4. Préparez 3 récipients peu profonds et assez longs pour recevoir les poivrons. Dans le premier, mélangez la farine avec 1 cuil. à café de sel de Maldon et beaucoup de poivre. Mettez les œufs battus dans le deuxième récipient. Dans le dernier, mélangez le panko, les graines de sésame, les feuilles de combava, le nori, 2 cuil. à café de sel de Maldon et une généreuse mouture de poivre.
+
+5. Placez une grande grille métallique sur une plaque de cuisson. Tapissez un plat de papier absorbant. Passez un à un les poivrons dans la farine, puis dans l'œuf et enfin dans le mélange au panko, en les secouant à chaque fois pour éliminer l'excédent, puis déposez-les sur la grille.
+
+6. Versez les 60 cl d'huile de tournesol dans une grande sauteuse ou dans un wok et faites-la chauffer à feu moyen-vif (jusqu'à 180 °C, si vous avez un thermomètre de cuisine). Faites frire les poivrons deux par deux pour ne pas surcharger la sauteuse, en les faisant glisser délicatement dans l'huile, et laissez-les cuire 1 ½ à 2 min de chaque côté, jusqu'à ce qu'ils soient dorés et croustillants. Transférez-les ensuite sur le plat tapissé de papier absorbant.
+
+7. Servez les poivrons sans attendre, parsemés de zeste de citron vert et d'un peu de sel de Maldon. Proposez les quartiers de citron vert et la sauce Marie Rose à part.
+
+## Noms ingrédients
+
+ail. chapelure panko. citron vert. farine. feuilles de combava. graines de sésame. huile de tournesol. mayonnaise. nori. œufs. piments rouges. poivrons rouges. sauce worcestershire. sirop d'érable. tomates cerises
+
+---
+
+# Pâtes mafalda et butternut rôtie, sauce chaude au yaourt
+
+## Commentaire
+
+Contrairement à la crème fraîche, le yaourt est naturellement acide et donne des sauces riches, mais ni lourdes ni trop onctueuses. Ces sauces sont très courantes dans la cuisine du Moyen-Orient, mais plus rares ailleurs. À la chaleur, le yaourt a tendance à « tourner » ; c'est pourquoi on ajoute souvent des jaunes d'œufs et de la farine, comme dans cette recette. Une cuisson lente donne un résultat plus lisse, donc ne cherchez pas à gagner du temps en montant le feu.
+
+La sauce au piment est un condiment à avoir sous la main. Vous pouvez doubler les quantités, car cette sauce se garde 2 semaines au frais.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 2 personnes — En plat principal*
+
+- 1 courge butternut (1 kg), épluchée, égrainée et coupée en cubes de 2,5 cm (850 g)
+- 1 oignon, pelé et coupé en 5 quartiers (150 g)
+- 9 cl d'huile d'olive
+- 6 gousses d'ail, en tranches fines
+- 200 g de pâtes courtes mafalda (ou autres ; ajustez le temps de cuisson au besoin)
+- 500 g de yaourt à la grecque, à température ambiante
+- 1 ¾ cuil. à café de cumin moulu
+- 2 jaunes d'œufs
+- 1 ½ cuil. à café de fécule de maïs
+- 5 g de feuilles de persil, grossièrement hachées + quelques feuilles pour la garniture
+- Sel et poivre noir
+
+### Sauce express aux piments
+
+- 1 tomate allongée, grossièrement hachée (90 g)
+- 3 piments rouges, épépinés et hachés grossièrement (45 g)
+- 1 ½ cuil. à soupe de vinaigre de cidre
+- 2 cuil. à soupe d'huile d'olive
+
+---
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 230 °C (th. 7-8) en mode chaleur tournante.
+
+2. Mettez dans un récipient la courge, l'oignon, 3 cuil. à soupe d'huile, ¾ cuil. à café de sel et une généreuse quantité de poivre fraîchement moulu. Mélangez bien, puis déposez le tout sur une plaque de cuisson tapissée de papier sulfurisé. Enfournez pour 30 min, en remuant une ou deux fois, jusqu'à ce la courge soit fondante et bien grillée. Réservez au chaud.
+
+3. Pendant la cuisson de la courge, faites chauffer 2 cuil. à soupe d'huile dans une petite poêle à feu moyen pour y faire cuire doucement l'ail pendant 12 min, en remuant de temps en temps, jusqu'à ce que les tranches soient bien dorées et croustillantes. Sortez-les avec une petite écumoire et déposez-les sur une assiette tapissée de papier absorbant. Réservez l'huile.
+
+4. Pour la sauce aux piments, mélangez dans un robot la tomate, les piments et ¼ cuil. à café de sel, puis mixez pour obtenir un hachis fin, en raclant les parois du bol. Ajoutez le vinaigre et 2 cuil. à soupe d'huile d'olive. Mixez encore quelques secondes. Transférez dans un bol et réservez.
+
+5. Faites cuire les pâtes environ 7 min dans un grand volume d'eau bouillante salée, pour qu'elles soient presque *al dente*. Égouttez-les en réservant 20 cl de liquide de cuisson.
+
+6. Mélangez dans le bol d'un robot le yaourt, l'huile restante (1 cuil. à soupe), le cumin, les jaunes d'œufs, la fécule de maïs et ⅓ cuil. à café de sel. Mixez pendant 1 min pour obtenir une préparation lisse que vous versez dans une sauteuse et que vous faites épaissir 15 min à feu moyen, en remuant sans cesse, jusqu'à ce qu'il atteigne presque le point d'ébullition. Ajoutez les pâtes, l'eau de cuisson, le persil et la moitié de la courge. Réchauffez le tout pendant 4 min. Transférez dans un plat de service et garnissez avec le reste de la courge. Arrosez d'un tiers de sauce au piment et servez le reste à part. Garnissez d'ail frit, de feuilles de persil et d'huile aromatique.
+
+## Noms ingrédients
+
+ail. courge butternut. cumin. fécule de maïs. huile d'olive. jaunes d'œufs. oignons. pâtes mafalda. persil. piments rouges. tomates. vinaigre de cidre. yaourt grec
+
+---
+
+# Aubergines farcies au curry et dhal au lait de coco
+
+## Commentaire
+
+Il faut seulement du citron et du lait pour faire un paneer maison. Une recette qui mérite d'être tentée : on a vraiment l'impression de faire une expérience de chimie et, surtout, c'est très gratifiant et le résultat a une fraîcheur inégalée. Si vous achetez le paneer — qui constitue la meilleure garniture qui soit pour ces aubergines grillées, car il absorbe la sauce à la noix de coco — essayez d'en dénicher qui présente la texture d'une ricotta dense. Pour une option végane, utilisez du tofu extra-ferme.
+
+Les aubergines et la sauce aux lentilles peuvent être préparées la veille. Le dhal à la noix de coco constitue une recette à lui tout seul. Vous pouvez doubler les quantités et le proposer avec des steaks de rutabaga en croûte de curry et un peu de riz.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En plat principal*
+
+- 3 grosses aubergines, équeutées, chacune coupée dans la longueur en 6 tranches de 5 mm d'épaisseur (750 g)
+- 3 cuil. à soupe d'huile d'olive
+- 220 g de paneer (ou de tofu extra-ferme), râpé grossièrement
+- 2 citrons verts bio : 1 cuil. à café de zeste finement râpé ; 2 cuil. à soupe de jus
+- 45 g de pickles de mangue pimentés, grossièrement hachés + un peu pour servir
+- 5 g de coriandre, hachée grossièrement + un peu pour servir
+- 100 g d'épinards (grandes feuilles), sans la tige (60 g)
+- Sel et poivre noir
+
+### Dhal à la noix de coco
+
+- 2 cuil. à soupe d'huile d'olive
+- 5 échalotes banane, pelées et finement hachées (250 g)
+- 45 g de gingembre frais, pelé et finement haché
+- 2 piments rouges, finement hachés
+- 30 feuilles de curry fraîches (vous pouvez faire sans si vous n'en trouvez pas)
+- 1 cuil. à café de graines de moutarde noire
+- 1 cuil. à café de cumin moulu
+- 1 cuil. à café de coriandre moulue
+- ½ cuil. de curcuma en poudre
+- 2 cuil. à café de curry moyen en poudre
+- 2 cuil. à café de concentré de tomates
+- 100 g de lentilles rouges séchées
+- 40 cl de lait de coco (au moins 70 % d'extrait de noix de coco)
+
+---
+
+## Déroulé de la recette
+
+1. Faites chauffer le four à 220 °C (th. 7-8) en mode chaleur tournante.
+
+2. Dans un grand récipient, mélangez les tranches d'aubergines avec 3 cuil. à soupe d'huile, ¾ cuil. à café de sel et une généreuse quantité de poivre fraîchement moulu. Étalez-les sur deux plaques de cuisson recouvertes de papier sulfurisé et enfournez pour 25 min, en les retournant à mi-cuisson, jusqu'à ce qu'elles soient tendres et légèrement dorées. Réservez.
+
+3. Pour le dhal à la noix de coco, faites chauffer à feu moyen-vif 2 cuil. à soupe d'huile dans une grande sauteuse. Faites revenir les échalotes pendant 8 min, jusqu'à ce qu'elles soient dorées. Ajoutez le gingembre, la moitié du piment et des feuilles de curry. Faites cuire 2 min, puis incorporez les épices, le concentré de tomates et les lentilles. Remuez 1 min avant d'ajouter le lait de coco, 60 cl d'eau et ¾ cuil. à café de sel. Portez à ébullition, puis passez à feu moyen et laissez mijoter 20 min, en remuant de temps en temps, jusqu'à ce que les lentilles soient tendres et que la sauce épaisse. Versez dans un plat de cuisson moyen (18 x 28 cm). Réservez.
+
+4. Dans un bol, mélangez le paneer, le zeste de citron vert, les pickles de mangue, 1 cuil. à soupe de jus de citron vert, la coriandre et une pincée de sel.
+
+5. Déposez une feuille d'épinard sur chaque tranche d'aubergine. Placez au centre 1 cuil. à café bombée de paneer aromatisé, puis roulez l'aubergine de la pointe la plus fine en haut jusqu'à l'extrémité la plus large en bas, pour envelopper la garniture. Mettez le rouleau dans la sauce aux lentilles, côté couture vers le bas. Répétez l'opération avec le reste des ingrédients. Vous devriez obtenir 18 rouleaux, bien serrés dans la sauce. Pressez-les doucement sans les immerger complètement, et enfourner pour 15-20 min, jusqu'à ce que le dessus des rouleaux soit doré et que la sauce bouillonne. Sortez le plat du four et laissez reposer 5 min.
+
+6. Faites chauffer à feu moyen-vif l'huile restante (1 cuil. à soupe) dans une petite poêle. Ajoutez le reste du piment et les feuilles de curry que vous laissez frire 1 min, jusqu'à ce que les feuilles soient croustillantes et odorantes. Saupoudrez les rouleaux d'aubergines de ce mélange, arrosez de jus de citron vert et terminez par la coriandre.
+
+## Noms ingrédients
+
+aubergines. citron vert. coriandre. cumin. curcuma. curry. échalotes. épinards. feuilles de curry. gingembre. graines de moutarde. huile d'olive. lait de coco. lentilles rouges. paneer. pickles de mangue. piments rouges
+
+---
+
+# Boulettes d'aubergine alla parmigiana
+
+## Commentaire
+
+Si vous aimez les *melanzane alla parmigiana*, celles-ci ont le goût de la recette italienne, mais sous forme de boulettes. Des boulettes fabuleusement riches, avec une saveur de fromage prononcée, et pourtant incroyablement légères.
+
+La sauce peut se préparer à l'avance et se garde 3 jours au réfrigérateur et jusqu'à 1 mois au congélateur. Le mélange pour les boulettes pourra être confectionné quelques heures à l'avance et conservé au frais, prêt à être façonné en boulettes.
+
+Servez avec des spaghettis, du riz ou des légumes verts sautés.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En plat principal*
+
+- 90 g de chapelure fraîche, de préférence avec du pain au levain (2-3 tranches)
+- 4 aubergines, coupées en cubes de 2,5 cm (1 kg)
+- 15 cl d'huile d'olive + un peu pour la préparation des boulettes
+- 100 g de ricotta
+- 75 g de parmesan, finement râpé + un peu pour servir
+- 10 g de persil, finement haché
+- 1 œuf + 1 jaune
+- 1 ½ cuil. à soupe de farine ordinaire
+- 6 gousses d'ail, écrasées
+- 15 g de feuilles de basilic, grossièrement hachées
+- 1 ½ boîtes de tomates pelées, mixées en coulis (600 g)
+- 1 ½ cuil. à café de concentré de tomates
+- 1 ½ cuil. à café de sucre en poudre
+- ¼ cuil. à café de flocons de piment
+- ¼ cuil. à café de paprika
+- 2 cuil. à café de feuilles d'origan frais, finement hachées
+- 45 g d'olives de Kalamata dénoyautées, coupées en deux à la main
+- Sel et poivre noir
+
+---
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 160 °C (th. 5-6) en mode chaleur tournante. Étalez la chapelure sur une plaque et enfournez pour 12 min, jusqu'à ce qu'elle soit légèrement dorée et bien sèche. Laissez refroidir. Réglez le four à 220 °C (th. 7-8).
+
+2. Sur une grande plaque tapissée de papier sulfurisé, mélangez les aubergines avec 7,5 cl d'huile, ½ cuil. à café de sel et une bonne quantité de poivre fraîchement moulu. Étalez bien les morceaux et enfournez pour 30 min, en remuant à mi-cuisson, jusqu'à ce que les aubergines soient bien dorées.
+
+3. Hachez grossièrement les aubergines pour en faire une purée que vous transférez dans un grand récipient et que vous réfrigérez 20 min pour la faire refroidir. Ajoutez ensuite la ricotta, le parmesan, le persil, l'œuf, le jaune d'œuf, la farine, la chapelure, un tiers de l'ail, 10 g de basilic, ¼ cuil. à café de sel et une bonne quantité de poivre fraîchement moulu. Mélangez bien. Graissez vos mains avec un peu d'huile et façonnez 16 boulettes de la taille d'une balle de golf (55 g), en les tassant bien pour qu'elles ne se défassent pas.
+
+4. Faites chauffer à feu vif 2 cuil. à soupe d'huile dans une grande poêle antiadhésive pour y faire frire la moitié des boulettes pendant 3-4 min, en les retournant plusieurs fois ; elles doivent dorer de toutes parts. Baissez le feu au besoin si elles brunissent trop. Ajoutez 1 cuil. à soupe d'huile dans la poêle pour faire frire le reste des boulettes. Transférez-les sur une assiette et réservez.
+
+5. Préchauffez le four à 180 °C (th. 6) en mode chaleur tournante. Faites chauffer à feu moyen-vif le reste d'huile (2 cuil. à soupe) dans une sauteuse pour y faire revenir le reste de l'ail pendant 1 min, jusqu'à ce qu'il soit odorant. Ajoutez les tomates mixées, le concentré de tomates, le sucre, le piment, le paprika, l'origan, 1 cuil. à café de sel et une bonne quantité de poivre fraîchement moulu. Laissez cuire 8 min, jusqu'à ce que le mélange épaississe légèrement, en remuant de temps en temps. Versez 40 cl d'eau, portez à ébullition, puis baissez à feu moyen et laissez mijoter encore 10 min.
+
+6. Versez la sauce dans un plat allant au four, ajoutez les boulettes et enfournez pour 20 min, jusqu'à ce que la sauce bouillonne. Retirez du four, garnissez avec les olives, le reste du basilic et le reste du parmesan. Servez sans attendre.
+
+## Noms ingrédients
+
+ail. aubergines. basilic. chapelure. concentré de tomates. farine. flocons de piment. huile d'olive. œufs. olives de kalamata. origan. paprika. parmesan. persil. ricotta. sucre. tomates
+
+---
+
+# Tamales au fromage avec plein de garnitures (ou un peu)
+
+## Commentaire
+
+Ces tamales empruntent à la cuisine de rue de Mexico, où Ixta a savouré certains des meilleurs repas de sa vie dans des échoppes branlantes. L'idée que vous les prépariez nous réjouit tellement que nous avons rendu facultatifs tous leurs accompagnements. Il suffit de servir ces tamales chauds, avec des quartiers de citron vert à côté.
+
+Si vous décidez de préparer les accompagnements, ou au moins une partie d'entre eux, vous ne le regretterez pas. Chacun apporte une touche particulière à cette recette — de la chaleur, de l'acidité, de la richesse et de la profondeur. Vous pouvez préparer plus de salsa roja que la quantité indiquée : elle se garde 3 jours et 1 mois au congélateur.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 6 tamales — Pour 6 personnes en entrée ou pour 3 personnes en plat*
+
+### Tamales
+
+- 4-6 petits épis de maïs frais, grains rasés (500 g), ou 500 g de grains surgelés (décongelés)
+- 15 g de beurre doux
+- 10 cl de crème double (ou de crème entière liquide à 33-35 % de MG)
+- 2 cuil. à café de graines de cumin, grillées et broyées
+- 110 g de masa harina (farine de maïs)
+- ½ cuil. à soupe d'huile d'olive
+- 1 cuil. à café de levure chimique
+- 1 œuf, battu
+- 60 g de cheddar vieux, râpé
+- 60 g de mozzarella, râpée
+- Sel
+
+### Pickles d'oignons à l'hibiscus (facultatif)
+
+- 12 cl de vinaigre de vin blanc
+- 2 cuil. à café de sucre en poudre
+- 2 sachets de tisane d'hibiscus, ou 5 g de fleurs d'hibiscus séchées
+- Le zeste de 1 citron vert bio
+- 1 gousse d'ail, avec la peau, grossièrement écrasée avec la lame d'un couteau
+- 1 oignon rouge, émincé à la mandoline si possible, sinon au couteau
+
+### Salsa roja (facultatif)
+
+- 2 cuil. à soupe d'huile d'olive
+- 2 gousses d'ail, écrasées
+- ½ oignon rouge, finement haché
+- 1 ½ cuil. à café de graines de cumin, grillées et écrasées
+- 3 tomates allongées, coupées en quatre
+- ½ cuil. à café d'origan séché
+- 1 cuil. à soupe de flocons de poivron rouge
+- 1 piment ancho séché, tige et graines jetées
+- ½ piment habanero séché, tige et graines jetées (supprimez-le pour une saveur moins relevée)
+- 2 cuil. à café de concentré de tomates
+- 1 ½ cuil. à café de sucre en poudre
+
+### Huile pimentée (facultatif)
+
+- 2 cuil. à café de flocons de piment chipotle
+- 2 cuil. à café de flocons de poivrons rouges
+- 6 cl d'huile de tournesol
+
+### Salade d'avocats (facultatif)
+
+- 2 avocats, pelés et coupés en fines tranches
+- 6 oignons verts, finement coupés en biseau (90 g)
+- 20 g de feuilles de coriandre
+- 4 piments jalapeño, en fines rondelles (épépinés si vous n'aimez pas le feu)
+- 9 cl de jus de citron vert (5 fruits)
+- 2 cl d'huile d'olive
+- Sel
+
+---
+
+## Déroulé de la recette
+
+1. Pour les oignons marinés, mélangez tous les ingrédients dans un bol avec ½ cuil. à café de sel. Laissez mariner au moins 2 h, ou toute une nuit.
+
+2. Pour la salsa roja, faites chauffer l'huile à feu moyen dans une casserole, ajoutez l'ail et l'oignon que vous laissez cuire doucement 7-9 min, jusqu'à ce qu'ils soient tendres. Incorporez le reste des ingrédients, ainsi que 40 cl d'eau chaude et ¾ cuil. à café de sel. Laissez mijoter 25 min, jusqu'à ce que les tomates soient complètement ramollies. Retirez le piment habanero (jetez-le) et mixez la préparation en sauce lisse. Réservez au chaud.
+
+3. Pour l'huile pimentée, faites légèrement griller le piment chipotle et les flocons de piment 1 min dans une petite poêle à feu moyen-vif, jusqu'à ce qu'ils embaument, puis ajoutez l'huile et ¼ cuil. à café de sel. Laissez chauffer encore 30 s, jusqu'à ce que l'huile bouillonne doucement. Retirez du feu et réservez.
+
+4. Pour les tamales, mixez le maïs au robot de cuisine jusqu'à obtenir une purée humide. Faites chauffer à feu moyen-vif une grande sauteuse avec le beurre. Quand celui-ci est fondu, ajoutez le maïs mixé, la crème double (ou la crème entière), 1 cuil. à café de cumin et 1 cuil. à café de sel. Faites cuire pendant 3 min, en remuant plusieurs fois, jusqu'à ce que le maïs ait pris la consistance d'un porridge. Retirez du feu et laissez refroidir 5 min, puis incorporez la masa harina, l'huile, la levure. La préparation doit avoir la consistance d'une pâte à modeler.
+
+5. Découpez dans du papier sulfurisé 6 rectangles d'environ 25 x 16 cm. Avec les mains légèrement huilées, prenez 110 g de pâte et façonnez une boule lisse. Placez-la au centre d'un des rectangles de papier et aplatissez-la pour former un rectangle de 15 x 9 cm. Mélangez dans un bol les fromages avec le reste de cumin (1 cuil. à café), puis placez 20 g de cette farce au centre de la pâte. Avec les mains, moulez la pâte pour enfermer la farce, en la pinçant et en la lissant avec les doigts pour qu'il n'y ait pas de fissures ; vous devez obtenir un rectangle de 12 x 6 cm. Rabattez le papier sulfurisé sur le tamale pour bien l'enfermer. Déposez le paquet sur une plaque en le retournant (la jointure du papier doit se retrouver contre la plaque). Préparez de la même manière les autres tamales.
+
+6. Mettez à chauffer à feu vif une grande casserole avec beaucoup d'eau et prévoyez un panier vapeur de la taille de la casserole. Quand l'eau est à ébullition, placez les tamales dans le panier vapeur, toujours avec la jointure du papier en bas (vous devrez peut-être les empiler, ce qui ne pose pas de problème). Couvrez le panier, réduisez à feu moyen et laissez cuire 30 min. Laissez les tamales refroidir quelques minutes avant de les déballer.
+
+7. Pendant la cuisson des tamales, mélangez tous les ingrédients de la salade avec une bonne pincée de sel.
+
+8. Disposez les tamales sur un grand plat, arrosez-les d'huile de piment et proposez à part la salade, les oignons marinés à l'hibiscus et la salsa chaude.
+
+## Noms ingrédients
+
+ail. avocat. beurre. cheddar. citron vert. concentré de tomates. coriandre. crème double. cumin. farine de maïs. huile d'olive. huile de tournesol. maïs. masa harina. mozzarella. œuf. oignons. piments. sucre. tomates
+
+
+---
+
+# Polenta au maïs frais et œufs braisés
+
+## Commentaire
+
+Pour le père de Yotam, né en Italie, il n'y avait qu'une façon de cuisiner la polenta : il mettait tous les ingrédients dans une marmite et remuait la polenta pendant une heure, avec une infinie patience pour qu'elle soit parfaite, sans attacher à la marmite. Dans une chronique du *New York Times*, Noor Murad, notre collègue du laboratoire culinaire, a non seulement anéanti le mythe qui avait marqué l'enfance de Yotam, mais elle a aussi supprimé la sauce avec laquelle la polenta était servie en se contentant d'y ajouter des œufs entiers qui cuisent doucement. Le résultat est une polenta plutôt irrégulière, pleine de textures et de surprises.
+
+Essayez de vous procurer une polenta à gros grains plutôt que précuite, sinon vous n'obtiendrez pas le résultat recherché. Savourez la polenta aussitôt sortie du four, sinon elle durcit.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4-6 personnes — Pour un brunch ou un déjeuner léger*
+
+- 250 g de grains de maïs frais ou surgelés (décongelés)
+- 200 g de jeunes pousses d'épinards, grossièrement déchiquetées
+- 10 g de persil, haché grossièrement
+- 10 g d'aneth, haché grossièrement
+- 20 g de coriandre, hachée grossièrement + 1 cuil. à soupe, hachée
+- 4 oignons verts, en fines tranches + 2 cuil. à soupe, pour servir
+- 4 gousses d'ail, écrasées
+- 150 g de polenta à gros grains
+- 50 g de parmesan, finement râpé
+- 52 cl de lait entier
+- 45 cl de bouillon de légumes ou de volaille
+- 40 g de beurre doux, coupé en cubes de 2 cm
+- 150 g de feta, émiettée grossièrement
+- 8 œufs
+- 2 cuil. à soupe d'huile d'olive
+- ½ cuil. à café de flocons de piment
+- Sel et poivre noir
+
+---
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 180 °C (th. 6) en mode chaleur tournante.
+
+2. Hachez grossièrement le maïs dans un robot de cuisine en donnant quelques impulsions, puis transférez dans un grand récipient. Ajoutez les épinards, les herbes, les oignons verts, l'ail, la polenta, le parmesan, 1 ½ cuil. à café de sel et une bonne quantité de poivre noir au moulin, puis mélangez. Mettez la préparation dans une grande cocotte à bords hauts, puis incorporez le lait, le bouillon et le beurre. Enfournez pour 20 min, sortez la cocotte du four et fouettez la préparation, puis enfournez de nouveau pour 20 min, jusqu'à ce que la semoule soit bien cuite et le mélange épais. Fouettez une fois encore la polenta — elle doit être lisse et partiellement prise —, puis incorporez la moitié de la feta. Réglez la température du four à 200 °C (th. 6-7) en mode chaleur tournante.
+
+3. Creusez 8 cratères dans la polenta et cassez 1 œuf dans chaque trou, salez et poivrez. Saupoudrez la polenta avec le reste de la feta et enfournez une dernière fois pour 12-14 min, ou jusqu'à ce que les blancs des œufs soient pris (les jaunes restent liquides).
+
+4. Pendant ce temps, mélangez l'huile d'olive avec le reste de coriandre et d'oignon vert dans un bol. Quand la polenta est prête, garnissez-la avec ce mélange et saupoudrez de flocons de piment. Servez sans attendre.
+
+## Noms ingrédients
+
+ail. aneth. beurre. bouillon de légumes. coriandre. épinards. feta. flocons de piment. huile d'olive. lait. maïs. œufs. oignons verts. parmesan. persil. polenta
+
+---
+
+# Salade de tomates et yaourt au citron vert et à la cardamome
+
+## Commentaire
+
+Il y a plusieurs idées à glaner dans cette recette. D'abord, le mariage intemporel des tomates et des échalotes émincées constitue la base de nombreuses salades estivales. Ensuite, il y a l'assaisonnement, obtenu en mélangeant du yaourt, du fromage de chèvre frais et de l'ail ; il est parfait pour une salade de pommes de terre ou une salade de concombre. Enfin, l'association de la tomate avec le citron vert et la cardamome n'est pas très courante, mais nous en raffolons. Servez cette salade avec du pain pour « saucer » le jus.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 70 g de yaourt à la grecque
+- 50 g de fromage de chèvre frais, sans croûte
+- ½ petite gousse d'ail, écrasée
+- 1-2 citrons verts bio : 1 cuil. à café de zeste finement râpé ; 1 ½ cuil. à soupe de jus
+- 15 gousses de cardamome, sans la peau et les graines finement broyées (¾ cuil. à café)
+- 1 gros piment vert, finement haché (épépiné si vous n'aimez pas le feu)
+- 500 g de tomates cerise sucrées bien mûres (ou d'autres tomates sucrées), coupées en deux
+- 1 grosse échalote banane, en fines tranches (60 g)
+- 6 cl d'huile d'olive
+- 10 g de feuilles de menthe, grossièrement déchirées
+- Sel
+
+---
+
+## Déroulé de la recette
+
+1. Dans un récipient, mélangez le yaourt, le fromage de chèvre, l'ail et une pincée de sel pour obtenir une sauce lisse. Incorporez la moitié du zeste de citron, la moitié de la cardamome et la moitié du piment.
+
+2. Dans un saladier, mélangez les tomates, les échalotes, le jus de citron vert, 2 cuil. à soupe d'huile, ½ cuil. à café de sel et le reste du zeste de citron, de la cardamome et du piment, puis ajoutez la sauce au yaourt et la menthe. Mélangez délicatement, mais pas complètement : la sauce ne doit pas cacher partout le rouge des tomates et le vert de la menthe. Transférez dans un plat de service, arrosez avec l'huile restante (2 cuil. à soupe) et dégustez sans attendre.
+
+## Noms ingrédients
+
+ail. cardamome. citron vert. échalotes. fromage de chèvre. huile d'olive. menthe. piment vert. tomates cerises. yaourt grec
+
+---
+
+# Beignets de riz au kimchi et au gruyère
+
+## Commentaire
+
+Cette recette a été conçue pour utiliser des restes de riz cuit, un pot de kimchi entamé et des morceaux de fromage qui restaient dans le réfrigérateur de notre cuisine laboratoire. Si vous n'avez pas de restes de riz, vous pouvez utiliser du riz cuit du commerce ou le faire cuire vous-même, en le laissant bien refroidir. Les différents mélanges de riz fonctionnent bien dans cette recette, mais nous avons un faible pour le goût de noisette du riz brun et du riz sauvage.
+
+Le kimchi que nous employons contient souvent beaucoup de liquide, que nous transformons ici en sauce en y ajoutant du jus de citron. Parfaits pour un en-cas ou un repas, les beignets peuvent être frits 3 h à l'avance.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 12 beignets*
+
+- 3 cuil. à soupe d'huile d'olive
+- ½ oignon, finement haché
+- 3 gousses d'ail, écrasées
+- 20 cl de lait entier
+- 1 paquet (250 g) de mélange cuit de riz basmati complet et de riz sauvage (ou un autre mélange de riz cuit)
+- 2 œufs, jaunes et blancs séparés
+- 500 g de kimchi de bonne qualité
+- 80 g de haricots verts, parés et émincés
+- 1 ½ cuil. à soupe de coriandre, finement hachée
+- 80 g de gruyère, en cubes de 1,5 cm (vous pouvez utiliser un autre fromage du même type)
+- 2 cuil. à soupe de graines de sésame noir et blanc mélangées, grillées + 1 ½ cuil. à café, grillées, pour servir
+- 90 g de farine ordinaire
+- 80 cl d'huile de tournesol, pour la friture
+- 2 citrons : 2 cuil. à soupe de jus ; le reste en quartiers, pour servir
+- Sel et sel de Maldon
+
+---
+
+## Déroulé de la recette
+
+1. Mettez dans une casserole à feu moyen-vif l'huile d'olive, l'oignon et ¾ cuil. à café de sel, puis laissez cuire doucement pendant 6 min, en remuant de temps en temps, jusqu'à ce que l'oignon soit tendre et doré. Ajoutez l'ail et remuez encore 30 s à 1 min, jusqu'à ce qu'il embaume. Versez le lait, baissez à feu moyen et laissez mijoter doucement pendant 5 min, jusqu'à ce que le mélange épaississe et réduise un peu. Retirez la casserole du feu et laissez refroidir 5 min, puis incorporez le riz, les jaunes d'œufs et une pincée de sel. Réfrigérez 30 min, jusqu'à refroidissement complet.
+
+2. Pendant ce temps, réservez 160 g de kimchi pour servir. Pressez le reste dans un tamis pour recueillir 3 cuil. à soupe de liquide dans un bol de service (à réserver), puis transférez le kimchi égoutté (environ 250 g) sur une planche à découper. Hachez-le grossièrement avant de l'ajouter dans la casserole de riz, avec les haricots verts, la coriandre, le gruyère, les graines de sésame et la farine. Mélangez bien.
+
+3. Fouettez les blancs d'œufs avec une petite pincée de sel, au fouet manuel ou électrique, jusqu'à obtenir des pics moyennement fermes. Incorporez délicatement les blancs d'œufs au contenu de la casserole, en prenant soin de ne pas trop mélanger.
+
+4. Faites chauffer à feu moyen-vif l'huile de tournesol dans une grande casserole, jusqu'à ce qu'elle atteigne 180 °C. Pour vérifier si elle est assez chaude, déposez un petit morceau de pâte dedans : il doit grésiller, mais sans dorer tout de suite. Faites frire les beignets trois par trois, pour ne pas trop abaisser la température de l'huile. À l'aide d'une grande cuillère, déposez délicatement dans l'huile environ 90 g de pâte par beignet et laissez frire 4-5 min, en retournant les beignets plusieurs fois pour qu'ils soient croustillants et dorés sur tous les côtés. Transférez les beignets sur un plat tapissé de papier absorbant et répétez l'opération avec le reste de pâte.
+
+5. Mélangez le jus du kimchi avec le jus de citron. Présentez les beignets sur un plat de service, puis saupoudrez-les du reste de graines de sésame et d'un peu de sel de Maldon. Servez chaud avec la sauce au kimchi, les quartiers de citron et le kimchi réservé.
+
+## Noms ingrédients
+
+ail. citron. coriandre. farine. graines de sésame. gruyère. haricots verts. huile d'olive. huile de tournesol. kimchi. lait. oignons. œufs. riz. sel de maldon
+
+---
+
+# Salade d'asperges au tamarin et au citron vert
+
+## Commentaire
+
+Cette salade nous aura surpris à plus d'un titre : d'abord, par la qualité en bouche de la saveur et de la texture des asperges crues coupées en tranches très fines ; ensuite, par sa belle tenue et sa capacité à supporter l'ajout d'ingrédients très acides, comme le tamarin et le citron vert.
+
+Vous pouvez préparer plus de vinaigrette que la quantité indiquée, car elle se garde 3 jours au réfrigérateur dans un bocal. Détaillez les asperges juste avant de servir, pour qu'elles restent croquantes.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En accompagnement*
+
+- 400 g de grosses asperges vertes, sans la base ligneuse
+- 1 ½ cuil. à soupe d'huile d'olive
+- 1 cuil. à soupe de jus de citron vert
+- 15 g de feuilles de menthe, déchiquetées
+- 30 g de pistaches, légèrement grillées et hachées grossièrement
+- Sel
+
+### Vinaigrette au tamarin et au citron vert
+
+- 35 g de feuilles de menthe, fraîches
+- 15 g de persil, haché grossièrement
+- 1 cuil. à soupe de vinaigre de vin blanc
+- 1 cuil. à soupe de miel liquide
+- 2 cuil. à café de pâte de tamarin toute prête, ou le double si vous l'extrayez de la pulpe
+- 1 filet d'anchois à l'huile, égoutté (facultatif)
+- ½ cuil. de cardamome moulue
+- ½ cuil. à café de citron noir séché en poudre (facultatif)
+- 2 piments verts, épépinés et finement hachés
+- 1 petite gousse d'ail, écrasée
+- 1 cuil. à café de moutarde de Dijon
+- 1 cuil. à café de zeste de citron vert bio
+- 2 cuil. à soupe d'huile d'olive
+
+---
+
+## Déroulé de la recette
+
+1. Mixez au robot ou au moulin à épices (la texture sera plus lisse) tous les ingrédients de la vinaigrette au tamarin, avec 2 cuil. à soupe d'eau et ¼ cuil. à café de sel, pour obtenir une pâte épaisse. Elle se gardera 3 jours dans un bocal au réfrigérateur.
+
+2. Avec un économe ou une mandoline, détaillez les asperges en lanières, puis mélangez-les avec la moitié de l'huile, du jus de citron vert, de la menthe et des pistaches. Assaisonnez avec une pincée de sel. Transférez dans un plat de service et réservez.
+
+3. Dans un bol, mélangez 2 cuil. à soupe de vinaigrette au tamarin avec le reste de l'huile et du jus de citron. Ajoutez une pincée de sel. Versez cet assaisonnement sur les asperges, terminez avec le reste de menthe et de pistaches. Servez sans attendre.
+
+## Noms ingrédients
+
+anchois. ail. asperges. cardamome. citron noir séché. citron vert. huile d'olive. jus de citron vert. menthe. miel. moutarde de dijon. persil. piments verts. pistaches. pâte de tamarin. vinaigre de vin blanc
+
+---
+
+# Tofu à la cardamome et choy sum au citron vert
+
+## Commentaire
+
+Le bien nommé tofu soyeux tient la promesse d'une texture très lisse, légère et crémeuse. Quand il est frit, comme dans cette recette, l'enveloppe croustillante met encore mieux en valeur ces atouts et le rend irrésistible. C'est la préparation idéale pour réconcilier vos amis réticents avec le tofu.
+
+Ce plat se suffit à lui-même pour un dîner léger, mais vous pouvez l'accompagner de riz et d'un peu plus de sauce soja. Si vous ne trouvez pas de choy sum, vous pouvez utiliser des liserons d'eau ou de grosses feuilles d'épinards.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En plat principal*
+
+- 100 g de farine ordinaire
+- 100 g de fécule de maïs
+- 1 ½ cuil. à soupe de cardamome moulue
+- 90 cl d'huile de tournesol pour la friture + 2 ½ cuil. à soupe
+- 700 g de tofu soyeux ferme, coupé en carrés de 2,5 cm
+- 6 gousses d'ail, en fines tranches
+- 2 piments rouges, en fines rondelles
+- 600 g de choy sum, base coupée, feuilles et tiges séparées, les tiges détaillées en tronçons de 5 cm de long (500 g)
+- 2 cuil. à soupe de sauce piquante sriracha
+- 3 cuil. à soupe de sauce soja
+- 2 citrons verts : 2 cuil. à café de jus ; le reste coupé en quartiers, pour servir
+- Sel et poivre noir
+
+---
+
+## Déroulé de la recette
+
+1. Dans un bol moyen, mélangez la farine, la fécule de maïs, la cardamome, 2 ½ cuil. à café de sel et beaucoup de poivre. Réservez.
+
+2. Faites chauffer à feu moyen 90 cl d'huile dans une grande sauteuse ou dans un wok. Quand l'huile est chaude (un peu moins de 180 °C), mélangez les cubes de tofu avec la farine assaisonnée. En procédant en plusieurs tournées, plongez délicatement les cubes de tofu dans l'huile chaude et faites-les frire 3-4 min, en les retournant à mi-cuisson, jusqu'à ce qu'ils soient croustillants et dorés. Avec une écumoire, transférez-les sur une assiette tapissée de papier absorbant. Réservez au chaud et préparez de la même manière les autres cubes de tofu.
+
+3. Si vous utilisez la même poêle, essuyez-la, puis séchez-la bien. Remettez-la à feu vif avec l'huile restante (2 ½ cuil. à soupe d'huile) pour y faire revenir l'ail et les piments 1-2 min, jusqu'à ce que l'ail soit légèrement doré. Ajoutez les tiges de choy sum et faites-les sauter 4 min, puis ajoutez les feuilles. Laissez cuire encore 2 min, sans cesser de remuer, jusqu'à ce que les feuilles soient flétries.
+
+4. Ajoutez la sauce sriracha, la sauce soja, le jus de citron vert et 1 cuil. à soupe d'eau. Remuez pendant 1 min, jusqu'à ce que le liquide bouillonne. Répartissez dans 4 assiettes et garnissez de tofu croustillant. Servez aussitôt, avec les quartiers de citron vert.
+
+## Noms ingrédients
+
+ail. cardamome. choy sum. citron vert. farine. fécule de maïs. huile de tournesol. piments rouges. sauce soja. sauce sriracha. tofu
+
+---
+
+# Verdure braisée au yaourt
+
+## Commentaire
+
+Mélanger des quantités extraordinaires d'herbes hachées avec du citron vert ou jaune pour créer soupes, ragoûts ou plats braisés est une façon géniale de les cuisiner. C'est la base de nombreux plats de la cuisine d'Iran et des pays du Golfe. Dans cette recette, nous utilisons du citron noir qui apporte une acidité intense, avec des notes terreuses. Si vous ne pouvez pas mettre la main sur un citron séché, remplacez-le par un citron vert frais (en sautant l'étape du trempage) ; retirez les pépins, hachez très finement l'écorce et la pulpe, et ajoutez 12 cl d'eau à la place du liquide de trempage.
+
+Pour gagner du temps, vous pouvez préparer et cuisiner les herbes et le chou quelques heures à l'avance. Cette recette est parfaite avec du riz safrané (ou nature, si vous préférez).
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En accompagnement ou en buffet*
+
+- 1 citron noir séché, piqué en plusieurs endroits avec la pointe d'un couteau
+- 6 cl d'huile d'olive
+- 1 oignon, en fines lamelles (150 g)
+- 3 gousses d'ail, écrasées
+- 1 cuil. à café de cannelle moulue
+- 35 g d'aneth, haché grossièrement
+- 5 g de coriandre, hachée grossièrement
+- 35 g de persil, haché grossièrement
+- 4 oignons verts, en fines lamelles (60 g)
+- 300 g de cavolo nero (kale noir), tiges ligneuses éliminées, feuilles grossièrement déchiquetées (180 g)
+- 300 g de yaourt à la grecque
+- 1 cuil. à café de menthe séchée
+- Sel et poivre noir
+
+---
+
+## Déroulé de la recette
+
+1. Mettez le citron dans un bol avec 15 cl d'eau bouillante et couvrez-le avec une soucoupe plus petite que le bol pour l'immerger complètement. Laissez reposer 20 min, jusqu'à ce qu'il commence à se ramollir. Sortez-le de l'eau et réservez-le, ainsi que son liquide de trempage.
+
+2. Faites chauffer 3 cuil. à soupe d'huile dans une grande sauteuse à feu moyen, puis ajoutez l'oignon et le citron noir entier. Laissez cuire environ 20 min, en remuant de temps en temps, jusqu'à ce que les oignons soient fondants et légèrement caramélisés. Ajoutez l'ail et la cannelle, laissez cuire encore 2 min, puis retirez le citron et réservez. Ajoutez 30 g de chacune des herbes et tous les oignons verts. Faites cuire 15 min, en remuant souvent, jusqu'à ce que le mélange embaume et soit d'un vert profond (baissez le feu s'ils commencent à accrocher).
+
+3. Pendant ce temps, hachez finement le citron et remettez-le dans la poêle avec les herbes. Ajoutez le cavolo nero, l'eau de trempage réservée, 1 cuil. à café de sel et du poivre noir du moulin. Augmentez à feu vif et laissez cuire encore 10 min, jusqu'à ce que le liquide soit absorbé et le cavolo nero bien tendre. Retirez du feu et incorporez les herbes restantes. Réservez au chaud.
+
+4. Mettez dans un bol le yaourt, la menthe et ¼ cuil. à café de sel, puis mélangez pour obtenir une sauce homogène. Étalez le yaourt dans un plat de service, en formant un léger creux au centre. Déposez la verdure dans ce puits et arrosez avec 1 cuil. à soupe d'huile d'olive.
+
+## Noms ingrédients
+
+ail. aneth. cannelle. cavolo nero. citron noir séché. coriandre. huile d'olive. menthe séchée. oignons. oignons verts. persil. yaourt grec
+
+---
+
+# Tofu au citron noir séché, par Noor
+
+## Commentaire
+
+Depuis des années, les citrons noirs ne manquent jamais dans les réserves d'Ottolenghi. Récemment, nous les utilisons cependant avec une vigueur accrue grâce à Noor Murad, notre collègue du laboratoire qui a grandi à Bahreïn, où les citrons verts séchés sont presque administrés en intraveineuse. Il y en a de tous les noms et de toutes les couleurs. Optez pour les citrons noirs si vous ne trouvez pas de variétés plus pâles.
+
+Nous aimons servir ce plat avec un riz vapeur ou des pains plats chauds.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En plat principal*
+
+- 1 cuil. à soupe de vinaigre de cidre
+- 2 cuil. à café de sucre en poudre
+- 1 petit oignon rouge, coupé en fines rondelles, à la mandoline si possible (60 g)
+- 60 cl d'huile de tournesol, pour la friture
+- 2 blocs de tofu extra-ferme (560 g), séchés et coupés en cubes de 2 cm
+- 2 cuil. à soupe de fécule de maïs
+- 2 oignons (300 g), hachés grossièrement
+- 6 gousses d'ail, hachées grossièrement
+- 6 cl d'huile d'olive
+- 2 cuil. à café de graines de cumin, grossièrement pilées dans un mortier
+- 2 à 3 citrons noir séchés, passés au moulin à épices (ou un robot, en tamisant la préparation) pour obtenir 2 cuil. à soupe de poudre (10 g) [à défaut, 1 cuil. à soupe de zeste de citron vert bio râpé et 1 cuil. à soupe de jus de citron vert]
+- 2 cuil. à soupe de concentré de tomates
+- 20 g de persil, haché grossièrement
+- 250 g de jeunes pousses d'épinards
+- Sel et poivre noir
+
+---
+
+## Déroulé de la recette
+
+1. Mettez dans un bol le vinaigre, 1 cuil. à café de sucre, l'oignon rouge et une pincée de sel dans un bol. Mélangez bien et laissez mariner pendant que vous préparez le reste de la recette.
+
+2. Faites chauffer à feu moyen-vif l'huile de tournesol dans une sauteuse de taille moyenne. Dans un bol, mélangez le tofu avec la fécule de maïs en l'enrobant bien. Quand l'huile est chaude, faites frire le tofu en deux tournées, jusqu'à ce qu'il soit croustillant et légèrement bruni. Comptez 6 min de cuisson pour chaque tournée, puis transférez les morceaux dans une assiette tapissée de papier absorbant. Réservez.
+
+3. Pendant la cuisson du tofu, préparez la sauce. Mettez les oignons et l'ail dans le bol d'un robot et mixez en donnant plusieurs impulsions, jusqu'à ce qu'il soit haché très fin, mais surtout pas réduit en purée. Versez l'huile d'olive dans une grande sauteuse à feu moyen-vif. Ajoutez le hachis d'oignons et d'ail que vous laissez revenir pendant 10 min, en remuant de temps en temps, jusqu'à ce qu'il soit ramolli et légèrement doré. Ajoutez le cumin, la poudre de citron noir (ou le zeste et le jus de citron vert) et le concentré de tomates. Laissez cuire encore 1 min avant d'incorporer 40 cl d'eau, le sucre restant (1 cuil. à café), ¼ cuil. à café de sel et une généreuse quantité de poivre. Portez à petite ébullition, puis laissez frémir 6 min en remuant de temps en temps, jusqu'à ce que le mélange soit épais et riche. Ajoutez le tofu et le persil, ajoutez du poivre et remuez. Pour finir, incorporez en plusieurs fois les épinards, et laissez cuire encore 3 min, jusqu'à ce qu'ils soient à peine flétris.
+
+4. Pour servir, transférez le mélange dans un plat de service peu profond et garnissez avec l'oignon rouge mariné.
+
+## Noms ingrédients
+
+ail. citron noir séché. concentré de tomates. cumin. épinards. fécule de maïs. huile d'olive. huile de tournesol. oignons. oignons rouges. persil. sucre. tofu. vinaigre de cidre
+
+---
+
+# Boulettes de riz gluant et rasam au tamarin
+
+## Commentaire
+
+Notre version du rasam, un bouillon du sud de l'Inde, est piquante, complexe et riche en épices, en tomates et en citrons grillés. Nous vous invitons à l'essayer, malgré la longueur de la liste des ingrédients, ne serait-ce que pour découvrir une gamme de nouvelles saveurs.
+
+Utilisez de la pulpe de tamarin, et non de la pâte (disponible dans les magasins indiens, la pulpe a un goût plus complexe). Prévoyez de faire tremper le riz 1 h. Les boulettes peuvent être préparées la veille et conservées au réfrigérateur.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En plat principal*
+
+### Rasam au tamarin
+
+- 50 g de pulpe de tamarin
+- 30 g de gingembre frais, avec la peau et en fines lamelles
+- 15 g de curcuma frais, avec la peau et en fines tranches
+- 1 gros piment vert, en gros morceaux (20 g)
+- 250 g de tomates cerise
+- 2 ½ cuil. à soupe d'huile de tournesol
+- ½ citron, coupé en demi-lunes de 3 mm d'épaisseur (sans pépins)
+- 1 ½ cuil. à café de graines de cumin, broyées
+- 1 cuil. à café de graines de moutarde noire
+- 2 piments rouges séchés (facultatif)
+- 3 gousses d'ail, écrasées
+- 3 à 4 tomates allongées (300 g), sans la peau et râpées grossièrement (250 g)
+- 2 cuil. à café de sucre en poudre
+- Feuilles de curry (facultatif)
+
+### Boulettes de riz
+
+- 200 g de riz thaï gluant, laissé à tremper 1 h dans beaucoup d'eau et bien égoutté
+- 2 cuil. à soupe d'huile de tournesol + un peu pour façonner les boulettes
+- 1 oignon, finement haché (150 g)
+- 2 gousses d'ail, écrasées
+- 15 g de gingembre frais, pelé et râpé
+- 10 g de coriandre, hachée + des feuilles et tiges fraîches pour garnir
+- 2 oignons verts, en fines lamelles (30 g)
+- Sel
+
+---
+
+## Déroulé de la recette
+
+1. Pour le rasam, mettez les 4 premiers ingrédients dans une casserole avec 1,2 l d'eau et 1 cuil. à café de sel. Portez à ébullition à feu moyen-vif, puis baissez à feu moyen et laissez mijoter 20 min, en remuant pour séparer la pulpe de tamarin. Passez au tamis en pressant pour extraire le plus d'arôme possible. Réservez dans un bol. Jetez les aromates.
+
+2. Pendant ce temps, mettez le riz dans une casserole moyenne avec 22 cl d'eau et ¾ cuil. à café de sel. Portez à ébullition à feu moyen-vif, puis baissez à feu doux, couvrez partiellement en laissant un peu d'espace pour que la vapeur puisse s'échapper. Laissez cuire 20 min, puis retirez du feu. Enlevez le couvercle et laissez refroidir complètement.
+
+3. Mélangez les tomates cerise avec 1 ½ cuil. à café d'huile. Placez une grande sauteuse sur un feu vif. Quand elle fume, ajoutez les tomates et faites-les cuire 4 min en remuant de temps en temps, jusqu'à ce qu'elles soient grillées et cloquées. Réservez. Ajoutez les demi-lunes de citrons et faites-les cuire 30-50 s de chaque côté, jusqu'à ce qu'elles soient grillées. Baissez à feu moyen, ajoutez l'huile restante (2 cuil. à soupe), les graines de cumin et de moutarde, les piments séchés, les feuilles de curry et l'ail. Faites cuire 1 min ½, jusqu'à ce que le mélange embaume. Incorporez les tomates râpées puis, 5 min plus tard, le sucre, le tamarin, les tomates grillées et ½ cuil. à café de sel. Portez à ébullition et laissez frémir 8 min. Réservez.
+
+4. Pour les boulettes de riz, faites chauffer l'huile à feu moyen-vif dans une sauteuse pour faire revenir l'oignon pendant 7 min, jusqu'à ce qu'il soit ramolli et bruni. Ajoutez l'ail et le gingembre, remuez pendant 1 min ½, puis retirez du feu et transférez dans un grand récipient avec le riz cuit, la coriandre et l'oignon vert. Mélangez bien. Avec les mains légèrement huilées, façonnez 12 boulettes de 30-35 g chacune.
+
+5. Réchauffez le rasam à feu moyen-vif, puis ajoutez les demi-lunes de citron grillées. Répartissez les boulettes de riz dans 4 bols. Versez le rasam chaud et parsemez de coriandre fraîche.
+
+## Noms ingrédients
+
+ail. citron. coriandre. cumin. feuilles de curry. gingembre. graines de moutarde. huile de tournesol. oignons. oignons verts. piments. pulpe de tamarin. riz gluant. sucre. tomates. curcuma
+
+---
+
+# Bette arc-en-ciel aux tomates et olives vertes
+
+## Commentaire
+
+Cet accompagnement parfait en été sera encore meilleur si vous choisissez des tomates mûres de la meilleure qualité. Les bettes arc-en-ciel sont très jolies, mais des bettes ordinaires feront l'affaire et le goût ne changera pas.
+
+Ce plat est excellent servi aussitôt, mais les saveurs se développent avec le temps. Préparez-le quelques heures à l'avance, voire la veille, et servez-le à température ambiante ou réchauffez-le doucement. Il contient beaucoup d'huile parfumée, donc proposez du pain croustillant pour « saucer ».
+
+Servez avec le *cacio e pepe* au zaatar pour un dîner rapide en semaine.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En accompagnement*
+
+- 400 g de bette arc-en-ciel, base éliminée, feuilles et tiges séparées, chacune coupée en morceaux de 6 cm
+- 12,5 cl d'huile d'olive
+- 5 gousses d'ail, en fines tranches
+- 1 petit oignon, finement haché (110 g)
+- 1 citron bio : 2 lanières de zeste ; 1 cuil. à soupe de jus
+- 2-3 brins d'origan (10 g)
+- 2-3 tomates allongées mûres, coupées en dés de 1 cm (300 g)
+- 120 g d'olives Nocellara (ou d'autres olives vertes), dénoyautées et coupées en deux (70 g)
+- 5 g de feuilles de basilic, grossièrement déchirées
+- Sel et poivre noir
+
+---
+
+## Déroulé de la recette
+
+1. Coupez en deux dans la largeur les plus grosses tiges des bettes (en trois si elles sont très larges). Faites chauffer une grande sauteuse à feu moyen-vif, avec 1 cuil. à café d'huile. Ajoutez les tiges de bette et faites-les revenir 4 min, puis ajoutez les feuilles que vous laissez cuire 3 min, pour les flétrir légèrement. Transférez dans un grand récipient, couvrez d'une assiette et laissez ramollir 3 min à couvert, puis retirez l'assiette.
+
+2. Essuyez la poêle et remettez-la à feu moyen, avec 9 cl d'huile. Ajoutez l'ail, l'oignon, le zeste de citron et l'origan. Faites-les revenir doucement pendant 12 min, en remuant souvent, jusqu'à ce que l'oignon soit tendre et doré. Ajoutez les tomates, ½ cuil. à café de sel et une bonne quantité de poivre noir au moulin. Poursuivez la cuisson jusqu'à ce que les tomates commencent à ramollir (environ 2 min si elles sont mûres, sinon comptez quelques minutes de plus). Ajoutez les bettes cuites et les olives, puis retirez la sauteuse du feu et laissez reposer 5 min pour que les saveurs se mélangent.
+
+3. Jetez les tiges d'origan et le zeste de citron. Transférez les bettes dans un plat creux. Arrosez avec le jus de citron et le reste d'huile (2 cuil. à soupe). Terminez avec les feuilles de basilic et poivrez généreusement. Servez sans attendre.
+
+## Noms ingrédients
+
+ail. basilic. bettes. citron. huile d'olive. olives vertes. oignons. origan. tomates
+
+---
+
+# Tempura de tiges, feuilles et herbes
+
+## Commentaire
+
+Dans nos restaurants Ottolenghi, nous faisons rôtir des quantités astronomiques de betteraves et sommes toujours en quête d'idées pour recycler les tiges et les feuilles. Cette recette est peut-être la « solution » pour les très populaires betteraves Hasselback de ROVI. Elle est superbe servie seule, avec sa croûte ultra-croustillante et une sauce aigre-douce pour atténuer la saveur grasse.
+
+Si vous ne disposez pas de tiges et de feuilles de betteraves, différents mélanges d'herbes, de tiges et de feuilles fonctionneront très bien. Essayez par exemple avec des feuilles de basilic, du persil, de la sauge et des bettes. La tempura ne se garde pas bien, il vaut mieux la manger dès qu'elle sort de l'huile.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 6 personnes — En en-cas ou en petite entrée*
+
+- 70 g de tiges et feuilles de betteraves, tiges coupées en tronçons de 8 cm, lavées et bien séchées
+- 20 g d'aneth, bien séché et coupé en tiges de 8 cm
+- 10 g de feuilles fraîches de menthe, bien séchées
+- ½ cuil. à soupe de poivre du Sichuan, pilé dans un mortier
+- Sel de Maldon
+
+### Sauce à la mandarine
+
+- 5 cl de jus de mandarine, avec quelques morceaux de pulpe (2-3 fruits)
+- 3 cuil. à soupe de jus de citron vert
+- 1 ½ cuil. à café de sirop d'érable
+- ½ petite gousse d'ail, finement hachée
+- 4 feuilles de combava fraîches, tiges jetées et feuilles finement hachées
+- ½ piment rouge, épépiné et finement haché
+
+### Pâte à tempura
+
+- 80 g de farine avec levure incorporée
+- 80 g de fécule de maïs + 50 g pour la friture
+- 21 cl d'eau pétillante glacée (petits morceaux de glace bienvenus)
+- 1 ½ cuil. à soupe de graines de sésame noir
+- 70 cl d'huile de tournesol, pour la friture
+
+---
+
+## Déroulé de la recette
+
+1. Dans un bol de service, mélangez tous les ingrédients de la sauce avec une pincée de sel de Maldon. Réservez.
+
+2. Mettez dans un récipient la farine, 80 g de fécule de maïs, l'eau pétillante, les graines de sésame noir et 1 cuil. à café de sel de Maldon. Fouettez doucement, mais surtout pas vigoureusement : il faut simplement mélanger les ingrédients.
+
+3. Versez l'huile dans une sauteuse de taille moyenne et faites-la chauffer à feu vif. Quand elle est très chaude (un peu moins de 180 °C), baissez à feu moyen et testez la chaleur en déposant un morceau de pâte dedans ; il devrait grésiller, mais sans brunir aussitôt. En procédant en plusieurs tournées, mélangez les herbes, les tiges et les feuilles avec la fécule de maïs, secouez-les pour éliminer le surplus, puis plongez-les dans la pâte. Secouez l'excédent de pâte au-dessus du bol avant de faire tomber les herbes dans l'huile, sans les faire se toucher. Laissez-les frire 30 s à 1 min de chaque côté, jusqu'à ce que la pâte soit croustillante et dorée, puis transférez-les avec une écumoire sur une grille tapissée de papier absorbant. Préparez de la même manière toutes les herbes, puis saupoudrez-les de poivre du Sichuan et assaisonnez-les généreusement au sel de Maldon. Présentez sur un plat de service et dégustez chaud, en proposant la sauce à part.
+
+## Noms ingrédients
+
+ail. aneth. citron vert. farine. fécule de maïs. feuilles de betteraves. feuilles de combava. graines de sésame. huile de tournesol. jus de mandarine. menthe. piment rouge. poivre du sichuan. sel de maldon. sirop d'érable. tiges de betteraves
+
+
+---
+
+# Brocoli en deux façons, avec piment et cumin
+
+## Commentaire
+
+Contrairement à ses cousins, le chou-fleur et le chou, le brocoli reste d'un emploi assez limité. Pour garder un brocoli d'un vert éclatant et au mieux de sa forme, nous recommandons une cuisson vive : frit (comme ici), grillé ou carbonisé.
+
+Les fleurettes de brocoli frites, mélangées à une sauce soja sucrée, vous rappelleront peut-être certains plats chinois à emporter. Dans cette recette, elles sont associées à des tiges de brocoli légèrement marinées, dont l'acidité atténue la richesse des bouquets frits. Vous pouvez doubler les quantités pour servir cette recette en plat principal, avec du riz gluant.
+
+Vous pouvez faire mariner les tiges de brocoli jusqu'à 3 h à l'avance, mais pas davantage, car elles perdraient alors tout leur croquant.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En accompagnement*
+
+- 700 g de brocolis (environ 2 têtes), coupés en petites fleurettes, tiges réservées
+- 3 cuil. à soupe de vinaigre de cidre
+- ½ piment rouge, en fines lamelles (5 g)
+- 3,5 cl de sauce soja claire
+- 2 cuil. à café de sucre en poudre
+- 50 cl d'huile de tournesol, pour la friture
+- 5 g de feuilles de basilic, grossièrement déchirées
+- ⅓ cuil. à café de graines de cumin, grillées et grossièrement pilées dans un mortier
+- Sel
+
+---
+
+## Déroulé de la recette
+
+1. Coupez les tiges de brocoli pour obtenir 2 rectangles. De préférence avec une mandoline, détaillez ces morceaux en fines lanières dans la hauteur. Superposez plusieurs lanières pour les couper en fine julienne et répétez l'opération jusqu'à ce que toutes les lanières soient ainsi détaillées. Mettez-les dans un bol avec ½ cuil. à café de sel et mélangez. Laissez reposer 1 h, puis pressez doucement le mélange pour éliminer une partie du liquide salé. Placez le tout dans un bol propre avec 2 cuil. à soupe de vinaigre et le piment. Mélangez bien. Laissez mariner pendant que vous continuez la recette (3 h maximum).
+
+2. Mettez dans une petite casserole à feu moyen-vif la sauce soja, le sucre et 1 cuil. à soupe de vinaigre. Portez à ébullition, laissez frémir 2 min, puis retirez du feu et laissez refroidir. La sauce épaissira en reposant.
+
+3. Faites chauffer l'huile de tournesol à feu vif dans une casserole moyenne. Quand elle est bien chaude (les brocolis doivent grésiller et se colorer dès qu'ils touchent l'huile), faites frire les fleurettes de brocolis en plusieurs tournées (6 environ), pendant 45 s, jusqu'à ce qu'ils soient tendres et dorés par endroits. L'huile doit rester toujours chaude, donc laissez-la revenir à la bonne température entre deux tournées. Transférez les fleurettes sur un plat tapissé de papier absorbant. Dans un grand récipient, enrobez les brocolis frits avec le mélange de sauce soja.
+
+4. Pour servir, étalez la moitié du mélange de brocolis marinés sur un grand plat rond, puis déposez les brocolis frits dessus. Recouvrez avec le reste des brocolis marinés, puis décorez avec le basilic et le cumin.
+
+## Noms ingrédients
+
+basilic. brocoli. graines de cumin. huile de tournesol. piment rouge. sauce soja. sucre. vinaigre de cidre
+
+---
+
+# Salade de carottes rôties, sauce chamoy
+
+## Commentaire
+
+Si on voulait résumer Ixta à un ingrédient, pas besoin d'aller chercher loin : c'est la sauce Chamoy. Ce condiment est un mélange de fruits marinés, de jus de citron vert et de piment, et il vient du Mexique. Il est sucré, salé, acide et épicé — et il a un effet spectaculaire sur tous les ingrédients avec lesquels on l'associe : viande, poisson, légumes et même fruits frais.
+
+Vous pouvez doubler les quantités, car cette sauce se conserve 1 semaine au réfrigérateur. Pour prendre de l'avance, faites cuire et assaisonnez les carottes la veille. Vous ajouterez les herbes, le reste des abricots et les noix au moment de servir.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En accompagnement*
+
+- 1 kg de carottes, épluchées et coupées en biais, en bâtonnets de 8 x 1 cm
+- 3 cuil. à soupe d'huile d'olive + 1 cl pour servir
+- 1 ½ cuil. à soupe de sirop d'érable
+- 10 g de feuilles de menthe
+- 5 g d'aneth, haché grossièrement
+- 8 abricots secs, en fines tranches (70 g)
+- 30 g d'amandes grillées salées, hachées grossièrement
+- Sel et poivre noir
+
+### Sauce chamoy
+
+- 40 g d'abricots secs
+- 1 cuil. à café de sirop d'érable
+- 2 cuil. à café de sumac
+- 4,5 cl de jus de citron vert + 2 cuil. à café, pour servir
+- 1 ½ cuil. à café de piment d'Alep (ou ¾ cuil. à café d'une autre variété plus courante)
+- 1 petite gousse d'ail
+- 2 cuil. à soupe d'huile d'olive
+
+---
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 240 °C (th. 8) en mode chaleur tournante.
+
+2. Dans un grand récipient, mélangez les carottes avec l'huile, le sirop d'érable, ¼ cuil. à café de sel et une bonne quantité de poivre noir au moulin. Étalez-les ensuite sur deux plaques de cuisson (40 x 30 cm) tapissées de papier sulfurisé et enfournez pour 18 min, en les mélangeant à mi-cuisson et en intervertissant les plaques dans le four. Les carottes doivent être bien dorées, mais encore un peu croquantes.
+
+3. Pendant ce temps, passez tous les ingrédients de la sauce Chamoy au moulin à épices ou au blender, avec ¼ cuil. à café de sel, pour obtenir une pâte lisse.
+
+4. Dès que les carottes sont cuites, transférez-les dans un grand récipient avec la sauce Chamoy, mélangez bien et laissez reposer 20 min pour que les saveurs se développent.
+
+5. Ajoutez sur les carottes les herbes et les abricots en tranches, puis transférez le tout dans un plat de service. Garnissez d'amandes grillées et arrosez d'huile et de jus de citron vert. Servez sans attendre.
+
+## Noms ingrédients
+
+abricots secs. ail. amandes. aneth. carottes. citron vert. huile d'olive. menthe. piment d'alep. sirop d'érable. sumac
+
+---
+
+# Salade de concombre, zaatar et citron haché
+
+## Commentaire
+
+Cette salade croquante est également très rafraîchissante, grâce au citron déployé ici sous toutes ses formes : jus, pulpe et écorce. Elle pourra accompagner à peu près toutes les recettes de ce livre. Le zaatar lui apporte un petit plus, mais supprimez-le si les recettes avec lesquelles vous servez cette salade en contiennent déjà.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En accompagnement*
+
+- 3 citrons
+- 4 ½ cuil. à soupe d'huile d'olive
+- 1 ¼ cuil. à café de menthe séchée
+- 1 ½ cuil. de zaatar
+- 1 échalote banane, coupée en deux dans la longueur, puis en tranches fines (40 g)
+- 1 ½ piment vert, coupé en fines lamelles (épépiné si vous n'aimez pas le feu)
+- 1 gros concombre, coupé en deux dans la longueur pour éliminer le cœur, puis détaillé en tranches biseautées de 5 mm d'épaisseur (450 g)
+- 60 g de mâche
+- 10 g d'aneth, haché grossièrement
+- 10 g de feuilles de basilic
+- 5 g de feuilles de menthe
+- Sel
+
+---
+
+## Déroulé de la recette
+
+1. Pressez 1-2 citrons pour obtenir 2 ½ cuil. à soupe de jus que vous placez dans un plat de service. Coupez 7 fines tranches dans le citron restant (gardez le reste pour une autre recette). Retirez les pépins, puis empilez les tranches. Retirez la moitié de l'écorce, puis hachez finement les tranches, y compris l'écorce restante. Ajoutez le tout dans le plat avec l'huile, la menthe séchée, le zaatar, les échalotes, les piments verts, le concombre et 1 cuil. à café de sel. Mélangez bien, puis ajoutez la mâche et toutes les herbes. Remuez délicatement et servez aussitôt.
+
+## Noms ingrédients
+
+aneth. basilic. citron. concombre. échalotes. huile d'olive. mâche. menthe. piment vert. zaatar
+
+---
+
+# Purée de patate douce au yaourt et citron vert
+
+## Commentaire
+
+Si vous vous sentez engourdi ou que vos papilles gustatives sont endormies, cette purée va sans nul doute vous remettre en train. Elle offre une tension étonnante entre une douceur puissante et un tranchant extrême, et ne peut manquer de faire son petit effet au milieu d'un assortiment de mezze.
+
+Cette purée peut être préparée avec des patates douces à chair violette ou avec les variétés plus courantes à chair orangée, même si les premières offrent une saveur plus prononcée et plus complexe, avec des notes fumées qui évoquent le bacon. Si vous souhaitez prendre de l'avance, la purée peut être préparée la veille et conservée au réfrigérateur.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En accompagnement (ou en dip pour 6 personnes)*
+
+- 2-3 patates douces à chair violette (ou orange), pelées et coupées en cubes de 2 cm (550 g)
+- 4 cl d'huile d'olive
+- 2 citrons verts : 1 ½ cuil. à café de zeste finement râpé ; le reste en quartiers, pour servir
+- 200 g de yaourt à la grecque
+- ½ petite gousse d'ail, écrasée
+- 1 ½ cuil. à café de mélasse de grenade
+- 2 cuil. à café de feuilles de coriandre, finement hachées
+- ½ gros piment rouge, épépiné et finement haché
+- 1 ½ cuil. à café de graines de sésame, grillées
+- Sel
+
+---
+
+## Déroulé de la recette
+
+1. Placez dans une petite casserole la patate douce et ¾ cuil. à café de sel. Couvrez les patates douces à hauteur d'eau bouillante, mettez sur feu moyen-vif et laissez cuire 10-12 min, jusqu'à ce qu'elles soient assez souples pour être écrasées. Égouttez-les (en réservant l'eau de cuisson, dont vous pouvez avoir besoin pour assouplir la purée). Ajoutez 2 cuil. à soupe d'huile, puis écrasez les morceaux de patate jusqu'à obtenir une purée lisse. Laissez refroidir légèrement, puis incorporez la moitié du zeste de citron vert et 2 cuil. à soupe de yaourt. Déposez des cuillerées de ce mélange sur une assiette, en formant des creux avec le dos de la cuillère.
+
+2. Mélangez le reste du yaourt avec l'ail et répartissez uniformément cette préparation sur la purée. Arrosez avec la mélasse de grenade et le reste d'huile (2 cuil. à café), puis garnissez avec la coriandre, le piment, les graines de sésame et le reste du zeste de citron vert. Assaisonnez avec une pincée de sel et servez avec les quartiers de citron vert.
+
+## Noms ingrédients
+
+ail. citron vert. coriandre. graines de sésame. huile d'olive. mélasse de grenade. patates douces. piment rouge. yaourt grec
+
+---
+
+# Pommes de terre au chaat masala, yaourt et tamarin
+
+## Commentaire
+
+Cette recette s'inspire de l'*aloo chaat*, un plat typique de la cuisine de rue indienne. Elle a de nombreuses variantes, dont certaines réservées aux amateurs de sensations fortes, avec leur croquant puissant et leur mélange de saveurs sucrées-salées. Notre version est plutôt soft, mais reste assez tonique, tant pour les saveurs que pour l'apparence.
+
+Le chaat masala est un mélange d'épices légèrement piquant qui donne à ce plat sa saveur particulière. Il tire son acidité de l'amchoor, une poudre de mangue séchée très employée dans la cuisine indienne. Le chutney à la coriandre et la sauce au tamarin sont des condiments à avoir sous la main pour égayer sandwichs et wraps.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En accompagnement*
+
+- 750 g de pommes de terre nouvelles, en tranches de 1 cm dans la longueur
+- 2 cuil. à soupe d'huile d'olive
+- 1 cuil. à café de chaat masala
+- ½ cuil. à café de curcuma moulu
+- 250 g de yaourt à la grecque
+- ½ petit oignon rouge, pelé et coupé en fines rondelles, à la mandoline si possible (45 g)
+- 1 piment vert, en fines rondelles (10 g)
+- 1 ½ cuil. à café de graines de coriandre, grillées
+- 1 ½ cuil. à café de graines de nigelle, grillées
+- Sel
+
+### Chutney de coriandre
+
+- 30 g de coriandre
+- 1 piment vert, égrainé et haché grossièrement (10 g)
+- 1 cuil. à soupe de jus de citron vert
+- 6 cl d'huile d'olive
+
+### Sauce au tamarin
+
+- 1 ½ cuil. à soupe de pâte de tamarin (ou le double si vous l'extrayez de la pulpe)
+- 1 ½ cuil. à café de sucre en poudre
+- ¼ cuil. à café de chaat masala
+
+---
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 220 °C.
+
+2. Mettez les pommes de terre et 2 cuil. à café de sel dans une casserole moyenne, avec une grande quantité d'eau froide qui les dépasse de 4 cm. Placez à feu vif, portez à ébullition, puis laissez frémir 6 min, jusqu'à ce qu'elles soient presque cuites, mais encore un peu fermes. Égouttez-les dans une passoire et séchez-les bien, puis transférez-les sur une plaque de cuisson tapissée de papier sulfurisé. Mélangez-les avec l'huile, le chaat masala, le curcuma, ⅓ cuil. à café de sel et une bonne quantité de poivre noir au moulin. Enfournez pour 35 min, en remuant une ou deux fois, ou jusqu'à ce qu'elles soient bien dorées.
+
+3. Pendant ce temps, préparez le chutney de coriandre. Mettez tous les ingrédients et ¼ cuil. à café de sel dans le bol d'un robot de cuisine et mixez jusqu'à ce que le mélange soit lisse. Réservez jusqu'à utilisation.
+
+4. Pour la sauce au tamarin, fouettez tous les ingrédients dans un bol avec 1 ½ cuil. à café d'eau et réservez.
+
+5. Répartissez le yaourt sur un grand plat de service rond. Recouvrez avec le chutney de coriandre, en mélangeant légèrement sans l'incorporer complètement. Arrosez avec la moitié du tamarin, puis garnissez avec les pommes de terre, l'oignon et le piment. Arrosez du reste de tamarin, puis saupoudrez de graines et servez.
+
+## Noms ingrédients
+
+chaat masala. citron vert. coriandre. curcuma. graines de coriandre. graines de nigelle. huile d'olive. oignons rouges. pâte de tamarin. piment vert. pommes de terre nouvelles. sucre. yaourt grec
+
+---
+
+# Chou à la crème de gingembre et huile qui picote
+
+## Commentaire
+
+Yotam et Ixta ont tous les deux une passion pour le modeste (mais brillant) restaurant Xi'an Impression, dans le nord de Londres. Les plats phares sont les nouilles froides, le poulet poché à froid et les concombres. Ces recettes sont uniques et ont en commun des saveurs apportées par une merveilleuse huile aromatique. Comme nous n'avons pas réussi à découvrir comment la préparer, nous avons imaginé notre propre version.
+
+Servez ce chou avec du tofu frit, du poulet rôti à la sauce soja ou du poisson frit. Vous obtiendrez plus d'huile que la quantité employée dans la recette, mais elle se garde 2 semaines au réfrigérateur, prête à parfumer du tofu frit, de la viande ou du poisson, mais aussi du riz ou des nouilles.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En accompagnement*
+
+- 50 g de gingembre frais, pelé et finement râpé
+- 220 g de fromage à la crème (cream cheese)
+- ¼ de gousse d'ail, écrasée
+- 1 cuil. à soupe de jus de citron vert
+- 1 chou pointu, sans la base et la pointe, puis coupé en deux dans la longueur, les feuilles séparées (820 g)
+- 1 ½ cuil. à soupe de sauce soja
+- Sel
+
+### Huile qui picote
+
+- 15 cl d'huile de tournesol
+- 1 échalote banane, finement hachée (60 g)
+- 2 gousses d'ail, finement hachées
+- 10 g de gingembre frais, pelé et finement râpé
+- ½ piment rouge, finement haché
+- 1 étoile d'anis (badiane)
+- 1 cuil. à soupe de flocons de poivron rouge
+- 1 cuil. à café de flocons de piment
+- 1 ½ cuil. à café de poivre du Sichuan, grossièrement concassé
+- 1 ½ cuil. à café de concentré de tomates
+- 1 cuil. à café de graines de sésame noir
+- 1 cuil. à café de graines de sésame blanc
+
+---
+
+## Déroulé de la recette
+
+1. Pour l'huile qui picote, faites chauffer 2 cuil. à soupe d'huile de tournesol dans une petite casserole à feu moyen-vif. Ajoutez les 8 ingrédients qui suivent dans la liste et ¼ cuil. à café de sel. Réduisez à feu moyen et laissez revenir doucement pendant 5 min, en remuant souvent, jusqu'à ce que l'échalote soit tendre. Ajoutez le concentré de tomates et les graines de sésame ; prolongez la cuisson encore 2 min supplémentaires. Versez les 12 cl d'huile restants en remuant, puis baissez à feu doux et laissez mijoter très doucement pendant 20 min. Si l'huile se met à bouillonner, retirez la casserole du feu pendant 1 min. Laissez infuser au moins 1 h hors du feu.
+
+2. Pendant ce temps, pressez les 50 g de gingembre dans un tamis à mailles fines au-dessus d'un bol moyen pour récupérer 2 cuil. à soupe de jus. Jetez la pulpe. Ajoutez le fromage cream cheese, l'ail, le jus de citron vert et une bonne pincée de sel. Fouettez pour obtenir une pâte lisse.
+
+3. Dans une grande casserole, portez à ébullition de l'eau bien salée. Faites blanchir 2 min les feuilles de chou, qui doivent être à peine cuites. Égouttez-les dans une passoire, puis séchez-les en les tapotant avec du papier absorbant — elles ne doivent pas garder de trace d'humidité. Laissez-les refroidir.
+
+4. Mélangez la sauce soja avec 3 cuil. à soupe d'huile qui picote et 1 cuil. à soupe des aromates qui ont servi à préparer cette huile. Étalez le fromage frais sur un grand plat de service, déposez les feuilles de chou dessus, puis arrosez du mélange d'huile et de sauce soja. Servez immédiatement.
+
+## Noms ingrédients
+
+ail. anis étoilé. chou pointu. concentré de tomates. cream cheese. échalotes. flocons de piment. fromage à la crème. gingembre. graines de sésame. huile de tournesol. jus de citron vert. piment rouge. poivre du sichuan. sauce soja
+
+---
+
+# Tagliatelles au safran
+
+## Commentaire
+
+Ces pâtes ont vu le jour grâce à la recette des tagliatelles au safran avec ricotta et échalotes frites au piment chipotle. Mais elles sont également délicieuses avec notre ragù ultime cuit sur une plaque ou celui de nos lasagnes aux champignons épicés, voire une sauce tomate nature, du parmesan et un filet d'huile d'olive.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- ¼ cuil. à café de stigmates de safran, infusés au moins 20 min dans 2 ½ cuil. à soupe d'eau bouillante
+- 225 g de farine T45 (pour les pâtes fraîches) + un peu pour saupoudrer
+- 70 g de semoule fine
+- 2 œufs entiers + 2 jaunes
+
+---
+
+## Déroulé de la recette
+
+1. Pour confectionner les pâtes, mettez tous les ingrédients (y compris l'eau de trempage du safran) dans le bol d'un robot de cuisine et battez-les pendant environ 30 s pour obtenir la texture d'une chapelure collante. Déposez la pâte sur une surface légèrement farinée et pétrissez-la vigoureusement pendant 7 min, jusqu'à ce qu'elle devienne lisse et souple. Façonnez un disque, enveloppez d'un film alimentaire et laissez reposer 30 min.
+
+2. Fixez la machine à pâtes sur votre plan de travail. Divisez la pâte en quatre pâtons que vous gardez bien couverts. Prenez un pâton, formez un rectangle avec la pâte, puis faites-le passer deux fois dans la machine dont le laminoir est réglé sur l'épaisseur maximale, en le farinant légèrement à mesure que la feuille se forme. Rabattez les côtés irréguliers au centre, puis retournez la bande avant de la faire passer deux fois dans la machine, en la farinant régulièrement : vous devez obtenir des bords bien droits. Descendez d'un cran le niveau d'épaisseur et faites passer la pâte deux fois dans la machine, toujours en la farinant. Continuez ainsi jusqu'à arriver à l'avant-dernier cran, pour que les pâtes ne soient pas trop fines.
+
+3. Pliez la feuille de pâtes en quatre dans la longueur, en farinant chaque couche pour qu'elles ne collent pas. Coupez des pâtes de 2 cm de large avec un couteau bien aiguisé pour obtenir des tagliatelles bien larges. Placez-les sur le dos d'une chaise pour les faire sécher, pendant que vous travaillez les 3 autres pâtons. Formez les tagliatelles en nids, en les farinant, puis placez-les sur un plateau fariné.
+
+4. Si vous ne réalisez pas la recette suivante, faites cuire les tagliatelles 1 min dans un grand volume d'eau bouillante salée, dans une grande casserole (pour que les pâtes ne se collent pas entre elles), en remuant à la fourchette pour les séparer. Égouttez-les, assaisonnez-les avec la sauce de votre choix et servez sans attendre.
+
+## Noms ingrédients
+
+farine. œufs. safran. semoule
+
+---
+
+# Tagliatelles au safran, ricotta et échalotes frites au piment chipotle
+
+## Commentaire
+
+Vous pouvez utiliser des pâtes fraîches ou sèches du commerce, ou faire des tagliatelles au safran (voir recette précédente). Quoi qu'il en soit, il y a tellement de saveurs dans cette recette — de la sauce au parmesan aux piments marinés et aux échalotes frites au piment chipotle — que vous êtes assuré de surprendre et de ravir ses heureux destinataires.
+
+Si vous confectionnez des pâtes fraîches, préparez-les au dernier moment — elles cuisent en 1 min environ.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En plat principal*
+
+- 5 cl d'huile d'olive + 2 cuil. à soupe pour servir
+- 3 gousses d'ail, écrasées
+- 400 g de tagliatelles fraîches toutes prêtes (ou de tagliatelles au safran — voir recette précédente)
+- ¼ cuil. à café de stigmates de safran, infusés dans 2 ½ cuil. à soupe d'eau bouillante pendant au moins 20 min (doublez la quantité si vous n'utilisez pas des tagliatelles au safran maison)
+- 10 g de persil finement haché + ½ cuil. à soupe pour servir
+- 60 g de parmesan, finement râpé
+- 120 g de ricotta
+- Sel et poivre noir
+
+### Échalotes frites au chipotle
+
+- 2 cuil. à soupe d'huile d'olive
+- 3-4 échalotes, coupées en fines tranches, à la mandoline si possible, les anneaux séparés (150 g)
+- 2 cuil. à soupe de sirop d'érable
+- ¼ cuil. à café de graines de coriandre
+- ¼ cuil. à café de graines de cumin
+- ½ cuil. à café de flocons de chipotle
+
+### Piments verts marinés
+
+- 2 gros piments verts, en fines rondelles (30 g)
+- 2 cuil. à soupe de vinaigre de riz
+- ½ cuil. à café de sucre en poudre
+
+---
+
+## Déroulé de la recette
+
+1. Pour les échalotes frites, faites chauffer l'huile à feu vif dans une grande poêle antiadhésive. Ajoutez les échalotes, le sirop d'érable, les graines de coriandre et de cumin, les flocons de chipotle et ¼ cuil. à café de sel. Laissez revenir pendant 7 min, en séparant les échalotes à la spatule pour les empêcher de coller entre elles, jusqu'à ce qu'elles soient bien croquantes. Réduisez à feu doux et prolongez la cuisson de 6 min, jusqu'à ce qu'elles soient caramélisées et d'un brun doré profond. Avec 2 fourchettes, transférez-les sur une assiette tapissée de papier sulfurisé en les étalant bien — elles sont un peu collantes, mais vont gagner en croquant en refroidissant.
+
+2. Pour les piments marinés, placez les piments verts dans un bol avec le vinaigre, le sucre et ¼ cuil. à café de sel. Réservez.
+
+3. Pour la sauce des pâtes, mettez 5 cl d'huile, l'ail et ¼ cuil. à café de sel dans une grande sauteuse à feu moyen-vif. Laissez frire doucement pendant 2 min. Réservez.
+
+4. Faites bouillir un grand volume d'eau salée (la casserole doit être très large pour que les pâtes ne collent pas). Si vous avez préparé des tagliatelles fraîches au safran, faites-les cuire 1 min en remuant avec une fourchette pour les séparer. Sinon, respectez les indications du fabricant pour obtenir des pâtes *al dente*. Égouttez-les en réservant 14 cl d'eau de cuisson.
+
+5. Ajoutez les pâtes cuites dans la sauteuse qui contient la sauce à l'ail et faites chauffer à feu vif. Versez l'eau des pâtes, le safran et son eau de trempage, le persil, une généreuse quantité de poivre, puis mélangez. Incorporez en plusieurs fois le parmesan, en remuant les pâtes et en le laissant fondre avant d'en rajouter — comptez environ 2-3 min.
+
+6. Transférez les pâtes dans un plat creux et parsemez-les de cuillerées de ricotta. Garnissez avec les échalotes, les piments marinés et ½ cuil. à soupe de marinade et le reste du persil. Poivrez généreusement et servez sans attendre.
+
+## Noms ingrédients
+
+ail. chipotle. échalotes. graines de coriandre. graines de cumin. huile d'olive. parmesan. persil. piments verts. ricotta. safran. sirop d'érable. tagliatelles. vinaigre de riz
+
+---
+
+# Nouilles udon au tofu frit et nam jim à l'orange sanguine
+
+## Commentaire
+
+Pour notre version de la sauce thaïe nam jim — qui marie à merveille les saveurs sucrées, acides, épicées et salées — nous utilisons des oranges sanguines, qui apportent une touche particulière d'acidité douce. Leur saison est courte, donc vous pouvez utiliser le fruit d'oranges ordinaires en ajoutant un trait de jus de citron vert pour plus d'acidité.
+
+Pour gagner du temps, nous utilisons des nouilles précuites qu'il suffit d'ajouter dans la poêle. Ces nouilles peuvent se manger chaudes, mais gagnent à être servies à température ambiante, après avoir infusé dans la sauce. Le tofu qui les accompagne, en revanche, sera meilleur chaud, juste après avoir été frit.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En plat principal*
+
+- 600 g de nouilles udon précuites
+- 10 g de basilic thaï, frais
+- 3 oignons verts, en julienne (50 g)
+- 10 g de feuilles de coriandre, hachées
+- 2 piments rouges, en julienne (40 g)
+- 1 cuil. à soupe de graines de sésame blanc ou noir, ou un mélange
+- Sel
+
+### Tofu frit
+
+- 1 petite gousse d'ail, écrasée
+- 2 cuil. à soupe de sauce soja
+- 1 cuil. à soupe de sirop d'érable
+- 2 ½ cuil. à soupe d'huile de tournesol
+- 350 g de tofu ferme, égoutté, très bien séché et coupé en rectangles de 3 x 1,5 cm
+
+### Nam jim
+
+- ½ cuil. à soupe de riz basmati
+- ¾ cuil. à soupe de flocons de piment d'Alep (ou 1 cuil. à café d'une autre variété)
+- 4-5 oranges sanguines (ou ordinaires) : 16 cl de jus ; le reste coupé en quartiers, pour servir
+- 20 g de pâte de tamarin toute prête (le double si vous l'extrayez de la pulpe)
+- 2 ½ cuil. à soupe de sauce de poisson (ou de sauce soja claire)
+- 2 cuil. à soupe de sirop d'érable
+- 2 cuil. à soupe de sauce soja
+- ½ petite échalote banane, finement hachée (40 g)
+- 5 g de coriandre, hachée
+
+---
+
+## Déroulé de la recette
+
+1. Faites d'abord mariner le tofu. Mélangez l'ail, le soja, le sirop d'érable, 1 cuil. à soupe d'huile et ¼ cuil. à café de sel dans un récipient assez grand pour y déposer les morceaux de tofu en une seule couche. Ajoutez le tofu, remuez doucement pour enrober chaque morceau et laissez reposer 30 min à 1 h, en retournant les morceaux une fois.
+
+2. Pendant ce temps, préparez le nam jim. Faites griller le riz à sec pendant 2 min ½, dans une petite casserole à feu moyen-vif, puis ajoutez le piment d'Alep que vous laissez griller 30 s de plus, jusqu'à ce que le mélange embaume. Pilez-les dans un mortier ou réduisez-les en poudre grossière au moulin à épices. Transférez dans un récipient moyen, puis ajoutez le jus d'orange, le tamarin, la sauce de poisson, le sirop d'érable, la sauce soja, l'échalote et la coriandre. Mélangez bien avant de verser cette sauce dans une grande sauteuse pour la faire chauffer à feu moyen-vif pendant 2 min. Ajoutez les nouilles et poursuivez la cuisson encore 3 min, en remuant afin que ces dernières ne collent pas. Retirez de la poêle et réservez à température ambiante, pendant que vous faites frire le tofu.
+
+3. Faites chauffer le reste d'huile à feu moyen-vif dans une grande poêle antiadhésive, puis ajoutez la moitié du tofu, en espaçant bien les morceaux. Laissez frire 1 ½ à 2 min de chaque côté, jusqu'à ce qu'il soit croustillant et doré, en prenant garde aux projections d'huile. Réservez le tofu frit pendant que vous faites cuire le reste en ajoutant un peu d'huile au besoin. Versez le reste de marinade du tofu sur les nouilles et remuez.
+
+4. Ajoutez sur les nouilles le basilic, les oignons verts, la coriandre et les piments, mélangez, puis présentez dans un plat de service creux. Garnissez de graines de sésame et de tofu frit. Servez avec les quartiers d'orange.
+
+## Noms ingrédients
+
+ail. basilic thaï. coriandre. échalotes. graines de sésame. huile de tournesol. nouilles udon. oignons verts. oranges sanguines. piment d'alep. piments rouges. pâte de tamarin. riz. sauce de poisson. sauce soja. sirop d'érable. tofu
+
+
+---
+
+# Courgettes moelleuses à la harissa et au citron
+
+## Commentaire
+
+Les courgettes font rarement l'objet de débats virulents, mais provoquent souvent une réaction peu enthousiaste chez beaucoup de gens. Cela s'explique sans doute par leur teneur élevée en eau, qui a tendance à les rendre... aqueuses ! Dans cette recette, nous tirons parti de ce défaut en faisant cuire les courgettes dans leur jus, ce qui les rend merveilleusement fondantes, et nous rehaussons leur saveur par une longue infusion dans l'ail frit — ce faisant, nous avons réussi à convertir nos deux collègues courgettophobes.
+
+Ces courgettes sont très bonnes chaudes, mais elles seront encore meilleures quand elles auront reposé un quart d'heure, voire servies à température ambiante, pour que les saveurs aient le temps de se déployer. Pour prendre de l'avance, vous pouvez même les préparer la veille, en ajoutant le basilic juste avant de servir.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En accompagnement ou en mezze*
+
+- 8,5 cl d'huile d'olive
+- 6 gousses d'ail, en fines tranches
+- 1 cuil. à soupe de harissa à la rose (ajustez la quantité en fonction de la marque)
+- 1 piment rouge, finement haché
+- ½ citron confit, sans les pépins, finement haché (10 g)
+- 1 ½ cuil. à soupe de jus de citron
+- 1 kg de courgettes, coupées en fines tranches
+- 10 g de feuilles de basilic, grossièrement déchirées
+- Sel
+
+---
+
+## Déroulé de la recette
+
+1. Faites chauffer à feu moyen-vif l'huile et l'ail dans une grande sauteuse antiadhésive. Laissez chauffer pendant 4 min, en remuant souvent, jusqu'à ce que l'ail soit tendre, doré et odorant (il ne faut ni brunir ni griller, donc baissez le feu au besoin). Prélevez 3 cuil. à soupe d'huile, ainsi que la moitié de l'ail, et transférez le tout dans un bol avec la harissa, le piment, le citron confit et le jus de citron. Mélangez et réservez.
+
+2. Remettez la poêle à feu vif, puis ajoutez les courgettes et 1 ¼ cuil. à café de sel. Laissez cuire 18 min, en remuant souvent, jusqu'à ce que les courgettes soient très tendres, sans s'écraser (elles ne doivent pas brunir, donc baissez le feu si c'est le cas). Incorporez la moitié du basilic avant de transférer les courgettes dans un plat de service. Arrosez-les avec la moitié de la sauce à la harissa. Laissez reposer 15 min, puis saupoudrez d'une pincée de sel et parsemez le reste du basilic sur les courgettes.
+
+## Noms ingrédients
+
+ail. basilic. citron. citron confit. courgettes. harissa. huile d'olive. piment rouge
+
+---
+
+# Chou-fleur rôti au beurre pimenté
+
+## Commentaire
+
+Quand un légume occupe la première place dans un repas, comme cela se fait couramment avec une viande ou un poisson, nous évitons d'en faire trop pour le laisser s'exprimer dans toute sa simplicité. Dans ce livre, cependant, nous faisons souvent le contraire en amplifiant la gamme des saveurs pour les légumes entiers. Dans cette recette, grâce à la combinaison d'un mélange de piments et d'oignons grillés, d'un beurre brun généreux et d'une cuisson longue, le chou-fleur devient excessivement riche en goût, avec une saveur presque carnée.
+
+Le beurre pimenté peut être préparé à l'avance et se garde 2 semaines au réfrigérateur. Nous vous conseillons de doubler les quantités, car il est parfait sur des œufs, avec des légumes ou sur un poulet rôti.
+
+Servez cette recette en plat principal, avec du pain et quelques salades simples, ou dans le cadre d'un buffet de dips.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 2 gros choux-fleurs entiers, avec les feuilles (1,9 kg)
+- 2 oignons, pelés et coupés en huit
+- 8 piments rouges entiers, fendus sur toute la hauteur
+- 1 citron, coupé en quartiers, pour servir
+- Sel
+
+### Beurre pimenté
+
+- 120 g de beurre doux, fondu (ou 12 cl d'huile d'olive pour les végans)
+- 11 cl d'huile d'olive
+- 1 ½ de cuil. à soupe de flocons de poivron rouge
+- 2 ½ cuil. à café de concentré de tomates
+- 1 ¼ de cuil. à café de piment d'Urfa
+- 90 g de harissa à la rose (ajustez la quantité selon la marque utilisée)
+- ¼ cuil. à café de flocons de piment d'Alep
+- 3 gousses d'ail, écrasées
+- 1 ½ cuil. à café de sucre en poudre
+
+---
+
+## Déroulé de la recette
+
+1. Coupez seulement le haut des feuilles des choux-fleurs pour exposer 5 cm de blanc. Coupez les choux-fleurs en quatre de haut en bas, en veillant à ce que les feuilles restent attachées à la base.
+
+2. Remplissez d'eau bien salée une très grande casserole (assez grande pour contenir tous les quartiers de chou-fleur) et portez à ébullition. Faites alors blanchir les quartiers de chou-fleur pendant 2 min, en posant dessus un couvercle un peu plus petit que la casserole pour qu'ils restent immergés. Transférez-les ensuite dans une passoire pour les égoutter. Préchauffez le four à 180 °C (th. 6) en mode chaleur tournante.
+
+3. Mélangez tous les ingrédients du beurre pimenté dans un bol avec 1 cuil. à café de sel. Placez les quartiers de chou-fleur, les oignons et les piments sur une grande plaque tapissée de papier sulfurisé et arrosez-les de beurre pimenté. Mélangez bien pour que les quartiers soient enrobés de beurre (à la main de préférence, avec des gants). Étalez les quartiers de chou-fleur pour bien les espacer sur la plaque, sur une des faces coupées pour que les feuilles soient orientées vers l'extérieur. Enfournez pour 30 min, en arrosant régulièrement de beurre fondu, puis baissez le four à 170 °C (th. 5-6) et poursuivez la cuisson 35-40 min, en arrosant deux fois les quartiers de beurre, jusqu'à ce qu'ils soient bien dorés, avec les feuilles croustillantes.
+
+4. Transférez les quartiers sur un plat de service, arrosez-les de beurre de cuisson et garnissez avec les épices et aromates restés sur la plaque. Servez aussitôt, avec les quartiers de citron.
+
+## Noms ingrédients
+
+ail. beurre. chou-fleur. citron. concentré de tomates. harissa. huile d'olive. oignons. piment d'alep. piment d'urfa. piments rouges. sucre
+
+---
+
+# Ratatouille au berbéré et salsa à la crème de coco
+
+## Commentaire
+
+Si vous réussissez à vous procurer de l'injera (un pain plat fermenté utilisé en Éthiopie et en Érythrée pour prendre les aliments et les porter à la bouche), servez-le avec cette ratatouille. N'importe quel pain du commerce ou fait maison fera l'affaire, mais vous pouvez aussi proposer du riz ou du couscous.
+
+La ratatouille peut se préparer à l'avance et se conserver au réfrigérateur ; les saveurs se bonifieront avec le temps. La salsa, qui contribue à équilibrer les saveurs épicées, doit être préparée peu de temps avant de servir, car elle a tendance à se dissocier si on la laisse trop longtemps sur la table. Pour la salsa, choisissez une crème de coco épaisse et non pas liquide.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+### Ratatouille
+
+- 4 aubergines moyennes, coupées en cubes de 2,5 cm (1,1 kg)
+- 4 poivrons romano rouges et jaunes mélangés, épépinés et coupés en morceaux de 3 cm (420 g)
+- 2 choux-raves, pelés et coupés en cubes de 1,5 cm (460 g)
+- 2 cuil. à soupe de mélange d'épices berbéré (nous utilisons la marque Bart)
+- 20 cl d'huile d'olive
+- 10 g de gingembre frais, pelé et finement haché
+- 3 petites gousses d'ail, écrasées
+- 3 cuil. à soupe de sauce soja
+- 2 ½ cuil. à soupe de sirop d'érable
+- 300 g de tomates cerise mûres et sucrées, hachées grossièrement
+- 2 cuil. à café de graines de nigelle
+- 3 piments doux ou moyens, rouges et verts, ou un mélange
+- Sel
+
+### Salsa à la crème de coco et au concombre
+
+- 1 concombre, râpé grossièrement (300 g)
+- 15 g de coriandre, finement hachée
+- 25 g de gingembre frais, pelé et finement haché
+- 200 g de crème de coco
+- 2 cuil. à soupe de jus de citron vert
+
+---
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 210 °C (th. 7) en mode chaleur tournante.
+
+2. Mélangez dans un récipient les 5 premiers ingrédients de la ratatouille, ajoutez ¾ cuil. à café de sel, puis étalez les légumes sur 2 grandes plaques de cuisson (40 x 30 cm) recouvertes de papier sulfurisé. Enfournez pour 40 minutes, en remuant les légumes et en intervertissant les plaques dans le four à mi-cuisson, jusqu'à ce qu'ils soient cuits et bien dorés. Transférez dans un saladier, ajoutez le gingembre, l'ail, la sauce soja, le sirop d'érable, les tomates cerise et les graines de nigelle.
+
+3. Pendant que les légumes rôtissent, faites chauffer une poêle à frire à feu vif. Quand elle est très chaude, mettez les piments à cuire pendant 12 min et retournez-les plusieurs fois jusqu'à ce qu'ils soient brûlés de toutes parts. Hachez-les finement (retirez les pépins pour une saveur moins pimentée), puis incorporez-les aux légumes. Laissez reposer 30 min pour que les parfums se développent.
+
+4. Pour la salsa, mettez le concombre râpé dans un torchon propre et pressez bien pour éliminer le plus d'eau possible. Vous devez obtenir 180 g de concombre égoutté. Placez-le dans un saladier, puis ajoutez les autres ingrédients et ⅓ cuil. à café de sel. Réfrigérez jusqu'au moment de servir.
+
+5. Servez la ratatouille avec la salsa à la crème de coco. Proposez des pains plats chauds ou du riz en accompagnement.
+
+## Noms ingrédients
+
+ail. aubergines. berbéré. choux-raves. citron vert. concombre. coriandre. crème de coco. gingembre. graines de nigelle. huile d'olive. piments. poivrons. sauce soja. sirop d'érable. tomates cerises
+
+---
+
+# Steaks de portobello et purée de haricots de Lima
+
+## Commentaire
+
+Nous ne sommes pas fans de parler de « steak », de « hamburger » ou d'« escalope » de légumes, parce qu'on a l'impression de leur donner ainsi une autre dimension, une dimension supérieure. Pourtant, les légumes sont excellents. Ces champignons ne cherchent pas à imiter un steak, ils sont tout simplement aussi bons que n'importe quel steak (avec de la purée), voire meilleurs ; tout comme nos schnitzels de poivrons rouges sont aussi savoureux que n'importe quels schnitzels.
+
+Ce qui donne aux champignons leur vivacité, ce sont les piments, les épices et toute l'huile parfumée qui les enrobent. Comme vous n'utiliserez pas toute l'huile, gardez-la au réfrigérateur dans un récipient hermétique pour en arroser légumes grillés, nouilles, viande ou poisson.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En plat principal*
+
+### Steaks de portobello
+
+- 8 champignons portobello de taille moyenne à grande (environ 650 g), sans les pieds
+- 10 gousses d'ail, pelées
+- 1 oignon, coupé en 6 quartiers (150 g)
+- 1 ½ cuil. à soupe de flocons de piments chipotle
+- 1 piment rouge (15 g)
+- 4 cuil. à café de graines de cumin, grossièrement pilées dans un mortier
+- 1 cuil. à soupe de graines de coriandre, grossièrement pilées dans un mortier
+- 2 cuil. à soupe de concentré de tomates
+- 40 cl d'huile d'olive
+
+### Purée de haricots
+
+- 700 g de haricots de Lima cuits, égouttés (425 g)
+- 1 ½ cuil. à soupe de jus de citron
+- 1 cuil. à soupe d'huile d'olive
+- Sel de Maldon
+
+---
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 150 °C (th. 5) en mode chaleur tournante.
+
+2. Pour préparer les steaks de champignons, mélangez tous les ingrédients dans une cocotte allant au four, avec 1 cuil. à soupe de sel de Maldon. Rectifiez la mise en place des champignons pour les mettre face bombée vers le haut, puis recouvrez d'une feuille de papier sulfurisé que vous pressez sur les côtés pour recouvrir tous les ingrédients. Posez le couvercle de la cocotte et enfournez pour 1 h. Retournez les champignons, puis remettez le papier et le couvercle. Enfournez de nouveau pour 20 min, jusqu'à ce que les champignons soient très tendres, sans s'écraser. Avec des pinces, transférez les champignons sur une planche, coupez-les en deux et réservez.
+
+3. Avec une cuillère, retirez l'oignon, l'ail et le piment de la cocotte — vous ramasserez aussi une partie des épices et de l'huile, mais ce n'est pas grave. Mettez ce mélange dans le bol d'un robot de cuisine et mixez en sauce lisse. Remettez le mélange dans la casserole avec les moitiés de champignons et laissez cuire 5 min à feu moyen-vif pour que les saveurs se développent.
+
+4. Pendant ce temps, préparez la purée en mixant les haricots avec le jus de citron, l'huile d'olive, ½ cuil. à café de sel de Maldon et 2 cuil. à soupe d'eau pour obtenir un mélange bien lisse. Transférez-le dans une casserole moyenne et réchauffez 3 min à feu moyen-vif en remuant.
+
+5. Pour servir, répartissez la purée dans 4 assiettes. Disposez quatre moitiés de champignons dans chaque assiette et arrosez généreusement d'huile et des aromates utilisés pour la cuisson.
+
+## Noms ingrédients
+
+ail. champignons portobello. chipotle. concentré de tomates. graines de coriandre. graines de cumin. haricots de lima. huile d'olive. jus de citron. oignons. piment rouge. sel de maldon
+
+---
+
+# Chou à la crème de gingembre et huile qui picote (voir recette 68)
+
+*Note : Cette recette est déjà incluse dans le bloc 7 (recette 68).*
+
+---
+
+# Salade d'asperges au tamarin et au citron vert (voir recette 55)
+
+*Note : Cette recette est déjà incluse dans le bloc 6 (recette 55).*
+
+---
+
+# Courgettes moelleuses à la harissa et au citron
+
+*Note : Cette recette est déjà incluse dans ce bloc (recette 71).*
+
+---
+
+# Pancakes aux asperges et au gochujang (voir recette 33)
+
+*Note : Cette recette est déjà incluse dans le bloc 4 (recette 33).*
+
+---
+
+# Courgettes moelleuses à la harissa et au citron
+
+*Note : Voir recette 71.*
+
+---
+
+# Ratatouille au berbéré et salsa à la crème de coco (voir recette 74)
+
+*Note : Voir recette 74.*
+
+---
+
+# Verdure braisée au yaourt (voir recette 57)
+
+*Note : Voir recette 57.*
+
+---
+
+# Salade de concombre, zaatar et citron haché (voir recette 63)
+
+*Note : Voir recette 63.*
+
+---
+
+# Chou-fleur rôti au beurre pimenté (voir recette 72)
+
+*Note : Voir recette 72.*
+
+---
+
+# Houmous au gingembre, sumac et betterave
+
+## Commentaire
+
+Ce houmous diffère de la version classique que vous connaissez peut-être déjà. Le gingembre frais apporte une chaleur subtile, le sumac une pointe d'acidité, et la betterave rôtie lui donne une couleur spectaculaire et une douceur terreuse. Parfait servi en mezze avec du pain plat grillé.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En mezze*
+
+- 300 g de pois chiches cuits (voir recette de base), ou de pois chiches en bocal
+- 15 g de gingembre frais, pelé et finement râpé
+- 1 cuil. à soupe d'huile d'olive
+- 1 cuil. à soupe de tahini
+- 1 petite gousse d'ail, écrasée
+- 2 citrons bio : 1 cuil. à soupe de zeste finement râpé ; 3 cuil. à soupe de jus
+- 2 cuil. à soupe d'eau glacée
+- 1 cuil. à café de sumac + un peu pour servir
+- 1 petite betterave cuite (100 g), grossièrement hachée
+- Sel de Maldon
+- Huile d'olive et pain plat grillé, pour servir
+
+---
+
+## Déroulé de la recette
+
+1. Mettez tous les ingrédients dans le bol d'un robot, ajoutez ¾ cuil. à café de sel de Maldon et mixez pour obtenir une purée lisse, en raclant les bords du récipient plusieurs fois si besoin.
+
+2. Disposez le houmous dans un plat de service, en formant un large puits au centre avec le dos d'une cuillère. Arrosez d'un filet d'huile d'olive et saupoudrez de sumac. Servez avec du pain plat grillé.
+
+## Noms ingrédients
+
+ail. betteraves. citron. gingembre. huile d'olive. pois chiches. sel de maldon. sumac. tahini
+
+---
+
+# Lasagnes aux champignons épicés
+
+## Commentaire
+
+Ces lasagnes végétariennes sont riches, généreuses et parfumées. La farce aux champignons est relevée d'épices chaudes, et la béchamel crémeuse vient équilibrer l'ensemble. Un plat réconfortant par excellence, parfait pour recevoir.
+
+Vous pouvez préparer la sauce aux champignons la veille et la conserver au réfrigérateur. La béchamel est préférable le jour même. Les lasagnes peuvent être assemblées à l'avance et réchauffées au four.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 6-8 personnes — En plat principal*
+
+- 40 g de cèpes séchés
+- 2 cuil. à soupe d'huile d'olive
+- 2 oignons, finement hachés (300 g)
+- 6 gousses d'ail, écrasées
+- 600 g de champignons de Paris, grossièrement hachés
+- 300 g de pleurotes, grossièrement hachés
+- 2 cuil. à café de paprika fumé
+- 1 cuil. à café de cannelle moulue
+- 1 cuil. à café de cumin moulu
+- ½ cuil. à café de flocons de piment
+- 2 cuil. à soupe de concentré de tomates
+- 15 cl de vin rouge
+- 400 g de tomates en conserve, mixées en coulis
+- 20 g de persil, finement haché
+- 12-16 feuilles de lasagnes fraîches ou sèches (selon la taille du plat)
+- Sel et poivre noir
+
+### Béchamel
+
+- 80 g de beurre doux
+- 80 g de farine
+- 90 cl de lait entier
+- 50 g de parmesan, finement râpé + un peu pour le dessus
+- ¼ cuil. à café de noix de muscade moulue
+
+---
+
+## Déroulé de la recette
+
+1. Mettez les cèpes séchés dans un bol et couvrez-les d'eau bouillante. Laissez tremper 20 min. Égouttez-les en réservant le liquide de trempage. Hachez grossièrement les cèpes réhydratés.
+
+2. Faites chauffer l'huile à feu moyen-vif dans une grande sauteuse. Ajoutez les oignons et laissez-les cuire 10 min, en remuant de temps en temps, jusqu'à ce qu'ils soient tendres et dorés. Ajoutez l'ail et laissez cuire encore 1 min. Ajoutez tous les champignons et laissez-les cuire 15 min, en remuant souvent, jusqu'à ce qu'ils soient bien dorés et que toute l'eau de végétation soit évaporée. Incorporez les épices, le concentré de tomates et laissez cuire 1 min. Versez le vin et laissez réduire de moitié. Ajoutez les tomates, le liquide de trempage des cèpes (en veillant à ne pas mettre le sédiment du fond), 1 cuil. à café de sel et beaucoup de poivre. Laissez mijoter 20 min, jusqu'à ce que la sauce épaississe. Ajoutez le persil et rectifiez l'assaisonnement.
+
+3. Pour la béchamel, faites fondre le beurre à feu moyen dans une casserole. Ajoutez la farine et faites cuire 2 min en remuant. Versez le lait progressivement, en fouettant sans cesse, jusqu'à obtenir une sauce lisse et épaisse. Laissez cuire 5 min à feu doux, en remuant souvent. Incorporez le parmesan, la noix de muscade, ½ cuil. à café de sel et du poivre. Retirez du feu.
+
+4. Préchauffez le four à 190 °C (th. 6-7) en mode chaleur tournante. Dans un grand plat à gratin (environ 30 x 22 cm), étalez une couche de sauce aux champignons, puis recouvrez de feuilles de lasagnes. Continuez en alternant sauce aux champignons et feuilles de lasagnes, en terminant par une couche de champignons. Recouvrez de béchamel et saupoudrez de parmesan. Enfournez pour 35-40 min, jusqu'à ce que le dessus soit doré et que la béchamel bouillonne. Laissez reposer 10 min avant de servir.
+
+## Noms ingrédients
+
+ail. beurre. cannelle. cèpes séchés. champignons de paris. concentré de tomates. cumin. farine. flocons de piment. huile d'olive. lait. lasagnes. noix de muscade. oignons. paprika fumé. parmesan. persil. pleurotes. tomates. vin rouge
+
+
 ```
