@@ -20237,5 +20237,1631 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ail. beurre. cannelle. cèpes séchés. champignons de paris. concentré de tomates. cumin. farine. flocons de piment. huile d'olive. lait. lasagnes. noix de muscade. oignons. paprika fumé. parmesan. persil. pleurotes. tomates. vin rouge
 
+---
+# Salade de nouilles et laab aux champignons et aux cacahuètes
+
+## Commentaire
+
+Nous utilisons des champignons et des cacahuètes pour une version végane (la sauce de poisson est facultative) du laab, un plat à base de viande hachée originaire de Thaïlande et du Laos. Notre laab est servi avec des nouilles de riz, ce qui donne une salade suffisamment riche et complexe pour constituer un repas sain à elle seule.
+
+Les nouilles et le laab peuvent être préparés 3 h à l'avance, pour gagner du temps, mais attendez le dernier moment pour les mélanger et ajouter les herbes.
+
+## Catégorie
+
+Ottolenghi. Flavour. Pas testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En plat principal*
+
+- 25 g de riz basmati
+- 200 g de vermicelles de riz secs
+- 300 g de haricots verts, parés et coupés en deux
+- ½ grand concombre (200 g), coupé en quatre dans la longueur, graines retirées, puis coupé en tranches biseautées de 2 mm d'épaisseur
+- 2 piments rouges (20 g), épépinés et coupés en julienne
+- ½ oignon rouge (60 g), pelé et coupé en fines lamelles
+- 7 cl de pâte de tamarin toute prête (le double si vous l'extrayez vous-même de la pulpe)
+- 6 cl de sirop d'érable
+- 3 cuil. à soupe de sauce de poisson (facultatif, ou 2 cuil. à soupe de sauce soja claire si vous préférez)
+- 2 cuil. à soupe de sauce soja
+- 7,5 cl de jus de citron vert (4-5 fruits)
+- 13,5 cl d'huile d'arachide
+- 300 g de champignons de Paris, finement hachés
+- 300 g de pleurotes, grossièrement coupés à la main
+- 1 cuil. à café de flocons de piment rouge
+- 120 g d'arachides crues, légèrement grillées et finement hachées
+- 5 g de feuilles de menthe
+- 5 g de feuilles de basilic thaï
+- 10 g de feuilles de coriandre
+- Sel
+
+---
+
+## Déroulé de la recette
+
+1. Mettez le riz dans une petite poêle à feu moyen et faites-le griller 10 min, jusqu'à ce qu'il commence à se colorer et à sentir la noisette. Retirez du feu, laissez-le refroidir, puis broyez-le en poudre fine dans un mortier ou un moulin à épices.
+
+2. Placez les nouilles dans un récipient résistant à la chaleur, versez 1 l d'eau bouillante, puis couvrez avec une assiette ou un couvercle et laissez-les ramollir 10 min. Égouttez-les, passez-les sous l'eau froide, puis égouttez-les de nouveau.
+
+3. Pendant ce temps, portez de l'eau à ébullition dans une petite casserole. Ajoutez 1 cuil. à café de sel, puis les haricots. Laissez bouillir pendant 3 min. Égouttez les haricots et passez-les sous l'eau glacée pour arrêter la cuisson, puis égouttez-les de nouveau.
+
+4. Dans un saladier, mélangez les nouilles égouttées, les haricots, le concombre, les piments, l'oignon et ⅓ de cuil. à café de sel. Réservez.
+
+5. Dans un bol, fouettez le tamarin, le sirop d'érable, 2 cuil. à soupe de sauce de poisson (facultatif), 1 cuil. à soupe de sauce soja, 3 cuil. à soupe de jus de citron vert et 9 cl d'huile d'arachide. Réservez.
+
+6. Faites chauffer l'huile restante (3 cuil. à soupe) à feu vif dans une sauteuse pour y faire revenir les champignons pendant 12 min, en remuant de temps en temps, jusqu'à ce que toute l'eau de végétation se soit évaporée et qu'ils aient pris une couleur brune. Ajoutez les flocons de piment et prolongez la cuisson de 2 min. Hors du feu, incorporez les cacahuètes, le riz moulu et le reste de sauce de poisson (facultatif), de sauce soja et de jus de citron vert. Gardez au chaud.
+
+7. Juste avant de servir, ajoutez les herbes dans la salade de nouilles, ainsi que la moitié de la sauce au tamarin. Mélangez bien.
+
+8. Versez le reste de sauce au tamarin sur le laab et mélangez. Transférez le laab dans un plat, puis garnissez-le avec la salade de nouilles en prenant soin qu'il reste apparent sur les bords.
+
+## Noms ingrédients
+
+arachides. basilic thaï. champignons de Paris. coriandre. flocons de piment rouge. haricots verts. huile d'arachide. jus de citron vert. menthe. oignon rouge. piment rouge. pleurotes. riz basmati. sauce de poisson. sauce soja. sirop d'érable. tamarin. vermicelles de riz
+
+---
+
+# Houmous à l'ail confit et champignons grillés
+
+## Commentaire
+
+Le houmous se garde 3 jours au réfrigérateur, recouvert d'une fine couche d'huile pour éviter que la surface forme une croûte. En revanche, il vaut mieux faire cuire les champignons le jour même, car ils ont tendance à ramollir et à perdre leur saveur carnée s'ils restent trop longtemps au réfrigérateur.
+
+## Catégorie
+
+Ottolenghi. Flavour. Pas testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En accompagnement ou en mezze*
+
+### Houmous
+
+- 2 têtes d'ail, le haut coupé pour exposer les gousses
+- 2 cuil. à soupe d'huile d'olive
+- 2 cuil. à soupe de tahini
+- 300 g de pois chiches cuits, ou de pois chiches en bocal de bonne qualité
+- 2 cuil. à soupe de jus de citron
+- 3 cuil. à soupe d'eau glacée
+- Sel, sel de Maldon et poivre noir
+
+### Champignons
+
+- 140 g de champignons de Paris, coupés en quatre
+- 120 g de champignons shiitake, grossièrement coupés en deux à la main
+- 1 gousse d'ail, écrasée avec la lame d'un couteau
+- 6 cl d'huile d'olive
+- 1 citron : 3 fines lanières prélevées dans le zeste ; 2 cuil. à soupe de jus
+- 5 g de brins de thym
+- 1½ cuil. à café de sirop d'érable
+- 1 piment cascabel séché
+- 1 cuil. à soupe d'aneth, haché grossièrement
+- ½ cuil. à soupe de persil, finement haché
+
+---
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 200 °C (th. 6-7) en mode chaleur tournante.
+
+2. Arrosez les têtes d'ail avec 1 cuil. à café d'huile, puis saupoudrez-les d'un peu de sel et de poivre. Enveloppez-les dans du papier d'aluminium et enfournez-les pour 40 min, jusqu'à ce que les gousses soient fondantes et bien colorées. Retirez le papier d'aluminium. Quand les têtes ont un peu refroidi, pressez-les pour récupérer les gousses. Jetez la peau.
+
+3. Faites chauffer à feu vif un grand gril, puis disposez les champignons dessus (vous devrez peut-être opérer par tournées, selon la taille du gril). Faites-les griller 8 min environ, en les retournant plusieurs fois pour qu'ils soient striés de marques carbonisées sur tous les côtés. Transférez-les dans un récipient moyen avec l'ail écrasé, l'huile, les lanières et le jus de citron, le thym, le sirop d'érable, 1½ cuil. à café de sel de Maldon et une généreuse quantité de poivre noir fraîchement moulu.
+
+4. Déposez le piment séché sur le gril et laissez-le cuire 4 min, jusqu'à ce que son parfum se développe. Hachez-le grossièrement et mélangez-le (avec les graines) avec les champignons. Laissez mariner 1-2 h.
+
+5. Pour le houmous, mettez tous les ingrédients dans le bol d'un robot, puis ajoutez l'ail cuit et ¾ de cuil. à café de sel de Maldon. Mixez pour obtenir une texture lisse, en raclant au besoin la préparation sur les bords du bol.
+
+6. Étalez le houmous dans un grand bol peu profond, puis formez un grand puits au centre avec le dos d'une cuillère. Ajoutez l'aneth et le persil sur les champignons, mélangez, puis déposez cette préparation dans le puits à la cuillère, avec l'huile et les aromates des champignons.
+
+## Noms ingrédients
+
+ail. aneth. champignons de Paris. champignons shiitake. citron. huile d'olive. jus de citron. persil. piment cascabel. pois chiches. sel de Maldon. sirop d'érable. tahini. thym
+
+---
+
+# Candji de riz brun et shiitakes
+
+## Commentaire
+
+Ce candji — « une sorte de risotto aux champignons, mais en plus exotique », pour citer Claudine, notre testeuse — peut être servi pour un brunch dominical ou un dîner d'automne. Pour un repas plus consistant, vous pouvez le garnir d'œufs à la coque ou de poisson grillé ou fumé, ou l'accompagner de légumes asiatiques sautés servis à part.
+
+Le rayu est une huile pimentée japonaise souvent servie avec le riz, les ramen ou les gyozas. Notre variante contient du zeste de mandarine (que vous pouvez remplacer par du zeste d'orange), qui l'adoucit et l'enrichit. Même si vous ne préparez pas le candji, n'hésitez pas à confectionner le rayu pour relever la plupart de vos préparations. Le rayu se conserve 2 semaines au réfrigérateur, dans un bocal fermé.
+
+Pour gagner du temps, vous pouvez préparer le candji la veille, et le réchauffer doucement en ajoutant peut-être un peu d'eau pour l'assouplir.
+
+## Catégorie
+
+Ottolenghi. Flavour. Pas testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En plat principal*
+
+- 8 cl d'huile de tournesol
+- 6 oignons verts, finement hachés (60 g) + 2 oignons verts en julienne, pour servir (20 g)
+- 40 g de gingembre frais, pelé et très finement haché
+- 6 gousses d'ail, hachées très finement (20 g)
+- 180 g de riz brun à grains courts
+- 50 g de champignons shiitake séchés, hachés grossièrement
+- 150 g de radis arc-en-ciel ou de radis rouge et blanc, en fines tranches
+- 2 cuil. à soupe de vinaigre de riz
+- ½ cuil. à café de sucre en poudre
+- 50 g d'échalotes frites, du commerce ou maison
+- Sel
+
+### Rayu
+
+- 1 cuil. à café de flocons de piment d'Alep (ou ½ cuil. à café de flocons de piments plus épicés)
+- 1½ cuil. à soupe de flocons de poivron rouge
+- 1½ cuil. à soupe de graines de sésame, grillées
+- 1 cuil. à soupe de graines de sésame noir, grillées
+- 2½ cuil. à café de zeste de mandarine râpé fin
+- 2½ cuil. à soupe de sauce soja
+
+---
+
+## Déroulé de la recette
+
+1. Mettez l'huile, l'oignon vert haché, le gingembre, l'ail et ¼ de cuil. à café de sel dans une grande sauteuse à fond épais. Faites revenir à feu moyen pendant 12 min environ, en remuant souvent, jusqu'à ce que le mélange soit fondant et très odorant. Baissez le feu si l'oignon commence à trop se colorer ou à frire. Passez le mélange dans un tamis pour récupérer l'huile dans un bol. Remettez la moitié du mélange dans la sauteuse. Réservez le reste dans un bol.
+
+2. En procédant en deux fois, mixez le riz brun au robot, jusqu'à ce que les grains soient grossièrement brisés, mais pas réduits en poudre. Réservez.
+
+3. Hachez grossièrement les champignons shiitake dans un moulin à épices ou un robot de cuisine, en procédant en deux ou trois fois et en donnant de brèves impulsions pour obtenir des morceaux d'environ 1 cm. Ajoutez le riz et les shiitakes dans la sauteuse et faites cuire à feu moyen-vif. Incorporez 1,5 l d'eau et 1¼ de cuil. à café de sel, portez à petite ébullition, puis réduisez à feu moyen. Laissez cuire 30 min, en remuant souvent, jusqu'à ce que le riz soit tendre et prenne la consistance d'une bouillie souple.
+
+4. Pendant ce temps, mettez les radis dans un bol avec le vinaigre, le sucre et ¼ de cuil. à café de sel. Laissez mariner.
+
+5. Mélangez tous les ingrédients du rayu avec les aromates (oignon vert, gingembre et ail) et l'huile réservés.
+
+6. Quand le riz est cuit, répartissez-le dans 4 bols et arrosez-le de rayu. Garnissez avec les radis marinés, les oignons verts en julienne et les échalotes frites. Servez aussitôt.
+
+## Noms ingrédients
+
+ail. champignons shiitake séchés. échalotes frites. flocons de piment d'Alep. flocons de poivron rouge. gingembre. graines de sésame. huile de tournesol. mandarine. oignons verts. radis. riz brun. sauce soja. sucre. vinaigre de riz
+
+---
+
+# Tacos aux pleurotes avec plein de garnitures (ou un peu)
+
+## Commentaire
+
+La souplesse qu'offre un repas de tacos plaît à la fois aux convives, qui peuvent « faire » le mélange qui leur convient, et à la personne qui reçoit, puisqu'elle peut choisir le degré d'effort qu'elle souhaite fournir. Vous pouvez par exemple confectionner vous-même les tortillas — ce qui n'exige aucun savoir-faire complexe, mais vous donne quand même l'impression d'avoir vaincu un sommet mexicain majeur ! — ou utiliser des tortillas du commerce. Des pickles en pot et un pot de guacamole sont des alternatives acceptables à nos versions maison (qui sont cependant très rapides à préparer). Le seul élément essentiel, que vous ne regretterez pas d'avoir ajouté à votre répertoire, ce sont les pleurotes rôtis, à la fois croquants, moelleux et doux, qui absorbent les saveurs comme des petites éponges.
+
+Les pickles et les tortillas peuvent être préparés la veille.
+
+## Catégorie
+
+Ottolenghi. Flavour. Pas testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 12 tacos — Pour 4 personnes en plat principal*
+
+- 700 g de pleurotes, coupés grossièrement à la main
+- 2 gousses d'ail, écrasées
+- 3 cuil. à soupe de sauce soja
+- 1½ cuil. à soupe de sirop d'érable
+- 10,5 cl d'huile d'olive + un peu pour la préparation
+- 1 cuil. à café de graines de cumin
+- 4 piments cascabels, sans les pédoncules et émiettés grossièrement
+- ½ cuil. à café de poivre de la Jamaïque
+- 125 g de masa harina (farine de maïs), ou plus si besoin
+- 2 citrons verts, coupés en quartiers, pour servir
+
+### Pickles d'oignons
+
+- 1 oignon rouge, émincé à la mandoline si possible, ou à la main (150 g)
+- 2 oranges bio : 6 lanières fines de zeste ; 6 cl de jus
+- 2 sachets de tisane d'hibiscus, ou 5 g de fleurs d'hibiscus séchées (facultatif)
+- 10 baies de piment de la Jamaïque
+- 6 cl de vinaigre de vin blanc
+- 1 cuil. à café de sucre en poudre
+
+### Crème d'avocat
+
+- 1 avocat moyen pelé et dénoyauté
+- 90 g de crème de coco
+- 10 g de coriandre, hachée grossièrement
+
+### Pickles de chou-rave
+
+- 1 petit chou-rave (ou un gros radis), pelé et coupé en bâtonnets (120 g)
+- 1½ cuil. à soupe de jus de citron vert
+
+---
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 200 °C (th. 6-7) en mode chaleur tournante.
+
+2. Préparez les pickles d'oignons en mélangeant les ingrédients dans un bol avec ¼ de cuil. à café de sel et en plongeant les sachets de tisane sans les ouvrir. Réservez.
+
+3. Pour la crème d'avocat, placez tous les ingrédients dans le bol d'un robot, avec ¼ de cuil. à café de sel et 1 cuil. à café d'eau. Mixez pour obtenir une préparation lisse, en raclant les bords du récipient au fur et à mesure. Transférez dans un bol de service et réservez.
+
+4. Mélangez le chou-rave avec le jus de citron vert et ¼ de cuil. à café de sel dans un bol et réservez.
+
+5. Dans un grand récipient, mélangez les champignons, l'ail, la sauce soja, le sirop d'érable, 7,5 cl d'huile et ¾ de cuil. à café de sel. Dans un moulin à épices ou dans un mortier, réduisez en poudre le cumin, le cascabel et le piment de la Jamaïque. Mettez 1½ cuil. à café de ce mélange dans un bol, avec 2 cuil. à soupe d'huile, et réservez jusqu'au moment de servir. Assaisonnez les champignons avec le reste des épices.
+
+6. Répartissez les champignons sur deux plaques de cuisson tapissées de papier sulfurisé en les espaçant bien, puis enfournez pour 20 min. Transférez tous les champignons sur une seule plaque, mélangez bien et poursuivez la cuisson de 8 min, jusqu'à ce qu'ils soient croustillants et dorés.
+
+7. Pendant que les champignons rôtissent, préparez les tortillas. Mettez la masa harina et une bonne pincée de sel dans un récipient, puis versez 25 cl d'eau bouillante, en remuant avec une spatule jusqu'à ce que la pâte se rassemble. Quand la pâte a suffisamment refroidi pour être manipulée, pétrissez-la et formez une boule lisse offrant la texture de la pâte à modeler. Divisez la boule en 12 pâtons d'environ 30 g chacun, que vous laissez sous un torchon humide. Huilez légèrement vos mains pour façonner chaque pâton en une boule lisse.
+
+8. Préparez un torchon propre ; découpez 6 carrés de papier sulfurisé de 14 cm de côté. Faites chauffer à feu vif une grande poêle antiadhésive. Placez un morceau de pâte entre 2 carrés de papier sulfurisé et, à l'aide d'une poêle à fond épais (ou d'une presse à tortillas), pressez de façon uniforme et ferme pour l'abaisser en un disque de 10-12 cm de diamètre. Retirez la feuille du dessus et utilisez celle du dessous pour transférer la tortilla dans la poêle chaude. Faites-la cuire 90 s, jusqu'à ce qu'elle soit bien dorée, puis retournez-la et faites-la cuire 1 min de plus. Transférez-la sur le torchon dont vous rabattez les côtés pour bien la recouvrir. Répétez l'opération avec le reste des pâtons.
+
+9. Réchauffez les champignons quelques minutes à four chaud s'ils ont refroidi, puis disposez-les sur un plat et arrosez-les avec l'huile pimentée réservée. Servez avec les tortillas, les quartiers de citron vert, la crème d'avocat et les pickles (en jetant les sachets d'hibiscus de la préparation aux oignons).
+
+## Noms ingrédients
+
+ail. avocat. chou-rave. citron vert. coriandre. crème de coco. cumin. fleurs d'hibiscus. huile d'olive. masa harina. oignon rouge. orange. piment cascabel. piment de la Jamaïque. pleurotes. sauce soja. sirop d'érable. sucre. vinaigre de vin blanc
+
+---
+
+# Oignons grillés et gaspacho vert, par Neil
+
+## Commentaire
+
+Cette entrée raffinée a été créée par Neil Campbell, chef cuisinier de ROVI et personnalité charmante et créative, pour célébrer l'humble oignon. Quand nous le pouvons, nous utilisons au restaurant des oignons de Tropea Calabre, d'une jolie couleur rouge clair, sucrés et merveilleusement fondants. Mais d'autres variétés d'oignons doux conviennent aussi, y compris de simples oignons rouges.
+
+Le gaspacho vert se garde 3 jours au réfrigérateur dans un récipient hermétique, tout comme le yaourt fouetté. Vous n'utiliserez pas la totalité du gaspacho, donc servez le reste dans des verres à liqueur pour commencer un dîner d'été.
+
+## Catégorie
+
+Ottolenghi. Flavour. Pas testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 6-8 personnes — En entrée*
+
+- 8 oignons rouges de Tropea, pelés, parés et coupés en deux dans la longueur, en gardant les tiges (ou 4 oignons rouges, coupés en quartiers)
+- 4 cl d'huile d'olive
+- 2 cuil. à café de jus de citron
+- 120 g de feta, cassée grossièrement
+- 80 g de yaourt à la grecque
+- 20 g de croûtons maison ou du commerce, hachés grossièrement
+- ¼ de cuil. à café de graines de nigelle
+- Sel et poivre noir
+
+### Gaspacho vert
+
+- 2 poivrons verts, coupés en deux dans la longueur et épépinés (240 g)
+- ½ petit concombre, haché grossièrement (200 g)
+- 1 piment vert, haché grossièrement
+- 20 g de ciboulette
+- 5 g de feuilles d'estragon
+- 10 g de feuilles de coriandre
+- 5 g de persil
+- 1½ cuil. à soupe de vinaigre de cidre
+- 1 cuil. à soupe d'huile d'olive
+
+---
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 220 °C (th. 7-8) en mode chaleur tournante.
+
+2. Préparez d'abord le gaspacho. Placez les poivrons sur une plaque tapissée de papier sulfurisé, peau vers le haut, et faites-les rôtir 25 à 30 min, jusqu'à ce que la peau ait un peu noirci. Transférez-les dans un saladier, couvrez d'une assiette et laissez reposer 20 min, puis pelez-les et jetez la peau. Mettez-les dans un blender avec le reste des ingrédients, 2 cuil. à soupe d'eau et ¼ de cuil. à café de sel. Mixez quelques minutes, pour obtenir une sauce verte bien lisse. Réfrigérez jusqu'à utilisation. Réduisez le four à 180 °C (th. 6).
+
+3. Faites chauffer à feu vif une grande poêle antiadhésive. Mélangez les oignons avec 2 cuil. à café d'huile, le jus de citron, ¼ de cuil. à café de sel et un peu de poivre. Placez les oignons, face coupée vers le bas, dans la poêle chaude, puis baissez un peu le feu. Si vous utilisez des oignons de Tropea, faites-les cuire 5-6 min sans les remuer jusqu'à ce que la face coupée soit bien grillée. Si vous utilisez des oignons rouges coupés en quatre, faites-les cuire 5 à 6 min sur chaque face entaillée. Placez les oignons dans un plat, couvrez-les avec du papier d'aluminium, enfournez et laissez-les cuire jusqu'à ce qu'ils soient tendres, sans se défaire. Cela peut prendre entre 30 et 40 min.
+
+4. Mettez la feta et le yaourt dans le bol d'un robot et mixez pour obtenir une préparation la plus onctueuse possible.
+
+5. Étalez ce mélange dans un grand plat, en créant une petite cuvette au centre avec le dos d'une cuillère. Versez un quart du gaspacho dedans, puis parsemez le dessus d'oignons. Terminez avec les croûtons et les graines de nigelle, arrosez avec l'huile restante (2 cuil. à café d'huile) et servez.
+
+## Noms ingrédients
+
+ciboulette. citron. concombre. coriandre. croûtons. estragon. feta. graines de nigelle. huile d'olive. oignons de Tropea. persil. piment vert. poivrons verts. vinaigre de cidre. yaourt grec
+
+---
+
+# Pétales d'oignons à l'aigre-douce
+
+## Commentaire
+
+Ces oignons — sucrés à cœur, grillés sur les bords et baignant dans un sirop de grenade acidulé — ont commencé leur vie au Testi, un restaurant turc du nord de Londres que nous aimons beaucoup. Dans notre recette, nous remplaçons la mélasse et le salgame par du jus de grenade réduit. Ces oignons peuvent bien sûr accompagner une viande grillée, mais ils sont aussi absolument délicieux dans un contexte végétarien. Ils se marient bien avec le houmous, une salade d'aubergines et un peu de pain.
+
+## Catégorie
+
+Ottolenghi. Flavour. Pas testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En entrée ou en mezze*
+
+- 500 g d'oignons rouges gros comme une balle de golf (environ 12), pelés, puis coupés en deux dans la longueur
+- 7,5 cl d'huile d'olive
+- 40 cl de jus de grenade (100 % pur jus)
+- 10 g de ciboulette, finement hachée
+- 70 g de fromage de chèvre frais moelleux, coupé en morceaux de 2 cm (facultatif)
+- ⅔ de cuil. à café de flocons de piment Urfa (à défaut, une autre variété)
+- Sel
+
+---
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 200 °C (th. 6-7) en mode chaleur tournante.
+
+2. Faites chauffer une grande poêle antiadhésive sur un feu vif. Mélangez les oignons avec 2 cuil. à soupe d'huile et ¼ de cuil. à café de sel et placez-les dans la poêle chaude, face coupée en bas, en les espaçant. Placez une casserole sur les oignons pour les presser et obtenir une cuisson uniforme, puis baissez à feu moyen et laissez cuire 6 min, sans y toucher, jusqu'à ce que la face aplatie soit bien carbonisée. Transférez les oignons sur une plaque de cuisson tapissée de papier sulfurisé, côté brûlé vers le haut, enfournez-les pour 20 min environ, jusqu'à ce qu'ils soient fondants. Laissez-les ensuite refroidir.
+
+3. Pendant la cuisson des oignons, mettez le jus de grenade dans une casserole moyenne et faites-la chauffer à feu moyen-vif. Portez à ébullition, puis laissez mijoter environ 12 min, jusqu'à ce qu'il ne reste plus que 7 cl d'un liquide ayant la consistance du sirop d'érable. Laissez-le refroidir.
+
+4. Mélangez la ciboulette avec les 4,5 cl d'huile restants et une belle pincée de sel, puis réservez.
+
+5. Versez le sirop de grenade dans un grand plat creux que vous inclinez en tous sens pour napper le fond. Séparez à la main les oignons en pétales, puis étalez-les dans le sirop. Parsemez de fromage de chèvre (facultatif), répartissez l'huile de ciboulette à la cuillère et terminez avec les flocons de piment.
+
+## Noms ingrédients
+
+ciboulette. flocons de piment Urfa. fromage de chèvre. huile d'olive. jus de grenade. oignons rouges
+
+---
+
+# Pains plats à l'huile d'olive et beurre aux trois ails
+
+## Commentaire
+
+Il est parfois impossible de résister à certaines choses. D'ailleurs, il ne faut pas y résister. Le beurre aux trois ails en est la meilleure preuve. Fabriqué avec de l'ail rôti lentement, de l'ail noir à la saveur sucrée et de l'ail cru aux notes piquantes, il est tout bonnement fabuleux et vous aurez envie d'en mettre partout. Il se conserve 2 semaines au réfrigérateur, prêt à être tartiné sur du pain grillé, mis à fondre sur des légumes rôtis ou utilisé pour farcir des pommes de terre cuites au four.
+
+Si vous voulez gagner du temps, il est possible de préparer la pâte à pain 2 jours à l'avance.
+
+## Catégorie
+
+Ottolenghi. Flavour. Pas testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 pains plats*
+
+- 2 tomates allongées mûres
+- 2 gousses d'ail noir, en fines tranches
+- 1 cuil. à café de feuilles de thym frais
+- 1 cuil. à café de feuilles d'origan frais
+- Sel, sel de Maldon et poivre noir
+
+### Pains plats
+
+- 200 g de farine de force blanche
+- 1 cuil. à café de levure sèche à levée rapide
+- 1 cuil. à soupe d'huile d'olive + un peu pour graisser le moule et arroser les pains
+- 12 cl d'eau tiède
+
+### Beurre aux trois ails
+
+- 1 tête d'ail, le haut coupé pour exposer les gousses
+- 1 petite gousse d'ail, hachée grossièrement
+- 4 gousses d'ail noir, hachées grossièrement
+- 10 g de persil, ciselé
+- 1½ cuil. à café de graines de cumin, grillées et écrasées
+- 100 g de beurre doux, ramolli
+
+---
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 200 °C (th. 6-7) en mode chaleur tournante.
+
+2. Préparez d'abord les pains plats. Mettez dans un grand récipient la farine, la levure, l'huile et ½ cuil. à café de sel. Versez l'eau et mélangez avec une spatule. Transférez sur une surface légèrement huilée. Huilez aussi légèrement vos mains et pétrissez la pâte pendant 5 min, jusqu'à ce qu'elle soit souple et élastique. Remettez la pâte dans le bol, couvrez d'un torchon propre légèrement humide et laissez lever 40 min à 1 h dans un endroit chaud, jusqu'à ce qu'elle ait presque doublé de volume. Découpez-la en 4 pâtons égaux que vous réservez sous un torchon propre.
+
+3. Pendant que la pâte lève, préparez le beurre aux 3 ails. Arrosez la tête d'ail avec 1 cuil. à café d'huile et saupoudrez d'un peu de sel et de poivre. Enveloppez-la de papier d'aluminium et faites-la rôtir 40 min au four, jusqu'à ce que les gousses aient ramolli. Sortez-la du four. Quand elle est assez froide pour être manipulée, pressez dessus pour extraire les gousses et jetez la peau. Réglez la température du four à 240 °C (th. 8).
+
+4. Mettez l'ail cuit, l'ail cru et l'ail noir dans un mortier, ajoutez 1½ cuil. à café de sel de Maldon et une généreuse quantité de poivre fraîchement moulu. Pilez pour obtenir une pâte grossière, puis transférez dans un bol avec le persil, les graines de cumin et le beurre. Mélangez bien et réservez.
+
+5. Râpez grossièrement les tomates et jetez la peau. Transférez la chair dans une passoire placée au-dessus d'un bol et laissez-la s'égoutter un peu.
+
+6. Mettez à chauffer une grande plaque de cuisson sur la grille du four, glissée à mi-hauteur.
+
+7. Transférez les pâtons sur une surface légèrement huilée et étirez chacun d'eux avec les mains pour former un disque grossier d'environ 18 cm sur 5 mm d'épaisseur.
+
+8. Faites cuire 2 pains à la fois : sortez la plaque du four et placez rapidement les pains plats dessus, en les espaçant. Glissez aussitôt la plaque dans le four et laissez les pains cuire pendant 7-8 min, jusqu'à ce que la pâte soit dorée et croustillante. Répétez l'opération avec les 2 pains restants.
+
+9. Tartinez chaque pain avec 1 cuil. à soupe de beurre parfumé, puis garnissez de tomate râpée égouttée et de tranches d'ail noir. Saupoudrez d'herbes et terminez par un filet d'huile, une généreuse pincée de sel de Maldon et une bonne quantité de poivre noir fraîchement moulu.
+
+## Noms ingrédients
+
+ail. ail noir. beurre. cumin. farine de force. huile d'olive. levure. origan. persil. sel de Maldon. thym. tomates
+
+---
+
+# Aubergines aux herbes et à l'ail frit
+
+## Commentaire
+
+Cette recette est à mi-chemin entre une salade et un condiment, idéal pour un buffet, mais également parfait pour garnir sandwichs et wraps. Comme il vous restera sans doute un peu de l'huile qui aura servi à faire frire l'ail, vous pourrez l'ajouter sur des pâtes ou dans une salade.
+
+L'aubergine peut être préparée la veille, mais vous ajouterez au dernier moment les herbes, le jus de citron et l'ail frit.
+
+## Catégorie
+
+Ottolenghi. Flavour. Pas testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 6 personnes — En accompagnement ou en mezze*
+
+- 4 aubergines moyennes (1,2 kg)
+- 17,5 cl d'huile d'olive
+- 6 gousses d'ail, en fines tranches, à la mandoline si possible, sinon à la main
+- 2½ cuil. à soupe de vinaigre de vin blanc
+- 1 piment vert, finement haché
+- 15 g de feuilles de menthe, finement ciselées
+- 15 g de feuilles de coriandre, finement ciselées
+- 15 g d'aneth, finement haché
+- 1 cuil. à café de jus de citron
+- Sel et poivre noir
+
+---
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 210 °C (th. 7) en mode chaleur tournante.
+
+2. Coupez les aubergines en morceaux de 3 cm que vous placez dans un saladier avec 10 cl d'huile, ¾ de cuil. à café de sel et une bonne quantité de poivre noir fraîchement moulu. Mélangez, puis étalez les aubergines sur 2 grandes plaques de cuisson tapissées de papier sulfurisé. Enfournez pour 35 min, jusqu'à ce que les aubergines soient bien dorées, en les mélangeant à mi-cuisson et en intervertissant les plaques pour une cuisson uniforme. Retirez du four et laissez refroidir.
+
+3. Pendant la cuisson des aubergines, faites chauffer à feu moyen-vif l'huile restante (7,5 cl) dans une petite casserole ; tapissez une assiette de papier absorbant. Quand l'huile est chaude, faites revenir l'ail pendant 1 min environ, en remuant pour séparer les tranches, jusqu'à ce que ces dernières soient dorées. Ne laissez pas cuire trop longtemps, car l'ail risque alors de brûler et de prendre une saveur amère. Avec une écumoire, transférez les tranches sur le papier et réservez l'huile. Saupoudrez l'ail frit d'un peu de sel et réservez.
+
+4. Mettez l'aubergine dans un saladier, ajoutez le vinaigre, le piment et 3 cuil. à soupe d'huile dans laquelle vous avez fait frire l'ail. Mélangez, puis ajoutez les herbes. Mélangez de nouveau. Présentez sur un plat de service, arrosez de jus de citron et saupoudrez d'ail frit.
+
+## Noms ingrédients
+
+ail. aneth. aubergines. coriandre. huile d'olive. jus de citron. menthe. piment vert. vinaigre de vin blanc
+
+---
+
+# Dirty rice
+
+## Commentaire
+
+Yotam est tombé amoureux du dirty rice à La Nouvelle-Orléans, où le célèbre restaurant Herbsaint fait une version incroyablement délicieuse de ce plat cajun. Rebecca Wilcomb, alors chef de cuisine à Herbsaint, nous a appris l'importance de laisser attacher le riz, car cela renforce les saveurs et donne aussi au plat sa couleur pas très nette (le mot anglais *dirty* signifie « sale »). Dans cette version sans viande, nous utilisons des oignons caramélisés, de l'ail noir et des châtaignes pour créer quelque chose d'assez proche.
+
+Le degré de piquant des mélanges d'épices cajun est très variable, et il vous faudra donc peut-être ajuster la quantité. Le dirty rice peut être préparé 2 jours à l'avance.
+
+## Catégorie
+
+Ottolenghi. Flavour. Pas testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En accompagnement*
+
+- 200 g de riz basmati
+- 7,5 cl d'huile d'olive
+- 7 gousses d'ail, pelées, 4 gousses en fines tranches et 3 gousses écrasées
+- 50 g de beurre doux (ou 5 cl d'huile d'olive pour les végans)
+- 3 oignons, finement hachés (350 g)
+- 180 g de châtaignes cuites et pelées prêtes à l'emploi, finement hachées
+- 25 g d'ail noir, finement haché
+- 1½ cuil. à soupe de mélange d'épices cajun
+- 15 cl de bouillon de légumes ou d'eau
+- 10 g de persil, finement haché
+- 1 cuil. à soupe de jus de citron
+- Sel
+
+---
+
+## Déroulé de la recette
+
+1. Mettez dans une casserole moyenne à feu moyen-vif le riz, ¼ de cuil. à café de sel et 40 cl d'eau chaude, portez à ébullition, puis baissez le feu, couvrez et laissez cuire 12 min. Retirez du feu et laissez reposer 10 min sans retirer le couvercle, puis aérez les grains à la fourchette.
+
+2. Pendant la cuisson du riz, faites chauffer à feu moyen 3 cuil. à soupe d'huile dans une petite poêle pour y faire revenir pendant environ 2 min à 2 min ½ l'ail en tranches (et surtout pas l'ail écrasé !), en remuant pour séparer les tranches, jusqu'à ce qu'elles soient dorées. Avec une écumoire, transférez les tranches d'ail sur une assiette tapissée de papier absorbant. Réservez l'huile. Saupoudrez l'ail frit d'un peu de sel et réservez.
+
+3. Dans une grande poêle antiadhésive, mélangez le beurre (si vous en utilisez), le reste d'huile d'olive (2 cuil. à soupe), les oignons et l'ail écrasé, puis laissez frire 12 min environ, en résistant à l'envie de remuer trop souvent, jusqu'à ce que les oignons soient d'un brun doré très profond. Réduisez le feu, puis ajoutez les châtaignes, l'ail noir, les épices cajun et ½ cuil. à café de sel. Poursuivez la cuisson pendant 7 min, en remuant de temps en temps, jusqu'à ce que le mélange soit d'un brun foncé profond, mais pas brûlé.
+
+4. Incorporez le riz, puis augmentez à feu vif. Quand le riz commence à attacher au fond de la poêle et à devenir croustillant (au bout de 2-3 min), versez le bouillon, puis laissez cuire 2 min de plus sans remuer, jusqu'à ce que tout le liquide soit évaporé. Hors du feu, ajoutez le persil, les tranches d'ail, le jus de citron et l'huile qui a servi à faire frire l'ail. Servez aussitôt.
+
+## Noms ingrédients
+
+ail. ail noir. beurre. bouillon de légumes. châtaignes. épices cajun. huile d'olive. jus de citron. oignons. persil. riz basmati
+
+---
+
+# Rondelles d'oignon frits au babeurre et au curcuma
+
+## Commentaire
+
+Les rondelles d'oignons frits sont irrésistibles et nous avons découvert que les oignons verts frits sont tout aussi délicieux, donc nous en avons ajouté dans cette recette. Nous les servons — pour ouvrir un repas festif ou comme en-cas — avec une sauce au curcuma, au mirin et au citron vert.
+
+Quelques conseils avant de vous lancer : portez des gants épais en caoutchouc pour éviter les taches jaunes tenaces. Préparez tout avant d'entamer la friture : le plan de travail, la sauce dip et les légumes trempés dans la pâte.
+
+## Catégorie
+
+Ottolenghi. Flavour. Pas testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En en-cas*
+
+- 25 cl de babeurre
+- 2½ cuil. à soupe de vinaigre de vin blanc
+- 25 g de curcuma frais, pelé et finement râpé (ou ½ cuil. à café de curcuma moulu)
+- 325 g de farine ordinaire
+- 2½ cuil. à soupe de graines de nigelle
+- 1½ cuil. à soupe de graines de carvi
+- 1 citron vert bio : 2 cuil. à café de zeste finement râpé ; le reste coupé en quartiers, pour servir
+- 1 oignon, coupé en tranches de 2 cm d'épaisseur, chacune séparée ensuite en rondelles (150 g)
+- 10 oignons verts, parés
+- 90 cl d'huile de tournesol, pour la friture
+- Sel et sel de Maldon
+
+### Sauce dip
+
+- ¼ de gousse d'ail
+- 5 g de curcuma frais, pelé et haché grossièrement
+- 2½ cuil. à soupe de mirin
+- 1 cuil. à soupe de jus de citron vert
+- 1 piment rouge, finement haché
+
+---
+
+## Déroulé de la recette
+
+1. Pour la sauce dip, pilez dans un mortier l'ail, le curcuma et une pincée de sel de Maldon pour obtenir une pâte grossière. Transférez dans un bol de service, ajoutez le mirin, le jus de citron vert et le piment. Réservez jusqu'au moment de servir.
+
+2. Dans un récipient de taille moyenne, mélangez le babeurre, le vinaigre et le curcuma. Réservez.
+
+3. Sur une plaque avec un rebord, mélangez la farine, les graines de nigelle et de carvi, le zeste de citron vert et 1 cuil. à café de sel.
+
+4. Sur le plan de travail, disposez 2 plaques de cuisson, dont une garnie de papier absorbant en quantité suffisante.
+
+5. En procédant en plusieurs tournées, passez les rondelles d'oignons et les oignons verts dans la farine, puis plongez-les dans la pâte au babeurre. Secouez-les pour égoutter l'excédent de pâte, puis repassez-les dans la farine avant de les étaler sur la plaque de cuisson sans papier absorbant.
+
+6. Faites chauffer l'huile à feu moyen-vif dans une grande sauteuse. Quand elle est bien chaude (180 °C sur un thermomètre de cuisine), faites frire les rondelles d'oignons et les oignons verts en trois ou quatre fois pendant 2-3 min, en les retournant à mi-cuisson, jusqu'à ce qu'ils soient croustillants et dorés. Sortez-les de l'huile avec une écumoire et déposez-les sur la plaque tapissée de papier absorbant. Saupoudrez-les de sel de Maldon, puis disposez-les sur un plat. Servez avec la sauce dip et les quartiers de citron vert.
+
+## Noms ingrédients
+
+ail. babeurre. carvi. citron vert. curcuma. farine. graines de nigelle. huile de tournesol. mirin. oignon. oignons verts. piment rouge. sel de Maldon. vinaigre de vin blanc
+
+---
+# Poireaux et salsa au miso et à la ciboulette
+
+## Commentaire
+
+La salsa occupe ici la vedette et se marie merveilleusement bien avec la douceur des poireaux. Vous pouvez aussi l'employer pour assaisonner des pommes de terre nouvelles ou pour arroser du tofu, du poisson ou du poulet. Les lanières de poireau frit et l'ail ajoutent des arômes et du croquant, mais vous pouvez sauter cette étape si vous voulez éviter la friture et servir simplement les poireaux avec la salsa.
+
+La salsa peut être préparée 3 jours à l'avance et conservée dans un bocal au réfrigérateur. Ne faites pas cuire les poireaux trop tôt, car ils risquent de perdre leur belle couleur verte.
+
+## Catégorie
+
+Ottolenghi. Flavour. Pas testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En entrée*
+
+- 12 poireaux moyens (2,1 kg)
+- 30 cl d'huile de tournesol, pour la friture
+- 1¼ de cuil. à café de fécule de maïs
+- 4 gousses d'ail, en fines tranches, à la mandoline si possible, sinon à la main
+- 1 cuil. à soupe d'huile d'olive
+- Sel et sel de Maldon
+
+### Salsa au miso et à la ciboulette
+
+- 15 g de gingembre frais, pelé et haché grossièrement
+- 1½ cuil. à soupe de graines de sésame noir et blanc, très bien grillées
+- 15 g de ciboulette, finement hachée + 1 cuil. à café finement hachée, pour servir
+- 1½ cuil. à soupe de miso blanc
+- 6 cl de mirin
+- ¾ de cuil. à soupe de vinaigre de riz
+
+---
+
+## Déroulé de la recette
+
+1. Enlevez les couches extérieures dures des poireaux et lavez-les bien pour éliminer le sable. Coupez la partie vert foncé pour que chaque poireau mesure environ 22 cm de long. Prélevez 60 g dans la partie vert foncé que vous détaillez en lanières très fines. Rincez ces dernières pour enlever le sable, puis séchez-les bien. Réservez.
+
+2. Pour la salsa, écrasez dans un mortier (ou avec la lame d'un couteau) le gingembre et ¼ de cuil. à café de sel de Maldon. Mettez dans un bol avec tous les autres ingrédients de la salsa. Mélangez bien et réservez.
+
+3. Dans une casserole assez grande pour contenir tous les poireaux à plat, versez de l'eau jusqu'à mi-hauteur, salez légèrement et faites chauffer à feu moyen-vif. Dès l'ébullition, ajoutez les poireaux et baissez à feu moyen. Posez un petit couvercle directement sur les poireaux pour les empêcher de remonter, puis laissez mijoter doucement pendant 20 min : les poireaux sont cuits quand on peut y enfoncer facilement la pointe d'un couteau, mais ils doivent garder leur forme intacte. Mettez-les debout dans une passoire et laissez-les bien s'égoutter.
+
+4. Pendant ce temps, faites chauffer l'huile de tournesol à feu moyen-vif dans une casserole moyenne ; tapissez une assiette de papier absorbant. Mélangez les lanières de poireau avec 1 cuil. à café de fécule de maïs. Quand l'huile est chaude (170 °C), plongez les lanières de poireau dedans et laissez-les frire 2 min environ, en mélangeant avec une fourchette, jusqu'à ce qu'elles soient dorées et croustillantes. Transférez avec une écumoire sur le papier absorbant et saupoudrez de sel de Maldon. Mélangez les tranches d'ail avec le reste de fécule (¼ de cuil. à café), puis faites-les frire 1 min environ, en remuant fréquemment pour les séparer, jusqu'à ce qu'elles soient croustillantes et dorées. Ajoutez-les aux lanières de poireaux et saupoudrez de sel de Maldon.
+
+5. Disposez les poireaux sur une grande assiette et arrosez-les avec des cuillerées de salsa. Nappez d'huile d'olive et garnissez de lanières de poireau et d'ail frit. Saupoudrez de ciboulette et servez.
+
+## Noms ingrédients
+
+ail. ciboulette. fécule de maïs. gingembre. graines de sésame. huile d'olive. huile de tournesol. mirin. miso blanc. poireaux. sel de Maldon. vinaigre de riz
+
+---
+
+# Oignons au beurre de miso
+
+## Commentaire
+
+Ces oignons sont une révélation et un exemple parfait d'une préparation demandant très peu d'effort pour un résultat époustouflant : trois ingrédients suffisent à créer quelque chose de spectaculaire.
+
+Il est important de trouver un plat de cuisson juste assez grand pour contenir les oignons en une seule couche, sans qu'ils se chevauchent. Il est également important de « saturer » de jus les demi-oignons en les arrosant plusieurs fois pour que leur face coupée reste bien moelleuse. Il est préférable de les déguster aussitôt après la cuisson.
+
+Servez sur des toasts, du riz ou une purée de pommes de terre.
+
+## Catégorie
+
+Ottolenghi. Flavour. Pas testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 6 personnes — En accompagnement*
+
+- 8 oignons de taille normale (1,2 kg)
+- 100 g de beurre doux, fondu
+- 100 g de miso blanc
+
+---
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 240 °C (th. 8) en mode chaleur tournante.
+
+2. Coupez les oignons en deux dans la longueur, en éliminant la peau sèche (et la première couche si elle est trop dure). Coupez la partie supérieure et une partie de la base (mais pas complètement pour que les moitiés d'oignons restent entières).
+
+3. Mélangez au fouet le beurre fondu, le miso et 1 l d'eau chaude.
+
+4. Placez les moitiés d'oignon dans un plat de cuisson ou sur une plaque avec un rebord haut (40 x 28 cm), face coupée vers le bas, puis arrosez-les avec le beurre de miso. Couvrez hermétiquement avec une feuille de papier d'aluminium et enfournez pour 35 min. Retirez le papier d'aluminium et retournez les oignons (veillez à ce qu'ils ne se défassent pas). Arrosez-les généreusement de beurre de miso, puis remettez-les au four pour 45 min sans les couvrir, en les arrosant toutes les 10 min, jusqu'à ce qu'ils soient très tendres et profondément dorés sur le dessus. La sauce doit avoir réduit et pris une consistance épaisse.
+
+5. Transférez délicatement les oignons sur un plat de service, arrosez-les de sauce et dégustez sans attendre.
+
+## Noms ingrédients
+
+beurre. miso blanc. oignons
+
+---
+
+# Salade de « nouilles » de chou-rave
+
+## Commentaire
+
+La saveur acide et brûlante du poivre du Sichuan, et la sensation engourdissante qu'il laisse en bouche, apportent à cette salade une belle intensité dont l'effet se prolonge sur tout le repas. Nous aimons la servir avec du riz et un peu de tofu frit, des fruits de mer ou de la viande.
+
+Le mélange de noix, d'algues et de graines de piment qui garnit cette recette est vraiment incroyable, alors préparez-en plus que la quantité indiquée pour saupoudrer salades, nouilles et riz. Il reste croquant pendant 3 jours si on le conserve dans un récipient hermétique.
+
+Si vous ne trouvez pas de chou-rave, vous pouvez employer un gros radis, comme le daikon, ou de la papaye verte. Pour éviter que la salade change de couleur et se détrempe, il vaut mieux l'assaisonner au dernier moment.
+
+## Catégorie
+
+Ottolenghi. Flavour. Pas testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En accompagnement*
+
+- 1 cuil. à soupe de graines de sésame blanc ou noir, ou un mélange des deux, grillées
+- 1 cuil. à café de graines de pavot, grillées
+- 1 cuil. à café de nori séchée en poudre du commerce (ou ½ feuille de nori réduite en poudre au moulin à épices)
+- 1½ cuil. à café de flocons de piment d'Alep (ou ¾ de cuil. à café de flocons de piments ordinaires)
+- ½ cuil. à café de poivre du Sichuan, finement broyé
+- 1 cuil. à soupe de cacahuètes grillées salées, hachées grossièrement
+- 2-3 choux-raves moyens, parés et pelés (570 g)
+- 3 cuil. à soupe de jus de citron vert
+- 20 g de gingembre frais, pelé et haché grossièrement
+- 1 cuil. à soupe de vinaigre de riz
+- 6 oignons verts, finement hachés (60 g)
+- 6 cl d'huile de tournesol
+- Sel de Maldon
+
+---
+
+## Déroulé de la recette
+
+1. Mélangez dans un bol les 6 premiers ingrédients avec ½ cuil. à café de sel de Maldon.
+
+2. Coupez le chou-rave en tranches aussi fines que possible, de préférence à la mandoline. Empilez les tranches pour former des petits tas faciles à manipuler et coupez-les en bandes de 2 cm de large (qui ressemblent à des nouilles plates courtes). Mettez ces « nouilles » dans un saladier, avec le jus de citron vert et 1 cuil. à café de sel de Maldon. Mélangez et laissez dégorger pendant 10 min.
+
+3. Pendant ce temps, écrasez dans un mortier le gingembre avec ¾ de cuil. à café de sel de Maldon pour obtenir une pâte grossière que vous placez ensuite dans un bol, avec le vinaigre et deux tiers des oignons verts. Faites chauffer l'huile à feu moyen dans une petite poêle, puis versez-la sur le mélange gingembre-oignons. Laissez mariner 20 min pour que les saveurs se mêlent.
+
+4. Égouttez le chou-rave pour le débarrasser de la plus grande partie de son eau de végétation, puis mélangez-le avec la préparation au gingembre. Transférez la salade dans un grand plat, saupoudrez de graines et terminez avec le reste des oignons verts.
+
+## Noms ingrédients
+
+cacahuètes. chou-rave. flocons de piment d'Alep. gingembre. graines de pavot. graines de sésame. huile de tournesol. jus de citron vert. nori. oignons verts. poivre du Sichuan. sel de Maldon. vinaigre de riz
+
+---
+
+# Salade de radis et concombre, cacahuètes au piment chipotle
+
+## Commentaire
+
+Pour un buffet mexicain, servez cette salade avec des tamales au fromage ou des tacos aux pleurotes avec plein de garnitures. Pour faire plus simple, il est possible de la servir uniquement avec les champignons rôtis de la recette des tacos, ce qui en fait une recette parfaite pour un dîner en semaine. Le jicama, une racine croquante qui pousse au Mexique, peut remplacer le daikon si vous réussissez à en dénicher.
+
+Vous pouvez doubler les quantités pour les cacahuètes au piment chipotle. La salade devra être dégustée aussitôt que vous aurez ajouté les cacahuètes, sinon elles perdront leur croquant.
+
+## Catégorie
+
+Ottolenghi. Flavour. Pas testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En accompagnement*
+
+- 1 concombre, coupé en demi-lunes de 3 mm d'épaisseur, à la mandoline si possible (300 g)
+- 1 daikon, pelé et coupé en demi-lunes de 3 mm d'épaisseur, à la mandoline si possible (300 g)
+- 50 g de radis rouge et blanc, en fines tranches, à la mandoline si possible
+- 20 g de coriandre fraîche, les feuilles avec une partie des tiges
+- 1 gousse d'ail, écrasée
+- ¼ de piment jalapeño, épépiné et finement haché (5 g)
+- 1 cuil. à café de graines de cumin, grillées et pilées dans un mortier
+- 2-3 citrons verts bio : 1 cuil. à café de zeste finement râpé ; 3 cuil. à soupe de jus
+- 2 cuil. à soupe d'huile d'olive
+- Sel de Maldon et poivre noir
+
+### Cacahuètes au piment chipotle
+
+- 1 piment chipotle séché, sans pédoncule (ou ½ cuil. à café de flocons de piment)
+- 90 g de cacahuètes blanchies non salées
+- 1 pincée de piment de Cayenne
+- 1¼ de cuil. à soupe de golden syrup
+- 2 cuil. à café de zeste de citron vert bio
+- 1½ cuil. à café de jus de citron vert
+- 1½ cuil. à café d'huile d'olive
+
+---
+
+## Déroulé de la recette
+
+1. Pour les cacahuètes au piment chipotle, broyez le piment séché en poudre fine dans un moulin à épices ou dans un mortier. Prélevez-en une ½ cuil. à café que vous placez dans une petite sauteuse avec les cacahuètes, le piment de Cayenne, le golden syrup, ⅓ de cuil. à café de sel de Maldon, le zeste de citron vert, le jus de citron vert et l'huile. Faites cuire à feu moyen-vif pendant 8 min environ, en remuant souvent, jusqu'à ce que les cacahuètes soient collantes et bien enrobées. Transférez-les sur une plaque de cuisson tapissée de papier sulfurisé et laissez-les refroidir complètement. Cassez-les en petites bouchées et réservez.
+
+2. Mettez dans un saladier le concombre, le radis, le daikon et la coriandre. Dans un bol, mélangez l'ail, le piment, le cumin, le zeste de citron vert, le jus de citron vert, l'huile restante (2 cuil. à soupe), 1½ de cuil. à café de sel de Maldon et une bonne quantité de poivre fraîchement moulu. Fouettez l'ensemble et versez cet assaisonnement sur la salade. Transférez celle-ci dans un grand plat de service, garnissez-les avec la moitié des cacahuètes et proposez le reste à part, dans un bol.
+
+## Noms ingrédients
+
+ail. cacahuètes. citron vert. concombre. coriandre. cumin. daikon. golden syrup. huile d'olive. piment chipotle. piment de Cayenne. piment jalapeño. radis. sel de Maldon
+
+---
+
+# Ribs de maïs
+
+## Commentaire
+
+C'est Max Ng et l'équipe du Momofuku Ssäm, New York, qui nous ont donné l'idée de ces ribs de maïs pour ROVI. Les quartiers de maïs frits, qui se rétractent à la chaleur pour ressembler à des travers de porc, ont rencontré un grand succès chez ROVI, dont la philosophie consiste à traiter les légumes comme de la viande.
+
+Pour les cuisiniers amateurs, le plus grand défi consiste à préparer le maïs pour éliminer le cœur, très dur. Utilisez un très bon couteau bien affûté et faites des coupes franches et puissantes (en gardant vos doigts à distance !).
+
+Doublez la quantité des ingrédients pour le beurre au citron noir. Il est délicieux sur des toasts avec un filet de miel et se garde 1 semaine au réfrigérateur dans un bocal fermé.
+
+## Catégorie
+
+Ottolenghi. Flavour. Pas testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En en-cas ou en entrée*
+
+- 3 épis de maïs entiers, sans l'enveloppe (700 g)
+- 1,3 l d'huile de tournesol, pour la friture
+- 1½ cuil. à café de miel liquide
+- Sel de Maldon
+
+### Beurre au citron noir et graines de courge
+
+- 25 g de graines de courge
+- 60 g de beurre doux, très ramolli
+- 1-2 citrons noirs séchés, défaits en gros morceaux, puis broyés dans un moulin à épices pour obtenir ¾ de cuil. à café de poudre fine (ou du zeste de citron vert bio râpé)
+
+---
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 160 °C (th. 5-6) en mode chaleur tournante. Pour le beurre au citron noir, placez les graines de courge sur une plaque et faites-les griller environ 10 min au four, jusqu'à ce qu'elles soient très odorantes et bien dorées, avec la peau qui commence à se fendiller. Broyez-les au moulin à épices (ou hachez-les finement), puis laissez-les refroidir 10 min.
+
+2. Avec une spatule, travaillez le beurre dans un récipient avec 2 cuil. à café de poudre de citron noir, les graines de courge hachées et 1 cuil. à café de sel de Maldon. Réservez au frais. Sortez-le 30 min avant emploi pour qu'il ramollisse.
+
+3. Avec un grand couteau bien affûté, coupez les épis de maïs en deux dans la largeur, puis en quatre dans la longueur. Le mieux est de maintenir les épis debout pour ne pas écraser les grains.
+
+4. Faites chauffer l'huile à feu moyen-vif dans une sauteuse (environ 180 °C sur un thermomètre de cuisson). Testez la chaleur en plongeant l'extrémité d'un des quartiers de maïs : elle doit grésiller, sans brunir aussitôt.
+
+5. Faites frire un tiers des quartiers de maïs pendant 6-7 min (attention aux projections d'huile !), en les retournant plusieurs fois jusqu'à ce qu'ils se rétractent légèrement et prennent une couleur brun doré. Retirez-les de l'huile avec une écumoire et mettez-les dans un plat tapissé de papier absorbant. Préparez de la même manière les quartiers restants. Transférez dans un saladier et mélangez avec le miel et 1 cuil. à café de sel de Maldon.
+
+6. Répartissez les ribs de maïs sur un plat de service. Proposez le beurre à part, saupoudré du reste de poudre de citron noir.
+
+## Noms ingrédients
+
+beurre. citron noir séché. graines de courge. huile de tournesol. maïs. miel. sel de Maldon
+
+---
+
+# Salade de tomates et de prunes, sel de sésame et nori
+
+## Commentaire
+
+Les feuilles de nori séchées sont à la fois délicieuses et riches en nutriments, et on peut se les procurer facilement et les utiliser pour rehausser la saveur de nombreuses recettes. Doublez (voire quadruplez !) la quantité des ingrédients pour le sel aromatisé, pour en avoir toujours sous la main.
+
+Les prunes se marient très bien avec les tomates mais, si ce n'est pas la saison, remplacez-les par d'autres tomates ; la salade restera toujours aussi bonne. Mélangez au dernier moment les tomates et les prunes avec les herbes et l'assaisonnement pour éviter que la salade ne contienne trop de jus.
+
+## Catégorie
+
+Ottolenghi. Flavour. Pas testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 800 g de tomates mûres (un mélange de cœur-de-bœuf, olivette, tigre, verte, jaune et tomates cerise), les plus grosses coupées en quartiers de 1 cm de large, les tomates cerise coupées en deux ou en quatre
+- 3 prunes mûres, dénoyautées et coupées en quartiers de 1 cm (250 g) (ou 250 g de tomates en plus)
+- 4 oignons verts, émincés
+- 5 g de feuilles de coriandre, hachées grossièrement
+- Sel de Maldon
+
+### Assaisonnement
+
+- 1¼ de cuil. à café de sauce de poisson (facultatif)
+- 2 cuil. à café de sucre en poudre
+- 2 cuil. à soupe de vinaigre de riz
+- 2 cuil. à café de sauce soja
+- 2 cuil. à soupe d'huile d'arachide
+- 5 g de gingembre frais, pelé et coupé en julienne
+- ½ gousse d'ail, écrasée
+- ¼ de cuil. à café de zeste d'orange finement râpé
+
+### Sel de sésame et nori
+
+- ½ feuille d'algue nori
+- 1½ cuil. à soupe de graines de sésame blanc ou noir, ou un mélange des deux, grillées
+- ½ cuil. à café de flocons de piment
+
+---
+
+## Déroulé de la recette
+
+1. Fouettez tous les ingrédients de l'assaisonnement avec ½ cuil. à café de sel de Maldon, puis laissez infuser pendant que vous préparez le reste de la salade.
+
+2. Cassez grossièrement la feuille de nori, puis réduisez-la en une poudre grossière (de préférence dans un moulin à épices). Dans un bol, mélangez la poudre de nori avec les graines de sésame, les flocons de piment et ½ cuil. à café de sel de Maldon.
+
+3. Dans un grand saladier, mélangez les tomates avec les prunes, puis ajoutez les oignons verts, la coriandre et l'assaisonnement. Présentez sur un plat, saupoudrez de sel de sésame et nori, puis servez sans attendre.
+
+## Noms ingrédients
+
+ail. coriandre. flocons de piment. gingembre. graines de sésame. huile d'arachide. nori. oignons verts. orange. prunes. sauce de poisson. sauce soja. sel de Maldon. sucre. tomates. vinaigre de riz
+
+---
+
+# Boulettes de tofu korma
+
+## Commentaire
+
+Si vous manquez de temps pour façonner les boulettes, vous pouvez simplement préparer la sauce korma, qui accompagnera du chou-fleur rôti ou de la patate douce. Elle se conserve 3 jours au réfrigérateur et 1 mois au congélateur. Les boulettes peuvent être cuites la veille, il suffit de les réchauffer avec la sauce dans une poêle avant de les servir.
+
+Les pains plats à l'huile d'olive et beurre aux trois ails constituent un accompagnement parfait.
+
+## Catégorie
+
+Ottolenghi. Flavour. Pas testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 16 boulettes — Pour 4 personnes en plat principal*
+
+- ½ oignon rouge, en fines lamelles (60 g), plus 1 cuil. à soupe pour servir
+- 2 cuil. à soupe de jus de citron
+- 40 g de noix de cajou
+- 20 g d'amandes blanchies
+- Les graines de 6 gousses de cardamome
+- 2 cuil. à café de graines de cumin
+- 2 cuil. à café de graines de coriandre
+- 3 cuil. à soupe d'huile d'olive
+- 1 oignon, haché (150 g)
+- 4 gousses d'ail, écrasées
+- 15 g de gingembre frais, pelé et râpé
+- 1 piment vert, épépiné et finement haché
+- 1 bâton de cannelle
+- ¾ de cuil. à café de curcuma moulu
+- 2 tomates allongées, pelées et râpées (180 g)
+- 2 cuil. à soupe de feuilles de coriandre, finement ciselées, pour servir
+- Sel et poivre noir
+
+### Boulettes de tofu
+
+- 2 cuil. à soupe d'huile d'olive + un peu pour façonner les boulettes
+- 250 g de champignons de Paris, en tranches de 5 mm
+- 200 g de tofu extra-ferme, bien séché, puis cassé en gros morceaux
+- 3 gousses d'ail, écrasées
+- 150 g de tofu soyeux
+- 2 cuil. à soupe de tahini
+- 1 cuil. à soupe de sauce soja
+- 30 g de chapelure panko
+- ½ cuil. à soupe de fécule de maïs
+- 5 oignons verts, émincés (75 g)
+- 10 g de coriandre, hachée
+
+---
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 200 °C (th. 6-7) en mode chaleur tournante. Mélangez l'oignon rouge, le jus de citron et une pincée de sel dans un bol. Réservez pendant que vous préparez les boulettes et la sauce (ou toute une nuit).
+
+2. Mettez les noix de cajou et les amandes dans une petite casserole à feu moyen-vif. Couvrez d'eau, portez à ébullition, puis baissez à feu moyen et laissez mijoter 20 min. Égouttez et réservez.
+
+3. Pour les boulettes, faites chauffer l'huile dans une sauteuse à feu vif, puis ajoutez les champignons et le tofu ferme que vous faites dorer pendant 8 min environ. Ajoutez l'ail et remuez 30 s, puis retirez du feu. Transférez dans un robot de cuisine et hachez grossièrement le mélange, avant de le placer dans un grand saladier avec le reste des ingrédients des boulettes, ¾ de cuil. à café de sel et une bonne quantité de poivre fraîchement moulu. Mélangez bien. Avec les mains huilées, formez 16 boulettes de la taille d'une balle de ping-pong (40 g environ), en les pressant pour qu'elles soient compactes. Placez-les sur une plaque tapissée de papier sulfurisé, en les espaçant, et enfournez pour 25 min, jusqu'à ce qu'elles soient légèrement dorées. Réservez.
+
+4. Pendant la cuisson des boulettes, préparez la sauce. Pilez dans un mortier les graines de cardamome, de cumin et de coriandre, puis réservez. Faites chauffer à feu moyen-vif 1½ cuil. à soupe d'huile dans une grande sauteuse pour y faire revenir l'oignon pendant 10 min, jusqu'à ce qu'il soit fondant et bien doré. Ensuite, mixez-le pendant 2 min environ dans un robot, avec les noix et 20 cl d'eau, pour obtenir une préparation bien lisse.
+
+5. Faites chauffer le reste d'huile (1½ cuil. à soupe) à feu vif dans la même sauteuse pour y faire revenir l'ail, le gingembre et le piment vert pendant 1 min, puis incorporez les épices et poursuivez la cuisson 1 min de plus. Ajoutez les tomates et laissez cuire 4 min en remuant de temps en temps, jusqu'à ce que la sauce épaississe. Ajoutez le mélange d'oignons et de noix, 50 cl d'eau, 1½ cuil. à café de sel et une bonne quantité de poivre fraîchement moulu. Portez à petit frémissement, puis baissez à feu moyen et laissez cuire 25 min pour que le mélange réduise d'un tiers. Ajoutez les boulettes, couvrez et réchauffez-les pendant 5 min. Servez-les garnies du reste de coriandre et d'oignon rouge.
+
+## Noms ingrédients
+
+ail. amandes. cardamome. cannelle. champignons de Paris. chapelure panko. coriandre. cumin. curcuma. fécule de maïs. gingembre. huile d'olive. jus de citron. noix de cajou. oignon. oignon rouge. oignons verts. piment vert. sauce soja. tahini. tofu extra-ferme. tofu soyeux. tomates
+
+---
+
+# Gâteau de navet
+
+## Commentaire
+
+Cette recette conjugue une légère obsession et un des plats chouchous des auteurs. L'obsession porte sur le gâteau aux navets — qui n'est pas vraiment un gâteau et qui contient en fait du daikon —, servi en dim sum dans la cuisine chinoise. Le plat chouchou est le croquant, que nous proposons généralement à Noël aux véganes et végétariens. Le défi consistait à combiner les deux pour créer un plat végan festif, à la fois spécial et gourmand.
+
+Pour prendre de l'avance, vous pouvez préparer le gâteau la veille et le garder au réfrigérateur pour le faire frire au dernier moment.
+
+## Catégorie
+
+Ottolenghi. Flavour. Pas testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En plat principal*
+
+### Croquant au sirop d'érable
+
+- 15 g de champignons shiitake séchés, trempés 20 min dans de l'eau bouillante
+- 30 g de pignons de pin, hachés grossièrement
+- 50 g de châtaignes pelées et cuites toutes prêtes, hachées grossièrement
+- 1 cuil. à soupe de graines de sésame blanc ou noir, ou un mélange
+- 1 petite gousse d'ail, écrasée
+- ¼ de cuil. à café de gingembre frais, pelé et finement râpé
+- 3 cuil. à soupe de sauce soja
+- 6 cl de sirop d'érable
+- Sel
+
+### Gâteau de navet
+
+- 130 g de farine de riz blanc thaïe (elle ne peut pas être remplacée par de la farine de riz gluant ou ordinaire)
+- 1 cuil. à soupe de fécule de maïs
+- 2½ cuil. à café de sucre en poudre
+- 1 petite gousse d'ail, écrasée
+- ¼ de cuil. à café de gingembre, pelé et finement râpé
+- 2 cuil. à café d'huile de sésame
+- 1-2 beaux daikons, parés, pelés et râpés grossièrement (600 g)
+- 10,5 cl d'huile de tournesol
+
+### Sauce pour servir
+
+- 4 cl de sauce soja
+- 2 cl de sirop d'érable
+- 1 cuil. à café d'huile de sésame grillé
+- 1½ cuil. à soupe de ciboulette, ciselée
+
+---
+
+## Déroulé de la recette
+
+1. Commencez par le croquant au sirop d'érable. Égouttez les champignons, pressez-les pour éliminer toute l'eau, puis hachez-les finement.
+
+2. Mettez les pignons de pin et les châtaignes dans une grande poêle antiadhésive à feu moyen-vif. Faites-les revenir 3-4 min en remuant, jusqu'à ce qu'ils soient dorés et parfumés, puis ajoutez les graines de sésame. Après 1 min, incorporez les champignons, l'ail, le gingembre, la sauce soja, le sirop d'érable et une pincée de sel. Poursuivez la cuisson 4-5 min en remuant sans cesse, jusqu'à ce que le liquide réduise et nappe bien les noix et les champignons. Étalez le tout sur une plaque tapissée de papier sulfurisé et réservez.
+
+3. Pour le gâteau aux navets, fouettez les 6 premiers ingrédients avec 24 cl d'eau et 1 cuil. à café de sel dans un grand récipient, jusqu'à ce que le mélange soit lisse. Réservez pendant que vous préparez le reste.
+
+4. Placez dans une grande sauteuse à feu moyen le daikon râpé et 2 cuil. à soupe d'eau, puis laissez cuire 15 min en remuant de temps en temps, jusqu'à ce que tout le liquide soit évaporé (attention, le daikon ne doit pas se colorer). Laissez refroidir 10 min.
+
+5. Préchauffez le four à 220 °C (th. 7-8) en mode chaleur tournante. Tapissez de papier sulfurisé graissé un moule ou un plat de cuisson (23 x 30 cm) à bords hauts.
+
+6. Mélangez le daikon avec la base à la farine de riz, ajoutez 80 g de croquant au sirop d'érable, puis remuez. Versez le mélange dans le moule préparé, en lissant le dessus, puis couvrez hermétiquement avec du papier d'aluminium. Placez le moule sur une plaque pâtissière avec un bord assez haut et versez de l'eau bouillante dans la plaque — l'eau doit monter aux trois quarts de la hauteur du moule — et enfournez pour 35 min. Sortez le moule du bain-marie, jetez le papier d'aluminium et laissez le gâteau refroidir. Transférez-le au réfrigérateur pour 40 min (ou toute une nuit).
+
+7. Démoulez le gâteau sur une planche à découper, puis détaillez-le en 8 rectangles réguliers. Badigeonnez le dessus et le dessous avec 4 cuil. à soupe d'huile (au total).
+
+8. Faites chauffer à feu moyen-vif une grande poêle antiadhésive, puis versez 1½ cuil. à soupe d'huile de tournesol. Faites frire les tranches de gâteau en deux fois, en les espaçant bien, et comptez 2-3 min de cuisson pour chaque côté, jusqu'à ce qu'elles soient croustillantes et dorées. Réservez au chaud pendant que vous faites frire les tranches restantes avec le reste d'huile.
+
+9. Préparez la sauce en mettant tous les ingrédients (sauf la ciboulette) dans une petite casserole, ajoutez 8 cl d'eau et faites chauffer à feu moyen-vif pendant 3 min environ.
+
+10. Disposez les tranches de gâteau sur un plat de service, en les faisant se chevaucher. Arrosez avec la moitié de la sauce, puis saupoudrez de ciboulette et du reste de croquant. Servez sans attendre, en présentant le reste de la sauce à part.
+
+## Noms ingrédients
+
+ail. champignons shiitake séchés. châtaignes. ciboulette. daikon. farine de riz blanc. fécule de maïs. gingembre. graines de sésame. huile de sésame. huile de tournesol. pignons de pin. sauce soja. sirop d'érable. sucre
+
+---
+
+# Salade de pommes de terre et salsa au basilic thaï
+
+## Commentaire
+
+Elle est aussi rafraîchissante que peut l'être une salade de pommes de terre, grâce aux généreuses quantités de citron vert, d'ail, de piment et de basilic thaï utilisées pour l'assaisonner. Elle fera un savoureux dîner léger avec le brocoli en deux façons, par exemple, mais peut aussi se marier avec du saumon ou du poulet rôti.
+
+Si vous ne trouvez pas de basilic thaï, employez un mélange à parts égales de coriandre et de basilic ordinaire. Pour éviter que la salsa perde sa belle couleur verte, préparez-la juste avant de la servir.
+
+## Catégorie
+
+Ottolenghi. Flavour. Pas testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En accompagnement*
+
+- 600 g de pommes de terre à salade petites ou moyennes (ou 1,1 kg si vous n'utilisez pas de topinambours), pelées et coupées en cubes de 3-4 cm
+- 600 g de topinambours, pelés et coupés en cubes de 3 cm (500 g) (facultatif)
+- 7,5 cl d'huile d'olive
+- 50 g de radis de rouge et blanc, coupés en fines lamelles, à la mandoline si possible
+- 3 citrons verts bio : 1½ de cuil. à soupe de zeste râpé ; 3 cuil. à soupe de jus
+- 1 petite gousse d'ail, hachée grossièrement
+- 2 cm de gingembre frais, pelé et haché grossièrement (15 g)
+- 20 g de basilic thaï, haché grossièrement + 8 g en feuilles, pour servir
+- 1 gros piment vert, en fines rondelles
+- 30 g d'amandes fumées grillées et salées, hachées grossièrement (ou des amandes grillées nature)
+- Sel et sel de Maldon
+
+---
+
+## Déroulé de la recette
+
+1. Si vous utilisez des topinambours, préchauffez le four à 210 °C (th. 7) en mode chaleur tournante.
+
+2. Mettez les pommes de terre dans une grande casserole, couvrez d'eau froide salée, portez à ébullition, puis laissez cuire environ 10 min, jusqu'à ce qu'elles soient à point, sans se défaire. Égouttez-les et laissez-les refroidir 15 min.
+
+3. Pendant ce temps, mélangez les topinambours avec 1 cuil. à soupe d'huile et ½ cuil. à café de sel de Maldon, avant de les étaler sur une plaque tapissée de papier sulfurisé. Enfournez pour 18-20 min, en les retournant à mi-cuisson, jusqu'à ce qu'ils soient dorés et bien cuits. Laissez refroidir quelques minutes, puis mettez-les dans un saladier avec les pommes de terre refroidies.
+
+4. Pendant la cuisson des topinambours, mélangez les radis avec 1 cuil. à soupe de jus de citron vert et ¼ de cuil. à café de sel de Maldon. Réservez.
+
+5. Dans le bol d'un robot de cuisine, mixez le zeste de citron vert, l'ail, le gingembre et 20 g de basilic thaï avec 1 cuil. à café de sel de Maldon et 6 cl d'huile pour obtenir une pâte vert clair. Versez-la sur les pommes de terre avec le reste du jus de citron (2 cuil. à soupe). Incorporez délicatement les radis (avec leur marinade) et les feuilles de basilic fraîches. Terminez avec le piment et les amandes. Servez aussitôt.
+
+## Noms ingrédients
+
+ail. amandes fumées. basilic thaï. citron vert. gingembre. huile d'olive. piment vert. pommes de terre. radis. sel de Maldon. topinambours
+
+---
+
+# Pommes de terre rôties aux épices, sauce tahini et soja
+
+## Commentaire
+
+Il existe plusieurs écoles pour la cuisson des pommes de terre rôties. Les garnitures proposées ici — tahini, soja, sésame et ciboulette — ne sont pas très orthodoxes, mais elles ajoutent une saveur de noisette dont les pommes de terre raffolent.
+
+Vous pouvez doubler ou tripler les ingrédients de la sauce vinaigrette tahini et soja : elle est parfaite en assaisonnement, sur du riz et sur des nouilles, ou encore comme dip avec des brochettes de tofu ou de poulet. Elle se conserve 2 semaines au réfrigérateur, dans un bocal en verre.
+
+## Catégorie
+
+Ottolenghi. Flavour. Pas testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — En accompagnement*
+
+- 900 g de pommes de terre à rôtir, avec la peau et coupées en cubes de 2,5-3 cm
+- 50 g de harissa à la rose
+- 1 gousse d'ail, écrasée
+- 3 cuil. à soupe d'huile d'olive
+- 1½ cuil. à soupe de ciboulette, finement hachée
+- 1½ cuil. à soupe de graines de sésame noir ou blanc, de préférence un mélange des deux, grillées
+- Sel et poivre noir
+
+### Vinaigrette tahini et soja
+
+- 60 g de tahini (mélangez bien avant emploi)
+- 2 cuil. à soupe de sauce soja
+- 1½ cuil. à soupe de mirin (ou de sirop d'érable)
+- 1½ cuil. à soupe de vinaigre de riz
+
+---
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 240 °C (th. 8) en mode chaleur tournante.
+
+2. Dans un grand récipient, mélangez les 4 premiers ingrédients avec ¾ de cuil. à café de sel et une généreuse quantité de poivre fraîchement moulu. Transférez sur une grande plaque de cuisson tapissée de papier sulfurisé en étalant bien les cubes de pommes de terre, puis couvrez hermétiquement avec du papier d'aluminium et enfournez pour 15 min.
+
+3. Retirez le papier d'aluminium, réduisez la chaleur du four à 200 °C (th. 6-7) et laissez rôtir encore 25 min, en remuant à mi-cuisson, jusqu'à ce que les pommes de terre soient cuites à cœur et bien dorées.
+
+4. Pendant la cuisson des pommes de terre, fouettez tous les ingrédients de la sauce vinaigrette pour obtenir une texture lisse.
+
+5. Transférez les pommes de terre dans un plat peu profond et arrosez-les de sauce tahini. Terminez avec la ciboulette et les graines de sésame. Servez aussitôt.
+
+## Noms ingrédients
+
+ail. ciboulette. graines de sésame. harissa à la rose. huile d'olive. mirin. pommes de terre. sauce soja. tahini. vinaigre de riz
+
+---
+# Flan de mandarine et piment ancho
+
+## Commentaire
+
+Dessert mexicain traditionnel, le flan est nappé dans une sauce au caramel (ou baigne dedans s'il est retourné). La méthode employée ici est ultra-facile : une fois le caramel préparé, tous les ingrédients de la crème anglaise sont fouettés pour obtenir une pâte lisse. C'est aussi simple que cela.
+
+Cette recette a d'abord été élaborée avec des oranges sanguines, qui se marient bien avec le piment ancho. Si c'est la saison, utilisez-les à la place des mandarines. Ce flan se conserve 3 jours au réfrigérateur.
+
+## Catégorie
+
+Ottolenghi. Flavour. Pas testé. Végé. Dessert
+
+---
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 120 g de sucre en poudre
+- 1 cuil. à soupe de jus de mandarine
+
+### Crème anglaise
+
+- 1 gros piment ancho, trempé 10 min dans de l'eau bouillante puis égoutté (et épépiné si vous préférez une saveur moins brûlante)
+- 270 g de lait concentré
+- 10 cl de crème double (ou de crème entière liquide à 33-35 % de MG)
+- 40 cl de lait entier
+- 3 œufs
+- 1 cuil. à café de pâte de vanille, ou d'extrait de vanille
+- 1 cuil. à café de zeste de mandarine râpé
+- 1 généreuse pincée de sel de Maldon
+
+---
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 150 °C (th. 5) en mode chaleur tournante. Glissez dedans un moule carré antiadhésif (20 x 20 cm) pour qu'il soit bien chaud. Surtout, n'utilisez pas un moule à charnière, sinon le caramel va couler.
+
+2. Pour le caramel, mettez le sucre dans une grande casserole à feu moyen et faites-le cuire 8 min environ : résistez à l'envie de remuer et agitez plutôt la casserole, jusqu'à ce que le sucre soit fondu. Continuez doucement jusqu'à ce que le sucre devienne ambré foncé. Sortez aussitôt le moule du four et versez le caramel dedans, en l'inclinant pour que le liquide nappe le fond de façon uniforme. Laissez le caramel prendre pendant que vous préparez la crème anglaise.
+
+3. Pressez le piment pour éliminer tout le liquide. Jetez le pédoncule, puis mettez le piment, ses graines et tous les autres ingrédients de la crème anglaise dans un blender dont vous faites tourner le moteur à grande vitesse pendant 30 s pour obtenir une préparation homogène.
+
+4. Tapotez sur le caramel pour vérifier qu'il a durci. Placez un tamis fin au-dessus, puis versez la crème. Jetez les morceaux de piment restés dans le tamis.
+
+5. Transférez le moule dans un plat de cuisson plus grand que lui, avec des bords hauts, et glissez le tout dans le four, en laissant la porte ouverte. Versez délicatement de l'eau bouillante dans le grand plat jusqu'à mi-hauteur du moule. Faites cuire 40 à 50 min, jusqu'à ce que le dessus soit pris et doré. Le flan doit cependant rester souple (il prendra au réfrigérateur). Retirez le moule du bain-marie et laissez refroidir légèrement, puis réfrigérez au moins 3 h (voire toute une nuit).
+
+6. Sortez le flan du réfrigérateur 30 min avant de servir. Passez la lame d'un petit couteau sur les bords pour les décoller du moule. Posez sur le moule une grande assiette avec un rebord pour récupérer le caramel liquide. En tenant l'assiette et le moule, retournez-les rapidement. Démoulez délicatement. Nappez de jus de mandarine et servez aussitôt.
+
+## Noms ingrédients
+
+crème double. lait concentré. lait entier. mandarine. œufs. piment ancho. sel de Maldon. sucre. vanille
+
+---
+
+# Beignets de tapioca et sirop d'orange à l'anis étoilé
+
+## Commentaire
+
+Même si vous pensez ne pas aimer le tapioca, essayez ces beignets. Ils sont sucrés, moelleux et croustillants, et il est difficile d'y résister une fois qu'on y a goûté. Vous pouvez préparer la pâte la veille et la faire frire au dernier moment. La sauce peut aussi être confectionnée un jour à l'avance.
+
+## Catégorie
+
+Ottolenghi. Flavour. Pas testé. Végé. Dessert
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Pour 15 beignets*
+
+- 90 g de perles de tapioca
+- 42 cl de lait entier
+- 12 cl de crème double (ou de crème entière liquide à 33-35 % de MG)
+- 1 cuil. à café de pâte de vanille ou d'extrait de vanille
+- ½ cuil. à café d'anis étoilé moulu
+- 3 cuil. à soupe de sucre en poudre
+- ¼ de cuil. à café de sel de Maldon
+- 1 œuf, blanc et jaune séparés, + 1 jaune
+- 3 oranges : 1½ cuil. à café de zeste râpé (1 orange) ; 80 ml de jus (2 oranges)
+- 75 g de miel liquide
+- 2 étoiles d'anis entières
+- 15 g de fécule de tapioca
+- 50 cl d'huile de tournesol, pour la friture
+- 10 g de sucre glace, pour saupoudrer
+
+---
+
+## Déroulé de la recette
+
+1. Mettez les 5 premiers ingrédients dans une casserole moyenne à fond épais et laissez reposer 20 min. Portez à petite ébullition à feu moyen-vif, ajoutez le sucre et le sel, puis baissez à feu moyen et laissez cuire 12 min, en remuant souvent : le tapioca va épaissir et les grains vont devenir translucides. Dans un bol, fouettez les jaunes d'œufs avec 3 cuil. à soupe de tapioca, avant de verser le tout dans la casserole. Éteignez le feu et remuez pendant 1 min pour incorporer les jaunes sans qu'ils prennent la texture des œufs brouillés. Ajoutez le zeste d'orange, puis versez le mélange dans un récipient pour le faire refroidir.
+
+2. Battez le blanc d'œuf en neige à peine ferme. Incorporez au tapioca refroidi, puis posez un film alimentaire au contact de la crème pour éviter qu'une peau ne se forme. Laissez prendre 1 h 30 au réfrigérateur (ou toute une nuit).
+
+3. Avec un couteau, coupez le sommet et la base de l'orange dont vous avez prélevé le zeste, puis pelez-la à vif et prélevez les quartiers en éliminant les membranes blanches. Réservez jusqu'à utilisation.
+
+4. Pour le sirop, mélangez dans une casserole le jus d'orange, le miel, 3 cl d'eau et l'anis étoilé. Faites bouillir à feu moyen-vif pendant 10-12 min, pour que le sirop réduise de moitié. Hors du feu, ajoutez les quartiers d'orange et laissez refroidir.
+
+5. Incorporez au tapioca la fécule, en mélangeant bien.
+
+6. Faites chauffer l'huile à feu moyen-vif dans une casserole moyenne. Façonnez à la main 35 g du mélange au tapioca pour former une boulette grossière (avec des gants, car la pâte colle) que vous plongez dans l'huile chaude. En travaillant vite, faites frire toutes les boulettes (mais pas plus de 5 à la fois) pendant 4-5 min, jusqu'à ce qu'elles soient bien dorées et cuites à cœur. Transférez-les sur un plat tapissé de papier absorbant. Vous devriez obtenir 15 beignets.
+
+7. Répartissez le sirop dans 4 assiettes, déposez 3 boulettes de tapioca dans chaque assiette (il en restera pour les gourmands) et saupoudrez de sucre glace.
+
+## Noms ingrédients
+
+anis étoilé. crème double. fécule de tapioca. huile de tournesol. lait entier. miel. œufs. orange. sel de Maldon. sucre. sucre glace. tapioca. vanille
+
+---
+
+# Abricots pochés et mascarpone aux pistaches et biscuits amaretti
+
+## Commentaire
+
+La *pesche ripiene* — pêches farcies — est un dessert italien typique de la région du Piémont. Après quelques détours à la mode Ottolenghi, nous avons obtenu cette recette inspirée de *pesche ripiene*, où les abricots remplacent les pêches et qui contient aussi des pistaches, de l'eau de fleur d'oranger et des zestes de citron vert.
+
+Ce dessert à la fois riche et rafraîchissant demande peu de travail. Veillez simplement à utiliser des abricots mûrs. Vous pouvez les faire pocher la veille pour prendre de l'avance. Il est également possible de préparer la crème la veille ; les biscuits se ramolliront un peu, mais ceux qui garnissent le dessert lui redonneront un peu de croquant.
+
+## Catégorie
+
+Ottolenghi. Flavour. Pas testé. Végé. Dessert
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 80 g de pistaches
+- 80 g de biscuits amaretti croquants, émiettés grossièrement
+- 2 cuil. à soupe de sucre en poudre
+- 120 g de mascarpone
+- 12 cl de crème double (ou de crème entière liquide à 33-35 % de MG)
+- 1 cuil. à café de zeste de citron vert bio, finement râpé
+
+### Abricots pochés
+
+- 10 cl de sauternes (ou un autre vin doux)
+- 1 citron vert bio : 3 lanières fines de zeste ; 1 cuil. à soupe de jus
+- 4 cl d'eau
+- ¼ de cuil. à café de pâte de vanille, ou d'extrait de vanille
+- 60 g de sucre en poudre
+- 6 abricots moyens, coupés en deux et dénoyautés (280 g)
+- 1 cuil. à café d'eau de fleur d'oranger
+
+---
+
+## Déroulé de la recette
+
+1. Préparez d'abord les abricots. Mettez dans une casserole moyenne les abricots, le sauternes, 4 cl d'eau, le zeste et le jus du citron vert, la vanille et 60 g de sucre en poudre. Faites chauffer à feu vif jusqu'à ce que le sucre ait fondu et que le liquide frémisse. Retirez la casserole du feu et plongez les abricots dans le sirop chaud, face coupée en bas. Laissez-les pocher jusqu'à ce qu'ils soient tendres (mais sans s'écraser), soit entre 20 et 40 min selon leur degré de maturité. Sortez-les du sirop et couvrez-les pour éviter que leur couleur ternisse et réservez jusqu'à utilisation. Remettez le sirop à feu moyen-vif après avoir enlevé le zeste de citron, puis laissez mijoter 5-6 min pour que le liquide réduise à 7 cl. Ajoutez l'eau de fleur d'oranger, puis réservez à température ambiante jusqu'à utilisation.
+
+2. Préchauffez le four à 170 °C (th. 5-6) en mode chaleur tournante. Placez les pistaches sur une plaque de cuisson et faites-les rôtir 10 min, jusqu'à ce que leur parfum se développe. Laissez-les refroidir, puis hachez-les finement et mettez-les dans un bol avec les biscuits amaretti et le reste du sucre (2 cuil. à soupe).
+
+3. Placez le mascarpone et la crème dans le bol d'un robot sur socle muni du fouet (ou utilisez un batteur à main), puis fouettez-les pendant 1-2 min (pas trop longtemps) pour obtenir un mélange lisse et mousseux. Incorporez les trois quarts du mélange amaretti-pistaches, puis réservez.
+
+4. Pour servir, répartissez les abricots et la crème dans 4 bols. Versez le sirop sur les abricots et saupoudrez la crème avec le reste du mélange amaretti-pistaches. Terminez avec le zeste de citron vert et servez aussitôt.
+
+## Noms ingrédients
+
+abricots. biscuits amaretti croquants. citron vert. crème double. eau de fleur d'oranger. mascarpone. pistaches. sauternes. sucre. vanille
+
+---
+
+# Sorbet pastèque-fraise
+
+## Commentaire
+
+Même s'il n'est pas fabriqué avec une turbine à glace, ce sorbet est incroyablement lisse. Vous pouvez en remercier la vodka et le glucose, qui empêchent la formation de gros cristaux de glace.
+
+Vous pouvez aromatiser ce sorbet avec des feuilles de combava fraîches ou du rooibos. Les feuilles de combava fraîches ont un parfum d'agrumes intense qui se marie très bien avec la pastèque et la fraise. Si vous n'arrivez pas à vous en procurer, le rooibos offre des saveurs tout aussi merveilleuses, avec des notes florales et une légère amertume.
+
+Sortez le sorbet du congélateur 5-10 min avant de servir, pour l'assouplir. Il se garde 1 mois au congélateur.
+
+## Catégorie
+
+Ottolenghi. Flavour. Pas testé. Végé. Dessert
+
+---
+
+## Ingrédients
+
+*Pour 8 personnes*
+
+- 1 petite pastèque (1,4 kg), peau et pépins ôtés, chair coupée en cubes de 2 cm (soit 700 g)
+- 300 g de fraises mûres, équeutées et hachées grossièrement
+- 10 g de feuilles de combava fraîches, équeutées, passées au moulin à épices ou très finement hachées (ou 3 sachets de rooibos)
+- 250 g de glucose
+- 8 citrons verts bio : 4 cuil. à café de zeste finement râpé ; 9 cl de jus ; le reste en quartiers, pour servir
+- 6 cl de vodka
+- 1¼ de cuil. à soupe de sucre en poudre, pour servir
+
+---
+
+## Déroulé de la recette
+
+1. Mettez la pastèque et les fraises dans un grand saladier pouvant aller au congélateur et congelez environ 2 h pour qu'elles soient bien fermes.
+
+2. Pendant ce temps, mettez les deux tiers des feuilles de combava (ou les sachets de rooibos) dans une casserole avec le glucose, le zeste de citron vert, le jus de citron vert et la vodka. Faites chauffer doucement à feu moyen jusqu'à ce que le glucose ait fondu et soit chaud. Laissez infuser 30 min, puis passez au tamis placé au-dessus d'un robot de cuisine, en éliminant les aromates. Ajoutez les fruits surgelés et mixez pour obtenir une purée lisse.
+
+3. Transférez cette dernière dans un grand bac à glace, ajoutez le couvercle et faites prendre le sorbet au congélateur (environ 5 h).
+
+4. Mélangez avec le sucre le reste des feuilles de combava (ou 1 cuil. à café de zeste de citron vert si vous utilisez du rooibos). Répartissez le sorbet dans 8 verres ou coupelles et saupoudrez-le avec une partie du sucre aromatisé. Servez les quartiers de citron vert à part.
+
+## Noms ingrédients
+
+citron vert. combava. fraises. glucose. pastèque. rooibos. sucre. vodka
+
+---
+
+# Glace à la noix de coco, litchis et fruits de la passion
+
+## Commentaire
+
+C'est un dessert qui fait beaucoup d'effet et qui se prépare sans turbine à glace. Il doit son volume et sa texture à l'aquafaba — le liquide des pois chiches en conserve — que l'on peut fouetter comme des blancs d'œufs.
+
+La glace fond très rapidement : sortez-la juste avant de la servir et remettez-la très vite au congélateur.
+
+## Catégorie
+
+Ottolenghi. Flavour. Pas testé. Végé. Dessert
+
+---
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 180 g de copeaux de noix de coco
+- 560 g de crème de coco
+- 300 g de sucre en poudre
+- 1 cuil. à café de pâte de vanille ou d'extrait de vanille
+- ¼ de cuil. à café d'anis étoilé moulu
+- 1 cuil. à café de sel de Maldon
+- 14 cl d'aquafaba (liquide filtré d'une boîte de 400 g de pois chiches)
+- 15 litchis frais, pelés, dénoyautés et coupés grossièrement en deux à la main (ou 250 g en conserve)
+- 90 g de pulpe de fruit de la passion (4-5 fruits)
+- 3 cuil. à soupe de jus de citron vert
+
+---
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 180 °C (th. 6) en mode chaleur tournante. Étalez les copeaux de noix de coco sur une plaque et enfournez pour 7 min, en remuant à mi-cuisson, jusqu'à ce qu'ils soient dorés et parfumés.
+
+2. Mettez dans une casserole la crème de coco, le sucre, la pâte de vanille et l'anis étoilé. Faites cuire à feu moyen pendant 5 min pour faire fondre le sucre et la crème. Hors du feu, ajoutez les copeaux de noix de coco grillés et laissez infuser au moins 1 h. Filtrez la préparation au-dessus d'un saladier en pressant sur les copeaux avec une cuillère pour récupérer tout le liquide. Transférez les copeaux sur une grande plaque (40 x 30 cm) tapissée de papier sulfurisé, saupoudrez-les avec le sel de Maldon, mélangez et étalez bien. Laissez au moins 2 h à température ambiante.
+
+3. Mettez l'aquafaba dans le bol d'un robot sur socle muni du fouet (ou utilisez un batteur à main électrique). Fouettez vivement pendant 8 min pour obtenir des pics presque fermes. Incorporez délicatement l'aquafaba battu à la crème de noix de coco, transférez le mélange dans un grand bac à glace, posez un couvercle et mettez-le au congélateur pour 5 h (ou toute une nuit), en remuant le mélange deux ou trois fois.
+
+4. Préchauffez le four à 160 °C (th. 5-6) en mode chaleur tournante, puis enfournez les copeaux de noix de coco pour 15 min, en remuant deux fois, jusqu'à ce qu'ils soient bien dorés. Laissez-les refroidir 10 min pour qu'ils soient très croustillants.
+
+5. Mélangez dans un récipient de taille moyenne les litchis, les fruits de la passion et le jus de citron vert.
+
+6. Déposez environ 70 g de crème glacée dans 6 bols, garnissez de fruits frais et terminez par une petite poignée de copeaux croustillants de noix de coco.
+
+## Noms ingrédients
+
+anis étoilé. aquafaba. citron vert. crème de coco. fruit de la passion. litchis. noix de coco. pois chiches. sel de Maldon. sucre. vanille
+
+---
+
+# Les citrons givrés de Max et Flynn
+
+## Commentaire
+
+Certains trouveront peut-être un peu tape-à-l'œil ce sorbet rose vif servi dans un citron, mais nous aimons à la fois sa couleur et sa présentation à l'italienne. Pour Max et Flynn, les fils de Yotam, c'est le meilleur dessert qu'ils aient jamais goûté, « meilleur que la crème anglaise ». Bien qu'il soit très acide, le résultat est très agréable et la satisfaction peut se lire sur tous les visages.
+
+Les citrons garnis se gardent 1 mois au congélateur dans un récipient hermétique.
+
+## Catégorie
+
+Ottolenghi. Flavour. Pas testé. Végé. Dessert
+
+---
+
+## Ingrédients
+
+*Pour 8 personnes*
+
+- 8 gros citrons (sans cire)
+- 200 g de sucre en poudre
+- 3 sachets de tisane d'hibiscus (ou 10 g de fleurs d'hibiscus séchées)
+- 35 cl d'eau
+- 10 g de menthe (tiges et feuilles)
+
+---
+
+## Déroulé de la recette
+
+1. Coupez le tiers supérieur des citrons. Pressez les deux parties pour récupérer 350 g de jus et de pulpe. Évidez les citrons à la cuillère, en jetant la partie blanche et le reste de chair, et en prenant garde de ne pas transpercer la peau. Coupez une petite partie de la base pour que les citrons puissent tenir debout (sans faire de trou dans l'écorce), puis disposez-les debout sur un plateau en les serrant bien. Congelez-les, ainsi que les couvercles (séparément), pendant que vous préparez le sorbet.
+
+2. Mélangez dans une casserole moyenne le jus et la pulpe de citron (jetez les pépins), le sucre, l'hibiscus (en sachets ou en fleurs séchées) et 35 cl d'eau. Laissez frémir 6 min à feu moyen-vif, en remuant de temps en temps, jusqu'à ce que le sucre soit complètement fondu et le sirop bien chaud. Hors du feu, ajoutez la menthe, puis laissez infuser 15 min, jusqu'à ce que le sirop soit rose vif.
+
+3. Passez le sirop dans un tamis, au-dessus d'un grand récipient, puis jetez les aromates. Mettez-le au réfrigérateur pour le faire refroidir. Versez ensuite le sirop refroidi dans une sorbetière et turbinez pendant 25-30 min, jusqu'à ce que le sorbet soit pris et bien lisse. Transférez-le dans une poche à douille ou un sac congélation avec fermeture à zip, puis congelez 3-4 h, en écrasant plusieurs fois la poche ou le sachet avec les mains pour briser les cristaux de glace.
+
+4. Sortez les citrons et leurs chapeaux du congélateur. Coupez la pointe de la poche à douille ou un angle du sachet pour créer une ouverture de 2-3 cm. Garnissez les citrons de sorbet en laissant ce dernier déborder sur 5 cm de hauteur environ. Coiffez chaque citron de son chapeau, en pressant bien pour le stabiliser, et remettez au congélateur pour au moins 1 h avant de servir.
+
+## Noms ingrédients
+
+citrons. fleurs d'hibiscus. menthe. sucre
+
+---
+
+# Crêpes aux bananes rôties et crème de la Barbade
+
+## Commentaire
+
+La crème de la Barbade, que nous avons découverte grâce à la tante d'Ixta, Rose (via Nigella Lawson), est hautement dangereuse : riche, alcoolisée, sucrée et même croquante grâce à la cassonade au rhum ajoutée au dernier moment.
+
+Vous aurez assez de pâte pour confectionner 7 crêpes, soit trois de plus que nécessaire. Ce surplus permet de parer aux « accidents » — quand le cuisinier succombe à la tentation ! Pour prendre de l'avance, préparez la pâte la veille.
+
+## Catégorie
+
+Ottolenghi. Flavour. Pas testé. Végé. Dessert
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+### Crêpes
+
+- 50 g de farine ordinaire
+- 1 cuil. à café de cassonade fine
+- 1 gros œuf
+- 15 cl de lait entier
+- 25 g de beurre doux, pour la cuisson
+- 20 g d'amandes effilées, légèrement grillées
+- Sel
+
+### Crème de la Barbade
+
+- 100 g de mascarpone
+- 150 g de yaourt grec très épais
+- ½ cuil. à café de pâte de vanille ou d'extrait de vanille
+- 1 cuil. à soupe de rhum brun aux épices
+- 35 g de cassonade fine
+
+### Bananes rôties
+
+- 30 g de beurre doux, fondu
+- 2½ cuil. à soupe de cassonade fine
+- ¼ de cuil. à café de gingembre moulu
+- 4 bananes mûres, pelées, coupées en deux dans la largeur, puis dans la longueur
+
+---
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 230 °C (th. 7-8) en mode chaleur tournante. Pour la pâte à crêpes, mélangez dans un récipient la farine, le sucre et une pincée de sel. Ajoutez l'œuf et fouettez, puis incorporez progressivement sans cesser de fouetter pour obtenir une pâte lisse et fluide. Réservez 20 min.
+
+2. Pour la crème, mélangez le mascarpone, le yaourt et la vanille jusqu'à l'obtention d'une pâte lisse, puis réservez.
+
+3. Pour les bananes, placez à feu vif une poêle moyenne pouvant aller au four, puis ajoutez le beurre. Quand il est fondu, ajoutez le sucre et le gingembre. Remuez pendant 1-2 min pour faire fondre le sucre. Hors du feu, ajoutez les bananes et retournez-les délicatement pour les enrober de sauce avant de les placer face coupée vers le haut. Enfournez pour 12 min, jusqu'à ce que les bananes soient fondantes et dorées. Saupoudrez d'un peu de sel.
+
+4. Faites fondre 5 g de beurre dans une poêle moyenne à feu moyen-vif. Quand le beurre a fini de fondre et commence à bouillir, ajoutez environ 3½ cuil. à soupe de pâte et inclinez la poêle en tous sens pour former une crêpe fine d'environ 16 cm de diamètre. Faites-la cuire 1-2 min, avant de la retourner avec une spatule. Laissez-la cuire 30 s à 1 min pour qu'elle dore sur l'autre face, puis réservez sur une assiette. Préparez ainsi 4 crêpes parfaites. Couvrez et gardez au chaud.
+
+5. Juste avant de servir, mélangez le rhum et le sucre dans un bol.
+
+6. Répartissez les crêpes dans 4 assiettes, ajoutez les bananes, puis rabattez les crêpes par-dessus. Ajoutez un peu de crème, arrosez du mélange sucre-rhum et terminez avec les amandes. Servez aussitôt.
+
+## Noms ingrédients
+
+amandes effilées. bananes. beurre. cassonade. farine. gingembre. lait entier. mascarpone. œuf. rhum brun. vanille. yaourt grec
+
+---
+
+# Entremets café-pandanus
+
+## Commentaire
+
+Merveilleusement parfumées, les feuilles de pandanus sont utilisées dans la cuisine asiatique pour aromatiser toutes sortes de recettes sucrées ou salées. Elles offrent des notes herbacées et vanillées et se marient très bien avec les fruits tropicaux, les gâteaux et le café, comme dans cette recette. On les trouve dans les supermarchés asiatiques. À défaut, utilisez une gousse de vanille entière.
+
+Le sirop de café peut être préparé la veille, mais il vaut mieux attendre le dernier moment pour en napper les crèmes, car il risque de les détremper. Il faut compter 2 h d'infusion pour les feuilles de pandanus et 6 h environ pour que la crème soit prise.
+
+## Catégorie
+
+Ottolenghi. Flavour. Pas testé. Végé. Dessert
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 50 g de feuilles de pandanus fraîches, coupées en morceaux de 4 cm (ou 1 gousse de vanille, coupée en deux dans la longueur)
+- 30 cl de lait entier
+- 30 cl de crème double (ou de crème entière liquide à 33-35 % de MG)
+- 15 g de fécule de maïs
+- 1¼ de cuil. à café d'expresso instantané
+- 5 jaunes d'œufs
+- 50 g de sucre en poudre
+- 1 cuil. à café de cacao en poudre
+- ¼ de cuil. à café de sel de Maldon
+- 25 g de beurre doux, à température ambiante, coupé en dés de 1 cm
+- 30 g de noix de macadamia salées, bien grillées et hachées grossièrement
+
+### Sirop de café
+
+- 15 cl de café fort
+- 50 g de sucre en poudre
+
+---
+
+## Déroulé de la recette
+
+1. Mettez dans une casserole à feu moyen les feuilles de pandanus (ou la gousse de vanille), le lait et la crème. Couvrez et laissez chauffer doucement pendant 20 min, en pressant plusieurs fois sur les feuilles pour libérer leur saveur. Retirez du feu et laissez infuser, à couvert, pendant 2 h. Passez dans un tamis en pressant bien pour extraire le plus de liquide possible. Jetez les feuilles (ou la gousse). Versez 8 cl de lait dans un récipient, puis incorporez la fécule de maïs au fouet, jusqu'à ce que le mélange soit lisse. Remettez le reste du lait dans la casserole, ajoutez la poudre d'expresso et mélangez au fouet. Réservez jusqu'à utilisation.
+
+2. Préparez le sirop de café : mettez le café et le sucre dans une petite casserole à feu moyen-vif. Portez à ébullition, puis laissez bouillir 6-7 min, jusqu'à ce que le sirop ait réduit de moitié et offre la consistance du sirop d'érable. Laissez refroidir.
+
+3. Dans un bol moyen, fouettez les jaunes d'œufs, le sucre, la poudre de cacao et le sel jusqu'à ce que le mélange soit lisse.
+
+4. Portez le lait infusé à petite ébullition, à feu moyen. Pour tempérer les jaunes d'œufs, incorporez progressivement la moitié du lait chaud en fouettant sans cesse, jusqu'à ce que le bol soit chaud au toucher. Ajoutez la préparation à la fécule de maïs, sans cesser de fouetter pour obtenir une préparation lisse. Versez celle-ci dans la casserole et continuez de fouetter pendant 5 min, jusqu'à obtenir une crème épaisse, mais encore fluide. Hors du feu, incorporez le beurre au fouet.
+
+5. Répartissez la crème dans 4 verres à martini (ou des contenants similaires), laissez refroidir un peu, puis couvrez de film alimentaire. Faites prendre les puddings au moins 6 h (ou toute une nuit) au réfrigérateur.
+
+6. Pour servir, arrosez chaque pudding de 2 cuil. à café de sirop de café, puis saupoudrez de noix de macadamia. Proposez le reste du sirop à part.
+
+## Noms ingrédients
+
+beurre. cacao en poudre. café. crème double. expresso. fécule de maïs. feuilles de pandanus. jaunes d'œufs. lait entier. noix de macadamia. sel de Maldon. sucre. vanille
+
+---
+
+# Assiette de fruits rouges au labneh de brebis et huile d'orange
+
+## Commentaire
+
+Cette association des meilleurs produits de la saison peut constituer un dessert léger ou la pièce maîtresse d'un brunch. Si vous préparez du labneh maison, comptez 24 h pour faire égoutter le yaourt. Pour tout faire le même jour, n'hésitez pas à utiliser du labneh tout prêt ou du yaourt à la grecque mélangé à un peu de crème double.
+
+Le choix de baies est totalement libre, en fonction du marché et du prix. Vous n'utiliserez pas toute l'huile parfumée ; conservez le surplus dans un bocal et utilisez-le pour assaisonner vos salades ou des légumes croquants.
+
+## Catégorie
+
+Ottolenghi. Flavour. Pas testé. Végé. Dessert
+
+---
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 900 g de yaourt de brebis (ou de vache)
+- ½ cuil. à café de sel
+- 10 cl d'huile d'olive de bonne qualité
+- 10 g de brins de thym citron + quelques feuilles fraîches, pour servir
+- 1 orange : 6 fines lanières de zeste
+- 200 g de mûres
+- 250 g de framboises
+- 300 g de fraises, équeutées et coupées en deux dans la longueur
+- 50 g de sucre en poudre
+- 1 citron vert bio : 1 cuil. à café de zeste finement râpé ; 1 cuil. à soupe de jus
+- 200 g de myrtilles
+- 150 g de cerises, dénoyautées
+
+---
+
+## Déroulé de la recette
+
+1. Mélangez dans un bol moyen le yaourt et le sel. Tapissez une passoire avec un morceau d'étamine que vous laissez déborder, puis placez-la au-dessus d'un récipient. Transférez le yaourt dans la passoire et rabattez les côtés de l'étamine pour l'enfermer complètement. Placez un poids sur l'étamine et mettez le yaourt au réfrigérateur pour qu'il s'égoutte au moins 24 h (et jusqu'à 48 h).
+
+2. Pendant ce temps, versez l'huile dans une petite casserole et faites-la chauffer pendant 7 min à feu moyen, jusqu'à ce que de minuscules bulles d'air se forment. Hors du feu, ajoutez le thym et le zeste d'orange, couvrez et laissez infuser (toute une nuit dans l'idéal, mais 30 min peuvent suffire).
+
+3. Le jour même, mélangez 50 g de mûres, 100 g de framboises, 100 g de fraises, le sucre et le jus de citron vert dans le bol d'un robot, puis mixez jusqu'à ce que le mélange soit bien lisse. Mettez les baies restantes et les cerises dans un saladier avec les fruits mixés et mélangez délicatement. Vous pouvez servir immédiatement ou laisser au réfrigérateur quelques heures et ramener à température ambiante avant de servir.
+
+4. Étalez le labneh sur un grand plat de service. Ajoutez les baies à la cuillère, puis saupoudrez de zeste de citron vert. Arrosez avec 2 cuil. à soupe d'huile infusée, ajoutez le zeste d'orange en fins copeaux et quelques feuilles de thym fraîches.
+
+## Noms ingrédients
+
+cerises. citron vert. fraises. framboises. huile d'olive. mûres. myrtilles. orange. sucre. thym citron. yaourt de brebis
+
 
 ```
