@@ -52,8 +52,7 @@ Ottolenghi. Végé. Dessert
 
 ## Noms ingrédients
 
-abricots. biscuits amaretti croquants. citron vert. crème double. eau de fleur d'oranger. mascarpone. pistaches. sauternes. sucre. vanille
-
+abricots. biscuits amaretti. citrons verts. mascarpone. pistaches
 ---
 
 # Abricots pochés et mascarpone aux pistaches et biscuits amaretti
@@ -106,8 +105,7 @@ Ottolenghi. Végé. Dessert
 
 ## Noms ingrédients
 
-abricots. biscuits amaretti croquants. citron vert. crème double. eau de fleur d'oranger. mascarpone. pistaches. sauternes. sucre. vanille
-
+abricots. biscuits amaretti. citrons verts. mascarpone. pistaches
 ---
 
 # Aubergines frites mijotées
@@ -151,8 +149,7 @@ Japonais. Végé
 
 ## Noms ingrédients
 
-aubergines. bouillon dashi. daïkon. huile de tournesol. mirin. piment d'espelette. sauce soja. sucre
-
+aubergines. daïkon. piment d'espelette
 ---
 
 # Aubergines grillées, sauce au lait fermenté
@@ -203,8 +200,7 @@ Au moment de servir, nappez généreusement de sauce la chair des aubergines san
 
 ## Noms ingrédients
 
-ail. aubergines. citron. grenade. huile d'olive. lait fermenté. sel. sel de maldon. yaourt grec. zaatar
-
+ail. aubergines. citrons. grenade. yaourt grec. zaatar
 ---
 
 # Aubergines marinées au tahini et à l'origan
@@ -256,8 +252,7 @@ Disposez les aubergines sur un plat, arrosez-les de sauce tahini et décorez-les
 
 ## Noms ingrédients
 
-ail. aubergines. coriandre. huile d'olive. jus de citron. origan. piment rouge frais. poivre noir. tahin
-
+ail. aubergines. coriandre. citrons. piment rouge frais. tahin
 ---
 
 # Aubergines rôties aux anchois et à l'origan
@@ -300,8 +295,7 @@ Ottolenghi. Poisson
 
 ## Noms ingrédients
 
-ail. anchois. aubergines. huile d'olive. origan. persil. poivre noir. vinaigre de vin blanc
-
+ail. anchois. aubergines. persil
 ---
 
 # Aubergines rôties, sauce yaourt et curry
@@ -350,8 +344,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-amandes. arilles de grenade. aubergines. citron vert. curcuma. curry en poudre. graines de coriandre. graines de cumin. huile d'arachide. oignons. poivre noir. yaourt grec
-
+amandes. arilles de grenade. aubergines. citrons verts. oignons. yaourt grec
 ---
 
 # Baked custard servie en affogato
@@ -414,8 +407,7 @@ Au moment de servir, remuez délicatement la *baked custard* pour la détendre :
 
 ## Noms ingrédients
 
-blancs d'œufs. café. cassonade. crème double. jaunes d'œufs. lait. maïzena. noisettes. noix de coco déshydratée. sel. sucre. vanille. vinaigre de cidre
-
+jaunes d'œuf. noisettes. noix de coco déshydratée
 ---
 
 # Beignets de poireaux
@@ -480,8 +472,7 @@ Faites chauffer une grande poêle sur feu moyen avec 2 cuil. à soupe d'huile d'
 
 ## Noms ingrédients
 
-ail. beurre. blancs d'œufs. cannelle. coriandre. crème aigre. cumin. curcuma. échalotes. farine. huile d'olive. jus de citron. lait. levure. persil. piment rouge frais. poireaux. sel. sucre. yaourt grec. œufs
-
+ail. coriandre. échalotes. citrons. persil. piment rouge frais. poireau. yaourt grec
 ---
 
 # Biscuit roulé à la vanille, jus de fraise
@@ -542,8 +533,7 @@ Gagnaire. Végé. Dessert
 
 ## Noms ingrédients
 
-citron. farine. fraises. jaunes d'œufs. lait. sucre. vanille. œufs
-
+citrons. fraises. jaunes d'œuf
 ---
 
 # Boulettes d'agneau à la feta
@@ -588,8 +578,7 @@ Ottolenghi. Viande
 
 ## Noms ingrédients
 
-ail. cannelle. feta. huile d'olive. mie de pain. mélasse de grenade. persil. poivre noir. thym. viande d'agneau hachée
-
+ail. feta. grenade. persil. viande d'agneau hachée
 ---
 
 # Boulettes de bœuf au citron et au céleri
@@ -637,8 +626,7 @@ Ottolenghi. Viande
 
 ## Noms ingrédients
 
-ail. bouillon de volaille. bœuf haché. café. curcuma. céleri-rave. huile d'olive. mie de pain. oignons. paprika fumé. persil. poivre noir. œufs
-
+ail. bœuf haché. céleri-rave. oignons. persil
 ---
 
 # Boulettes de viande Stroganoff et tagliatelles
@@ -714,8 +702,7 @@ Faites cuire les pâtes dans une grande casserole d'eau bouillante salée, jusqu
 
 ## Noms ingrédients
 
-ail. aneth. beurre. bouillon de bœuf. champignons. citron. concentré de tomates. cornichons à l'aneth. crème aigre. échalotes. graines de pavot. huile d'olive. lait. moutarde de dijon. oignons. pain rassis. paprika fumé. pâtes sèches. poivre noir. porc haché. œufs
-
+ail. aneth. champignons. citrons. concentré de tomate. échalotes. oignons. pain rassis. porc haché
 ---
 
 # Brownies au caramel
@@ -771,8 +758,7 @@ Dans un grand saladier, battez au fouet les œufs, le sucre et la vanille. Ils d
 
 ## Noms ingrédients
 
-abricots. beurre. chocolat noir. extrait de vanille. farine. sel. sucre. œufs
-
+abricots. chocolat noir
 ---
 
 # Brunoise de poires caramélisées, bavaroises au coco, tuiles au muscovado
@@ -835,8 +821,7 @@ Gagnaire. Végé. Dessert
 
 ## Noms ingrédients
 
-beurre. blancs d'œufs. citron. farine. gélatine. gouttes d'essence d'amande amère. lait de coco. poires. purée de coco. sucre. sucre muscovado
-
+citrons. noix de coco. poire. purée de coco
 ---
 
 # Cacio e pepe au zaatar
@@ -880,8 +865,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-beurre. bucatini. huile d'olive. marjolaine. parmesan. pecorino. poivre noir. sel. zaatar
-
+parmesan. pecorino. zaatar
 ---
 
 # Cake aux myrtilles, citron et amandes
@@ -926,8 +910,7 @@ Ottolenghi. Végé. Dessert
 
 ## Noms ingrédients
 
-beurre. citron. extrait de vanille. farine. myrtilles. poudre d'amande. sel. sucre. sucre glace. œufs
-
+citrons. myrtilles. amandes moulues
 ---
 
 # Carottes nouvelles rôties, harissa et grenade
@@ -974,8 +957,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-arilles de grenade. beurre. carottes. coriandre. graines de cumin. harissa. huile d'olive. jus de citron. miel. sel
-
+arilles de grenade. carottes. coriandre. citrons. miel
 ---
 
 # Carré d'agneau mariné à la coriandre et au miel
@@ -1021,8 +1003,7 @@ Pendant ce temps, faites chauffer la marinade dans une petite casserole à feu d
 
 ## Noms ingrédients
 
-ail. carré d'agneau. gingembre. huile de tournesol. jus de citron. menthe. miel. persil. piment rouge frais. sauce soja. vinaigre de vin rouge
-
+ail. carré d'agneau. gingembre. citrons. menthe. miel. persil. piment rouge frais
 ---
 
 # Céleri-rave rôti et crème au gorgonzola
@@ -1076,8 +1057,7 @@ Avant de servir, répartissez les deux tiers de la sauce au poivron sur les quar
 
 ## Noms ingrédients
 
-ail. ciboulette. citron. crème fraîche. flocons de piment. gorgonzola. graines de cumin. huile d'olive. mélasse de grenade. noisettes. persil. poivre noir. poivrons rouges. vinaigre de vin rouge
-
+ail. ciboulette. citrons. piment rouge séché. gorgonzola. grenade. noisettes. persil. poivron rouge
 ---
 
 # Céleri-rave rôti entier et ses graines de coriandre
@@ -1117,8 +1097,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-céleri-rave. citron. fleur de sel. huile d'olive
-
+céleri-rave. citrons
 ---
 
 # Céleri-rave entier rôti de trois façons
@@ -1283,8 +1262,7 @@ Versez la sauce dans un grand plat de service creux et disposez les steaks de c�
 
 ## Noms ingrédients
 
-céleri-rave. huile d'olive. sel de maldon
-
+céleri-rave
 ---
 
 # Champignons farcis au taleggio
@@ -1330,8 +1308,7 @@ Disposez les champignons sur les assiettes et arrosez-les d'huile. Parsemez du r
 
 ## Noms ingrédients
 
-ail. basilic. céleri. champignons de paris. estragon. huile d'olive. oignons. parmesan. poivre noir. taleggio. tomates séchées
-
+ail. basilic. céleri. champignons de Paris. oignons. parmesan. taleggio. tomates séchées
 ---
 
 # Cheesecake sucré-salé à la cerise
@@ -1392,8 +1369,7 @@ Ottolenghi. Végé. Dessert
 
 ## Noms ingrédients
 
-badiane. beurre. cerises. citron. crème liquide. feta. fromage frais. graines de sésame. huile d'olive. noisettes. orange. poudre d'amande. sel. sucre
-
+cerises. citrons. feta. fromage frais. noisettes. oranges. amandes moulues
 ---
 
 # Chou-fleur rôti au beurre pimenté
@@ -1449,8 +1425,7 @@ Ottolenghi. Viande
 
 ## Noms ingrédients
 
-ail. beurre. chou-fleur. citron. concentré de tomates. flocons de piment. harissa. huile d'olive. oignons. piment d'urfa. piment rouge frais. sel. sucre
-
+ail. chou-fleur. citrons. concentré de tomate. piment rouge séché. oignons. piment d'Urfa. piment rouge frais
 ---
 
 # Chou-fleur rôti entier
@@ -1508,8 +1483,7 @@ Versez le tahin, le persil et l'ail dans le bol d'un petit robot et mixez enviro
 
 ## Noms ingrédients
 
-ail. beurre. chou-fleur. citron. fleur de sel. huile d'olive. jus de citron. persil. tahin
-
+ail. chou-fleur. citrons. persil. tahin
 ---
 
 # Chou rôti à l'estragon et au pecorino
@@ -1551,8 +1525,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-ail. chou pointu. citron. estragon. huile d'olive. pecorino. poivre noir
-
+ail. chou pointu. citrons. pecorino
 ---
 
 # Chou rouge rôti au miso
@@ -1616,8 +1589,7 @@ Japonais. Végé
 
 ## Noms ingrédients
 
-chou rouge. dashi. gingembre. mirin. oignons. persil. purée de sésame. tamari. vinaigre de riz
-
+chou rouge. dashi. gingembre. oignons. persil. purée de sésame
 ---
 
 # Cœurs de bœuf grillées, piment, ail et gingembre
@@ -1660,8 +1632,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-ail. coriandre. fleur de sel. gingembre. huile d'olive. piment rouge frais. tomates
-
+ail. coriandre. gingembre. piment rouge frais. tomates en conserve
 ---
 
 # Crème aux œufs fraise-rhubarbe
@@ -1711,8 +1682,7 @@ Ottolenghi. Végé. Dessert
 
 ## Noms ingrédients
 
-crème liquide. extrait de vanille. fraises. jaunes d'œufs. maïzena. rhubarbe. sucre
-
+fraises. jaunes d'œuf. rhubarbe
 ---
 
 # Croquettes d'aubergines
@@ -1768,8 +1738,7 @@ Pour cuire les croquettes, détaillez chaque boudin de pâte en morceaux de 5 cm
 
 ## Noms ingrédients
 
-ail. aubergines. café. chapelure. estragon. feta. huile d'olive. huile de colza. huile de tournesol. jaunes d'œufs. jus de citron. parmesan. poivre noir. pommes de terre. sel. œufs
-
+ail. aubergines. feta. jaunes d'œuf. citrons. parmesan. pomme de terre
 ---
 
 # Crostinis aux poires
@@ -1818,8 +1787,7 @@ Garnissez les crostinis de pluches de cerfeuil, arrosez d'un filet d'huile et do
 
 ## Noms ingrédients
 
-ail. cerfeuil. fromage de chèvre. huile d'olive. jus de citron. pain rassis. pignons de pin. poires. poivre noir. sucre
-
+ail. persil. fromage de chèvre. citrons. pain rassis. pistaches. poire
 ---
 
 # Dutch baby aux tomates rôties
@@ -1881,8 +1849,7 @@ Sortez le *dutch baby* du four et faites-le glisser sur un plat de service en vo
 
 ## Noms ingrédients
 
-ail. bacon. basilic. cassonade. cheddar. farine. flocons de piment. huile d'olive. lait. parmesan. poivre noir. thym. tomates cerise. vinaigre balsamique. œufs
-
+ail. bacon. basilic. cheddar. piment rouge séché. parmesan. tomates cerise
 ---
 
 # Endives aux noix et au roquefort
@@ -1927,8 +1894,7 @@ Tapissez un plat de service avec quelques feuilles de *radicchio*. Disposez quel
 
 ## Noms ingrédients
 
-beurre. crème fraîche. endives. noix. pignons de pin. poivre blanc. roquefort
-
+endives. noix. pistaches. roquefort
 ---
 
 # Far breton aux pruneaux
@@ -1978,8 +1944,7 @@ Breton. Végé. Dessert
 
 ## Noms ingrédients
 
-beurre demi-sel. farine. lait. pruneaux. rhum brun. sel. sucre. œufs
-
+pruneaux
 ---
 
 # Faux-filet épicé, sauce poivron-citron
@@ -2028,8 +1993,7 @@ Ottolenghi. Viande
 
 ## Noms ingrédients
 
-ail. citron. faux-filet. fleur de sel. harissa. huile d'olive. paprika. persil. piment en flocons. poivrons rouges. tomates en conserve
-
+ail. citrons. faux-filet. persil. piment rouge séché. poivron rouge. tomates en conserve
 ---
 
 # Fine tarte aux pommes et au beurre salé
@@ -2074,8 +2038,7 @@ Breton. Végé
 
 ## Noms ingrédients
 
-beurre demi-sel. farine. pommes. sucre
-
+pomme
 ---
 
 # Frites de patate douce épicées
@@ -2116,8 +2079,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-ail. fleur de sel. huile d'olive. paprika fumé. patates douces. piment de cayenne. polenta. sumac
-
+ail. patate douce. piment de Cayenne
 ---
 
 # Frittata moelleuse aux courgettes
@@ -2163,8 +2125,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-ail. basilic. courgettes. crème liquide. cumin. huile d'olive. lait. pain rassis. parmesan. poivre noir. œufs
-
+ail. basilic. courgettes. pain rassis. parmesan
 ---
 
 # Galettes ou crêpes de blé noir
@@ -2198,7 +2159,6 @@ Breton. Végé
 
 ## Noms ingrédients
 
-beurre. farine. sel. œufs
 
 ---
 
@@ -2240,7 +2200,6 @@ Breton. Végé
 
 ## Noms ingrédients
 
-beurre. farine. lait. sucre. œufs
 
 ---
 
@@ -2293,8 +2252,7 @@ Faites fondre le beurre dans une poêle antiadhésive. Pour confectionner les ga
 
 ## Noms ingrédients
 
-beurre. coriandre. crème aigre. farine. huile d'olive. jus de citron. oignons verts. patates douces. piment rouge frais. poivre noir. sauce soja. sel. sucre. yaourt grec
-
+coriandre. citrons. oignons verts. patate douce. piment rouge frais. yaourt grec
 ---
 
 # Ganache au chocolat, noisettes aux épices et huile à l'orange
@@ -2368,8 +2326,7 @@ Ottolenghi. Végé. Dessert
 
 ## Noms ingrédients
 
-badiane. beurre. cannelle. cardamome. chocolat noir. crème fraîche. fleur de sel. graines de coriandre. huile d'olive. noisettes. orange. poivre noir. sucre. sucre glace. œufs
-
+chocolat noir. noisettes. oranges
 ---
 
 # Gâteau aux pommes et aux épices
@@ -2420,8 +2377,7 @@ Ottolenghi. Végé. Dessert
 
 ## Noms ingrédients
 
-beurre. café. cassonade. crème fraîche. extrait de vanille. farine. mélange quatre-épices. pommes. sucre. œufs
-
+pomme
 ---
 
 # Gelée de café et granité orange, rhum blanc et limoncello
@@ -2476,8 +2432,7 @@ Gagnaire. Végé. Dessert
 
 ## Noms ingrédients
 
-café. gélatine. jus d'orange. limoncello. orange. poires. rhum blanc. sucre
-
+oranges. poire
 ---
 
 # Gratin de pommes de terre, fenouil et saumon fumé
@@ -2539,8 +2494,7 @@ Pendant ce temps, faites chauffer le jus de citron à feu moyen-vif dans une pet
 
 ## Noms ingrédients
 
-ail. anchois. aneth. beurre. câpres. ciboulette. citron. graines de fenouil. jaunes d'œufs. jus de citron. lait. persil. poivre noir. pommes de terre. saumon fumé
-
+ail. anchois. aneth. câpres. ciboulette. citrons. jaunes d'œuf. persil. pomme de terre. saumon fumé
 ---
 
 # Gyoza
@@ -2609,8 +2563,7 @@ Japonais. Viande
 
 ## Noms ingrédients
 
-ail. chou vert. farine. gingembre. huile de sésame. oignons verts. porc haché. sauce soja. sel. vinaigre de riz
-
+ail. chou vert. gingembre. oignons verts. porc haché
 ---
 
 # Hiroshima okonomiyaki
@@ -2663,8 +2616,7 @@ Japonais. Viande. Poisson
 
 ## Noms ingrédients
 
-bouillon dashi. chou vert. farine. fécule de pomme de terre. huile de tournesol. lard. mayonnaise kewpie. nouilles yakisoba. oignons verts. pois mange-tout. sauce okonomiyaki. œufs
-
+chou vert. lard. oignons verts. pois mange-tout
 ---
 
 # Hiyashi chuka
@@ -2737,8 +2689,7 @@ Japonais. Viande. Poisson
 
 ## Noms ingrédients
 
-bouillon de poulet. concombre. gingembre. graines de sésame. huile de sésame. jambon blanc. jus de citron. moutarde karashi. nori. nouilles ramen. piment en flocons. sauce soja. sucre. tagliatelles. tomates. vinaigre de riz
-
+concombres. gingembre. jambon blanc. citrons. piment rouge séché. tomates en conserve
 ---
 
 # Kara age
@@ -2785,8 +2736,7 @@ Japonais. Viande
 
 ## Noms ingrédients
 
-ail. citron. cuisses de poulet. fécule de pomme de terre. gingembre. huile de tournesol. poivre noir. saké. sauce soja
-
+ail. citrons. cuisses de poulet. gingembre
 ---
 
 # Lentilles du Puy aux griottes, au lard fumé et au gorgonzola
@@ -2834,8 +2784,7 @@ Répartissez la préparation sur des assiettes et parsemez de morceaux de gorgon
 
 ## Noms ingrédients
 
-échalotes. épinards. gorgonzola. griottes. huile d'olive. lard. laurier. lentilles du puy. poivre noir. sucre. vinaigre de vin rouge
-
+échalotes. épinards. gorgonzola. griottes. lard. lentilles du Puy
 ---
 
 # Linguine au beurre miso, shiitake et épinards
@@ -2886,8 +2835,7 @@ Remettez les pâtes cuites dans la sauteuse, mélangez 30 s, puis ajoutez les é
 
 ## Noms ingrédients
 
-ail. beurre. champignons shiitaké. citron. échalotes. épinards. huile d'olive. miso blanc. poivre noir. sauce soja.
-
+ail. champignons shiitaké. citrons. échalotes. épinards
 ---
 
 # Macarons
@@ -2995,8 +2943,7 @@ Recouvrez la surface de la ganache de film alimentaire et laissez-la durcir 2 à
 
 ## Noms ingrédients
 
-amandes. basilic. beurre. blancs d'œufs. cacahuètes grillées. cacao. chocolat noir. citron vert. crème fraîche. dulce de leche. rhum brun. sel. sucre. sucre glace
-
+amandes. basilic. cacahuètes. chocolat noir. citrons verts. dulce de leche
 ---
 
 # Magret de canard rôti, beurre de noisettes à la bière, quinoa rouge
@@ -3058,8 +3005,7 @@ Ottolenghi. Viande
 
 ## Noms ingrédients
 
-ail. champignons shimeji. ciboulette. citron vert. échalotes. huile d'olive. huile de tournesol. magret de canard. mirin. moutarde de dijon. noisettes. pleurotes. quinoa rouge. sauce soja. sel de mer. sirop de datte. sucre muscovado. vinaigre de riz
-
+ail. champignons shimeji. ciboulette. citrons verts. échalotes. magrets de canard. noisettes. pleurotes. quinoa rouge
 ---
 
 # Filets de merlan, gel de citron, purée de pommes de terre roquette-persil
@@ -3124,8 +3070,7 @@ Gagnaire. Poisson
 
 ## Noms ingrédients
 
-agar-agar. beurre. chapelure. citron. crème liquide. farine. gélatine. huile d'olive. huile de tournesol. jus de citron. lait. merlans. persil. pommes de terre. roquette. sel. sucre. œufs
-
+citrons. merlans. persil. pomme de terre. roquette
 ---
 
 # Moelleux au chocolat
@@ -3170,8 +3115,7 @@ Versez 800 g (deux tiers environ) du mélange dans le moule tapissé et égalise
 
 ## Noms ingrédients
 
-beurre. cacao. chocolat noir. sel. sucre muscovado. œufs
-
+chocolat noir
 ---
 
 # Mousse au chocolat et caramel à l'orange
@@ -3226,8 +3170,7 @@ Environ 15 min avant de servir, sortez la mousse du réfrigérateur. Garnissez-l
 
 ## Noms ingrédients
 
-chocolat noir. crème aigre. crème liquide. noisettes. orange. sel de mer. sucre. œufs
-
+chocolat noir. noisettes. oranges
 ---
 
 # Nabé udon au canard
@@ -3270,8 +3213,7 @@ Japonais. Viande. Poisson
 
 ## Noms ingrédients
 
-champignons énoki. champignons shiitaké. épinards. magret de canard. mirin. nouilles udon. poivre sansho. sauce soja
-
+champignons enoki. champignons shiitaké. épinards. magrets de canard
 ---
 
 # Niku-miso domburi
@@ -3319,8 +3261,7 @@ Japonais. Viande
 
 ## Noms ingrédients
 
-ail. concombre. coriandre. gingembre. graines de sésame. huile de sésame. huile de tournesol. maïzena. poireaux. porc haché. riz. sauce soja. sucre
-
+ail. concombres. coriandre. gingembre. poireau. porc haché
 ---
 
 # Noisettes d'agneau aux amandes et à la fleur d'oranger
@@ -3376,8 +3317,7 @@ Ottolenghi. Viande
 
 ## Noms ingrédients
 
-ail. amandes. citron. eau de fleur d'oranger. filet d'agneau. huile d'olive. menthe. miel. poivre noir. poivrons rouges. thym
-
+ail. amandes. citrons. filet d'agneau. menthe. miel. poivron rouge
 ---
 
 # Nouilles soba aux aubergines et à la mangue
@@ -3426,8 +3366,7 @@ Mélangez, dans un saladier, les nouilles, la mangue, l'aubergine, la moitié de
 
 ## Noms ingrédients
 
-ail. aubergines. basilic. citron vert. coriandre. huile de sésame. huile de tournesol. mangue. nouilles soba. oignons rouges. piment rouge frais. sel. sucre. vinaigre de riz
-
+ail. aubergines. basilic. citrons verts. coriandre. mangue. oignons rouges. piment rouge frais
 ---
 
 # Œufs braisés, poireaux et zaatar
@@ -3471,8 +3410,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-beurre. bouillon de légumes. citron. épinards. feta. graines de cumin. huile d'olive. poireaux. poivre noir. zaatar. œufs
-
+citrons. épinards. feta. poireau. zaatar
 ---
 
 # Oignons au beurre de miso
@@ -3518,8 +3456,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-beurre. oignons
-
+oignons
 ---
 
 # Okonomiyaki au lard
@@ -3570,8 +3507,7 @@ Japonais. Viande. Poisson
 
 ## Noms ingrédients
 
-ao nori. bouillon dashi. chou vert. farine. fécule de pomme de terre. gingembre. huile de tournesol. lard. oignons verts. sauce okonomiyaki. œufs
-
+chou vert. gingembre. lard. oignons verts
 ---
 
 # Orecchiette aux oignons caramélisés, noisettes grillées et feuilles de sauge frites
@@ -3614,8 +3550,7 @@ Mettez la petite poêle (avec son huile) à chauffer à feu moyen, puis ajoutez 
 
 ## Noms ingrédients
 
-jus de citron. noisettes. oignons. poivre noir. sauge
-
+citrons. noisettes. oignons. sauge
 ---
 
 # Oyako-don
@@ -3659,8 +3594,7 @@ Japonais. Viande
 
 ## Noms ingrédients
 
-bouillon dashi. cuisses de poulet. mirin. nori. oignons verts. riz. sauce soja. œufs
-
+cuisses de poulet. oignons verts
 ---
 
 # Pain perdu et yaourt à l'orange
@@ -3725,8 +3659,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-badiane. beurre. fruits rouges. jus d'orange. jus de citron. lait. orange. pain brioché. sucre. sucre glace. yaourt grec. œufs
-
+fruits rouges. oranges. citrons. pain brioché. yaourt grec
 ---
 
 # Pancakes verts au beurre de citron vert
@@ -3788,8 +3721,7 @@ Pour servir, empilez 3 pancakes dans chaque assiette et déposez sur le dernier 
 
 ## Noms ingrédients
 
-ail. beurre. blancs d'œufs. café. citron. coriandre. cumin. épinards. farine. flocons de piment. huile d'olive. jus de citron vert. lait. levure. oignons verts. piments verts. poivre blanc. sel. œufs
-
+ail. citrons. coriandre. épinards. piment rouge séché. citrons verts. oignons verts. piment vert
 ---
 
 # Patates douces à la sauce tomate, citron vert et cardamome
@@ -3846,8 +3778,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-ail. aneth. cardamome. citron. concentré de tomates. cumin. échalotes. huile d'olive. piments verts. poivre noir. sirop d'érable. sucre. tomates en conserve
-
+ail. aneth. citrons. concentré de tomate. échalotes. piment vert. tomates en conserve
 ---
 
 # Pâtes au pesto, haricots grillés et pommes de terre
@@ -3892,8 +3823,7 @@ Transférez les pâtes dans un saladier de service. Garnissez avec les haricots 
 
 ## Noms ingrédients
 
-ail. basilic. citron. haricots verts. huile d'olive. parmesan. pignons de pin. poivre noir. pommes de terre
-
+ail. basilic. citrons. haricots verts. parmesan. pistaches. pomme de terre
 ---
 
 # Pièce de bœuf rôtie au sarrasin
@@ -3944,8 +3874,7 @@ Breton. Viande
 
 ## Noms ingrédients
 
-beurre. crème fraîche. farine. faux-filet. lait. pommes de terre. sel
-
+faux-filet. pomme de terre
 ---
 
 # Poireaux et salsa au miso et à la ciboulette
@@ -3999,8 +3928,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-ail. ciboulette. gingembre. graines de sésame. huile d'olive. huile de tournesol. maïzena. mirin. poireaux. sel de maldon. vinaigre de riz
-
+ail. ciboulette. gingembre. poireau
 ---
 
 # Polenta aux champignons et aux herbes
@@ -4050,8 +3978,7 @@ Préchauffez le gril du four. Quand la polenta est prête, incorporez le parmesa
 
 ## Noms ingrédients
 
-ail. beurre. bouillon de légumes. cerfeuil. champignons. estragon. huile d'olive. parmesan. poivre noir. polenta. romarin. taleggio. thym
-
+ail. persil. champignons. parmesan. taleggio
 ---
 
 # Poulet mariné à la harissa et salade de pamplemousses roses
@@ -4131,8 +4058,7 @@ Dressez les assiettes. Mélangez la roquette avec les quartiers de pamplemousse,
 
 ## Noms ingrédients
 
-ail. badiane. cannelle. concentré de tomates. cuisses de poulet. graines de carvi. graines de coriandre. graines de cumin. huile d'olive. jus de citron. oignons rouges. pamplemousses roses. piment rouge frais. piment rouge séché. poivre noir. poivrons rouges. roquette. sirop d'érable. yaourt grec
-
+ail. concentré de tomate. cuisses de poulet. citrons. oignons rouges. pamplemousse rose. piment rouge frais. piment rouge séché. poivron rouge. roquette. yaourt grec
 ---
 
 # Purée de haricots blancs au muhammara
@@ -4191,8 +4117,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-ail. haricots verts. huile d'olive. noix. paprika fumé. piment en flocons. poivrons rouges. sel. thym. vinaigre balsamique
-
+ail. haricots verts. noix. piment rouge séché. poivron rouge
 ---
 
 # Purée à l'huile d'olive aromatisée
@@ -4240,8 +4165,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-ail. citron. huile d'olive. menthe. poivre noir. pommes de terre. thym
-
+ail. citrons. menthe. pomme de terre
 ---
 
 # Rougail Sosis Fumé
@@ -4292,8 +4216,7 @@ Réunion. Viande
 
 ## Noms ingrédients
 
-ail. gingembre. huile d'olive. oignons. safran. saucisses fumées. thym. tomates
-
+ail. gingembre. oignons. saucisses fumées. tomates en conserve
 ---
 
 # Roulés à la saucisse et sauce moutarde au miel
@@ -4363,8 +4286,7 @@ Ottolenghi. Viande
 
 ## Noms ingrédients
 
-beurre. chair à saucisse. ciboulette. farine. gingembre moulu. graines de carvi. graines de coriandre. huile d'olive. lait. macis moulu. marjolaine. mayonnaise kewpie. miel. oignons. poivre blanc. poivre noir. sel. sucre. œufs
-
+chair à saucisse. ciboulette. gingembre. miel. oignons
 ---
 
 # Salade au bœuf et au basilic
@@ -4411,8 +4333,7 @@ Ottolenghi. Viande
 
 ## Noms ingrédients
 
-ail. basilic. endives rouges. faux-filet. huile d'olive. jus de citron. pains pitas. parmesan. poivre noir. roquette
-
+ail. basilic. endives rouges. faux-filet. citrons. pain pita. parmesan. roquette
 ---
 
 # Salade de carottes rôties, sauce Chamoy
@@ -4469,8 +4390,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-abricots secs. ail. amandes. aneth. carottes. huile d'olive. menthe. piment d'alep. poivre noir. sirop d'érable. sumac
-
+abricots secs. ail. amandes. aneth. carottes. menthe. piment d'Alep
 ---
 
 # Salade douce pour l'hiver
@@ -4523,8 +4443,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-beurre. chou rouge. chou vert. citron. coriandre. flocons de piment. huile de sésame. huile de tournesol. jus de citron vert. mangue. menthe. noix de macadamia. papaye. piment rouge frais. sauce soja. sel. sirop d'érable. sucre
-
+chou rouge. chou vert. citrons. coriandre. piment rouge séché. citrons verts. mangue. menthe. noix de cajou. papaye. piment rouge frais
 ---
 
 # Salade de pommes de terre royales
@@ -4573,8 +4492,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-ail. huile d'olive. parmesan. persil. pignons de pin. pois mange-tout. poivre noir. pommes de terre. vinaigre de vin blanc. œufs de caille
-
+ail. parmesan. persil. pistaches. pois mange-tout. pomme de terre. œufs de caille
 ---
 
 # Sauces japonaises
@@ -4870,8 +4788,7 @@ Ottolenghi. Viande
 
 ## Noms ingrédients
 
-ail. blettes. bouillon de volaille. céleri. concentré de tomates. crème fraîche. cumin. huile d'olive. kielbasa. laurier. lentilles du puy. moutarde à l'ancienne. moutarde de dijon. oignons. persil. poivre noir. poivrons verts. thym
-
+ail. blettes. céleri. concentré de tomate. saucisses fumées. lentilles du Puy. oignons. persil. poivron vert
 ---
 
 # Saumon rôti alla puttanesca
@@ -4930,8 +4847,7 @@ Ottolenghi. Poisson
 
 ## Noms ingrédients
 
-ail. anchois. basilic. câpres. citron. concentré de tomates. flocons de piment. graines de coriandre. haricots verts. huile d'olive. jus de citron. oignons verts. olives de kalamata. persil. poivre noir. saumon. sirop d'érable. tomates cerise
-
+ail. anchois. basilic. câpres. citrons. concentré de tomate. piment rouge séché. haricots verts. oignons verts. olives de Kalamata. persil. saumon. tomates cerise
 ---
 
 # Saumon bio et salsa de poivrons rouges et de noisettes
@@ -4977,8 +4893,7 @@ Ottolenghi. Poisson
 
 ## Noms ingrédients
 
-ail. ciboulette. citron. huile d'olive. noisettes. poivrons rouges. saumon. sel. vinaigre de cidre
-
+ail. ciboulette. citrons. noisettes. poivron rouge. saumon
 ---
 
 # Saumon teriyaki
@@ -5024,8 +4939,7 @@ Japonais. Poisson
 
 ## Noms ingrédients
 
-gingembre. graines de sésame. pois mange-tout. sauce teriyaki. saumon
-
+gingembre. pois mange-tout. saumon
 ---
 
 # Shoyu ramen
@@ -5077,8 +4991,7 @@ Japonais. Viande
 
 ## Noms ingrédients
 
-bouillon de poulet. épinards. épis de maïs. huile de tournesol. mirin. nori. nouilles ramen. oignons verts. porc haché. sauce soja. sel. œufs
-
+épinards. épis de maïs. oignons verts. porc haché
 ---
 
 # Soba au poulet namban
@@ -5126,8 +5039,7 @@ Japonais. Viande
 
 ## Noms ingrédients
 
-cuisses de poulet. épinards. huile de tournesol. mirin. nouilles soba. poireaux. poivre sansho. saké. sauce soja. sel. sucre
-
+cuisses de poulet. épinards. poireau
 ---
 
 # Spaghettis De Cecco® n°7, crème d'oignon au gorgonzola
@@ -5170,8 +5082,7 @@ Gagnaire. Végé
 
 ## Noms ingrédients
 
-beurre. crème fraîche. gorgonzola. lardons fumés. oignons doux. sel. spaghettis
-
+gorgonzola. lardons fumés. oignons doux
 ---
 
 # Sukiyaki-don
@@ -5225,8 +5136,7 @@ Japonais. Viande
 
 ## Noms ingrédients
 
-carottes. champignons énoki. champignons shiitaké. faux-filet. huile de tournesol. mirin. oignons verts. pack choï. poireaux. riz. saké. sauce soja. sucre. œufs
-
+carottes. champignons enoki. champignons shiitaké. faux-filet. oignons verts. pak choï. poireau
 ---
 
 # Tagliatelles au safran
@@ -5263,8 +5173,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-farine. safran. semoule fine. œufs
-
+semoule
 ---
 
 # Tagliatelles au safran et au beurre épicé
@@ -5327,8 +5236,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-beurre. cannelle. coriandre. curcuma. échalotes. farine. flocons de piment. gingembre moulu. huile d'olive. menthe. paprika. persil. pignons de pin. piment de cayenne. poivre noir. safran. sel. œufs
-
+coriandre. échalotes. piment rouge séché. gingembre. menthe. persil. pistaches. piment de Cayenne
 ---
 
 # Tagliatelles au safran, ricotta et échalotes frites au piment chipotle
@@ -5390,8 +5298,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-ail. café. coriandre. flocons de chipotle. graines de cumin. huile d'olive. parmesan. persil. piments verts. poivre noir. sirop d'érable. sucre. tagliatelles. vinaigre de riz
-
+ail. coriandre. piment chipotle. parmesan. persil. piment vert
 ---
 
 # Tempura de légumes
@@ -5451,8 +5358,7 @@ Japonais. Végé
 
 ## Noms ingrédients
 
-bouillon dashi. carottes. daïkon. farine. haricots verts. huile de tournesol. jaunes d'œufs. levure. mirin. sauce soja. sucre
-
+carottes. daïkon. haricots verts. jaunes d'œuf
 ---
 
 # Toasts briochés, champignons et œufs pochés
@@ -5499,8 +5405,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-ail. basilic. cannelle. champignons de paris. crème fraîche. fleur de sel. huile d'olive. pain brioché. piment en flocons. œufs
-
+ail. basilic. champignons de Paris. pain brioché. piment rouge séché
 ---
 
 # Tokyo cheesecake au yuzu
@@ -5544,8 +5449,7 @@ Japonais. Végé. Dessert
 
 ## Noms ingrédients
 
-agar-agar. beurre. crème fraîche. faisselle. fraises. sucre
-
+faisselle. fraises
 ---
 
 # Tranches de potiron croustillantes et crème aigre
@@ -5591,8 +5495,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-ail. aneth. chapelure. citron. crème aigre. huile d'olive. parmesan. persil. poivre blanc. potiron. thym
-
+ail. aneth. citrons. parmesan. persil. potiron
 ---
 
 # Travers de porc caramélisés au bourbon et salade de maïs fumé
@@ -5677,8 +5580,7 @@ Ottolenghi. Viande
 
 ## Noms ingrédients
 
-ail. badiane. bourbon. cannelle. citron. coriandre. échalotes. épis de maïs. gingembre. huile d'olive. huile de sésame. jus de citron. jus de citron vert. ketchup. menthe. oignons. oignons verts. persil. piment rouge séché. piment vert. poivre du sichuan. poivre noir. sel de mer. sirop d'érable. travers de porc. vin shaoxing. vinaigre de riz
-
+ail. citrons. coriandre. échalotes. épis de maïs. gingembre. citrons verts. menthe. oignons. oignons verts. persil. piment rouge séché. piment vert. travers de porc
 ---
 
 # Truite rôtie, tomates, orange et baies d'épine-vinette
@@ -5723,8 +5625,7 @@ Ottolenghi. Poisson
 
 ## Noms ingrédients
 
-ail. beurre. citron. coriandre. graines de fenouil. huile d'olive. orange. poivre noir. tomates. truites
-
+ail. citrons. coriandre. oranges. tomates en conserve. truite
 ---
 
 # Verrines de fraises rôties au sumac et yaourt égoutté
@@ -5768,9 +5669,7 @@ Ottolenghi. Végé. Dessert
 
 ## Noms ingrédients
 
-citron. crème liquide. fraises. menthe. sel. sucre glace. vanille. yaourt grec
-
-
+citrons. fraises. menthe. yaourt grec
 # Omelettes gratinées à la harissa et au manchego
 
 ## Catégorie
@@ -5808,8 +5707,7 @@ J'aime cuisiner ce plat pour le brunch du week-end, mais aussi les soirs de sema
 
 ## Noms ingrédients
 
-citron vert. coriandre. graines de nigelle. harissa. huile d'olive. lait. oignons. œufs
-
+citrons verts. coriandre. oignons
 ---
 
 # Brouillade de tofu à la harissa
@@ -5853,8 +5751,7 @@ Au départ, nous avons créé cette recette pour nos clients vegan, mais elle a 
 
 ## Noms ingrédients
 
-avocat. concombre. coriandre. graines de nigelle. harissa. huile d'olive. jus de citron vert. oignons. pain rassis. piment vert
-
+avocats. concombres. coriandre. citrons verts. oignons. pain rassis. piment vert
 ---
 
 # Tartines au beurre d'avocat et tomates en sauce vierge
@@ -5894,8 +5791,7 @@ Comment rendre un bel avocat bien riche et crémeux encore plus riche et crémeu
 
 ## Noms ingrédients
 
-ail. aneth. beurre. câpres. citron vert. estragon. graines de cumin. huile d'olive. pain rassis. tomates cerise
-
+ail. aneth. câpres. citrons verts. pain rassis. tomates cerise
 ---
 
 # Pain de betterave au chèvre et aux graines
@@ -5942,8 +5838,7 @@ Faire du pain sans avoir à pétrir ou à laisser pousser la pâte : n'est-ce pa
 
 ## Noms ingrédients
 
-crème fraîche. farine. fromage de chèvre. graines de carvi. graines de courge. graines de nigelle. huile de tournesol. levure. miel. parmesan. thym. œufs
-
+fromage de chèvre. miel. parmesan
 ---
 
 # Pain de maïs au fromage et au piment
@@ -5998,8 +5893,7 @@ Parmi les plats qui égayent instantanément une table, celui-ci est l'un de mes
 
 ## Noms ingrédients
 
-cheddar. coriandre. crème fraîche. cumin. épis de maïs. farine. feta. graines de nigelle. huile d'olive. levure. oignons rouges. oignons verts. piment de cayenne. piment rouge frais. polenta. sucre. œufs
-
+cheddar. coriandre. épis de maïs. feta. oignons rouges. oignons verts. piment de Cayenne. piment rouge frais
 ---
 
 # Croquettes aux petits pois, à la feta et au zaatar
@@ -6036,8 +5930,7 @@ Pour moi, cette recette se résume à la liste de mes aliments préférés : pet
 
 ## Noms ingrédients
 
-citron. farine. feta. huile de tournesol. levure. menthe. œufs. pois mange-tout. ricotta. zaatar
-
+citrons. feta. menthe. pois mange-tout. ricotta. zaatar
 ---
 
 # Galettes iraniennes aux herbes
@@ -6075,8 +5968,7 @@ Ces galettes se dégustent telles quelles, à température ambiante, ou accompag
 
 ## Noms ingrédients
 
-aneth. basilic. coriandre. cumin. huile de tournesol. mie de pain. noix. œufs. tahin
-
+aneth. basilic. coriandre. noix. tahin
 ---
 
 # Soupe de concombre froide, chou-fleur et gingembre
@@ -6117,8 +6009,7 @@ Quand on a envie d'une soupe froide, on pense aussitôt au gaspacho ; or, il exi
 
 ## Noms ingrédients
 
-ail. amandes. chou-fleur. concombre. gingembre. huile d'olive. jus de citron. menthe. poivre blanc. yaourt grec
-
+ail. amandes. chou-fleur. concombres. gingembre. citrons. menthe. yaourt grec
 ---
 
 # Carpaccio de cœurs de bœuf, cébettes et gingembre
@@ -6155,8 +6046,7 @@ Comme toujours avec les plats à base de tomates — et surtout de tomates crues
 
 ## Noms ingrédients
 
-coriandre. fleur de sel. gingembre. huile d'olive. huile de tournesol. oignons verts. piment vert. tomates. vinaigre de vin blanc
-
+coriandre. gingembre. oignons verts. piment vert. tomates en conserve
 ---
 
 # Raïta de tomates et de concombres
@@ -6197,8 +6087,7 @@ Le caviar de piment peut se conserver 3 jours au réfrigérateur et la raïta 2 
 
 ## Noms ingrédients
 
-ail. citron confit. concombre. graines de cumin. huile d'olive. jus de citron. menthe. oignons. piment vert. tomates cerise. yaourt grec
-
+ail. citron confit. concombres. citrons. menthe. oignons. piment vert. tomates cerise. yaourt grec
 ---
 
 # Tagliatelles de courgettes au thym et aux noix
@@ -6232,8 +6121,7 @@ L'huile aromatisée peut se préparer à l'avance et se garder 3 jours à tempé
 
 ## Noms ingrédients
 
-ail. basilic. citron. courgettes. huile d'olive. noix. thym
-
+ail. basilic. citrons. courgettes. noix
 ---
 
 # Salade de tomates aux anchois et aux câpres
@@ -6272,8 +6160,7 @@ Essayez de trouver des tomates de variétés différentes pour donner de la coul
 
 ## Noms ingrédients
 
-ail. anchois. basilic. câpres. citron. fleur de sel. huile d'olive. pain rassis. persil. piment d'urfa. tomates
-
+ail. anchois. basilic. câpres. citrons. pain rassis. persil. piment d'Urfa. tomates en conserve
 ---
 
 # Méli-mélo de tomates, échalion au sumac et pignons de pin
@@ -6309,8 +6196,7 @@ Ici, tout repose sur la qualité des tomates : choisissez-les donc bien sucrées
 
 ## Noms ingrédients
 
-basilic. échalotes. huile d'olive. pignons de pin. sumac. tomates. vinaigre de vin blanc
-
+basilic. échalotes. pistaches. tomates en conserve
 ---
 
 # Salade fraîcheur au tahin et au zaatar
@@ -6347,8 +6233,7 @@ Pour certains — dont je fais partie —, l'ajout de tahin dans la traditionnel
 
 ## Noms ingrédients
 
-coriandre. concombre. feta. huile d'olive. jus de citron. oignons verts. poivrons rouges. tahin. tomates. zaatar
-
+coriandre. concombres. feta. citrons. oignons verts. poivron rouge. tahin. tomates en conserve. zaatar
 ---
 
 # Salade verte, sauce fourre-tout
@@ -6389,8 +6274,7 @@ Cette recette est née un jour où Tara a découvert que certaines herbes aromat
 
 ## Noms ingrédients
 
-ail. aneth. basilic. citron. coriandre. estragon. gingembre. graines de sésame. huile d'olive. menthe. persil. piment vert. tahin
-
+ail. aneth. basilic. citrons. coriandre. gingembre. menthe. persil. piment vert. tahin
 ---
 
 # Salade de mâche et de concombre
@@ -6429,8 +6313,7 @@ Une fois qu'on maîtrise une sauce salade, on a tendance à la refaire systémat
 
 ## Noms ingrédients
 
-ail. concombre. coriandre. fleur de sel. gingembre. graines de nigelle. jus de citron. mâche. menthe. yaourt grec
-
+ail. concombres. coriandre. gingembre. citrons. mâche. menthe. yaourt grec
 ---
 
 # Salade de pastèque, granny smith et citron vert
@@ -6463,8 +6346,7 @@ Ottolenghi. Simple. Pas testé. Végé
 
 ## Noms ingrédients
 
-citron vert. coriandre. fleur de sel. huile d'olive. menthe. pastèque. pommes
-
+citrons verts. coriandre. menthe. pastèque. pomme
 ---
 
 # Cresson et radicchio aux pêches, framboises et cinq épices
@@ -6498,8 +6380,7 @@ Pour préserver l'équilibre de cette recette sucrée salée, choisissez des pê
 
 ## Noms ingrédients
 
-cresson. échalotes. fraises. huile d'olive. mélange quatre-épices. sirop d'érable. vinaigre de cidre
-
+cresson. échalotes. fraises
 ---
 
 # Burrata au basilic, brochettes de raisin grillé
@@ -6536,8 +6417,7 @@ La burrata — qui signifie « beurré » en italien — est l'un des petits pla
 
 ## Noms ingrédients
 
-ail. basilic. burrata. fleur de sel. fromage frais. graines de fenouil. huile d'olive. sucre. vinaigre de vin blanc
-
+ail. basilic. burrata. fromage frais
 ---
 
 # Taboulé de chou-fleur
@@ -6573,8 +6453,7 @@ Si vous doublez ou triplez les quantités pour cette recette, détaillez le chou
 
 ## Noms ingrédients
 
-aneth. arilles de grenade. chou-fleur. grenade. huile d'olive. jus de citron. mélange quatre-épices. menthe. oignons verts. persil
-
+aneth. arilles de grenade. chou-fleur. grenade. citrons. menthe. oignons verts. persil
 ---
 
 # Salade toute verte aux cébettes et aux herbes
@@ -6612,8 +6491,7 @@ Avec ses saveurs végétales et légèrement astringentes, cette salade se marie
 
 ## Noms ingrédients
 
-concombre. coriandre. gingembre. graines de nigelle. huile d'olive. jus de citron. menthe. oignons verts. poivrons verts
-
+concombres. coriandre. gingembre. citrons. menthe. oignons verts. poivron vert
 ---
 
 # Soupe de lentilles corail au curry, tomates et lait de coco
@@ -6652,8 +6530,7 @@ Ce que j'aime dans cette soupe, c'est le jeu de textures entre le potage onctueu
 
 ## Noms ingrédients
 
-ail. coriandre. curry en poudre. flocons de piment. gingembre. huile de tournesol. lait de coco. lentilles du puy. oignons. tomates en conserve
-
+ail. coriandre. piment rouge séché. gingembre. noix de coco. lentilles du Puy. oignons. tomates en conserve
 ---
 
 # Velouté de courgettes, petits pois et basilic
@@ -6690,8 +6567,7 @@ Bien qu'elle soit déjà riche en saveurs, cette soupe peut aussi intégrer du b
 
 ## Noms ingrédients
 
-ail. basilic. bouillon de légumes. citron. courgettes. feta. huile d'olive. pois mange-tout
-
+ail. basilic. citrons. courgettes. feta. pois mange-tout
 ---
 
 # Soupe de citrouille au safran et à l'orange
@@ -6741,8 +6617,7 @@ Quand arrive la saison des courges et que les étals se parent de cucurbitacées
 
 ## Noms ingrédients
 
-bouillon de légumes. coriandre. crème fraîche. flocons de piment. graines de courge. harissa. huile d'olive. oignons. orange. potiron. safran. sirop d'érable
-
+coriandre. piment rouge séché. oignons. oranges. potiron
 ---
 
 # Courgettes à l'étuvée, ail et origan
@@ -6780,8 +6655,7 @@ Pour cette recette, choisissez des courgettes aussi jeunes, fines et petites que
 
 ## Noms ingrédients
 
-ail. bouillon de légumes. courgettes. fleur de sel. huile d'olive. origan
-
+ail. courgettes
 ---
 
 # Écrasé de courgettes à l'ail et aux herbes
@@ -6820,8 +6694,7 @@ Cet écrasé de courgettes peut se déguster tel quel (ou avec une cuillère de 
 
 ## Noms ingrédients
 
-ail. aneth. courgettes. huile d'olive. jus de citron. menthe. thym
-
+ail. aneth. courgettes. citrons. menthe
 ---
 
 # Courgettes farcies, sauce vierge aux pignons
@@ -6864,8 +6737,7 @@ Quand arrivera l'heure de mon dernier repas, nul doute que les légumes farcis s
 
 ## Noms ingrédients
 
-ail. citron. courgettes. huile d'olive. mie de pain. œufs. origan. parmesan. pignons de pin. tomates cerise
-
+ail. citrons. courgettes. parmesan. pistaches. tomates cerise
 ---
 
 # Courgettes et petits pois aux herbes, semoule au lait
@@ -6909,8 +6781,7 @@ Cette semoule au lait peut être utilisée comme une base gourmande dans une mul
 
 ## Noms ingrédients
 
-ail. basilic. beurre. citron. courgettes. estragon. huile d'olive. lait. pecorino. pignons de pin. pois mange-tout. semoule fine
-
+ail. basilic. citrons. courgettes. pecorino. pistaches. pois mange-tout. semoule
 ---
 
 # Aubergines rôties aux anchois et à l'origan
@@ -6948,8 +6819,7 @@ Contrairement à ce que l'on pourrait croire, l'association anchois/aubergines f
 
 ## Noms ingrédients
 
-ail. anchois. aubergines. huile d'olive. origan. persil. vinaigre de vin blanc
-
+ail. anchois. aubergines. persil
 ---
 
 # Chaud-froid de tomates cerise au yaourt citronné
@@ -6990,8 +6860,7 @@ Tout l'intérêt de ce plat réside dans le contraste entre les tomates chaudes,
 
 ## Noms ingrédients
 
-ail. citron. fleur de sel. graines de cumin. huile d'olive. origan. piment d'urfa. sucre. thym. tomates cerise. yaourt grec
-
+ail. citrons. piment d'Urfa. tomates cerise. yaourt grec
 ---
 
 # Tomates, bettes et épinards aux amandes
@@ -7030,8 +6899,7 @@ Ce plat végétarien peut se servir chaud, accompagné de riz blanc ou tel quel,
 
 ## Noms ingrédients
 
-ail. amandes. aneth. blettes. citron vert. épinards. graines de carvi. huile d'olive. menthe. oignons verts. paprika. tomates en conserve
-
+ail. amandes. aneth. blettes. citrons verts. épinards. menthe. oignons verts. tomates en conserve
 ---
 
 # Poêlée de brocoli et kale à l'ail, cumin et citron vert
@@ -7066,8 +6934,7 @@ Le kale et le brocoli peuvent être blanchis quelques heures en amont, à condit
 
 ## Noms ingrédients
 
-ail. brocoli. graines de cumin. huile d'olive. jus de citron vert. kale. menthe. piment d'urfa
-
+ail. brocoli. citrons verts. kale. menthe. piment d'Urfa
 ---
 
 # Rapini vapeur à la sauce soja, ail et cacahuètes
@@ -7104,8 +6971,7 @@ Si vous préférez, vous pouvez remplacer le rapini de cette recette par une mê
 
 ## Noms ingrédients
 
-ail. cacahuètes grillées. gingembre. huile d'arachide. miel. orange. sauce soja
-
+ail. cacahuètes. gingembre. miel. oranges
 ---
 
 # Chou rôti à l'estragon et au pecorino
@@ -7142,8 +7008,7 @@ Ce plat se sert tiède pour conserver tout le goût et la texture du pecorino. I
 
 ## Noms ingrédients
 
-ail. chou pointu. citron. estragon. huile d'olive. pecorino
-
+ail. chou pointu. citrons. pecorino
 ---
 
 # Kale mariné à la moutarde, asperges et fèves
@@ -7187,8 +7052,7 @@ Ici, un peu de temps et quelques manipulations sont nécessaires pour permettre 
 
 ## Noms ingrédients
 
-aneth. asperges. estragon. fèves. graines de courge. huile d'olive. kale. moutarde à l'ancienne. sirop d'érable. vinaigre de vin blanc
-
+aneth. asperges. fèves. kale
 ---
 
 # Asperges rôties aux amandes, aux câpres et à l'aneth
@@ -7225,8 +7089,7 @@ Voici l'un des plats que mon mari Karl cuisine souvent le dimanche à la maison.
 
 ## Noms ingrédients
 
-amandes. aneth. asperges. beurre. câpres. huile d'olive
-
+amandes. aneth. asperges. câpres
 # Chou palmier Noir de Toscane au chorizo et au citron confit
 
 ## Catégorie
@@ -7253,8 +7116,7 @@ Servir tel quel en mezze ou en accompagnement de viandes rôties ou grillées.
 3. Remettre le chorizo et l'ail dans la sauteuse avec le chou, ainsi que le citron confit et le jus de citron. Mélanger, puis hors du feu incorporer la crème aigre. Dresser dans un grand plat de service.
 
 ## Noms ingrédients
-huile d'olive. ail. paprika fumé. citron confit. jus de citron. crème aigre
-
+ail. citron confit. citrons
 ---
 
 # Gombos express, sauce aigre-douce
@@ -7285,8 +7147,7 @@ Les gombos sont cuits entiers et très brièvement pour rester croquants et évi
 4. Dresser dans un saladier de service, parsemer de cacahuètes grillées et servir.
 
 ## Noms ingrédients
-huile d'arachide. ail. piment rouge frais. sirop d'érable. huile de sésame. citron vert. jus de citron vert. coriandre. cacahuètes grillées
-
+ail. piment rouge frais. citrons verts. coriandre. cacahuètes
 ---
 
 # Le wok de Garry : chou sauté à l'ail et au piment
@@ -7312,8 +7173,7 @@ Trois fondamentaux pour réussir ce wok : une bonne dose de piment, une bonne do
 2. Ajouter le chou en plusieurs fois et faire sauter 5 minutes avec ¾ de cuillère à café de sel. Le chou doit être cuit mais encore légèrement croquant. Retirer du feu, laisser tiédir 5 minutes, puis servir avec des quartiers de citron vert.
 
 ## Noms ingrédients
-huile de tournesol. ail. piment rouge frais. chou pointu. citron vert
-
+ail. piment rouge frais. chou pointu. citrons verts
 ---
 
 # Cru-cuit de chou-fleur, grenade et pistaches
@@ -7344,8 +7204,7 @@ Association de chou-fleur cuit et cru dans un même plat. Les feuilles rôties s
 3. Verser les légumes dans un saladier avec 50 ml d'huile d'olive, la semoule de chou-fleur et tous les ingrédients restants. Assaisonner avec ¼ de cuillère à café de sel et mélanger délicatement. Dresser et déguster.
 
 ## Noms ingrédients
-huile d'olive. oignons. persil. menthe. estragon. grenade. arilles de grenade. pistaches. cumin. jus de citron. chou-fleur
-
+oignons. persil. menthe. grenade. arilles de grenade. pistaches. citrons. chou-fleur
 ---
 
 # Gratin de chou-fleur à la moutarde
@@ -7379,8 +7238,7 @@ Plat gourmand par excellence, délicieux avec du poulet rôti, des saucisses ou 
 4. Verser les 20 g de cheddar restants dans un cul-de-poule avec le pain de mie haché et le persil. Mélanger, puis répartir cette chapelure sur le gratin. Nettoyez les parois de la cocotte avec un torchon ou une spatule souple. Enfourner pour 8 minutes. Passer en mode gril (puissance maximale) et faire gratiner 4 minutes, en surveillant régulièrement. Sortir la cocotte du four et laisser tiédir 5 minutes avant de servir.
 
 ## Noms ingrédients
-beurre. oignons. graines de cumin. curry en poudre. piments verts. crème liquide. cheddar. mie de pain. persil. chou-fleur
-
+oignons. piment vert. cheddar. persil. chou-fleur
 ---
 
 # Salade de chou-fleur et d'œufs à la reine
@@ -7413,8 +7271,7 @@ Version végétarienne du poulet à la reine. Peut aussi se servir en garniture 
 4. Dans un cul-de-poule, mélanger le yaourt, la mayonnaise, 1 cuillère à café de curry, la moitié du piment d'Alep, le cumin, le jus de citron et ¼ de cuillère à café de sel. Verser cette sauce sur les œufs, puis ajouter l'estragon, ainsi que le chou-fleur et l'oignon rôtis. Mélanger bien, puis dresser sur un plat de service, parsemer du reste de piment et servir avec des quartiers de citron.
 
 ## Noms ingrédients
-huile d'olive. curry en poudre. œufs. yaourt grec. piment d'Alep. graines de cumin. jus de citron. estragon. chou-fleur. oignons
-
+yaourt grec. piment d'Alep. citrons. chou-fleur. oignons
 ---
 
 # Pois chiches et feuilles de bette au yaourt
@@ -7446,8 +7303,7 @@ Plat généreux et réconfortant, servi avec du riz blanc. Peut se préparer à 
 4. Incorporer le jus de citron hors du feu, puis dresser dans les assiettes avec une belle cuillère de yaourt et un quartier de citron. Parsemer de coriandre, arroser d'un filet d'huile d'olive.
 
 ## Noms ingrédients
-carottes. huile d'olive. oignons. graines de carvi. cumin. blettes. pois chiches (non listé — voir note). jus de citron. yaourt grec. coriandre
-
+carottes. oignons. blettes. pois chiches. citrons. yaourt grec. coriandre
 ---
 
 # Mijoté de haricots plats à la tomate
@@ -7478,8 +7334,7 @@ Servi avec du riz complet, ce plat estival et léger se bonifie avec le temps : 
 2. Retirer le couvercle et laisser épaissir 30 minutes, en remuant de temps en temps, jusqu'à ce que les haricots ne montrent plus aucune résistance. Incorporer la coriandre. Servir chaud ou à température ambiante.
 
 ## Noms ingrédients
-huile d'olive. oignons. ail. graines de cumin. paprika. concentré de tomates. haricots verts. tomates. bouillon de légumes. coriandre
-
+oignons. ail. concentré de tomate. haricots verts. tomates en conserve. coriandre
 ---
 
 # Haricots verts et tofu en sauce rouge
@@ -7516,8 +7371,7 @@ D'inspiration libyenne, la sauce rouge aux épices peut se conserver au moins 1 
 4. Hors du feu, incorporer délicatement le tofu et la coriandre, puis dresser dans quatre assiettes creuses. Servir avec un quartier de citron vert.
 
 ## Noms ingrédients
-haricots verts. huile de tournesol. ail. paprika. graines de carvi. cumin. cannelle. concentré de tomates. jus de citron vert. coriandre
-
+haricots verts. ail. concentré de tomate. citrons verts. coriandre
 ---
 
 # Guacamole revisité aux saveurs printanières
@@ -7543,8 +7397,7 @@ Guacamole plus frais et léger que la version traditionnelle grâce aux fèves. 
 3. Dresser le guacamole en cratère dans une assiette creuse et, juste avant de servir, verser le mélange de fèves, de cébettes et de citron au centre.
 
 ## Noms ingrédients
-fèves. huile d'olive. jus de citron. citron
-
+fèves. citrons
 ---
 
 # Purée de haricots blancs au muhammara
@@ -7582,8 +7435,7 @@ Le muhammara est une spécialité de la cuisine levantine à base de poivrons ro
 4. Pour la purée de haricots, faire chauffer l'huile dans une petite casserole sur feu moyen, puis faire infuser la gousse d'ail et les branches de thym pendant 2 à 3 minutes. Jeter l'ail, mais réserver le thym avec 2 cuillères à café d'huile aromatisée. Verser le reste dans le bol d'un robot avec les haricots blancs, 1 cuillère à soupe d'eau et ½ cuillère à café de sel. Mixer jusqu'à obtenir une purée parfaitement lisse. Dresser en cratère dans un grand plat de service ou dans des coupelles, et verser la sauce aux poivrons au centre. Déposer les branches de thym frites sur le dessus et arroser des 2 cuillères à café d'huile aromatisée réservées.
 
 ## Noms ingrédients
-poivrons rouges. huile d'olive. ail. thym. paprika fumé. piment en flocons. vinaigre balsamique. noix
-
+poivron rouge. ail. piment rouge séché. noix
 ---
 
 # Salade de haricots verts aux deux citrons
@@ -7614,8 +7466,7 @@ Les deux premières étapes peuvent s'effectuer jusqu'à 6 h à l'avance. Si vou
 3. Une fois les haricots et les edamames bien égouttés, les verser dans un plat de service et les arroser avec la sauce et le jus de citron vert. Mélanger bien, puis parsemer de graines de sésame, de coriandre et servir aussitôt.
 
 ## Noms ingrédients
-citron vert. jus de citron vert. menthe. ail. huile d'olive. piments verts. coriandre. haricots verts. graines de sésame
-
+citrons verts. menthe. ail. piment vert. coriandre. haricots verts
 ---
 
 # Châtaignes et champignons au zaatar
@@ -7645,8 +7496,7 @@ Garniture idéale pour les repas d'automne ou de fêtes. Peut aussi se servir au
 3. Verser le contenu de la plaque dans un saladier et assaisonner avec l'estragon, le zaatar, le jus de citron et 2 cuillères à café d'huile d'olive. Mélanger, puis dresser dans un grand plat de service et servir.
 
 ## Noms ingrédients
-champignons de paris. échalotes. huile d'olive. ail. sauge. estragon. zaatar. jus de citron
-
+champignons de Paris. échalotes. ail. sauge. zaatar. citrons
 ---
 
 # Choux de Bruxelles au beurre noisette et à l'ail noir
@@ -7677,8 +7527,7 @@ L'ail noir, avec son goût balsamique et ses notes de réglisse, permet de donne
 4. Réaliser un beurre noisette en laissant le beurre colorer 3 minutes dans une grande sauteuse sur feu moyen-vif. Ajouter la pâte à base d'ail noir, de thym et de carvi, les choux, les graines de courge et 1 pincée de sel. Laisser cuire 30 secondes en remuant continuellement, puis retirer du feu. Incorporer le jus de citron et dresser dans un saladier de service ou directement dans les assiettes. Arroser d'un filet de tahin et servir aussitôt.
 
 ## Noms ingrédients
-huile d'olive. graines de carvi. thym. beurre. jus de citron. tahin
-
+citrons. tahin
 ---
 
 # Salade de carottes à la cannelle, sauce au yaourt et aux herbes
@@ -7709,8 +7558,7 @@ Les carottes nouvelles fines apportent une certaine élégance. La sauce peut se
 3. Dans un cul-de-poule, mélanger le yaourt avec la crème fraîche et ¼ de cuillère à café de sel. Verser sur les carottes, ajouter les herbes fraîches et donner un ou deux coups de cuillères en bois – pas plus ! Soulever délicatement les carottes avec des couverts à salade pour les transvaser dans un saladier de service et déguster.
 
 ## Noms ingrédients
-carottes. huile d'olive. vinaigre de cidre. miel. ail. cannelle. yaourt grec. crème fraîche. aneth. coriandre
-
+carottes. miel. ail. yaourt grec. aneth. coriandre
 ---
 
 # Butternut rôtie aux lentilles et au dolcelatte
@@ -7743,8 +7591,7 @@ Servir avec la courge et les lentilles encore chaudes pour que le gorgonzola fon
 4. Verser les tranches de butternut et les oignons dans les lentilles et mélanger délicatement. Débarrasser dans un saladier de service, parsemer de morceaux de dolcelatte, arroser d'un filet d'huile d'olive et servir.
 
 ## Noms ingrédients
-huile d'olive. oignons rouges. sauge. lentilles du puy. citron. jus de citron. ail. persil. menthe. estragon. gorgonzola
-
+oignons rouges. sauge. lentilles du Puy. citrons. ail. persil. menthe. gorgonzola
 ---
 
 # Butternut rôtie avec maïs, feta et graines de courge
@@ -7775,8 +7622,7 @@ Si vous aimez votre maïs grillé bien croquant, démarrez avec des épis frais.
 4. Dresser les tranches de butternut dans un grand plat de service ou directement dans les assiettes, puis arroser du mélange maïs/huile/herbes. Parsemer de graines de courge, de morceaux de feta et servir avec un filet d'huile d'olive supplémentaire.
 
 ## Noms ingrédients
-huile d'olive. piment rouge frais. citron vert. jus de citron vert. coriandre. menthe. feta. épis de maïs
-
+piment rouge frais. citrons verts. coriandre. menthe. feta. épis de maïs
 ---
 
 # Salade de betteraves rôties au yaourt et au citron confit
@@ -7807,8 +7653,7 @@ Cette salade s'accorde divinement avec les poissons gras : maquereau fumé, file
 4. Incorporer le tahin dans le yaourt et déposer quatre ou cinq points de ce mélange sur les betteraves. Donner un coup de cuillère en bois sans chercher à vraiment incorporer le yaourt, parsemer du reste d'aneth et servir.
 
 ## Noms ingrédients
-huile d'olive. graines de cumin. oignons rouges. citron confit. jus de citron. aneth. tahin. yaourt grec
-
+oignons rouges. citron confit. citrons. aneth. tahin. yaourt grec
 ---
 
 # Purée à l'huile d'olive aromatisée
@@ -7843,8 +7688,7 @@ Purée à base d'huile d'olive plutôt que de beurre et de lait. Aromatisée au 
 4. Dresser la purée dans un plat de service et, avec le dos d'une cuillère, créer du relief pour retenir l'huile aromatisée. Arroser d'huile aromatisée, donner quelques tours de moulin à poivre noir et servir.
 
 ## Noms ingrédients
-pommes de terre. ail. thym. menthe. citron. jus de citron. huile d'olive
-
+pomme de terre. ail. menthe. citrons
 ---
 
 # Purée de patates douces, sauce aux herbes et au citron vert
@@ -7873,8 +7717,7 @@ Cette purée se marie avec tout : côtelettes grillées, saucisses au barbecue, 
 5. Dresser la purée dans un plat de service, créer quelques aspérités sur la surface et verser la sauce dans les creux. Servir aussitôt.
 
 ## Noms ingrédients
-patates douces. huile d'olive. basilic. coriandre. ail. citron vert. jus de citron vert
-
+patate douce. basilic. coriandre. ail. citrons verts
 ---
 
 # Pommes de terre en robe des champs, gorgonzola et épinards
@@ -7902,8 +7745,7 @@ Le goût puissant du bleu apporte un vrai plus, mais on peut le remplacer par to
 4. Remplir une casserole d'eau salée à mi-hauteur et porter à ébullition. Blanchir les épinards pendant 10 à 15 secondes, puis égoutter en pressant les feuilles pour extraire un maximum de liquide. Incorporer les épinards dans la purée, puis garnir généreusement les peaux de pommes de terre. Enfourner pour 15 minutes, jusqu'à ce que la purée soit gratinée en surface. Sortir du four, parsemer de brisures de noix et servir.
 
 ## Noms ingrédients
-pommes de terre. crème liquide. gorgonzola. beurre. épinards. noix
-
+pomme de terre. gorgonzola. épinards. noix
 ---
 
 # Pommes de terre en robe des champs, œufs mollets et sauce au thon
@@ -7938,8 +7780,7 @@ Cette recette combine les pommes de terre au four et les œufs mollets. La sauce
 4. Au moment de servir, inciser profondément les pommes de terre dans le sens de la longueur. Pincer légèrement la peau pour aider la chair à se détacher. Saupoudrer d'une pincée de fleur de sel. Garnir de sauce au thon. Déposer un œuf mollet sur le dessus en le coupant en deux juste avant pour que le jaune coule sur la sauce. Parsemer du reste de persil et de câpres, arroser d'un filet d'huile d'olive et servir.
 
 ## Noms ingrédients
-pommes de terre. huile d'olive. œufs. jus de citron. anchois. ail. persil. câpres
-
+pomme de terre. citrons. anchois. ail. persil. câpres
 ---
 
 # Frites au four à la feta et à l'origan
@@ -7967,8 +7808,7 @@ Ces frites s'inspirent de celles goûtées à Melbourne au restaurant de George 
 4. Cinq minutes avant que les frites ne soient bien dorées et croustillantes, faire chauffer l'huile d'olive avec les gousses d'ail dans une petite casserole sur feu moyen-vif. Laisser colorer 3 à 4 minutes, puis sortir les frites du four, les arroser de cette huile aillée et remettre au four (avec les gousses d'ail) pour 4 minutes supplémentaires. Parsemer les frites d'origan et de feta, et servir aussitôt.
 
 ## Noms ingrédients
-pommes de terre. huile de tournesol. huile d'olive. ail. origan. feta. fleur de sel
-
+pomme de terre. ail. feta
 ---
 
 # Pommes sautées au romarin et au sumac
@@ -7994,8 +7834,7 @@ Le sumac, avec sa belle robe pourpre et son goût légèrement astringent, perme
 2. Égoutter les pommes de terre avec une écumoire et déposer dans un saladier de service. Parsemer de sumac, mélanger et servir.
 
 ## Noms ingrédients
-huile d'olive. pommes de terre. ail. thym. romarin. sumac
-
+pomme de terre. ail
 ---
 
 # Pommes de terre à la harissa et à l'ail confit au four
@@ -8026,8 +7865,7 @@ L'ail confit consiste simplement à faire rôtir l'ail tout doucement jusqu'à c
 5. Verser les pommes de terre dans le cul-de-poule contenant la graisse d'oie et ajouter la semoule, les graines de carvi, la harissa et 2 cuillères à café de fleur de sel. Mélanger bien, puis répartir le tout sur une grande plaque chemisée avec du papier sulfurisé. Faire dorer au four pendant 45 minutes en retournant les pommes de terre une ou deux fois en cours de cuisson. Ajouter l'ail confit et les herbes et poursuivre la cuisson 10 à 15 minutes, jusqu'à ce que les pommes de terre soient croustillantes et bien colorées. Servir.
 
 ## Noms ingrédients
-ail. romarin. thym. pommes de terre. semoule fine. graines de carvi. harissa
-
+ail. pomme de terre. semoule
 ---
 
 # Salade croquante, laitue et robes des champs
@@ -8060,8 +7898,7 @@ Recette anti-gaspi utilisant les peaux de pommes de terre d'une recette précéd
 4. Dans un bol, émulsionner tous les ingrédients prévus pour la sauce avec ¼ de cuillère à café de sel et verser sur la salade. Mélanger et servir.
 
 ## Noms ingrédients
-pommes de terre. harissa. huile d'olive. estragon. citron confit. jus de citron. graines de cumin
-
+pomme de terre. citron confit. citrons
 ---
 
 # Pommes de terre nouvelles et petits pois à la coriandre
@@ -8088,8 +7925,7 @@ Cette garniture se marie à merveille avec l'agneau ou tout autre produit printa
 2. Porter un grand volume d'eau salée à ébullition, puis plonger les pommes de terre et laisser cuire environ 15 minutes. Égoutter et débarrasser dans un saladier. Écraser grossièrement les pommes de terre en essayant d'en laisser au moins ⅓ entières. Ajouter les petits pois – mixés et entiers –, ainsi que le jus de citron et les feuilles de coriandre. Mélanger délicatement et servir chaud.
 
 ## Noms ingrédients
-piments verts. citron confit. coriandre. huile d'olive. jus de citron. pommes de terre. citron
-
+piment vert. citron confit. coriandre. citrons. pomme de terre
 ---
 
 # Pizza blanche aux pommes de terre, anchois et sauge
@@ -8128,8 +7964,7 @@ Garniture blanche à base de mascarpone et de pommes de terre. La pâte peut se 
 5. Badigeonner deux grandes plaques à four d'huile d'olive et fariner légèrement le plan de travail. Abaisser l'un des pâtons en un rectangle de 30 x 20 cm, puis déposer délicatement sur l'une des plaques. Répéter l'opération avec le deuxième pâton et répartir la base mascarpone/anchois sur les deux pâtes, en laissant 2 cm de pâte vierge sur tout le tour. Parsemer de cébettes, puis recouvrir de tranches de pommes de terre. Arroser chaque pizza de 1 cuillère à soupe d'huile d'olive et enfourner pour 9 minutes, jusqu'à ce que la pâte soit bien dorée et croustillante sur les bords. Servir chaud avec un dernier tour de moulin à poivre.
 
 ## Noms ingrédients
-farine. levure. huile d'olive. pommes de terre. mascarpone. pecorino. anchois. sauge. citron. oignons verts
-
+pomme de terre. mascarpone. pecorino. anchois. sauge. citrons. oignons verts
 ---
 
 # Salade de haricots verts au sarrasin
@@ -8166,8 +8001,7 @@ Peut aussi se déguster seule ou avec des pavés de saumon poêlés. Simple et r
 5. Au moment de servir, mélanger les oignons, le sarrasin, les haricots, la menthe et l'estragon avec la cuillère à soupe d'huile restante et ½ cuillère à café de sel. Transvaser le tout dans votre plat de service et servir avec la sauce à part. Saupoudrer de piment et déguster !
 
 ## Noms ingrédients
-oignons rouges. huile d'olive. haricots verts. menthe. estragon. piment d'urfa. yaourt grec. ail. jus de citron
-
+oignons rouges. haricots verts. menthe. piment d'Urfa. yaourt grec. ail. citrons
 ---
 
 # Taboulé à ma façon
@@ -8202,8 +8036,7 @@ Compagnon idéal de tous vos barbecues, ce taboulé se marie divinement avec les
 5. Dresser le taboulé dans un plat de service et déposer les tomates sur le dessus avant de servir.
 
 ## Noms ingrédients
-semoule fine. huile d'olive. tomates cerise. oignons. graines de cumin. amandes. coriandre. menthe. citron. jus de citron
-
+semoule. tomates cerise. oignons. amandes. coriandre. menthe. citrons
 ---
 
 # Ragoût de lentilles aux aubergines
@@ -8236,8 +8069,7 @@ Ce ragoût supporte 3 jours de réfrigérateur. Pour réchauffer, ajouter une cu
 3. Servir chaud ou à température ambiante, avec une cuillère de crème fraîche, un filet d'huile d'olive, les flocons de piment et les feuilles d'origan.
 
 ## Noms ingrédients
-huile d'olive. ail. oignons rouges. thym. aubergines. tomates cerise. lentilles du puy. bouillon de légumes. crème fraîche. piment d'urfa. origan
-
+ail. oignons rouges. aubergines. tomates cerise. lentilles du Puy. piment d'Urfa
 ---
 
 # Boulgour à la tomate, aux aubergines et au yaourt citronné
@@ -8271,8 +8103,7 @@ Si servi en accompagnement, les aubergines et le yaourt citronné ne sont pas in
 5. Répartir le boulgour dans quatre assiettes, dresser une belle cuillère de yaourt sur le dessus, ajouter les aubergines et parsemer du reste de menthe.
 
 ## Noms ingrédients
-aubergines. huile d'olive. oignons. ail. mélange quatre-épices. tomates cerise. concentré de tomates. yaourt grec. citron confit. menthe
-
+aubergines. oignons. ail. tomates cerise. concentré de tomate. yaourt grec. citron confit. menthe
 ---
 
 # Lentilles du Puy au caviar d'aubergine, tomates et yaourt
@@ -8302,8 +8133,7 @@ Par souci de praticité, les aubergines sont confites au four, mais pour plus de
 4. Pendant que les tomates sont au four, remplir une casserole d'eau et porter à ébullition. Plonger les lentilles sèches dans l'eau bouillante, baisser le feu (moyen) et faire cuire 20 minutes jusqu'à ce qu'elles soient al dente. Verser les lentilles dans une passoire, laisser s'égoutter au maximum, puis transvaser dans un saladier. Ajouter le caviar d'aubergine, les tomates, l'huile d'olive, le jus de citron, l'ail, 2 cuillères à soupe d'origan, ¾ de cuillère à café de sel et du poivre. Mélanger, puis dresser dans un plat de service (creux). Ajouter le yaourt sur le dessus en créant quelques volutes, saupoudrer du reste d'origan, arroser d'un filet d'huile d'olive et servir.
 
 ## Noms ingrédients
-aubergines. tomates cerise. lentilles du puy. huile d'olive. jus de citron. ail. origan. yaourt grec
-
+aubergines. tomates cerise. lentilles du Puy. citrons. ail. yaourt grec
 ---
 
 # Riz pilaf aux oignons et à l'ail noir
@@ -8330,8 +8160,7 @@ Ce plat à base de riz se marie admirablement avec la viande d'agneau ou de porc
 2. Verser la cuillère à soupe d'huile restante dans la sauteuse, puis ajouter le riz et ½ cuillère à café de sel. Laisser frire 1 minute sans cesser de remuer, puis mouiller avec 500 ml d'eau. Porter à ébullition, puis baisser le feu (moyen-doux) et laisser mijoter à couvert env. 45 minutes, jusqu'à ce que le riz soit entièrement cuit. Retirer du feu et incorporer les oignons, le jus de citron et l'ail noir. Servir aussitôt, surmonté d'une belle cuillère de yaourt et de persil haché.
 
 ## Noms ingrédients
-huile de tournesol. oignons. citron. jus de citron. riz. yaourt grec. persil
-
+oignons. citrons. yaourt grec. persil
 ---
 
 # Riz au four parfumé à la menthe, grenade et olives vertes
@@ -8366,8 +8195,7 @@ Opter pour une cuisson au four, c'est choisir une méthode inratable. De plus, c
 4. Sortir le riz du four et retirer le papier d'aluminium. Prélever les feuilles sur les brins de menthe (jeter les tiges) et déposer sur le riz, puis parsemer de feta. Juste avant de servir, incorporer les 10 g de menthe ciselée dans la garniture et verser sur le riz de manière homogène. Servir chaud.
 
 ## Noms ingrédients
-riz. beurre. menthe. feta. olives de kalamata. grenade. arilles de grenade. noix. huile d'olive. mélasse de grenade. ail
-
+menthe. feta. olives de Kalamata. grenade. arilles de grenade. noix. ail
 ---
 
 # Riz gluant et julienne croustillante comme en Asie
@@ -8396,8 +8224,7 @@ Servi avec un plat à base de viande ou de poisson, le riz gluant est déjà un 
 2. Pendant que le riz cuit, faire chauffer l'huile dans une poêle ou un wok sur feu moyen-vif. Ajouter le gingembre, l'ail et les piments et faire revenir 3 à 4 minutes en remuant régulièrement, jusqu'à obtenir un début de coloration. Ajouter la coriandre, les cacahuètes, les graines de sésame, une belle pincée de sel et laisser dorer encore 1 à 2 minutes. Dresser sur le riz et servir avec des quartiers de citron vert.
 
 ## Noms ingrédients
-riz. huile d'arachide. gingembre. ail. piment rouge frais. coriandre. cacahuètes grillées. graines de sésame. citron vert
-
+gingembre. ail. piment rouge frais. coriandre. cacahuètes. citrons verts
 ---
 
 # Riz au four aux tomates confites et à l'ail
@@ -8428,8 +8255,7 @@ Accompagnement parfait pour quasiment toutes les viandes et poissons, mais aussi
 4. Assaisonner le riz avec ½ cuillère à café de sel et quelques tours de moulin à poivre, puis mouiller délicatement le plat avec l'eau bouillante. Couvrir hermétiquement le plat avec une feuille de papier d'aluminium et enfourner pour 25 minutes, jusqu'à ce que le riz ait absorbé tout le liquide. Sortez le plat du four et laissez reposer 10 minutes sans toucher le couvercle. Retirer le papier d'aluminium, parsemer de feuilles de coriandre, mélanger délicatement et servir.
 
 ## Noms ingrédients
-tomates cerise. ail. échalotes. coriandre. thym. cannelle. huile d'olive. riz
-
+tomates cerise. ail. échalotes. coriandre
 ---
 
 # Nouilles de riz froides au concombre et au pavot
@@ -8469,8 +8295,7 @@ Cette salade fait aussi des merveilles avec des pavés de saumon poêlés. Tous 
 3. Quand les nouilles sont revenues à température ambiante, verser tous les ingrédients restants dans le saladier, le jus de macération, 2 cuillères à soupe d'huile d'olive et 1 petite cuillère à café de sel. Mélanger bien et servir aussitôt.
 
 ## Noms ingrédients
-vinaigre de cidre. oignons rouges. gingembre. huile d'olive. concombre. piment rouge frais. menthe. estragon. graines de pavot. yaourt grec. ail. jus de citron
-
+oignons rouges. gingembre. concombres. piment rouge frais. menthe. yaourt grec. ail. citrons
 ---
 
 # Sobas froides au citron vert, cardamome et avocat
@@ -8500,8 +8325,7 @@ Recette légère pour déjeuner ou dîner. On peut y ajouter des crevettes ou du
 2. Avec le plat du couteau, ouvrir les capsules de cardamome en les écrasant. Récupérer les graines et jeter les capsules. Dans un mortier, piler les graines jusqu'à obtenir ½ cuillère à café de poudre. Transvaser les sobas dans un saladier et ajouter la poudre de cardamome. Ajouter le basilic, la coriandre, les pistaches, le zeste et le jus de citron vert, l'huile, le piment, les lamelles d'avocat et ½ cuillère à café de sel. Mélanger, puis dresser dans quatre grands bols, en raclant bien le fond du saladier. Parsemer de graines de nigelle ou de piment et servir avec un quartier de citron vert.
 
 ## Noms ingrédients
-nouilles soba. cardamome. basilic. coriandre. pistaches. citron vert. jus de citron vert. huile d'arachide. piment vert
-
+basilic. coriandre. pistaches. citrons verts. piment vert
 ---
 
 # Salade de spaghettis de mer au sésame
@@ -8535,8 +8359,7 @@ Les spaghettis de mer ont une texture proche des nouilles de riz et un goût sub
 2. Verser les spaghettis de mer dans une casserole de taille moyenne et mouiller à hauteur. Porter à ébullition, puis baisser le feu et laisser cuire 15 minutes à feu doux, jusqu'à obtenir une cuisson al dente. Égoutter, puis stopper la cuisson à l'eau froide. Sécher les spaghettis avec du papier absorbant et débarrasser dans un saladier. Ajouter les tagliatelles de concombre, les graines de sésame, la coriandre, la vinaigrette et ½ cuillère à café de sel. Mélanger le tout, puis dresser dans quatre grands bols (ou dans un plat de service creux), saupoudrer de piment et servir aussitôt.
 
 ## Noms ingrédients
-concombre. graines de sésame. coriandre. piment en flocons. miel. vinaigre de riz. mirin. moutarde de dijon. sauce soja. tahin. huile d'arachide
-
+concombres. coriandre. piment rouge séché. miel. tahin
 ---
 
 # Pâtes à la sicilienne
@@ -8569,8 +8392,7 @@ Ces pâtes font partie des plats dont on ne se lasse jamais. La sauce tomate peu
 5. Dresser les pâtes dans quatre assiettes creuses, saupoudrer du restant de fromage et de basilic, arroser de 1 cuillère à soupe d'huile d'olive et servir.
 
 ## Noms ingrédients
-aubergines. huile d'olive. ail. tomates en conserve. origan. spaghettis. pecorino. basilic
-
+aubergines. ail. tomates en conserve. pecorino. basilic
 ---
 
 # Tagliatelles piquantes aux tomates cerise
@@ -8598,8 +8420,7 @@ Choisir de belles tomates cerise au pic de leur maturité. La sauce peut se pré
 2. Plonger les tagliatelles dans un grand volume d'eau salée portée à ébullition et laisser cuire 10 à 12 minutes à feu vif, ou selon les indications figurant sur le paquet pour obtenir une cuisson al dente. Égoutter et mélanger avec la sauce. Dresser dans quatre assiettes creuses, saupoudrer de parmesan et servir.
 
 ## Noms ingrédients
-huile d'olive. ail. tomates cerise. basilic. tagliatelles. parmesan
-
+ail. tomates cerise. basilic. parmesan
 ---
 
 # Pappardelles aux olives noires, câpres et harissa à la rose
@@ -8629,8 +8450,7 @@ La sauce peut se préparer jusqu'à 3 jours à l'avance et se conserver au réfr
 3. Verser la sauce sur les pâtes, ajouter 1 bonne pincée de sel et mélanger. Dresser dans quatre assiettes creuses et servir bien chaud, avec une cuillère de yaourt et quelques feuilles de persil hachées.
 
 ## Noms ingrédients
-huile d'olive. oignons. harissa. tomates cerise. olives de kalamata. câpres. persil. yaourt grec
-
+oignons. tomates cerise. olives de Kalamata. câpres. persil. yaourt grec
 ---
 
 # Gigli aux pois chiches et au zaatar
@@ -8665,8 +8485,7 @@ En italien, gigli signifie « lys ». Les orecchiette (« oreilles ») et les co
 3. Verser les épinards et le persil sur les pois chiches et mélanger : la chaleur de la sauce devrait suffire à faire tomber les épinards mais, si ce n'est pas le cas, remettre la sauteuse quelques minutes sur feu doux. Verser ensuite les pâtes dans la sauteuse et mélanger. Dresser dans quatre grands bols, saupoudrer de zaatar, arroser d'un filet d'huile d'olive et servir.
 
 ## Noms ingrédients
-huile d'olive. oignons. ail. cumin. thym. anchois. citron. jus de citron. bouillon de volaille. épinards. persil. zaatar. orecchiette
-
+oignons. ail. anchois. citrons. épinards. persil. zaatar
 ---
 
 # Risoni aux crevettes, tomates et feta marinée
@@ -8698,8 +8517,7 @@ L'association crevettes/feta/tomates/pâtes est une valeur sûre pour les soirs 
 3. Remettre la sauteuse sur le feu et faire revenir l'ail 1 minute dans les 2 cuillères à soupe d'huile avec ¼ de cuillère à café de piment en flocons, 2 cuillères à café de graines de fenouil, et les écorces d'orange. Quand l'ail commence à colorer, ajouter les tomates, le bouillon de légumes, 200 ml d'eau, ¾ de cuillère à café de sel et du poivre. Laisser cuire jusqu'à ébullition, puis ajouter les risoni frits. Baisser le feu (moyen-doux) et laisser mijoter à couvert pendant 15 minutes, en remuant une fois ou deux. Retirer le couvercle et laisser épaissir 1 à 2 minutes. Ajouter les crevettes, laisser les rosir (2 à 3 min), puis incorporer le basilic et servir aussitôt, parsemé de dés de feta marinée.
 
 ## Noms ingrédients
-feta. piment en flocons. graines de fenouil. huile d'olive. ail. tomates en conserve. bouillon de légumes. basilic
-
+feta. piment rouge séché. ail. tomates en conserve. basilic
 ---
 
 # Trofie au basilic et aux pistaches
@@ -8729,8 +8547,7 @@ Les trofie sont les pâtes que l'on sert habituellement avec le pesto, les fusil
 3. Égoutter dans une passoire en réservant 2 cuillères à soupe d'eau de cuisson, puis transvaser dans un saladier. Verser le pesto basilic/anchois sur les pâtes et mélanger. Ajouter le pecorino, les pistaches, le zeste de citron, les 20 g de basilic restants, 1 bonne pincée de sel et du poivre. Mélanger délicatement et servir.
 
 ## Noms ingrédients
-basilic. ail. anchois. huile d'olive. pois mange-tout. pecorino. pistaches. citron
-
+basilic. ail. anchois. pois mange-tout. pecorino. pistaches. citrons
 ---
 
 # Spaghettis aux anchois et à la salicorne
@@ -8760,8 +8577,7 @@ La salicorne et les anchois, deux produits fortement iodés, permettent de donne
 3. Remettre la sauteuse sur feu moyen-vif, puis ajouter les spaghettis, la salicorne et mélanger. Si besoin, délayer avec un peu d'eau de cuisson. Incorporer le restant de persil, poivrer et dresser dans quatre assiettes. Saupoudrer de quelques flocons de piment et servir avec un quartier de citron.
 
 ## Noms ingrédients
-huile d'olive. anchois. piment d'Alep. ail. citron. persil. spaghettis
-
+anchois. piment d'Alep. ail. citrons. persil
 ---
 
 # Gnocchis à la romaine
@@ -8790,8 +8606,7 @@ Servi tel quel ou accompagné d'une salade verte croquante, c'est le plat famili
 4. Enclencher le gril à puissance maximale et faire gratiner 2 à 3 minutes, env. 10 cm sous la source de chaleur. Laisser tiédir 5 minutes et servir.
 
 ## Noms ingrédients
-beurre. lait. semoule fine. parmesan. œufs. cheddar
-
+semoule. parmesan. cheddar
 ---
 
 # Boulettes d'agneau à la feta
@@ -8821,8 +8636,7 @@ Ces boulettes peuvent se grignoter à l'apéritif ou faire office de plat princi
 3. Dans une grande poêle, mettre l'huile à chauffer sur feu moyen-vif, puis faire revenir les boulettes 5 à 6 minutes, en les retournant régulièrement jusqu'à ce qu'elles soient uniformément dorées. Débarrasser sur une plaque à four chemisée, arroser d'un filet de mélasse de grenade et terminer la cuisson 5 minutes au four. Servir chaud.
 
 ## Noms ingrédients
-viande d'agneau hachée. feta. thym. ail. persil. mie de pain. cannelle. huile d'olive. mélasse de grenade
-
+viande d'agneau hachée. feta. ail. persil. grenade
 ---
 
 # Salade au bœuf et au basilic
@@ -8855,8 +8669,7 @@ Ce plat peut faire une belle entrée ou un repas léger. Tous les composants peu
 6. Au moment de servir, détailler le bœuf en fines tranches de 0,5 cm d'épaisseur. Assaisonner avec une pincée de sel et verser dans le saladier de légumes. Ajouter les morceaux de pitas grillés, mélanger délicatement et servir aussitôt.
 
 ## Noms ingrédients
-basilic. ail. huile d'olive. faux-filet. pains pitas. endives rouges. roquette. jus de citron. parmesan
-
+basilic. ail. faux-filet. pain pita. endives rouges. roquette. citrons. parmesan
 ---
 
 # Parmentier d'agneau au sésame
@@ -8894,8 +8707,7 @@ Version orientale du hachis Parmentier où la purée de pommes de terre est remp
 5. Sortir la cocotte du four, laisser reposer 5 minutes et servir.
 
 ## Noms ingrédients
-huile d'olive. oignons. concentré de tomates. viande d'agneau hachée. tomates. paprika. pignons de pin. persil. tahin. jus de citron. ail
-
+oignons. concentré de tomate. viande d'agneau hachée. tomates en conserve. pistaches. persil. tahin. citrons. ail
 ---
 
 # Noisettes d'agneau aux amandes et à la fleur d'oranger
@@ -8930,8 +8742,7 @@ Très pratique quand on reçoit du monde, ce plat peut se préparer presque enti
 7. Au moment de servir, découper l'agneau en tranches de 1 cm d'épaisseur. Dresser sur un plat de service avec les poivrons rouges et arroser de marinade. Incorporer la menthe fraîchement ciselée dans la sauce aux amandes et verser sur la viande.
 
 ## Noms ingrédients
-ail. thym. citron. jus de citron. huile d'olive. filet d'agneau. amandes. miel. eau de fleur d'oranger. poivrons rouges. menthe
-
+ail. citrons. filet d'agneau. amandes. miel. poivron rouge. menthe
 ---
 
 # Pain de viande, agneau, tahin, tomates
@@ -8969,8 +8780,7 @@ Ce pain de viande peut se servir chaud en plat principal ou à température ambi
 5. Sortir le moule du bain-marie et laisser tiédir 10 minutes avant de démouler. Recouvrir d'un tiers de sauce sésame et d'un tiers de tomates râpées. Servir chaud avec le reste de sauce et de tomates à part, ou laisser revenir à température ambiante et servir découpé en tranches dans des pains pita.
 
 ## Noms ingrédients
-courgettes. carottes. oignons. tomates. viande d'agneau hachée. ail. pecorino. mie de pain. œufs. concentré de tomates. cumin. mélange quatre-épices. tahin. jus de citron
-
+courgettes. carottes. oignons. tomates en conserve. viande d'agneau hachée. ail. pecorino. concentré de tomate. tahin. citrons
 ---
 
 # Arayes d'agneau au tahin et au sumac
@@ -9005,8 +8815,7 @@ Les arayes sont des petits pains plats fourrés à la viande d'agneau très popu
 3. Délayer le sumac dans 2 cuillères à café d'huile. Badigeonner la face visible des arayes de cette huile aromatisée et servir chaud ou à température ambiante.
 
 ## Noms ingrédients
-huile d'olive. sumac. viande d'agneau hachée. oignons. tomates. mélange quatre-épices. tahin. ail. mélasse de grenade. menthe. cheddar
-
+viande d'agneau hachée. oignons. tomates en conserve. tahin. ail. grenade. menthe. cheddar
 ---
 
 # Épaule d'agneau confite à la menthe et au cumin
@@ -9040,8 +8849,7 @@ Servi avec un écrasé de haricots blancs détendu au jus de cuisson de l'agneau
 4. Déposer la pièce de viande dans un grand plat à gratin d'environ 30 x 40 cm avec la marinade et 500 ml d'eau. Couvrir hermétiquement de papier d'aluminium et enfourner pour 1 heure. Baisser la température du four (160 °C), ajouter le céleri-rave, les carottes, les têtes d'ail (partie coupée vers le haut) et laisser confire 5 h, en arrosant la viande et les légumes trois ou quatre fois au cours de la cuisson. Retirer ensuite l'aluminium et laisser dorer encore 30 minutes. En fin de cuisson, les légumes doivent être caramélisés et vous devez pouvoir détacher la viande de l'os sans effort.
 
 ## Noms ingrédients
-citron. jus de citron. ail. paprika. cumin. menthe. coriandre. huile d'olive. carottes. céleri-rave
-
+citrons. ail. menthe. coriandre. carottes. céleri-rave
 ---
 
 # Bouchées d'agneau à la pistache, sauce au yaourt et au sumac
@@ -9074,8 +8882,7 @@ Ces bouchées sont parfaites en guise de collation salée ou en amuse-bouches lo
 3. Dans une grande poêle antiadhésive, faire chauffer 1 cuillère à soupe d'huile sur feu moyen. Faire revenir les bouchées environ 7 minutes, en les retournant une fois à mi-cuisson. En fin de cuisson, elles doivent être joliment dorées à l'extérieur et cuites à cœur. Garder la première fournée au chaud et répéter l'opération avec les bouchées restantes. Quand toutes vos bouchées sont prêtes, dressez-les sur un grand plat de service, avec la sauce au yaourt et au sumac à proximité.
 
 ## Noms ingrédients
-pistaches. roquette. oignons. ail. viande d'agneau hachée. huile d'olive. yaourt grec. sumac. jus de citron
-
+pistaches. roquette. oignons. ail. viande d'agneau hachée. yaourt grec. citrons
 ---
 
 # Parmentier d'agneau épicé aux haricots blancs
@@ -9111,8 +8918,7 @@ Cette recette s'inspire de la cuisine d'Afrique du Nord, avec une purée de hari
 3. Pour la purée, verser les haricots blancs dans un cul-de-poule, ainsi que le tahin, le reste des zestes de citron, 2 cuillères à soupe d'huile d'olive, 3 cuillères à soupe d'eau, ¼ de cuillère à café de sel et un tour de moulin à poivre noir. Mélanger, puis écraser au presse-purée. Étaler la purée sur la couche de viande puis creuser quelques petits puits ici et là à l'aide d'une cuillère. Répartir la cuillère à soupe d'huile restante sur le dessus et faire gratiner 30 minutes au four. Laisser reposer 10 minutes à température ambiante et servir.
 
 ## Noms ingrédients
-huile d'olive. ail. échalotes. viande d'agneau hachée. graines de cumin. mélange quatre-épices. citron. concentré de tomates. harissa. abricots secs. bouillon de volaille. olives de kalamata. tahin
-
+ail. échalotes. viande d'agneau hachée. citrons. concentré de tomate. abricots secs. olives de Kalamata. tahin
 ---
 
 # Le poulet rôti d'Arnold, farce aux canneberges et au carvi
@@ -9147,8 +8953,7 @@ Arnold Rogow est un ami d'Ixta Belfrage, un chef qui a contribué à l'élaborat
 5. Enfourner la volaille pour 70 à 75 minutes, en arrosant environ toutes les 20 minutes. En fin de cuisson, la peau doit être bien dorée et croustillante, et le jus qui s'écoule de la cuisse quand on la pique doit être translucide. Sortir la volaille du four et laisser reposer 10 minutes avant de servir.
 
 ## Noms ingrédients
-beurre. graines de carvi. ail. céleri-rave. oignons. bouillon de volaille. persil
-
+ail. céleri-rave. oignons. persil
 ---
 
 # Boulettes de bœuf au citron et au céleri
@@ -9183,8 +8988,7 @@ Ces boulettes sont à la fois réconfortantes, surprenantes et goûteuses. Elles
 3. Retirer du feu et laisser reposer 5 à 10 minutes avant de servir parsemé de persil.
 
 ## Noms ingrédients
-bœuf haché. mie de pain. oignons. persil. œufs. mélange quatre-épices. huile d'olive. céleri-rave. ail. curcuma. graines de fenouil. paprika fumé. bouillon de volaille. jus de citron
-
+bœuf haché. oignons. persil. céleri-rave. ail. citrons
 ---
 
 # Boulettes de bœuf à la ricotta et à l'origan
@@ -9218,8 +9022,7 @@ Grâce à la ricotta, ces boulettes sont à la fois légères et moelleuses en b
 4. Glisser la totalité des boulettes dans la sauce et mouiller quasi à hauteur avec le reste du bouillon. Laisser mijoter 30 minutes à couvert sur feu moyen-doux, puis retirer le couvercle et passer à feu moyen jusqu'à obtenir une sauce épaisse comme une sauce bolognaise. Retirer du feu et laisser reposer minimum 10 minutes. Parsemer d'origan et servir.
 
 ## Noms ingrédients
-huile d'olive. oignons. ail. origan. tomates en conserve. bouillon de volaille. bœuf haché. mie de pain. ricotta. parmesan. œufs. persil
-
+oignons. ail. tomates en conserve. bœuf haché. ricotta. parmesan. persil
 ---
 
 # Faux-filet épicé, sauce poivron-citron
@@ -9253,8 +9056,7 @@ La sauce poivron-citron peut se préparer intégralement la veille, tout comme l
 5. Servir le bœuf chaud ou à température ambiante, détaillé en tranches de 1 cm d'épaisseur. Napper de sauce, parsemer de persil et servir avec les quartiers de citron.
 
 ## Noms ingrédients
-faux-filet. harissa. poivrons rouges. huile d'olive. ail. tomates en conserve. piment en flocons. citron confit. persil. citron. fleur de sel
-
+faux-filet. poivron rouge. ail. tomates en conserve. piment rouge séché. citron confit. persil. citrons
 ---
 
 # Poulet rôti au citron
@@ -9283,8 +9085,7 @@ Classique indémodable : citron/ail/poulet. La volaille peut être préparée 4 
 5. Sortir la volaille du four et laisser reposer 10 minutes avant de servir.
 
 ## Noms ingrédients
-beurre. thym. ail. citron confit. citron. jus de citron
-
+ail. citron confit. citrons
 ---
 
 # Cuisses de poulet Marbella
@@ -9317,8 +9118,7 @@ Plat pouvant se réaliser presque entièrement avant l'arrivée des convives : m
 4. Sortir les cuisses du four, dresser sur un grand plat de service avec leur jus de cuisson, parsemer de feuilles d'origan frais et servir.
 
 ## Noms ingrédients
-cuisses de poulet. ail. origan. vinaigre de vin rouge. huile d'olive. olives de kalamata. câpres. laurier
-
+cuisses de poulet. ail. olives de Kalamata. câpres
 ---
 
 # Poulet au miso, gingembre et citron vert
@@ -9353,8 +9153,7 @@ Ce plat se déguste aussi bien chaud, dès la sortie du four, avec du riz basmat
 5. Au moment de servir, dresser une cuisse de poulet dans chaque assiette et disposer les tiges de coriandre, le piment et les demi-cébettes autour. Arroser de sauce, saupoudrer de cébettes émincées et servir.
 
 ## Noms ingrédients
-cuisses de poulet. huile de tournesol. mirin. sirop d'érable. sauce soja. gingembre. ail. citron vert. jus de citron vert. coriandre. piment rouge frais. oignons verts
-
+cuisses de poulet. gingembre. ail. citrons verts. coriandre. piment rouge frais. oignons verts
 ---
 
 # Porc sauté au gingembre, cébettes et aubergines
@@ -9390,8 +9189,7 @@ L'une des recettes préférées quand on n'a pas envie de s'échiner en cuisine.
 3. Pendant que les aubergines cuisent, faire chauffer la moitié de l'huile d'arachide dans une grande sauteuse sur feu vif, puis faire sauter les cébettes, le gingembre, l'ail et le piment pendant 5 minutes, en remuant régulièrement. Débarrasser dans un cul-de-poule dès que l'ail commence à colorer. Verser le restant d'huile dans la sauteuse et faire revenir le porc haché 3 minutes en l'aidant à s'émietter avec une cuillère en bois. Déglacer avec le mirin, la sauce soja, le Keçap Manis, l'huile de sésame et le vinaigre de riz. Ajouter ½ cuillère à café de sel et laisser cuire 2 minutes avant de reverser les cébettes dans la sauteuse. Poursuivre la cuisson encore 1 minute et incorporer 10 g de coriandre et les cacahuètes. Servir avec les aubergines, des graines de sésame et le reste de coriandre parsemé sur le dessus.
 
 ## Noms ingrédients
-aubergines. huile d'arachide. gingembre. ail. piment vert. porc haché. mirin. sauce soja. huile de sésame. vinaigre de riz. coriandre. cacahuètes grillées. graines de sésame
-
+aubergines. gingembre. ail. piment vert. porc haché. coriandre. cacahuètes
 ---
 
 # Aiguillettes de poulet panées aux graines
@@ -9427,8 +9225,7 @@ Si vous vous découvrez une passion pour ce plat, doublez les quantités de chap
 6. Verser 0,5 cm d'huile dans une grande poêle que vous ferez chauffer sur feu moyen. Faire frire les aiguillettes quatre par quatre pendant 5 à 6 minutes, en les retournant une fois à mi-cuisson. En fin de cuisson, elles doivent être bien dorées sur les deux faces et cuites à cœur. Débarrasser sur une assiette tapissée de papier absorbant et répéter l'opération avec les aiguillettes restantes. Servir chaud, avec des quartiers de citron.
 
 ## Noms ingrédients
-farine. œufs. graines de sésame. graines de coriandre. curcuma. huile de tournesol. citron
-
+citrons
 ---
 
 # Mijoté de poulet au chocolat et son croustillant de maïs
@@ -9468,8 +9265,7 @@ Parfait quand l'automne arrive. Le poulet peut se préparer bien à l'avance et 
 5. Faire gratiner 35 minutes au four en surveillant la cuisson au bout de 25 minutes. Si le dessus vous semble colorer trop vite, recouvrir d'une feuille de papier d'aluminium pour les 10 dernières minutes. Sortir du four et laisser tiédir 10 minutes avant de servir.
 
 ## Noms ingrédients
-huile d'olive. oignons rouges. ail. harissa. paprika fumé. tomates. chocolat noir. coriandre. beurre. lait. œufs. blancs d'œufs
-
+oignons rouges. ail. tomates en conserve. chocolat noir. coriandre
 ---
 
 # Tartare de truite au beurre noisette et aux pistaches
@@ -9500,8 +9296,7 @@ La réussite d'un bon tartare repose exclusivement sur la qualité et la fraîch
 4. Dresser les cubes de truite dans quatre assiettes et ajouter les échalotes (sans leur liquide résiduel) sur le dessus. Parsemer de pistaches, d'estragon et arroser de beurre noisette au cumin. Ajouter une pincée de fleur de sel et servir aussitôt.
 
 ## Noms ingrédients
-échalotes. citron. jus de citron. truites. huile d'olive. beurre. graines de cumin. pistaches. estragon. fleur de sel
-
+échalotes. citrons. truite. pistaches
 # Recettes — Poisson & Desserts
 
 ---
@@ -10275,8 +10070,7 @@ Sortez le *dutch baby* du four et faites-le glisser sur un plat de service. Déc
 
 ## Noms ingrédients
 
-bacon. basilic. cassonade. cheddar. farine. flocons de piment. huile d'olive. lait. moutarde anglaise. œufs. parmesan. thym. tomates cerises. vinaigre balsamique
-
+bacon. basilic. cheddar. piment rouge séché. parmesan. tomates cerise
 ---
 
 # Œufs et cresson
@@ -10339,8 +10133,7 @@ Pour servir, étalez l'aïoli sur un plat de service et disposez les œufs dessu
 
 ## Noms ingrédients
 
-ail. babeurre. ciboulette. citron. cresson. huile d'olive. moutarde de Dijon. œufs. piment jalapeño. pistaches. sel de mer. sirop d'érable
-
+ail. ciboulette. citrons. cresson. piment jalapeño. pistaches
 ---
 
 # Sambal aux œufs façon chakchouka
@@ -10394,8 +10187,7 @@ Faites chauffer le reste d'huile dans une petite poêle et faites revenir le res
 
 ## Noms ingrédients
 
-ail. cannelle. cardamome. coriandre. curry en poudre. graines de fenouil. gingembre. graines de moutarde noire. huile d'olive. oignon rouge. œufs. sambal oelek. sucre de palme. tamarin. tomates cerises. tomates concassées
-
+ail. coriandre. gingembre. oignons rouges. sambal oelek. tamarin. tomates cerise. tomates concassées
 ---
 
 # Frittata de poireaux, tomates et curcuma
@@ -10458,8 +10250,7 @@ Quand la poêle est chaude, ajoutez le reste d'huile, puis augmentez à feu moye
 
 ## Noms ingrédients
 
-ail. cardamome. coriandre. cumin. curcuma. farine. gingembre. huile d'olive. levure chimique. œufs. persil. piments verts. poireaux. tomates. vinaigre de cidre
-
+ail. coriandre. gingembre. persil. piment vert. poireau. tomates en conserve
 ---
 
 # Tortang talong (omelette aux aubergines)
@@ -10518,8 +10309,7 @@ Au moment de servir, arrosez les omelettes de sauce au tahin et garnissez avec l
 
 ## Noms ingrédients
 
-agneau haché. ail. aubergines. cannelle. coriandre. cumin. échalote. harissa. huile d'olive. jus de citron. menthe. œufs. oignons verts. piment de la Jamaïque. tahin. yaourt
-
+agneau haché. ail. aubergines. coriandre. échalotes. citrons. menthe. oignons verts. piment de la Jamaïque. tahin. yaourt
 ---
 
 # Œufs vapeur aux crevettes et à la ciboulette
@@ -10577,8 +10367,7 @@ Préparez la sauce en mélangeant l'huile de sésame, la sauce soja et le vinaig
 
 ## Noms ingrédients
 
-bouillon dashi. ciboulette. crevettes. gingembre. huile de sésame. huile de tournesol. œufs. riz. sauce soja. vinaigre noir de Chinkiang. vin de Shaoxing
-
+ciboulette. crevettes. gingembre
 ---
 
 # Crêpes à décliner en version salée ou sucrée
@@ -10613,7 +10402,6 @@ Faites chauffer à feu moyen une crêpière ou une poêle antiadhésive (environ
 
 ## Noms ingrédients
 
-beurre. farine. lait. œufs
 
 ---
 
@@ -10668,8 +10456,7 @@ Faites fondre le chocolat au bain-marie, versez-le dans le robot. Ajoutez le cac
 
 ## Noms ingrédients
 
-cacao. chocolat au lait. crème fraîche. graines de sésame. huile de tournesol. noisettes. sucre. sucre glace. vanille
-
+chocolat au lait. noisettes
 ---
 
 # Crêpes au curry et fromage
@@ -10717,8 +10504,7 @@ Préchauffez le four à 240 °C (chaleur tournante 220 °C).
 
 ## Noms ingrédients
 
-beurre. cheddar. chutney de mangue. curry. curcuma. farine. huile d'olive. lait. oignons verts. poulet. yaourt grec
-
+cheddar. mangue. oignons verts. poulet. yaourt grec
 ---
 
 # Crêpes au citron, mascarpone et thym
@@ -10766,8 +10552,7 @@ Arrosez de caramel au thym et citron, garnissez de noisettes hachées et de feui
 
 ## Noms ingrédients
 
-beurre. citron. crème double. lemon curd. mascarpone. noisettes. sucre. sucre glace. thym. vanille
-
+citrons. mascarpone. noisettes
 ---
 
 # Pancakes de polenta et salade de maïs aux épices
@@ -10831,8 +10616,7 @@ Servez avec 1 cuillerée à soupe bombée de crème fraîche et la salade de ma�
 
 ## Noms ingrédients
 
-beurre. cacahuètes grillées. cannelle. citron. clous de girofle. coriandre. crème fraîche. cumin. épis de maïs. farine. feuilles de curry. graines de moutarde noire. huile d'arachide. lait. levure chimique. oignons verts. piment rouge. polenta. sirop d'érable
-
+cacahuètes. citrons. coriandre. épis de maïs. feuilles de curry. oignons verts. piment rouge
 ---
 
 # Pancakes pleins de trous
@@ -10883,8 +10667,7 @@ Au moment de faire cuire les pancakes, remuez délicatement la pâte, puis laiss
 
 ## Noms ingrédients
 
-beurre. eau de fleur d'oranger. farine forte. miel. noix de pécan. semoule fine. sel de mer
-
+miel. noix. semoule
 ---
 
 # Soupe d'aubergines, tomates et poivrons rôtis
@@ -10947,8 +10730,7 @@ Répartissez la soupe dans des bols et garnissez d'amandes frites et de leur hui
 
 ## Noms ingrédients
 
-ail. amandes effilées. aubergines. bouillon de légumes. cumin. huile d'olive. oignons. paprika. persil. piment de Cayenne. poivrons rouges. safran. sel de mer. thym. tomates. vinaigre de xérès
-
+ail. amandes effilées. aubergines. oignons. persil. piment de Cayenne. poivron rouge. tomates en conserve
 ---
 
 # Mulligatawny
@@ -11016,8 +10798,7 @@ Répartissez le riz dans six bols, versez la soupe. Ajoutez le tadka et les feui
 
 ## Noms ingrédients
 
-ail. beurre. carottes. céleri. coriandre. crème de coco. cuisses de poulet. cumin. curry. farine de pois chiches. feuilles de curry. garam masala. gingembre. graines de moutarde noire. lentilles corail. oignon. piment vert. poivron vert. riz. tomates
-
+ail. carottes. céleri. coriandre. noix de coco. cuisses de poulet. feuilles de curry. gingembre. lentilles corail. oignons. piment vert. poivron vert. tomates en conserve
 ---
 
 # Soupe de pois cassés et jambon
@@ -11071,8 +10852,7 @@ Servez la soupe garnie de viande effilochée, de salsa et de graines de courge g
 
 ## Noms ingrédients
 
-ail. bouillon de volaille. carottes. céleri. coriandre (graines). cumin (graines). graines de courge. huile d'olive. jarret de porc. jus de citron vert. laurier. menthe. oignons. petits pois. pois cassés. tomates concassées
-
+ail. carottes. céleri. jarret de porc. citrons verts. menthe. oignons. petits pois. pois cassés. tomates concassées
 ---
 
 # Soupe aux boulettes de matzo
@@ -11142,8 +10922,7 @@ Retirez les morceaux de poulet du bouillon et réservez. Filtrez le bouillon, re
 
 ## Noms ingrédients
 
-ail. aneth. cardamome. carottes. céleri. coriandre. cuisses de poulet. cumin. curcuma. farine de matzo. fenugrec. huile de tournesol. laurier. oignon. œufs. panais. persil. poivre noir
-
+ail. aneth. carottes. céleri. coriandre. cuisses de poulet. oignons. panais. persil
 ---
 
 # Soupe au pain, fromage et chou vert
@@ -11192,9 +10971,7 @@ Faites griller 6 tranches de pain, puis frottez-les avec les gousses d'ail enti�
 
 ## Noms ingrédients
 
-anchois. ail. beurre. bouillon de volaille. cavolo nero. chou vert. fontina. huile d'olive. laurier. muscade. oignons. pain au levain. parmesan. persil. thym. vin blanc
-
-
+anchois. ail. chou kale. chou vert. fromage de chèvre. oignons. pain au levain. parmesan. persil
 ---
 
 # Houmous
@@ -11250,8 +11027,7 @@ Mettez le reste des pois chiches dans le bol du robot. Réservez 70 g de sauce a
 
 ## Noms ingrédients
 
-ail. cornichons. cumin. huile d'olive. jus de citron. oignons verts. piments rouges. pois chiches. tahin. vinaigre de cidre
-
+ail. citrons. oignons verts. piment rouge. pois chiches. tahin
 ---
 
 # Houmous comme dans le sud de la France
@@ -11312,8 +11088,7 @@ Pour servir, transférez la purée dans un plat. Déposez la garniture dessus, d
 
 ## Noms ingrédients
 
-ail. basilic. fenouil. graines de fenouil. huile d'olive. jus de citron. olives. oignon. pois chiches. poivron rouge. tomates cerises. vermouth. vinaigre de vin rouge
-
+ail. basilic. fenouil. citrons. olives. oignons. pois chiches. poivron rouge. tomates cerise
 ---
 
 # Caponata au céleri et à la burrata
@@ -11363,8 +11138,7 @@ Au moment de servir, déposez la caponata dans un saladier peu profond, puis ajo
 
 ## Noms ingrédients
 
-ail. aubergines. basilic. burrata. câpres. céleri. concentré de tomates. flocons de piment. huile d'olive. miel. olives de Kalamata. oignon. origan. tomates concassées. vinaigre de vin rouge
-
+ail. aubergines. basilic. burrata. câpres. céleri. concentré de tomate. piment rouge séché. miel. olives de Kalamata. oignons. tomates concassées
 ---
 
 # Crème d'aubergine fumée façon salade César
@@ -11427,8 +11201,7 @@ Pour servir, disposez les croûtons, les poivrons, les radis et les feuilles de 
 
 ## Noms ingrédients
 
-ail. anchois. aubergines. citron. graines de sésame. huile d'olive. moutarde anglaise. oignons verts. pain au levain. parmesan. poivrons. radis. sirop d'érable. yaourt
-
+ail. anchois. aubergines. citrons. oignons verts. pain au levain. parmesan. poivron. radis. yaourt
 ---
 
 # Épinards et artichauts « à la crème »
@@ -11481,8 +11254,7 @@ Dans un bol, mélangez les morceaux de pain avec le reste de levure nutritionnel
 
 ## Noms ingrédients
 
-ail. artichauts. câpres. coriandre. épinards. huile d'olive. jus de citron. levure nutritionnelle. oignon. oignons verts. pain au levain. piments rouges. tofu soyeux
-
+ail. artichauts. câpres. coriandre. épinards. citrons. oignons. oignons verts. pain au levain. piment rouge. tofu soyeux
 ---
 
 # Ragù de champignons
@@ -11535,8 +11307,7 @@ Hors du feu, incorporez l'estragon haché. Garnissez avec les feuilles entières
 
 ## Noms ingrédients
 
-beurre. bouillon de volaille. céleri-rave. cèpes séchés. champignons. citron confit. crème double. estragon. farine. flocons de piment d'Urfa. huile d'olive. miso blanc. oignons. vinaigre de xérès
-
+céleri-rave. cèpes séchés. champignons. citron confit. piment d'Urfa. oignons
 ---
 
 # Haricots blancs aux tomates cerises rôties
@@ -11587,8 +11358,7 @@ Faites chauffer le reste d'huile dans une casserole à feu moyen. Ajoutez l'oign
 
 ## Noms ingrédients
 
-ail. fenouil (graines). haricots blancs. huile d'olive. laurier. oignon. origan. paprika fumé. thym. tomates cerises. vin blanc. yaourt grec
-
+ail. haricots blancs. oignons. tomates cerise. yaourt grec
 ---
 
 # Toasts aux haricots verts braisés
@@ -11635,8 +11405,7 @@ Répartissez le mélange feta-mascarpone sur les tranches de pain grillé. Dispo
 
 ## Noms ingrédients
 
-ail. basilic. échalotes. feta. flocons de piment chipotle. haricots d'Espagne. haricots verts. huile d'olive. jus de citron. mascarpone. origan. pain au levain. tomates cerises
-
+ail. basilic. échalotes. feta. piment chipotle. haricots d'Espagne. haricots verts. citrons. mascarpone. pain au levain. tomates cerise
 ---
 
 # Céleri-rave rôti et crème au gorgonzola
@@ -11687,8 +11456,7 @@ Avant de servir, répartissez les deux tiers de la sauce au poivron sur les quar
 
 ## Noms ingrédients
 
-ail. céleri-rave. ciboulette. citron. crème fraîche. cumin. gorgonzola. huile d'olive. mélasse de grenade. noisettes. persil. piment d'Alep. poivrons rouges. vinaigre de vin rouge
-
+ail. céleri-rave. ciboulette. citrons. gorgonzola. grenade. noisettes. persil. piment d'Alep. poivron rouge
 ---
 
 # Carottes rôties et dukkah aux feuilles de curry
@@ -11739,8 +11507,7 @@ Au moment de servir, mélangez le yaourt avec ¼ de cuillerée à café de sel, 
 
 ## Noms ingrédients
 
-amandes. cacahuètes. carottes. coriandre (graines). feuilles de curry. flocons de piment. huile végétale. jus de citron. noisettes. noix de cajou. yaourt grec
-
+amandes. cacahuètes. carottes. feuilles de curry. piment rouge séché. citrons. noisettes. noix de cajou. yaourt grec
 ---
 
 # Chou-rave braisé au beurre et chimichurri aux olives
@@ -11791,8 +11558,7 @@ Mettez la crème fraîche dans un bol, assaisonnez avec ⅛ de cuillerée à caf
 
 ## Noms ingrédients
 
-ail. beurre. câpres. chou-rave. ciboulette. citron. crème fraîche. graines de courge. huile d'olive. jus de citron. moutarde de Dijon. olives vertes. persil. piment jalapeño. sirop d'érable
-
+ail. câpres. chou-rave. ciboulette. citrons. olives vertes. persil. piment jalapeño
 ---
 
 # Choux de Bruxelles « brûlés » à l'huile d'olive et au citron
@@ -11836,8 +11602,7 @@ Pendant la cuisson des choux, mélangez dans un bol les herbes, le reste d'huile
 
 ## Noms ingrédients
 
-ail. aneth. bouillon de légumes. choux de Bruxelles. citron. citron confit. estragon. huile d'olive. oignons. persil. piment vert
-
+ail. aneth. choux de Bruxelles. citrons. citron confit. oignons. persil. piment vert
 ---
 
 # Betteraves rôties, vinaigrette à l'estragon et tarator aux noix
@@ -11894,8 +11659,7 @@ Répartissez la moitié du tarator sur un plat de service, disposez les betterav
 
 ## Noms ingrédients
 
-ail. betteraves. estragon. huile d'olive. jus de citron. menthe. moutarde de Dijon. noix. pain blanc. sucre. vinaigre de vin rouge
-
+ail. betteraves. citrons. menthe. noix. pain blanc
 ---
 
 # Panais rôtis au parmesan et au poivre
@@ -11934,8 +11698,7 @@ Arrosez les panais avec le reste d'huile, râpez le reste du parmesan dessus. Sa
 
 ## Noms ingrédients
 
-citron. huile d'olive. panais. parmesan. poivre noir. sirop d'érable
-
+citrons. panais. parmesan
 ---
 
 # Galettes de saumon et sauce rémoulade façon chermoula
@@ -11992,8 +11755,7 @@ Faites chauffer l'huile de tournesol à feu moyen-vif dans une grande poêle. Fa
 
 ## Noms ingrédients
 
-ciboulette. citron vert. cornichons à l'aneth. chermoula. huile de tournesol. mayonnaise. oignons verts. œuf. panko. patate douce. pommes de terre. saumon. yaourt grec
-
+ciboulette. citrons verts. chermoula. oignons verts. patate douce. pomme de terre. saumon. yaourt grec
 ---
 
 # Salade de courgettes confites et saumon
@@ -12050,8 +11812,7 @@ Pour servir, disposez la roquette sur un plat. Déposez les trois quarts des cou
 
 ## Noms ingrédients
 
-citron. courgettes. échalotes. huile d'olive. jus de citron. pignons de pin. roquette. saumon
-
+citrons. courgettes. échalotes. pistaches. roquette. saumon
 ---
 
 # Vermicelles de riz et poisson au curcuma, aneth et oignons verts
@@ -12118,8 +11879,7 @@ Répartissez les nouilles dans quatre bols. Ajoutez le poisson, puis les oignons
 
 ## Noms ingrédients
 
-ail. aneth. cabillaud. cacahuètes grillées. curcuma. curry. échalote. gingembre. huile d'arachide. jus de citron vert. oignons verts. piments rouges. sauce de poisson. sucre de palme. vermicelles de riz. vinaigre de riz
-
+ail. aneth. cabillaud. cacahuètes. échalotes. gingembre. citrons verts. oignons verts. piment rouge
 ---
 
 # Fenouil et cabillaud braisés aux haricots et beurre 'nduja
@@ -12175,8 +11935,7 @@ Sortez la cocotte et laissez reposer 5 min. Déposez quelques cuillerées de cr�
 
 ## Noms ingrédients
 
-ail. beurre. bouillon de volaille. cabillaud. ciboulette. citron. crème fraîche. doliques (haricots). échalotes. fenouil. huile d'olive. 'nduja. paprika fumé. piment chipotle. piment d'Urfa. vin blanc
-
+ail. cabillaud. ciboulette. citrons. haricots secs. échalotes. fenouil. nduja. piment chipotle. piment d'Urfa
 ---
 
 # Saumon rôti alla puttanesca
@@ -12236,8 +11995,7 @@ Mélangez les ingrédients de la salsa dans un bol et poivrez généreusement. V
 
 ## Noms ingrédients
 
-ail. anchois. basilic. câpres. citron confit. concentré de tomates. coriandre (graines). flocons de piment. haricots verts. huile d'olive. jus de citron. oignons verts. olives de Kalamata. persil. saumon. sirop d'érable. tomates cerises
-
+ail. anchois. basilic. câpres. citron confit. concentré de tomate. piment rouge séché. haricots verts. citrons. oignons verts. olives de Kalamata. persil. saumon. tomates cerise
 ---
 
 # Gratin de pommes de terre, fenouil et saumon fumé
@@ -12298,8 +12056,7 @@ Pendant ce temps, faites chauffer le jus de citron dans une petite casserole jus
 
 ## Noms ingrédients
 
-anchois. aneth. beurre. câpres. ciboulette. citron. crème double. fenouil. graines de fenouil. jaunes d'œuf. lait. persil. pommes de terre. saumon fumé
-
+anchois. aneth. câpres. ciboulette. citrons. fenouil. jaunes d'œuf. persil. pomme de terre. saumon fumé
 ---
 
 # Curry de crevettes et asperges au curcuma frais et au poivre
@@ -12360,8 +12117,7 @@ Versez les 14,5 cl de crème de coco dans une casserole de taille moyenne et fai
 
 ## Noms ingrédients
 
-ail. asperges. concombre. coriandre. crème de coco. crevettes. curcuma frais. échalotes. gingembre. lait de coco. piments rouges. riz. sauce de poisson. sucre de palme. vinaigre de riz
-
+ail. asperges. concombres. coriandre. noix de coco. crevettes. échalotes. gingembre. piment rouge
 ---
 
 # Curry de thon à la citronnelle et au galanga
@@ -12422,8 +12178,7 @@ Pendant ce temps, portez à ébullition de l'eau salée dans une grande casserol
 
 ## Noms ingrédients
 
-ail. citronnelle. coriandre. curcuma frais. échalotes. feuilles de combava. galanga. gingembre. huile végétale. jus de citron vert. kecap manis. lait de coco. pak choï. riz. sauce de poisson. sucre de palme. thon
-
+ail. citronnelle. coriandre. échalotes. feuilles de combava. galanga. gingembre. citrons verts. noix de coco. pak choï. thon
 ---
 
 # Poisson et riz au gingembre
@@ -12488,8 +12243,7 @@ Répartissez la julienne de gingembre et le vert des oignons sur le poisson. Jus
 
 ## Noms ingrédients
 
-ail. bar. beurre. bouillon de volaille. gingembre. huile de sésame. huile de tournesol. jus de citron vert. Maïzena. oignons verts. piments rouges. riz. sauce d'huître. sauce soja. sucre. vin de Shaoxing
-
+ail. bar. gingembre. citrons verts. oignons verts. piment rouge
 ---
 
 # Boulettes de viande au nuoc cham, concombre et menthe
@@ -12551,8 +12305,7 @@ Faites chauffer la moitié de l'huile à feu moyen-vif dans une grande poêle, f
 
 ## Noms ingrédients
 
-ail. coriandre. concombre. échalote. jus de citron vert. menthe. porc haché. riz. sauce de poisson. sucre de palme. vinaigre de riz
-
+ail. coriandre. concombres. échalotes. citrons verts. menthe. porc haché
 ---
 
 # Sando au poulet et mayonnaise à la harissa
@@ -12605,8 +12358,7 @@ Tartinez généreusement un côté de chaque tranche de pain avec la mayonnaise 
 
 ## Noms ingrédients
 
-baharat. cannelle. chou blanc. harissa. huile végétale. jus de citron vert. mayonnaise. oignons verts. pain de mie. panko. poulet. sucre. yaourt
-
+chou blanc. citrons verts. oignons verts. pain de mie. poulet. yaourt
 ---
 
 # Poulet rôti avec la marinade de tante Pauline
@@ -12656,8 +12408,7 @@ Transférez le poulet sur un plat de service et versez le jus de cuisson dans un
 
 ## Noms ingrédients
 
-ail. coriandre. gingembre. huile d'arachide. jus de citron vert. lait de coco. piment en poudre. poulet. sauce de poisson. sauce soja. sucre de palme
-
+ail. coriandre. gingembre. citrons verts. noix de coco. piment rouge séché. poulet
 ---
 
 # Le poulet aux épices de Steph
@@ -12707,8 +12458,7 @@ Préchauffez le four à 200 °C (chaleur tournante 180 °C).
 
 ## Noms ingrédients
 
-cannelle. cassonade. cuisses de poulet. huile d'olive. laurier. miel. oignon rouge. oignons verts. paprika. piment de la Jamaïque. piment en poudre. piments habanero. piments jalapeño. vinaigre de vin blanc
-
+cuisses de poulet. miel. oignons rouges. oignons verts. piment de la Jamaïque. piment rouge séché. piment rouge. piment jalapeño
 ---
 
 # Poulet mariné aux épices
@@ -12760,8 +12510,7 @@ Déposez le poulet sur une plaque de cuisson tapissée de papier sulfurisé, cô
 
 ## Noms ingrédients
 
-coriandre. cuisses de poulet. cumin. curcuma. fenouil (graines). huile d'arachide. jus de citron vert. sambal oelek. sirop d'érable
-
+coriandre. cuisses de poulet. citrons verts. sambal oelek
 ---
 
 # Poulet rôti et dukkah aux feuilles de curry
@@ -12818,8 +12567,7 @@ Enfournez pour 1h10. Éteignez le four et laissez le poulet à l'intérieur enco
 
 ## Noms ingrédients
 
-amandes. beurre. cacahuètes. citron vert. coriandre (graines). feuilles de curry. flocons de piment. huile végétale. noisettes. noix de cajou. oignons. poulet
-
+amandes. cacahuètes. citrons verts. feuilles de curry. piment rouge séché. noisettes. noix de cajou. oignons. poulet
 ---
 
 # Poulet chasseur en version été, avec une salsa aux herbes
@@ -12875,8 +12623,7 @@ Retirez la cocotte du four et ajoutez le pain grillé. Posez les cuisses de poul
 
 ## Noms ingrédients
 
-ail. ciboulette. citron. cuisses de poulet. graines de sésame. huile d'olive. menthe. olives vertes. origan. pain au levain. persil. thym. tomates. vinaigre de vin blanc
-
+ail. ciboulette. citrons. cuisses de poulet. menthe. olives vertes. pain au levain. persil. tomates en conserve
 ---
 
 # Pain de viande shawarma aux oignons caramélisés
@@ -12944,8 +12691,7 @@ Avant de servir, garnissez de feuilles de menthe et de coriandre, voire de grain
 
 ## Noms ingrédients
 
-agneau haché. boulgour. cannelle. coriandre. courgette. cumin. curcuma. graines de grenade. huile d'olive. mélasse de grenade. menthe. œufs. oignons. paprika. piment de Cayenne. piment de la Jamaïque. sucre. yaourt grec
-
+agneau haché. boulgour. coriandre. courgettes. grenade. menthe. oignons. piment de Cayenne. piment de la Jamaïque. yaourt grec
 ---
 
 # Blancs de poulet pochés à l'asiatique, chou chinois et cacahuètes au rayu
@@ -12997,8 +12743,7 @@ Effilochez les blancs de poulet tièdes en lanières et mettez-les dans un salad
 
 ## Noms ingrédients
 
-ail. basilic. blancs de poulet. cacahuètes. chou chinois. citron vert. gochugaru. graines de sésame. huile d'arachide. oignons verts. sauce soja. sucre. vin de Shaoxing
-
+ail. basilic. blancs de poulet. cacahuètes. chou chinois. citrons verts. oignons verts
 ---
 
 # Agneau braisé aux haricots blancs et au yaourt
@@ -13053,8 +12798,7 @@ Avant de servir, remuez le ragoût, puis nappez-le de yaourt. Saupoudrez de sel 
 
 ## Noms ingrédients
 
-agneau (collier). ail. anchois. bouillon de volaille. coriandre (graines). cumin (graines). haricots blancs. huile d'olive. laurier. oignons. persil. romarin. sel de mer. thym. tomates cerises. vin blanc. yaourt grec
-
+agneau. ail. anchois. haricots blancs. oignons. persil. tomates cerise. yaourt grec
 ---
 
 # Saucisses aux lentilles et crème à la moutarde
@@ -13114,9 +12858,7 @@ Ajoutez les feuilles de blettes et les saucisses dans la cocotte, puis laissez m
 
 ## Noms ingrédients
 
-ail. blettes. bouillon de volaille. céleri. concentré de tomates. crème fraîche. cumin. huile d'olive. kielbasa. laurier. lentilles du Puy. moutarde à l'ancienne. moutarde de Dijon. oignon. persil. poivron vert. thym
-
-
+ail. blettes. céleri. concentré de tomate. saucisses fumées. lentilles du Puy. oignons. persil. poivron vert
 ---
 
 # Oyakodon
@@ -13171,8 +12913,7 @@ Répartissez le riz dans des bols puis déposez le mélange de poulet, œufs et 
 
 ## Noms ingrédients
 
-ail. bouillon dashi. coriandre. cuisses de poulet. gingembre. huile de tournesol. mirin. nori. oignons. oignons verts. œufs. riz. sauce soja. shichimi togarashi. vin de Shaoxing
-
+ail. coriandre. cuisses de poulet. gingembre. oignons. oignons verts. nanami togarashi
 ---
 
 # Poitrine de porc braisée à la sauce soja, œufs et tofu
@@ -13237,8 +12978,7 @@ Retirez la cocotte du feu et laissez la viande reposer 10 min. Vous pouvez laiss
 
 ## Noms ingrédients
 
-ail. anis étoilé. cannelle. cinq-épices. concombre. coriandre. gingembre. huile végétale. laurier. menthe. mirin. oignons verts. œufs. poitrine de porc. riz. sauce soja. sirop d'érable. tofu. vinaigre de riz. vin de Shaoxing
-
+ail. concombres. coriandre. gingembre. menthe. oignons verts. poitrine de porc. tofu
 ---
 
 # Riz au lait de coco, sauce aux cacahuètes et relish au concombre
@@ -13305,8 +13045,7 @@ Démoulez le riz. Passez la relish au tamis, incorporez les feuilles de coriandr
 
 ## Noms ingrédients
 
-ail. cacahuètes. citronnelle. concombre. coriandre. gingembre. huile végétale. jus de citron vert. lait de coco. oignon. paprika. piment rouge. riz. sambal oelek. sucre. tamarin. vinaigre de riz
-
+ail. cacahuètes. citronnelle. concombres. coriandre. gingembre. citrons verts. noix de coco. oignons. piment rouge. sambal oelek. tamarin
 ---
 
 # Riz au citron et boulettes de fromage, avec un beurre au piment
@@ -13360,8 +13099,7 @@ Juste avant de servir, retirez le papier d'aluminium, puis badigeonnez le riz de
 
 ## Noms ingrédients
 
-beurre. cardamome. citron. clous de girofle. feta. flocons de piment. mozzarella. œuf. olives vertes. oignons verts. parmesan. piment d'Alep. ricotta. riz basmati. sumac
-
+citrons. feta. piment rouge séché. mozzarella. olives vertes. oignons verts. parmesan. piment d'Alep. ricotta
 ---
 
 # Pâtes au pesto, haricots grillés et pommes de terre
@@ -13405,8 +13143,7 @@ Transférez les pâtes dans un saladier de service. Garnissez avec les haricots 
 
 ## Noms ingrédients
 
-ail. basilic. citron. haricots verts. huile d'olive. parmesan. pâtes sèches. pignons de pin. pommes de terre
-
+ail. basilic. citrons. haricots verts. parmesan. pistaches. pomme de terre
 ---
 
 # Orecchiette aux oignons caramélisés, noisettes grillées et feuilles de sauge frites
@@ -13446,8 +13183,7 @@ Mettez la petite poêle (avec son huile) à chauffer à feu moyen, puis ajoutez 
 
 ## Noms ingrédients
 
-citron. huile d'olive. noisettes. oignons. pâtes sèches. sauge
-
+citrons. noisettes. oignons. sauge
 ---
 
 # Linguine au beurre miso, shiitake et épinards
@@ -13495,8 +13231,7 @@ Remettez les pâtes cuites dans la sauteuse, mélangez 30 s, puis ajoutez les é
 
 ## Noms ingrédients
 
-ail. beurre. champignons shiitake. échalote. épinards. huile d'olive. miso blanc. pâtes sèches. sauce soja. shichimi togarashi. vinaigre de Chinkiang
-
+ail. champignons shiitaké. échalotes. épinards. nanami togarashi
 ---
 
 # Rigatoni al ragù bianco
@@ -13556,8 +13291,7 @@ Faites cuire les pâtes dans une grande casserole d'eau bouillante salée jusqu'
 
 ## Noms ingrédients
 
-ail. anchois. beurre. bœuf haché. bouillon de volaille. carottes. céleri. champignons. citron. huile d'olive. oignon. parmesan. pâtes sèches. persil. porc haché. pomme de terre. romarin. sauge
-
+ail. anchois. bœuf haché. carottes. céleri. champignons. citrons. oignons. parmesan. persil. porc haché. pomme de terre. sauge
 ---
 
 # Les pâtes à la bolognaise d'Helen
@@ -13625,8 +13359,7 @@ Faites cuire les pâtes dans un grand volume d'eau bouillante salée jusqu'à ce
 
 ## Noms ingrédients
 
-ail. anis étoilé. cannelle. carotte. céleri. concombre. coriandre. doubanjiang. gingembre. graines de sésame. huile d'arachide. huile de sésame. laurier. Maïzena. miel. oignon. oignons verts. pâtes sèches. poivre du Sichuan. porc haché. sauce soja. vinaigre de riz. vin de Shaoxing
-
+ail. carottes. céleri. concombres. coriandre. gingembre. miel. oignons. oignons verts. porc haché
 ---
 
 # Boulettes de viande Stroganoff
@@ -13697,8 +13430,7 @@ Faites cuire les pâtes jusqu'à ce qu'elles soient al dente. Égouttez-les et r
 
 ## Noms ingrédients
 
-ail. aneth. beurre. bœuf haché. bouillon de bœuf. champignons. cognac. concentré de tomates. cornichons à l'aneth. crème fraîche. échalotes. graines de pavot. huile d'olive. lait. moutarde de Dijon. œuf. oignon. pain rassis. paprika fumé. pâtes sèches. sauce Worcestershire. zeste de citron
-
+ail. aneth. bœuf haché. champignons. concentré de tomate. échalotes. oignons. pain rassis. citrons
 ---
 
 # Poulet en cocotte à l'orzo et aux cèpes
@@ -13752,8 +13484,7 @@ Pressez le demi-citron restant sur le mélange orzo-poulet, saupoudrez de persil
 
 ## Noms ingrédients
 
-ail. cannelle. céleri. cèpes séchés. citron. huile d'olive. orzo. oignons. persil. piments Cascabel. poulet. thym
-
+ail. céleri. cèpes séchés. citrons. oignons. persil. piment cascabel. poulet
 ---
 
 # Congee au poulet
@@ -13818,8 +13549,7 @@ Pour servir, répartissez le congee dans des bols à soupe, puis ajoutez le poul
 
 ## Noms ingrédients
 
-ail. coriandre. cuisses de poulet. échalotes. gingembre. germes de soja. graines de sésame. huile de sésame. jus de citron vert. oignons verts. poivre blanc. piments rouges. riz. sauce de poisson
-
+ail. coriandre. cuisses de poulet. échalotes. gingembre. pousses de soja. citrons verts. oignons verts. piment rouge
 ---
 
 # Ramen express aux champignons
@@ -13872,8 +13602,7 @@ Répartissez les nouilles dans deux bols, puis émiettez les morceaux de nori de
 
 ## Noms ingrédients
 
-ail. champignons. gingembre. huile d'arachide. jus de citron vert. miel. nori. nouilles ramen. oignons verts. sauce de poisson. sauce soja. shichimi togarashi. vin de Shaoxing
-
+ail. champignons. gingembre. citrons verts. miel. oignons verts. nanami togarashi
 ---
 
 # Bread rolls
@@ -13916,9 +13645,7 @@ Transférez la pâte sur le plan de travail légèrement huilé et façonnez-la 
 
 ## Noms ingrédients
 
-beurre. crème fraîche. farine forte. levure. œufs. pomme de terre. sel de mer. sucre
-
-
+pomme de terre
 ---
 
 # Beignets de riz au fromage
@@ -13971,8 +13698,7 @@ Déposez un tiers du ghee dans une poêle et faites-le chauffer à feu moyen-vif
 
 ## Noms ingrédients
 
-ail. curcuma. feta. ghee. graines de nigelle. jus de citron vert. miel. mozzarella. oignons verts. petits pois. piments rouges. riz. sauce de poisson. yaourt grec
-
+ail. feta. citrons verts. miel. mozzarella. oignons verts. petits pois. piment rouge. yaourt grec
 ---
 
 # Falafels de haricots mungo et dip au kimchi
@@ -14022,8 +13748,7 @@ Pour la cuisson, versez 4 cm d'huile dans une sauteuse de taille moyenne et fait
 
 ## Noms ingrédients
 
-chou blanc. coriandre. haricots mungo. huile de sésame. huile de tournesol. kimchi. miel. oignons verts. sauce de poisson. sauce soja. vinaigre de riz
-
+chou blanc. coriandre. haricots mungo. kimchi. miel. oignons verts
 ---
 
 # Pakoras de chou-fleur et butternut
@@ -14081,8 +13806,7 @@ Versez 5 cm d'huile dans une grande poêle et faites-la chauffer à feu moyen-vi
 
 ## Noms ingrédients
 
-ail. butternut. cassonade. chou-fleur. coriandre. cumin. curcuma. farine. farine de pois chiches. flocons de piment. gingembre. graines de moutarde noire. huile de tournesol. jus de citron vert. levure chimique. oignon rouge. sauce de poisson. tamarin
-
+ail. butternut. chou-fleur. coriandre. piment rouge séché. gingembre. citrons verts. oignons rouges. tamarin
 ---
 
 # Cucur udang (beignets de crevettes à la malaisienne)
@@ -14142,8 +13866,7 @@ Dressez les beignets dans un plat de service, parsemez-les du reste d'oignons ve
 
 ## Noms ingrédients
 
-ail. curcuma. crevettes. farine. gingembre. huile de sésame. huile de tournesol. jus de citron vert. levure chimique. oignons verts. piment vert. piments rouges. sauce de poisson. sucre
-
+ail. crevettes. gingembre. citrons verts. oignons verts. piment vert. piment rouge
 ---
 
 # Tofu froid et vinaigrette épicée au sésame
@@ -14189,8 +13912,7 @@ Placez le tofu dans un saladier de service peu profond et découpez-le en morcea
 
 ## Noms ingrédients
 
-ail. coriandre. échalotes. graines de sésame. huile de sésame. oignons verts. piment rouge. sauce soja. shichimi togarashi. sucre. tofu. vinaigre de Chinkiang
-
+ail. coriandre. échalotes. oignons verts. piment rouge. nanami togarashi. tofu
 ---
 
 # Mapo tofu aux champignons et kimchi
@@ -14240,8 +13962,7 @@ Transférez dans un récipient, arrosez d'huile de sésame et garnissez de poivr
 
 ## Noms ingrédients
 
-ail. bouillon de légumes. champignons. doubanjiang. fécule de pomme de terre. gingembre. huile d'arachide. huile de sésame. kimchi. oignons verts. poivre du Sichuan. riz. sauce soja. tofu. vin de Shaoxing
-
+ail. champignons. gingembre. kimchi. oignons verts. tofu
 ---
 
 # Nasi goreng aux crevettes et haricots verts
@@ -14308,8 +14029,7 @@ Répartissez le riz dans des bols de service, garnissez chaque portion d'un œuf
 
 ## Noms ingrédients
 
-ail. anchois. basilic thaï. cassonade. crevettes. échalotes. feuilles de combava. haricots verts. huile d'arachide. jus de citron vert. œufs. piments rouges. riz. sauce de poisson. sauce soja. sucre
-
+ail. anchois. basilic. crevettes. échalotes. feuilles de combava. haricots verts. citrons verts. piment rouge
 ---
 
 # Dahl de lentilles corail, pommes de terre et fenouil
@@ -14371,8 +14091,7 @@ Juste avant de servir, faites fondre le reste de ghee dans une petite poêle, pu
 
 ## Noms ingrédients
 
-ail. coriandre. cumin. curcuma. fenouil. fenugrec. feuilles de curry. gingembre. ghee. graines de moutarde noire. graines de nigelle. haricots mungo. jus de citron vert. lait de coco. lentilles corail. oignon. piment vert. piments rouges séchés. pommes de terre. tomates
-
+ail. coriandre. fenouil. feuilles de curry. gingembre. haricots mungo. citrons verts. noix de coco. lentilles corail. oignons. piment vert. piment rouge séché. pomme de terre. tomates en conserve
 ---
 
 # Ragoût de butternut au tamarin et lait de coco
@@ -14418,8 +14137,7 @@ Ajoutez maintenant la courge, l'eau de tamarin et 1 cuillerée à café de sel. 
 
 ## Noms ingrédients
 
-ail. butternut. coriandre. curcuma. feuilles de curry. graines de moutarde noire. huile végétale. jaggery. lait de coco. oignons. paprika. piment jalapeño. tamarin
-
+ail. butternut. coriandre. feuilles de curry. jaggery. noix de coco. oignons. piment jalapeño. tamarin
 ---
 
 # Pommes de terre et aubergines rôties, sauce verte au tahin
@@ -14487,8 +14205,7 @@ Quand les pommes de terre sont cuites, entaillez le dessus en croix en utilisant
 
 ## Noms ingrédients
 
-ail. aubergines. chou rouge. cumin. curcuma. huile d'olive. jus de citron. menthe. persil. piment vert. pommes de terre. tahin. vinaigre de vin blanc
-
+ail. aubergines. chou rouge. citrons. menthe. persil. piment vert. pomme de terre. tahin
 ---
 
 # Börek aux épinards à partager pour le petit déjeuner
@@ -14567,8 +14284,7 @@ Servez le börek avec les sauces et les accompagnements.
 
 ## Noms ingrédients
 
-ail. aneth. beurre. épinards. feta. graines de nigelle. graines de sésame. harissa. huile d'olive. jus de citron. menthe séchée. œuf. oignon. oignons verts. pâte filo. pignons de pin. ricotta. tahin. tomates
-
+ail. aneth. épinards. feta. citrons. menthe. oignons. oignons verts. pistaches. ricotta. tahin. tomates en conserve
 ---
 
 # Aligot à l'ail et poireaux rôtis au thym
@@ -14630,8 +14346,7 @@ Préchauffez le gril du four. Disposez le mélange de poireaux et aromates sur l
 
 ## Noms ingrédients
 
-ail. beurre. cheddar. ciboulette. comté. crème épaisse. échalotes. huile d'olive. lait. moutarde de Dijon. oignons verts. panko. poireaux. pommes de terre. romarin. thym
-
+ail. cheddar. ciboulette. comté. échalotes. oignons verts. poireau. pomme de terre
 ---
 
 # Pains plats au cumin et à la coriandre
@@ -14676,7 +14391,6 @@ Sortez-le de la poêle et déposez-le sur le torchon, puis repliez un côté du 
 
 ## Noms ingrédients
 
-coriandre (graines). cumin (graines). farine. farine complète. ghee
 
 ---
 
@@ -14746,8 +14460,7 @@ Sortez les roulés et laissez-les refroidir 15 min avant de les découper en dou
 
 ## Noms ingrédients
 
-beurre. carvi (graines). ciboulette. coriandre (graines). gingembre moulu. huile d'olive. lait. macis. mayonnaise. miel. moutarde anglaise. moutarde jaune. œuf. oignons. pâte feuilletée. poivre. saucisses. sucre brun
-
+ciboulette. gingembre. miel. oignons. saucisses
 ---
 
 # Demi-lunes aux pommes de terre, fromage et chermoula
@@ -14800,8 +14513,7 @@ Répartissez les tourtes sur deux plaques recouvertes de papier sulfurisé et fa
 
 ## Noms ingrédients
 
-ail. beurre. cheddar. chermoula. coriandre. crème fraîche. cumin. graines de nigelle. huile d'olive. œuf. oignon. oignons verts. olives vertes. pâte feuilletée. pommes de terre
-
+ail. cheddar. chermoula. coriandre. oignons. oignons verts. olives vertes. pomme de terre
 ---
 
 # Tourte au bœuf, ail noir et baharat
@@ -14859,8 +14571,7 @@ Badigeonnez de blanc d'œuf battu le dessus de la tourte, ajoutez une bonne mout
 
 ## Noms ingrédients
 
-ail. ail noir. baharat. beurre. bœuf haché. bouillon de bœuf. carottes. céleri. concentré de tomates. farine. huile d'olive. laurier. navets. œuf. oignons. olives vertes. pâte brisée. pâte feuilletée. pommes de terre. tomates. vinaigre de vin rouge
-
+ail. ail noir. bœuf haché. carottes. céleri. concentré de tomate. navets. oignons. olives vertes. pomme de terre. tomates en conserve
 ---
 
 # Rugelachs aux poireaux, fromage et zaatar
@@ -14915,8 +14626,7 @@ En commençant par la base, roulez chaque triangle jusqu'à la pointe, en serran
 
 ## Noms ingrédients
 
-beurre. cheddar. cream cheese. feta. farine. fromage frais. huile d'olive. levure chimique. œuf. parmesan. poireaux. zaatar. zeste de citron
-
+cheddar. cream cheese. feta. fromage frais. parmesan. poireau. zaatar. citrons
 ---
 
 # Tarte aux tomates rôties, fromage et pâte Marmite
@@ -14984,8 +14694,7 @@ Découpez un disque de papier sulfurisé assez grand pour couvrir la garniture d
 
 ## Noms ingrédients
 
-ail. beurre. brie. carvi (graines). cream cheese. farine. huile d'olive. lait. Marmite. œuf. oignons rouges. sirop d'érable. thym. tomates. vinaigre de vin blanc
-
+ail. brie. cream cheese. Marmite. oignons rouges. tomates en conserve
 ---
 
 # Butteries au fromage et oignons verts
@@ -15036,8 +14745,7 @@ Enfournez pour 15 min, puis tournez les plaques et poursuivez la cuisson 3-5 min
 
 ## Noms ingrédients
 
-beurre. cheddar. farine forte. graines de pavot. levure. oignons verts. sucre
-
+cheddar. oignons verts
 ---
 
 # Pain aux épinards et asperges
@@ -15095,8 +14803,7 @@ Sortez le pain du four et laissez-le refroidir 10 min. Passez la lame d'un coute
 
 ## Noms ingrédients
 
-ail. asperges. beurre. cresson. crème fraîche. épinards. farine. huile d'olive. levure chimique. noix. œufs. parmesan. poireau. thym. zaatar
-
+ail. asperges. cresson. épinards. noix. parmesan. poireau. zaatar
 ---
 
 # Pain express aux carottes et vadouvan
@@ -15146,8 +14853,7 @@ Versez la pâte dans le moule préparé, lissez la surface et enfournez pour 50-
 
 ## Noms ingrédients
 
-ail. carottes. coriandre (graines). cumin. farine. gingembre. huile d'olive. levure chimique. œufs. oignons verts. sucre. vadouvan. yaourt grec
-
+ail. carottes. gingembre. oignons verts. vadouvan. yaourt grec
 ---
 
 # Frites maison à l'indonésienne
@@ -15197,8 +14903,7 @@ Transférez les frites dans un plat de service et parsemez-les de feuilles de co
 
 ## Noms ingrédients
 
-ail. citronnelle. coriandre. échalote. huile d'arachide. jus de citron vert. ketchup. mayonnaise. piment oiseau. piments rouges. pommes de terre. sucre de palme
-
+ail. citronnelle. coriandre. échalotes. citrons verts. piment oiseau. piment rouge. pomme de terre
 ---
 
 # Pommes de terre croustillantes au romarin et au zaatar
@@ -15237,8 +14942,7 @@ Versez l'huile dans une plaque à rôtir et faites-la chauffer 10 min au four. M
 
 ## Noms ingrédients
 
-farine de riz. huile de tournesol. pommes de terre. romarin. sel de mer. zaatar
-
+pomme de terre. zaatar
 ---
 
 # La salade de pommes de terre de Verena
@@ -15287,9 +14991,7 @@ Juste avant de servir, incorporez le concombre aux pommes de terre, puis transf�
 
 ## Noms ingrédients
 
-ail. bouillon de poule. ciboulette. concombre. moutarde de Dijon. oignon. pancetta. paprika. pommes de terre. vinaigre de cidre
-
-
+ail. ciboulette. concombres. oignons. pancetta. pomme de terre
 ---
 
 
@@ -15348,8 +15050,7 @@ Au moment de servir, remuez délicatement la baked custard pour la détendre : e
 
 ## Noms ingrédients
 
-cassonade. crème double. jaunes d'œufs. lait. Maïzena. noisettes. noix de coco déshydratée. sucre. vanille. vinaigre de cidre
-
+jaunes d'œuf. noisettes. noix de coco déshydratée
 ---
 
 # Mess au citron, myrtilles, pâte à kataifi et meringue
@@ -15406,8 +15107,7 @@ Juste avant de servir, préparez la crème au yaourt : mélangez les ingrédient
 
 ## Noms ingrédients
 
-beurre. cannelle. citron. crème double. meringues. myrtilles. pâte à kataifi. sucre. sucre glace. vanille. yaourt grec
-
+citrons. meringues. myrtilles. yaourt grec
 ---
 
 # Pudding de flocons d'avoine à la cannelle, banane et fraises
@@ -15456,8 +15156,7 @@ Enfournez pour 40-45 min, jusqu'à ce que le dessus soit doré et que le pudding
 
 ## Noms ingrédients
 
-amandes effilées. avoine. banane. beurre. boisson végétale. cannelle. crème double. extrait de vanille. fraises. levure chimique. œuf. sirop d'érable. sucre glace
-
+amandes effilées. bananes. fraises
 ---
 
 # Biscuits sans gluten au chocolat blanc caramélisé et noix de macadamia
@@ -15501,8 +15200,7 @@ Avec une cuillère, prélevez des petites portions de pâte de 50-55 g chacune, 
 
 ## Noms ingrédients
 
-avoine. beurre. bicarbonate de soude. chocolat blanc. farine de manioc. flocons de sel de mer. jaunes d'œufs. noix de macadamia. pâte de vanille. sucre. sucre brun
-
+chocolat blanc. jaunes d'œuf. noix de cajou
 ---
 
 # Chocolate ripple cake
@@ -15573,8 +15271,7 @@ Environ 15 min avant de servir, mélangez les fraises dans un bol avec le sucre,
 
 ## Noms ingrédients
 
-beurre. cacao. cannelle. crème double. crème fraîche. extrait de vanille. farine. fraises. golden syrup. Grand Marnier. huile végétale. levure chimique. lait. œuf. orange. sucre. sucre glace
-
+fraises. oranges
 ---
 
 # Mousse au chocolat et caramel à l'orange
@@ -15626,8 +15323,7 @@ Environ 15 min avant de servir, sortez la mousse du réfrigérateur. Garnissez-l
 
 ## Noms ingrédients
 
-chocolat noir. crème aigre. crème liquide. flocons de sel de mer. jaunes d'œufs. noisettes. orange. sucre. vanille
-
+chocolat noir. jaunes d'œuf. noisettes. oranges
 ---
 
 # Gâteau aux pommes, mûres et gingembre
@@ -15687,8 +15383,7 @@ Enfournez pour 45-50 min. Pour vérifier que le gâteau est cuit, piquez le cent
 
 ## Noms ingrédients
 
-amandes effilées. beurre. cannelle. citron. crème fraîche. extrait de vanille. farine. gingembre. levure chimique. mûres. œufs. pommes. sucre
-
+amandes effilées. citrons. gingembre. mûres. pomme
 ---
 
 # Gâteau hollandais aux pommes
@@ -15760,8 +15455,7 @@ Préparez la garniture en mélangeant tous les ingrédients dans un récipient. 
 
 ## Noms ingrédients
 
-amandes. beurre. cannelle. cassonade. chapelure panko. citron. crème fouettée. farine. jaunes d'œufs. mahleb. mélasse noire. muscade. œuf. pommes. raisins secs. rhum brun. sucre. vanille
-
+amandes. citrons. jaunes d'œuf. pomme. raisins secs
 ---
 
 # Le gâteau marbré-souvenir d'enfance de Verena
@@ -15824,8 +15518,7 @@ Pour le glaçage, placez le chocolat et le sel dans un bol résistant à la chal
 
 ## Noms ingrédients
 
-advocaat. beurre. cacao. chocolat au lait. chocolat noir. crème double. farine. jaunes d'œufs. kéfir. levure chimique. œufs. sucre. vanille
-
+chocolat au lait. chocolat noir. jaunes d'œuf. kéfir
 ---
 
 # Cheesecake sans pâte et compote de prunes
@@ -15884,8 +15577,7 @@ Si vous l'accompagnez de compote de prunes, mélangez tous les ingrédients dans
 
 ## Noms ingrédients
 
-anis étoilé. beurre. cassonade. citron. crème double. extrait de vanille. jaunes d'œufs. levure chimique. œufs. orange. prunes. semoule fine. sucre. yaourt grec
-
+citrons. jaunes d'œuf. oranges. prunes. semoule. yaourt grec
 ---
 
 # Gâteau texan végan
@@ -15947,8 +15639,7 @@ Quand le gâteau est cuit, sortez-le du four et versez le glaçage dessus, en l'
 
 ## Noms ingrédients
 
-boisson végétale. cacao. chocolat noir. farine. huile de coco. huile végétale. levure chimique. sel de mer. sirop d'érable. sucre. sucre brun. sucre glace. vinaigre de cidre
-
+chocolat noir
 ---
 
 # Kaiserschmarrn
@@ -16008,8 +15699,7 @@ Sortez le « pancake » du four, puis utilisez deux cuillères pour le déchirer
 
 ## Noms ingrédients
 
-anis étoilé. beurre. cannelle. cognac. crème fraîche. farine. œufs. raisins secs. rhum. sucre. sucre glace. vanille
-
+raisins secs
 ---
 
 # Cookies au chocolat façon brownies, fourrés d'une crème au tahin et halva
@@ -16072,8 +15762,7 @@ Quand les biscuits sont froids, étalez un peu de crème sur leur face plate. Aj
 
 ## Noms ingrédients
 
-beurre. cacao. chocolat au lait. chocolat noir. crème double. extrait de vanille. farine. graines de sésame. halva. lait malté. levure chimique. mascarpone. œufs. sel de mer. sucre. sucre brun. sucre glace. tahin
-
+chocolat au lait. chocolat noir. halva. mascarpone. tahin
 ---
 
 # Pudding malté aux figues
@@ -16138,9 +15827,7 @@ Laissez reposer 5 min avant d'étaler un peu de crème fraîche à la cuillère.
 
 ## Noms ingrédients
 
-amandes effilées. amandes moulues. beurre. cacao. chocolat noir. crème double. crème fraîche. farine. figues sèches. lait. lait malté. levure chimique. œuf. sirop d'érable. sucre brun
-
-
+amandes effilées. amandes moulues. chocolat noir. figues sèches
 ---
 # Pêches et haricots d'Espagne grillés, par Calvin
 
@@ -16180,8 +15867,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-amandes. fromage de chèvre. haricots d'Espagne. huile d'olive. jus de citron. miel. menthe. pêches. sel de maldon
-
+amandes. fromage de chèvre. haricots d'Espagne. citrons. miel. menthe. pêches
 ---
 
 # Quartiers de laitue iceberg à la crème d'aubergine fumée
@@ -16239,8 +15925,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-amandes. aubergines. avocat. ciboulette. graines de courge. huile d'olive. jus de citron. laitue iceberg. moutarde de dijon. pain au levain. parmesan. piment d'urfa. radis. yaourt grec
-
+amandes. aubergines. avocats. ciboulette. citrons. laitue iceberg. pain au levain. parmesan. piment d'Urfa. radis. yaourt grec
 ---
 
 # Haricots de Lima à l'huile de cascabel fumée
@@ -16287,8 +15972,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. citron. citron vert. graines de coriandre. graines de cumin. haricots de lima. huile d'olive. piments cascabel. piments jalapeño. sel de maldon
-
+ail. citrons. citrons verts. haricots de Lima. piment cascabel. piment jalapeño
 ---
 
 # Soupe aux herbes et aux aubergines grillées
@@ -16341,8 +16025,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. aneth. aubergines. bouillon de légumes. cannelle. coriandre. cumin. curcuma. épinards. graines de moutarde. huile d'olive. jus de citron. oignons. oignons verts. persil. piment rouge
-
+ail. aneth. aubergines. coriandre. épinards. citrons. oignons. oignons verts. persil. piment rouge
 ---
 
 # Chou hispi et nam phrik
@@ -16389,8 +16072,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. cassonade. chou pointu. citron vert. coriandre. galanga. huile de tournesol. jus de citron vert. piment d'alep. pâte de tamarin. sauce de poisson. tomates cerises
-
+ail. chou pointu. citrons verts. coriandre. galanga. piment d'Alep. tamarin. tomates cerise
 ---
 
 # Aubergines à la vapeur et salsa au piment grillé
@@ -16443,8 +16125,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. amandes. aubergines. coriandre. gingembre. huile d'olive. oignons verts. piments rouges. sel de maldon. tomates cerises. vinaigre de xérès
-
+ail. amandes. aubergines. coriandre. gingembre. oignons verts. piment rouge. tomates cerise
 ---
 
 # Haricots verts grillés, puis mijotés
@@ -16493,8 +16174,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. aneth. bouillon de légumes. citron. citron confit. estragon. haricots d'Espagne. haricots verts. huile d'olive. oignons. persil. piment vert
-
+ail. aneth. citrons. citron confit. haricots d'Espagne. haricots verts. oignons. persil. piment vert
 ---
 
 # Betterave Hasselback et beurre de feuilles de combava
@@ -16561,8 +16241,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. betteraves. beurre. citron vert. coriandre. crème double. feuilles de combava. gingembre. huile d'olive. piment vert. yaourt grec
-
+ail. betteraves. citrons verts. coriandre. feuilles de combava. gingembre. piment vert. yaourt grec
 ---
 
 # Céleri-rave entier rôti de trois façons
@@ -16599,8 +16278,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-céleri-rave. huile d'olive. sel de maldon
-
+céleri-rave
 ---
 
 # 1. Céleri-rave rôti et mariné avec une vinaigrette au piment doux
@@ -16664,8 +16342,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. anis étoilé. basilic. céleri-rave. ciboulette. citron vert. graines de sésame. huile de tournesol. oignons verts. piments rouges. sauce soja. sirop d'érable. vinaigre de riz
-
+ail. basilic. céleri-rave. ciboulette. citrons verts. oignons verts. piment rouge
 ---
 # 2. « Tacos » de chou au céleri-rave et sauce barbecue aux dattes
 
@@ -16727,8 +16404,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. ail noir. céleri-rave. chou pointu. ciboulette. citron vert. cumin. dattes. échalotes. fromage de chèvre. graines de coriandre. huile d'olive. paprika fumé. piments rouges. vinaigre balsamique
-
+ail. ail noir. céleri-rave. chou pointu. ciboulette. citrons verts. dattes. échalotes. fromage de chèvre. piment rouge
 ---
 
 # 3. Steaks de céleri-rave et sauce café de Paris
@@ -16783,8 +16459,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-anchois. beurre. câpres. céleri-rave. ciboulette. crème liquide. curry. échalotes. estragon. jus de citron. moutarde. persil. poivre de cayenne. thym
-
+anchois. câpres. céleri-rave. ciboulette. échalotes. citrons. persil. piment de Cayenne
 ---
 
 # Banane plantain aux épices et salade de noix de coco, pommes et gingembre
@@ -16840,8 +16515,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-bananes plantains. beurre. cannelle. cassonade. citron. coriandre. cumin. gingembre. huile d'olive. menthe. noix de coco. noix de muscade. piment vert. poivre de cayenne. pomme
-
+bananes plantains. citrons. coriandre. gingembre. menthe. noix de coco. piment vert. piment de Cayenne. pomme
 ---
 
 # Steaks de rutabaga en croûte de curry
@@ -16904,8 +16578,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. citron vert. coriandre. crème fraîche. curcuma. échalotes. fenugrec. huile d'olive. jus de citron vert. menthe. pamplemousses. piments rouges. poivre de cayenne. rutabaga. sucre
-
+ail. citrons verts. coriandre. échalotes. menthe. pamplemousse. piment rouge. piment de Cayenne. rutabaga
 ---
 
 # Purée de carottes au curry et au beurre brun
@@ -16957,8 +16630,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-beurre. cannelle. carottes. curry. gingembre. graines de cumin. graines de fenouil. graines de nigelle. huile d'olive. jus de citron vert. menthe. oignons verts. piments rouges. sucre. vinaigre de vin blanc
-
+carottes. gingembre. citrons verts. menthe. oignons verts. piment rouge
 ---
 
 # Ragoût d'orge, tomate et cresson
@@ -17015,8 +16687,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-anchois. ail. choux-raves. citron. concentré de tomates. cresson. crème double. échalotes. graines de cumin. huile d'olive. orge perlé. piment rouge. tomates cerises. vin blanc
-
+anchois. ail. chou-rave. citrons. concentré de tomate. cresson. échalotes. piment rouge. tomates cerise
 ---
 
 # Gratin de pommes de terre au citron vert et noix de coco
@@ -17068,8 +16739,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. bouillon de légumes. citron vert. crème de coco. échalotes. gingembre. huile d'olive. oignons verts. piments rouges. pommes de terre
-
+ail. citrons verts. noix de coco. échalotes. gingembre. oignons verts. piment rouge. pomme de terre
 ---
 
 # Bkaïla, ragoût de pommes de terre et haricots de Lima
@@ -17121,8 +16791,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. bouillon de légumes. cannelle. citron. coriandre. cumin. épinards. haricots de lima. huile d'olive. oignons. persil. piments verts. pommes de terre. sucre
-
+ail. citrons. coriandre. épinards. haricots de Lima. oignons. persil. piment vert. pomme de terre
 ---
 
 # Purée de haricots blancs et aïoli
@@ -17173,8 +16842,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. anchois. aneth. haricots cannellini. huile d'olive. jus de citron. moutarde de dijon. oignons. piment d'alep. piment vert. romarin. thym
-
+ail. anchois. aneth. haricots cannellini. citrons. oignons. piment d'Alep. piment vert
 ---
 
 # Pois chiches cuits — recette de base
@@ -17205,8 +16873,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-bicarbonate de soude. pois chiches
-
+pois chiches
 ---
 
 # Houmous au citron, ail frit et piment
@@ -17259,8 +16926,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. cannelle. citron. coriandre. gingembre. huile d'olive. piments rouges. pois chiches. sel de maldon. tahini
-
+ail. citrons. coriandre. gingembre. piment rouge. pois chiches. tahin
 ---
 
 # Salade de melon et mozzarella di buffala, kasha et feuilles de curry
@@ -17304,8 +16970,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-citron. échalotes. feuilles de curry. graines de moutarde. huile d'olive. kasha. melon. mozzarella. pastèque. sel de maldon
-
+citrons. échalotes. feuilles de curry. kasha. melon. mozzarella. pastèque
 ---
 
 # Soupe d'avocat froide et huile croquante à l'ail
@@ -17353,8 +17018,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. aneth. avocat. citron. concombre. crème aigre. graines de coriandre. graines de cumin. huile d'olive. piment vert. petits pois
-
+ail. aneth. avocats. citrons. concombres. piment vert. petits pois
 ---
 
 # Pappa al pomodoro au citron vert et graines de moutarde
@@ -17404,8 +17068,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. basilic. citron vert. feuilles de curry. graines de moutarde. huile d'olive. laurier. pain au levain. piments. sucre. tomates
-
+ail. basilic. citrons verts. feuilles de curry. pain au levain. piment rouge. tomates en conserve
 ---
 
 # Haricots noirs à la noix de coco, piment et citron vert
@@ -17455,8 +17118,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. citron vert. échalotes. feuilles de combava. graines de moutarde. haricots noirs. huile d'olive. noix de coco. piment ancho. piments rouges
-
+ail. citrons verts. échalotes. feuilles de combava. haricots noirs. noix de coco. piment ancho. piment rouge
 ---
 
 # Frites au four et mayonnaise aux feuilles de curry
@@ -17506,8 +17168,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. cardamome. citron vert. feuilles de curry. huile de tournesol. jaune d'œuf. pommes de terre. sel de maldon
-
+ail. citrons verts. feuilles de curry. jaunes d'œuf. pomme de terre
 ---
 
 # Pancakes de pois chiches et yaourt à la mangue
@@ -17570,8 +17231,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. citron vert. cumin. farine de pois chiches. fécule de maïs. feuilles de curry. garam masala. gingembre. huile d'olive. huile de tournesol. levure chimique. mangue. oignons verts. pickles de mangue. piment vert. vinaigre de cidre. yaourt grec
-
+ail. citrons verts. feuilles de curry. gingembre. mangue. oignons verts. pickles de mangue. piment vert. yaourt grec
 ---
 
 # Choux de Bruxelles à l'aigre-douce, châtaignes et raisins
@@ -17624,8 +17284,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. châtaignes. choux de Bruxelles. échalotes. huile d'olive. laurier. persil. piments verts. raisins. sauce soja. sirop d'érable. sucre. vinaigre de riz. vin shaoxing
-
+ail. châtaignes. choux de Bruxelles. échalotes. persil. piment vert. raisin
 ---
 
 # Gnocchis de rutabaga au beurre de miso
@@ -17681,8 +17340,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-beurre. bouillon de légumes. citron vert. épinards. farine. gingembre. graines de sésame. huile d'olive. jaune d'œuf. miso blanc. oignons verts. pommes de terre. rutabaga
-
+citrons verts. épinards. gingembre. jaunes d'œuf. oignons verts. pomme de terre. rutabaga
 ---
 
 # Pommes de terre et œufs braisés au gochujang
@@ -17735,8 +17393,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. chou-rave. ciboulette. citron vert. gochujang. graines de sésame. huile d'olive. miso blanc. œufs. pommes de terre
-
+ail. chou-rave. ciboulette. citrons verts. pomme de terre
 ---
 
 # Le ragù ultime cuit sur une plaque
@@ -17792,8 +17449,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. bouillon de légumes. carottes. cèpes séchés. concentré de tomates. crème de coco. graines de cumin. harissa. huile d'olive. lentilles. miso blanc. oignons. orge perlé. pleurotes. sauce soja. tomates. vin rouge
-
+ail. carottes. cèpes séchés. concentré de tomate. noix de coco. lentilles. oignons. pleurotes. tomates en conserve
 ---
 
 # Pancakes aux asperges et au gochujang
@@ -17849,8 +17505,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. asperges. coriandre. farine complète. farine de riz. gochujang. graines de sésame. huile de tournesol. miel. oignons verts. œuf. piment rouge. sauce soja. vinaigre de riz
-
+ail. asperges. coriandre. miel. oignons verts. piment rouge
 ---
 
 # Cacio e pepe au zaatar
@@ -17893,8 +17548,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-beurre. bucatini. huile d'olive. marjolaine. parmesan. pecorino. poivre noir. zaatar
-
+parmesan. pecorino. zaatar
 ---
 
 # Légumes de printemps au bouillon de parmesan et salsa au citron grillé
@@ -17955,8 +17609,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. basilic. citron. huile d'olive. jus de citron. olives vertes. oignons. parmesan. persil. petits pois. pois gourmands. pois mange-tout
-
+ail. basilic. citrons. olives vertes. oignons. parmesan. persil. petits pois. pois gourmands. pois mange-tout
 ---
 
 # Figues grillées et vinaigrette au vin de Shaoxing
@@ -18002,8 +17655,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-citron. figues. huile d'olive. piments rouges. ricotta. roquette. sauce soja. sirop d'érable. vinaigre balsamique. vin shaoxing
-
+citrons. figues. piment rouge. ricotta. roquette
 ---
 
 # Salade de concombre inspirée par Xi'an Impression
@@ -18052,8 +17704,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. concombre. graines de sésame. huile de tournesol. jus de citron vert. mirin. oignons verts. sauce soja. sel de maldon. tahini. vinaigre de riz
-
+ail. concombres. citrons verts. oignons verts. tahin
 ---
 
 # Patates douces à la sauce tomate, citron vert et cardamome
@@ -18109,8 +17760,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. aneth. cardamome. citron vert. concentré de tomates. cumin. échalotes. huile d'olive. patates douces. piments verts. sirop d'érable. sucre. tomates
-
+ail. aneth. citrons verts. concentré de tomate. échalotes. patate douce. piment vert. tomates en conserve
 ---
 
 # Galette de butternut, orange et sauge
@@ -18173,8 +17823,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. beurre. carottes. courge butternut. échalotes. farine. graines de cumin. huile d'olive. mascarpone. œuf. orange. polenta. sauge. sirop d'érable
-
+ail. carottes. courge butternut. échalotes. mascarpone. oranges. sauge
 ---
 
 # Caponata fusion au tofu soyeux
@@ -18230,9 +17879,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-aubergines. céleri. gingembre. graines de sésame. huile de tournesol. oignons verts. pignons. piments rouges. raisins secs. sauce soja. sirop d'érable. tomates cerises. tofu. vinaigre de riz. vin shaoxing
-
-
+aubergines. céleri. gingembre. oignons verts. pistaches. piment rouge. raisins secs. tomates cerise. tofu
 ---
 
 # Purée de courge, par Esme
@@ -18277,8 +17924,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. cannelle. citron vert. courge butternut. cumin. huile d'olive. miso blanc. oignons verts. piments jalapeño. sirop d'érable
-
+ail. citrons verts. courge butternut. oignons verts. piment jalapeño
 ---
 
 # Couscous perlé et courge, sauce tomate à l'anis étoilé
@@ -18332,8 +17978,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. anis étoilé. cannelle. concentré de tomates. coriandre. couscous perlé. courge. épinards. huile d'olive. oignons. piment. sucre. tomates
-
+ail. concentré de tomate. coriandre. couscous perlé. courge. épinards. oignons. piment. tomates en conserve
 ---
 
 # Orecchiette puttanesca façon one-pot
@@ -18381,8 +18026,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. bouillon de légumes. câpres. citron. concentré de tomates. cumin. graines de carvi. huile d'olive. olives vertes. orecchiette. paprika fumé. persil. pois chiches. sucre. tomates cerises
-
+ail. câpres. citrons. concentré de tomate. olives vertes. persil. pois chiches. tomates cerise
 ---
 
 # Poivrons grillés, polenta de maïs et jaunes d'œufs confits en sauce soja
@@ -18439,8 +18083,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. basilic. beurre. citron. huile d'olive. maïs. œufs. parmesan. poivrons. polenta. sauce soja. sirop d'érable. thym. vinaigre de cidre. yaourt grec
-
+ail. basilic. citrons. maïs. parmesan. poivron. yaourt grec
 ---
 
 # Omelettes fines au lait de coco et curcuma
@@ -18508,8 +18151,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. citron vert. coriandre. curcuma. échalotes. germes de haricots. gingembre. huile de tournesol. jus de pamplemousse. lait de coco. menthe. mirin. oignons verts. œufs. piments. radis. vinaigre de riz
-
+ail. citrons verts. coriandre. échalotes. pousses de soja. gingembre. pamplemousse. noix de coco. menthe. oignons verts. piment rouge. radis
 ---
 
 # Schnitzels de poivrons rouges
@@ -18571,8 +18213,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. chapelure panko. citron vert. farine. feuilles de combava. graines de sésame. huile de tournesol. mayonnaise. nori. œufs. piments rouges. poivrons rouges. sauce worcestershire. sirop d'érable. tomates cerises
-
+ail. citrons verts. feuilles de combava. piment rouge. poivron rouge. tomates cerise
 ---
 
 # Pâtes mafalda et butternut rôtie, sauce chaude au yaourt
@@ -18630,8 +18271,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. courge butternut. cumin. fécule de maïs. huile d'olive. jaunes d'œufs. oignons. pâtes mafalda. persil. piments rouges. tomates. vinaigre de cidre. yaourt grec
-
+ail. courge butternut. jaunes d'œuf. oignons. persil. piment rouge. tomates en conserve. yaourt grec
 ---
 
 # Aubergines farcies au curry et dhal au lait de coco
@@ -18695,8 +18335,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-aubergines. citron vert. coriandre. cumin. curcuma. curry. échalotes. épinards. feuilles de curry. gingembre. graines de moutarde. huile d'olive. lait de coco. lentilles rouges. paneer. pickles de mangue. piments rouges
-
+aubergines. citrons verts. coriandre. échalotes. épinards. feuilles de curry. gingembre. noix de coco. lentilles rouges. paneer. pickles de mangue. piment rouge
 ---
 
 # Boulettes d'aubergine alla parmigiana
@@ -18756,8 +18395,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. aubergines. basilic. chapelure. concentré de tomates. farine. flocons de piment. huile d'olive. œufs. olives de kalamata. origan. paprika. parmesan. persil. ricotta. sucre. tomates
-
+ail. aubergines. basilic. concentré de tomate. piment rouge séché. olives de Kalamata. parmesan. persil. ricotta. tomates en conserve
 ---
 
 # Tamales au fromage avec plein de garnitures (ou un peu)
@@ -18853,9 +18491,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. avocat. beurre. cheddar. citron vert. concentré de tomates. coriandre. crème double. cumin. farine de maïs. huile d'olive. huile de tournesol. maïs. masa harina. mozzarella. œuf. oignons. piments. sucre. tomates
-
-
+ail. avocats. cheddar. citrons verts. concentré de tomate. coriandre. maïs. mozzarella. oignons. piment rouge. tomates en conserve
 ---
 
 # Polenta au maïs frais et œufs braisés
@@ -18908,8 +18544,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. aneth. beurre. bouillon de légumes. coriandre. épinards. feta. flocons de piment. huile d'olive. lait. maïs. œufs. oignons verts. parmesan. persil. polenta
-
+ail. aneth. coriandre. épinards. feta. piment rouge séché. maïs. oignons verts. parmesan. persil
 ---
 
 # Salade de tomates et yaourt au citron vert et à la cardamome
@@ -18950,8 +18585,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. cardamome. citron vert. échalotes. fromage de chèvre. huile d'olive. menthe. piment vert. tomates cerises. yaourt grec
-
+ail. citrons verts. échalotes. fromage de chèvre. menthe. piment vert. tomates cerise. yaourt grec
 ---
 
 # Beignets de riz au kimchi et au gruyère
@@ -19004,8 +18638,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. citron. coriandre. farine. graines de sésame. gruyère. haricots verts. huile d'olive. huile de tournesol. kimchi. lait. oignons. œufs. riz. sel de maldon
-
+ail. citrons. coriandre. gruyère. haricots verts. kimchi. oignons
 ---
 
 # Salade d'asperges au tamarin et au citron vert
@@ -19061,8 +18694,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-anchois. ail. asperges. cardamome. citron noir séché. citron vert. huile d'olive. jus de citron vert. menthe. miel. moutarde de dijon. persil. piments verts. pistaches. pâte de tamarin. vinaigre de vin blanc
-
+anchois. ail. asperges. citron noir séché. citrons verts. menthe. miel. persil. piment vert. pistaches. tamarin
 ---
 
 # Tofu à la cardamome et choy sum au citron vert
@@ -19110,8 +18742,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. cardamome. choy sum. citron vert. farine. fécule de maïs. huile de tournesol. piments rouges. sauce soja. sauce sriracha. tofu
-
+ail. pak choï. citrons verts. piment rouge. tofu
 ---
 
 # Verdure braisée au yaourt
@@ -19160,8 +18791,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. aneth. cannelle. cavolo nero. citron noir séché. coriandre. huile d'olive. menthe séchée. oignons. oignons verts. persil. yaourt grec
-
+ail. aneth. chou kale. citron noir séché. coriandre. menthe. oignons. oignons verts. persil. yaourt grec
 ---
 
 # Tofu au citron noir séché, par Noor
@@ -19212,8 +18842,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. citron noir séché. concentré de tomates. cumin. épinards. fécule de maïs. huile d'olive. huile de tournesol. oignons. oignons rouges. persil. sucre. tofu. vinaigre de cidre
-
+ail. citron noir séché. concentré de tomate. épinards. oignons. oignons rouges. persil. tofu
 ---
 
 # Boulettes de riz gluant et rasam au tamarin
@@ -19278,8 +18907,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. citron. coriandre. cumin. feuilles de curry. gingembre. graines de moutarde. huile de tournesol. oignons. oignons verts. piments. pulpe de tamarin. riz gluant. sucre. tomates. curcuma
-
+ail. citrons. coriandre. feuilles de curry. gingembre. oignons. oignons verts. piment rouge. tamarin. tomates en conserve
 ---
 
 # Bette arc-en-ciel aux tomates et olives vertes
@@ -19325,8 +18953,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. basilic. bettes. citron. huile d'olive. olives vertes. oignons. origan. tomates
-
+ail. basilic. bettes. citrons. olives vertes. oignons. tomates en conserve
 ---
 
 # Tempura de tiges, feuilles et herbes
@@ -19382,9 +19009,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. aneth. citron vert. farine. fécule de maïs. feuilles de betteraves. feuilles de combava. graines de sésame. huile de tournesol. jus de mandarine. menthe. piment rouge. poivre du sichuan. sel de maldon. sirop d'érable. tiges de betteraves
-
-
+ail. aneth. citrons verts. feuilles de betteraves. feuilles de combava. mandarine. menthe. piment rouge. betteraves
 ---
 
 # Brocoli en deux façons, avec piment et cumin
@@ -19431,8 +19056,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-basilic. brocoli. graines de cumin. huile de tournesol. piment rouge. sauce soja. sucre. vinaigre de cidre
-
+basilic. brocoli. piment rouge
 ---
 
 # Salade de carottes rôties, sauce chamoy
@@ -19488,8 +19112,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-abricots secs. ail. amandes. aneth. carottes. citron vert. huile d'olive. menthe. piment d'alep. sirop d'érable. sumac
-
+abricots secs. ail. amandes. aneth. carottes. citrons verts. menthe. piment d'Alep
 ---
 
 # Salade de concombre, zaatar et citron haché
@@ -19529,8 +19152,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-aneth. basilic. citron. concombre. échalotes. huile d'olive. mâche. menthe. piment vert. zaatar
-
+aneth. basilic. citrons. concombres. échalotes. mâche. menthe. piment vert. zaatar
 ---
 
 # Purée de patate douce au yaourt et citron vert
@@ -19572,8 +19194,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. citron vert. coriandre. graines de sésame. huile d'olive. mélasse de grenade. patates douces. piment rouge. yaourt grec
-
+ail. citrons verts. coriandre. grenade. patate douce. piment rouge. yaourt grec
 ---
 
 # Pommes de terre au chaat masala, yaourt et tamarin
@@ -19634,8 +19255,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-chaat masala. citron vert. coriandre. curcuma. graines de coriandre. graines de nigelle. huile d'olive. oignons rouges. pâte de tamarin. piment vert. pommes de terre nouvelles. sucre. yaourt grec
-
+citrons verts. coriandre. oignons rouges. tamarin. piment vert. pomme de terre. yaourt grec
 ---
 
 # Chou à la crème de gingembre et huile qui picote
@@ -19693,8 +19313,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. anis étoilé. chou pointu. concentré de tomates. cream cheese. échalotes. flocons de piment. fromage à la crème. gingembre. graines de sésame. huile de tournesol. jus de citron vert. piment rouge. poivre du sichuan. sauce soja
-
+ail. chou pointu. concentré de tomate. cream cheese. échalotes. piment rouge séché. fromage à la crème. gingembre. citrons verts. piment rouge
 ---
 
 # Tagliatelles au safran
@@ -19732,8 +19351,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-farine. œufs. safran. semoule
-
+semoule
 ---
 
 # Tagliatelles au safran, ricotta et échalotes frites au piment chipotle
@@ -19796,8 +19414,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. chipotle. échalotes. graines de coriandre. graines de cumin. huile d'olive. parmesan. persil. piments verts. ricotta. safran. sirop d'érable. tagliatelles. vinaigre de riz
-
+ail. piment chipotle. échalotes. parmesan. persil. piment vert. ricotta
 ---
 
 # Nouilles udon au tofu frit et nam jim à l'orange sanguine
@@ -19860,9 +19477,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. basilic thaï. coriandre. échalotes. graines de sésame. huile de tournesol. nouilles udon. oignons verts. oranges sanguines. piment d'alep. piments rouges. pâte de tamarin. riz. sauce de poisson. sauce soja. sirop d'érable. tofu
-
-
+ail. basilic. coriandre. échalotes. oignons verts. oranges sanguines. piment d'Alep. piment rouge. tamarin. tofu
 ---
 
 # Courgettes moelleuses à la harissa et au citron
@@ -19903,8 +19518,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. basilic. citron. citron confit. courgettes. harissa. huile d'olive. piment rouge
-
+ail. basilic. citrons. citron confit. courgettes. piment rouge
 ---
 
 # Chou-fleur rôti au beurre pimenté
@@ -19959,8 +19573,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. beurre. chou-fleur. citron. concentré de tomates. harissa. huile d'olive. oignons. piment d'alep. piment d'urfa. piments rouges. sucre
-
+ail. chou-fleur. citrons. concentré de tomate. oignons. piment d'Alep. piment d'Urfa. piment rouge
 ---
 
 # Ratatouille au berbéré et salsa à la crème de coco
@@ -20021,8 +19634,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. aubergines. berbéré. choux-raves. citron vert. concombre. coriandre. crème de coco. gingembre. graines de nigelle. huile d'olive. piments. poivrons. sauce soja. sirop d'érable. tomates cerises
-
+ail. aubergines. chou-rave. citrons verts. concombres. coriandre. noix de coco. gingembre. piment rouge. poivron. tomates cerise
 ---
 
 # Steaks de portobello et purée de haricots de Lima
@@ -20078,8 +19690,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. champignons portobello. chipotle. concentré de tomates. graines de coriandre. graines de cumin. haricots de lima. huile d'olive. jus de citron. oignons. piment rouge. sel de maldon
-
+ail. champignons portobello. piment chipotle. concentré de tomate. haricots de Lima. citrons. oignons. piment rouge
 ---
 
 # Chou à la crème de gingembre et huile qui picote (voir recette 68)
@@ -20174,8 +19785,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. betteraves. citron. gingembre. huile d'olive. pois chiches. sel de maldon. sumac. tahini
-
+ail. betteraves. citrons. gingembre. pois chiches. tahin
 ---
 
 # Lasagnes aux champignons épicés
@@ -20235,8 +19845,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. beurre. cannelle. cèpes séchés. champignons de paris. concentré de tomates. cumin. farine. flocons de piment. huile d'olive. lait. lasagnes. noix de muscade. oignons. paprika fumé. parmesan. persil. pleurotes. tomates. vin rouge
-
+ail. cèpes séchés. champignons de Paris. concentré de tomate. piment rouge séché. lasagnes. oignons. parmesan. persil. pleurotes. tomates en conserve
 ---
 # Salade de nouilles et laab aux champignons et aux cacahuètes
 
@@ -20299,8 +19908,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ## Noms ingrédients
 
-arachides. basilic thaï. champignons de Paris. coriandre. flocons de piment rouge. haricots verts. huile d'arachide. jus de citron vert. menthe. oignon rouge. piment rouge. pleurotes. riz basmati. sauce de poisson. sauce soja. sirop d'érable. tamarin. vermicelles de riz
-
+cacahuètes. basilic. champignons de Paris. coriandre. piment rouge séché. haricots verts. citrons verts. menthe. oignons rouges. piment rouge. pleurotes. tamarin
 ---
 
 # Houmous à l'ail confit et champignons grillés
@@ -20360,8 +19968,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. aneth. champignons de Paris. champignons shiitake. citron. huile d'olive. jus de citron. persil. piment cascabel. pois chiches. sel de Maldon. sirop d'érable. tahini. thym
-
+ail. aneth. champignons de Paris. champignons shiitaké. citrons. persil. piment cascabel. pois chiches. tahin
 ---
 
 # Candji de riz brun et shiitakes
@@ -20423,8 +20030,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. champignons shiitake séchés. échalotes frites. flocons de piment d'Alep. flocons de poivron rouge. gingembre. graines de sésame. huile de tournesol. mandarine. oignons verts. radis. riz brun. sauce soja. sucre. vinaigre de riz
-
+ail. champignons shiitaké. échalotes frites. piment d'Alep. poivron rouge. gingembre. mandarine. oignons verts. radis
 ---
 
 # Tacos aux pleurotes avec plein de garnitures (ou un peu)
@@ -20500,8 +20106,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. avocat. chou-rave. citron vert. coriandre. crème de coco. cumin. fleurs d'hibiscus. huile d'olive. masa harina. oignon rouge. orange. piment cascabel. piment de la Jamaïque. pleurotes. sauce soja. sirop d'érable. sucre. vinaigre de vin blanc
-
+ail. avocats. chou-rave. citrons verts. coriandre. noix de coco. fleurs d'hibiscus. oignons rouges. oranges. piment cascabel. piment de la Jamaïque. pleurotes
 ---
 
 # Oignons grillés et gaspacho vert, par Neil
@@ -20559,8 +20164,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ## Noms ingrédients
 
-ciboulette. citron. concombre. coriandre. croûtons. estragon. feta. graines de nigelle. huile d'olive. oignons de Tropea. persil. piment vert. poivrons verts. vinaigre de cidre. yaourt grec
-
+ciboulette. citrons. concombres. coriandre. feta. oignons de Tropea. persil. piment vert. poivron vert. yaourt grec
 ---
 
 # Pétales d'oignons à l'aigre-douce
@@ -20603,8 +20207,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ## Noms ingrédients
 
-ciboulette. flocons de piment Urfa. fromage de chèvre. huile d'olive. jus de grenade. oignons rouges
-
+ciboulette. piment d'Urfa. fromage de chèvre. grenade. oignons rouges
 ---
 
 # Pains plats à l'huile d'olive et beurre aux trois ails
@@ -20671,8 +20274,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. ail noir. beurre. cumin. farine de force. huile d'olive. levure. origan. persil. sel de Maldon. thym. tomates
-
+ail. ail noir. persil. tomates en conserve
 ---
 
 # Aubergines aux herbes et à l'ail frit
@@ -20718,8 +20320,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. aneth. aubergines. coriandre. huile d'olive. jus de citron. menthe. piment vert. vinaigre de vin blanc
-
+ail. aneth. aubergines. coriandre. citrons. menthe. piment vert
 ---
 
 # Dirty rice
@@ -20767,8 +20368,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. ail noir. beurre. bouillon de légumes. châtaignes. épices cajun. huile d'olive. jus de citron. oignons. persil. riz basmati
-
+ail. ail noir. châtaignes. citrons. oignons. persil
 ---
 
 # Rondelles d'oignon frits au babeurre et au curcuma
@@ -20827,8 +20427,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. babeurre. carvi. citron vert. curcuma. farine. graines de nigelle. huile de tournesol. mirin. oignon. oignons verts. piment rouge. sel de Maldon. vinaigre de vin blanc
-
+ail. citrons verts. oignons. oignons verts. piment rouge
 ---
 # Poireaux et salsa au miso et à la ciboulette
 
@@ -20880,8 +20479,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. ciboulette. fécule de maïs. gingembre. graines de sésame. huile d'olive. huile de tournesol. mirin. miso blanc. poireaux. sel de Maldon. vinaigre de riz
-
+ail. ciboulette. gingembre. poireau
 ---
 
 # Oignons au beurre de miso
@@ -20924,8 +20522,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ## Noms ingrédients
 
-beurre. miso blanc. oignons
-
+oignons
 ---
 
 # Salade de « nouilles » de chou-rave
@@ -20976,8 +20573,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ## Noms ingrédients
 
-cacahuètes. chou-rave. flocons de piment d'Alep. gingembre. graines de pavot. graines de sésame. huile de tournesol. jus de citron vert. nori. oignons verts. poivre du Sichuan. sel de Maldon. vinaigre de riz
-
+cacahuètes. chou-rave. piment d'Alep. gingembre. citrons verts. oignons verts
 ---
 
 # Salade de radis et concombre, cacahuètes au piment chipotle
@@ -21029,8 +20625,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. cacahuètes. citron vert. concombre. coriandre. cumin. daikon. golden syrup. huile d'olive. piment chipotle. piment de Cayenne. piment jalapeño. radis. sel de Maldon
-
+ail. cacahuètes. citrons verts. concombres. coriandre. daïkon. piment chipotle. piment de Cayenne. piment jalapeño. radis
 ---
 
 # Ribs de maïs
@@ -21082,8 +20677,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ## Noms ingrédients
 
-beurre. citron noir séché. graines de courge. huile de tournesol. maïs. miel. sel de Maldon
-
+citron noir séché. maïs. miel
 ---
 
 # Salade de tomates et de prunes, sel de sésame et nori
@@ -21139,8 +20733,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. coriandre. flocons de piment. gingembre. graines de sésame. huile d'arachide. nori. oignons verts. orange. prunes. sauce de poisson. sauce soja. sel de Maldon. sucre. tomates. vinaigre de riz
-
+ail. coriandre. piment rouge séché. gingembre. oignons verts. oranges. prunes. tomates en conserve
 ---
 
 # Boulettes de tofu korma
@@ -21209,8 +20802,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. amandes. cardamome. cannelle. champignons de Paris. chapelure panko. coriandre. cumin. curcuma. fécule de maïs. gingembre. huile d'olive. jus de citron. noix de cajou. oignon. oignon rouge. oignons verts. piment vert. sauce soja. tahini. tofu extra-ferme. tofu soyeux. tomates
-
+ail. amandes. champignons de Paris. coriandre. gingembre. citrons. noix de cajou. oignons. oignons rouges. oignons verts. piment vert. tahin. tofu extra-ferme. tofu soyeux. tomates en conserve
 ---
 
 # Gâteau de navet
@@ -21287,8 +20879,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. champignons shiitake séchés. châtaignes. ciboulette. daikon. farine de riz blanc. fécule de maïs. gingembre. graines de sésame. huile de sésame. huile de tournesol. pignons de pin. sauce soja. sirop d'érable. sucre
-
+ail. champignons shiitaké. châtaignes. ciboulette. daïkon. gingembre. pistaches
 ---
 
 # Salade de pommes de terre et salsa au basilic thaï
@@ -21337,8 +20928,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. amandes fumées. basilic thaï. citron vert. gingembre. huile d'olive. piment vert. pommes de terre. radis. sel de Maldon. topinambours
-
+ail. amandes fumées. basilic. citrons verts. gingembre. piment vert. pomme de terre. radis. topinambours
 ---
 
 # Pommes de terre rôties aux épices, sauce tahini et soja
@@ -21390,8 +20980,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. ciboulette. graines de sésame. harissa à la rose. huile d'olive. mirin. pommes de terre. sauce soja. tahini. vinaigre de riz
-
+ail. ciboulette. pomme de terre. tahin
 ---
 # Flan de mandarine et piment ancho
 
@@ -21443,8 +21032,7 @@ Ottolenghi. Flavour. Pas testé. Végé. Dessert
 
 ## Noms ingrédients
 
-crème double. lait concentré. lait entier. mandarine. œufs. piment ancho. sel de Maldon. sucre. vanille
-
+mandarine. piment ancho
 ---
 
 # Beignets de tapioca et sirop d'orange à l'anis étoilé
@@ -21498,8 +21086,7 @@ Ottolenghi. Flavour. Pas testé. Végé. Dessert
 
 ## Noms ingrédients
 
-anis étoilé. crème double. fécule de tapioca. huile de tournesol. lait entier. miel. œufs. orange. sel de Maldon. sucre. sucre glace. tapioca. vanille
-
+miel. oranges. tapioca
 ---
 
 # Abricots pochés et mascarpone aux pistaches et biscuits amaretti
@@ -21551,8 +21138,7 @@ Ottolenghi. Flavour. Pas testé. Végé. Dessert
 
 ## Noms ingrédients
 
-abricots. biscuits amaretti croquants. citron vert. crème double. eau de fleur d'oranger. mascarpone. pistaches. sauternes. sucre. vanille
-
+abricots. biscuits amaretti. citrons verts. mascarpone. pistaches
 ---
 
 # Sorbet pastèque-fraise
@@ -21597,8 +21183,7 @@ Ottolenghi. Flavour. Pas testé. Végé. Dessert
 
 ## Noms ingrédients
 
-citron vert. combava. fraises. glucose. pastèque. rooibos. sucre. vodka
-
+citrons verts. combava. fraises. pastèque. rooibos
 ---
 
 # Glace à la noix de coco, litchis et fruits de la passion
@@ -21648,8 +21233,7 @@ Ottolenghi. Flavour. Pas testé. Végé. Dessert
 
 ## Noms ingrédients
 
-anis étoilé. aquafaba. citron vert. crème de coco. fruit de la passion. litchis. noix de coco. pois chiches. sel de Maldon. sucre. vanille
-
+citrons verts. noix de coco. fruit de la passion. litchis. pois chiches
 ---
 
 # Les citrons givrés de Max et Flynn
@@ -21690,8 +21274,7 @@ Ottolenghi. Flavour. Pas testé. Végé. Dessert
 
 ## Noms ingrédients
 
-citrons. fleurs d'hibiscus. menthe. sucre
-
+citrons. fleurs d'hibiscus. menthe
 ---
 
 # Crêpes aux bananes rôties et crème de la Barbade
@@ -21755,8 +21338,7 @@ Ottolenghi. Flavour. Pas testé. Végé. Dessert
 
 ## Noms ingrédients
 
-amandes effilées. bananes. beurre. cassonade. farine. gingembre. lait entier. mascarpone. œuf. rhum brun. vanille. yaourt grec
-
+amandes effilées. bananes. gingembre. mascarpone. yaourt grec
 ---
 
 # Entremets café-pandanus
@@ -21812,8 +21394,7 @@ Ottolenghi. Flavour. Pas testé. Végé. Dessert
 
 ## Noms ingrédients
 
-beurre. cacao en poudre. café. crème double. expresso. fécule de maïs. feuilles de pandanus. jaunes d'œufs. lait entier. noix de macadamia. sel de Maldon. sucre. vanille
-
+feuilles de pandanus. jaunes d'œuf. noix de cajou
 ---
 
 # Assiette de fruits rouges au labneh de brebis et huile d'orange
@@ -21861,8 +21442,7 @@ Ottolenghi. Flavour. Pas testé. Végé. Dessert
 
 ## Noms ingrédients
 
-cerises. citron vert. fraises. framboises. huile d'olive. mûres. myrtilles. orange. sucre. thym citron. yaourt de brebis
-
+cerises. citrons verts. fraises. framboises. mûres. myrtilles. oranges. yaourt de brebis
 ---
 
 # Figues au pecorino jeune et au miel
@@ -21895,8 +21475,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-basilic. figues. huile d'olive. miel. pecorino. roquette
-
+basilic. figues. miel. pecorino. roquette
 ---
 
 # Salade de radis et de fèves
@@ -21934,8 +21513,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-citron. citron confit. coriandre. cumin. fèves. huile d'olive. oignon rouge. pain pita. persil. radis. sauce tahini
-
+citrons. citron confit. coriandre. fèves. oignons rouges. pain pita. persil. radis. tahin
 ---
 
 # Salade de fenouil et feta aux graines de grenade et au sumac
@@ -21971,8 +21549,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-citron. estragon. fenouil. feta. grenade. huile d'olive. persil. sumac
-
+citrons. fenouil. feta. grenade. persil
 ---
 
 # Salade de concombre aux graines de pavot
@@ -22006,8 +21583,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-concombre. coriandre. graines de pavot. huile de tournesol. piment rouge. sucre. vinaigre de riz
-
+concombres. coriandre. piment rouge
 ---
 
 # Salade aux herbes d'Etti
@@ -22045,8 +21621,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-amandes. aneth. basilic. beurre. citron. coriandre. estragon. huile d'olive. persil. roquette
-
+amandes. aneth. basilic. citrons. coriandre. persil. roquette
 ---
 
 # Aubergines marinées au tahini et à l'origan
@@ -22087,8 +21662,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. aubergines. citron. coriandre. huile d'olive. origan. piment rouge. sauce tahini
-
+ail. aubergines. citrons. coriandre. piment rouge. tahin
 ---
 
 # Aubergine « brûlée » aux poivrons jaunes et à l'oignon rouge
@@ -22123,8 +21697,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-aubergines. cumin. huile de tournesol. oignon rouge. persil. poivrons. tomates cerises. vinaigre de cidre
-
+aubergines. oignons rouges. persil. poivron. tomates cerise
 ---
 
 # Rouleaux d'aubergine et gnocchis de ricotta au beurre de sauge
@@ -22177,8 +21750,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-aubergine. basilic. beurre. citron. farine. huile d'olive. muscade. parmesan. persil. pignons de pin. ricotta. sauge
-
+aubergines. basilic. citrons. parmesan. persil. pistaches. ricotta. sauge
 ---
 
 # Aubergine rôtie et yaourt au safran
@@ -22219,8 +21791,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. aubergines. basilic. citron. grenade. huile d'olive. pignons de pin. safran. yaourt grec
-
+ail. aubergines. basilic. citrons. grenade. pistaches. yaourt grec
 ---
 
 # Asperges, courgettes et manouri grillés
@@ -22263,9 +21834,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. asperges. basilic. courgettes. huile d'olive. manouri. roquette. tomates cerises
-
-
+ail. asperges. basilic. courgettes. fromage de brebis. roquette. tomates cerise
 ---
 
 # Salade d'asperges à la salicorne
@@ -22299,8 +21868,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. asperges. estragon. graines de sésame. huile d'olive. huile de sésame. salicorne
-
+ail. asperges. salicorne
 ---
 
 # Haricots verts et pois gourmands aux noisettes et à l'orange
@@ -22336,8 +21904,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. ciboulette. haricots verts. huile de noisette. huile d'olive. noisettes. orange. pois gourmands
-
+ail. ciboulette. haricots verts. noisettes. oranges. pois gourmands
 ---
 
 # Artichauts et fèves au four
@@ -22376,8 +21943,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. artichauts. citron. fèves. huile d'olive. laurier. persil. petits pois. poivre rose. thym. vin blanc
-
+ail. artichauts. citrons. fèves. persil. petits pois
 ---
 
 # Broccolinis au tofu, au sésame et à la coriandre
@@ -22413,8 +21979,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-broccolinis. coriandre. graines de sésame. huile d'arachide. huile de sésame. kecap manis. sauce au piment. tofu
-
+broccolinis. coriandre. piment rouge. tofu
 ---
 
 # Brocolis grillés au piment et à l'ail
@@ -22447,8 +22012,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. brocoli. huile d'olive. piment rouge
-
+ail. brocoli. piment rouge
 ---
 
 # Pousses de brocoli pourpre et salsifis au beurre de câpres
@@ -22486,8 +22050,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-aneth. beurre. brocoli pourpre. câpres. ciboulette. citron. estragon. persil. salsifis
-
+aneth. brocoli. câpres. ciboulette. citrons. persil. salsifis
 ---
 
 # Gombos au four aux tomates et au gingembre
@@ -22522,8 +22085,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. coriandre. gingembre. gombos. huile d'olive. piment. sucre. tomates
-
+ail. coriandre. gingembre. gombos. piment. tomates en conserve
 ---
 
 # Courge butternut rôtie, aubergine « brûlée » et mélasse de grenade
@@ -22569,8 +22131,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. amandes. aubergine. basilic. citron. courge butternut. graines de courge. graines de nigelle. graines de sésame. huile d'olive. mélasse de grenade. persil. yaourt grec
-
+ail. amandes. aubergines. basilic. citrons. courge butternut. grenade. persil. yaourt grec
 ---
 
 # Endives caramélisées au jambon serrano
@@ -22608,8 +22169,7 @@ Ottolenghi. Cookbook. Pas testé. Viande
 
 ## Noms ingrédients
 
-beurre. chapelure. crème. endives. huile d'olive. jambon serrano. parmesan. persil. sucre. thym
-
+endives. jambon serrano. parmesan. persil
 ---
 
 # Beignets de chou-fleur au cumin et sauce yaourt au citron vert
@@ -22654,9 +22214,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. cannelle. chou-fleur. citron vert. coriandre. cumin. curcuma. échalotes. farine. huile de tournesol. œufs. persil. yaourt grec
-
-
+ail. chou-fleur. citrons verts. coriandre. échalotes. persil. yaourt grec
 ---
 
 # Chou-fleur grillé aux tomates, à l'aneth et aux câpres
@@ -22694,8 +22252,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. aneth. câpres. chou-fleur. épinards. huile d'olive. moutarde. tomates cerises. vinaigre de cidre
-
+ail. aneth. câpres. chou-fleur. épinards. tomates cerise
 ---
 
 # Gratin façon crumble au fenouil et aux tomates cerises
@@ -22731,8 +22288,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. crème. fenouil. huile d'olive. parmesan. persil. pâte à crumble. thym. tomates cerises
-
+ail. fenouil. parmesan. persil. tomates cerise
 ---
 
 # Poivrons marinés à la mozzarella de bufflonne
@@ -22768,8 +22324,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. coriandre. huile d'olive. mozzarella. persil. poivrons romano. roquette. vinaigre de cidre
-
+ail. coriandre. mozzarella. persil. poivron rouge. roquette
 ---
 
 # Champignons à la cannelle et au citron
@@ -22809,8 +22364,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. cannelle. champignons de Paris. champignons enoki. champignons shiitake. citron. huile d'olive. persil. pleurotes. thym
-
+ail. champignons de Paris. champignons enoki. champignons shiitaké. citrons. persil. pleurotes
 ---
 
 # Champignons portobello à l'orge perlé et au citron confit
@@ -22857,8 +22411,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. basilic. beurre. bouillon. citron confit. feta. huile d'olive. huile de tournesol. oignon. orge perlé. persil. portobello. thym. vin blanc
-
+ail. basilic. citron confit. feta. oignons. persil. champignons portobello
 ---
 
 # Salade de betteraves rouges et dorées rôties
@@ -22895,8 +22448,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. betterave dorée. betterave rouge. cerfeuil. épinards. graines de tournesol. huile d'olive. sirop d'érable. vinaigre de xérès
-
+ail. betteraves. persil. épinards
 ---
 
 # Écrasée de pommes de terre nouvelles au raifort et à l'oseille
@@ -22931,8 +22483,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. cresson. huile d'olive. oignons nouveaux. oseille. pommes de terre nouvelles. raifort. yaourt grec
-
+ail. cresson. oignons nouveaux. oseille. pomme de terre. raifort. yaourt grec
 ---
 
 # Céleri et rutabaga aigres-doux
@@ -22972,8 +22523,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. aneth. câpres. céleri. citron. griottes séchées. huile d'olive. huile de tournesol. moutarde de Dijon. persil. rutabaga. sucre. vinaigre de cidre
-
+ail. aneth. câpres. céleri. citrons. griottes séchées. persil. rutabaga
 ---
 
 # Purée de panais et de potiron
@@ -23011,8 +22561,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. beurre. ciboulette. crème fraîche. huile d'olive. huile de tournesol. muscade. oignon. panais. potiron
-
+ail. ciboulette. oignons. panais. potiron
 ---
 
 # Patates douces rôties aux noix de pécan et au sirop d'érable
@@ -23058,9 +22607,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-cannelle. citron. coriandre. gingembre. huile d'olive. noix de pécan. oignons nouveaux. orange. patates douces. persil. piment. raisins secs. sirop d'érable. vinaigre de xérès
-
-
+citrons. coriandre. gingembre. noix. oignons nouveaux. oranges. patate douce. persil. piment. raisins secs
 ---
 
 # Carottes et petits pois
@@ -23100,8 +22647,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. anis étoilé. cannelle. carottes. coriandre. graines de coriandre. huile d'olive. miel. orange. petits pois. pousses de pois. vin rouge
-
+ail. carottes. coriandre. miel. oranges. petits pois. pousses de pois
 ---
 
 # Gratin de patates douces de Danielle
@@ -23133,8 +22679,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. crème fouettée. patates douces. sauge
-
+ail. patate douce. sauge
 ---
 
 # Pommes de terre et topinambours rôtis au citron et à la sauge
@@ -23170,8 +22715,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. citron. huile d'olive. olives Kalamata. persil. pommes de terre. sauge. tomates cerises. topinambours
-
+ail. citrons. olives de Kalamata. persil. pomme de terre. sauge. tomates cerise. topinambours
 ---
 
 # Haricots blancs à la sauce pimentée douce et aux herbes fraîches
@@ -23209,8 +22753,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. coriandre. citron. haricots blancs. huile de sésame. menthe. oignons nouveaux. poivrons rouges. sauce pimentée douce. sauce soja
-
+ail. coriandre. citrons. haricots blancs. menthe. oignons nouveaux. poivron rouge. piment rouge
 ---
 
 # Riz rouge de Camargue et quinoa à l'orange et aux pistaches
@@ -23249,8 +22792,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-abricots séchés. ail. citron. huile d'olive. oignon. oignons nouveaux. orange. pistaches. quinoa. riz rouge de Camargue. roquette
-
+abricots secs. ail. citrons. oignons. oignons nouveaux. oranges. pistaches. quinoa. roquette
 ---
 
 # Couscous et moghrabieh aux tomates séchées
@@ -23291,8 +22833,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-bouillon. couscous. estragon. graines de nigelle. huile d'olive. labneh. moghrabieh. oignons. safran. sucre muscovado. tomates. vinaigre balsamique
-
+couscous. labneh. moghrabieh. oignons. tomates en conserve
 ---
 
 # Couscous aux abricots séchés et à la courge butternut
@@ -23333,8 +22874,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-abricots secs. bouillon. cannelle. citron. couscous. courge butternut. estragon. huile d'olive. menthe. oignon. persil. safran
-
+abricots secs. citrons. couscous. courge butternut. menthe. oignons. persil
 ---
 
 # Lentilles du Puy aux griottes, au lard fumé et au gorgonzola
@@ -23373,8 +22913,7 @@ Ottolenghi. Cookbook. Pas testé. Viande
 
 ## Noms ingrédients
 
-échalotes. épinards. gorgonzola. griottes séchées. huile d'olive. lard fumé. laurier. lentilles du Puy. sucre. vinaigre de vin rouge
-
+échalotes. épinards. gorgonzola. griottes séchées. lard fumé. lentilles du Puy
 ---
 
 # Blé complet et champignons au céleri et aux échalotes
@@ -23411,8 +22950,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-blé complet. cassonade. céleri. champignons de Paris. échalotes. estragon. huile d'olive. persil. vinaigre de xérès
-
+blé complet. céleri. champignons de Paris. échalotes. persil
 ---
 
 # Pois chiches, épinards et patates douces au miel
@@ -23467,9 +23005,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. beurre. bicarbonate. citron. concentré de tomates. coriandre. cumin. épinards. huile d'olive. menthe. miel. oignon. patates douces. pois chiches. sucre. tomates. yaourt grec
-
-
+ail. citrons. concentré de tomate. coriandre. épinards. menthe. miel. oignons. patate douce. pois chiches. tomates en conserve. yaourt grec
 ---
 
 # Kosheri
@@ -23516,8 +23052,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. beurre. bouillon. cannelle. coriandre. cumin. huile d'olive. lentilles vertes. muscade. oignons. piments. riz basmati. tomates. vermicelles. vinaigre de cidre
-
+ail. coriandre. lentilles vertes. oignons. piment rouge. tomates en conserve
 ---
 
 # Feuilles de vigne farcies de Tamara
@@ -23565,8 +23100,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-cannelle. citron. clous de girofle. feuilles de vigne. huile d'olive. menthe. oignon. persil. pignons de pin. quatre-épices. raisins secs. riz rond. yaourt
-
+citrons. feuilles de vigne. menthe. oignons. persil. pistaches. raisins secs. yaourt
 ---
 
 # Soupe froide de poivrons rouges à la crème aigre
@@ -23610,8 +23144,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. basilic. bouillon. céleri. citron. crème aigre. cumin. huile d'olive. laurier. oignon. persil. piment. poivrons rouges. sauge. sucre
-
+ail. basilic. céleri. citrons. oignons. persil. piment. poivron rouge. sauge
 ---
 
 # Soupe aux lentilles rouges et aux bettes
@@ -23655,8 +23188,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. beurre. bettes. cannelle. citron. coriandre. cumin. graines de coriandre. huile d'olive. lentilles rouges. oignons rouges. pain au levain
-
+ail. bettes. citrons. coriandre. lentilles rouges. oignons rouges. pain au levain
 ---
 
 # Harira (agneau, pois chiches et épinards)
@@ -23702,8 +23234,7 @@ Ottolenghi. Cookbook. Pas testé. Viande
 
 ## Noms ingrédients
 
-agneau. bicarbonate. bouillon. citron. concentré de tomates. coriandre. cumin. épinards. gingembre. huile d'olive. oignon. pois chiches. safran. sucre. tomates
-
+agneau. citrons. concentré de tomate. coriandre. épinards. gingembre. oignons. pois chiches. tomates en conserve
 ---
 
 # Soupe à l'aubergine grillée et au citron
@@ -23737,8 +23268,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-aubergines. basilic. bouillon. citron. crème fraîche. huile de tournesol
-
+aubergines. basilic. citrons
 ---
 
 # Soupe de topinambours à la roquette
@@ -23773,8 +23303,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. bouillon. oignons nouveaux. œuf. roquette. topinambours. yaourt grec
-
+ail. oignons nouveaux. roquette. topinambours. yaourt grec
 ---
 
 # Carré d'agneau mariné à la coriandre et au miel
@@ -23812,8 +23341,7 @@ Ottolenghi. Cookbook. Pas testé. Viande
 
 ## Noms ingrédients
 
-ail. citron. gingembre. huile de tournesol. menthe. miel. persil. piments. sauce soja. vinaigre de vin rouge. agneau
-
+ail. citrons. gingembre. menthe. miel. persil. piment rouge. agneau
 ---
 
 # Côtelettes d'agneau et salade de noix, figues et fromage de chèvre
@@ -23867,9 +23395,7 @@ Ottolenghi. Cookbook. Pas testé. Viande
 
 ## Noms ingrédients
 
-agneau. ail. anis étoilé. cannelle. figues. fromage de chèvre. huile d'olive. menthe. miel. noix. orange. persil. romarin. thym. vinaigre de vin rouge
-
-
+agneau. ail. figues. fromage de chèvre. menthe. miel. noix. oranges. persil
 ---
 
 # Boulettes de bœuf et d'agneau au tahini
@@ -23915,8 +23441,7 @@ Ottolenghi. Cookbook. Pas testé. Viande
 
 ## Noms ingrédients
 
-agneau. ail. bœuf. cannelle. citron. huile d'olive. œuf. pain. persil. quatre-épices. tahini. vinaigre de vin blanc
-
+agneau. ail. bœuf. citrons. pain. persil. tahin
 ---
 
 # Keftas d'agneau entourés de courgette
@@ -23965,8 +23490,7 @@ Ottolenghi. Cookbook. Pas testé. Viande
 
 ## Noms ingrédients
 
-agneau. ail. basilic. cannelle. courgettes. feta. huile d'olive. muscade. œuf. pain. persil. pignons de pin. piment. quatre-épices. tomates
-
+agneau. ail. basilic. courgettes. feta. pain. persil. pistaches. piment. tomates en conserve
 ---
 
 # Filet de bœuf rôti et ses trois sauces
@@ -24029,8 +23553,7 @@ Ottolenghi. Cookbook. Pas testé. Viande
 
 ## Noms ingrédients
 
-ail. bœuf. coriandre. crème aigre. cresson. huile d'olive. huile de tournesol. moutarde. oignon. paprika. piment. raifort. roquette. tomates. yaourt grec
-
+ail. bœuf. coriandre. cresson. oignons. piment. raifort. roquette. tomates en conserve. yaourt grec
 ---
 
 # Poitrine de porc rôtie et ses deux condiments
@@ -24084,8 +23607,7 @@ Ottolenghi. Cookbook. Pas testé. Viande
 
 ## Noms ingrédients
 
-ail. anis étoilé. cannelle. gingembre. groseilles à maquereau. huile d'olive. moutarde. piment. plumes rouges. poitrine de porc. rhubarbe. romarin. sirop de fleurs de sureau. sucre. thym. vinaigre de vin rouge. vin blanc
-
+ail. gingembre. groseilles à maquereau. piment. radicchio. poitrine de porc. rhubarbe
 ---
 
 # Ragoût de queue de bœuf au potiron et à la cannelle
@@ -24135,8 +23657,7 @@ Ottolenghi. Cookbook. Pas testé. Viande
 
 ## Noms ingrédients
 
-ail. anis étoilé. bœuf. cannelle. carottes. citron. échalotes. huile d'olive. laurier. orange. persil. potiron. romarin. thym. tomates. vin rouge
-
+ail. bœuf. carottes. citrons. échalotes. oranges. persil. potiron. tomates en conserve
 ---
 
 # Poulet mariné à la harissa et salade de pamplemousses roses
@@ -24195,8 +23716,7 @@ Ottolenghi. Cookbook. Pas testé. Viande
 
 ## Noms ingrédients
 
-ail. anis étoilé. cannelle. carvi. citron. coriandre. cumin. huile d'olive. oignon rouge. pamplemousse rose. piments. poivron. poulet. roquette. sirop d'érable. yaourt grec
-
+ail. citrons. coriandre. oignons rouges. pamplemousse rose. piment rouge. poivron. poulet. roquette. yaourt grec
 ---
 
 # Poulet rôti au sumac, au zaatar et au citron
@@ -24236,8 +23756,7 @@ Ottolenghi. Cookbook. Pas testé. Viande
 
 ## Noms ingrédients
 
-ail. beurre. bouillon. cannelle. citron. huile d'olive. oignons rouges. persil. pignons de pin. poulet. quatre-épices. sumac. zaatar
-
+ail. citrons. oignons rouges. persil. pistaches. poulet. zaatar
 ---
 
 # Poulet rôti au safran, aux noisettes et au miel
@@ -24277,8 +23796,7 @@ Ottolenghi. Cookbook. Pas testé. Viande
 
 ## Noms ingrédients
 
-cannelle. citron. eau de rose. gingembre. huile d'olive. miel. noisettes. oignons. oignons nouveaux. poulet. safran
-
+citrons. gingembre. miel. noisettes. oignons. oignons nouveaux. poulet
 ---
 
 # Poulet rôti et salade aux trois riz
@@ -24326,9 +23844,7 @@ Ottolenghi. Cookbook. Pas testé. Viande
 
 ## Noms ingrédients
 
-citron. coriandre. huile d'olive. huile de sésame. menthe. oignon. oignons nouveaux. piments. poulet. riz basmati. riz brun. riz sauvage. roquette. sauce de poisson thaï
-
-
+citrons. coriandre. menthe. oignons. oignons nouveaux. piment rouge. poulet. roquette
 ---
 
 # Boulettes de dinde au maïs, sauce au poivron rôti
@@ -24375,8 +23891,7 @@ Ottolenghi. Cookbook. Pas testé. Viande
 
 ## Noms ingrédients
 
-ail. coriandre. cumin. dinde. huile d'olive. huile de tournesol. maïs. œuf. oignons nouveaux. pain. persil. piment. poivrons rouges. sauce au piment. vinaigre de cidre
-
+ail. coriandre. dinde. maïs. oignons nouveaux. pain. persil. piment. poivron rouge. piment rouge
 ---
 
 # Poitrine de dinde marinée au cumin, à la coriandre et au vin blanc
@@ -24412,8 +23927,7 @@ Ottolenghi. Cookbook. Pas testé. Viande
 
 ## Noms ingrédients
 
-ail. citron. coriandre. cumin. dinde. huile d'olive. menthe. persil. vin blanc
-
+ail. citrons. coriandre. dinde. menthe. persil
 ---
 
 # Magrets de canard grillés à l'orange sanguine et à l'anis étoilé
@@ -24451,8 +23965,7 @@ Ottolenghi. Cookbook. Pas testé. Viande
 
 ## Noms ingrédients
 
-anis étoilé. canard. cumin. fenouil. oranges sanguines. piments. vinaigre de xérès. vin rouge
-
+canard. fenouil. oranges sanguines. piment rouge
 ---
 
 # Cailles grillées et salade de moghrabieh
@@ -24506,8 +24019,7 @@ Ottolenghi. Cookbook. Pas testé. Viande
 
 ## Noms ingrédients
 
-ail. beurre. cailles. cannelle. cardamome. citron. coriandre. cumin. curcuma. gingembre. huile d'olive. menthe. miel. moghrabieh. oignon nouveau. persil. piment. quatre-épices
-
+ail. cailles. citrons. coriandre. gingembre. menthe. miel. moghrabieh. oignons nouveaux. persil. piment
 ---
 
 # Salade de fruits de mer au fenouil et au citron vert
@@ -24546,8 +24058,7 @@ Ottolenghi. Cookbook. Pas testé. Poisson
 
 ## Noms ingrédients
 
-ail. aneth. calmars. coriandre. citron vert. fenouil. gambas. grenade. huile d'olive. oignon rouge. persil. piment. sumac
-
+ail. aneth. calamars. coriandre. citrons verts. fenouil. gambas. grenade. oignons rouges. persil. piment
 ---
 
 # Maquereaux grillés et salsa d'olives vertes, de céleri et de raisins secs
@@ -24587,8 +24098,7 @@ Ottolenghi. Cookbook. Pas testé. Poisson
 
 ## Noms ingrédients
 
-câpres. céleri. huile d'olive. maquereau. miel. olives vertes. persil. raisins secs. vinaigre de xérès
-
+câpres. céleri. maquereau. miel. olives vertes. persil. raisins secs
 ---
 
 # Maquereaux grillés, pickles de patate douce et yaourt à la menthe
@@ -24650,8 +24160,7 @@ Ottolenghi. Cookbook. Pas testé. Poisson
 
 ## Noms ingrédients
 
-ail. anis étoilé. cannelle. carvi. citron vert. concombre. coriandre. cumin. fenouil. gingembre. huile d'olive. maquereau. menthe. paprika. patates douces. piment. sucre. tamarin. yaourt grec
-
+ail. citrons verts. concombres. coriandre. fenouil. gingembre. maquereau. menthe. patate douce. piment. tamarin. yaourt grec
 ---
 
 # Thon grillé en croûte de pistaches et salsa de papaye
@@ -24699,9 +24208,7 @@ Ottolenghi. Cookbook. Pas testé. Poisson
 
 ## Noms ingrédients
 
-citron. citron vert. concombre. gingembre. huile d'olive. mangue. moutarde. oignon rouge. papaye. piments. pistaches. sauce de poisson thaï. sucre. thon
-
-
+citrons. citrons verts. concombres. gingembre. mangue. oignons rouges. papaye. piment rouge. pistaches. thon
 ---
 
 # Aubergine grillée au tahini
@@ -24736,8 +24243,7 @@ Peut constituer un plat unique ou un condiment pour accompagner des légumes cru
 5. Prélever les graines de la grenade. Transférer dans un plat peu profond, parsemer de graines de grenade et arroser d'huile.
 
 ## Noms ingrédients
-aubergine. tahini. mélasse de grenade. citron. ail. persil. concombre. tomates cerise. grenade. huile d'olive
-
+aubergines. tahin. grenade. citrons. ail. persil. concombres. tomates cerise
 ---
 
 # Aubergine tricolore (et même plus)
@@ -24768,8 +24274,7 @@ Plat très italien revisité avec de la coriandre fraîche à la place du basili
 3. Pour servir, disposer les tranches d'aubergines sur un plat en les faisant se chevaucher légèrement. Couper la mozzarella en gros morceaux et les répartir sur les aubergines. Ajouter la salade de poivron par-dessus et terminer avec les feuilles de coriandre.
 
 ## Noms ingrédients
-aubergine. poivron jaune. tomates cerise. vinaigre de vin blanc. câpres. mozzarella. coriandre. huile d'olive
-
+aubergines. poivron jaune. tomates cerise. câpres. mozzarella. coriandre
 ---
 
 # Aubergines grillées, sauce au lait fermenté
@@ -24806,8 +24311,7 @@ Entrée rustique et raffinée à la fois. Servir avec un bon pain de campagne ou
 5. Au moment de servir, napper généreusement la chair des aubergines de sauce. Saupoudrer de zaatar, garnir de graines de grenade et de brins de thym citron. Terminer avec un filet d'huile d'olive.
 
 ## Noms ingrédients
-aubergine. thym citron. grenade. zaatar. huile d'olive. lait fermenté. yaourt grec. ail
-
+aubergines. grenade. zaatar. yaourt grec. ail
 ---
 
 # Aumônières de champignons sauvages
@@ -24841,8 +24345,7 @@ Faciles à réaliser et réjouissantes. Un moment de suspense quand les convives
 5. Laisser reposer 1 min avant de disposer dans les assiettes. Laisser les convives les ouvrir eux-mêmes.
 
 ## Noms ingrédients
-champignons sauvages. champignons de Paris. pommes de terre. ail. cerfeuil. estragon. huile d'olive. crème double. Ricard
-
+champignons. champignons de Paris. pomme de terre. ail. persil
 ---
 
 # Bánh xèo
@@ -24894,8 +24397,7 @@ Adaptation végétarienne d'une galette vietnamienne habituellement garnie de po
 5. Mettre 1 galette dans chaque assiette, répartir les légumes sur une moitié, arroser de sauce et rabattre l'autre partie. Napper de sauce.
 
 ## Noms ingrédients
-farine de riz. œufs. curcuma. lait de coco. citron vert. huile de sésame. cassonade. vinaigre de riz. sauce soja. gingembre. piment. ail. carotte. daikon. oignons verts. mange-tout. coriandre. basilic thaï. menthe. germes de mungo. champignons enoki
-
+noix de coco. citrons verts. gingembre. piment. ail. carottes. daïkon. oignons verts. coriandre. basilic. menthe. pousses de soja. champignons enoki
 ---
 
 # Beignets de poireaux
@@ -24946,8 +24448,7 @@ Recette d'inspiration turque. Ne pas se laisser impressionner par la longue list
 5. Servir bien chaud avec la sauce à part.
 
 ## Noms ingrédients
-poireaux. échalotes. piment rouge. persil. coriandre. cumin. curcuma. cannelle. sucre. œufs. farine. levure. lait. beurre. huile d'olive. yaourt grec. crème aigre. ail. citron
-
+poireau. échalotes. piment rouge. persil. coriandre. yaourt grec. ail. citrons
 ---
 
 # Boulettes de panais en bouillon
@@ -24992,8 +24493,7 @@ Le secret d'un bouillon végétarien au goût profond : ajouter des pruneaux. Le
 4. Verser le bouillon chaud dans des bols, ajouter les boulettes, parsemer de persil et servir immédiatement.
 
 ## Noms ingrédients
-carottes. céleri. oignon. céleri-rave. ail. thym. persil. poivre. laurier. pruneaux. huile d'olive. pomme de terre. panais. beurre. farine. semoule. œufs
-
+carottes. céleri. oignons. céleri-rave. ail. persil. pruneaux. pomme de terre. panais. semoule
 ---
 
 # Chakchouka
@@ -25029,8 +24529,7 @@ Plat d'Afrique du Nord aux multiples variantes. Une des meilleures recettes pour
 3. Retirer les feuilles de laurier. Répartir dans 4 poêlons. Réchauffer sur feu moyen, faire 2 trous dans la garniture de chaque poêlon et casser délicatement 1 œuf dans chaque trou. Saler, couvrir hermétiquement et laisser cuire à tout petit feu 10 à 12 min. Parsemer de coriandre et servir.
 
 ## Noms ingrédients
-cumin. oignons. poivrons rouges. poivrons jaunes. sucre muscovado. laurier. thym. persil. coriandre. tomates. safran. Cayenne. œufs. huile d'olive
-
+oignons. poivron rouge. poivron jaune. persil. coriandre. tomates en conserve
 ---
 
 # Champignons farcis au taleggio
@@ -25065,8 +24564,7 @@ Le taleggio, fromage au lait de vache du nord de l'Italie, est merveilleusement 
 5. Disposer sur les assiettes, arroser d'huile, parsemer du reste de basilic et servir immédiatement.
 
 ## Noms ingrédients
-champignons de Paris. oignon. céleri. tomates séchées. ail. parmesan. estragon. basilic. taleggio. huile d'olive
-
+champignons de Paris. oignons. céleri. tomates séchées. ail. parmesan. basilic. taleggio
 ---
 
 # Champignons marinés aux noix, sauce au tahini
@@ -25104,9 +24602,7 @@ Plat polyvalent : avec quelques feuilles d'endive pour un repas complet, en réc
 4. Mettre les fèves avec les champignons marinés, ajouter les noix et le cumin, mélanger. Goûter et rectifier. Servir dans des bols avec 1 cuil. de sauce au tahini et parsemer d'herbes.
 
 ## Noms ingrédients
-vinaigre de vin blanc. sirop d'érable. citron. champignons bruns. shimeji. yaourt grec. tahini. ail. fèves. noix. cumin. aneth. origan. huile d'olive
-
-
+citrons. champignons bruns. champignons shimeji. yaourt grec. tahin. ail. fèves. noix. aneth
 ---
 
 # Chou farci
@@ -25145,8 +24641,7 @@ Plat réconfortant qui marie les traditions culinaires arabe et turque, mélange
 5. Parsemer du reste de parmesan, remettre 10 min au four pour faire fondre et dorer le fromage. Laisser reposer 5 min avant de servir.
 
 ## Noms ingrédients
-beurre. vermicelles. riz basmati. chou blanc. pignons de pin. ricotta. parmesan. menthe. persil. ail. vin blanc. bouillon de légumes. sucre. huile d'olive
-
+chou blanc. pistaches. ricotta. parmesan. menthe. persil. ail
 ---
 
 # Chou-fleur au safran
@@ -25177,8 +24672,7 @@ Le chou-fleur est un légume merveilleusement polyvalent, beaucoup plus que le b
 3. Sortir du four, retirer le papier d'aluminium et laisser refroidir un peu avant d'incorporer le persil. Goûter et rectifier l'assaisonnement. Servir chaud ou à température ambiante.
 
 ## Noms ingrédients
-safran. chou-fleur. oignon rouge. raisins de Smyrne. olives vertes. huile d'olive. laurier. persil
-
+chou-fleur. oignons rouges. raisins de Smyrne. olives vertes. persil
 ---
 
 # Chou-fleur, frittata à la mozzarella fumée
@@ -25212,8 +24706,7 @@ La scamorza affumicata est un fromage italien proche de la mozzarella qui fond m
 5. Sortir du four, laisser reposer 2 à 3 min avant de découper en portions. Servir immédiatement.
 
 ## Noms ingrédients
-chou-fleur. œufs. crème fraîche. moutarde de Dijon. paprika fumé. ciboulette. scamorza affumicata. cheddar. huile d'olive
-
+chou-fleur. ciboulette. scamorza affumicata. cheddar
 ---
 
 # Choux de Bruxelles sautés au tofu
@@ -25251,8 +24744,7 @@ Sans doute l'une des meilleures manières d'accommoder le rebarbatif chou de Bru
 5. Retirer la poêle du feu, y transférer le contenu du saladier. Arroser de marinade, ajouter la moitié des feuilles de coriandre. Mélanger et laisser refroidir légèrement. Incorporer le reste d'huile de sésame. Servir chaud, parsemé de graines de sésame et du reste de coriandre.
 
 ## Noms ingrédients
-sauce piment doux. sauce soja. huile de sésame. vinaigre de riz. sirop d'érable. tofu ferme. choux de Bruxelles. oignons verts. piment rouge. champignons shiitakés. coriandre. graines de sésame. huile de tournesol
-
+piment vert. tofu ferme. choux de Bruxelles. oignons verts. piment rouge. champignons shiitaké. coriandre
 ---
 
 # Courge rôtie aux épices douces, citron vert et piment
@@ -25288,8 +24780,7 @@ L'une des recettes les plus légères pour commencer un repas. Le sel de Maldon 
 5. Disposer les tranches de courge refroidies sur un plat, arroser de sauce au yaourt. Garnir avec les tranches de citron vert et leur jus, les rondelles de piment et la coriandre. Servir aussitôt.
 
 ## Noms ingrédients
-citron vert. huile d'olive. courge butternut. cardamome. quatre-épices. yaourt grec. tahini. piment vert. coriandre. sel de Maldon
-
+citrons verts. courge butternut. yaourt grec. tahin. piment vert. coriandre
 ---
 
 # Courgettes farcies
@@ -25326,8 +24817,7 @@ Adaptation libre d'une spécialité turque. Servir froid, juste au-dessus de la 
 4. Laisser refroidir complètement avant de réserver au réfrigérateur. Garnir de persil haché au moment de servir.
 
 ## Noms ingrédients
-oignon. riz à grains courts. groseilles. pignons de pin. persil. menthe séchée. quatre-épices. cannelle. clous de girofle. citron. courgettes. sucre. huile d'olive
-
+oignons. groseilles. pistaches. persil. menthe. citrons. courgettes
 ---
 
 # Courgettes, salade aux noisettes
@@ -25359,8 +24849,7 @@ L'entrée la plus somptueuse de l'été, avec ou sans noisettes. Les noisettes f
 5. Dresser les courgettes sur un plat de service avant de les garnir de parmesan. Arroser d'huile de noisette et servir aussitôt.
 
 ## Noms ingrédients
-noisettes. courgettes. vinaigre balsamique. basilic. parmesan. huile de noisette. huile d'olive
-
+noisettes. courgettes. basilic. parmesan
 ---
 
 # Croquettes aux blettes, sauce à l'oseille
@@ -25399,8 +24888,7 @@ Le cascaval est un fromage de Roumanie au lait de brebis à la saveur légèreme
 5. Servir chaud ou à température ambiante avec la sauce à part.
 
 ## Noms ingrédients
-blettes. pignons de pin. cascaval. œufs. chapelure. huile végétale. huile d'olive. oseille. yaourt grec. ail. moutarde de Dijon
-
+blettes. pistaches. fromage de brebis. oseille. yaourt grec. ail
 ---
 
 # Croquettes d'aubergines
@@ -25442,8 +24930,7 @@ Servir en en-cas ou en entrée. L'aïoli à l'estragon peut être remplacé par 
 5. Détailler chaque boudin en morceaux de 5 cm (environ 20 croquettes). Verser l'huile de friture sur 1,5 cm de hauteur dans une poêle et faire chauffer. Faire frire les croquettes en plusieurs fois environ 3 min en les retournant pour qu'elles dorent uniformément. Égoutter sur du papier absorbant et servir chaud.
 
 ## Noms ingrédients
-aubergine. pommes de terre. œufs. feta. parmesan. chapelure. huile de tournesol. huile de colza. huile d'olive. ail. citron. estragon
-
+aubergines. pomme de terre. feta. parmesan. ail. citrons
 ---
 
 # Endives caramélisées au gruyère
@@ -25474,9 +24961,7 @@ Le gruyère, dont la saveur marquée se marie bien avec l'amertume de l'endive, 
 4. Enfourner 8 à 12 min jusqu'à ce que le fromage commence à bouillonner. Sortir du four, saupoudrer de chapelure et poivrer. Remonter la température à 200 °C et remettre au four 5 à 7 min jusqu'à ce que la chapelure soit bien dorée. Servir chaud.
 
 ## Noms ingrédients
-beurre. sucre. endives. thym. gruyère. chapelure. huile d'olive
-
-
+endives. gruyère
 ---
 
 # Galettes de patates douces
@@ -25516,8 +25001,7 @@ Inspirées des gâteaux de patates douces légendaires du café Orna et Ella à 
 5. Servir chaud ou tiède avec la sauce à part.
 
 ## Noms ingrédients
-patates douces. sauce soja. farine. sucre. oignons verts. piment rouge. beurre. yaourt grec. crème aigre. huile d'olive. citron. coriandre
-
+patate douce. oignons verts. piment rouge. yaourt grec. citrons. coriandre
 ---
 
 # Lasagnes aux champignons
@@ -25564,8 +25048,7 @@ Servir avec une salade de roquette et de tomates. Le liquide de trempage des cè
 7. Saupoudrer de parmesan, couvrir de papier d'aluminium (sans le poser directement) et enfourner 40 min. Retirer le papier et prolonger 10 min pour dorer le dessus. Laisser reposer 10 min avant de servir.
 
 ## Noms ingrédients
-cèpes séchés. beurre. thym. champignons frais. estragon. persil. échalote. farine. lait. ricotta. œufs. feta. gruyère. lasagnes vertes. fontina. parmesan
-
+cèpes séchés. champignons. persil. échalotes. ricotta. feta. gruyère. lasagnes vertes. fromage de chèvre. parmesan
 ---
 
 # Légumes pochés et mayonnaise aux câpres
@@ -25613,8 +25096,7 @@ La cuisson pochée revient à la mode, à juste titre. Les légumes ainsi cuisin
 4. Sortir délicatement les légumes avec des pinces et les disposer dans des assiettes creuses. Arroser éventuellement d'un peu de jus de cuisson. Garnir chaque assiette d'une belle cuillerée de mayonnaise et parsemer d'aneth. Le liquide de cuisson peut être conservé au réfrigérateur pour une nouvelle utilisation.
 
 ## Noms ingrédients
-carottes. fenouil. asperges vertes. courgettes. poireaux. aneth. vin blanc. citron. laurier. oignon. céleri. huile d'olive. huile végétale. œufs. vinaigre de vin blanc. moutarde de Dijon. câpres. ail
-
+carottes. fenouil. asperges. courgettes. poireau. aneth. citrons. oignons. céleri. câpres. ail
 ---
 
 # Lentilles aux aubergines grillées
@@ -25653,8 +25135,7 @@ Un plat délicieux pour un repas décontracté ou un dîner chic. Penser à piqu
 4. Transférer le mélange rôti sur les lentilles, ajouter les herbes ciselées et remuer délicatement. Goûter et rectifier. Répartir les lentilles dans les assiettes, déposer les aubergines grillées par-dessus et couronner d'1 cuil. de crème fraîche. Terminer avec un filet d'huile.
 
 ## Noms ingrédients
-aubergine. vinaigre de vin blanc. lentilles du Puy. carottes. céleri. laurier. thym. oignon. tomates cerise. cassonade. persil. coriandre. aneth. crème fraîche. huile d'olive
-
+aubergines. lentilles du Puy. carottes. céleri. oignons. tomates cerise. persil. coriandre. aneth
 ---
 
 # Mélange de salades aux radis et aux câpres
@@ -25690,8 +25171,7 @@ Salade verte pour ménager une pause à mi-repas, nettoyer le palais et éclairc
 3. Juste avant de servir, verser la vinaigrette sur la salade et mélanger délicatement. Ajouter les câpres.
 
 ## Noms ingrédients
-laitue romaine. laitue frisée. endive rouge. oignons verts. radis. tomates semi-séchées. câpres. ail. citron. huile d'olive. huile de colza
-
+laitue romaine. laitue frisée. endives rouges. oignons verts. radis. tomates semi-séchées. câpres. ail. citrons
 ---
 
 # Mixed grill de légumes, huile au persil
@@ -25727,8 +25207,7 @@ Les légumes grillés ont presque un goût de viande grâce aux puissants arôme
 5. Verser l'huile au persil sur les légumes chauds et remuer délicatement, puis laisser refroidir complètement. Goûter et rectifier. Pour servir, disposer les légumes et le fromage sur un plat.
 
 ## Noms ingrédients
-courgette. chou-rave. aubergine. manouri. huile d'olive. persil. ail. citron
-
+courgettes. chou-rave. aubergines. fromage de brebis. persil. ail. citrons
 ---
 
 # Nouilles soba aux aubergines et à la mangue
@@ -25766,8 +25245,7 @@ Ce plat est le ticket gagnant pour impressionner des invités. Le caractère raf
 5. Au moment de servir, ajouter le reste des herbes et mélanger de nouveau. Dresser dans des assiettes ou servir dans le saladier.
 
 ## Noms ingrédients
-vinaigre de riz. sucre. ail. piment rouge. huile de sésame. citron vert. aubergine. nouilles soba. mangue. basilic. coriandre. oignon rouge. huile de tournesol
-
+ail. piment rouge. citrons verts. aubergines. mangue. basilic. coriandre. oignons rouges
 ---
 
 # Oignons farcis
@@ -25803,8 +25281,7 @@ Une recette où la farce mène la danse. On peut imaginer une variante en nappan
 5. Enfourner 45 à 50 min jusqu'à ce que la farce bouillonne et que les oignons soient tendres et légèrement dorés (ajouter du bouillon s'ils sèchent avant la fin). Arroser d'un filet d'huile et servir chaud.
 
 ## Noms ingrédients
-beurre. bouillon de légumes. vin blanc. oignons. tomates. chapelure. feta. persil. huile d'olive. ail. oignons verts
-
+oignons. tomates en conserve. feta. persil. ail. oignons verts
 ---
 
 # Omelettes aux blettes et au safran
@@ -25838,8 +25315,7 @@ Les blettes, qui appartiennent à la famille de la betterave, sont vraiment fabu
 4. Disposer les omelettes dans un plat de cuisson légèrement huilé ou sur une plaque (ou garder au réfrigérateur pour servir plus tard). Juste avant de servir, préchauffer le four à 170 °C, enfourner les omelettes 5 à 8 min et servir dès qu'elles sont chaudes.
 
 ## Noms ingrédients
-pommes de terre. safran. blettes. citron. ail. œufs. lait. estragon. aneth. persil. crème fraîche. huile végétale
-
+pomme de terre. blettes. citrons. ail. aneth. persil
 ---
 
 # Pancakes verts au beurre de citron vert
@@ -25885,9 +25361,7 @@ Recette réconfortante, idéale pour le brunch accompagnée de pousses de salade
 5. Pour servir, empiler 3 pancakes dans chaque assiette et déposer sur le dernier 1 tranche de beurre citronné qui va fondre doucement.
 
 ## Noms ingrédients
-épinards. farine. levure. œufs. beurre. cumin. lait. oignons verts. piment vert. huile d'olive. citron vert. coriandre. ail. flocons de piment
-
-
+épinards. oignons verts. piment vert. citrons verts. coriandre. ail. piment rouge séché
 ---
 
 # Paella aux légumes
@@ -25931,8 +25405,7 @@ Utiliser de préférence du riz de Calasparra ou un autre riz à paella. Un bon 
 5. Ôter le papier. Répartir les olives et le persil sur la paella. Servir avec des quartiers de citron.
 
 ## Noms ingrédients
-oignon rouge. poivron rouge. poivron jaune. fenouil. ail. laurier. paprika fumé. curcuma. Cayenne. riz à paella. xérès. safran. bouillon de légumes. fèves. tomates cerise. artichauts. olives de Kalamata. persil. citron. huile d'olive
-
+oignons rouges. poivron rouge. poivron jaune. fenouil. ail. fèves. tomates cerise. artichauts. olives de Kalamata. persil. citrons
 ---
 
 # Panais et patates douces rôtis, vinaigrette aux câpres
@@ -25970,8 +25443,7 @@ Cette recette peut servir de base pour de nombreux mélanges de légumes rôtis.
 5. Verser cette vinaigrette sur les légumes dès leur sortie du four. Remuer bien, goûter et rectifier. Parsemer de graines de sésame et servir dans le plat de cuisson.
 
 ## Noms ingrédients
-panais. oignons rouges. thym. romarin. ail. patates douces. tomates cerise. citron. câpres. sirop d'érable. moutarde de Dijon. graines de sésame. huile d'olive
-
+panais. oignons rouges. ail. patate douce. tomates cerise. citrons. câpres
 ---
 
 # Patates douces rôties à la citronnelle et à la crème
@@ -26007,8 +25479,7 @@ Création de Claudine Boulstridge, bras droit de l'auteur pour ce livre. Les pat
 4. Au moment de servir, placer les morceaux de patates douces sur un grand plat. Parsemer de piment frais et de feuilles de coriandre. Présenter la sauce à part.
 
 ## Noms ingrédients
-patates douces. coriandre moulue. piment rouge. coriandre fraîche. huile d'olive. citronnelle. crème fraîche. citron vert. gingembre
-
+patate douce. piment rouge. coriandre. citronnelle. citrons verts. gingembre
 ---
 
 # Pizza à l'œuf, aux épinards et au pecorino
@@ -26042,8 +25513,7 @@ Inspirée du manakish libanais, un pain plat assaisonné au zaatar et garni de f
 5. Enfourner 12 à 15 min. Quand la croûte commence à dorer, sortir les pizzas et casser 1 œuf dans chaque puits. Étaler le blanc à la fourchette sur toute la surface en conservant le jaune entier. Saupoudrer de fleur de sel et enfourner de nouveau 5 min : les blancs doivent être figés et les jaunes encore liquides. Servir sur-le-champ.
 
 ## Noms ingrédients
-levure sèche. farine à pain. épinards. pecorino. sumac. zaatar. œufs. huile d'olive. fleur de sel
-
+épinards. pecorino. zaatar
 ---
 
 # Poêlée de champignons et œufs de cane pochés
@@ -26083,8 +25553,7 @@ Recette préférée pour égayer une soirée d'hiver. Peut se simplifier en supp
 5. Réchauffer le bouillon, ajouter tous les champignons, la crème aigre et la plupart des herbes hachées. Saler et poivrer. Répartir les croûtons dans les assiettes, ajouter les champignons. Garnir chaque assiette d'1 œuf poché, d'un peu d'herbes, d'un filet d'huile de truffe et d'un peu de poivre.
 
 ## Noms ingrédients
-cèpes séchés. champignons frais. pain au levain. ail. oignon. carotte. céleri. vin blanc. thym. œufs de cane. crème aigre. estragon. persil. vinaigre. huile de truffe. huile d'olive
-
+cèpes séchés. champignons. pain au levain. ail. oignons. carottes. céleri. œufs de cane. persil
 ---
 
 # Poireaux frits
@@ -26125,8 +25594,7 @@ Penser à toujours avoir des poivrons marinés dans le réfrigérateur pour parf
 5. Disposer 5 morceaux de poireaux frits dans chaque assiette, napper de sauce à la crème. Ajouter quelques lanières de poivron égouttées et quelques graines de coriandre ou grains de poivre rose de la sauce. Garnir d'oignons verts et servir aussitôt.
 
 ## Noms ingrédients
-poivron rouge. sucre. vinaigre de cidre. poivre rose. coriandre. cardamome. poireaux. crème fraîche. câpres. oignons verts. citron. huile d'olive. chapelure panko. œufs. huile de tournesol
-
+poivron rouge. coriandre. poireau. câpres. oignons verts. citrons
 ---
 
 # Poivrons marinés au pecorino
@@ -26161,8 +25629,7 @@ Le pain de campagne est l'accompagnement indispensable pour « saucer » l'assie
 3. Pour composer la salade : mélanger les herbes, le cresson, les poivrons égouttés, le pecorino et les câpres. Ajouter 1 cuil. à soupe d'huile d'olive et 1 cuil. à soupe (ou plus) de marinade. Goûter et rectifier.
 
 ## Noms ingrédients
-poivron rouge. poivron jaune. huile d'olive. vinaigre balsamique. sucre muscovado. thym. ail. persil. basilic. cresson. pecorino. câpres
-
+poivron rouge. poivron jaune. ail. persil. basilic. cresson. pecorino. câpres
 ---
 
 # Pousses de brocoli pourpre et nouilles de riz
@@ -26208,8 +25675,7 @@ On peut utiliser de la pâte de curry du commerce au lieu de préparer la pâte 
 4. Répartir les nouilles dans de grands bols préchauffés et garnir de brocolis chauds. Verser 3 à 4 cuil. à soupe de sauce sur et autour du brocoli. Terminer avec le basilic ou la coriandre et un trait de jus de citron vert.
 
 ## Noms ingrédients
-brocoli pourpre. oignon rouge. sucre de palme. feuilles de combava. lait de coco. nouilles de riz. huile de sésame. citron vert. basilic. coriandre. galanga. piment vert. citronnelle. ail. échalote. cumin. huile végétale
-
+brocoli. oignons rouges. feuilles de combava. noix de coco. citrons verts. basilic. coriandre. galanga. piment vert. citronnelle. ail. échalotes
 ---
 
 # Ragoût de blettes, pois chiches et tamarin
@@ -26253,9 +25719,7 @@ Le tamarin et les blettes apportent la pointe de vivacité qui casse la gravité
 7. Répartir le riz dans des bols peu profonds en formant un cratère au milieu. Assaisonner le ragoût avec le jus de citron et verser 1 louche dans chaque bol. Garnir de yaourt (facultatif), arroser d'huile et terminer par les feuilles de coriandre.
 
 ## Noms ingrédients
-tamarin. blettes. coriandre. oignon. carvi. concentré de tomate. tomates en conserve. sucre. pois chiches. citron. yaourt grec. coriandre fraîche. huile d'olive. riz. beurre
-
-
+tamarin. blettes. coriandre. oignons. concentré de tomate. tomates en conserve. pois chiches. citrons. yaourt grec
 ---
 
 # La ratatouille de Tamara
@@ -26295,8 +25759,7 @@ Recette de Tamara Meitlis, cuisinière émérite. Conseil indispensable : prépa
 4. Préchauffer le four à 200 °C. Avec l'écumoire, sortir délicatement les légumes et les étaler dans un grand plat à gratin sur une épaisseur de 2 à 3 cm. Arroser de liquide de cuisson et enfourner 30 min. À la sortie du four, les légumes doivent être fondants et le liquide presque totalement évaporé. Saupoudrer de coriandre ciselée et servir avec du riz blanc.
 
 ## Noms ingrédients
-huile de tournesol. oignons. ail. piment vert. poivrons rouges. courge butternut. panais. haricots verts. courgette. aubergine. pomme de terre. tomates. sucre. concentré de tomate. coriandre
-
+oignons. ail. piment vert. poivron rouge. courge butternut. panais. haricots verts. courgettes. aubergines. pomme de terre. tomates en conserve. concentré de tomate. coriandre
 ---
 
 # Salade de betteraves au yaourt, sauce au citron confit
@@ -26335,8 +25798,7 @@ En été, sur les marchés, on trouve de merveilleuses betteraves avec leurs feu
 4. Avant de servir, disposer les morceaux de betteraves dans un saladier, verser la sauce, ajouter l'aneth et l'oignon rouge. Saler et poivrer. Mélanger bien et rectifier. Ajouter le yaourt au dernier moment sans trop mélanger pour obtenir un effet marbré blanc et rouge.
 
 ## Noms ingrédients
-betteraves. aneth. oignon rouge. yaourt grec. poivrons jaunes. coriandre. tomates en conserve. ail. sucre. citron confit. persil. huile d'olive
-
+betteraves. aneth. oignons rouges. yaourt grec. poivron jaune. coriandre. tomates en conserve. ail. citron confit. persil
 ---
 
 # Salade de betteraves, d'oranges et d'olives noires
@@ -26369,8 +25831,7 @@ La saveur légèrement sucrée des betteraves s'accorde très bien avec l'acidit
 4. Incorporer le reste des ingrédients et mélanger délicatement. Goûter pour rectifier l'assaisonnement si nécessaire. Servir sans attendre.
 
 ## Noms ingrédients
-betteraves. oranges. endive rouge. oignon rouge. persil. olives noires. huile de colza. eau de fleur d'oranger. vinaigre de vin rouge
-
+betteraves. oranges. endives rouges. oignons rouges. persil. olives noires
 ---
 
 # Salade de broccolinis au sésame doux
@@ -26410,8 +25871,7 @@ Inspirée d'une délicieuse spécialité japonaise à base de haricots verts au 
 5. Pour le service : soit mélanger les légumes avec la coriandre et les graines de sésame et de nigelle avant de les arroser de sauce ; soit disposer les légumes et les feuilles de coriandre dans un plat, parsemer de graines et proposer la sauce à part dans un bol.
 
 ## Noms ingrédients
-broccolinis. haricots verts. mange-tout. coriandre. graines de sésame. nigelle. huile d'arachide. tahini. ail. tamari. miel. vinaigre de cidre. mirin
-
+broccolinis. haricots verts. coriandre. tahin. ail. miel
 ---
 
 # Salade de carottes à la marocaine
@@ -26451,8 +25911,7 @@ Il existe de très nombreuses variantes de cette salade, mais toutes comportent 
 3. Avant de servir, ajouter la coriandre. Goûter pour rectifier l'assaisonnement si nécessaire. Disposer la salade dans des bols, ajouter 1 cuil. de yaourt bien frais, arroser d'un filet d'huile et parsemer de feuilles de coriandre.
 
 ## Noms ingrédients
-carottes. oignon. sucre. ail. piment vert. oignon vert. clous de girofle. gingembre. coriandre. cannelle. paprika. cumin. vinaigre de vin blanc. citron confit. coriandre fraîche. yaourt grec. huile d'olive
-
+carottes. oignons. ail. piment vert. oignons verts. gingembre. coriandre. citron confit. yaourt grec
 ---
 
 # Salade de chou blanc et de chou-rave
@@ -26485,8 +25944,7 @@ Le meilleur emploi du chou-rave, le mal-aimé des paniers bio. Cette salade a un
 4. Transférer dans le saladier de service en conservant la plus grande partie du jus. Garnir avec les pousses d'alfalfa restantes et servir aussitôt.
 
 ## Noms ingrédients
-chou-rave. chou blanc. aneth. griottes séchées. citron. huile d'olive. ail. pousses d'alfalfa
-
+chou-rave. chou blanc. aneth. griottes séchées. citrons. ail. pousses d'alfalfa
 ---
 
 # Salade de courgettes aux noisettes
@@ -26518,8 +25976,7 @@ L'entrée la plus somptueuse de l'été, avec ou sans noisettes. Les noisettes f
 5. Dresser les courgettes sur un plat de service avant de les garnir de parmesan. Arroser d'huile de noisette et servir aussitôt.
 
 ## Noms ingrédients
-noisettes. courgettes. vinaigre balsamique. basilic. parmesan. huile de noisette. huile d'olive
-
+noisettes. courgettes. basilic. parmesan
 ---
 
 # Salade de cresson aux pistaches et à l'eau de fleur d'oranger
@@ -26553,8 +26010,7 @@ Idéale pour commencer ou finir un repas : avec les saveurs robustes ou rafraîc
 3. Juste avant de servir, verser la sauce sur la salade, ajouter les pistaches, remuer délicatement et servir immédiatement.
 
 ## Noms ingrédients
-cresson. basilic. coriandre. aneth. estragon. pistaches. huile d'olive. citron. eau de fleur d'oranger
-
+cresson. basilic. coriandre. aneth. pistaches. citrons
 ---
 
 # Salade de pommes de terre royales
@@ -26591,9 +26047,7 @@ La royale de Jersey est à son apogée au printemps et au début de l'été, sai
 6. Couper les œufs en deux avant de les incorporer délicatement. Parsemer de persil ciselé.
 
 ## Noms ingrédients
-œufs de caille. petits pois. pommes de terre. persil. pignons de pin. parmesan. ail. huile d'olive. vinaigre de vin blanc. oseille
-
-
+œufs de caille. petits pois. pomme de terre. persil. pistaches. parmesan. ail. oseille
 ---
 
 # Salade de quinoa et pain au levain grillé
@@ -26629,8 +26083,7 @@ Adaptation du classique fattouche libanais avec un pain au levain et du quinoa. 
 4. Remuer délicatement jusqu'à ce que tous les ingrédients soient bien mélangés. Goûter et rectifier l'assaisonnement si nécessaire.
 
 ## Noms ingrédients
-quinoa. pain au levain. tomates. concombre. oignon rouge. coriandre. menthe. persil. citron. vinaigre de vin blanc. ail. huile d'olive
-
+quinoa. pain au levain. tomates en conserve. concombres. oignons rouges. coriandre. menthe. persil. citrons. ail
 ---
 
 # Salade de topinambours rôtis au fromage de brebis et au basilic
@@ -26669,8 +26122,7 @@ Une salade complexe qui constitue à elle seule un repas. Elle s'articule autour
 5. Juste avant de servir, rincer la poêle, verser de l'huile d'olive sur 5 mm de hauteur et mettre sur feu moyen. Faire frire les tranches de fromage 2 min de chaque côté jusqu'à ce qu'elles soient bien brunes. Égoutter sur du papier absorbant. Disposer des feuilles d'endive dans les assiettes, répartir les topinambours, les tomates et le fromage frit, terminer avec encore quelques feuilles d'endive. Arroser d'huile au basilic et servir aussitôt.
 
 ## Noms ingrédients
-topinambours. citron. thym. tomates cerise. manouri. endive. huile d'olive. basilic. persil. ail
-
+topinambours. citrons. tomates cerise. fromage de brebis. endives. basilic. persil. ail
 ---
 
 # Salade douce pour l'hiver
@@ -26713,8 +26165,7 @@ Cette salade apporte de la couleur sur une table et égaie n'importe quel repas.
 3. Mettre les choux dans un saladier avec le reste des ingrédients de la salade, y compris les noix caramélisées. Verser la sauce et mélanger. Goûter et rajouter du sel si la salade est un peu fade. Servir aussitôt.
 
 ## Noms ingrédients
-noix de macadamia. beurre. sucre. flocons de piment. chou vert. chou rouge. mangue. papaye. piment rouge. menthe. coriandre. citron vert. citronnelle. sirop d'érable. huile de sésame. sauce soja. huile d'olive
-
+noix de cajou. piment rouge séché. chou vert. chou rouge. mangue. papaye. piment rouge. menthe. coriandre. citrons verts. citronnelle
 ---
 
 # Soufflés d'Halloween
@@ -26754,8 +26205,7 @@ La base de ce soufflé, sauf les blancs en neige, peut être préparée la veill
 5. Remplir les ramequins jusqu'à 1 cm du haut. Enfourner sur la grille préparée et faire cuire 10 à 14 min jusqu'à ce qu'ils soient dorés et bien levés. Mélanger la crème aigre et la ciboulette. Servir les soufflés dès qu'ils sont cuits avec la crème à part.
 
 ## Noms ingrédients
-courge. cassonade. noisettes. beurre. farine. lait. œufs. flocons de piment. marjolaine. fromage de chèvre. crème aigre. ciboulette. huile d'olive
-
+courge. noisettes. piment rouge séché. fromage de chèvre. ciboulette
 ---
 
 # Soupe à l'ail et à la harissa
@@ -26805,8 +26255,7 @@ Cette soupe a une saveur délicieusement douce. La harissa maison prend du temps
 3. Mixer grossièrement en gardant quelques morceaux. Verser dans des bols peu profonds, incorporer un peu de harissa et parsemer de coriandre hachée. Terminer avec 1 cuil. de yaourt (facultatif).
 
 ## Noms ingrédients
-échalotes. céleri. beurre. ail. gingembre. thym. vin blanc. safran. laurier. bouillon de légumes. persil. coriandre. yaourt grec. huile d'olive. poivron rouge. coriandre. cumin. carvi. oignon rouge. piments rouges. concentré de tomate. citron
-
+échalotes. céleri. ail. gingembre. persil. coriandre. yaourt grec. poivron rouge. oignons rouges. piment rouge. concentré de tomate. citrons
 ---
 
 # Soupe de chou frisé au parmesan
@@ -26841,8 +26290,7 @@ Cette recette permet de recycler les talons de parmesan dont on ne sait que fair
 5. Verser la soupe chaude dans des bols. Ajouter un peu de parmesan râpé si souhaité. Garnir avec les lanières de chou mi-cuit et des graines de carvi.
 
 ## Noms ingrédients
-oignon. ail. carvi. chou vert. pomme de terre. bouillon de légumes. parmesan. piment rouge. huile d'olive
-
+oignons. ail. chou vert. pomme de terre. parmesan. piment rouge
 ---
 
 # Soupe de légumes grillés
@@ -26877,8 +26325,7 @@ L'emploi de légumes grillés donne à cette soupe une saveur très prononcée. 
 4. Mixer la soupe jusqu'à obtenir une consistance lisse, puis incorporer les haricots. Goûter et rectifier. Servir bien chaude avec le yaourt (ou du citron) et le reste du basilic.
 
 ## Noms ingrédients
-aubergine. poivrons rouges. tomates. oignons rouges. basilic. origan. ail. bouillon de légumes. haricots blancs. yaourt grec. citron. huile d'olive
-
+aubergines. poivron rouge. tomates en conserve. oignons rouges. basilic. ail. haricots blancs. yaourt grec. citrons
 ---
 
 # Soupe de tomates et semoule à la coriandre
@@ -26915,9 +26362,7 @@ Inspirée d'une recette du chef israélien Rafi Cohen, elle-même inspirée par 
 3. Avant de servir, ajouter de l'eau si la soupe semble trop épaisse. Goûter et ajuster sel, poivre, voire un trait de jus de citron. Verser dans les bols, garnir de yaourt si souhaité et terminer avec le reste de coriandre.
 
 ## Noms ingrédients
-oignon. céleri. coriandre. cumin. paprika. thym. coriandre fraîche. concentré de tomate. tomates. sucre. semoule. citron. yaourt grec. huile d'olive
-
-
+oignons. céleri. coriandre. concentré de tomate. tomates en conserve. semoule. citrons. yaourt grec
 ---
 
 # Tarte à l'ail caramélisé
@@ -26955,8 +26400,7 @@ Claudine, testeuse des recettes du livre, a qualifié celle-ci de « meilleure r
 5. Baisser la température du four à 160 °C et enfourner la tarte. Laisser cuire 35 à 45 min jusqu'à ce que la garniture soit ferme et le dessus doré. Sortir du four et laisser refroidir un peu avant de démouler. Retailler au besoin les bords, parsemer de thym et servir chaud.
 
 ## Noms ingrédients
-pâte feuilletée. ail. vinaigre balsamique. sucre. romarin. thym. fromage de chèvre frais. tomme de chèvre. œufs. crème double. crème fraîche. huile d'olive
-
+ail. fromage de chèvre frais. tomme de chèvre
 ---
 
 # Tarte aux feuilles de vigne, aux herbes et au yaourt
@@ -26995,8 +26439,7 @@ Recette originaire de la partie turque de Chypre, découverte dans le Classic Tu
 5. Rabattre les feuilles de vigne sur la farce, puis terminer avec les feuilles restantes. Badigeonner avec le reste du mélange beurre-huile. Saupoudrer de chapelure et arroser de 1 cuil. à soupe d'huile. Enfourner 40 min jusqu'à ce que les feuilles soient croquantes et la chapelure dorée. Laisser reposer au moins 10 min. Couper des parts et servir tiède ou à température ambiante avec du yaourt.
 
 ## Noms ingrédients
-feuilles de vigne. échalotes. beurre. yaourt grec. pignons de pin. estragon. persil. aneth. menthe. citron. farine de riz. chapelure panko. huile d'olive
-
+feuilles de vigne. échalotes. yaourt grec. pistaches. persil. aneth. menthe. citrons
 ---
 
 # Tarte aux légumes grillés
@@ -27035,8 +26478,7 @@ Cette tarte, qui regorge de légumes grillés, est un vrai festival de saveurs m
 5. Fouetter les œufs et la crème avec sel et poivre. Verser délicatement sur les légumes sans recouvrir complètement les tomates et le fromage. Saupoudrer du reste du thym. Enfourner 35 à 45 min jusqu'à ce que l'ensemble soit cuit et doré. Laisser reposer au moins 10 min avant de casser l'excédent de pâte, démouler et servir.
 
 ## Noms ingrédients
-poivron rouge. poivron jaune. aubergine. patate douce. courgette. oignons. laurier. pâte brisée. thym. ricotta. feta. tomates cerise. œufs. crème double. huile d'olive
-
+poivron rouge. poivron jaune. aubergines. patate douce. courgettes. oignons. ricotta. feta. tomates cerise
 ---
 
 # Tarte Tatin surprise
@@ -27071,8 +26513,7 @@ Une tarte aux pommes de terre est un régal pour les amateurs de ce tubercule. S
 6. Préchauffer le four à 200 °C. Faire d'abord cuire la tarte 25 min, puis réduire la température à 180 °C et prolonger la cuisson 15 min environ pour que la pâte soit bien cuite. Retirer du four et laisser reposer 2 min. Poser un plat sur le moule et retourner la tarte d'un mouvement vif, puis retirer le moule. Servir chaud ou tiède.
 
 ## Noms ingrédients
-tomates cerise. pommes de terre. oignon. sucre. beurre. origan. fromage de chèvre. pâte feuilletée. huile d'olive
-
+tomates cerise. pomme de terre. oignons. fromage de chèvre
 ---
 
 # Tartines garnies aux œufs brouillés et piments fumés
@@ -27108,8 +26549,7 @@ Idéales pour un brunch, ces tartines reposent sur les chipotles, des piments ja
 5. Disposer les tartines sur des assiettes, garnir avec les œufs brouillés aux piments et parsemer de coriandre. Servir immédiatement avec de la crème aigre dessus ou à part.
 
 ## Noms ingrédients
-piments chipotles. pain au levain. beurre. huile d'olive. ail. oignons verts. tomates. œufs de cane. coriandre. crème aigre
-
+piment chipotle. pain au levain. ail. oignons verts. tomates en conserve. œufs de cane. coriandre
 ---
 
 # Tempura de légumes
@@ -27151,8 +26591,7 @@ Une recette idéale pour tous les légumes. Et extraordinairement délicieuse ! 
 5. Quand tous les légumes sont cuits, les présenter ensemble et servir la sauce à part.
 
 ## Noms ingrédients
-légumes de saison. Maïzena. farine. eau pétillante. huile de colza. nigelle. flocons de piment. huile de tournesol. cardamome. citron vert. piment vert. coriandre. sucre
-
+piment rouge séché. citrons verts. piment vert. coriandre
 ---
 
 # Tofu au poivre noir, échalotes et oignons verts
@@ -27189,8 +26628,7 @@ Une recette rapide et facile à préparer, mais tellement délicieuse qu'on la c
 4. Réchauffer les dés de tofu 1 min dans cette sauce, puis ajouter les oignons verts. Servir chaud avec du riz.
 
 ## Noms ingrédients
-tofu ferme. Maïzena. beurre. échalotes. piments rouges. ail. gingembre. sauce soja douce. sauce soja claire. sauce soja brune. sucre. poivre noir. oignons verts. huile végétale
-
+tofu ferme. échalotes. piment rouge. ail. gingembre. oignons verts
 ---
 
 # Tomato Party
@@ -27227,8 +26665,7 @@ Le principe de cette salade consiste à mélanger le plus de variétés de tomat
 4. Mélanger le couscous et la fregola sarda dans un grand saladier. Ajouter les herbes, l'ail, les tomates cuites avec leur jus, la tomate verte et les tomates cerise rouges. Mélanger très délicatement à la main. Rectifier l'assaisonnement (sel, poivre et huile d'olive si nécessaire).
 
 ## Noms ingrédients
-couscous. fregola sarda. tomates grappe. cassonade. vinaigre balsamique. tomates cerise jaunes. origan. estragon. menthe. ail. tomate verte. tomates cerise rouges. huile d'olive
-
+couscous. tomates grappe. tomates cerise. menthe. ail. tomate verte
 ---
 
 # Tomates farcies aux herbes
@@ -27262,8 +26699,7 @@ Entrée inspirée d'une recette provençale, rapide à préparer. Servir avec un
 4. Mettre les tomates dans un plat de cuisson graissé et les arroser légèrement d'un filet d'huile d'olive. Enfourner 35 à 45 min jusqu'à ce que les tomates soient tendres. Servir chaud ou tiède.
 
 ## Noms ingrédients
-tomates. oignon. ail. olives noires. panko. origan. persil. menthe. câpres. huile d'olive
-
+tomates en conserve. oignons. ail. olives noires. persil. menthe. câpres
 ---
 
 # Tomates-mozzarella
@@ -27298,8 +26734,7 @@ Une entrée toute simple et pourtant superbe. La seule difficulté : la qualité
 3. Couper les tomates en quartiers et les disposer dans le plat avec la mozzarella marinée. Arroser d'huile d'olive et servir.
 
 ## Noms ingrédients
-mozzarella di bufala. tomates. graines de fenouil. citron. basilic. origan. huile d'olive. huile de colza. ail. sel de Maldon
-
+mozzarella di bufala. tomates en conserve. citrons. basilic. ail
 ---
 
 # Vindaloo de patates douces et de pommes de terre
@@ -27344,8 +26779,7 @@ Cette délicieuse recette peut se préparer en grandes quantités, car elle se g
 4. Retirer le couvercle et laisser épaissir la sauce pendant 10 min. Servir chaud avec du riz et de la menthe ou de la coriandre.
 
 ## Noms ingrédients
-cardamome. cumin. coriandre. clous de girofle. curcuma. paprika. cannelle. échalotes. moutarde brune. fenugrec. feuilles de curry. gingembre. piment rouge. tomates. vinaigre de cidre. sucre. pommes de terre. poivrons rouges. patates douces. menthe. coriandre fraîche. huile végétale
-
+coriandre. échalotes. feuilles de curry. gingembre. piment rouge. tomates en conserve. pomme de terre. poivron rouge. patate douce. menthe
 ---
 
 # Œufs cocotte à la roquette et au piment
@@ -27378,9 +26812,7 @@ Une cuisine réconfortante, idéale pour un brunch dominical. Inspirée du Çilb
 5. Sortir les œufs du four, déposer 1 cuil. de yaourt au centre et napper de beurre pimenté fondu. Servir immédiatement.
 
 ## Noms ingrédients
-roquette. œufs. yaourt grec. ail. beurre. kırmızı biber. sauge. huile d'olive
-
-
+roquette. yaourt grec. ail. kırmızı biber. sauge
 ---
 
 # Endives aux noix et au roquefort
@@ -27418,8 +26850,7 @@ La crème fraîche parfumée au roquefort doit recouvrir intégralement les feui
 
 ## Noms ingrédients
 
-beurre. crème fraîche. endives. noix. pignons de pin. radicchio. roquefort
-
+endives. noix. pistaches. radicchio. roquefort
 ---
 
 # Salade douce-amère
@@ -27461,8 +26892,7 @@ Une salade tout en rouge, à la fois douce et amère, à base de radicchio, d'en
 
 ## Noms ingrédients
 
-endive rouge. graines de grenade. graines germées. grenade. huile d'olive. jus de citron. orange sanguine. pignons de pin. radicchio. ricotta. sirop d'érable
-
+endives rouges. grenade. citrons. oranges sanguines. pistaches. radicchio. ricotta
 ---
 
 # Salade de concombres à l'ail et au gingembre
@@ -27506,8 +26936,7 @@ Une alternative fraîche et légère à la crème fraîche ou au yaourt pour acc
 
 ## Noms ingrédients
 
-ail. concombres. gingembre. graines de coriandre. graines de sésame. huile de sésame. huile de tournesol. oignon rouge. sucre. vinaigre de riz
-
+ail. concombres. gingembre. oignons rouges
 ---
 
 # Artichauts au citron et aux herbes
@@ -27550,8 +26979,7 @@ Parfaits pour ouvrir un dîner léger en été. À savourer chauds ou à tempér
 
 ## Noms ingrédients
 
-ail. aneth. artichauts poivrade. citrons verts. estragon. huile d'olive. oignon. persil. petits pois. sucre
-
+ail. aneth. artichauts. citrons verts. oignons. persil. petits pois
 ---
 
 # Asperges, fenouil et betteraves au verjus
@@ -27589,8 +27017,7 @@ Le verjus, jus aigre de raisins verts, très populaire au Moyen Âge, est ici r�
 
 ## Noms ingrédients
 
-aneth. asperges vertes. betteraves. fenouil. huile de colza. pignons de pin. verjus
-
+aneth. asperges. betteraves. fenouil. pistaches. verjus
 ---
 
 # Fenouil caramélisé au caillé de chèvre
@@ -27630,8 +27057,7 @@ Le caillé de chèvre, crémeux et légèrement acide, se trouve au rayon frais 
 
 ## Noms ingrédients
 
-ail. aneth. beurre. caillé de chèvre. citron. fenouil. graines de fenouil. huile d'olive. sucre
-
+ail. aneth. fromage de chèvre. citrons. fenouil
 ---
 
 # Cœurs d'artichauts et fèves concassées
@@ -27675,8 +27101,7 @@ Hommage à la façon dont les Juifs d'Italie cuisinent les artichauts, en les fa
 
 ## Noms ingrédients
 
-ail. aneth. artichauts. chapelure panko. citrons. fèves. huile d'olive. menthe. œufs
-
+ail. aneth. artichauts. citrons. fèves. menthe
 ---
 
 # Gratin d'artichauts
@@ -27723,8 +27148,7 @@ Les cœurs d'artichauts surgelés permettent d'éviter un gros travail sans sacr
 
 ## Noms ingrédients
 
-artichauts. beurre. citrons. farine. huile d'olive. lait. oignons. parmesan. persil. ricotta. thym
-
+artichauts. citrons. oignons. parmesan. persil. ricotta
 ---
 
 # Gombos en sauce tomate au citron et à la coriandre
@@ -27769,8 +27193,7 @@ Ottolenghi. Plenty. Pas testé. Végé
 
 ## Noms ingrédients
 
-citron confit. coriandre. gombos. graines de coriandre. huile d'olive. jus de citron. olives noires. oignon. paprika. persil. piment rouge. poivrons rouges. sucre. tomates
-
+citron confit. coriandre. gombos. citrons. olives noires. oignons. persil. piment rouge. poivron rouge. tomates en conserve
 ---
 
 # Gaspacho vert
@@ -27819,9 +27242,7 @@ Une variante verte du classique espagnol, inspirée du tarator, soupe de concomb
 
 ## Noms ingrédients
 
-ail. basilic. céleri. concombres. épinards. noix. pain au levain. persil. piment vert. poivrons verts. sucre. vinaigre de xérès. yaourt grec
-
-
+ail. basilic. céleri. concombres. épinards. noix. pain au levain. persil. piment vert. poivron vert. yaourt grec
 ---
 
 # Asperges mimosa
@@ -27854,8 +27275,7 @@ Une des meilleures façons de cuisiner les asperges selon l'auteur : toute simpl
 
 ## Noms ingrédients
 
-asperges vertes. câpres. huile d'olive. œufs
-
+asperges. câpres
 ---
 
 # Asperges grillées à la feta
@@ -27890,8 +27310,7 @@ Les asperges sont simplement saisies sur un gril en fonte, ce qui permet de cons
 
 ## Noms ingrédients
 
-asperges. citron. feta. huile de colza. ricotta
-
+asperges. citrons. feta. ricotta
 ---
 
 # Vichyssoise d'asperges
@@ -27934,8 +27353,7 @@ Le moment idéal pour cette soupe froide, c'est le début de l'été, quand la s
 
 ## Noms ingrédients
 
-asperges. beurre. bouillon de légumes. citron. crème double. poireaux. pomme de terre. salicorne. sucre. yaourt grec
-
+asperges. citrons. poireau. pomme de terre. salicorne. yaourt grec
 ---
 
 # Mee goreng
@@ -27980,8 +27398,7 @@ Inspiré de la street food malaisienne, ce plat se réalise en quelques minutes 
 
 ## Noms ingrédients
 
-choy sum. citron. coriandre moulue. cumin. échalotes frites. germes de soja. haricots verts. huile d'arachide. laitue iceberg. nouilles aux œufs. oignon. pak-choï. sambal oelek. sauce soja. tofu
-
+pak choï. citrons. échalotes frites. pousses de soja. haricots verts. laitue iceberg. oignons. sambal oelek. tofu
 ---
 
 # Nouilles soba au wakamé
@@ -28035,8 +27452,7 @@ Les nouilles soba au sarrasin sont souvent servies froides avec un bouillon savo
 
 ## Noms ingrédients
 
-ail. coriandre. concombres. gingembre. graines de sésame. huile d'arachide. huile de sésame. jus de citron vert. menthe. nouilles soba. piment doux. piments rouges. radis germés. sauce au piment. sucre de palme. vinaigre de riz. wakamé
-
+ail. coriandre. concombres. gingembre. citrons verts. menthe. piment vert. piment rouge. radis germés
 ---
 
 # Burgers de fèves
@@ -28086,8 +27502,7 @@ Décortiquer les fèves (environ 30 min de travail) donne des burgers plus lisse
 
 ## Noms ingrédients
 
-ail. chapelure. citron. coriandre. curcuma. épinards. fèves. graines de coriandre. graines de cumin. graines de fenouil. huile d'olive. huile de tournesol. œufs. piment vert. pommes de terre
-
+ail. citrons. coriandre. épinards. fèves. piment vert. pomme de terre
 ---
 
 # Gado-gado
@@ -28144,8 +27559,7 @@ Une salade très complète qui peut constituer un plat à elle toute seule. La s
 
 ## Noms ingrédients
 
-ail. cacahuètes. chips de manioc. chou. citronnelle. concombre. coriandre. curcuma. eau de tamarin. échalotes. échalotes frites. galanga. germes de soja. haricots verts. lait de coco. œufs. paprika. pommes de terre. sambal oelek. sucre. tofu
-
+ail. cacahuètes. chips de manioc. chou. citronnelle. concombres. coriandre. tamarin. échalotes. échalotes frites. galanga. pousses de soja. haricots verts. noix de coco. pomme de terre. sambal oelek. tofu
 ---
 
 # Salade de haricots verts aux graines de moutarde et à l'estragon
@@ -28188,8 +27602,7 @@ Un bel équilibre entre la fraîcheur des haricots croquants et la subtile compl
 
 ## Noms ingrédients
 
-blettes. citron. estragon. graines de coriandre. graines de moutarde. graines de nigelle. haricots verts. huile d'olive. oignon rouge. piment rouge. petits pois. pois gourmands
-
+blettes. citrons. haricots verts. oignons rouges. piment rouge. petits pois. pois gourmands
 ---
 
 # Vermicelles de soja aux fèves edamame
@@ -28239,9 +27652,7 @@ Les fèves edamame (fèves de soja) s'intègrent bien dans la plupart des salade
 
 ## Noms ingrédients
 
-ail. coriandre. fèves edamame. galanga. gingembre. graines de sésame. huile d'arachide. huile de tournesol. jus de citron vert. menthe. oignons verts. piment rouge. pâte de tamarin. sucre de palme. tamari. vermicelles de soja
-
-
+ail. coriandre. édamamé. galanga. gingembre. citrons verts. menthe. oignons verts. piment rouge. tamarin
 ---
 
 # Soupe chaude de fèves au yaourt
@@ -28289,8 +27700,7 @@ Créée pour l'exposition florale de la Royal Horticultural Society à Hampton C
 
 ## Noms ingrédients
 
-ail. aneth. carotte. céleri. cerfeuil. citron. fèves. huile d'olive. laurier. œufs. oignon. persil. riz. thym. yaourt grec
-
+ail. aneth. carottes. céleri. persil. citrons. fèves. oignons. yaourt grec
 ---
 
 # Feuilletés aux lentilles du Puy
@@ -28339,8 +27749,7 @@ Ce plat rappelle un peu les vol-au-vent d'autrefois. Les lentilles, délicieuses
 
 ## Noms ingrédients
 
-ail. citron. coriandre. épinards. graines de coriandre. graines de cumin. huile d'olive. laurier. lentilles du Puy. menthe. œufs. oignon. pâte feuilletée. yaourt grec
-
+ail. citrons. coriandre. épinards. lentilles du Puy. menthe. oignons. yaourt grec
 ---
 
 # Houmous au foul
@@ -28392,8 +27801,7 @@ Inspiré du restaurant Abu Hassan à Jaffa, qui prépare l'un des meilleurs houm
 
 ## Noms ingrédients
 
-ail. bicarbonate de soude. cumin. fèves sèches. huile d'olive. jus de citron. œufs. oignon. paprika. persil. pois chiches. tahini
-
+ail. fèves sèches. citrons. oignons. persil. pois chiches. tahin
 ---
 
 # Pois chiches sautés au yaourt
@@ -28432,8 +27840,7 @@ Un plat tout simple et rapide à préparer, qui marie agréablement des ingrédi
 
 ## Noms ingrédients
 
-ail. blettes. carottes. coriandre. graines de carvi. huile d'olive. jus de citron. menthe. pois chiches. yaourt grec
-
+ail. blettes. carottes. coriandre. citrons. menthe. pois chiches. yaourt grec
 ---
 
 # Haricots poêlés à la feta, à l'oseille et au sumac
@@ -28478,8 +27885,7 @@ On peut remplacer l'oseille par des épinards et doubler alors la quantité de j
 
 ## Noms ingrédients
 
-ail. aneth. beurre. bicarbonate de soude. cerfeuil. feta. haricots de Lima. huile d'olive. jus de citron. oignons verts. oseille. piments rouges. sumac
-
+ail. aneth. persil. feta. haricots de Lima. citrons. oignons verts. oseille. piment rouge
 ---
 
 # Céleri-rave et lentilles aux noisettes et à la menthe
@@ -28521,8 +27927,7 @@ Un plat d'automne copieux. À servir chaud avec une salade de radis, concombre e
 
 ## Noms ingrédients
 
-céleri-rave. huile de noisette. huile d'olive. laurier. lentilles du Puy. menthe. noisettes. thym. vinaigre de vin rouge
-
+céleri-rave. lentilles du Puy. menthe. noisettes
 ---
 
 # Soupe de pois chiches aux tomates et aux croûtons
@@ -28573,8 +27978,7 @@ Une variante de la ribollita toscane, à mi-chemin entre la soupe et le ragoût.
 
 ## Noms ingrédients
 
-basilic. bouillon de légumes. carotte. céleri. concentré de tomate. fenouil. huile d'olive. laurier. origan. pain au levain. persil. pesto. pois chiches. sucre. thym. tomates en conserve. vin blanc
-
+basilic. carottes. céleri. concentré de tomate. fenouil. pain au levain. persil. pesto. pois chiches. tomates en conserve
 ---
 
 # Lentilles vertes aux asperges et au cresson
@@ -28617,8 +28021,7 @@ Un fromage de brebis un peu fort se marie très bien avec les lentilles. À serv
 
 ## Noms ingrédients
 
-ail. asperges vertes. citron. cresson. huile de noix. huile d'olive. lentilles vertes. pecorino. persil. vinaigre de vin rouge
-
+ail. asperges. citrons. cresson. lentilles vertes. pecorino. persil
 ---
 
 # Lentilles corail épicées au yaourt et au concombre
@@ -28675,8 +28078,7 @@ Une recette transmise par Helen Goh, une encyclopédie culinaire. Le mélange d'
 
 ## Noms ingrédients
 
-ail. asa fœtida. beurre. concombre. coriandre. cumin. curcuma. fenugrec. feuilles de curry. gingembre. graines de moutarde noire. huile d'olive. huile de tournesol. jus de citron vert. lentilles corail. oignon. paprika. piment vert. sucre. tomates. yaourt grec
-
+ail. concombres. coriandre. feuilles de curry. gingembre. citrons verts. lentilles corail. oignons. piment vert. tomates en conserve. yaourt grec
 ---
 
 # Lentilles de Castelluccio aux tomates et au gorgonzola
@@ -28725,9 +28127,7 @@ Les lentilles de Castelluccio (en Ombrie) sont de minuscules bijoux bruns à la 
 
 ## Noms ingrédients
 
-ail. aneth. cerfeuil. ciboulette. gorgonzola. huile d'olive. lentilles de Castelluccio. oignon rouge. persil. thym. tomates. velours de balsamique. vinaigre de vin rouge
-
-
+ail. aneth. persil. ciboulette. gorgonzola. lentilles de Castelluccio. oignons rouges. tomates en conserve
 ---
 
 # Socca
@@ -28770,8 +28170,7 @@ Inspirée d'une variante de la pissaladière découverte dans un petit restauran
 
 ## Noms ingrédients
 
-blancs d'œufs. crème fraîche. farine de pois chiche. huile d'olive. oignons blancs. thym. tomates cerise. vinaigre de vin blanc
-
+oignons blancs. tomates cerise
 ---
 
 # Salade d'avocats, de quinoa et de fèves
@@ -28812,8 +28211,7 @@ Une salade parfaite pour un brunch printanier. À accompagner simplement de pain
 
 ## Noms ingrédients
 
-ail. avocats. citrons. cumin. fèves. flocons de piment. huile d'olive. quinoa. radis. radis pourpre
-
+ail. avocats. citrons. fèves. piment rouge séché. quinoa. radis. radis pourpre
 ---
 
 # Riz au lait de coco, sambal de piments et gombos
@@ -28866,8 +28264,7 @@ Inspiré du nasi lemak, le plat national malaisien. Sa saveur est très relevée
 
 ## Noms ingrédients
 
-ail. citron vert. coriandre. eau de tamarin. échalotes. échalotes frites. feuilles de combava. gingembre. gombos. huile végétale. lait de coco. piments rouges. piments verts séchés. riz basmati. sucre
-
+ail. citrons verts. coriandre. tamarin. échalotes. échalotes frites. feuilles de combava. gingembre. gombos. noix de coco. piment rouge. piment vert
 ---
 
 # Risotto au citron et aux aubergines
@@ -28914,8 +28311,7 @@ Le bouillon est la clé de la réussite dans la préparation du risotto. Contrai
 
 ## Noms ingrédients
 
-ail. aubergines. basilic. beurre. bouillon de légumes. citron. huile d'olive. oignon. parmesan. riz à risotto. vin blanc
-
+ail. aubergines. basilic. citrons. oignons. parmesan
 ---
 
 # Salade de farro et de poivrons grillés
@@ -28963,8 +28359,7 @@ Le farro, variété de blé très ancienne et proche de l'épeautre, a un arôme
 
 ## Noms ingrédients
 
-ail. citron. farro. feta. huile d'olive. miel. olives noires. oignons verts. origan. paprika fumé. poivrons rouges. quatre-épices. thym
-
+ail. citrons. feta. miel. olives noires. oignons verts. poivron rouge
 ---
 
 # Riz à la vapeur aux herbes
@@ -29009,8 +28404,7 @@ Cette recette iranienne, appelée sabzi polo, accompagne généralement le poiss
 
 ## Noms ingrédients
 
-aneth. coriandre. crème aigre. huile de colza. huile d'olive. oignons verts. persil. pomme de terre. riz basmati. yaourt grec
-
+aneth. coriandre. oignons verts. persil. pomme de terre. yaourt grec
 ---
 
 # Galettes de blé et orge perlé aux champignons
@@ -29066,8 +28460,7 @@ Un plat très réconfortant grâce à la texture fondante de l'orge et des champ
 
 ## Noms ingrédients
 
-ail. beurre. beurre clarifié. cèpes. champignons bruns. citron confit. coriandre. farine complète. huile d'olive. jus de citron. levure. orge perlé. persil. shiitakés. thym. vin blanc. yaourt grec
-
+ail. cèpes. champignons bruns. citron confit. coriandre. citrons. persil. champignons shiitaké. yaourt grec
 ---
 
 # Salade d'orge et de grenade
@@ -29105,8 +28498,7 @@ Une recette spectaculaire et simple à préparer. Se marie très bien avec des p
 
 ## Noms ingrédients
 
-ail. aneth. céleri. feuilles de céleri. graines de grenade. huile d'olive. orge perlé. persil. quatre-épices. vinaigre de xérès
-
+ail. aneth. céleri. feuilles de céleri. grenade. persil
 ---
 
 # Kisir
@@ -29149,8 +28541,7 @@ Interprétation d'un plat traditionnel turc qui connaît de nombreuses variantes
 
 ## Noms ingrédients
 
-ail. boulgour. concentré de tomate. cumin. graines de grenade. huile d'olive. jus de citron. mélasse de grenade. menthe. oignons. oignons verts. persil. piments verts. tomates
-
+ail. boulgour. concentré de tomate. grenade. citrons. menthe. oignons. oignons verts. persil. piment vert. tomates en conserve
 ---
 
 # Riz à la cardamome, œufs pochés et yaourt
@@ -29200,9 +28591,7 @@ Une recette idéale pour gâter sa famille lors d'un brunch dominical. Tous les 
 
 ## Noms ingrédients
 
-ail. cardamome. coriandre. curcuma. feuilles de curry. graines de coriandre. huile d'arachide. jus de citron vert. œufs. oignons. persil. piments verts. riz basmati. vinaigre de vin blanc. yaourt grec
-
-
+ail. coriandre. feuilles de curry. citrons verts. oignons. persil. piment vert. yaourt grec
 ---
 
 # Pilaf de freekeh
@@ -29249,8 +28638,7 @@ Le freekeh est issu du blé vert dont on fait brûler les épis pour dégager la
 
 ## Noms ingrédients
 
-ail. beurre. bouillon de légumes. cannelle. coriandre. freekeh. huile d'olive. jus de citron. menthe. oignons. persil. pignons de pin. quatre-épices. yaourt grec
-
+ail. coriandre. citrons. menthe. oignons. persil. pistaches. yaourt grec
 ---
 
 # Le pilaf de boulgour d'Itamar
@@ -29290,8 +28678,7 @@ Riche en jolies surprises — les baies de poivre rose, les groseilles, les grai
 
 ## Noms ingrédients
 
-boulgour. ciboulette. concentré de tomate. graines de coriandre. groseilles. huile d'olive. oignons blancs. poivrons rouges. poivre rose. sucre
-
+boulgour. ciboulette. concentré de tomate. groseilles. oignons blancs. poivron rouge
 ---
 
 # Salade de riz à la mangue et à la noix de coco
@@ -29337,8 +28724,7 @@ Les mangues alphonso, en provenance d'Inde, sont de loin les meilleures. Leur sa
 
 ## Noms ingrédients
 
-basilic thaï. beurre. cacahuètes. citron. coriandre. copeaux de noix de coco. échalotes frites. huile d'arachide. mangue. menthe. noix de coco. oignons verts. piment rouge. poivron rouge. riz basmati. riz de Camargue. riz jasmin
-
+basilic. cacahuètes. citrons. coriandre. noix de coco déshydratée. échalotes frites. mangue. menthe. noix de coco. oignons verts. piment rouge. poivron rouge
 ---
 
 # Salade de quinoa au citron noir d'Iran
@@ -29381,8 +28767,7 @@ Les petits citrons noirs séchés (loomi) sont très employés dans la cuisine i
 
 ## Noms ingrédients
 
-ail. citron. citron noir d'Iran. feta. huile d'olive. jus de citron. menthe. oignons verts. origan. patates douces. quinoa. riz basmati. riz sauvage. sauge
-
+ail. citrons. citron noir d'Iran. feta. menthe. oignons verts. patate douce. quinoa. sauge
 ---
 
 # Raviolis au fromage de chèvre et au citron
@@ -29438,8 +28823,7 @@ Dans cette recette, la pâte est faite maison, mais en contrepartie, il n'y a pa
 
 ## Noms ingrédients
 
-blanc d'œuf. citrons. curcuma. estragon. farine. flocons de piment. fromage de chèvre. huile de colza. huile d'olive. œufs. poivre rose. semoule. tomme de chèvre
-
+citrons. piment rouge séché. fromage de chèvre. semoule. tomme de chèvre
 ---
 
 # Pappardelles croustillants
@@ -29485,8 +28869,7 @@ Pour obtenir une sauce crémeuse fluide (presque liquide), ajouter un peu d'eau 
 
 ## Noms ingrédients
 
-ail. brocoli. champignons de Paris. chapelure panko. citron. crème double. huile d'olive. laurier. pappardelle. persil. sucre. thym. vin blanc
-
+ail. brocoli. champignons de Paris. citrons. persil
 ---
 
 # Salade de pâtes et de courgettes frites
@@ -29530,8 +28913,7 @@ Hommage aux courgettes frites de la grand-mère de l'auteur, sa spécialité pou
 
 ## Noms ingrédients
 
-basilic. câpres. citron. courgettes. fèves edamame. huile d'olive. huile de tournesol. mozzarella di bufala. persil. strozzapreti. vinaigre de vin rouge
-
+basilic. câpres. citrons. courgettes. édamamé. mozzarella di bufala. persil
 ---
 
 # Semoule verte
@@ -29579,8 +28961,7 @@ Cette salade très saine est belle à regarder et encore meilleure à déguster.
 
 ## Noms ingrédients
 
-aneth. bouillon de légumes. couscous. cumin. estragon. huile d'olive. menthe. oignon. oignons verts. persil. piment vert. pistaches. roquette
-
+aneth. couscous. menthe. oignons. oignons verts. persil. piment vert. pistaches. roquette
 ---
 
 # Tagliatelles au safran et au beurre épicé
@@ -29636,8 +29017,7 @@ Le mariage des pâtes et d'un beurre aux arômes du Maroc peut sembler paradoxal
 
 ## Noms ingrédients
 
-beurre. cannelle. coriandre moulue. curcuma. échalotes. farine. flocons de piment. gingembre. huile d'olive. menthe. œufs. paprika. persil. pignons de pin. poivre de Cayenne. safran
-
+échalotes. piment rouge séché. gingembre. menthe. persil. pistaches. piment de Cayenne
 ---
 
 # Mon couscous « ultime »
@@ -29689,9 +29069,7 @@ Un couscous aux légumes rôtis avec potiron, carottes et panais, agrémenté d'
 
 ## Noms ingrédients
 
-abricots secs. badiane. beurre. bouillon de légumes. cannelle. carottes. citron confit. coriandre. couscous. curcuma. échalotes. flocons de piment. gingembre. harissa. huile d'olive. laurier. panais. paprika. pois chiches. potiron. safran
-
-
+abricots secs. carottes. citron confit. coriandre. couscous. échalotes. piment rouge séché. gingembre. panais. pois chiches. potiron
 ---
 
 # Polenta aux champignons et aux herbes
@@ -29734,8 +29112,7 @@ On trouve dans le commerce deux types de polenta : la polenta instantanée (pré
 
 ## Noms ingrédients
 
-ail. beurre. bouillon de légumes. cerfeuil. champignons. estragon. huile à la truffe. huile d'olive. parmesan. polenta. romarin. taleggio. thym
-
+ail. persil. champignons. parmesan. taleggio
 ---
 
 # Polenta de maïs doux
@@ -29782,8 +29159,7 @@ La polenta préparée avec du maïs frais rappelle les purées pour bébés : li
 
 ## Noms ingrédients
 
-aubergine. beurre. concentré de tomate. feta. huile végétale. maïs. origan. sucre. tomates. vin blanc
-
+aubergines. concentré de tomate. feta. maïs. tomates en conserve
 ---
 
 # Figues au basilic et au caillé de chèvre, vinaigrette à la grenade
@@ -29820,8 +29196,7 @@ Quand les figues sont mûres, elles offrent une saveur sucrée et une texture ri
 
 ## Noms ingrédients
 
-basilic. caillé de chèvre. échalote. figues. fromage de chèvre. huile d'olive. mélasse de grenade. moutarde de Dijon. roquette
-
+basilic. fromage de chèvre. échalotes. figues. grenade. roquette
 ---
 
 # Soufflés au fromage de chèvre et pêches pochées à la vanille
@@ -29873,8 +29248,7 @@ Inspiré d'un soufflé au fromage de chèvre servi en entrée au Launceston Plac
 
 ## Noms ingrédients
 
-beurre. blancs d'œufs. crème double. farine. fromage de chèvre. jaunes d'œufs. laurier. lait. noisettes. pêches. poivre noir. sucre. vanille. vin blanc
-
+fromage de chèvre. jaunes d'œuf. noisettes. pêches
 ---
 
 # Salade de coings au dolcelatte
@@ -29918,8 +29292,7 @@ Le coing, redoutablement coriace, exige une longue cuisson pour pouvoir être co
 
 ## Noms ingrédients
 
-citron. coings. cresson. dolcelatte. feuilles de salade. graines de moutarde. huile d'olive. laurier. mizuna. orange. pistaches. poivre noir. sucre. vinaigre de cidre. vin rouge
-
+citrons. coings. cresson. dolcelatte. oranges. pistaches
 ---
 
 # Crostinis aux poires
@@ -29961,8 +29334,7 @@ Inspiré du dicton toscan sur le mariage sublime de la poire et du fromage. Choi
 
 ## Noms ingrédients
 
-ail. cerfeuil. fromage de chèvre. huile d'olive. jus de citron. pain au levain. pignons de pin. poires. sucre
-
+ail. persil. fromage de chèvre. citrons. pain au levain. pistaches. poire
 ---
 
 # Salade aux dattes et au fromage de brebis turc
@@ -30002,8 +29374,10589 @@ Les fromages de brebis turcs sont disponibles dans les épiceries turques ou du 
 
 ## Noms ingrédients
 
-amandes. aneth. basilic. blettes. dattes medjool. fromage de brebis. huile d'olive. mélasse de grenade. mozzarella di bufala. ricotta. roquette
+amandes. aneth. basilic. blettes. dattes. fromage de brebis. grenade. mozzarella di bufala. ricotta. roquette
+---
+
+# Achar de chou aux haricots kilomètre et aux cacahuètes
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+L'achar est la version malaisienne du pickle — il a bercé toute l'enfance de Scully, qui en maîtrise la préparation grâce à ses tantes malaisiennes. La base aromatique se garde jusqu'à 3 mois au réfrigérateur, mais elle doit reposer au moins 24 h pour développer ses arômes (la sortir à température ambiante 2 h avant utilisation). Préparer la base la veille et ajouter haricots et cacahuètes au dernier moment. Les haricots kilomètre (jusqu'à 90 cm de long, légèrement sucrés) peuvent être remplacés par des haricots verts classiques. Les œufs pochés complètent très bien ce plat — réchauffer le chou avant d'ajouter les cacahuètes et les haricots si on les sert avec des œufs.
+
+## Ingrédients
+
+*Pour 4 à 6 personnes*
+
+- 1 petit chou pointu, paré, coupé en deux dans la longueur, feuilles finement émincées (600 g)
+- 7,5 cl d'huile de tournesol
+- 1 petit oignon, finement haché (120 g)
+- 2 petites branches de céleri, en petits dés (100 g)
+- 2 gros piments rouges, épépinés et émincés
+- ½ cuil. à café de curcuma moulu
+- 1 cuil. à café de cumin moulu
+- 1 cuil. à café de graines de céleri
+- ¼ de cuil. à café de clous de girofle moulus
+- ¼ de cuil. à café de cannelle moulue
+- ¼ de cuil. à café de quatre-épices moulu
+- 60 g de cassonade
+- 11 cl de vinaigre de cidre
+- 2 cuil. à soupe de graines de moutarde jaune
+- 10 g de feuilles de curry fraîches
+- 200 g de haricots kilomètre, parés et coupés en tronçons de 10 cm (ou haricots verts)
+- 60 g de cacahuètes sans la peau, grillées
+- 6 œufs pochés, pour servir (facultatif)
+- Sel de mer
+
+## Déroulé de la recette
+
+1. Mettre le chou dans un saladier avec 1 cuil. à soupe de sel. Mélanger et laisser reposer 30 min, puis rincer sous l'eau froide. Égoutter, sécher et réserver.
+
+2. Dans une grande casserole, chauffer 3 cuil. à soupe d'huile à feu moyen. Faire revenir l'oignon, le céleri et les piments 5 à 6 min en remuant. Ajouter curcuma, cumin, graines de céleri, clous de girofle, cannelle et quatre-épices, remuer 1 min, verser 10 cl d'eau. Sans cesser de mélanger, cuire encore 1 à 2 min pour obtenir une pâte. Incorporer le sucre et le vinaigre, ajouter le chou au bout de 1 min. Bien mélanger pour enrober le chou des épices, baisser le feu et laisser mijoter 25 min jusqu'à ce que le chou soit tendre (rester ~5 cl de liquide). Retirer du feu et réserver.
+
+3. Verser les 2 cuil. à soupe d'huile restante dans une petite poêle, chauffer à feu vif. Ajouter graines de moutarde et feuilles de curry, faire revenir 1 min jusqu'à ce que les feuilles soient craquantes et les graines commencent à éclater. Transférer sur l'achar de chou, remuer et laisser refroidir complètement.
+
+4. Porter de l'eau salée à ébullition. Blanchir les haricots 3 à 4 min pour qu'ils soient al dente. Égoutter, rafraîchir sous l'eau froide et sécher. Au moment de servir, mélanger avec le chou, ajouter la moitié des cacahuètes et ¾ de cuil. à café de sel. Présenter sur un plat ou répartir dans des assiettes, garnir du reste de cacahuètes. Si servi avec des œufs pochés, réchauffer le chou avant, répartir dans les assiettes et déposer un œuf sur chaque portion.
+
+## Noms ingrédients
+
+chou pointu. oignons. céleri. piment rouge. feuilles de curry. haricots verts. cacahuètes
+# Ananas rôti au tamarin et au piment, glace à la noix de coco
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Dessert. Végé
+
+## Commentaire
+
+Un hommage de Scully à ses vingt ans, à la piña colada et au Danks Street Depot, à Sydney — son adresse fétiche pour prendre un brunch. Un dessert inspiré des années 1980 et de ses saveurs de fruits exotiques cuits, revisité avec beaucoup de caractère.
+
+Vous pouvez acheter de la pâte de tamarin prête à l'emploi, mais il est recommandé de la fabriquer soi-même à partir de pulpe séchée. Pour faire 2 cuil. à soupe de pâte, faites tremper 30 g de pulpe de tamarin dans 6 cl d'eau pendant environ 30 min, en pressant de temps en temps pour que la pulpe se disperse dans le liquide. Passez dans un tamis fin et jetez les fibres.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 1 bel ananas, pelé et coupé en quartiers, sans le cœur (800 g)
+- 6 brins de basilic thaï, pour garnir (facultatif)
+
+### Crème glacée
+
+- 15 cl de crème fraîche épaisse
+- 40 cl de lait de coco
+- 25 cl de crème de noix de coco
+- 12 feuilles de kaffir fraîches
+- 1 bâton de cannelle, cassé en morceaux
+- 1 gousse de vanille, coupée en deux dans sa longueur, graines grattées et réservées
+- 5 cm de gingembre frais, pelé et émincé (40 g)
+- 2 jaunes d'œufs
+- 90 g de sucre en poudre
+- ½ cuil. à soupe de jus de citron vert
+
+### Sirop aux épices
+
+- 60 cl d'eau
+- 2 cuil. à soupe de pâte de tamarin (voir introduction)
+- 90 g de sucre en poudre
+- 1 gros piment rouge, épépiné et grossièrement haché
+- 16 clous de girofle
+- 1 gousse de vanille, coupée en deux dans la longueur, graines grattées et réservées
+
+---
+
+## Déroulé de la recette
+
+1. Commencez par préparer la crème glacée. Mettez la crème double, le lait de coco, la crème de coco, les feuilles de kaffir et la gousse de vanille dans une casserole. Faites chauffer à feu moyen pendant 6 à 7 min, jusqu'au point d'ébullition. Retirez du feu et laissez infuser 5 min.
+
+2. Mettez les jaunes d'œufs et le sucre dans un saladier, puis fouettez jusqu'à ce que le mélange blanchisse. Avec une louche, versez un peu de crème chaude par-dessus, en fouettant continuellement, jusqu'à ce que toute la crème soit incorporée. Essuyez la casserole avant d'y transvaser la crème anglaise pour la laisser cuire 15 min à feu moyen, en remuant continuellement (attention, si vous la laissez cuire trop longtemps, elle peut « tourner »). Retirez les feuilles de kaffir et la gousse de vanille, puis jetez-les. Laissez refroidir la crème 30 min avant de la placer dans une sorbetière, avec le jus de citron vert. Turbinez pendant 35 min environ, jusqu'à ce que la crème commence à prendre. Transférez-la dans un récipient en plastique froid et congelez. Vous la sortirez 5 min avant de servir.
+
+3. Préchauffez le four à 240 °C (th. 8).
+
+4. Pour le sirop aux épices, mettez tous les ingrédients dans une casserole, portez à ébullition, puis baissez le feu au minimum et laissez mijoter doucement pendant 5 min pour que les arômes se développent. Disposez les quartiers d'ananas sur une plaque de cuisson (30 x 22 cm), puis nappez-les de sirop. Enfournez pour 40 à 50 min, en badigeonnant l'ananas toutes les 10 min de sirop, jusqu'à ce qu'il soit bien caramélisé et cuit à cœur (piquez un quartier avec la pointe d'un couteau : la lame doit pénétrer facilement). Surveillez le niveau du liquide et ajoutez au besoin un peu d'eau. Sortez l'ananas du four et laissez-le refroidir pendant 5 min dans le sirop.
+
+5. Disposez un quartier d'ananas dans chaque assiette, arrosez avec ½ cuil. à café de sirop, parsemez de clous de girofle et de morceaux de cannelle prélevés dans le sirop, décorez de basilic thaï (facultatif), puis déposez 1 cuil. de crème glacée à côté.
+
+## Noms ingrédients
+
+ananas. basilic. citrons verts. noix de coco. feuilles de kaffir. gingembre. piment rouge. tamarin
+# Beignets de courgettes et manouri
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+Créés par Sarit Packer et John Meechan lors de l'ouverture de NOPI — d'abord au petit déjeuner, rapidement plébiscités au déjeuner et au dîner. Parfaits en repas léger, collation ou apéritif (faire alors des beignets plus petits : 1 cuil. à café bombée au lieu de 1 cuil. à soupe). Le manouri est un fromage grec au lait de brebis, ferme et crémeux, qui se prête bien à la friture — remplaçable par de la feta ou de l'halloumi. Pour des quenelles ovales comme au restaurant : utiliser deux cuillères à dessert plongées dans de l'eau chaude, frire 3 à 4 min dans 5 cm d'huile, puis terminer au four à 200 °C 5 min.
+
+## Ingrédients
+
+*Pour 4 ou 8 personnes (12 gros beignets ou 24 petits en collation)*
+
+**Beignets**
+- 3 courgettes moyennes, grossièrement râpées (580 g)
+- 2 petites échalotes, finement hachées (50 g)
+- 2 gousses d'ail, écrasées
+- Le zeste finement râpé de 2 citrons verts
+- 60 g de farine à levure incorporée
+- 2 œufs, légèrement battus
+- 2½ cuil. à café de coriandre moulue
+- 1½ cuil. à café de cardamome moulue
+- 150 g de manouri, cassé en morceaux de 1 à 2 cm
+- Environ 15 cl d'huile de tournesol, pour la friture
+- Sel de mer et poivre noir
+
+**Crème aigre aromatisée**
+- 20 cl de crème aigre
+- 5 g de coriandre fraîche, grossièrement hachée
+- ½ cuil. à café de cardamome moulue
+- Le zeste finement râpé de 1 citron vert
+
+## Déroulé de la recette
+
+1. Préparer la crème aigre aromatisée en mélangeant tous les ingrédients dans un bol, ajouter ¼ de cuil. à café de sel et du poivre. Bien mélanger. Réserver au réfrigérateur.
+
+2. Mettre les courgettes râpées dans une passoire, saupoudrer de 1 cuil. à café de sel. Laisser 10 min, presser pour éliminer la plus grande partie de l'eau de végétation (en laisser un peu). Transférer dans un saladier. Ajouter échalotes, ail, zeste de citron vert, farine, œufs, coriandre moulue et cardamome. Poivrer, battre pour obtenir une pâte homogène. Incorporer le fromage délicatement pour éviter qu'il s'écrase.
+
+3. Verser 2 à 3 mm d'huile dans une grande poêle et chauffer à feu moyen. Former 4 beignets (1 cuil. à soupe bombée par beignet), en les espaçant bien et en les aplatissant légèrement avec le dos d'une écumoire. Cuire 6 min en retournant une fois (dorés et croustillants sur les deux faces). Égoutter dans une assiette tapissée de papier absorbant. Répéter pour tous les beignets. Disposer 3 beignets par assiette et servir avec la crème aigre.
+
+## Noms ingrédients
+
+courgettes. échalotes. ail. citrons verts. coriandre. fromage de brebis
+# Beignets de ricotta, sauce aux mûres et sablé chocolaté
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Dessert. Végé
+
+## Commentaire
+
+Un dessert parfait pour finir en beauté un repas — son meilleur atout étant qu'il est possible d'anticiper sa confection. Le sablé chocolaté (appelé ainsi à cause de son apparence !), la sauce à la mûre, le sucre à l'anis et la pâte des beignets peuvent être préparés à l'avance — 2 jours pour la pâte et la sauce à la mûre, beaucoup plus pour le sablé et le sucre. Au dernier moment, vous n'aurez plus qu'à faire frire les beignets.
+
+Vous aurez plus de sablé que la quantité nécessaire pour la recette. Il se conserve 1 semaine dans un récipient hermétique. Il est délicieux sur une crème glacée ou des milk-shakes.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+### Beignets à la ricotta
+
+- 20 g de sucre glace
+- 100 g de farine
+- ½ cuil. à café de levure
+- ½ cuil. à café de farine de maïs
+- 500 g de ricotta ferme
+- Le zeste finement râpé de 2 grosses oranges
+- Les graines de 1 gousse de vanille
+- 2 œufs, plus 1 jaune
+- 45 cl d'huile de tournesol, pour la friture
+
+### Sauce aux mûres
+
+- 50 g de sucre en poudre
+- 700 g de mûres fraîches (ou surgelées)
+- 12 cl de sloe gin ou 9 cl de gin classique
+
+### Sablé chocolaté
+
+- 45 g de farine
+- 40 g de sucre en poudre
+- 30 g de poudre de cacao
+- 40 g de beurre doux, fondu
+- Sel de mer
+
+### Sucre anisé
+
+- 2 étoiles d'anis, finement moulues
+- 70 g de sucre en poudre
+
+---
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 150 °C (th. 5).
+
+2. Commencez par préparer le sablé chocolaté. Mélangez dans un bol la farine, la farine de maïs, le sucre, le cacao en poudre et ½ cuil. à café de sel. Mélangez, puis versez lentement le beurre fondu. D'abord avec une cuillère en bois, puis du bout des doigts, mélangez la préparation pour obtenir une sorte de crumble que vous étalez sur une plaque de cuisson tapissée de papier sulfurisé. Enfournez pour 15 à 20 min, en remuant une fois à mi-cuisson, jusqu'à ce que la consistance soit celle d'un biscuit friable. Le mélange va sans doute former une masse compacte, mais vous pourrez l'émietter une fois qu'il aura complètement refroidi. Réservez.
+
+3. Préparez maintenant la pâte à beignets : tamisez le sucre glace, la farine et la levure dans un saladier, puis ajoutez la ricotta, le zeste d'orange, les graines de vanille et ¼ de cuil. à café de sel, avant de mélanger avec une cuillère en bois. Mettez les œufs et le jaune supplémentaire dans un bol pour les fouetter vivement, jusqu'à ce que le mélange triple de volume — comptez environ 3 min avec un fouet électrique. Incorporez ces œufs battus à la première préparation, puis mettez la pâte au réfrigérateur pour 4 h au moins afin qu'elle épaississe. Elle se conservera 2 jours (à couvert).
+
+4. Pour confectionner la sauce aux mûres, mettez le sucre en poudre dans une petite casserole avec 2 cuil. à soupe d'eau. Portez à ébullition, en remuant pour que le sucre fonde complètement, puis laissez refroidir ce sirop. Mettez 500 g de mûres dans un blender et mixez pour former une purée. Passez le mélange dans un tamis fin pour retirer les graines, puis mettez le coulis dans un bol. Versez le sirop de sucre et le gin, mélangez et laissez au moins 1 h au réfrigérateur. (Cette sauce se sert très froide.)
+
+5. Mettez l'anis étoilé dans un bol moyen, ajoutez le sucre et réservez.
+
+6. Juste avant de faire cuire les beignets, préchauffez le four à 220 °C (th. 7-8).
+
+7. Dans une casserole moyenne, faites chauffer l'huile à feu moyen (la casserole ne doit pas être trop grande car il faut une hauteur d'huile de 3 cm pour faire cuire les beignets). Façonnez la pâte en boules grossières d'environ 50 g chacune : prélevez le mélange avec une cuillère et poussez-le dans l'huile chaude avec l'autre cuillère. Faites cuire les beignets quatre par quatre pour ne pas surcharger la poêle, en comptant 3 à 4 min de cuisson. Tournez-les constamment pour qu'ils dorent de toutes parts. Sortez-les avec une écumoire et égouttez-les sur du papier absorbant. Quand tous les beignets sont cuits, disposez-les sur une plaque à pâtisserie tapissée de papier sulfurisé et enfournez pour 8 min. Roulez-les encore chauds dans le sucre anisé.
+
+8. Répartissez la sauce aux mûres dans six bols peu profonds. Déposez les beignets chauds dans la sauce, saupoudrez avec 1 cuil. à café de sablé chocolaté et décorez avec les mûres réservées. Servez aussitôt.
+
+## Noms ingrédients
+
+mûres. oranges. ricotta
+# Bœuf en croûte de poivre et salade de fenouil au pecorino et à la truffe
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Viande
+
+## Commentaire
+
+Dans le monde singulier des plats NOPI, voici enfin une recette dont la préparation ne dépasse pas 15 min — mais il faut prévoir au moins 4 h (idéalement toute une nuit) pour la marinade. L'huile de truffe est un ingrédient essentiel chez NOPI, mais si sa saveur ne plaît pas, la remplacer par de l'huile d'olive vierge extra.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+**Viande**
+- 15 g de brins de thym, ciselés
+- 10 g de brins de romarin, ciselés
+- 1½ cuil. à soupe de grains de poivre noir, pilés en poudre fine
+- 1½ cuil. à soupe de grains de poivre rose, pilés en poudre fine
+- 1 kg d'aloyau de bœuf, dégraissé et coupé en 2 pièces d'environ 8 cm x 10 cm (900 g)
+- 2 cuil. à soupe de moutarde de Dijon
+- Sel de mer
+
+**Assaisonnement à la truffe**
+- 1 cuil. à soupe de moutarde de Dijon
+- 2 cuil. à soupe de jus de citron
+- 6 cl d'huile d'olive
+- 2 cuil. à soupe d'huile de truffe (facultatif)
+
+**Salade de fenouil**
+- 2 branches de céleri, coupées en tranches biseautées de 3 mm d'épaisseur (140 g)
+- 6 petits fenouils (ou 1 normal), coupé dans la hauteur en tranches de 3 mm (140 g)
+- 30 g de feuilles de persil
+- 100 g de pecorino, en fins copeaux
+
+## Déroulé de la recette
+
+1. Mélanger dans un bol thym, romarin, poivres et 2½ cuil. à café de sel. Glisser sous chaque morceau d'aloyau une grande feuille de film alimentaire. Badigeonner la viande de moutarde, saupoudrer uniformément du mélange aux herbes, envelopper chaque morceau bien serré dans le film alimentaire. Réfrigérer au moins 4 h (une nuit encore mieux).
+
+2. **Assaisonnement :** Mélanger moutarde et jus de citron dans un bol, incorporer au fouet les deux huiles. Émulsionner avec 1 cuil. à soupe d'eau mélangée à ⅓ de cuil. à café de sel. Réserver.
+
+3. Préchauffer le four à 270 °C. Mettre un grand plat de cuisson à chauffer dans le four. Sortir les morceaux de viande de leur emballage, les placer dans le plat chaud et rôtir 8 min à 260 °C, puis 12 à 14 min à 210 °C pour une viande saignante (prolonger pour bien cuite). Sortir du four, couvrir de papier aluminium et laisser reposer 5 min.
+
+4. Mélanger dans un saladier le céleri, le fenouil, le persil et le pecorino. Verser l'assaisonnement et remuer délicatement. Répartir dans les assiettes.
+
+5. Découper la viande en tranches perpendiculairement aux fibres et disposer dans les assiettes à côté de la salade. Servir sans attendre.
+
+## Noms ingrédients
+
+aloyau de bœuf. citrons. céleri. fenouil. persil. pecorino
+# Bœuf mariné rôti, kimchi au concombre et aux prunes
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Viande
+
+## Commentaire
+
+Plat né de l'amour commun de Scully et Yotam pour tout ce qui est fermenté. Le gochujang (pâte de piment rouge coréenne) se trouve en épiceries asiatiques ou sur Internet — son goût combine le piquant des piments à une saveur rappelant la pâte Marmite, grâce au soja fermenté et à la poudre de riz gluant. À défaut, mélanger 6 cl de sauce soja + 6 cl de sauce de poisson + 1 cuil. à café de sucre + 4 piments rouges finement hachés (laisser reposer plusieurs heures). Le kimchi doit mariner au moins 24 h, tout comme la viande. Pour une version express, acheter du kimchi prêt et ajouter quelques morceaux de pêches ou de prunes avant de servir.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+**Bœuf et marinade**
+- 140 g de pâte de piment rouge coréenne (gochujang)
+- 1 cuil. à soupe d'huile de tournesol
+- 1 cuil. à soupe de sauce soja claire
+- 1 cuil. à soupe de mirin
+- 4 gousses d'ail, écrasées
+- 4 cm de gingembre, pelé et râpé (35 g)
+- 1,5 kg d'aloyau de bœuf, dégraissé et coupé en pièces d'environ 6 cm x 6 cm x 12 cm (1,2 kg)
+- 1 cuil. à café de nanami togarashi (sept-épices japonais) ou une pincée de flocons de piments séchés
+- Sel de mer
+
+**Kimchi**
+- 2 concombres, épluchés et détaillés en rubans (600 g)
+- 2 cuil. à soupe de sucre en poudre
+- 3 carottes, épluchées et détaillées en rubans (220 g)
+- 1½ cuil. à soupe de sauce de poisson
+- 1½ cuil. à soupe de sauce soja claire
+- 2 cuil. à soupe de vinaigre de riz
+- 8 oignons verts, en julienne (100 g)
+- 6 gousses d'ail, émincées
+- 5 cm de gingembre, pelé et en julienne (50 g)
+- 20 g de coriandre, grossièrement hachée
+- 3 prunes ou 3 petites pêches, coupées en deux, dénoyautées, puis en lamelles de 5 mm (200 g)
+
+## Déroulé de la recette
+
+1. **Kimchi :** Mélanger dans un saladier tous les ingrédients sauf la coriandre et les prunes. Couvrir et laisser mariner au moins 24 h au réfrigérateur.
+
+2. **Marinade bœuf :** Dans un saladier, mélanger pâte de piment, huile de tournesol, sauce soja et mirin, puis ajouter ail et gingembre. Déposer le bœuf et enrober de pâte. Réfrigérer 24 h.
+
+3. Préchauffer le four à 210 °C.
+
+4. Sortir la viande à température ambiante au moins 1 h avant. La retirer de la marinade (réserver). Faire chauffer un gril à feu vif, saisir la viande 3 à 4 min en la retournant une fois. Transférer dans un plat tapissé de papier sulfurisé, badigeonner de marinade et enfourner 9 à 12 min (pour bien cuit, prolonger de 2 à 3 min). Sortir du four, couvrir de papier aluminium et laisser reposer 10 min avant de découper en tranches de 5 mm. Répartir dans les assiettes.
+
+5. Ajouter au kimchi les lamelles de prunes et la coriandre, mélanger, déposer 1 cuil. à côté de la viande. Saupoudrer de nanami togarashi et servir.
+
+## Noms ingrédients
+
+ail. gingembre. aloyau de bœuf. nanami togarashi. concombres. carottes. oignons verts. coriandre. prunes
+# Boulettes d'agneau, sauce au yaourt et aux bettes
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Viande
+
+## Commentaire
+
+Simple à réaliser, ce plat peut se préparer la veille — il est même meilleur réchauffé. La sauce chaude au yaourt est crémeuse sans être écœurante. Si elle caille, retirer les boulettes et incorporer au fouet 1 cuil. de bouillon ou de yaourt pour ré-émulsionner. Ne pas jeter les côtes claires des bettes : elles sont délicieuses émincées en salade ou simplement ébouillantées avec huile d'olive, zeste de citron, ail et flocons de piment. À défaut de bettes à carde, utiliser des épinards.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+**Boulettes**
+- 500 g d'agneau haché
+- 1 oignon moyen, râpé (100 g)
+- 2 gousses d'ail, écrasées
+- 1 œuf
+- 50 g de chapelure
+- 1 cuil. à café de cumin moulu
+- 1 cuil. à café de cannelle moulue
+- 1 cuil. à café de coriandre moulue
+- ½ cuil. à café de piment de la Jamaïque moulu
+- 15 g de persil, haché
+- 2 cuil. à soupe d'huile d'olive
+- Sel de mer et poivre noir
+
+**Sauce au yaourt et aux bettes**
+- 500 g de bettes à carde, feuilles séparées des tiges, feuilles émincées
+- 500 g de yaourt grec
+- 2 gousses d'ail, écrasées
+- 1 cuil. à soupe de fécule de maïs
+- 1 œuf
+- 30 cl de bouillon de volaille
+- 30 g de beurre doux
+- Sel de mer et poivre noir
+
+## Déroulé de la recette
+
+1. Mélanger tous les ingrédients des boulettes dans un saladier. Façonner environ 20 boulettes de 30 g chacune. Réfrigérer 30 min.
+
+2. Faire chauffer l'huile à feu vif dans une grande poêle et faire dorer les boulettes 5 à 6 min en les retournant. Réserver.
+
+3. Blanchir les feuilles de bettes 2 min dans l'eau bouillante salée, égoutter et presser pour enlever l'excès d'eau.
+
+4. Dans une casserole, fouetter le yaourt avec l'ail, la fécule et l'œuf. Verser le bouillon et porter à ébullition très doucement à feu moyen en remuant constamment, jusqu'à épaississement. Ajouter les bettes et les boulettes, laisser mijoter 10 min à feu doux. Incorporer le beurre, saler, poivrer et servir.
+
+## Noms ingrédients
+
+agneau haché. oignons. ail. coriandre. piment de la Jamaïque. persil. bettes. yaourt grec
+# Cailles caramélisées au miso et salsa de grenade et noix
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Viande
+
+## Commentaire
+
+Inspirée par une recette de Christina Tosi dans Lucky Peach — elle avait utilisé du miso brûlé dans une tarte à la banane si addictive qu'elle fut rebaptisée « Crack Pie ». Après tests, le miso brûlé fonctionne aussi bien en version salée que sucrée. Les cailles peuvent être remplacées par des cuisses de poulet désossées. La pâte de miso brûlé est préparée en avance (cuisson au four jusqu'à caramélisation).
+
+## Ingrédients
+
+*Pour 8 personnes (entrée) ou 4 personnes (plat)*
+
+**Miso brûlé**
+- 150 g de miso blanc, à température ambiante
+- 5 cl de mirin
+- 30 g de sucre brun clair
+- 2 cuil. à café de vinaigre de xérès
+- 40 g de beurre doux, à température ambiante
+
+**Cailles**
+- 2 cuil. à soupe d'huile de tournesol
+- 8 cailles entières désossées, en gardant les os des ailes (1,1 kg)
+- Sel de mer et poivre noir
+
+**Salsa de grenade et noix**
+- 150 g de grains de grenades
+- 70 g de noix, grillées et grossièrement hachées
+- 35 g de noix en saumure, rincées, pelées et finement hachées (facultatif)
+- 2 cuil. à café de mélasse de grenade
+- 2 cuil. à soupe de vinaigre de xérès Valdespino (ou autre marque de qualité)
+- 1 cuil. à soupe d'huile d'olive
+- 20 g de persil, ciselé
+
+## Déroulé de la recette
+
+1. Préchauffer le four à 150 °C.
+
+2. **Miso brûlé :** Avec une spatule souple, étaler la pâte miso en couche mince sur une plaque tapissée de papier sulfurisé. Enfourner 20 à 25 min jusqu'à teinte de caramel foncé (les bords sont bien brûlés, c'est normal). Retirer du four et laisser refroidir. Détacher le miso du papier en le cassant, transférer dans le bol d'un robot avec mirin, sucre, vinaigre, beurre et 1 cuil. à soupe d'eau. Mixer 5 min pour obtenir une pâte lisse aérée.
+
+3. **Salsa :** Mélanger dans un bol tous les ingrédients sauf le persil, ajouter ¼ de cuil. à café de sel et 3 cuil. à soupe d'eau. Remuer et réserver (le persil sera ajouté juste avant de servir).
+
+4. **Cailles :** Au dernier moment, préchauffer le four en position gril (au maximum). Saler et poivrer les cailles. Chauffer l'huile à feu vif dans une grande poêle, déposer les cailles côté peau en bas et les faire revenir 5 min en retournant une fois pour qu'elles colorent des deux côtés. Transférer dans un plat de cuisson recouvert de papier sulfurisé et napper de pâte au miso brûlé (1 cuil. à soupe sur chaque oiseau). Glisser sous le gril 1 à 2 min jusqu'à ce que la pâte commence à bouillonner et caraméliser.
+
+5. Incorporer le persil à la salsa. Servir aussitôt avec la salsa.
+
+## Noms ingrédients
+
+cailles. grenade. noix. persil
+# Coings pochés, gelée de framboise et coing, sabayon au mascarpone
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Dessert. Végé
+
+## Commentaire
+
+Difficile de trouver dessert plus adapté aux festivités qui entourent Noël ! Associer les dés de coings avec la gelée obtenue à partir de leur sirop de pochage met en valeur la saveur de ce fruit festif. On trouve aujourd'hui des variétés de coings qui peuvent cuire très rapidement, quand il fallait des heures avec les variétés anciennes. Le problème, c'est qu'ils ont perdu en saveur. Pour compenser, des aromates sont ajoutés dans le sirop de cuisson.
+
+Pour le coulis de framboises, il suffit d'écraser des framboises fraîches ou surgelées avant de les passer dans un tamis fin. Prévoyez de commencer la recette la veille pour que la gelée ait le temps de prendre. Servez ce dessert avec un biscotti ou un biscuit classique. Recette créée par John Meechan et Sarit Packer dès les débuts de NOPI.
+
+## Ingrédients
+
+*Pour 8 personnes*
+
+- 3 coings moyens (800 g en tout)
+- 30 g de pistaches, effilées ou hachées grossièrement (facultatif)
+- 12 cuil. à soupe de coulis de framboises (environ 12 framboises moyennes)
+
+### Sirop
+
+- 150 g de sucre en poudre
+- 3 cuil. à soupe de jus de citron
+- 8 étoiles d'anis
+- 15 gousses de cardamome, écrasées
+- 10 clous de girofle
+- 4 bâtonnets de cannelle
+- 6 cl de vinsanto (ou un autre vin doux)
+- 1 gousse de vanille, coupée en deux dans la longueur, graines grattées et réservées
+
+### Gelée
+
+- 5 feuilles de gélatine (12 x 7 cm, soit environ 9 g), trempées 3 min dans de l'eau froide
+- 12 cl de vinsanto (ou un autre vin doux)
+
+### Sabayon
+
+- 6 jaunes d'œufs
+- 90 g de sucre en poudre
+- 2 cuil. à soupe de jus de citron
+- 75 g de mascarpone, à température ambiante
+
+---
+
+## Déroulé de la recette
+
+1. Pelez les coings (gardez la peau) et coupez-les en quatre. Utilisez un couteau tranchant pour retirer le cœur, que vous réservez également. Placez les quartiers de coings dans un saladier, couvrez d'eau, ajoutez le jus de citron et réservez. Mettez les noyaux et la peau de coings dans une casserole, avec tous les ingrédients pour le sirop et 1 l d'eau. Portez à ébullition, puis laissez frémir 10 min à feu moyen, sans couvrir. Égouttez les quartiers de coings et ajoutez-les dans la casserole. Posez une assiette sur les coings pour les maintenir immergés et laissez mijoter 10 à 15 min à feu moyen, jusqu'à ce que les fruits soient tendres (ils ne doivent pas s'écraser). Retirez la casserole du feu et égouttez les coings dans un tamis pour récupérer le sirop de pochage dans un bol. Sortez les quartiers de coings du tamis et coupez-les en dés de 1,5 cm de côté. Réservez au réfrigérateur.
+
+2. Pour faire la gelée, remettez le sirop dans la casserole et faites-le réduire pendant 10 à 12 min à feu vif : il doit en rester 40 cl. Laissez-le refroidir un peu pendant 5 min (pour qu'il ne soit plus bouillant) avant de le transférer dans un bol moyen. Égouttez bien les feuilles de gélatine avant de les incorporer au sirop, en fouettant vigoureusement. Ajoutez le vinsanto et 12 cuil. à soupe de coulis de framboises. Remuez bien, puis versez le sirop dans un bol peu profond. Réservez la gelée au moins 4 h au réfrigérateur (toute une nuit, c'est encore mieux) pour qu'elle soit bien prise. Il vous faudra la sortir à température ambiante 1 h avant de servir pour qu'elle s'assouplisse un peu ; vous sortirez également les dés de coings, qui sont meilleurs quand ils ne sont pas trop froids.
+
+3. Confectionnez le sabayon juste avant de servir. Versez de l'eau dans une casserole moyenne jusqu'au tiers de sa hauteur. Portez à ébullition, puis placez un bol résistant à la chaleur au-dessus de la casserole : il doit être ajusté au récipient, sans toucher l'eau. Mettez les jaunes d'œufs dans le bol, avec le sucre et le vinsanto, puis fouettez constamment pendant 10 min au-dessus de l'eau frémissante, jusqu'à ce que le mélange soit épais et brillant. Hors du feu, incorporez le mascarpone en fouettant toujours.
+
+4. Répartissez les dés de coings dans 8 verres ou verrines. Détaillez la gelée en dés de 2 à 3 cm et disposez-en 1 cuil. sur les coings. Arrosez de sabayon (chaud ou à température ambiante) et d'un trait de coulis de framboises, puis décorez de pistaches (facultatif).
+
+## Noms ingrédients
+
+citrons. coings. framboises. mascarpone. pistaches
+# Coquelets cuits deux fois, sauce piment-gingembre, sel aux feuilles de kaffir
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Viande
+
+## Commentaire
+
+Plat signature de NOPI — les clients ne le laissent pas retirer du menu. La cuisson puis le repos dans un bouillon parfumé créent la surprise pour ceux qui trouvent les coquelets sans intérêt. Organisation nécessaire : le bouillon à l'asiatique doit être confectionné la veille pour que les coquelets puissent mariner toute la nuit (jusqu'à 3 jours possible — ils n'en sont que meilleurs). Le bouillon à l'asiatique est précieux : il peut être réutilisé plusieurs fois, ses saveurs se concentrent à chaque usage. Se conserve 3 mois au congélateur. Recette de Scully, créée à l'époque d'Ottolenghi Motcomb Street.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 1,2 litre de bouillon à l'asiatique
+- 4 coquelets, sans la dernière articulation des ailes et sans le bréchet, ouverts en papillon — ou des suprêmes de poulet avec la peau (1,8 kg)
+
+**Sauce piment-gingembre**
+- 1 cuil. à soupe d'huile d'arachide
+- 7 gousses d'ail, finement hachées (20 g)
+- 40 g de gingembre, épluché et finement râpé (30 g)
+- 8 piments rouges, épépinés et en petits dés
+- 20 g de sucre en poudre
+- 4 cl de vinaigre de riz
+
+**Sel aux feuilles de kaffir**
+- 8 feuilles de citron kaffir séchées moyennes (les fraîches ne se mixent pas facilement), tiges éliminées
+- 1 cuil. à café de sel de mer
+
+**Pour servir**
+- 1 citron vert, en quartiers
+
+## Déroulé de la recette
+
+1. Verser le bouillon dans une grande casserole et porter à ébullition. Écumer, puis plonger délicatement les coquelets côté peau vers le haut. Poser un disque de papier sulfurisé sur le bouillon, placer une assiette par-dessus pour maintenir les coquelets immergés. Baisser le feu et pocher 20 à 25 min (la chair entre cuisse et blanc doit être rose très pâle). Sortir les coquelets, laisser refroidir séparément coquelets et bouillon, puis remettre les coquelets dans le bouillon, couvrir et réfrigérer toute une nuit.
+
+2. **Sauce piment-gingembre :** Chauffer l'huile à feu doux dans une petite casserole, faire revenir l'ail et le gingembre 6 min en remuant. Ajouter les piments, cuire 12 min. Verser le sucre et caraméliser 2 min sans cesser de remuer. Déglacer au vinaigre de riz, cuire 4 min, ajouter 5 cl d'eau. Laisser épaissir la sauce 15 min en remuant de temps en temps (consistance d'une confiture épaisse). Saler et retirer du feu.
+
+3. **Sel aromatisé :** Mettre les feuilles de kaffir et le sel dans un moulin à épices, réduire en poudre, passer dans un tamis fin.
+
+4. Préchauffer le four à 210 °C. Sortir les coquelets de la marinade, laisser revenir à température ambiante 30 min. Tapisser un plat à rôtir (22 x 33 cm) de papier sulfurisé. Verser 25 cl de bouillon dans le plat, ajouter les coquelets en les retournant une fois pour les enrober. Enfourner 15 min en badigeonnant plusieurs fois avec le bouillon. Passer au gril pour dorer et croustiller la peau (surveiller attentivement).
+
+5. Verser le jus de cuisson dans une petite casserole et réduire 6 à 8 min pour obtenir 10 cl de sauce très épaisse.
+
+6. Disposer les coquelets dans les assiettes, arroser de jus réduit. Servir avec le sel aromatisé, la sauce piment-gingembre et des quartiers de citron vert.
+
+## Noms ingrédients
+
+coquelets. ail. gingembre. piment rouge. feuilles de kaffir. citrons verts
+# Côtes d'agneau fumées, purée d'aubergines, sauce jalapeño et pickle de chou-rave
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Viande
+
+## Commentaire
+
+Recette technique mais très impressionnante. Le fumage maison ne nécessite pas de matériel sophistiqué : beaucoup de papier aluminium, un plat à bords hauts (plus il est vieux, mieux c'est), une grille de refroidissement et un minuteur. Prévoir de commencer la veille pour faire mariner l'agneau. Le pickle peut être préparé en double et se garde jusqu'à un mois au réfrigérateur. Si on manque de temps, le pickle est facultatif. Les trois accompagnements (purée d'aubergine, sauce jalapeño, pickle) conviennent aussi pour d'autres recettes — sandwich à la viande de porc effilochée ou épaule d'agneau confite. Recette créée par Tom Catley, ex-chef d'Ottolenghi Upper Street.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+**Viande et marinade**
+- 50 g de brins de coriandre, grossièrement hachés
+- 3 gousses d'ail, écrasées
+- 3 cm de gingembre, grossièrement haché (20 g)
+- 1 oignon rouge moyen, grossièrement haché (140 g)
+- 2½ cuil. à soupe d'huile de tournesol
+- 2 carrés d'agneau de 6 côtes, parés — garder une fine couche de gras de 2 mm, légèrement incisée (1,2 kg)
+- 200 g de riz basmati (pour le fumage)
+- Sel de mer et poivre noir
+
+**Pickle de chou-rave**
+- 15 cl de vinaigre de riz
+- 10 cl de mirin
+- 1 cuil. à soupe de sucre en poudre
+- ¼ de cuil. à café de grains de poivre noir
+- ¼ de cuil. à café de clous de girofle
+- 2 étoiles d'anis entières
+- 1 chou-rave moyen, pelé, coupé en deux puis en quartiers de 5 mm d'épaisseur (200 g)
+
+**Purée d'aubergine**
+- 2 grosses aubergines (950 g)
+- 6 cl d'huile d'olive
+- 3 gousses d'ail, émincées
+- 2 cuil. à soupe de jus de citron
+- 2 cuil. à soupe de tahini
+- 1 cuil. à café de cumin moulu
+
+**Sauce jalapeño**
+- 4 piments jalapeño verts frais (110 g)
+- 10 g de câpres
+- 20 g de feuilles de coriandre
+- 1 cuil. à soupe de vinaigre de riz
+- 1 cuil. à soupe d'huile de tournesol
+
+## Déroulé de la recette
+
+1. **Marinade (la veille) :** Mixer dans un robot la coriandre, l'ail, le gingembre, l'oignon rouge et ½ cuil. à soupe d'huile en pâte lisse. Enduire les carrés d'agneau de cette marinade, couvrir et réfrigérer toute une nuit.
+
+2. **Pickle :** Dans une casserole, porter à ébullition le vinaigre de riz, le mirin, le sucre, le poivre, les clous de girofle, les étoiles d'anis et 1 cuil. à café de sel. Laisser frémir 3 à 4 min. Retirer du feu, laisser reposer 10 min. Verser sur le chou-rave dans un récipient en verre, couvrir et réfrigérer de préférence une nuit entière.
+
+3. **Purée d'aubergine :** Préchauffer le four à 210 °C. Couper les aubergines en deux, entailler la chair, disposer sur une plaque. Badigeonner d'huile d'olive, presser l'ail dans les fentes, saler. Rôtir 40 min jusqu'à ce que la chair soit très brunie. Récupérer la chair à la cuillère, mélanger avec jus de citron, tahini, cumin, le reste d'huile, sel et poivre. Réserver au chaud.
+
+4. **Sauce jalapeño :** Épépiner 2 piments et hacher grossièrement les 2 autres. Mixer tous les piments avec câpres, coriandre, vinaigre de riz, huile et 1 cuil. à café de sel jusqu'à obtenir une purée lisse. Réserver au réfrigérateur.
+
+5. **Fumage :** Sortir l'agneau du réfrigérateur. Tapisser un plat de cuisson (24 x 30 cm) avec deux couches de papier aluminium. Étaler le riz au fond et ajouter 6 cl d'eau. Frotter les carrés d'agneau pour enlever la marinade, disposer au-dessus du riz. Envelopper hermétiquement avec une grande quantité de papier aluminium. Faire chauffer 10 min à feu vif sur deux feux de cuisson (2-3 min pour la fumée, 7 min de fumage). Retirer des feux, attendre 5 min avant d'ouvrir. Transférer les carrés sur une planche (jeter le riz).
+
+6. **Service :** Préchauffer un gril à feu vif. Mélanger les côtes d'agneau avec le reste d'huile de tournesol, 2 cuil. à café de sel et poivre. Saisir 3 min en retournant à mi-cuisson. Dans chaque assiette, étaler 2 cuil. à café de sauce jalapeño, déposer la purée d'aubergine chaude, puis les côtelettes. Garnir de pickle de chou-rave.
+
+## Noms ingrédients
+
+agneau. coriandre. ail. gingembre. oignons rouges. chou-rave. aubergines. citrons. tahin. piment jalapeño. câpres
+# Crème glacée caramel-cacahuètes, sauce au chocolat et croquant aux cacahuètes
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Dessert. Végé
+
+## Commentaire
+
+Cette combinaison de caramel, de cacahuètes grillées et de sauce au chocolat n'est finalement rien de plus qu'un Snickers® glacé, mais nettement plus sophistiquée. Malgré son air de déjà-vu, il est encore plus incroyable que tout ce que vous pouvez imaginer !
+
+Si vous ne vous y êtes jamais essayé, réaliser un caramel est peut-être une étape qui vous décourage à l'avance. Pourtant, c'est très facile. Il vous suffit de rester très concentré pour surveiller que le sucre colore sans brûler. Vous devrez peut-être faire un ou deux essais avant de réussir, mais vos chances de devenir un pro du caramel restent élevées.
+
+Doublez les quantités pour la sauce au chocolat et le croquant. Ils se conservent bien et vous en aurez d'avance pour vos prochains desserts.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+### Crème glacée
+
+- 140 g de cacahuètes décortiquées (total avec croquant : 190 g)
+- 175 g de sucre en poudre
+- 65 cl de lait entier
+- 15 cl de crème fraîche épaisse
+- 1 cuil. à soupe de sirop de glucose
+- 7 jaunes d'œufs (120 g)
+- Sel de mer
+
+### Sauce au chocolat
+
+- 9 cl de crème fraîche épaisse
+- 1 cuil. à soupe de lait entier
+- 40 g de chocolat noir (70 % de cacao), haché grossièrement
+- 75 g de Nutella ou de chocolat au lait
+- 1 cuil. à café d'huile de noisette
+
+### Croquant aux cacahuètes
+
+- 50 g de cacahuètes décortiquées
+- 85 g de sucre en poudre
+- 10 g de beurre doux + un peu pour graisser le moule
+
+---
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 200 °C (th. 6-7).
+
+2. Commencez par préparer la crème glacée. Étalez toutes les cacahuètes (pour le croquant et la crème glacée, soit 190 g en tout) sur une plaque à pâtisserie et faites-les rôtir 12 à 15 min, jusqu'à ce qu'elles soient dorées. Réservez 50 g pour le croquant et placez les 140 g restants dans le bol d'un robot, avec 50 g de sucre et 1 cuil. à café de sel. Mixez pendant 4 à 5 min — faites-le pendant que les cacahuètes sont encore chaudes — pour former une pâte collante, puis réservez.
+
+3. Dans une casserole moyenne, faites chauffer à feu vif le lait et la crème pendant 4 min, jusqu'à atteindre l'ébullition. Réduisez aussitôt le feu, ajoutez la pâte de cacahuètes et fouettez pendant 1 à 2 min pour que la préparation soit homogène. Réservez au chaud.
+
+4. Dans une autre casserole, mélangez les 125 g de sucre restants, le sirop de glucose et 1 cuil. à soupe d'eau. Laissez cuire environ 6 à 8 min sans remuer, mais en agitant légèrement la casserole, jusqu'à obtention d'un caramel brun foncé. Retirez la casserole du feu et versez délicatement (attention aux projections brûlantes !) la crème aux cacahuètes, en fouettant constamment mais très précautionneusement (il est très important de retirer la casserole du feu, car le mélange va bouillonner).
+
+5. Mettez les jaunes d'œufs dans un saladier et ajoutez 1 cuil. à soupe de crème aux cacahuètes. Fouettez. Sans cesser de fouetter, incorporez progressivement la crème (en trois fois), jusqu'à obtention d'un mélange brillant et épais. Remettez la crème dans la casserole et faites-la chauffer 3 à 4 min à feu moyen, en remuant constamment avec une maryse, jusqu'à épaississement : la crème doit napper la maryse. Si vous avez un thermomètre de cuisson, la crème doit être à 85 °C. Retirez du feu, transférez dans un récipient et laissez refroidir. Réservez au réfrigérateur (ou dans un seau à glace si vous souhaitez accélérer le refroidissement).
+
+6. Versez la crème refroidie dans une sorbetière et turbinez pendant 30 à 35 min, puis transférez-la dans un récipient en plastique et congelez pour au moins 4 h. Pensez à sortir la glace 10 min avant de servir.
+
+7. Préparez la sauce au chocolat : versez la crème et le lait dans une casserole et portez à ébullition, puis retirez du feu. Placez le chocolat et le Nutella dans un bol avant de verser le mélange chaud, que vous fouettez jusqu'à obtention d'une sauce homogène. Ajoutez l'huile et une pincée de sel, sans cesser de fouetter. Réservez. (La sauce pourra être réchauffée ou servie à température ambiante.)
+
+8. Pour le croquant, graissez une plaque à pâtisserie. Mettez le sucre dans une casserole et laissez-le cuire 7 à 8 min à feu moyen, en agitant doucement la casserole, jusqu'à ce qu'il commence à caraméliser. Incorporez délicatement le beurre, puis augmentez le feu et mélangez doucement avec une cuillère en bois pendant 1 min, jusqu'à ce que tout le beurre soit fondu. Ajoutez les cacahuètes et brassez-les pour les enrober de caramel. Laissez cuire encore 30 s en remuant constamment, puis étalez le mélange sur la plaque à pâtisserie. Laissez durcir au moins 1 h, puis coupez en morceaux de 1 cm. Conservez dans un récipient hermétique.
+
+9. Déposez 3 cuillerées de crème glacée dans chaque bol et nappez de 2 cuil. à soupe de sauce au chocolat. Garnissez chaque portion avec 1 ½ cuil. à soupe de croquant et servez sans attendre.
+
+## Noms ingrédients
+
+cacahuètes. chocolat noir. jaunes d'œuf
+# Crème à la ricotta, compote de cassis et rhubarbe
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Dessert. Végé
+
+## Commentaire
+
+Prévoyez deux jours d'égouttage pour la ricotta avant de la servir. Pour le reste, la préparation de cette recette prend peu de temps et le résultat est merveilleux. Les rubans de rhubarbe, en particulier, sont très impressionnants, avec un effet « comme au restaurant », mais ils sont très faciles à réaliser malgré les apparences.
+
+Si vous ne trouvez pas de cassis, des mûres, des framboises, des prunes ou des fraises conviendront très bien pour ce dessert, à condition de les choisir bien mûrs et juteux.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 250 g de ricotta
+- 120 g de crème fraîche
+- Les graines de ½ gousse de vanille
+- 2 blancs d'œufs
+- 140 g de sucre en poudre
+- Sel de mer
+
+### Compote de cassis
+
+- 120 g de cassis frais ou surgelés
+- 40 g de sucre en poudre (inclus dans le total)
+
+### Rubans de rhubarbe
+
+- 1 tige moyenne de rhubarbe (80 g)
+
+---
+
+## Déroulé de la recette
+
+1. Mettez la ricotta, la crème fraîche et les graines de vanille dans un bol, puis battez la préparation avec un fouet manuel jusqu'à obtention d'une consistance lisse. Ajoutez une pincée de sel et réservez.
+
+2. Mettez les blancs d'œufs dans un autre bol pour les fouetter en neige ferme. Sans cesser de fouetter, incorporez 100 g de sucre pour obtenir des pics pointus, fermes et brillants. Incorporez cette meringue souple à la préparation à la ricotta, puis déposez le mélange au centre d'un carré de mousseline. Ramassez les côtés pour former une balle, attachez-les avec de la ficelle et suspendez la balle dans le réfrigérateur pour que le liquide s'égoutte. Pour cela, glissez une baguette dans la ficelle pour suspendre la balle au-dessus d'un récipient profond (la balle ne doit pas toucher le fond ni, par la suite, tremper dans le liquide qui s'écoule).
+
+3. Après 12 à 24 h d'égouttage, divisez la balle en 4 boules d'environ 75 g et placez chacune au centre d'une mousseline. Fermez la mousseline en tordant bien les angles, puis remettez les boules à égoutter au réfrigérateur (vous pouvez les suspendre sur une seule baguette pour gagner de la place). Laissez-les toute une nuit au frais, puis pressez une dernière fois dessus. Essuyez bien chaque boule avant de les sortir de leur mousseline.
+
+4. Remplissez un petit bol d'eau avec de la glace. Avec un épluche-légumes, prélevez de fins rubans de rhubarbe dans le sens de la longueur. Découpez chaque ruban en morceaux de 10 cm de long que vous déposez aussitôt dans l'eau glacée. Mettez le bol au réfrigérateur pour au moins 1 h, ce qui permettra aux rubans de rhubarbe de s'enrouler sur eux-mêmes. Égouttez et séchez délicatement, puis réservez.
+
+5. Pour la compote, mélangez dans une petite casserole le cassis, les 40 g de sucre restants et ½ cuil. à soupe d'eau. Portez à ébullition en remuant doucement pour faire dissoudre le sucre, puis retirez aussitôt la casserole du feu. Laissez refroidir 5 min. Réservez au réfrigérateur.
+
+6. Pour servir, placez une boule de ricotta au centre de chaque assiette et versez la compote de cassis par-dessus. Placez les lanières de rhubarbe à côté et servez.
+
+## Noms ingrédients
+
+cassis. rhubarbe. ricotta
+# Croquettes de bœuf et coleslaw à l'asiatique
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Viande
+
+## Commentaire
+
+Plat signature de NOPI dès l'ouverture — les clients ont protesté quand il a été retiré temporairement. La poitrine de bœuf demande du temps mais rien de technique. Avec un minimum d'organisation (préparer à l'avance le bouillon et la viande), c'est faisable. Les boulettes se congèlent très bien. Demander à son boucher la pointe de poitrine, très riche en gras, donc très goûteuse. Le coleslaw est excellent en plus grande quantité pour garnir des sandwichs ou en entrée. Utiliser une mandoline pour couper les légumes.
+
+## Ingrédients
+
+*Pour 8 personnes*
+
+**Croquettes**
+- 1,3 kg de poitrine de bœuf
+- 3 cuil. à soupe d'huile de tournesol + environ 80 cl pour la cuisson des croquettes
+- 1,2 litre de bouillon à l'asiatique
+- 1 grosse carotte, épluchée et coupée en petits cubes (110 g)
+- 3 échalotes banane, pelées et coupées en petits cubes (120 g)
+- 1 branche de céleri moyenne, coupée en petits cubes (75 g)
+- 3 œufs, légèrement battus
+- 2 cuil. à soupe de lait entier
+- 150 g de chapelure panko
+- 50 g de farine
+- 2 citrons verts, en quartiers, pour servir
+- Sel de mer et poivre noir
+
+**Coleslaw**
+- 40 g de sucre de palme, grossièrement râpé
+- 2½ cuil. à soupe de vinaigre de riz
+- 5 cl de jus de citron vert
+- 3 cuil. à soupe d'huile d'olive
+- ½ petit chou rouge, déchiqueté (300 g)
+- 2 grosses carottes, épluchées et en julienne (170 g)
+- 200 g de mange-tout, émincés
+- 2 piments rouges, épépinés et émincés
+- 25 g de feuilles de coriandre, ciselées
+- 25 g de feuilles de menthe, ciselées
+
+## Déroulé de la recette
+
+1. Préchauffer le four à 170 °C. Frotter la poitrine de bœuf avec 1 cuil. à café de sel et ½ cuil. à café de poivre. Chauffer 2 cuil. à soupe d'huile à feu vif dans une cocotte, saisir la viande 10 min en retournant souvent pour colorer sur toutes les faces. Réserver.
+
+2. Nettoyer la cocotte et verser le bouillon. Porter à ébullition, écumer, plonger délicatement le bœuf. Poser un papier sulfurisé en surface, couvrir avec une assiette pour maintenir la viande immergée. Couvrir et enfourner 3 h 30 à 4 h jusqu'à ce que la viande s'effiloche à la fourchette. Sortir du four et laisser encore 1 h dans le bouillon sans couvercle. Retirer la viande et filtrer le bouillon.
+
+3. Remettre le bouillon dans la cocotte, porter à ébullition. Réduire de moitié 8 à 10 min (~20 à 25 cl, consistance de sirop épais). Réserver.
+
+4. Chauffer le reste d'huile dans une poêle moyenne, faire revenir carottes, échalotes et céleri 10 à 12 min à feu moyen en remuant souvent. Laisser refroidir.
+
+5. Dégraisser la viande et l'effilocher à la main. Mélanger dans un grand saladier avec les légumes cuits et 10 cl de réduction de bouillon. Façonner environ 24 petits palets de ~40 g chacun. Réfrigérer au moins 1 h pour raffermir.
+
+6. Mélanger œufs battus et lait dans un bol. Mettre chapelure et farine dans deux autres bols. Rouler les palets dans la farine, plonger dans les œufs battus, enrober de chapelure.
+
+7. **Coleslaw :** Faire fondre le sucre de palme dans une petite casserole avec 2 cuil. à soupe d'eau, incorporer hors du feu le vinaigre de riz, le jus de citron vert et l'huile d'olive, 1½ cuil. à café de sel et du poivre. Mélanger avec le reste des ingrédients dans un saladier. Réserver.
+
+8. Préchauffer le four à 180 °C. Verser 2 cm d'huile dans une grande sauteuse, chauffer à feu vif. Faire frire la moitié des croquettes 3 à 4 min en retournant une fois. Transférer dans un plat et répéter. Enfourner toutes les croquettes 8 min. Réchauffer le reste du bouillon réduit. Disposer 3 croquettes par assiette, arroser de réduction. Servir le coleslaw à part avec les quartiers de citron vert.
+
+## Noms ingrédients
+
+poitrine de bœuf. carottes. échalotes. céleri. citrons verts. chou rouge. piment rouge. coriandre. menthe
+# Cuisses de canard confites, moutarde aux cerises et salade de chou-rave
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Viande
+
+## Commentaire
+
+Au restaurant, les cerises séchées sont trempées dans du thé Earl Grey (la bergamote apporte une touche originale) — le liquide d'égouttage est ajouté à la réduction de vin à la place d'une partie de l'eau, avec un mijotage un peu plus long (~25 min). La graisse de canard achetée en supplément peut sembler inutile alors que les cuisses en libèrent beaucoup, mais elle se conserve jusqu'à 12 mois et sert à cuire des pommes de terre. Doubler les quantités pour la moutarde aux cerises — elle se garde plusieurs semaines au réfrigérateur et est délicieuse avec du fromage, du maquereau, du saumon ou un rôti de bœuf.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+**Sel aromatisé**
+- 15 g de brins de thym (feuilles grossièrement hachées, tiges jetées)
+- 15 g de brins de romarin (feuilles grossièrement hachées, tiges jetées)
+- 100 g de gros sel de mer
+- ½ cuil. à café de clous de girofle
+- 1 cuil. à soupe de graines de coriandre
+- 1 petit bâton de cannelle
+- 1 cuil. à café de grains de poivre noir
+
+**Canard**
+- 4 grosses cuisses de canard (1 kg)
+- 20 g de brins de thym
+- 10 g de brins de romarin
+- 1 cuil. à café de grains de poivre noir
+- 1 tête d'ail, avec la peau, coupée en deux dans la hauteur
+- 800 g de graisse de canard, fondue
+
+**Moutarde aux cerises**
+- 20 cl de vin rouge
+- 80 g de sucre en poudre
+- 10 cl de vinaigre de vin rouge
+- 130 g de cerises séchées, trempées 30 min dans de l'eau chaude
+- 200 g de cerises décongelées égouttées (ou 130 g de cerises fraîches, dénoyautées)
+- 1 cuil. à soupe de moutarde de Dijon
+- 1 cuil. à soupe de moutarde anglaise en poudre
+
+**Salade de chou-rave**
+- 1 chou-rave moyen, épluché, en julienne et réservé dans de l'eau glacée (250 g)
+- 1 pomme granny smith, en julienne et réservée dans de l'eau glacée (100 g)
+- 8 gros radis rouge et blanc (ou 12 radis rouges), en tranches fines réservées dans de l'eau glacée (80 g)
+- 25 g de persil, ciselé
+- 2½ cuil. à soupe de jus de citron
+- 1½ cuil. à soupe d'huile d'olive
+- Sel de mer et poivre noir
+
+## Déroulé de la recette
+
+1. **Sel aromatisé :** Mixer tous les ingrédients en pâte grossière. Déposer dans un grand récipient, ajouter les cuisses de canard et les frotter de sel aromatisé sur toutes les faces. Couvrir et réfrigérer 2 h. Rincer les cuisses sous l'eau, sécher avec un linge. Jeter le sel aromatisé.
+
+2. Préchauffer le four à 150 °C.
+
+3. **Cuisses confites :** Répartir la moitié du thym, du romarin et du poivre au fond d'une cocotte de 24 cm, ajouter une demi-tête d'ail, puis les cuisses de canard (côté peau vers le haut). Terminer par le reste des herbes et l'autre demi-tête d'ail. Verser la graisse de canard, couvrir et enfourner. Confire 3 h jusqu'à ce que la viande soit fondante (se détache presque de l'os). Laisser refroidir complètement. Filtrer la graisse et réserver pour une autre recette. Placer les cuisses sur une plaque et réserver.
+
+4. **Moutarde aux cerises :** Verser vin rouge, sucre et vinaigre dans une petite casserole, porter à ébullition, laisser frémir 15 à 17 min pour obtenir ~10 cl de réduction. Égoutter les cerises séchées et les mixer avec les cerises surgelées, les deux moutardes et ½ cuil. à café de sel pendant 2 min en pâte lisse. Transvaser dans un bol, incorporer la réduction de vin. Réfrigérer.
+
+5. **Salade :** Égoutter chou-rave, pomme et radis, sécher avec un torchon. Mélanger dans un saladier avec persil, jus de citron, huile d'olive, ⅛ de cuil. à café de sel et du poivre.
+
+6. Régler le four au maximum. Enfourner les cuisses 4 min pour les réchauffer (peau bien croustillante). Servir aussitôt avec la salade et un peu de moutarde aux cerises.
+
+## Noms ingrédients
+
+coriandre. cuisses de canard. ail. cerises séchées. cerises. chou-rave. pomme. radis. persil. citrons
+# Échine de porc aux épices et condiment aux physalis
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Viande
+
+## Commentaire
+
+Les graines de rocou (annatto ou achiote) sont disponibles en épiceries asiatiques ou sur Internet — baies jaune-orangé au goût légèrement poivré avec un arôme de noix muscade, elles donnent leur couleur au red leicester, à la mimolette ou à la boulette d'Avesne. Très employées dans les cuisines mexicaine et caribéenne. Elles sont un élément clé de la marinade, mais la recette peut se faire sans. Si les physalis sont introuvables (ou groseilles du Cap), utiliser des groseilles à maquereau ou des tomatillos (saison juin-juillet). Prévoir la marinade la veille pour une nuit entière.
+
+## Ingrédients
+
+*Pour 4 personnes (portions généreuses)*
+
+**Marinade**
+- 25 g de graines de rocou
+- 2 piments chipotle séchés, épépinés et moulus très finement
+- ½ cuil. à café d'origan séché
+- 2 cuil. à café de quatre-épices
+- ½ petit oignon, grossièrement haché (75 g)
+- 3 gousses d'ail, écrasées
+- 12,5 cl de jus d'orange
+- 7,5 cl de vinaigre de cidre
+- Le zeste finement râpé de 1 citron vert, plus 1 cuil. à soupe de jus
+- 1 échine de porc de 1 kg, partiellement dégraissée et coupée en deux dans la longueur (2 pièces de 500 g)
+- Sel de mer et poivre noir
+
+**Pâte aux piments**
+- 1 cuil. à soupe d'huile de tournesol
+- 1 petite échalote, hachée (40 g)
+- 1 grosse gousse d'ail, écrasée
+- 2 piments chipotle séchés, épépinés, trempés 15 min dans de l'eau chaude puis égouttés
+- ½ cuil. à café de vinaigre de cidre
+
+**Condiment aux physalis**
+- 1 morceau de gingembre de 3 cm, épluché et finement râpé (30 g)
+- 2 cuil. à soupe de saké
+- 2 cuil. à soupe de mirin
+- 2 petits piments jalapeño verts frais, épépinés et finement hachés
+- 1 piment rouge moyen, épépiné et finement haché
+- 2 cuil. à soupe d'huile d'olive
+- 200 g de physalis, coupés en deux (ou 320 g de groseilles à maquereau, ou 5 tomatillos coupés en quartiers)
+- 10 g de brins de coriandre, finement hachés
+
+## Déroulé de la recette
+
+1. **Marinade :** Verser 25 cl d'eau dans une petite casserole, porter à ébullition, ajouter les graines de rocou et laisser frémir 15 min jusqu'à ce qu'elles ramollissent et que l'eau soit rouge vif. Retirer du feu, couvrir, laisser reposer 1 h. Égoutter (jeter le liquide), mettre dans un blender avec poudre de chipotle, origan, quatre-épices, oignon, ail, jus d'orange, vinaigre de cidre, zeste et jus de citron vert, 2 cuil. à café de sel et 1 cuil. à café de poivre. Mixer en purée lisse. Transférer dans un grand récipient en verre, ajouter la viande et enduire à la main. Couvrir et réfrigérer toute une nuit. Sortir la viande à température ambiante 1 h avant la cuisson.
+
+2. **Pâte aux piments :** Chauffer l'huile à feu vif dans une petite casserole. Faire revenir l'échalote 2 min, ajouter l'ail et les piments chipotle, remuer 1 min, incorporer le vinaigre et une pincée de sel. Transférer dans un robot et mixer en pâte fine. Réserver.
+
+3. **Condiment :** Mélanger dans un saladier le gingembre, le saké, le mirin, les piments jalapeño, le piment rouge, l'huile d'olive, 1 cuil. à café de sel et toute la pâte aux piments. Bien mélanger, ajouter les physalis, presser délicatement à la fourchette en gardant des fruits entiers. Réserver (la coriandre sera incorporée juste avant de servir).
+
+4. Préchauffer le four à 210 °C.
+
+5. Sortir le porc de la marinade (réserver). Disposer la viande sur une grille dans un plat de cuisson tapissé de papier aluminium. Rôtir 20 min, badigeonner de marinade. Poursuivre 20 min pour que le porc soit cuit à cœur mais encore légèrement rosé. Si les pièces sont très épaisses, cuire encore 10 min. La température à cœur doit être entre 72 et 75 °C. Laisser reposer 10 min avant de découper en tranches de 1 cm. Incorporer la coriandre au condiment et servir chaud avec quelques cuillerées de condiment à côté.
+
+## Noms ingrédients
+
+piment chipotle. oignons. ail. oranges. citrons verts. échine de porc. échalotes. gingembre. piment jalapeño. piment rouge. physalis. coriandre
+# Eton mess aux fraises et à la rose
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Dessert. Végé
+
+## Commentaire
+
+Voici la version NOPI de l'Eton mess. Un dessert qui a le double mérite d'être vraiment savoureux et de permettre de profiter de sa soirée, puisque tous les éléments qui le composent peuvent être préparés à l'avance pour être assemblés au dernier moment. Les pétales de rose séchés sont du plus joli effet, mais ce n'est pas très grave si vous n'en trouvez pas : c'est tout le charme de l'Eton mess, qui autorise tous les « désordres » (mess) dans la présentation !
+
+S'il vous reste du sorbet, vous pourrez le conserver plusieurs semaines au réfrigérateur. Et si vous manquez de temps ou d'énergie, achetez tout simplement un bon sorbet à la fraise.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 200 g de fraises, parées et coupées en morceaux de 2 cm
+- 60 g de meringues, cassées en morceaux de 2 cm
+- Les graines de 1 grenade moyenne (100 g)
+- 2 cuil. à café de pétales de roses séchés (facultatif)
+
+### Sorbet à la fraise
+
+- 200 g de fraises, réduites en purée
+- 40 g de sucre en poudre
+- 30 g de sirop de glucose
+- 15 g de sucre glace, tamisé
+
+### Crème à l'eau de rose
+
+- 160 g de mascarpone
+- 270 g de crème fraîche
+- 40 g de sucre glace
+- ¼ de cuil. à café d'eau de rose
+
+### Sirop de sumac
+
+- 40 g de sucre en poudre
+- 2 cuil. à soupe de mélasse de grenade
+- 1 cuil. à café de sumac
+
+---
+
+## Déroulé de la recette
+
+1. Commencez par préparer le sorbet : mettez tous les ingrédients dans une petite casserole avec 6 cl d'eau. Faites chauffer à feu doux en remuant pour bien dissoudre le sucre et le sirop de glucose, puis laissez refroidir complètement avant de verser la préparation dans une sorbetière. Turbinez pendant environ 20 min : la préparation doit être ferme mais pas complètement prise. Placez dans un récipient hermétique et congelez.
+
+2. Placez le mascarpone et la crème fraîche dans un bol, puis fouettez-les pour obtenir une consistance lisse. Sans cesser de fouetter, incorporez le sucre glace et l'eau de rose. Réservez au réfrigérateur.
+
+3. Mélangez le sucre en poudre avec 4 cl d'eau bouillante et remuez pour dissoudre le sucre. Ajoutez la mélasse de grenade et le sumac, mélangez et réservez.
+
+4. Au moment de servir, répartissez les fraises en morceaux dans des verres, puis ajoutez de la meringue, de la crème à l'eau de rose et la moitié du sirop de sumac. Garnissez de graines de grenade et déposez 1 cuil. à soupe de sorbet dans chaque verre. Terminez avec le sirop restant et les pétales de rose. Servez sans attendre.
+
+## Noms ingrédients
+
+fraises. grenade. mascarpone. meringues. pétales de rose
+# Filet d'agneau rôti, sauce aux cacahuètes et salsa à l'oignon rouge
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Viande
+
+## Commentaire
+
+La viande doit mariner au moins 4 h au réfrigérateur, idéalement toute une nuit. La sauce aux cacahuètes est étonnante — cacahuètes, sésame, anchois, lait de coco et coriandre mixés en pâte lisse. La salsa à l'oignon rouge au sumac apporte une note acidulée qui contrebalance la richesse de la viande. Servir sans attendre dès la découpe.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+**Viande**
+- 650 g de filet d'agneau dans la selle (canon)
+- Les feuilles grossièrement ciselées de 5 brins de romarin
+- 6 gousses d'ail avec la peau, écrasées avec le plat d'un couteau
+- 3 cuil. à soupe d'huile d'olive
+- 4 à 8 câprons, coupés en deux dans la longueur
+- Sel de mer et poivre noir
+
+**Sauce aux cacahuètes**
+- 100 g de cacahuètes salées sans la peau, grillées
+- 15 g de graines de sésame, grillées
+- 1 piment rouge moyen, grossièrement haché
+- 3 anchois à l'huile, égouttés et grossièrement hachés (10 g)
+- 2 cuil. à soupe d'huile d'olive
+- 1½ cuil. à soupe de jus de citron
+- 10 g de coriandre, feuilles et tiges grossièrement hachées
+- 3 cuil. à soupe de lait de coco
+
+**Salsa à l'oignon**
+- ½ petit oignon rouge, en rondelles de 1 mm d'épaisseur (50 g)
+- ½ cuil. à café de sumac
+- ⅛ de cuil. à café de sucre en poudre
+- 1 cuil. à soupe de vinaigre de cidre
+- 70 g de piquillos en bocal, en rondelles de 1 mm
+- 10 g de persil, ciselé
+
+## Déroulé de la recette
+
+1. Mettre le filet d'agneau dans un récipient en verre avec le romarin, l'ail, l'huile d'olive, 1 cuil. à soupe de sel et ½ cuil. à soupe de poivre noir. Mélanger et laisser mariner 4 h au réfrigérateur (toute une nuit si possible). Sortir la viande à température ambiante 30 min avant de la faire cuire.
+
+2. Mettre les ingrédients de la sauce aux cacahuètes dans le bol d'un robot et mixer en pâte lisse. Réserver.
+
+3. Préparer la salsa : mettre l'oignon rouge dans un bol avec le sumac, le sucre et une pincée de sel. Mélanger avant de verser le vinaigre. Ajouter les piquillos et le persil, remuer délicatement et réserver.
+
+4. Faire chauffer un gril à feu vif. Sortir le filet d'agneau de la marinade (jeter celle-ci), assaisonner avec ½ cuil. à café de sel et un peu de poivre noir, puis saisir 2 à 3 min sur le gril en le tournant plusieurs fois. Baisser le feu à moyen et laisser cuire 6 à 8 min pour une cuisson rosée (1 à 2 min de plus pour une viande cuite à cœur). Laisser reposer 2 min avant de découper en tranches de 1 cm d'épaisseur. Répartir dans les assiettes, napper de sauce aux cacahuètes, garnir de salsa et décorer avec les câprons.
+
+## Noms ingrédients
+
+agneau. ail. câpres. cacahuètes. piment rouge. anchois. citrons. coriandre. noix de coco. oignons rouges. piquillos. persil
+# Filet de chevreuil, labné aux dattes, sauce aux mûres et crumble aux cacahuètes
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Viande
+
+## Commentaire
+
+Plat comportant plusieurs préparations, toutes réalisables la veille et assemblées au dernier moment. Chez NOPI, les filets sont déposés sur une lavette propre au réfrigérateur 16 h avant cuisson (retourner une fois) pour former une belle croûte — au minimum 2 à 3 h de chaque côté. Le labné est une version simplifiée du yaourt caramélisé sous vide du restaurant — prévoir de le préparer la veille (minimum 6 h d'égouttage en pressant régulièrement). Utiliser de préférence des mûres fraîches pour la sauce (cuisson un peu plus longue). Les fèves de cacao se trouvent dans les épiceries fines ou les boutiques de chocolat.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+**Labné aux dattes**
+- 320 g de yaourt grec
+- 1½ cuil. à soupe de sirop de dattes
+- ½ cuil. à soupe de mélasse de grenade
+- Sel de mer
+
+**Sauce aux mûres**
+- 20 cl de vin rouge
+- 15 cl de porto
+- 15 cl de vinaigre de vin rouge
+- 100 g de sucre en poudre
+- 50 g de mûres (fraîches ou surgelées)
+
+**Sel au genièvre**
+- 2 cuil. à soupe de baies de genévrier
+- 3 cuil. à soupe de gros sel marin
+- ½ cuil. à café de poivre noir concassé
+
+**Crumble de cacahuètes**
+- 25 g de fèves de cacao
+- 30 g d'arachides non salées, décortiquées, grillées et finement hachées
+- 40 g de gingembre, en petits dés
+
+**Filet de chevreuil**
+- 2 filets de chevreuil (1 kg), dégraissés, coupés en deux (2 morceaux épais et 2 plus fins)
+- 3 cuil. à soupe d'huile de tournesol
+- 80 g de beurre doux
+- 5 brins de thym
+- 5 brins de romarin
+- 4 gousses d'ail, écrasées
+
+**Pour servir**
+- 5 g de feuilles de basilic
+- 15 mûres fraîches (80 g), coupées en deux
+
+## Déroulé de la recette
+
+1. **Labné :** Mélanger tous les ingrédients avec ⅛ de cuil. à café de sel dans un bol. Transférer dans un tamis tapissé de mousseline, nouer les angles. Placer au-dessus d'un bol, réfrigérer toute une nuit. Sortir 1 h avant de servir.
+
+2. **Sauce aux mûres :** Mélanger vin, porto, vinaigre et sucre dans une casserole. Porter à ébullition puis laisser frémir à feu moyen 18 à 20 min jusqu'à obtenir 20 cl de liquide sirupeux. Ajouter les mûres et cuire à feu vif en remuant délicatement : 2 min pour des fruits congelés, 6 min pour des frais. Transférer et réfrigérer.
+
+3. **Sel au genièvre :** Réduire les baies et le sel en poudre grossière dans un moulin à épices. Incorporer le poivre concassé.
+
+4. **Crumble :** Préchauffer le four à 180 °C. Répartir les fèves de cacao sur une plaque et enfourner 5 à 7 min. Transférer dans un bol, ajouter les cacahuètes et le gingembre. Mélanger et réserver.
+
+5. **Filets :** Régler le four à 230 °C. Sécher les filets, assaisonner avec 1 cuil. à café de sel au genièvre. Faire chauffer à feu vif deux poêles allant au four avec 1½ cuil. à soupe d'huile dans chacune. Cuire les gros filets 2 à 3 min jusqu'à croûte brun foncé, retourner et poursuivre 2 min, ajouter la moitié du beurre, du thym, romarin et ail. Faire de même pour les filets plus minces (1 min de moins). Quand le beurre mousse, arroser 1 min, enfourner 3 min. Remettre sur le feu et arroser encore 1 min. Laisser reposer 6 à 8 min sans couvrir avant de découper en tranches de 1 cm. Saupoudrer du reste de sel au genièvre.
+
+6. **Dressage :** Étaler du labné au centre des assiettes, saupoudrer de 1 cuil. à café de crumble. Répartir les tranches de gibier, napper de sauce aux mûres. Garnir du reste de crumble, parsemer de basilic et de mûres fraîches.
+
+## Noms ingrédients
+
+yaourt grec. grenade. mûres. fèves de cacao. cacahuètes. gingembre. chevreuil. ail. basilic
+# Financiers et crème café-noix de pécan
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Dessert. Végé
+
+## Commentaire
+
+Chez NOPI, les habitués n'aiment pas voir ce dessert quitter temporairement la carte et ils sont heureux quand il est de nouveau proposé. Le succès de ces délicieux gâteaux tient à leur grande fraîcheur (ils sont cuits à la commande). Sans compter que la crème au café qui les accompagne est une vraie tuerie.
+
+Tous les composants de cette recette peuvent être préparés à l'avance. Les saveurs de la crème au café s'intensifient après une nuit de repos au frais, tout comme celles de la pâte des financiers — mais ces derniers doivent être dégustés tout frais sortis du four.
+
+Ce qui fait le secret d'un bon financier, c'est le beurre noisette. Traditionnellement, on fait cuire ces petits gâteaux dans des moules rectangulaires qui les font ressembler à des lingots miniatures — d'où leur nom. Ici, des moules à muffins sont utilisés, mais vous pouvez tout à fait utiliser des moules à financiers ou à madeleines si vous en possédez.
+
+## Ingrédients
+
+*Pour 20 financiers (10 personnes)*
+
+### Financiers
+
+- 200 g de sucre glace
+- 100 g de poudre d'amandes
+- 100 g de farine
+- 65 g de poudre de malt
+- 1 cuil. à café de levure chimique
+- 2 cuil. à café de grains de café moulus
+- Sel de mer
+- 150 g de beurre doux, coupé en dés de 2 cm + un peu pour graisser les moules
+- 8 blancs d'œufs (300 g)
+- 2 expressos (6 cl)
+- 100 g de noix de pécan
+
+### Crème café-noix de pécan
+
+- 100 g de noix de pécan
+- 3 expressos (9 cl)
+- 53 cl de crème fraîche épaisse
+- 75 g de sucre complet
+
+---
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 190 °C (th. 6-7). Répartissez toutes les noix de pécan (pour les financiers et pour la crème) sur une plaque à pâtisserie recouverte de papier sulfurisé et enfournez pour 12 à 15 min, jusqu'à ce qu'elles aient pris un peu de couleur. Écrasez-les avec le plat d'un grand couteau. Réservez la moitié des noix de pécan dans un bol pour les financiers et l'autre moitié dans un autre bol pour la crème.
+
+2. Pour la pâte des financiers, mettez le beurre à chauffer à feu vif dans une casserole. Quand il commence à mousser, poursuivez la cuisson pendant 3 à 4 min, jusqu'à ce qu'il devienne brun doré et dégage une odeur de noisette. Passez-le dans un tamis fin doublé de mousseline et laissez-le reposer environ 15 min pour qu'il refroidisse légèrement.
+
+3. Mettez le sucre glace dans un saladier avec la poudre d'amandes, la farine, la poudre de malt, la levure chimique, ½ cuil. à café de sel et le café moulu. Mélangez et réservez. Mettez les blancs d'œufs dans un autre récipient et fouettez-les en neige souple (comptez 3 min avec un fouet manuel et 1 min au fouet électrique). Incorporez les blancs aux ingrédients secs, puis l'expresso. Incorporez ensuite le beurre noisette en deux fois, en continuant de mélanger délicatement, puis les noix de pécan. Posez un film alimentaire à la surface pour empêcher qu'une peau se forme et placez au moins 2 h au réfrigérateur (toute une nuit, c'est encore mieux).
+
+4. Préparez maintenant la crème. Versez l'expresso dans une casserole, portez à ébullition, puis laissez cuire environ 12 min à feu vif pour que le liquide réduise de moitié. Ajoutez les noix de pécan, la crème et la cassonade. Portez de nouveau à ébullition et prolongez la cuisson encore 4 min pour que la crème épaississe. Laissez ensuite infuser au moins 2 h (voire toute une nuit) au réfrigérateur. La crème épaissira et il faudra donc la réchauffer 1 ½ min à feu doux pour la détendre. Passez-la ensuite dans un tamis fin et jetez les noix de pécan. Battez la crème pendant 4 min au fouet électrique pour qu'elle épaississe légèrement et prenne la consistance d'une mousse, avec des pics souples. Attention à ne pas trop la battre. Si elle devient trop ferme, incorporez un peu de lait pour la détendre. Réservez au réfrigérateur.
+
+5. Préchauffez le four à 220 °C (th. 7-8).
+
+6. Beurrez deux plaques à muffins (diamètre 5 cm) et recouvrez les fonds de disques de papier sulfurisé. La quantité de pâte vous permet de faire 20 financiers : pour des moules de 12 alvéoles, laissez chaque fois 2 alvéoles vides (ni beurrées ni garnies de papier). Versez la pâte dans les alvéoles en les remplissant seulement aux trois quarts, puis enfournez pour 10 à 12 min, jusqu'à ce que les gâteaux soient dorés et juste cuits (piquez-en un avec la pointe d'un couteau pour vérifier la cuisson : la lame doit ressortir légèrement humide). Sortez les moules du four et laissez reposer 5 min avant de démouler les muffins. Servez tiède ou à température ambiante, avec la crème de café aux noix de pécan à côté.
+
+## Noms ingrédients
+
+noix. amandes moulues
+# Foies de volaille au bacon, réduction de vin rouge et cerises glacées
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Viande
+
+## Commentaire
+
+La recette la plus classique du livre — inspirée de la gastronomie française. Pas de miso ni de mélasse, pas d'anis étoilé : juste herbes séchées, réduction de vin rouge et cerises glacées. Idéale servie avec un bon pain. Doubler les quantités de réduction et congeler la moitié — elle accompagnera très bien un poulet grillé, du gibier ou un rôti de bœuf. Faire tremper les foies dans du lait la veille pour les adoucir. Les cerises peuvent être fraîches ou surgelées.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+**Foies de volaille**
+- 600 g de foies de volaille, parés (450 g)
+- 15 cl de lait entier
+- 400 g de bacon fumé, coupé en cubes de 2 cm
+- 20 g de beurre doux
+- 20 g de persil, ciselé
+- Sel de mer et poivre noir
+
+**Réduction de vin rouge**
+- 3 cuil. à soupe d'huile d'olive
+- 2 oignons rouges émincés (250 g)
+- 6 brins de thym
+- 1 grosse gousse d'ail, pelée et légèrement écrasée avec le plat d'un couteau
+- 1 feuille de laurier
+- 5 grains de poivre noir
+- ½ cuil. à soupe de sucre en poudre
+- 30 cl de vin rouge
+- 50 cl de bouillon de bœuf
+
+**Cerises aigres-douces**
+- 20 cl de vin rouge
+- 10 cl de vinaigre de vin rouge
+- 80 g de sucre en poudre
+- 500 g de cerises fraîches, dénoyautées (420 g), ou surgelées
+
+**Radicchio**
+- 1 grosse salade radicchio (460 g), en 6 quartiers de 5 cm d'épaisseur
+- 1 cuil. à soupe d'huile d'olive
+
+## Déroulé de la recette
+
+1. Mettre les foies dans un saladier, verser le lait, couvrir et laisser une nuit au réfrigérateur. Le lendemain, rincer, sécher et réserver dans un plat tapissé de papier sulfurisé.
+
+2. Faire chauffer une grande poêle à feu vif, saisir le bacon de toutes parts 10 à 12 min jusqu'à doré et croustillant. Réserver le gras rendu (~1 cuil. à soupe). Égoutter le bacon sur du papier sulfurisé.
+
+3. **Réduction de vin rouge :** Chauffer l'huile à feu moyen dans une sauteuse, faire fondre l'oignon 5 à 6 min avec ¼ de cuil. à café de sel. Ajouter thym, ail, laurier, grains de poivre et sucre. Caraméliser 2 à 3 min, déglacer avec le vin. Réduire de moitié 5 à 6 min (~15 cl). Verser le bouillon, porter à ébullition, laisser frémir 15 à 20 min jusqu'à ~20 cl à consistance de velouté. Filtrer dans un tamis fin et réserver.
+
+4. **Cerises glacées :** Verser vin, vinaigre et sucre dans une casserole, porter à ébullition, laisser frémir 15 min pour obtenir un glaçage épais (~10 cl). Réduire le feu, incorporer les cerises et laisser mijoter 2 min. Étaler dans un plat et laisser refroidir.
+
+5. Faire chauffer un gril à feu vif. Mélanger le radicchio avec l'huile, ¼ de cuil. à café de sel et du poivre. Griller 2 à 3 min en retournant à mi-cuisson. Réserver au chaud.
+
+6. Juste avant de servir, chauffer le gras du bacon dans une grande poêle à feu vif. Assaisonner les foies avec ½ cuil. à café de sel et poivre, saisir 3 min en les retournant une fois. Ajouter le bacon, les cerises glacées et la réduction de vin, puis le beurre. Réchauffer 2 à 3 min en remuant délicatement, incorporer la moitié du persil. Décorer avec le reste du persil et servir aussitôt avec le radicchio.
+
+## Noms ingrédients
+
+foies de volaille. bacon. persil. oignons rouges. ail. cerises. radicchio
+# Galettes de pois chiches, purée de noix de coco et lentilles aux feuilles de curry
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+Chez NOPI, cette recette est accompagnée d'une salade de tomates cerises parfumée au zeste d'orange et persil, avec une vinaigrette citronnée. Elle peut aussi se servir simplement avec des échalotes frites, du yaourt à la grecque et des quartiers de citron vert. Les pois chiches sont broyés avant la cuisson (comme pour les falafels) — ils cuiront pendant la friture et le passage au four. La pâte de noix de coco se garde 3 jours au réfrigérateur et se congèle bien. Les galettes peuvent être confectionnées la veille (paner et frire au dernier moment). À défaut de temps, remplacer la pâte de noix de coco par un yaourt aux herbes : 120 g de yaourt grec + ½ cuil. à café d'huile d'olive + ½ cuil. à café de cardamome + zeste de ½ citron + 1½ cuil. à café de jus de citron vert.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+**Galettes**
+- 250 g de pois chiches trempés une nuit dans beaucoup d'eau avec ½ cuil. à café de levure
+- 1½ cuil. à soupe de ghee + 100 g pour la friture
+- 1 oignon moyen, émincé (130 g)
+- 3 gousses d'ail, écrasées
+- 50 g de lentilles moong dhal, rincées
+- 10 g de feuilles de curry frais
+- 1½ cuil. à soupe de graines de coriandre, torréfiées et moulues
+- 1½ cuil. à soupe de graines de cumin, torréfiées et moulues
+- 1 cuil. à café de flocons de piments séchés
+- 50 g de coriandre fraîche, ciselée
+- 3 à 4 grosses tomates, égrainées et en dés de 2 cm (230 g)
+- Le zeste râpé de 1 petit citron vert
+- 5 cl de jus de citron vert
+- 120 g de farine de pois chiches
+- Sel de mer et poivre noir
+
+**Purée noix de coco et lentilles**
+- La chair de 1 grosse noix de coco grossièrement râpée (250 g)
+- 1 oignon moyen, haché (120 g)
+- 2 cm de gingembre, épluché et haché (10 g)
+- 2 piments séchés, épépinés
+- 20 g de pulpe de tamarin ou ½ cuil. à soupe de pâte de tamarin
+- 2 cuil. à soupe d'huile de tournesol
+- 1 cuil. à soupe de graines de moutarde jaune
+- 75 g de lentilles urid dhal, rincées
+- ½ oignon moyen, finement émincé (60 g)
+- 5 g de feuilles de curry frais
+- 40 cl de lait de coco
+- 1 cuil. à café de curcuma moulu
+- 1½ cuil. à soupe de jus de citron vert
+
+**Pour servir**
+- 120 g de yaourt à la grecque
+- 1 citron vert, coupé en quatre
+
+## Déroulé de la recette
+
+1. Égoutter et rincer les pois chiches, sécher dans un torchon. Mixer finement.
+
+2. Dans une casserole, chauffer ½ cuil. à soupe de ghee à feu vif, faire revenir l'oignon et l'ail 5 à 6 min. Ajouter lentilles moong dhal et feuilles de curry, cuire 3 à 4 min. Incorporer coriandre et cumin moulus, piments et coriandre fraîche. Poivrer, cuire 30 s en remuant, verser 17,5 cl d'eau. Mélanger, cuire 2 min, incorporer les tomates. Au bout de 1 min, retirer du feu. Incorporer les pois chiches moulus, zeste et jus de citron vert. Saler, bien mélanger. Laisser tiédir avant de façonner 12 galettes de 80 g (~5 cm de diamètre, 5 mm d'épaisseur). Réfrigérer pour raffermir.
+
+3. **Purée noix de coco :** Dans un robot, mélanger chair de noix de coco, oignon, gingembre, piments, tamarin et ½ cuil. à café de sel. Verser 12 cl d'eau, mixer en pâte épaisse.
+
+4. Chauffer 1 cuil. à soupe d'huile dans une grande casserole, torréfier graines de moutarde et lentilles urid dhal 2 min jusqu'à brunissement. Transférer dans un récipient. Verser le reste d'huile dans la casserole, faire revenir l'oignon 3 min. Baisser le feu, ajouter les feuilles de curry, cuire 1 min. Incorporer lait de coco, pâte de coco et curcuma, puis le mélange graines-lentilles. Porter à ébullition, laisser épaissir à feu moyen 30 à 40 min. Mixer la moitié avec jus de citron vert, 12,5 cl d'eau et ½ cuil. à café de sel. Remettre dans la casserole, mélanger et réserver au chaud.
+
+5. Préchauffer le four à 180 °C.
+
+6. Chauffer 100 g de ghee à feu vif dans une grande poêle. Fariner uniformément les galettes, les faire dorer 5 à 6 min en retournant à mi-cuisson (en plusieurs tournées). Égoutter sur une grille tapissée de papier absorbant dans un grand plat. Enfourner toutes les galettes 5 min.
+
+7. Répartir la pâte de noix de coco dans des bols peu profonds et déposer 2 galettes dessus. Servir avec 1 cuil. de yaourt et un quartier de citron vert.
+
+## Noms ingrédients
+
+pois chiches. oignons. ail. lentilles moong dhal. feuilles de curry. coriandre. piment rouge. tomates en conserve. citrons verts. noix de coco. gingembre. tamarin. lentilles urid dhal. yaourt grec
+# Ganache au chocolat, noisettes aux épices et huile à l'orange
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Dessert
+
+## Commentaire
+
+Chocolat, orange et crème : un mariage classique auquel s'ajoutent noisettes, coriandre, cardamome et sel. Démarrer la recette la veille (la ganache repose toute une nuit au réfrigérateur). Pour une présentation comme au restaurant, façonner la ganache en quenelles avec deux cuillères à dessert préalablement plongées dans l'eau chaude. Il vous en restera sans doute un peu, à servir avec le café ou à réchauffer pour napper une crème glacée.
+
+## Ingrédients
+
+*Pour 8 personnes*
+
+**Ganache au chocolat**
+- 250 g de chocolat noir (à 70 % de cacao), cassé en morceaux de 2 cm
+- 150 g de beurre doux, en cubes de 2 cm + un peu pour le moule
+- 1 gros œuf + 3 jaunes
+- 60 g de sucre en poudre
+- Fleur de sel pour servir
+
+**Mélange d'épices aux noisettes**
+- 2 cuil. à café de graines de coriandre
+- ¾ de cuil. à café de grains de poivre noir
+- 1 bâtonnet de cannelle
+- 1 étoile d'anis
+- 8 gousses de cardamome
+- ¾ de cuil. à café de sucre en poudre
+- 40 g de noisettes grillées, pelées et grossièrement hachées
+
+**Crème sucrée**
+- 300 g de crème fraîche
+- 2½ cuil. à café de sucre glace, tamisé
+
+**Huile à l'orange**
+- Le zeste de ½ orange finement râpé
+- 1 cuil. à soupe d'huile d'olive
+
+## Déroulé de la recette
+
+1. Préchauffer le four à 180 °C.
+
+2. **Ganache :** Mettre le chocolat et le beurre dans un bol résistant à la chaleur et faire fondre au bain-marie au-dessus d'une casserole d'eau frémissante (l'eau ne doit pas toucher la base du récipient). Laisser sur le feu ~5 min en remuant régulièrement jusqu'à sauce lisse et brillante. Laisser refroidir hors du feu.
+
+3. Dans le bol d'un robot, mélanger l'œuf, les jaunes et le sucre, fouetter 5 à 6 min pour obtenir une préparation aérienne. Incorporer délicatement en plusieurs fois au chocolat fondu sans homogénéiser complètement. Transférer dans un moule rectangulaire (22 x 8 cm), légèrement beurré et tapissé de papier sulfurisé. Enfourner et cuire ~10 min (le cœur doit rester fondant). Sortir du four, laisser refroidir, couvrir et réfrigérer toute une nuit. Pour servir légèrement fondant, sortir à température ambiante 2 h avant.
+
+4. **Mélange d'épices :** Griller à sec dans une grande poêle 2 à 3 min les graines de coriandre, grains de poivre, bâton de cannelle, anis étoilé et gousses de cardamome jusqu'à ce que les parfums se développent. Transférer dans un moulin à épices ou un mortier et réduire en poudre fine. Incorporer le sucre et les noisettes. Réserver.
+
+5. Mélanger la crème fraîche et le sucre glace dans un bol. Réserver au réfrigérateur.
+
+6. Mélanger le zeste d'orange et l'huile d'olive dans un bol. Réserver.
+
+7. Disposer une bande de noisettes aux épices au centre de chaque assiette. Déposer 1 cuillerée de ganache (ou une quenelle) à une extrémité, puis 1 cuil. de crème fraîche juste à côté. Arroser d'huile parfumée. Terminer par une pincée de fleur de sel et servir immédiatement.
+
+## Noms ingrédients
+
+chocolat noir. coriandre. noisettes. oranges
+# Glace au pop-corn et maïs caramélisé
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Dessert. Végé
+
+## Commentaire
+
+Scully travaillait depuis des mois sur son projet d'infuser une crème glacée avec du pop-corn. Toute l'équipe était très excitée, vivant un de ces moments magiques où une nouvelle combinaison de saveurs est mise au point. C'est donc avec un sourire dépité que Scully a découvert chez Waitrose des rayonnages entiers de glaces au caramel salé et au pop-corn, créées par Heston Blumenthal. Do'h !
+
+Commencez cette recette la veille pour que la crème infuse et prenne le goût du pop-corn. S'il vous reste du pop-corn, mettez-le dans un récipient hermétique pour bien le conserver. Et gardez les blancs d'œufs pour faire des meringues.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 60 g de beurre doux
+- 150 g de maïs à souffler (poids cuit de 180 g)
+- 50 cl de crème fraîche épaisse
+- 70 cl de lait entier
+- 2 gousses de vanille, coupées en deux dans la longueur, graines grattées et réservées
+- 4 jaunes d'œufs
+- 160 g de sucre en poudre
+- ½ cuil. à soupe de sirop de glucose
+- ½ cuil. à café de poivre noir fraîchement moulu
+- Fleur de sel
+
+---
+
+## Déroulé de la recette
+
+1. Faites fondre le beurre pendant 4 à 5 min dans une grande poêle, jusqu'à ce qu'il mousse et commence à brunir. Ajoutez les grains de maïs et remuez pour bien les enrober de beurre. Couvrez et laissez cuire pendant 3 min en secouant vivement la poêle pour faire éclater les grains. Retirez du feu dès que le bruit s'arrête. Transférez 140 g de maïs soufflé dans un bol et réservez 40 g pour le faire caraméliser.
+
+2. Versez la crème et le lait dans la poêle, puis ajoutez les gousses et les graines de vanille. Faites cuire 8 min à feu doux, sans laisser le mélange bouillir, puis retirez la poêle du feu et incorporez le pop-corn. Couvrez d'un film alimentaire, laissez refroidir puis mettez à infuser toute la nuit au réfrigérateur.
+
+3. Le lendemain, sortez le bol du réfrigérateur pour ramener la crème à température ambiante. Passez-la dans un tamis fin, en pressant sur le pop-corn pour qu'il parfume bien la crème.
+
+4. Mettez les jaunes d'œufs dans un récipient avec 100 g de sucre en poudre. Fouettez pour obtenir un mélange léger puis, sans cesser de fouetter, incorporez-le progressivement, une louche après l'autre, à la crème infusée. Transférez le tout dans une grande casserole, ajoutez ¼ de cuil. à café de sel et faites cuire 5 à 7 min à feu moyen, en remuant continuellement, jusqu'à ce que la crème nappe la cuillère. Attention à ne pas la faire trop cuire, car elle peut « tourner » (si c'est le cas, passez-la dans un tamis fin). Retirez la casserole du feu et laissez refroidir 30 min. Versez la crème dans une sorbetière et turbinez pendant 35 min. Transférez dans un récipient en plastique, couvrez et réservez au congélateur. Vous la sortirez 5 min avant de la servir.
+
+5. Mettez le sucre restant et le sirop de glucose dans une casserole moyenne antiadhésive. Faites cuire à feu moyen pendant 6 à 7 min, en agitant doucement la casserole de temps en temps mais sans remuer, jusqu'à ce que le sucre forme un caramel. Baissez le feu et ajoutez délicatement le reste du pop-corn, le poivre et ½ cuil. à café de sel. Remuez une fois, puis brossez les bords de la casserole avec un pinceau à pâtisserie humide. Laissez cuire 1 min en remuant constamment, jusqu'à ce que le pop-corn soit nappé de caramel. Étalez-le sur une plaque tapissée de papier sulfurisé et laissez refroidir : vous obtenez une masse compacte que vous casserez juste avant de servir.
+
+6. Répartissez la crème glacée dans des bols de service et parsemez de pop-corn caramélisé.
+
+## Noms ingrédients
+
+maïs
+# Jambon et haricots au four, œuf au plat et toasts au levain
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Viande
+
+## Commentaire
+
+Une recette à la NOPI pour le week-end. Les saveurs du jambon et des haricots sont encore plus développées après un ou deux jours — à préparer à l'avance, au moins la veille. Il n'est pas indispensable d'ébouillanter le jarret de porc (le restaurant le fait pour limiter les apports en sel) — il suffit de goûter avant d'assaisonner. Pour une version encore plus décadente, utiliser des œufs de canard.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 300 g de haricots secs, trempés toute une nuit dans beaucoup d'eau avec 1 cuil. à café de bicarbonate de soude
+- 1 beau jarret de porc (1,4 kg)
+- 7 cl d'huile d'olive
+- 4 gousses d'ail, pelées et légèrement écrasées
+- 1 oignon moyen, en dés de 1 cm (140 g)
+- 1 carotte moyenne, en dés de 1 cm (100 g)
+- 2 branches de céleri, en dés de 1 cm (100 g)
+- ½ cuil. à café de grains de poivre noir
+- ½ cuil. à café de quatre-épices moulu
+- ½ cuil. à café de clous de girofle moulus
+- ½ cuil. à café de flocons de piments séchés
+- 1½ cuil. à café de moutarde anglaise en poudre
+- 1½ cuil. à café d'origan séché
+- 1 cuil. à café de paprika doux fumé
+- 1 cuil. à soupe de concentré de tomates
+- 50 cl de bouillon de bœuf
+- 2 boîtes de 400 g de tomates entières pelées
+- Le zeste de 2 oranges
+- 2 brins de romarin, 6 brins de thym et 2 feuilles de laurier, ficelés ensemble
+- Sel de mer et poivre noir
+
+**Pour servir**
+- 6 tranches de pain au levain, de 2 cm d'épaisseur
+- 3 cl d'huile d'olive + 1 cl pour faire cuire les œufs
+- 6 œufs au plat, cuits juste avant de servir
+- 10 g de persil, ciselé
+
+## Déroulé de la recette
+
+1. Égoutter et rincer les haricots, mettre dans une casserole. Couvrir de 5 cm d'eau, porter à ébullition. Réduire le feu et laisser mijoter 30 à 45 min en écumant plusieurs fois. Les haricots doivent être cuits, en restant un peu fermes. Égoutter, rafraîchir et réserver.
+
+2. Verser de l'eau jusqu'à mi-hauteur dans une cocotte et porter à ébullition. Plonger le jarret entièrement et porter à ébullition. Laisser mijoter 30 min à feu moyen en écumant. Sortir et laisser refroidir.
+
+3. Préchauffer le four à 210 °C.
+
+4. Chauffer l'huile d'olive à feu moyen dans une grande cocotte (~20 cm de diamètre). Faire dorer les gousses d'ail entières 5 à 6 min en remuant. Retirer les gousses, augmenter le feu, faire revenir l'oignon 4 min. Ajouter carotte et céleri, cuire 4 min. Assaisonner avec grains de poivre, quatre-épices, clous de girofle, flocons de piment, moutarde, origan et paprika. Faire revenir 1 min. Incorporer le concentré de tomates, remuer 1 min. Ajouter le bouillon, les tomates en boîte, le zeste d'orange, les gousses d'ail cuites et le bouquet garni avec 50 cl d'eau. Mélanger, porter à ébullition, laisser mijoter 5 à 6 min. Déposer le jarret et les haricots dans la cocotte. Poser un disque de papier sulfurisé en surface, fermer avec le couvercle et enfourner 2 h 30. Vérifier à mi-cuisson, ajouter de l'eau si besoin. Retirer et laisser refroidir au moins 1 h à couvert.
+
+5. Sortir le jarret de la cocotte, retirer l'os. Dégraisser la viande et la défaire à la main. Retirer le bouquet garni, remettre les morceaux de jarret dans la cocotte. Mélanger et réchauffer à feu doux.
+
+6. Préchauffer le gril du four. Arroser chaque tranche de pain de 1 cuil. à café d'huile, griller 1 min de chaque côté. Couper en deux en biais. Déposer deux morceaux de pain dans chaque assiette avec le jarret et les haricots par-dessus. Terminer avec les œufs frits. Servir aussitôt, parsemé de persil.
+
+## Noms ingrédients
+
+haricots secs. jarret de porc. ail. oignons. carottes. céleri. piment. concentré de tomate. tomates en conserve. oranges. pain au levain. persil
+# Joues de porc braisées et salade de céleri-rave
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Viande
+
+## Commentaire
+
+Les baies d'épine-vinette sont un ingrédient de base chez Ottolenghi et NOPI — leur piquant aigre-doux manque aux raisins secs et apporte une note astringente bienvenue. Se trouvent en épiceries orientales ou sur Internet. À défaut, utiliser des cerises aigres séchées ou des raisins de Corinthe mélangés avec du jus de citron. Le liquide de braisage restant se garde au réfrigérateur ou se congèle pour une soupe ou un ragoût. Préparer le céleri-rave à l'avance dans de l'eau froide (évite l'oxydation). Les joues peuvent être préparées deux jours à l'avance. Trois vins différents dans cette recette — la sauce riche, complexe et épaisse le justifie amplement.
+
+## Ingrédients
+
+*Pour 8 personnes (entrée) ou 4 personnes (plat)*
+
+**Joues de porc**
+- 20 joues de porc, dénervées et dégraissées (1,4 kg)
+- 50 g de gros sel de mer
+- 3 cuil. à soupe d'huile de tournesol
+- 30 g de beurre doux
+- 2 carottes, épluchées et coupées en morceaux de 2 cm (250 g)
+- 1 gros oignon, pelé et coupé en quartiers de 3 cm (190 g)
+- 1 petit poireau, coupé en morceaux de 2 cm (150 g)
+- 3 branches de céleri, coupées en morceaux de 2 cm (130 g)
+- 7 gousses d'ail, pelées et légèrement écrasées
+- 20 cl de madère
+- 1 cuil. à café de grains de poivre noir
+- 15 g de brins de thym
+- 10 g de brins de romarin
+- 2 feuilles de laurier
+- 1 litre de bouillon (bœuf ou volaille)
+- Sel de mer
+
+**Salade de céleri-rave**
+- 1 cuil. à café de sucre en poudre
+- 40 g de baies d'épine-vinette séchées
+- 1 petit céleri-rave, épluché et en julienne (400 g)
+- 20 g de persil, ciselé
+- 6 cl d'huile d'olive
+- 2½ cuil. à soupe de jus de citron
+- Poivre noir
+
+**Sauce madère**
+- 3 cuil. à soupe de sucre en poudre
+- 15 cl de madère
+- 15 cl de porto
+- 20 cl de vin rouge
+
+## Déroulé de la recette
+
+1. Mélanger les joues de porc avec le gros sel, couvrir et laisser reposer au moins 2 h au réfrigérateur.
+
+2. Préchauffer le four à 120 °C. Rincer les joues de porc, sécher. Verser la moitié de l'huile dans une sauteuse allant au four, chauffer à feu vif. Faire revenir la moitié des joues 6 à 7 min en retournant une fois. Répéter avec le reste des joues.
+
+3. Retirer l'huile de la sauteuse, réduire le feu, ajouter 20 g de beurre. Quand il mousse, ajouter carottes, oignons, poireau, céleri et ail. Faire colorer ~10 min en remuant. Ajouter le madère, laisser mijoter 1 min. Incorporer poivre, herbes et bouillon, porter à frémissement. Remettre les joues, couvrir avec un disque de papier sulfurisé, placer une assiette par-dessus pour maintenir les joues immergées, couvrir et enfourner 2 h 30 jusqu'à viande fondante sans se défaire. Sortir les joues, filtrer le liquide de cuisson. Laisser refroidir, réfrigérer jusqu'à utilisation.
+
+4. **Salade (45 min avant de servir) :** Verser 10 cl d'eau dans une petite casserole, porter à ébullition. Ajouter le sucre, remuer, ajouter l'épine-vinette. Retirer du feu et laisser refroidir. Égoutter les baies, mélanger dans un saladier avec le céleri-rave et le persil. Fouetter huile d'olive, jus de citron, 1 cuil. à café de sel et du poivre. Verser sur le céleri, remuer et laisser reposer ~30 min.
+
+5. **Sauce madère :** Chauffer une casserole à feu doux, ajouter le sucre et laisser caraméliser 4 à 5 min en remuant. Verser délicatement madère, porto et vin rouge en remuant (attention aux projections). Réduire 15 min à feu moyen (~20 cl). Réserver.
+
+6. Dégraisser le liquide de cuisson des joues, verser 40 cl dans la sauteuse, ajouter la sauce madère. Réduire 10 à 15 min à découvert (~25 cl de jus réduit). Déposer les joues de porc, ajouter le reste du beurre. Laisser frémir 10 min pour réchauffer et obtenir une sauce brillante et épaisse.
+
+7. Répartir la salade dans les assiettes, disposer les joues à côté. Arroser de sauce réduite et servir aussitôt.
+
+## Noms ingrédients
+
+joues de porc. carottes. oignons. poireau. céleri. ail. céleri-rave. persil. citrons
+# Magret de canard rôti, beurre de noisettes à la bière, quinoa rouge
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Viande
+
+## Commentaire
+
+Recette amusante car malgré son titre, le beurre ne se retrouve que dans le titre ! Le beurre de noisettes à la bière (bière brune, ale ou stout) est mixé à froid et sert de sauce. La garniture au quinoa rouge avec champignons shimeji et pleurotes, sauce soja et mirin est savamment umami. La technique de démarrer les magrets à froid permet au canard de rendre sa graisse doucement. À servir aussitôt.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+**Magrets**
+- 6 magrets de canard moyens, dégraissés, avec la peau (900 g)
+- 2 cuil. à café de sucre muscovado
+- 1 gros citron vert, coupé en 6 quartiers
+- Sel de mer
+
+**Beurre de noisettes à la bière**
+- 70 g de noisettes, avec la peau et légèrement grillées
+- 7,5 cl de bière (brune, ale ou stout)
+- ½ cuil. à café de moutarde de Dijon
+- ½ cuil. à café de sirop de datte
+- 7 cl d'huile de tournesol
+
+**Garniture au quinoa**
+- 110 g de quinoa rouge
+- 1½ cuil. à soupe d'huile d'olive
+- 1 échalote moyenne, hachée (50 g)
+- 1 grosse gousse d'ail, écrasée
+- 120 g de champignons shimeji, en tranches
+- 120 g de pleurotes, en tranches
+- 2 cuil. à café de vinaigre de riz
+- 2 cuil. à café de mirin
+- 2½ cuil. à café de sauce soja claire
+- 15 g de ciboulette, ciselée
+
+## Déroulé de la recette
+
+1. **Beurre de noisettes :** Mettre dans le bol d'un robot les noisettes, la bière, la moutarde, le sirop de datte et ¼ de cuil. à café de sel. Mixer en pâte fine. Sans couper le moteur, incorporer progressivement l'huile de tournesol. Réserver.
+
+2. **Quinoa :** Dans une petite casserole, porter à ébullition de l'eau légèrement salée. Faire cuire le quinoa 11 min (rester un peu croquant). Égoutter, rafraîchir à l'eau froide et laisser sécher complètement.
+
+3. Chauffer l'huile à feu moyen dans une grande poêle, faire revenir l'échalote et l'ail 2 min. Ajouter les champignons et ½ cuil. à café de sel, cuire encore 2 min en secouant la poêle. Ajouter le quinoa cuit, le vinaigre de riz, le mirin, la sauce soja et la ciboulette. Remuer délicatement 2 min pour évaporer le liquide. Réserver.
+
+4. **Magrets :** Faire six entailles dans la peau à 2 cm de distance et 3 mm de profondeur. Mélanger le sucre avec 2 cuil. à café de sel et frotter la peau des magrets. Disposer 3 magrets dans une grande poêle froide, sur la peau. Augmenter le feu et cuire 8 à 12 min selon la taille pour une cuisson à point. Assaisonner la viande avec ½ cuil. à café de sel, retourner. Cuire 2 à 3 min sur l'autre face en arrosant de graisse fondue. Laisser reposer 2 min avant de découper en biais en tranches de 1 cm. Réserver au chaud. Répéter pour les magrets restants.
+
+5. Étaler 1 cuil. à soupe de beurre de noisettes dans chaque assiette, disposer la garniture au quinoa par-dessus et présenter les tranches de magret à côté. Servir aussitôt avec un quartier de citron vert.
+
+## Noms ingrédients
+
+magrets de canard. citrons verts. noisettes. bière. quinoa rouge. échalotes. ail. champignons shimeji. pleurotes. ciboulette
+# Muffins de maïs et salade de betteraves et pommes
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+Ces muffins réussissent le pari d'être à la fois aériens et crémeux. Pour un résultat plus percutant, remplacer la feta par du gorgonzola. Pour une présentation sophistiquée, utiliser les cosses des épis de maïs pour tapisser les moules (les faire tremper 30 min dans de l'eau pour les assouplir). La recette se simplifie en servant les muffins avec une simple salade verte ou des radis à l'huile d'olive. Selon la taille des moules : moule classique (5 cm de base, 3 cm de profondeur) → 12 muffins ; moule plus grand (7 cm de base, 4,5 cm de profondeur) → 6 muffins.
+
+## Ingrédients
+
+*Pour 6 personnes (entrée copieuse ou déjeuner léger)*
+
+**Muffins**
+- 5 épis de maïs moyens, épluchés, ou 500 g de grains de maïs décongelés
+- 3 petites échalotes, hachées (100 g)
+- 3 gousses d'ail, finement hachées
+- 1 cuil. à café de graines de fenouil, légèrement grillées et grossièrement concassées
+- 1 cuil. à café de cumin moulu, légèrement grillé
+- 1 cuil. à café de graines de céleri
+- 15 g de feuilles d'estragon, grossièrement hachées
+- 1 cuil. à café de levure
+- 80 g de beurre doux, fondu + 20 g pour graisser les moules
+- 2 gros œufs, jaunes et blancs séparés
+- 2 cuil. à soupe de farine
+- 60 g de feta, cassée en 6 ou 12 morceaux selon la taille des moules
+- Sel de mer et poivre noir
+
+**Salade de betterave et pomme**
+- 120 g de yaourt grec
+- 2 cuil. à café de vinaigre de xérès Valdespino (ou autre marque de qualité)
+- 2 cuil. à soupe d'huile d'olive
+- 2 cuil. à soupe de jus de citron
+- ½ cuil. à café de graines de fenouil, grillées et grossièrement concassées + ½ cuil. à café pour servir
+- ½ cuil. à café de graines de céleri
+- 15 g de persil, grossièrement haché
+- 2 betteraves crues, épluchées et en julienne (200 g)
+- 1 pomme granny smith, épluchée et en julienne (140 g — dans de l'eau citronnée pour éviter l'oxydation)
+
+**Pour servir**
+- 5 g de feuilles de basilic
+
+## Déroulé de la recette
+
+1. Préchauffer le four à 190 °C. Graisser six ou douze moules à muffins avec du beurre et tapisser de carrés de papier sulfurisé laissant déborder de quelques centimètres.
+
+2. Mélanger tous les ingrédients de la salade sauf la betterave et la pomme dans un saladier. Réserver jusqu'au moment de servir.
+
+3. Détacher les grains de maïs des épis (obtenir 500 g en tout). Mettre dans le bol d'un robot avec échalotes et ail, mixer 3 à 4 s pour hacher grossièrement sans réduire en purée. Ajouter graines de fenouil, cumin, graines de céleri, estragon, levure, beurre, jaunes d'œufs, 1½ cuil. à café de sel et du poivre. Mixer par impulsions pour mélanger (quelques grains de maïs doivent rester entiers). Transférer dans un saladier. Incorporer la farine à la main et réserver.
+
+4. Battre les blancs d'œufs en neige ferme, incorporer en trois fois à la pâte. Répartir dans les moules, enfoncer un morceau de feta dans chaque alvéole (les muffins vont gonfler autour du fromage en cuisant). Enfourner 25 à 40 min selon la taille des moules, jusqu'à bien gonflés, dorés et moelleux (la pâte sera encore légèrement humide). Laisser reposer 10 min avant de démouler.
+
+5. Juste avant de servir, terminer la salade en ajoutant les betteraves (et égoutter la pomme avant de l'ajouter), mélanger délicatement. Servir les muffins chauds avec la salade, décorée des graines de fenouil restantes et des feuilles de basilic.
+
+## Noms ingrédients
+
+maïs. échalotes. ail. feta. yaourt grec. citrons. persil. betteraves. pomme. basilic
+# Onglets grillés, condiment doux aux champignons et pickle au concombre
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Viande
+
+## Commentaire
+
+L'onglet est un morceau long très goûteux, correspondant à la partie lombaire du diaphragme, d'un beau rouge sombre. Sa chair est persillée avec une texture un peu ferme — il gagne en fondant si on le laisse reposer après cuisson. Sa découpe est très importante : respecter le sens des fibres pour le détailler en tranches. La bavette est une bonne alternative. Le condiment doux aux champignons (sauce brune style NOPI) est véritablement addictif — en préparer plus que nécessaire, il se garde 2 semaines et accompagne aussi des sandwichs à la viande ou du tofu au four avec du riz complet. Pour le dashi, du dashi en poudre (1 cuil. à soupe dans 40 cl d'eau) fonctionne très bien à défaut de maison.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+**Bœuf et marinade**
+- 100 g de miso d'orge (ou de riz brun)
+- 6 gousses d'ail, écrasées
+- 3 cuil. à soupe de mirin
+- 3 cuil. à soupe de saké
+- 3 cuil. à soupe d'huile de tournesol + 1 cuil. à soupe pour la cuisson
+- 4 onglets, dénervés et partiellement dégraissés (1 kg)
+
+**Condiment doux aux champignons**
+- 250 g de shiitakés, tiges et chapeaux émincés et réservés séparément
+- 3 petites feuilles de kombu (15 g)
+- 50 g de sucre en poudre
+- 2½ cuil. à soupe de sauce soja claire
+- 15 g de beurre doux
+- ½ cuil. à café de vinaigre de xérès Valdespino (ou autre marque de qualité)
+- Sel de mer et poivre noir
+
+**Pickle au concombre**
+- 3 petits concombres (200 g), en tranches de 1 cm d'épaisseur dans la longueur (avec la peau)
+- 3½ cuil. à soupe d'huile d'olive
+- 3 oignons rouges moyens, coupés en quartiers de 3 cm puis séparés en « pétales » (375 g)
+- 3 cuil. à soupe de vinaigre de xérès Valdespino (ou autre marque de qualité)
+- 1½ cuil. à soupe de feuilles d'estragon ciselées
+
+## Déroulé de la recette
+
+1. Mélanger le miso, l'ail, le mirin, le saké, l'huile de tournesol et du poivre dans un saladier. Transférer dans un récipient en verre ou porcelaine (pas métal). Ajouter les onglets, enduire uniformément à la main. Couvrir et réfrigérer 4 h (une nuit entière encore mieux). Sortir à température ambiante 30 min avant de cuire.
+
+2. **Condiment :** Mettre les tiges des champignons et le kombu dans une petite casserole avec 45 cl d'eau. Laisser tremper 15 min puis laisser frémir 8 min à feu moyen sans ébullition. Filtrer le bouillon.
+
+3. Faire chauffer à feu doux une casserole, étaler le sucre au fond pour le caraméliser doucement 7 à 8 min. Ajouter délicatement la sauce soja en remuant vivement (attention aux projections), puis 2 cuil. à soupe d'eau. Incorporer les chapeaux des champignons, augmenter le feu. Cuire 3 à 4 min pour que les champignons caramélisent et leur eau s'évapore. Ajouter le bouillon filtré, porter à ébullition, cuire ~8 min jusqu'à réduction de moitié. Mixer pour sauce lisse et épaisse. Sans arrêter le moteur, incorporer beurre, vinaigre de xérès, sel et poivre. Réfrigérer. Sortir à température ambiante 1 h avant de servir.
+
+4. **Pickle :** Mettre les concombres dans un bol avec 1½ cuil. à soupe d'huile d'olive, ¼ de cuil. à café de sel et du poivre. Préchauffer un gril à feu vif, saisir les tranches de concombres (en deux fois) 4 min en retournant à mi-cuisson. Laisser refroidir avant de couper en dés. Réserver dans un saladier.
+
+5. Porter de l'eau à ébullition dans une casserole, blanchir les pétales d'oignons 4 à 5 min (rester légèrement croquants). Égoutter et mettre dans le saladier avec les concombres. Ajouter l'huile restante, saler et poivrer. Ajouter l'estragon juste avant de servir.
+
+6. Préchauffer le four à 210 °C.
+
+7. Sortir les onglets de la marinade et réserver celle-ci. Chauffer un gril à feu vif, ajouter 1 cuil. à soupe d'huile, faire griller les onglets 6 à 8 min en retournant à mi-cuisson.
+
+8. Transférer les onglets sur une grille dans un plat de cuisson tapissé de papier sulfurisé. Badigeonner des deux côtés avec la moitié de la marinade (jeter le reste), enfourner 3 à 4 min. Laisser reposer 3 à 4 min avant de découper en tranches dans le sens des fibres. Étaler 1½ cuil. à soupe de condiment dans chaque assiette et disposer la viande dessus. Servir avec le pickle à part.
+
+## Noms ingrédients
+
+onglet de bœuf. ail. champignons shiitaké. kombu. concombres. oignons rouges
+# Pain de maïs et pêches grillées à la crème d'érable
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Dessert
+
+## Commentaire
+
+Recette demandée depuis des années par les clients de la boutique Ottolenghi d'Upper Street. La version proposée ici est parfaite pour un brunch. Les pêches blanches d'une douceur presque florale sont idéales, mais les pêches jaunes, nectarines ou quetsches conviennent très bien. Pour un brunch plus riche, servir avec des tranches de lard grillées enduites de sirop d'érable et assaisonnées de poivre de Cayenne.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+**Pain de maïs**
+- 80 g de grains de maïs, frais ou surgelés (½ épi moyen)
+- 85 g de farine complète, tamisée
+- 75 g de polenta à cuisson rapide
+- 2½ cuil. à café de levure
+- 25 g de sucre en poudre
+- 65 g de beurre doux + un peu pour le moule
+- 7 cl de lait entier
+- 70 g de yaourt à la grecque
+- 3 œufs, jaunes et blancs séparés
+- ½ cuil. à café de miel liquide
+- Sel de mer et poivre noir
+
+**Crème au sirop d'érable**
+- 12 cl de crème double (45 % MG)
+- ½ cuil. à café de sirop d'érable
+- 120 g de cream cheese
+
+**Pêches grillées**
+- 37,5 cl de sauternes
+- 5 cm de gingembre frais, pelé et en tranches fines (50 g)
+- 4 cuil. à soupe de miel liquide
+- 1 gousse de vanille, fendue en deux, graines grattées
+- 4 grosses pêches blanches juteuses (650 g), coupées en deux et dénoyautées
+- 2 cuil. à café de sucre demerara
+
+## Déroulé de la recette
+
+1. Préchauffer le four à 210 °C. Faire chauffer une grande poêle à feu vif, griller à sec les grains de maïs 2 min en agitant vivement. Retirer et laisser refroidir.
+
+2. Graisser légèrement un moule à pain (22 x 9 cm) et tapisser de papier sulfurisé. Mélanger farine, polenta, levure et sucre, ajouter 1 cuil. à café de sel et du poivre. Faire fondre 25 g de beurre et mettre dans un saladier avec lait, yaourt, jaunes d'œufs, miel et maïs rôti. Mélanger, incorporer aux ingrédients secs. Fouetter les blancs d'œufs jusqu'à pics souples, incorporer en trois fois. Verser dans le moule et enfourner 25 à 30 min (brochette ressortant propre). Laisser reposer 10 min avant de démouler. Laisser refroidir.
+
+3. **Crème :** Mélanger la crème et le sirop d'érable dans un bol, fouetter jusqu'à pics fermes. Incorporer délicatement le cream cheese. Réfrigérer.
+
+4. **Pêches :** Mettre sauternes, gingembre, miel, gousse et graines de vanille dans une casserole, porter à ébullition, laisser épaissir 5 à 6 min (~25 cl). Retirer du feu et réserver. Préchauffer le gril du four. Disposer les oreillons de pêche sur une plaque (peau vers le bas), badigeonner avec 2 cuil. à café de sirop de gingembre, saupoudrer de sucre. Griller 8 à 10 min sous le gril (15 cm de distance) en badigeonnant toutes les 2-3 min. Laisser refroidir un peu (~13 cl de sirop restant pour le service).
+
+5. Juste avant de servir, couper le pain en 8 tranches de 2 cm. Faire fondre 20 g de beurre dans une grande poêle à feu vif, faire frire 4 tranches ~5 à 6 min en retournant à mi-cuisson. Répéter avec le reste du beurre et les dernières tranches. Disposer 2 tranches de pain dans chaque assiette, placer 2 oreillons de pêche à côté. Garnir d'une quenelle de crème au sirop d'érable, décorer d'une lanière de gousse de vanille et arroser d'un peu de sirop.
+
+## Noms ingrédients
+
+maïs. yaourt grec. miel. cream cheese. gingembre. pêches blanches
+# Pain perdu et yaourt à l'orange
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Dessert
+
+## Commentaire
+
+Plébiscité par les clients de NOPI à l'heure du brunch. Le sucre anisé (anis étoilé finement moulu + sucre) est utilisé pour enrober les tranches après cuisson — en préparer plus que nécessaire, il accompagne très bien d'autres desserts.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+**Yaourt à l'orange**
+- 150 g de yaourt à la grecque
+- Le zeste finement râpé de ½ orange
+- 1 cuil. à soupe de jus d'orange
+- 1 cuil. à soupe de sucre glace
+
+**Compote de fruits rouges**
+- 300 g de fruits rouges surgelés
+- 70 g de sucre en poudre
+- 2 cuil. à café de jus de citron
+
+**Sucre anisé**
+- 8 étoiles d'anis entières, finement moulues dans un moulin à épices
+- 50 g de sucre en poudre
+
+**Pain perdu**
+- 5 œufs
+- 20 cl de lait entier
+- 400 g de pain brioché, coupé en 6 tranches de 3 cm d'épaisseur (supprimer les talons)
+- 80 g de beurre doux bien froid, coupé en dés de 2 cm
+
+## Déroulé de la recette
+
+1. Préparer le yaourt en mélangeant tous les ingrédients dans un bol, couvrir et réfrigérer.
+
+2. Mettre les fruits rouges dans une casserole avec le sucre et le jus de citron. Cuire 6 min à feu vif en remuant de temps en temps pour dissoudre le sucre et épaissir le jus. Retirer du feu et laisser reposer 1 h à température ambiante pour faire encore épaissir.
+
+3. Mélanger les ingrédients du sucre anisé et étaler sur une assiette.
+
+4. Casser les œufs dans un récipient et les battre en omelette mousseuse. Incorporer progressivement le lait au fouet, transférer dans un grand plat. Déposer les tranches de brioche dans le mélange à plat (sans se chevaucher), laisser reposer 5 min en retournant une fois. Tout le liquide doit être absorbé.
+
+5. Préchauffer le four à 240 °C.
+
+6. Dans une grande poêle antiadhésive, faire fondre 20 g de beurre, faire frire 3 tranches de brioche 1 à 2 min. Retourner, ajouter 20 g de beurre et faire frire 1 min 30. Transférer sur une plaque. Essuyer la poêle et faire cuire de même le reste du pain brioché. Quand toutes les tranches sont poêlées, les faire dorer au four 4 min. Sortir du four et retourner dans le sucre anisé sur les deux faces.
+
+7. Servir aussitôt avec la compote de fruits rouges et le yaourt à l'orange.
+
+## Noms ingrédients
+
+yaourt grec. oranges. fruits rouges. citrons. pain brioché
+# Pamplemousse grillé au sucre anisé et yaourt à la fleur de sureau
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Dessert
+
+## Commentaire
+
+Scully a du mal à concevoir une recette sucrée sans anis étoilé. Yotam pense que tous les desserts tirent bénéfice d'un peu d'alcool — ici le Grand Marnier est facultatif. Préparer plus de sucre anisé que nécessaire : il apporte une touche intéressante à d'autres desserts (beignets à la ricotta, pain perdu, crêpes fines). Pour moudre les gousses de badiane, utiliser un moulin à épices ou les écraser dans un mortier avant de les passer dans un tamis très fin.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 6 pamplemousses (2,5 kg)
+
+**Sucre anisé**
+- 10 étoiles d'anis entières
+- 3 cuil. à soupe de sucre en poudre
+
+**Yaourt à la fleur de sureau**
+- 1 cuil. à café de sucre en poudre
+- 2 cuil. à soupe de Grand Marnier (facultatif)
+- 3 cuil. à soupe de cordial de fleur de sureau
+- 1 pamplemousse (râper finement le zeste et prélever le jus)
+- 200 g de yaourt nature
+- Le zeste finement râpé de 1 pamplemousse
+
+## Déroulé de la recette
+
+1. Réduire les étoiles d'anis en poudre fine, passer dans un tamis fin pour enlever les gros morceaux. Ajouter le sucre, mélanger et réserver.
+
+2. **Yaourt à la fleur de sureau :** Mettre dans une petite casserole le sucre, le Grand Marnier (facultatif), le cordial et 5 cl de jus de pamplemousse. Porter à ébullition, laisser mijoter ~8 min à feu moyen en remuant souvent pour obtenir un sirop épais (~3 cuil. à soupe). Laisser refroidir, incorporer le yaourt et le zeste de pamplemousse. Réfrigérer jusqu'à utilisation.
+
+3. Avec un couteau, retirer 5 cm à une extrémité des pamplemousses (pour qu'ils ne roulent pas), puis couper en deux. Avec un couteau à agrume, détacher la chair de la peau en évitant la peau blanche amère, découper la chair en cubes de 2 cm (éliminer les pépins). Jeter les six moitiés sans fond plat. Mettre les cubes de chair dans les six moitiés restantes qui tiennent debout.
+
+4. Préchauffer le gril du four à 250 °C. Saupoudrer chaque moitié de pamplemousse avec 1 cuil. à soupe de sucre anisé, déposer sur une plaque tapissée de papier sulfurisé. Faire griller 4 à 5 min jusqu'à caramélisation du sucre. Servir aussitôt avec le yaourt.
+
+## Noms ingrédients
+
+pamplemousse. yaourt nature
+# Pancakes de patates douces, yaourt et sirop de datte
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Dessert
+
+## Commentaire
+
+Un classique du brunch NOPI, mais aussi excellent avec des tranches de lard grillées. La pâte peut se préparer la veille jusqu'avant l'incorporation des blancs en neige — battre et incorporer les blancs au dernier moment. La consistance des pancakes est très molle, donc veiller à ne pas les casser en les retournant.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 2 patates douces moyennes, avec la peau (700 g)
+- 200 g de farine complète, tamisée
+- 2 cuil. à café de levure
+- 1 cuil. à café de noix de muscade râpée
+- 1 cuil. à café de cannelle moulue
+- 3 œufs, jaunes et blancs séparés
+- 15 cl de lait entier
+- 50 g de beurre doux, fondu + 80 g coupés en dés pour la cuisson
+- 1 cuil. à café d'extrait de vanille
+- 1 cuil. à soupe de miel liquide
+- Fleur de sel
+
+**Pour servir**
+- 160 g de yaourt à la grecque
+- 60 g de sirop de datte
+- 1 cuil. à café de sucre glace pour saupoudrer
+
+## Déroulé de la recette
+
+1. Préchauffer le four à 240 °C. Disposer les patates douces sur une plaque tapissée de papier sulfurisé et cuire 1 h jusqu'à bien dorées et tendres à cœur. Retirer du four, laisser refroidir, peler. Mettre la chair dans un carré de mousseline, tordre pour former une boule en pressant bien pour enlever toute l'eau de végétation. Obtenir ~320 g de chair égouttée. Baisser le four à 180 °C.
+
+2. Mélanger dans un récipient la farine, la levure, la noix de muscade, la cannelle et ½ cuil. à café de sel. Mettre les jaunes d'œufs, le lait, le beurre fondu, la vanille et le miel dans un autre bol, battre au fouet avant d'incorporer les ingrédients secs, puis la chair de patates douces. Fouetter pour une consistance lisse. Réfrigérer si préparé à l'avance.
+
+3. Avant de cuire, battre les blancs d'œufs en neige ferme (3 à 4 min au fouet manuel ou 1 à 2 min au fouet électrique). Incorporer délicatement à la pâte.
+
+4. Faire fondre 20 g de beurre en dés à feu moyen dans une grande poêle. Quand il mousse, cuire 3 pancakes en formant des petits disques (2 cuil. à soupe bombées de pâte par pancake), dorer 3 à 4 min en retournant à mi-cuisson. Transférer sur une plaque tapissée de papier sulfurisé. Répéter pour les 12 pancakes au total en ajoutant 20 g de beurre à chaque tournée. Passer au four 5 min pour réchauffer.
+
+5. Disposer 3 pancakes dans chaque assiette, ajouter 1 cuillerée de yaourt, arroser de sirop, saupoudrer de sucre glace et servir.
+
+## Noms ingrédients
+
+patate douce. miel. yaourt grec
+# Pastilla de poulet
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Viande
+
+## Commentaire
+
+Plat exigeant mais spectaculaire, idéal pour une grande tablée. À l'origine servi au lapin chez NOPI, puis au faisan à Noël. La sauce au chocolat, piments fumés, bouillon et vin donne une impression de gibier même avec du poulet. Peut se préparer jusqu'à l'étape 3 incluse la veille (réfrigérer la viande en sauce toute la nuit, ramener à température ambiante avant de poursuivre). Recette née des guirlandes de piments séchés suspendues en déco dans l'entrée du restaurant — Scully cherchait à les utiliser. Les épinards à la catalane viennent d'Andreu Altamirano, héritage paternel.
+
+## Ingrédients
+
+*Pour 12 personnes*
+
+**Poulet et sauce**
+- 1 poulet de 1,5 kg, coupé en 6 (ou 2 blancs, 2 cuisses et 2 pilons, avec la peau)
+- 2 cuil. à soupe d'huile de tournesol
+- 2 oignons moyens, émincés (250 g)
+- 2 gousses d'ail, émincées
+- 4 grosses tomates mûres, découpées en 8 quartiers (350 g)
+- 4 longs bâtons de cannelle
+- 1 cuil. à café de poivre rose
+- 2 piments chipotle séchés (ou 1 piment d'Urfa et 2 piments rouges séchés), épépinés
+- 10 cl de cognac
+- 50 cl de vin blanc
+- 50 cl de bouillon de volaille
+- 40 g de chocolat noir (à 70 % de cacao), grossièrement cassé
+- Sel de mer et poivre noir
+
+**Épinards à la catalane**
+- 10 cl de vinaigre de xérès Valdespino (ou autre qualité)
+- 10 cl de cognac
+- 100 g de groseilles
+- 150 g de pignons de pin, grillés
+- 1½ cuil. à soupe d'huile d'olive
+- 1 cuil. à café de paprika fumé
+- 3 petites échalotes, émincées (100 g)
+- 2 gousses d'ail, émincées
+- 20 cl de crème double
+- 300 g de jeunes feuilles d'épinards
+
+**Montage**
+- 100 g de ghee, fondu
+- 250 g de pâte filo (18 à 20 feuilles)
+- 20 g de sucre glace
+- Sel de mer et poivre noir
+
+## Déroulé de la recette
+
+1. Assaisonner le poulet avec 1½ cuil. à café de sel et du poivre. Chauffer l'huile dans une grande poêle à feu vif, faire dorer la moitié du poulet 7 à 8 min sur toutes les faces. Répéter avec les morceaux restants.
+
+2. Dans la même poêle, faire revenir oignons et ail à feu moyen 15 à 18 min jusqu'à bien caramélisés. Ajouter tomates, cannelle, poivre rose, piments séchés et ½ cuil. à café de sel. Cuire 4 à 5 min, verser le cognac. Cuire encore 2 min, remettre le poulet, verser vin et bouillon. Baisser le feu, couvrir et laisser mijoter 1 h. Sortir le poulet, augmenter le feu et laisser la sauce réduire d'un quart 30 à 35 min (consistance de sirop épais). Retirer cannelle et piments, ajouter le chocolat et laisser fondre 2 min en remuant. Laisser refroidir.
+
+3. Quand le poulet est tiède, désosser et effilocher, remettre dans la sauce. Mélanger délicatement et réserver.
+
+4. **Épinards à la catalane :** Chauffer vinaigre et cognac 5 min à feu moyen dans une petite casserole. Hors du feu, incorporer les groseilles et laisser refroidir. Mélanger les pignons avec 1 cuil. à café d'huile et le paprika. Dans une très grande sauteuse, chauffer le reste d'huile à feu moyen, colorer les échalotes 8 min. Ajouter l'ail et 1 cuil. à café de sel, cuire 2 min. Incorporer groseilles et pignons, cuire 2 min. Ajouter la crème, quand réduite d'un quart, incorporer les épinards. Cuire 3 à 4 min sans couvrir jusqu'à flétrissement (rester 2 cuil. à soupe de liquide).
+
+5. Préchauffer le four à 180 °C. Graisser le fond et les côtés d'une grande sauteuse allant au four (~25 cm de diamètre, 8 cm de profondeur) avec 1 cuil. à soupe de ghee. Badigeonner de ghee les deux tiers des feuilles de filo, en tapisser le fond et les côtés en les faisant se chevaucher et dépasser de 8 cm. Étaler les épinards, ajouter le poulet effiloché. Recouvrir avec le reste de filo (généreusement badigeonné de ghee), glisser les bords contre les parois, rabattre les feuilles dépassantes et badigeonner de ghee fondu.
+
+6. Enfourner 1 h. Couvrir de papier aluminium pour les 10 dernières minutes. Laisser reposer 10 min avant de retourner sur un plat. Saupoudrer de sucre glace et servir chaud aussitôt.
+
+## Noms ingrédients
+
+poulet. oignons. ail. tomates en conserve. piment chipotle. chocolat noir. groseilles. pistaches. échalotes. épinards
+# Poêlons de fromage bleu au four et pickle de betterave
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+L'un des rares plats que les clients de NOPI ne laisseront jamais enlever de la carte. La base est inspirée d'une recette australienne (biscuits locaux remplacés par des digestive biscuits et du parmesan). Le stilton peut être remplacé par de la fourme d'Ambert ou du roquefort. Le valdeón (fromage espagnol aux saveurs prononcées) n'est pas toujours facile à trouver. Le pickle doit se préparer la veille — il se garde plusieurs semaines au réfrigérateur et accompagne très bien un poisson grillé ou un plateau de fromage. Peut se faire en grand format dans un moule à manqué (doubler les ingrédients de la base, cuisson 45 min, laisser reposer 1 h avant de démouler). Le miel peut être mélangé avec quelques gouttes d'huile de truffe.
+
+## Ingrédients
+
+*Pour 8 personnes*
+
+**Pickle de betteraves**
+- 3 grosses betteraves (670 g), avec la peau et bien nettoyées
+- 2 gousses d'ail, écrasées
+- 1 feuille de laurier
+- 10 g de brins de thym
+- ½ cuil. à café de grains de poivre noir
+- 50 g de sucre en poudre
+- 50 cl de vinaigre de vin rouge
+- Sel de mer
+
+**Base**
+- 40 g de beurre doux, en dés de 2 cm + 20 g de beurre fondu pour graisser les moules
+- 50 g de graines de potiron, grillées
+- 5 digestive biscuits (75 g), grossièrement émiettés
+- 40 g de parmesan, grossièrement râpé
+
+**Garniture au fromage**
+- 20 g de beurre doux
+- 1 poireau moyen, paré et émincé (125 g)
+- 360 g de cream cheese
+- 170 g de crème fraîche
+- 80 g de crème double (45 % MG)
+- 2 gousses d'ail, écrasées
+- 20 g de ciboulette, ciselée
+- 1 cuil. à soupe de basilic haché
+- 100 g de stilton (ou 75 g de valdeón blue et 25 g de gorgonzola), grossièrement émietté
+- 4 œufs, légèrement battus
+
+**Pour servir**
+- 40 g de miel liquide (mélangé avec quelques gouttes d'huile de truffe — facultatif)
+- 30 g de noisettes, grillées et légèrement concassées
+- 15 g de feuilles de basilic
+
+## Déroulé de la recette
+
+1. **Pickle :** Mettre tous les ingrédients dans une casserole moyenne, ajouter 1 cuil. à soupe de sel et 80 cl d'eau. Porter à ébullition, baisser le feu, couvrir et laisser frémir 35 à 40 min jusqu'à ce que les betteraves soient tendres. Laisser refroidir complètement. Sortir les betteraves, les peler et les couper en dés de 1 cm. Filtrer la marinade et la faire réduire de moitié 25 min à feu moyen (~60 cl). Laisser refroidir, verser sur les betteraves. Réfrigérer 24 h.
+
+2. Préchauffer le four à 190 °C. Graisser 8 poêlons ou moules à soufflé de 12 cm de diamètre, placer un disque de papier sulfurisé au fond.
+
+3. **Base :** Mettre tous les ingrédients dans un robot, ajouter ½ cuil. à café de sel, mixer en chapelure fine. Étaler dans les poêlons sur le papier sulfurisé en pressant fermement. Réserver.
+
+4. **Garniture :** Dans une petite sauteuse, faire revenir le poireau à feu moyen dans le beurre ~7 min jusqu'à tendre et vert tendre. Laisser refroidir, transférer dans un saladier avec cream cheese, crème fraîche, crème double, ail, ciboulette, basilic, ½ cuil. à café de sel et du poivre. Mélanger en pâte lisse, incorporer le stilton et les œufs. Répartir dans les poêlons. Enfourner 25 à 30 min jusqu'à cuit (brochette ressortant propre). Servir aussitôt (dans les poêlons), arrosé de miel et parsemé de noisettes et de basilic. Déposer du pickle de betteraves égoutté sur chaque poêlon ou servir à part.
+
+## Noms ingrédients
+
+betteraves. ail. parmesan. poireau. cream cheese. ciboulette. basilic. roquefort. miel. noisettes
+# Poitrine de porc rôtie, écrasée de butternut et salsa pomme-noix
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Viande
+
+## Commentaire
+
+Le secret d'une couenne parfaitement croustillante tient à un geste simple : frotter la couenne avec une moitié de citron en pressant le jus, puis recouvrir de sel. Technique transmise à Scully lors d'un show gastronomique à Sydney en 2009. L'écrasée de butternut se marie très bien avec des volailles rôties aux échalotes braisées au vin rouge. La salsa donne du peps à des poissons gras grillés.
+
+## Ingrédients
+
+*Pour 4 personnes (portions généreuses)*
+
+**Porc**
+- 20 g de brins de thym
+- 12 grosses gousses d'ail entières, légèrement écrasées avec le plat d'un couteau
+- 4 bâtons de citronnelle, légèrement écrasés au rouleau à pâtisserie
+- 10 cm de gingembre (100 g), coupé en tranches de 1 cm (avec la peau)
+- 1,5 kg de poitrine de porc, avec les os et la couenne
+- 1 citron, coupé en deux
+- 60 g de gros sel marin
+- 50 cl de vin blanc sec
+
+**Écrasée de butternut**
+- 1 courge butternut (1,5 kg), épluchée et coupée en cubes de 2 cm
+- 2 cuil. à soupe d'huile d'olive
+- 30 g de beurre doux
+- 1 cuil. à soupe de vinaigre de riz
+- 3 cuil. à soupe de pâte de miso blanc
+
+**Salsa pomme-noix**
+- 1 pomme granny smith, avec la peau, coupée en dés de 1 cm
+- 70 g de noix, grillées et légèrement concassées
+- 50 g de noix marinées, rincées et coupées en dés de 1 cm
+- 1 cuil. à soupe de vinaigre de riz
+- 2 cuil. à soupe de jus de yuzu (ou de citron vert)
+- 1 cuil. à soupe de mirin
+- 10 g d'estragon, ciselé
+- 3 cuil. à soupe d'huile d'olive
+- Sel de mer et poivre noir
+
+## Déroulé de la recette
+
+1. Préchauffer le four à 240 °C. Disposer thym, gousses d'ail, citronnelle et gingembre dans un plat de cuisson (32 cm x 24 cm). Placer la poitrine de porc sur les aromates, couenne vers le haut. Sécher la viande avec du papier absorbant, la frotter avec le citron en pressant le jus. Laisser sécher 10 min, assaisonner uniformément la couenne avec la moitié du sel. Enfourner et cuire 1 h (couenne légèrement croustillante).
+
+2. Sortir la viande, gratter le dessus pour enlever le sel rôti. Étaler le reste du sel sur la couenne, remettre au four 30 min (couenne bien dure). Régler le four à 180 °C. Si une bulle s'est formée sous la couenne, la piquer délicatement. Verser le vin dans le plat sans mouiller la couenne, ajouter 40 cl d'eau. Cuire 1 h, puis encore 1 h à 120 °C. Sortir et laisser reposer 30 min. Monter le four à 210 °C.
+
+3. **Écrasée de butternut :** Mélanger les cubes de courge avec l'huile d'olive, étaler dans un grand plat de cuisson. Enfourner 30 à 40 min. Transférer dans un saladier, ajouter le beurre. Écraser grossièrement avec un presse-purée, incorporer le vinaigre de riz, le miso, 1 cuil. à café de sel et du poivre. Réserver au chaud.
+
+4. **Salsa :** Mélanger tous les ingrédients dans un bol, saler et poivrer.
+
+5. Mettre la viande sur une planche, gratter le sel sur la couenne, découper en tranches de 3 à 4 cm avec un grand couteau à dents. Répartir l'écrasée de potiron dans les assiettes, disposer une tranche de viande dessus. Garnir de salsa ou servir celle-ci à part.
+
+## Noms ingrédients
+
+ail. citronnelle. gingembre. poitrine de porc. citrons. butternut. pomme. noix. yuzu
+# Pudding de farro aux oranges caramélisées, tahini et pistaches
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Dessert. Végé
+
+## Commentaire
+
+On trouvera de grandes différences de texture et de goût dans les tahinis. La préférence va aux marques moyen-orientales — Al Yaman et Al Arz sont les favorites — plutôt que grecques, de texture plus grossière. Le tahini arabe (principalement libanais et palestinien) est merveilleusement lisse et crémeux. Une fois qu'on y a goûté, on est converti.
+
+Dans son livre *Plenty More*, Yotam a proposé une autre version de ce dessert en utilisant de l'orge mondé au lieu du farro. Ces deux produits ont un intérêt double : ils donnent des recettes très réconfortantes et les grains ne se défont pas en une bouillie informe à la cuisson. L'orge perlé donnera donc un résultat similaire si vous n'avez pas de farro.
+
+Ce pudding est présenté dans des ramequins individuels, mais vous pouvez le laisser dans son plat de cuisson, si vous préférez.
+
+## Ingrédients
+
+*Pour 6 à 8 personnes*
+
+- 300 g de farro, abondamment rincé à l'eau froide
+- ½ gousse de vanille, fendue en deux dans la longueur, graines grattées et réservées
+- Le zeste finement râpé de ½ citron + 1 cuil. à soupe de jus de citron, pour servir
+- 150 g de sucre en poudre
+- 60 cl de lait entier
+- 20 cl de crème épaisse
+- 30 g de beurre doux
+- 4 cuil. à soupe de tahini
+
+### Oranges caramélisées
+
+- 2 grosses oranges
+- 100 g de sucre en poudre
+
+### Pour servir
+
+- 60 g de pistaches décortiquées, rôties et grossièrement hachées
+- ½ cuil. à café d'eau de fleur d'oranger
+
+---
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 170 °C (th. 5-6).
+
+2. Mettez le farro dans une casserole avec le sucre, le lait, la crème, le zeste de citron, la gousse et les graines de vanille, le beurre et 1 cuil. à café de sel. Mélangez bien et portez à ébullition — cela devrait prendre 5 min —, puis transférez la préparation dans un plat de cuisson (20 x 24 cm). Couvrez de papier d'aluminium et enfournez pour 40 min en remuant une fois à mi-cuisson, jusqu'à ce que la consistance soit celle d'un riz au lait coulant. Transférez alors le mélange dans des ramequins individuels (ou laissez le pudding dans le plat si vous préférez). Si vous servez les puddings tout de suite, remettez-les au four pour 15 min — sans les couvrir — afin que les grains soient bien gonflés. Sinon, réservez-les. Vous les remettrez au four 15 min avant de servir.
+
+3. Préparez les oranges caramélisées. Prélevez le zeste d'une des oranges et réservez-le. Avec un couteau tranchant, coupez le sommet et la base des deux oranges, puis pelez les fruits à vif avant de séparer les quartiers en coupant entre les membranes — travaillez au-dessus d'un bol pour récupérer le jus, puis pressez le résidu de chaque orange pour en exprimer tout le jus. Réservez séparément les quartiers (environ 200 g) et le jus d'orange (environ 6 cl).
+
+4. Étalez le sucre au fond d'une petite casserole et faites-le cuire 8 à 10 min à feu moyen, sans jamais le remuer, jusqu'à ce qu'il soit fondu et forme un caramel bien doré. Hors du feu, incorporez délicatement le jus d'orange en brassant vigoureusement. Remettez sur le feu et continuez de remuer pour obtenir une texture lisse. Retirez du feu, puis ajoutez les quartiers et le zeste d'orange. Mélangez délicatement — les quartiers d'oranges doivent rester entiers —, puis réservez.
+
+5. Au moment de servir, arrosez chaque pudding de tahini chaud, puis déposez les quartiers d'oranges par-dessus. Mélangez les pistaches avec le jus de citron et l'eau de fleur d'oranger, avant d'en garnir les puddings. Servez sans attendre.
+
+## Noms ingrédients
+
+oranges. pistaches. tahin. citrons
+# Purée de lentilles indiennes et aubergines piquantes
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+À la carte de NOPI, cette recette accompagne un filet de mulet poêlé, mais l'association lentilles et aubergines se suffit à elle-même pour une version végétarienne nourrissante et savoureuse. L'urid dhal est la version décortiquée et « cassée » du haricot mungo (urd) — une fois débarrassé de son tégument, il est d'une couleur crème (d'où le nom « lentille blanche »). Se trouve facilement en grandes surfaces ou épiceries exotiques.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 100 g de pulpe de tamarin
+- 1 litre d'huile de tournesol pour faire frire les aubergines + 7,5 cl pour la sauce épicée
+- 2 grosses aubergines, coupées en deux dans la longueur puis en tranches de 2 cm (880 g)
+- 50 g de ghee
+- 8 gousses d'ail, écrasées
+- 4 cm de gingembre, épluché et haché (40 g)
+- 300 g de lentilles urid dhal, rincées
+- 10 cl de jus de citron
+- 2 gros oignons, émincés (300 g)
+- 1 cuil. à soupe de graines d'anis vert
+- 2 piments rouges longs, épépinés et émincés
+- 10 g de feuilles de curry frais
+- 1½ cuil. à soupe de curry doux en poudre
+- 1 cuil. à café de curcuma moulu
+- 3 cuil. à soupe de cassonade
+- 2 petits bâtons de cannelle
+- 30 gousses de cardamome (1 cuil. à soupe), légèrement écrasées
+- 1 cuil. à soupe de clous de girofle entiers
+- 30 g de coriandre, grossièrement hachée
+- 120 g de yaourt grec, pour servir
+- Sel de mer
+
+## Déroulé de la recette
+
+1. Mettre la pulpe de tamarin dans un bol et verser 45 cl d'eau bouillante. Laisser tremper 30 min, puis malaxer pour que la pulpe ramollisse complètement. Filtrer l'eau du tamarin (jeter la pulpe). Réserver ~35 cl de liquide.
+
+2. Verser 1 litre d'huile dans une poêle moyenne (sur ~3 cm de hauteur), chauffer à feu vif. Faire frire les morceaux d'aubergines en quatre fois 6 à 8 min jusqu'à brun doré. Égoutter dans une passoire tapissée de papier absorbant.
+
+3. Chauffer le ghee à feu moyen dans une casserole. Faire revenir ail et gingembre 3 à 4 min pour qu'ils commencent à embaumer. Ajouter les lentilles, mélanger 1 min, augmenter le feu et verser 80 cl d'eau. Laisser frémir ~12 min jusqu'à ce que les lentilles soient cuites (rester un peu fermes). Transférer dans un robot avec jus de citron et 2½ cuil. à soupe de sel. Mixer en pâte légèrement grumeleuse. Transvaser dans un petit saladier, couvrir avec du film alimentaire posé directement à la surface. Réserver au chaud.
+
+4. Chauffer l'huile de tournesol restante à feu vif dans une casserole. Faire revenir les oignons avec les graines d'anis et 1 pincée de sel 7 à 8 min. Quand fondants, ajouter piments et feuilles de curry. Cuire 1 min, incorporer curry en poudre, curcuma et sucre. Remuer 1 min pour dissoudre le sucre, verser l'eau de tamarin. Envelopper cannelle, cardamome et clous de girofle dans une mousseline et plonger dans la casserole. Cuire 9 à 10 min pour obtenir une sauce épaisse et brillante. Retirer la mousseline, incorporer l'aubergine et 1 cuil. à café de sel.
+
+5. Étaler la purée de lentilles chaude dans un plat de service (ajouter quelques cuillères d'eau ou jus de citron si trop consistante). Disposer l'aubergine dessus. Garnir de coriandre et de yaourt. Servir sans attendre.
+
+## Noms ingrédients
+
+tamarin. aubergines. ail. gingembre. lentilles urid dhal. citrons. oignons. anis vert. piment rouge. feuilles de curry. coriandre. yaourt grec
+# Ris d'agneau en croûte de poivre, purée de petits pois, sauce au miso
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Viande
+
+## Commentaire
+
+Les ris d'agneau (thymus) ont une texture incroyablement fondante, d'autant plus intéressante panés et frits, avec un cœur contrastant avec l'enveloppe croustillante. Meilleurs au printemps, car ils proviennent de très jeunes bêtes — à commander chez le boucher et consommer le jour même, fermes au toucher et bien bombés. La purée de pois peut faire une très belle alternative au guacamole en entrée (avec feta émiettée et huile d'olive). Pour un repas plus consistant, accompagner d'un gratin de pommes de terre et céleri-rave.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+**Ris d'agneau**
+- 800 g de ris d'agneau (entre 12 et 16 selon la taille), rincés
+- Environ 40 cl de lait entier
+- 30 g de farine de maïs
+- 30 g de farine de ménage
+- 1 cuil. à soupe de poivre blanc moulu
+- 15 cl d'huile de tournesol
+- 40 g de beurre doux
+- 20 g de graines germées (ou petites feuilles de mâche), pour la garniture
+- 1 citron, coupé en quatre dans la longueur, pour servir
+- Sel de mer et poivre noir
+
+**Purée de pois**
+- 400 g de petits pois (frais ou surgelés)
+- 25 g de feuilles de menthe
+- Le zeste finement râpé de 1 citron
+- 2 cuil. à soupe d'huile d'olive
+
+**Sauce au miso**
+- 50 g de pâte de miso blanc
+- 1½ cuil. à soupe de vinaigre de riz
+- 1 cuil. à soupe de mirin
+- ⅛ de cuil. à café d'huile de sésame
+
+## Déroulé de la recette
+
+1. Mettre les ris d'agneau dans un saladier, verser le lait (ajouter si besoin pour bien les recouvrir), couvrir et laisser 2 h au réfrigérateur. Égoutter et rincer à l'eau froide.
+
+2. Porter de l'eau salée à ébullition, blanchir les ris 5 min jusqu'à ce qu'ils commencent à se raffermir. Égoutter, rincer délicatement à l'eau froide, retirer la membrane externe. Sécher avec un linge propre et réserver.
+
+3. **Purée :** Blanchir les petits pois 2 min dans de l'eau salée, égoutter et rafraîchir à l'eau froide. Bien sécher avant de mixer grossièrement avec la menthe, le zeste de citron, l'huile d'olive et 1 cuil. à café de sel. Réserver à température ambiante.
+
+4. **Sauce :** Mélanger le miso, le vinaigre, le mirin, l'huile de sésame et 1 cuil. à soupe d'eau dans un bol. Réserver.
+
+5. Mélanger dans un saladier la farine de maïs, la farine de ménage, le poivre blanc moulu, 1 cuil. à soupe de sel et ½ cuil. à café de poivre noir. Rouler les ris dans ce mélange.
+
+6. Chauffer l'huile de tournesol à feu vif dans une grande poêle. Faire frire la moitié des ris 10 min en les retournant sans cesse pour qu'ils colorent de toutes parts. Sortir avec une écumoire et réserver au chaud. Faire cuire les autres ris de même. Remettre la première tournée dans la poêle, ajouter le beurre et prolonger la cuisson 2 min en arrosant avec le beurre fondu. Égoutter dans une passoire et saupoudrer d'une pincée de sel.
+
+7. Répartir la purée dans les assiettes, disposer les ris par-dessus. Arroser de sauce miso, garnir de graines germées, ajouter un quartier de citron et servir sans attendre.
+
+## Noms ingrédients
+
+ris d'agneau. petits pois. menthe. citrons
+# Risotto d'orge au cresson et salade d'asperges vertes au pecorino
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+Le mot « risotto » mérite ses guillemets ici — l'orge perlé confère une texture intéressante qui s'accorde parfaitement à la purée de cresson. Choisir de grosses asperges, plus faciles à détailler en rubans avec un économe. Hors saison, remplacer les asperges par des rubans de courgette (1 courgette moyenne = 180 g de rubans). Ne pas préparer la salade d'asperges trop longtemps avant de servir.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+**Risotto**
+- 300 g d'orge perlé
+- 2,4 litres de bouillon de légumes
+- 100 g de jeunes feuilles d'épinards
+- 200 g de cresson
+- 9 cl d'huile d'olive
+- 120 g de beurre doux (dont 80 g en dés de 1 cm)
+- 1 échalote moyenne, émincée (70 g)
+- 2 gousses d'ail, émincées
+- 3 brins de thym
+- 1 feuille de laurier
+- 4 champignons bruns, émincés (250 g)
+- 1 poireau moyen, émincé (180 g)
+- 2 cuil. à soupe de jus de citron
+- Sel de mer et poivre noir
+
+**Salade d'asperges au pecorino**
+- 200 g d'asperges vertes (10 pièces), parées
+- 60 g de pecorino
+- ½ cuil. à café d'huile d'olive
+- 1½ cuil. à café de jus de citron
+
+## Déroulé de la recette
+
+1. Mettre l'orge dans une casserole avec 1,8 litre de bouillon. Porter à ébullition, baisser le feu et laisser mijoter 30 à 35 min sans couvrir jusqu'à cuit mais encore un peu croquant. Égoutter et réserver.
+
+2. Laver la casserole, remplir d'eau et porter à ébullition. Blanchir les épinards 30 s, transférer avec une écumoire dans une passoire. Rincer sous l'eau froide, presser pour éliminer l'eau. Dans la même eau bouillante, blanchir le cresson 30 s, transférer, rincer et presser. Hacher grossièrement épinards et cresson. Réserver.
+
+3. Essayer la casserole, ajouter 2 cuil. à soupe d'huile d'olive et 40 g de beurre. À feu moyen, faire revenir échalote et ail 6 à 7 min en remuant pour attendrir sans colorer. Ajouter thym et laurier, verser 40 cl de bouillon et porter à ébullition. Laisser frémir 10 min pour réduire aux trois quarts (~10 cl). Ajouter épinards et cresson, réchauffer 2 min. Retirer laurier et thym, transférer aussitôt dans un blender. Saler (½ cuil. à café) et poivrer généreusement. Incorporer progressivement le beurre en dés. Réserver au chaud.
+
+4. Dans une grande sauteuse, chauffer 2 cuil. à soupe d'huile à feu vif, faire revenir les champignons 3 min sans les laisser colorer. Retirer les champignons avec leur liquide. Ajouter 2 cuil. à soupe d'huile dans la sauteuse, faire fondre le poireau à feu moyen 3 min. Retirer et réserver.
+
+5. **Salade :** Avec un économe, détailler les asperges en minces longs rubans, déposer dans un saladier. Faire des copeaux de pecorino, déposer sur les asperges. Ajouter huile d'olive et jus de citron, saler et poivrer, remuer délicatement. Réserver.
+
+6. Au moment de servir, transférer l'orge et les champignons dans la sauteuse, verser les 20 cl restants de bouillon. Réchauffer 3 à 4 min à feu vif en remuant délicatement. Incorporer la purée de cresson, remuer 1 min, verser le jus de citron. Saler et poivrer. Servir aussitôt avec la salade d'asperges et de pecorino.
+
+## Noms ingrédients
+
+épinards. cresson. échalotes. ail. champignons bruns. poireau. citrons. asperges. pecorino
+# Riz à l'iranienne et tzatziki au beurre brûlé
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+Appelés « nids d'amour » chez NOPI — longs à réaliser mais récompensants. Peuvent être confectionnés à l'avance jusqu'au moment de les faire griller. Pour gagner du temps : remplacer le tzatziki par du yaourt à la grecque au citron, ou sauter l'emballage dans les feuilles de vigne (le riz se suffit à lui-même). Le mélange d'épices (pétales de rose, coriandre, cardamome, muscade, cannelle) se garde 1 mois en récipient hermétique et peut assaisonner poisson, agneau, cailles rôties ou légumes-racines au four. Les mulberries blanches séchées (saveur proche des mûres) peuvent être remplacées par des raisins secs blonds.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+**Tzatziki au beurre brûlé**
+- 2 petites courgettes, parées et grossièrement râpées (190 g)
+- 140 g de yaourt grec
+- 2 cuil. à café de jus de citron
+- 5 g de ciboulette finement ciselée
+- 5 g de feuilles de menthe ciselées
+- 50 g de beurre doux
+- Sel de mer et poivre noir
+
+**Mélange d'épices**
+- 1 cuil. à soupe de pétales de rose séchés, réduits en fine poudre
+- 2¼ de cuil. à café de coriandre en poudre
+- ¾ de cuil. à café de cardamome en poudre
+- ¼ de cuil. à café de noix de muscade fraîchement râpée
+- ¼ de cuil. à café de cannelle en poudre
+- ¼ de cuil. à café de poivre noir concassé
+
+**Nids d'amour (riz)**
+- 30 g de mulberries séchées
+- 40 g d'épine-vinette
+- 24 feuilles de vigne (140 g)
+- 1 cuil. à soupe d'huile d'olive
+- 1 petit oignon, pelé et en petits dés (120 g)
+- 2 gousses d'ail, écrasées
+- 3 cm de gingembre, épluché et râpé (20 g)
+- 1 pincée de stigmates de safran, infusés dans 1 cuil. à soupe d'eau bouillante
+- 125 g de riz basmati
+- 30 cl de bouillon de légumes chaud
+- 1 carotte moyenne, épluchée et grossièrement râpée (100 g)
+- 40 g d'amandes effilées, grillées
+- 40 g de pistaches décortiquées, grillées
+- 1 cuil. à soupe d'huile de tournesol
+- 1 cuil. à café de pétales de rose séchés, pour servir (facultatif)
+
+## Déroulé de la recette
+
+1. **Tzatziki :** Mettre les courgettes dans une passoire avec ¼ de cuil. à café de sel. Laisser égoutter 15 min, presser pour extraire l'humidité. Transférer dans un saladier avec yaourt, jus de citron, ciboulette, menthe, ¼ de cuil. à café de sel et du poivre. Dans une petite casserole, faire fondre le beurre 2 min à feu moyen jusqu'à brunissement et parfum de noisette. Passer dans un tamis fin, incorporer au tzatziki. Couvrir et réfrigérer.
+
+2. **Mélange d'épices :** Assembler tous les ingrédients dans un récipient hermétique.
+
+3. Mettre mulberries et épine-vinette dans un bol, verser 15 cl d'eau chaude, laisser infuser 10 min. Égoutter et réserver.
+
+4. Séparer délicatement les feuilles de vigne, rincer, mettre dans une casserole. Couvrir d'eau et laisser mijoter 15 min à feu moyen jusqu'à complètement attendries. Égoutter, rafraîchir, couper les tiges dures et laisser sécher.
+
+5. Chauffer l'huile à feu moyen dans une grande sauteuse. Faire revenir l'oignon 3 à 4 min. Ajouter ail et gingembre, cuire 2 à 3 min, baisser le feu. Ajouter 1 cuil. à soupe du mélange d'épices et le safran avec son eau. Cuire 1 min en mélangant, incorporer le riz. Remuer, verser le bouillon chaud. Porter à ébullition, baisser à léger frémissement, couvrir et cuire 12 min. Hors du feu, incorporer les baies égouttées, la carotte, les amandes et les pistaches. Saler et poivrer. Réserver.
+
+6. **Nids d'amour :** Tapisser de film alimentaire 4 emporte-pièces ronds de 10 cm, en laissant le film dépasser. Tapisser les parois avec 4 feuilles de vigne (face brillante contre la paroi), en les faisant se chevaucher et dépasser. Déposer une feuille au fond. Répartir le riz dans les moules en pressant. Couvrir avec une dernière feuille de vigne (côté brillant vers le haut). Rabattre les feuilles dépassantes, puis envelopper hermétiquement dans le film. Réfrigérer 1 h.
+
+7. Préchauffer le four à 200 °C. Chauffer une poêle allant au four à feu vif. Enlever le film autour des nids, badigeonner les feuilles de vigne d'huile de tournesol, mettre tous les nids dans la poêle, cuire 5 à 6 min en retournant une fois. Enfourner 10 min. Décorer de pétales de rose (facultatif) et servir avec le tzatziki.
+
+## Noms ingrédients
+
+courgettes. yaourt grec. citrons. ciboulette. menthe. pétales de rose. coriandre. mulberries. feuilles de vigne. oignons. ail. gingembre. carottes. amandes. pistaches
+# Riz noir gluant, mangue, banane et crème de coco
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Dessert
+
+## Commentaire
+
+Le riz noir gluant a bercé toute l'enfance de Scully — Yotam en est le plus accro après l'avoir découvert lors de ses voyages en Malaisie. Ce riz n'est pas vraiment noir, mais d'un rouge bordeaux très sombre. Il a un goût de noisette et une texture crémeuse et légèrement croquante car les grains ne se défont pas à la cuisson. Pour un meilleur résultat : faire tremper le riz toute une nuit et remuer souvent pendant la cuisson pour libérer l'amidon. Le riz italien nerone est plus facile à trouver, mais un riz noir du Sud-Est asiatique sera meilleur. Les feuilles de pandanus (saveur délicate de noix de coco et herbe) se trouvent en magasin asiatique et se congèlent très bien. À défaut, utiliser une gousse de vanille.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 400 g de riz gluant noir, trempé toute une nuit dans beaucoup d'eau
+- 10 grandes feuilles de pandanus (100 g) nouées ensemble (ou 1 gousse de vanille)
+- 1 mangue, épluchée et coupée en cubes de 2 cm (200 g)
+- 2 bananes, épluchées et coupées en tranches de 1 cm (150 g)
+- 12 cl de crème de coco
+- Sel de mer
+
+**Sirop d'érable aromatisé**
+- 200 g d'érable, grossièrement râpé
+- 8 grandes feuilles de pandanus (80 g, ou 1 gousse de vanille)
+
+## Déroulé de la recette
+
+1. Égoutter et rincer le riz, mettre dans une grande casserole avec les feuilles de pandanus, 1,2 litre d'eau et 1 cuil. à soupe de sel. Porter à ébullition, cuire 30 à 35 min à feu moyen en remuant régulièrement. Le riz doit être crémeux mais encore légèrement croquant. Jeter les feuilles de pandanus et réserver le riz au chaud.
+
+2. Pendant la cuisson du riz, préparer le sirop. Mettre le sucre d'érable et les feuilles de pandanus dans une petite casserole avec 15 cl d'eau. Porter à ébullition, laisser cuire 20 min à feu moyen jusqu'à réduction de moitié. Jeter les feuilles de pandanus. Mesurer 5 cl du sirop et incorporer au riz chaud.
+
+3. Répartir le riz dans les bols de service. Garnir de morceaux de mangue et de banane, napper de crème de coco (diluer avec un peu d'eau si trop épaisse). Servir sans attendre avec le reste du sirop d'érable.
+
+## Noms ingrédients
+
+feuilles de pandanus. mangue. bananes. noix de coco
+# Selle d'agneau rôtie, endives braisées à la vanille, pesto d'oseille
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Viande
+
+## Commentaire
+
+La vanille, qu'on n'associe pas spontanément aux plats salés, fonctionne très bien ici pour contrebalancer l'amertume des endives. La selle d'agneau est la partie haute de la cuisse, très tendre, généralement servie désossée. Prévoir de faire mariner la viande toute une nuit. Si l'oseille fraîche est introuvable (saison : mai-octobre), la remplacer par 20 g de persil + 40 g d'épinards, avec 1 cuil. à café de jus de citron et 1 cuil. à café de vinaigre de vin rouge ajoutés au pesto.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+**Viande**
+- 25 g de romarin frais, feuilles et tiges séparées
+- 15 g de thym frais, feuilles et tiges séparées, + 2 brins entiers
+- 3 gousses d'ail, pelées
+- 7,5 cl d'huile d'olive
+- 1 kg de selle d'agneau, gras paré et incisé
+- 30 g de beurre doux
+- Sel de mer et poivre noir
+
+**Endives braisées à la vanille**
+- 1 gousse de vanille, coupée en deux dans la longueur, graines grattées
+- 2 grosses endives blanches, coupées en quatre dans la longueur (350 g)
+- 1 cuil. à soupe de sucre en poudre
+- 1 cuil. à café de graines de coriandre
+- 5 cl de bouillon de volaille
+- 5 cl de vin blanc sec
+
+**Pesto d'oseille**
+- 40 g de feuilles d'oseille
+- 15 g de feuilles de menthe
+- Le zeste finement râpé de ½ citron
+- 15 g de câpres, rincées
+- 7 anchois (20 g), égouttés (anchois à l'huile) ou rincés (anchois au sel)
+- 1 gousse d'ail, écrasée
+- 1 piment rouge moyen, épépiné et en petits dés
+- 1 cuil. à soupe d'huile d'olive
+
+## Déroulé de la recette
+
+1. Mettre le romarin et le thym dans le bol d'un robot avec 2 cuil. à soupe d'huile. Mixer pour former une pâte sèche grossière. En enduire la viande et laisser mariner toute une nuit au réfrigérateur. Sortir à température ambiante 30 min avant la cuisson.
+
+2. Mettre tous les ingrédients du pesto dans un robot, saler et poivrer, mixer en pâte lisse. Réserver au frais.
+
+3. Dans une grande sauteuse, faire chauffer la moitié du beurre à feu vif. Quand il mousse, ajouter 1½ cuil. à café d'huile d'olive, puis la gousse de vanille et les graines. Saupoudrer la face coupée des endives de sucre et de ½ cuil. à café de sel, déposer dans la sauteuse. Cuire environ 4 min en retournant à mi-cuisson jusqu'à bien caraméliser. Baisser le feu, ajouter les brins de thym, les graines de coriandre, le bouillon et le vin, poivrer généreusement. Porter à frémissement, laisser cuire 2 min à feu doux. Réserver les quartiers d'endives au chaud (jeter le liquide de cuisson et retirer la gousse de vanille).
+
+4. Préchauffer le four à 210 °C. Essuyer la viande pour enlever la marinade, assaisonner avec 1 cuil. à soupe de sel et du poivre. Verser 1 cuil. à soupe d'huile dans une grande poêle allant au four et chauffer à feu vif. Faire dorer la viande 4 à 5 min sur une face, puis retourner. Ajouter le reste du beurre, laisser cuire 1 min jusqu'à ce qu'il mousse. Enfourner et cuire encore 5 à 6 min pour une viande à point. Laisser reposer 2 à 3 min avant de découper en tranches de 1 cm.
+
+5. Étaler 1 cuil. à soupe de pesto dans chaque assiette, disposer deux quartiers d'endives braisées dessus et placer les tranches d'agneau à côté. Arroser avec l'huile d'olive restante et servir sans attendre.
+
+## Noms ingrédients
+
+agneau. ail. endives. oseille. menthe. citrons. câpres. anchois. piment rouge
+# Suprêmes de poulet rôtis, pudding à l'ail et à l'estragon
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Viande
+
+## Commentaire
+
+Le pudding peut aussi se servir avec une simple salade verte au citron. Chez NOPI, on utilise des filets de faisan (saison : octobre-février) à la place du poulet — 6 filets de faisan (1 kg) avec la peau, cuisson plus courte : 2 min à la sauteuse puis 3 à 4 min au four. Le pudding peut être préparé à l'avance et réchauffé. Les petits pois à l'estragon sont préparés pendant la cuisson du pudding.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+**Pudding**
+- 2 têtes d'ail
+- 6 cl d'huile d'olive
+- 4 œufs
+- 30 cl de crème double
+- ½ cuil. à café de noix de cajou, râpée
+- ¼ de cuil. à café de cannelle moulue
+- 15 g d'estragon, ciselé
+- 10 g de beurre doux, fondu
+- 400 g de pain brioché sans la croûte, coupé en trois dans l'épaisseur
+- Sel de mer et poivre noir
+
+**Petits pois à l'estragon**
+- 50 cl de bouillon de volaille sans sel
+- 75 g de beurre doux, réfrigéré et coupé en dés de 2 cm
+- 180 g de petits pois frais ou surgelés, blanchis 1 min et égouttés
+- 15 g de feuilles d'estragon
+
+**Suprêmes de poulet rôtis**
+- 2 cuil. à soupe d'huile d'olive
+- 6 suprêmes de poulet (1,5 kg)
+- 10 g de brins de thym
+- 100 g de beurre doux, coupé en dés de 2 cm
+- 1 cuil. à soupe de jus de citron
+
+## Déroulé de la recette
+
+1. Préchauffer le four à 210 °C.
+
+2. **Pudding :** Éliminer le sommet des têtes d'ail, envelopper séparément dans du papier aluminium avec 2 cuil. à soupe d'huile et du sel. Rôtir 35 min, laisser reposer 10 min. Presser les gousses pour récupérer la chair, écraser en pâte fine avec l'huile de cuisson.
+
+3. Fouetter les œufs dans un saladier. Ajouter la crème double, la noix de cajou, la cannelle, l'estragon, 1 cuil. à café de sel et du poivre.
+
+4. Graisser un moule à cake (24 x 10 cm) avec le beurre fondu, tapisser de papier sulfurisé. Disposer une tranche de brioche, étaler la moitié de la purée d'ail, un tiers du mélange crème. Répéter avec la deuxième tranche de brioche, le reste de purée d'ail, un tiers de crème. Terminer avec la dernière brioche et le reste de crème. Presser délicatement et laisser reposer 30 min. Enfourner 25 à 30 min jusqu'à doré et cuit à cœur. Laisser reposer 15 min avant de démouler. Refroidir complètement, retirer le papier, couper en 6 tranches de 3,5 cm.
+
+5. **Petits pois :** Verser le bouillon dans une casserole, porter à ébullition, réduire de moitié (~12 min). Hors du feu, incorporer le beurre au fouet avec ½ cuil. à café de sel. Ajouter les petits pois et l'estragon. Réchauffer doucement avant de servir.
+
+6. **Poulet :** Assaisonner les suprêmes avec 1 cuil. à soupe de sel et du poivre. Chauffer l'huile à feu vif dans une grande sauteuse. Faire dorer les suprêmes côté peau 2 à 3 min en les retournant à mi-cuisson. Ajouter thym et beurre, arroser 1 min. Enfourner 12 à 15 min. Sortir, arroser de jus de citron et laisser reposer 1 min. Découper chaque suprême en deux.
+
+7. **5 min avant de sortir le poulet :** Chauffer 2 cuil. à soupe d'huile dans une poêle, saisir les tranches de pudding 2 à 3 min en retournant à mi-cuisson.
+
+8. Disposer tranches de pudding et suprêmes dans les assiettes, déposer les petits pois en sauce à côté.
+
+## Noms ingrédients
+
+ail. noix de cajou. pain brioché. petits pois. poulet. citrons
+# Tapioca à la marmelade de noix de coco et bananes flambées au rhum
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Dessert. Végé
+
+## Commentaire
+
+Un voyage de l'ananas rôti des années 1980 cher à Scully aux bananes flambées dont Yotam se délectait dans les années 1970. Pour une version simplifiée et plus contemporaine, il suffit de supprimer la banane ou de la servir crue. Dans ce cas, versez plus de lait de coco sur le tapioca, en le relevant d'un trait de jus de citron vert.
+
+Ceux qui ont fréquenté les cantines scolaires dans les années 1970 et 1980 seront peut-être réticents à manger du tapioca. Pourtant, c'est sa consistance et sa texture qui plaît tant à Scully et Yotam. Même si vous hésitez, il est vivement recommandé de réessayer au moins une fois.
+
+Le tapioca peut être préparé à l'avance — jusqu'à l'ajout de la crème de coco — et réchauffé au dernier moment. La confiture de noix de coco, la crème de kaffir et les bananes pourront aussi accompagner des crêpes.
+
+## Ingrédients
+
+*Pour 8 personnes*
+
+### Tapioca
+
+- 200 g de tapioca
+- 2 gousses de vanille, coupées en deux dans la longueur, graines grattées et réservées
+- Sel de mer
+
+### Crème de kaffir
+
+- 40 cl de crème de noix de coco
+- 50 g de sucre de palme, grossièrement râpé
+- 10 feuilles de kaffir fraîches
+
+### Marmelade de noix de coco
+
+- 100 g de sucre de palme, grossièrement râpé
+- 200 g de chair de noix de coco, grossièrement râpée (soit 1 noix moyenne)
+- Sel de mer
+
+### Bananes caramélisées
+
+- 2 grosses bananes, sans la peau (260 g)
+- 1 cuil. à soupe de sucre brun
+- 40 g de beurre doux
+- 6 cl de rhum
+
+### Pour servir
+
+- 8 cl de lait de coco
+
+---
+
+## Déroulé de la recette
+
+1. Commencez par préparer la crème de kaffir. Mélangez dans une petite casserole la crème de coco, le sucre de palme et les feuilles de kaffir, portez à ébullition, puis baissez le feu et laissez frémir 5 min. Retirez la casserole du feu et laissez refroidir.
+
+2. Mettez le tapioca dans une casserole avec la gousse et les graines de vanille, ajoutez ½ cuil. à café de sel, puis 1 l d'eau au moins et portez à ébullition. Baissez le feu et laissez mijoter 12 à 14 min, en remuant constamment, jusqu'à ce que le tapioca soit transparent (il doit rester un peu ferme). Incorporez alors la crème de coco infusée (retirez au préalable les feuilles de kaffir), mélangez encore 1 min sur le feu, puis réservez au chaud. Le tapioca doit avoir la consistance d'un porridge épais : vous devrez peut-être y ajouter 2 ou 3 cuil. à soupe d'eau avant de servir.
+
+3. Préparez la marmelade pendant la cuisson du tapioca. Mettez dans une casserole le sucre de palme et 15 cl d'eau. Portez à ébullition, puis réduisez le feu. Ajoutez la noix de coco et ½ cuil. à café de sel, remuez bien, puis faites cuire 15 min en remuant de temps en temps pour obtenir une marmelade épaisse. Réservez.
+
+4. Coupez les bananes en deux dans la longueur, puis en deux dans la largeur. Saupoudrez la face coupée avec le sucre. Faites fondre le beurre dans une grande poêle à feu moyen. Quand il commence à mousser, ajoutez les quartiers de bananes, face coupée en bas. Baissez le feu et laissez cuire 4 à 5 min, jusqu'à ce que les bananes commencent à caraméliser. Retournez-les délicatement, versez le rhum et faites flamber aussitôt (comme il y a beaucoup de rhum, les flammes vont être fortes, donc ne vous en approchez pas trop et gardez un couvercle à portée de main pour étouffer au besoin le feu). Laissez flamber pendant 1 min, puis retirez la poêle du feu.
+
+5. Pour servir, répartissez le tapioca dans 8 verres, puis ajoutez un morceau de banane dans chaque verre. Ajoutez 2 cuil. à soupe de marmelade de noix de coco, nappez avec 2 cuil. à café de lait de coco et servez tiède ou à température ambiante.
+
+## Noms ingrédients
+
+bananes. noix de coco. feuilles de kaffir. tapioca
+# Tofu frit au cinq-épices, aubergines vapeur et passata à la cardamome
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+Les trois éléments qui composent ce plat peuvent être servis séparément : le tofu et les aubergines se marient très bien avec un riz gluant ou un riz à la cardamome et aux clous de girofle. La passata est délicieuse pour napper un rôti de bœuf. Mais le mariage des trois est très percutant — prévoir du riz en accompagnement. Si on n'a pas de panier vapeur, une passoire en métal dans une grande casserole d'eau bouillante fonctionne très bien (couvrir hermétiquement avec papier aluminium). Bonne mise en place avant de commencer : échalotes, gingembre, citronnelle et piments émincés à l'avance.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+**Aubergines vapeur**
+- 2 grosses aubergines (1 kg), coupées en deux dans la longueur puis en tranches de 3 cm
+- 1½ cuil. à café d'huile de tournesol
+- 1 cuil. à soupe d'huile de sésame
+- 5 cm de gingembre, épluché et râpé (40 g)
+- 5 gousses d'ail, en tranches fines
+- 10 cl de sauce soja légère
+- 6 cl de vin Shaoxing (vin de riz)
+- 8 cl de vinaigre de riz
+- 5 cl de mirin
+- 1 cuil. à café de sucre en poudre
+- Sel de mer
+
+**Passata à la cardamome**
+- 1 cuil. à soupe d'huile de tournesol
+- 3 échalotes thaïes (ou ordinaires), pelées et hachées (35 g)
+- 4 gousses d'ail, écrasées
+- 4 cm de gingembre, épluché et finement râpé (30 g)
+- Le blanc de 2 bâtons de citronnelle, finement hachés
+- 2 piments rouges, épépinés et finement hachés
+- 2 cuil. à café de cardamome moulue
+- 1 cuil. à soupe de concentré de tomates
+- 600 g de pulpe de tomates
+- 1 cuil. à soupe de sucre en poudre
+
+**Tofu frit**
+- 60 g de farine de blé
+- 60 g de farine de maïs
+- 1½ cuil. à café de poivre noir moulu
+- 1½ cuil. à café de poivre blanc moulu
+- 1 cuil. à soupe de cinq-épices chinois
+- 400 g de tofu ferme, coupé en cubes de 2,5 cm
+- Huile de tournesol, pour la friture
+
+**Pour servir**
+- 2 cuil. à soupe de graines de sésame noir (ou blanc grillé — facultatif)
+- 2 petits oignons verts, émincés
+
+## Déroulé de la recette
+
+1. **Aubergines :** Mettre les aubergines dans une passoire avec 1 cuil. à café de sel. Mélanger et laisser égoutter 1 h. Secouer, sécher, cuire 10 à 15 min dans un cuit-vapeur. Chauffer à feu moyen une casserole avec les huiles de tournesol et de sésame. Faire revenir gingembre et ail 1 à 2 min. Verser sauce soja, vin de riz, vinaigre de riz, mirin, sucre et 10 cl d'eau. Porter à ébullition, réduire à feu moyen et laisser mijoter 10 à 12 min pour réduire de moitié. Incorporer les aubergines avec ¼ de cuil. à café de sel et laisser mijoter encore 8 à 10 min jusqu'à sauce brillante. Réserver au chaud.
+
+2. **Passata :** Chauffer l'huile de tournesol à feu moyen dans une casserole. Faire revenir échalotes, ail et gingembre 2 à 3 min. Ajouter citronnelle et piment, cuire 2 à 3 min, incorporer cardamome et concentré de tomates. Cuire 2 min. Verser la pulpe de tomates, mélanger et porter à ébullition. Réduire au minimum, couvrir et laisser mijoter 12 min pour épaissir. Ajouter le sucre et ½ cuil. à café de sel. Cuire encore 2 à 3 min. Réserver au chaud.
+
+3. **Tofu :** Piler 1 cuil. à soupe de sel dans un mortier, mettre dans un saladier avec farines, poivres et cinq-épices. Mélanger. Quelques minutes avant de servir, enrober le tofu de ce mélange. Verser 2 cm d'huile dans une sauteuse et chauffer à feu vif. Faire frire les cubes de tofu 2 à 3 min (en plusieurs tournées) jusqu'à bien colorés sur toutes les faces. Égoutter dans une passoire tapissée de papier absorbant. Saler légèrement.
+
+4. Disposer l'aubergine dans un saladier peu profond, déposer le tofu par-dessus, napper de passata. Saupoudrer de graines de sésame (facultatif) et d'oignons verts. Servir aussitôt.
+
+## Noms ingrédients
+
+aubergines. gingembre. ail. échalotes. citronnelle. piment rouge. concentré de tomate. tomates en conserve. tofu. oignons verts
+# Tourte de bœuf en feuilles de vigne
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Viande
+
+## Commentaire
+
+La moelle n'est pas obligatoire, mais elle apporte un crémeux inégalable et des saveurs très riches. Pour l'extraire facilement : faire tremper les os 1 h dans de l'eau salée, puis presser avec le pouce. L'épine-vinette (berberis) apporte une note aigre-doux qui manque aux raisins secs. À servir avec du yaourt grec et des quartiers de citron.
+
+## Ingrédients
+
+*Pour 8 personnes*
+
+- 3 cuil. à soupe d'huile d'olive
+- 1 céleri-rave moyen (550 g), épluché et coupé en dés de 1 cm (460 g)
+- 1 oignon moyen, coupé en dés de 1 cm (150 g)
+- 2 gousses d'ail, écrasées
+- 400 g de viande de bœuf hachée
+- 1 cuil. à café de cannelle moulue
+- 1 cuil. à café de quatre-épices moulu
+- 130 g de riz arborio
+- 1 tomate, en petits dés (100 g)
+- 30 g de pignons de pin, grillés
+- 30 g d'épine-vinette
+- 1 cuil. à café de menthe séchée
+- 5 g de feuilles de menthe, déchiquetées
+- 200 g de feuilles de vigne (environ 36), bien rincées et séchées
+- 50 g de moelle de bœuf (facultatif)
+- 50 cl de bouillon de bœuf
+- 250 g de yaourt grec, pour servir
+- 1 citron, coupé en 8 quartiers, pour servir
+- Sel de mer et poivre noir
+
+## Déroulé de la recette
+
+1. Chauffer l'huile à feu vif dans une grande sauteuse allant au four. Faire revenir le céleri-rave 5 à 6 min en remuant de temps en temps jusqu'à ce qu'il commence à colorer. Ajouter l'oignon, l'ail et 1 cuil. à café de sel, laisser cuire encore 2 min. Transférer dans un bol et nettoyer la sauteuse.
+
+2. Mélanger dans un récipient la viande hachée, la cannelle, le quatre-épices, le riz, la tomate, les pignons de pin, l'épine-vinette et la menthe fraîche, saler et poivrer. Mélanger à la main, puis ajouter le céleri-rave, l'oignon et l'ail. Remuer et réserver.
+
+3. Tapisser le fond de la sauteuse avec un disque de papier sulfurisé, puis étaler une à une les deux tiers des feuilles de vigne côté brillant vers le bas, en les faisant se chevaucher et remonter légèrement sur les côtés. Étaler uniformément le mélange à la viande, en pressant délicatement. Faire 5 à 6 trous si on utilise la moelle et y déposer 1 cuil. de moelle. Rabattre les bords des feuilles sur la viande, tapisser le dessus avec le reste des feuilles de vigne côté brillant vers le haut.
+
+4. Préchauffer le four à 200 °C.
+
+5. Verser le bouillon sur la tourte, poser un couvercle plat dessus pour maintenir la tourte immergée. Porter à ébullition avant de réduire le feu, puis laisser frémir doucement 15 min. Sans retirer le couvercle, glisser la tourte dans le four et cuire 45 min (viande bien cuite et la plus grande partie du bouillon absorbée). Sortir du four, enlever le couvercle et laisser reposer 10 min jusqu'à absorption totale du bouillon. Démouler délicatement en retournant sur un plat de service, retirer le papier sulfurisé et servir aussitôt avec le yaourt et les quartiers de citron.
+
+## Noms ingrédients
+
+céleri-rave. oignons. ail. bœuf haché. tomate. pistaches. menthe. feuilles de vigne. moelle de bœuf. yaourt grec. citrons
+# Travers de porc caramélisés au bourbon et salade de maïs fumé
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Viande
+
+## Commentaire
+
+La moitié seulement du bouillon réduit est utilisée — congeler le reste pour une soupe ou une sauce. Le glaçage au bourbon est idéal pour mariner des ailes de poulet ou des cubes de thon ou tofu avant de les griller. Pour le fumage maison : un wok ou grande casserole et du papier aluminium suffisent (prévoir bonne ventilation). La salade de maïs fumé peut accompagner bien d'autres plats (gambas grillées notamment). Si les épis de maïs sont sans cosse, utiliser du riz cru pour le fumage (200 g, temps réduit à 3 min, surveiller attentivement).
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+**Travers**
+- 1 kg de travers de porc, coupé en 12 morceaux égaux (2 ou 3 travers par morceau)
+- 80 g de gros sel de mer
+- 4 cm de gingembre, épluché et en julienne (35 g)
+- 1 oignon moyen, haché (120 g)
+- 6 gousses d'ail, écrasées
+- 8 étoiles d'anis entières
+- 1 bâton de cannelle
+- 1 cuil. à café de grains de poivre noir
+- 1,5 litre de bouillon de volaille
+- 10 cl de vin Shaoxing (vin de riz)
+- 10 cl de vinaigre de riz
+
+**Glaçage au bourbon**
+- 3 échalotes, émincées (130 g)
+- 35 cl de bourbon
+- 6 cl de sirop d'érable
+- 2 cuil. à café de grains de poivre du Sichuan
+- 1½ cuil. à soupe de jus de citron
+- 2 cuil. à soupe d'huile de sésame
+- 3 cuil. à soupe de ketchup
+- ½ cuil. à soupe de vinaigre de riz
+- 2 piments rouges séchés
+- 2 gousses d'ail, légèrement écrasées
+
+**Salade de maïs fumé**
+- 4 gros épis de maïs, avec leur enveloppe (1 kg) ou sans (900 g)
+- 15 g de brins de thym citron
+- 3 cuil. à soupe de jus de citron vert
+- 2 cuil. à café de sirop d'érable
+- 6 cl d'huile d'olive
+- 1 piment vert, épépiné et en tranches fines
+- 20 g de feuilles de coriandre
+- 20 g de feuilles de menthe
+- 20 g de feuilles de persil
+- 4 oignons verts, émincés (45 g)
+- Sel de mer
+
+## Déroulé de la recette
+
+1. Mettre les travers dans un saladier avec le sel, mélanger et laisser reposer 1 h.
+
+2. Rincer les travers à l'eau froide pour éliminer tout le sel, sécher. Mettre dans une casserole avec gingembre, oignon, ail, anis étoilé, cannelle et poivre. Verser bouillon, vin et vinaigre. Porter à ébullition, baisser le feu, couvrir et laisser mijoter doucement 1 h.
+
+3. Sortir les travers, laisser refroidir. Réfrigérer si pas servis dans les 2 h (sortir 1 h avant de caraméliser).
+
+4. Filtrer le liquide de cuisson, remettre dans la casserole. Réduire 30 à 35 min à petits bouillons pour obtenir 20 cl. Réserver.
+
+5. **Fumage du maïs :** Retirer les enveloppes des épis et les tapisser au fond d'un wok profond. Ajouter le thym et chauffer à feu vif. Quand les cosses et le thym commencent à fumer (~6 min), placer le panier vapeur dans le récipient avec les épis de maïs. Couvrir hermétiquement et laisser fumer 5 min. Retirer du feu et laisser reposer 5 min à couvert. Refroidir. Détacher les grains en coupant de haut en bas.
+
+6. **Glaçage :** ~45 min avant de servir, mettre tous les ingrédients du glaçage dans une grande casserole, ajouter 10 cl de bouillon réduit, porter à ébullition puis réduire à feu moyen 20 à 25 min (rester 20 cl de liquide épais). Déposer les travers et remuer délicatement. Cuire 7 min à feu moyen, en remuant une ou deux fois.
+
+7. **Salade :** Mélanger dans un saladier jus de citron vert, sirop d'érable, huile d'olive, piment et 1 cuil. à café de sel. Ajouter les grains de maïs, les herbes et l'oignon vert. Mélanger. Placer 2 travers de porc par assiette, disposer la salade à côté. Servir sans attendre.
+
+## Noms ingrédients
+
+travers de porc. gingembre. oignons. ail. échalotes. citrons. piment rouge. maïs. citrons verts. coriandre. menthe. persil. oignons verts
+---
+
+# Japonais Sauce - Sauce au gingembre
 
 
+## Catégorie
 
-```
+Japonais. Non testé
+
+---
+
+## Ingrédients
+
+*Pour 25 cl de sauce*
+
+- 2 cuillerées à soupe de gingembre frais râpé
+- 8 cuillerées à soupe de sauce soja
+- 2 cuillerées à soupe d'huile d'olive
+- 2 cuillerées à soupe de vinaigre de riz
+- 3 cuillerées à soupe de sucre semoule
+
+---
+
+## Déroulé de la recette
+
+Dans un bol, mélangez tous les ingrédients. Cette sauce peut se conserver 2 semaines dans un bocal placé au réfrigérateur.
+
+*Idéale pour des marinades de viandes et de légumes.*
+
+## Noms ingrédients
+
+gingembre
+---
+
+# Japonais Sauce - Sauce yakitori
+
+
+## Catégorie
+
+Japonais. Non testé
+
+---
+
+## Ingrédients
+
+*Pour 20 cl de sauce*
+
+- 1/2 cuillerée à café de bouillon de poulet en poudre (ou 1/2 cube de bouillon)
+- 15 cl de sauce soja
+- 12 cl de saké
+- 5 cuillerées à soupe de mirin
+- 3 cuillerées à soupe de sucre semoule
+
+---
+
+## Déroulé de la recette
+
+Versez tous les ingrédients dans une casserole. Portez à ébullition en remuant pour dissoudre le sucre et le bouillon, puis laissez mijoter 15 minutes environ, à feu doux, jusqu'à obtention d'une consistance sirupeuse. Cette sauce peut se conserver 1 semaine dans un bocal placé au réfrigérateur.
+
+*Pour une version végétarienne, suivre la recette p. 216. Idéale avec les brochettes.*
+
+## Noms ingrédients
+
+
+---
+
+# Japonais Sauce - Sauce teriyaki
+
+
+## Catégorie
+
+Japonais. Non testé
+
+---
+
+## Ingrédients
+
+*Pour 30 cl de sauce*
+
+- 20 cl de sauce soja
+- 15 cl de mirin
+- 4 cuillerées à soupe de sucre semoule
+
+---
+
+## Déroulé de la recette
+
+Versez tous les ingrédients dans une casserole. Portez à ébullition, puis baissez le feu et laissez réduire 5 minutes en remuant de temps en temps. Cette sauce peut se conserver 2 semaines dans un bocal placé au réfrigérateur.
+
+*Idéale pour des marinades de poissons, de volailles et de légumes.*
+
+## Noms ingrédients
+
+
+---
+
+# Japonais Sauce - Marinade ail et piment
+
+
+## Catégorie
+
+Japonais. Non testé
+
+---
+
+## Ingrédients
+
+*Pour 20 cl de sauce*
+
+- 2 gousses d'ail râpées
+- 1 ciboule finement émincée
+- 1/2 poire mixée
+- 6 cuillerées à soupe de sauce soja
+- 1 cuillerée à soupe de sauce tobanjan (ou 1/2 cuillerée à soupe de purée de piment)
+- 1½ cuillerée à soupe d'huile de sésame grillé
+- 2 cuillerées à soupe de sucre semoule
+
+---
+
+## Déroulé de la recette
+
+Dans un bol, mélangez tous les ingrédients. Cette sauce peut se conserver 2 semaines dans un bocal placé au réfrigérateur.
+
+*Idéale pour des marinades de viandes et de légumes.*
+
+## Noms ingrédients
+
+ail. oignons verts. poire. purée de piment
+---
+
+# Japonais Sauce - Marinade au sésame
+
+
+## Catégorie
+
+Japonais. Non testé
+
+---
+
+## Ingrédients
+
+*Pour 24 cl de sauce*
+
+- 2 cuillerées à soupe de gomashio (voir recette p. 51)
+- 8 cuillerées à soupe de sauce soja
+- 2 cuillerées à soupe d'huile de sésame grillé
+- 4 cuillerées à soupe de sucre semoule
+
+---
+
+## Déroulé de la recette
+
+Dans un bol, mélangez tous les ingrédients. Cette marinade peut se conserver 2 semaines dans un bocal placé au réfrigérateur.
+
+*Idéale pour des marinades de viandes et de légumes.*
+
+## Noms ingrédients
+
+
+---
+
+# Japonais Sauce - Sauce goma daré
+
+
+## Catégorie
+
+Japonais. Non testé
+
+---
+
+## Ingrédients
+
+*Pour 25 cl de sauce*
+
+- 1/2 gousse d'ail râpée
+- 120 g de purée de sésame (tahin)
+- 12 cl de bouillon dashi (voir recette p. 46)
+- 4 cuillerées à soupe de sauce soja
+
+---
+
+## Déroulé de la recette
+
+Dans un bol, délayez la purée de sésame avec un quart du bouillon. Versez le reste de bouillon sans cesser de remuer. Incorporez l'ail râpé, puis la sauce soja jusqu'à obtention d'une sauce onctueuse. Cette sauce peut se conserver 2 semaines dans un bocal placé au réfrigérateur.
+
+*Idéale avec des viandes ou des légumes grillés, et en teppanyaki.*
+
+## Noms ingrédients
+
+ail. tahin
+---
+
+# Japonais Sauce - Sauce yakisoba
+
+
+## Catégorie
+
+Japonais. Non testé
+
+---
+
+## Ingrédients
+
+*Pour 12 cl de sauce*
+
+- 3 cuillerées à soupe de ketchup
+- 3 cuillerées à soupe de sauce soja
+- 3 cuillerées à soupe de sauce d'huître
+- 3 cuillerées à soupe de sauce Worcestershire
+
+---
+
+## Déroulé de la recette
+
+Versez tous les ingrédients dans une casserole. Faites chauffer sur feu moyen jusqu'au point d'ébullition. Arrêtez aussitôt le feu et laissez refroidir. Cette sauce peut se conserver 2 semaines dans un bocal placé au réfrigérateur.
+
+*Idéale avec les yakisoba ou autres nouilles sautées.*
+
+## Noms ingrédients
+
+
+---
+
+# Japonais Sauce - Sauce miso au citron
+
+
+## Catégorie
+
+Japonais. Non testé
+
+---
+
+## Ingrédients
+
+*Pour 5 cuillerées à soupe de sauce*
+
+- 3 cuillerées à soupe de miso blanc
+- 2 cuillerées à soupe de jus de citron vert
+- le zeste de 1 citron non traité
+
+---
+
+## Déroulé de la recette
+
+Dans un bol, mélangez le miso avec le reste des ingrédients. Cette sauce peut se conserver 1 semaine au réfrigérateur.
+
+*Idéale pour accompagner poissons et légumes.*
+
+## Noms ingrédients
+
+citrons verts
+---
+
+# Japonais Sauce - Sauce soja sucrée
+
+
+## Catégorie
+
+Japonais. Non testé
+
+---
+
+## Ingrédients
+
+*Pour 20 cl de sauce*
+
+- 12 cl de sauce soja
+- 3 cuillerées à soupe de mirin
+- 80 g de sucre semoule
+
+---
+
+## Déroulé de la recette
+
+Versez tous les ingrédients dans une casserole. Portez à ébullition, puis baissez le feu et laissez réduire 3 minutes en remuant de temps en temps. Cette sauce peut se conserver 1 mois au réfrigérateur.
+
+*Idéale pour accompagner les sushi (à la place de la sauce soja classique).*
+
+## Noms ingrédients
+
+
+---
+
+# Japonais Sauce - Sauce tsuyu
+
+
+## Catégorie
+
+Japonais. Non testé
+
+---
+
+## Ingrédients
+
+*Pour 30 cl de sauce*
+
+- 6 cuillerées à soupe de sauce soja
+- 1 petite poignée de copeaux de bonite séchée
+- 6 cuillerées à soupe de mirin
+- 15 cl d'eau
+
+---
+
+## Déroulé de la recette
+
+Versez la sauce soja dans une casserole, ajoutez le reste des ingrédients, mélangez, puis faites chauffer sur feu moyen jusqu'à ébullition. Arrêtez le feu et laissez refroidir. Filtrez la sauce. Vous pouvez la conserver 2 semaines au réfrigérateur.
+
+*Idéale pour accompagner tempura et nouilles froides.*
+
+## Noms ingrédients
+
+bonite séchée
+---
+
+# Japonais Sauce - Mayo-wasabi
+
+
+## Catégorie
+
+Japonais. Non testé
+
+---
+
+## Ingrédients
+
+*Pour 12 cl de mayonnaise*
+
+- 1 jaune d'œuf bio extra-frais
+- 3 cuillerées à café de wasabi en poudre
+- 1/2 cuillerée à soupe de moutarde
+- 10 cl d'huile de tournesol
+- 1 cuillerée à café de vinaigre de riz
+- 1 pincée de sel
+
+---
+
+## Déroulé de la recette
+
+Dans un saladier, fouettez le jaune d'œuf avec la moutarde, le vinaigre de riz, le wasabi et le sel. Incorporez une petite quantité d'huile, jusqu'à ce que le mélange prenne. Versez ensuite le reste d'huile petit à petit sans cesser de fouetter. Cette mayonnaise se conserve 2 jours au frais.
+
+*Idéale pour accompagner sushi (à la place de la sauce soja classique) et témaki.*
+
+## Noms ingrédients
+
+jaunes d'œuf
+---
+
+# Japonais Sauce - Sauce ponzu
+
+
+## Catégorie
+
+Japonais. Non testé
+
+---
+
+## Ingrédients
+
+*Pour 25 cl de sauce*
+
+- 1 champignon shiitaké séché
+- 5 cm de kombu séché
+- 12 cl de sauce soja
+- 4 cuillerées à soupe de mirin
+- 4 cuillerées à soupe de jus de mandarine
+- 4 cuillerées à soupe de jus de citron
+
+---
+
+## Déroulé de la recette
+
+La veille, mettez le shiitaké et le kombu dans un bocal, versez la sauce soja, puis fermez le bocal et laissez infuser toute la nuit au réfrigérateur. Le jour même, filtrez la sauce et versez-la dans un bol. Ajoutez le reste des ingrédients et mélangez. Cette sauce peut se conserver 2 semaines dans un bocal placé au frais.
+
+*Idéale avec des poissons ou des légumes grillés, et en teppanyaki.*
+
+## Noms ingrédients
+
+champignons shiitaké. citrons. kombu. mandarine
+---
+
+# Tempura de légumes
+
+
+## Commentaire
+
+La tempura est à l'origine un plat portugais, introduit au Japon par des missionnaires. Ces beignets, trempés dans une sauce à base de soja et de dashi sont devenus un grand classique de la cuisine japonaise. On décline la tempura de bien des manières : en domburi (sur un grand bol de riz), dans une soupe de nouilles, dans des bento... Les ingrédients utilisés le plus fréquemment sont les crevettes, le poisson, le champignon shiitaké, la patate douce ou encore le poivron.
+
+**Astuce :** La friture de la tempura est légère et croustillante grâce à sa pâte fine. Le secret de ce rendu réside dans le contraste entre la pâte froide (il est important de la maintenir au frais ou de mettre des glaçons) et l'huile chaude qui va créer un choc thermique. Pour savoir si l'huile est à la bonne température, plongez-y les baguettes en bois : si des bulles se forment autour, c'est qu'elle est suffisamment chaude.
+
+## Catégorie
+
+Japonais. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 10 min — Cuisson : 10 min*
+
+- 80 g de haricots verts
+- 2 carottes
+- 1/4 de daïkon râpé
+- huile pour la friture
+
+### Pour la pâte à tempura
+
+- 1 jaune d'œuf
+- 100 g de farine blanche T45 tamisée
+- 1/2 cuillerée à café de levure chimique
+- 20 cl d'eau glacée
+
+### Pour la sauce
+
+- 15 cl de bouillon dashi (voir recette p. 46)
+- 5 cuillerées à soupe de mirin
+- 5 cuillerées à soupe de sauce soja
+- 1 cuillerée à soupe de sucre semoule
+
+---
+
+## Déroulé de la recette
+
+Préparez la sauce. Dans une casserole, faites chauffer le bouillon dashi avec le reste des ingrédients, puis laissez réduire de moitié.
+
+Préparez la pâte à tempura en mélangeant tous les ingrédients dans un saladier.
+
+Pelez les carottes et coupez-les en fins bâtonnets. Équeutez les haricots verts et coupez-les en 2 ou 3 tronçons.
+
+Plongez les carottes et les haricots dans le saladier et enrobez-les très légèrement de pâte à tempura.
+
+Faites chauffer l'huile de friture dans une casserole à 170 °C environ. Prélevez une petite portion de légumes enrobés de pâte et plongez-la dans le bain de friture. Laissez frire jusqu'à ce qu'elle prenne une légère coloration, puis égouttez-la sur du papier absorbant. Procédez ainsi avec le reste de la préparation.
+
+Déposez les beignets sur un plat avec du daïkon râpé.
+
+Versez la sauce tempura dans un bol et ajoutez également un peu de daïkon râpé. Dégustez en trempant les beignets bien chauds dans cette sauce.
+
+## Noms ingrédients
+
+carottes. daïkon. haricots verts. jaunes d'œuf
+---
+
+# Japonais Tofu - Tofu au umeboshi
+
+
+## Commentaire
+
+Ces recettes de tofu soyeux garni sont de petites entrées fraîches, très simples à réaliser. Pour conserver le tofu une fois ouvert, placez-le dans un récipient et recouvrez-le d'eau fraîche. Vous le garderez ainsi jusqu'à 4 jours au réfrigérateur en veillant à changer l'eau tous les jours.
+
+## Catégorie
+
+Japonais. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 8 personnes*
+
+- 400 g de tofu soyeux
+- 2 cuillerées à café de purée de umeboshi (prune saumurée)
+- 1 filet d'huile d'olive
+
+---
+
+## Déroulé de la recette
+
+Égouttez le tofu et coupez-le en 8 rectangles. Disposez-les sur une assiette, puis garnissez chacun d'eux d'une pointe de purée de umeboshi. Assaisonnez d'un petit filet d'huile d'olive.
+
+## Noms ingrédients
+
+tofu soyeux. umeboshi
+---
+
+# Japonais Tofu - Tofu au daïkon et gingembre
+
+
+## Commentaire
+
+Ces recettes de tofu soyeux garni sont de petites entrées fraîches, très simples à réaliser. Pour conserver le tofu une fois ouvert, placez-le dans un récipient et recouvrez-le d'eau fraîche. Vous le garderez ainsi jusqu'à 4 jours au réfrigérateur en veillant à changer l'eau tous les jours.
+
+## Catégorie
+
+Japonais. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 8 personnes*
+
+- 400 g de tofu soyeux
+- 1/4 de daïkon pelé et râpé
+- 1 cuillerée à café de gingembre frais râpé
+- 2 brins de ciboulette ciselés
+- 1 filet de sauce soja
+
+---
+
+## Déroulé de la recette
+
+Égouttez le tofu et coupez-le en 8 rectangles. Disposez-les sur une assiette, puis garnissez chacun d'eux de daïkon, de gingembre et de ciboulette. Assaisonnez de sauce soja.
+
+## Noms ingrédients
+
+ciboulette. daïkon. gingembre. tofu soyeux
+---
+
+# Japonais Tofu - Tofu au concombre et miso
+
+
+## Commentaire
+
+Ces recettes de tofu soyeux garni sont de petites entrées fraîches, très simples à réaliser. Pour conserver le tofu une fois ouvert, placez-le dans un récipient et recouvrez-le d'eau fraîche. Vous le garderez ainsi jusqu'à 4 jours au réfrigérateur en veillant à changer l'eau tous les jours.
+
+## Catégorie
+
+Japonais. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 8 personnes*
+
+- 400 g de tofu soyeux
+- 1/4 de concombre
+- 1 cuillerée à soupe de miso
+- 1/2 cuillerée à soupe de vinaigre de riz
+
+---
+
+## Déroulé de la recette
+
+Égouttez le tofu et coupez-le en 8 rectangles. Disposez-les sur une assiette. Pelez le concombre, épépinez-le et coupez-le en tout petits dés. Dans un bol, mélangez le miso et le vinaigre de riz. Répartissez les dés de concombre sur les rectangles de tofu, puis ajoutez une pointe de mélange au miso.
+
+*Vous pouvez remplacer le miso et le vinaigre de riz par la sauce miso au citron (voir recette p. 58).*
+
+## Noms ingrédients
+
+concombres. tofu soyeux
+---
+
+# Japonais Tofu - Tofu à la tomate
+
+
+## Commentaire
+
+Ces recettes de tofu soyeux garni sont de petites entrées fraîches, très simples à réaliser. Pour conserver le tofu une fois ouvert, placez-le dans un récipient et recouvrez-le d'eau fraîche. Vous le garderez ainsi jusqu'à 4 jours au réfrigérateur en veillant à changer l'eau tous les jours.
+
+## Catégorie
+
+Japonais. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 8 personnes*
+
+- 400 g de tofu soyeux
+- 1 petite tomate
+- 8 feuilles de roquette
+- 1 filet de sauce soja
+- 1 filet d'huile d'olive
+
+---
+
+## Déroulé de la recette
+
+Égouttez le tofu et coupez-le en 8 rectangles. Disposez-les sur une assiette. Coupez la tomate en tout petits dés, puis répartissez ceux-ci sur les rectangles de tofu ainsi que la roquette. Assaisonnez d'huile d'olive et de sauce soja.
+
+## Noms ingrédients
+
+roquette. tofu soyeux. tomates en conserve
+---
+
+# Japonais Tofu - Tofu au wakamé
+
+
+## Commentaire
+
+Ces recettes de tofu soyeux garni sont de petites entrées fraîches, très simples à réaliser. Pour conserver le tofu une fois ouvert, placez-le dans un récipient et recouvrez-le d'eau fraîche. Vous le garderez ainsi jusqu'à 4 jours au réfrigérateur en veillant à changer l'eau tous les jours.
+
+## Catégorie
+
+Japonais. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 8 personnes*
+
+- 400 g de tofu soyeux
+- 2 cuillerées à soupe de wakamé séché
+- 1 filet de vinaigre de riz
+- 1 filet de sauce soja
+
+---
+
+## Déroulé de la recette
+
+Trempez le wakamé séché dans un bol d'eau froide pour le réhydrater, puis essorez-le en le pressant avec vos mains. Égouttez le tofu et coupez-le en 8 rectangles. Disposez-les sur une assiette, puis garnissez chacun d'eux de wakamé et assaisonnez de sauce soja et de vinaigre de riz.
+
+## Noms ingrédients
+
+tofu soyeux
+---
+
+# Japonais Tofu - Tofu à la coriandre
+
+
+## Commentaire
+
+Ces recettes de tofu soyeux garni sont de petites entrées fraîches, très simples à réaliser. Pour conserver le tofu une fois ouvert, placez-le dans un récipient et recouvrez-le d'eau fraîche. Vous le garderez ainsi jusqu'à 4 jours au réfrigérateur en veillant à changer l'eau tous les jours.
+
+## Catégorie
+
+Japonais. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 8 personnes*
+
+- 400 g de tofu soyeux
+- 8 brins de coriandre ciselés
+- 1 cuillerée à soupe de graines de sésame
+- 1 filet de sauce soja
+- 1 filet d'huile de sésame grillé
+
+---
+
+## Déroulé de la recette
+
+Égouttez le tofu et coupez-le en 8 rectangles. Disposez-les sur une assiette, puis garnissez-les de coriandre et saupoudrez-les de graines de sésame. Assaisonnez d'un filet de sauce soja et d'huile de sésame.
+
+## Noms ingrédients
+
+coriandre. tofu soyeux
+---
+
+# Japonais Tofu - Tofu au crabe
+
+
+## Commentaire
+
+Ces recettes de tofu soyeux garni sont de petites entrées fraîches, très simples à réaliser. Pour conserver le tofu une fois ouvert, placez-le dans un récipient et recouvrez-le d'eau fraîche. Vous le garderez ainsi jusqu'à 4 jours au réfrigérateur en veillant à changer l'eau tous les jours.
+
+## Catégorie
+
+Japonais. Non testé. Poisson
+
+---
+
+## Ingrédients
+
+*Pour 8 personnes*
+
+- 400 g de tofu soyeux
+- 80 g de chair de crabe
+- wasabi
+- 1 filet de sauce soja
+
+---
+
+## Déroulé de la recette
+
+Égouttez le tofu et coupez-le en 8 rectangles. Disposez-les sur une assiette, puis garnissez chacun d'eux d'un peu de crabe et d'une pointe de wasabi. Assaisonnez de sauce soja.
+
+## Noms ingrédients
+
+chair de crabe. tofu soyeux
+---
+
+# Japonais Tofu - Tofu à l'avocat
+
+
+## Commentaire
+
+Ces recettes de tofu soyeux garni sont de petites entrées fraîches, très simples à réaliser. Pour conserver le tofu une fois ouvert, placez-le dans un récipient et recouvrez-le d'eau fraîche. Vous le garderez ainsi jusqu'à 4 jours au réfrigérateur en veillant à changer l'eau tous les jours. Vous pouvez utiliser la sauce soja sucrée (voir recette p. 58) à la place de la sauce soja classique pour une saveur plus douce.
+
+## Catégorie
+
+Japonais. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 8 personnes*
+
+- 400 g de tofu soyeux
+- 1 avocat
+- 1 filet de jus de citron
+- 1 filet de sauce soja
+
+---
+
+## Déroulé de la recette
+
+Égouttez le tofu et coupez-le en 8 rectangles. Disposez-les sur une assiette. Pelez l'avocat, dénoyautez-le et coupez-le en petits dés. Répartissez ceux-ci sur les rectangles de tofu, puis assaisonnez de sauce soja et de jus de citron.
+
+## Noms ingrédients
+
+avocats. citrons. tofu soyeux
+---
+
+# Agedashi dofu
+
+
+## Commentaire
+
+Ce plat est l'un des plus emblématiques de la cuisine des izakaya. C'est un tofu frit, servi dans une savoureuse sauce à base de soja et agrémenté d'une pointe de gingembre et de daïkon.
+
+## Catégorie
+
+Japonais. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 10 min — Repos : 20 min — Cuisson : 18 min*
+
+- 400 g de tofu soyeux
+- 1 ciboule hachée
+- 4 cuillerées à soupe de daïkon râpé
+- 1/2 cuillerée à soupe de gingembre frais râpé
+- 4 cuillerées à soupe de fécule de pomme de terre
+- huile végétale pour la friture
+
+### Pour la sauce
+
+- 20 cl de bouillon dashi (voir recette p. 46)
+- 2 cuillerées à soupe de mirin
+- 2 cuillerées à soupe de sauce soja
+- 1 pincée de sel
+
+---
+
+## Déroulé de la recette
+
+Enveloppez le tofu dans une feuille de papier absorbant et laissez-le égoutter entre 2 planches (ou 2 grandes assiettes placées à l'envers) pendant environ 20 minutes.
+
+Préparez la sauce. Dans une casserole à feu doux, versez le bouillon dashi, la sauce soja, le mirin et le sel, puis laissez réduire 10 minutes environ.
+
+Coupez le tofu en 4 morceaux, puis enrobez-les de fécule de pomme de terre.
+
+Faites chauffer l'huile dans un wok, puis faites frire les morceaux de tofu jusqu'à ce qu'ils prennent une belle coloration brune. Égouttez-les sur du papier absorbant.
+
+Déposez le tofu frit dans un bol de service. Arrosez de sauce et décorez de daïkon, de ciboule et de gingembre.
+
+## Noms ingrédients
+
+daïkon. gingembre. oignons verts. tofu soyeux
+---
+
+# Tofu frit
+
+
+## Commentaire
+
+Ces fritures originales sont parfaites pour accompagner une bière ou un saké bien frais en apéritif.
+
+## Catégorie
+
+Japonais. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 15 min — Marinade : 30 min — Cuisson : 15 min*
+
+- 250 g de tofu ferme
+- 5 cuillerées à soupe de fécule de pomme de terre
+- 1 gousse d'ail pelée, dégermée et râpée
+- 1 cuillerée à café de gingembre frais râpé
+- 1½ cuillerée à soupe de piment d'Espelette
+- 5 cuillerées à soupe de graines de sésame noir
+- 2 cuillerées à soupe de sauce soja
+- huile pour la friture
+- 1 pincée de sel
+
+---
+
+## Déroulé de la recette
+
+Égouttez le tofu et coupez-le en bâtonnets. Déposez ceux-ci dans un bol. Ajoutez le gingembre, l'ail et la sauce soja. Laissez mariner 30 minutes au réfrigérateur.
+
+Dans une assiette, mélangez la fécule de pomme de terre, le piment, les graines de sésame et le sel.
+
+Égouttez les bâtonnets de tofu et passez-les dans le mélange de l'assiette pour bien les enrober.
+
+Faites chauffer l'huile puis faites frire les bâtonnets jusqu'à ce qu'ils prennent une belle couleur dorée – procédez en plusieurs fois. Égouttez-les sur du papier absorbant.
+
+## Noms ingrédients
+
+ail. gingembre. piment d'espelette. tofu ferme
+---
+
+# Tamago yaki
+
+
+## Commentaire
+
+Ces omelettes à la japonaise sont réalisées en enroulant successivement de fines couches d'omelette afin de former un lingot. Ce grand classique de la cuisine japonaise est très populaire dans les izakaya, mais on le trouve également dans les sushi ou les bento. Vous pouvez détailler l'omelette en lamelles pour garnir des sushi ou un chirashi, ou bien en bâtonnets à intégrer dans des maki.
+
+## Catégorie
+
+Japonais. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 10 min — Cuisson : 10 min*
+
+- 6 œufs
+- 10 cl de bouillon dashi (voir recette p. 46)
+- 2 cuillerées à soupe de mirin
+- 2 cuillerées à café de sauce soja
+- huile végétale pour la cuisson
+
+### Pour servir
+
+- un peu de daïkon râpé
+- 1 petite poignée de graines germées (facultatif)
+- sauce soja
+
+---
+
+## Déroulé de la recette
+
+Dans un saladier, battez les œufs avec le bouillon dashi, la sauce soja et le mirin.
+
+Faites chauffer l'huile dans une poêle, puis versez une petite quantité d'œuf battu et faites-la cuire de façon à former une fine crêpe.
+
+Roulez la crêpe jusqu'au bord opposé de la poêle. Graissez la poêle, si nécessaire, à l'aide d'un papier absorbant huilé, puis versez à nouveau une petite quantité d'œuf battu en soulevant légèrement la crêpe roulée précédemment pour faire passer un peu d'œuf en dessous.
+
+Laissez prendre, puis faites rouler le premier rouleau sur la nouvelle crêpe et formez un nouveau cylindre jusqu'au bord opposé de la poêle.
+
+Répétez l'opération jusqu'à épuisement de l'œuf battu : vous obtenez ainsi une omelette rectangulaire ou cylindrique selon la forme de la poêle.
+
+Faites dorer légèrement l'omelette de tous côtés à feu moyen.
+
+Déposez l'omelette sur une natte à maki, refermez la natte sur l'omelette et pressez légèrement afin de lui donner une belle forme rectangulaire. Coupez en tranches et servez avec le daïkon râpé, les graines germées et la sauce soja.
+
+**Astuce :** Ajoutez une cuillerée à soupe de sucre à vos œufs pour obtenir un tamago yaki encore plus savoureux. Si vous n'avez pas de poêle rectangulaire, prenez-en une ronde. Vous obtiendrez une omelette ovale que vous pourrez également servir en tranches.
+
+## Noms ingrédients
+
+daïkon
+---
+
+# Kara age
+
+
+## Commentaire
+
+Dans les izakaya, les kara age sont souvent dégustés avec un verre de bière. On retrouve aussi les kara age dans les bento car ils sont très pratiques à emporter – il n'y a pas besoin de sauce. N'hésitez pas à en préparer en grande quantité pour les savourer dans votre bento le lendemain !
+
+**Astuce :** Vous pouvez remplacer le poulet par du tofu (voir recette p. 122) ou par des calamars.
+
+## Catégorie
+
+Japonais. Non testé. Viande
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 10 min — Marinade : 30 min — Cuisson : 10 min*
+
+- 2 cuisses de poulet désossées
+- 1/2 citron coupé en quartiers
+- 2 gousses d'ail
+- 1 assiette de fécule de pomme de terre
+- 1 cuillerée à soupe de gingembre frais râpé
+- 1 cuillerée à soupe de saké
+- 4 cuillerées à soupe de sauce soja
+- huile pour la friture
+- poivre du moulin
+
+---
+
+## Déroulé de la recette
+
+Coupez le poulet en petits cubes. Pelez, dégermez et écrasez l'ail.
+
+Dans un bol, mélangez les cubes de poulet avec l'ail, le gingembre, la sauce soja, le saké et un peu de poivre. Laissez mariner au réfrigérateur pendant 30 minutes.
+
+Égouttez les cubes de poulet et passez-les dans l'assiette de fécule de façon à bien les enrober.
+
+Faites chauffer l'huile dans un wok, puis faites frire les cubes de poulet 5 minutes environ jusqu'à ce qu'ils prennent une belle couleur dorée – procédez en plusieurs fois. Égouttez-les sur du papier absorbant.
+
+Servez bien chaud avec les quartiers de citron.
+
+## Noms ingrédients
+
+ail. citrons. cuisses de poulet. gingembre
+---
+
+# Shiitaké farcis
+
+
+## Catégorie
+
+Japonais. Non testé. Viande
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 10 min — Cuisson : 13 min*
+
+- 8 champignons shiitaké
+- 125 g de blanc de poulet
+- 1 oignon nouveau
+- 1 cuillerée à soupe de gingembre frais râpé
+- le jus de 1/2 citron
+- 1 cuillerée à soupe de saké
+- 1 cuillerée à soupe de sauce soja
+- 2 cuillerées à soupe d'huile d'olive
+
+---
+
+## Déroulé de la recette
+
+Préchauffez le four à 180 °C (th. 6).
+
+Émincez grossièrement le blanc de poulet ainsi que l'oignon – en réservant une partie du vert pour la décoration –, puis mixez-les avec la sauce soja, le saké, le jus de citron, 1 cuillerée à soupe d'huile et le gingembre.
+
+Nettoyez les shiitaké, ôtez le pied de chacun et farcissez-les de la préparation. Badigeonnez-les avec le reste d'huile. Déposez les champignons farcis sur la plaque du four, puis enfournez pour 12 minutes environ et passez-les ensuite 1 minute sous le gril.
+
+Parsemez le dessus des champignons de vert d'oignon finement émincé et servez.
+
+## Noms ingrédients
+
+champignons shiitaké. citrons. gingembre. oignons verts. volaille
+---
+
+# Croquettes
+
+
+## Commentaire
+
+Les croquettes, appelées « korokke », sont des fritures à base de pomme de terre et de bœuf. Mais on peut également en trouver parfumées au curry, ou encore aux crevettes et à la crème.
+
+## Catégorie
+
+Japonais. Non testé. Viande
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 20 min — Cuisson : 35 min*
+
+- 200 g de bœuf haché
+- 1/2 chou vert finement émincé
+- 6 pommes de terre
+- 1 petit oignon
+- 2 œufs
+- fécule de pomme de terre
+- chapelure panko (ou chapelure classique)
+- sauce tonkatsu (voir recette p. 262, ou ketchup)
+- huile d'arachide
+- sel et poivre du moulin
+
+---
+
+## Déroulé de la recette
+
+Faites cuire les pommes de terre 20 minutes environ dans une casserole d'eau bouillante salée – vérifiez la cuisson avec la pointe d'un couteau. Égouttez-les et pelez-les. Écrasez-les à la fourchette dans un saladier.
+
+Séparez les blancs d'œufs des jaunes.
+
+Pelez l'oignon et hachez-le finement. Faites-le revenir dans une poêle à feu moyen, avec un filet d'huile, jusqu'à ce qu'il devienne translucide. Ajoutez la viande, salez et faites revenir 4 ou 5 minutes à feu vif. Incorporez les pommes de terre écrasées.
+
+Hors du feu, ajoutez les jaunes d'œufs tout en mélangeant. Salez à nouveau et poivrez. Formez 6 boulettes avec cette préparation.
+
+Battez les blancs d'œufs dans un bol. Déposez la fécule de pomme de terre dans une assiette et la chapelure dans une autre. Passez chaque boulette dans la fécule puis dans le blanc d'œuf et enfin dans la chapelure.
+
+Faites chauffer un peu d'huile dans un wok, puis faites cuire les boulettes 5 minutes environ jusqu'à ce qu'elles soient bien dorées. Égouttez-les sur du papier absorbant.
+
+Disposez les boulettes sur un plat avec le chou. Dégustez avec la sauce tonkatsu.
+
+## Noms ingrédients
+
+bœuf haché. chou vert. jaunes d'œuf. oignons. pomme de terre
+---
+
+# Soupe miso
+
+
+## Commentaire
+
+La soupe miso est l'accompagnement idéal des sushi car elle apporte de la chaleur dans un repas globalement frais. Elle se prépare avec du bouillon dashi que vous pouvez acheter tout prêt mais qui est meilleur s'il est fait maison.
+
+## Catégorie
+
+Japonais. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 5 min — Cuisson : 5 min*
+
+- 1,2 litre de bouillon dashi (voir recette p. 46)
+- 4 cuillerées à soupe de miso rouge
+- 100 g de tofu soyeux (facultatif)
+- 1 oignon nouveau
+- 4 champignons shiitaké (ou 4 champignons de Paris)
+- 2 cuillerées à soupe de sauce soja
+- 1 cuillerée à soupe de wakamé séché
+- 2 cuillerées à soupe de graines de sésame
+
+### Variante au miso blanc et au daïkon
+
+- 300 g de daïkon taillé en julienne
+- 1,2 litre de bouillon dashi (voir recette p. 46)
+- 4 cuillerées à soupe de miso blanc
+- 1 pincée de sel
+- persil pour décorer
+
+---
+
+## Déroulé de la recette
+
+Lavez et émincez l'oignon. Ôtez les pieds des champignons et coupez les chapeaux en lamelles. Égouttez le tofu et détaillez-le en cubes.
+
+Mettez l'oignon, les champignons et le tofu dans une casserole. Versez le bouillon et la sauce soja, puis faites chauffer jusqu'au point d'ébullition – ne faites pas bouillir le miso pour ne pas altérer son goût ni réduire ses qualités nutritives. Laissez mijoter 5 minutes à feu doux, puis ajoutez le wakamé.
+
+Prélevez une petite louche de bouillon de la casserole, délayez le miso, puis incorporez-le au mélange. Répartissez la soupe dans 4 bols. Parsemez de graines de sésame et servez bien chaud.
+
+**Variante au miso blanc et au daïkon :** Déposez le daïkon dans une casserole, versez le bouillon dashi et saupoudrez d'une pincée de sel. Portez à ébullition, baissez le feu et laissez cuire environ 20 minutes, jusqu'à ce que le daïkon soit fondant. Délayez 4 cuillerées à soupe de miso blanc dans une louchée de bouillon chaud, puis incorporez-le au mélange. Répartissez la soupe dans 4 bols. Décorez éventuellement d'une feuille de persil.
+
+## Noms ingrédients
+
+champignons shiitaké. daïkon. oignons verts. persil. tofu soyeux
+---
+
+# Salade de poires et avocats
+
+
+## Commentaire
+
+Le ponzu est une sauce à base de soja et de jus de citrons japonais (yuzu, sudachi). On l'utilise dans des salades ou pour accompagner des poissons. On peut l'acheter tout prêt dans les épiceries japonaises mais il est facile de le préparer soi-même en suivant la recette p. 57. À défaut de citron japonais, utilisez un mélange d'agrumes (citron vert, pamplemousse et mandarine).
+
+## Catégorie
+
+Japonais. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 10 min — Sans cuisson*
+
+- 2 poires
+- 2 avocats
+- 4 fines tranches de betterave crue
+- le zeste de 1 citron vert
+- 10 cl de sauce ponzu (voir recette p. 57)
+
+### Variante à la sauce au citron
+
+- 2 cuillerées à soupe de jus de citron vert
+- 1 cuillerée à soupe de mirin
+- 3 cuillerées à soupe de sauce soja
+- 1/2 cuillerée à soupe d'huile de sésame grillé
+
+---
+
+## Déroulé de la recette
+
+Pelez les poires, épépinez-les et coupez-les en dés. Pelez les avocats, retirez les noyaux et coupez-les en dés. Déposez les dés d'avocat et de poire dans un saladier.
+
+Coupez les tranches de betterave en fine julienne.
+
+Dans un bol, mélangez les ingrédients de la sauce ponzu. Versez-la dans le saladier et mélangez.
+
+Servez la salade décorée de betterave et de zestes de citron vert.
+
+## Noms ingrédients
+
+avocats. betteraves. citrons verts. poire
+---
+
+# Soupe de soba aux champignons
+
+
+## Catégorie
+
+Japonais. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 10 min — Cuisson : 20 min*
+
+- 350 g de nouilles soba séchées
+- 125 g de champignons shiitaké
+- 125 g de champignons shimeji (ou de pleurotes)
+- 125 g de champignons énoki (ou de champignons de Paris)
+- quelques pousses de daïkon (facultatif)
+- le vert de 1 ciboule émincé
+- 1 filet d'huile de sésame grillé
+- sel et poivre du moulin
+
+### Pour le bouillon
+
+- 1,5 litre de bouillon dashi (voir recette p. 46)
+- 5 cuillerées à soupe de sauce soja
+- 6 cuillerées à soupe de mirin
+- 1 cuillerée à soupe de saké
+- 1 cuillerée à café de zeste de yuzu (ou de citron vert)
+
+---
+
+## Déroulé de la recette
+
+Nettoyez les champignons et ôtez le pied de chacun. Coupez les shiitaké en deux.
+
+Faites chauffer l'huile de sésame dans une poêle sur feu vif, puis faites revenir tous les champignons 2 minutes. Salez et poivrez. Réservez.
+
+Préparez le bouillon. Dans une casserole, portez le mirin et le saké à ébullition pour laisser l'alcool s'évaporer, puis versez la sauce soja. Faites à nouveau bouillir, puis baissez le feu et laissez réduire la sauce de moitié. Versez le bouillon dashi dans la casserole et portez encore à ébullition. Ajoutez le zeste de yuzu et éteignez le feu.
+
+Faites cuire les nouilles dans une casserole d'eau bouillante selon les indications du paquet – soit 4 ou 5 minutes.
+
+Égouttez les nouilles et répartissez-les dans 4 grands bols. Versez le bouillon bien chaud dessus, puis garnissez de champignons. Ajoutez les pousses de daïkon et parsemez de ciboule. Servez aussitôt.
+
+**Astuce :** Quelques gouttes de mirin, cet alcool de riz exclusivement réservé à la cuisine, ajoutées à des légumes, du poisson ou de la viande mijotés adoucissent le plat. On peut facilement en trouver dans les épiceries asiatiques ou les supermarchés.
+
+## Noms ingrédients
+
+champignons enoki. champignons shiitaké. champignons shimeji. daïkon. oignons verts. pleurotes. yuzu
+---
+
+# Japonais Accompagnement - Édamamé
+
+
+## Catégorie
+
+Japonais. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 400 g d'édamamé avec leur cosse (fèves de soja, au rayon des surgelés)
+- 1 cuillerée à café de sel
+
+---
+
+## Déroulé de la recette
+
+Dans une casserole d'eau bouillante, faites cuire les fèves de soja avec leur cosse pendant 10 minutes. Égouttez-les, mettez-les dans un saladier, puis saupoudrez-les de sel et mélangez. Dégustez à température ambiante en retirant les cosses au fur et à mesure – la cosse ne se mange pas.
+
+## Noms ingrédients
+
+édamamé
+---
+
+# Japonais Accompagnement - Légumes marinés
+
+
+## Catégorie
+
+Japonais. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 1 bocal*
+
+- 50 g de gingembre frais (idéalement, un gingembre jeune, encore rosé)
+- 80 g de daïkon
+- 30 g de betterave crue
+- 10 cl d'eau
+- 10 cl de vinaigre de riz
+- 2 cuillerées à soupe de sucre semoule
+- 2 cuillerées à café de sel
+
+---
+
+## Déroulé de la recette
+
+Dans une casserole, faites chauffer le vinaigre, l'eau et le sucre jusqu'à ébullition. Laissez refroidir. Épluchez la betterave, le daïkon et le gingembre. Émincez le tout très finement, à l'aide d'une mandoline. Plongez les légumes émincés quelques secondes dans l'eau bouillante, puis égouttez-les et saupoudrez de sel. Mettez les légumes dans un bocal, recouvrez-les avec la préparation vinaigrée et laissez mariner 8 à 10 heures.
+
+## Noms ingrédients
+
+betteraves. daïkon. gingembre
+---
+
+# Japonais Accompagnement - Salade de concombre et algues
+
+
+## Catégorie
+
+Japonais. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 1/2 concombre
+- 2 cuillerées à soupe de salade d'algues séchées
+- 1/2 cuillerée à soupe de graines de sésame
+- 1 cuillerée à soupe de sauce soja
+- 1 cuillerée à soupe de vinaigre de riz
+- 1 cuillerée à soupe d'huile de sésame grillé
+
+---
+
+## Déroulé de la recette
+
+Réhydratez les algues séchées dans un bol d'eau froide pendant 10 minutes. Égouttez-les en les pressant avec vos mains. Pelez le concombre, coupez-le en deux, épépinez-le et émincez-le. Déposez-le dans un saladier avec les algues. Versez le reste des ingrédients et mélangez le tout.
+
+*Ce classique de la cuisine japonaise, au même titre que la soupe miso, est souvent au menu. Vous pouvez, par exemple, ajouter du daïkon (préalablement dégorgé avec un peu de sel) ou encore remplacer le vinaigre de riz par du jus de citron.*
+
+## Noms ingrédients
+
+concombres
+---
+
+# Japonais Accompagnement - Salade japonaise au chou
+
+
+## Catégorie
+
+Japonais. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 1/4 de chou rouge ou blanc émincé
+- 1 cuillerée à soupe de gomashio (voir recette p. 51)
+- 1 cuillerée à soupe d'huile de sésame grillé
+- 4 cuillerées à soupe de vinaigre de riz
+- 1 cuillerée à soupe de sucre semoule
+- 1 cuillerée à café de sel
+
+---
+
+## Déroulé de la recette
+
+Déposez le chou dans un saladier. Versez le vinaigre de riz, le sucre, le sel et l'huile de sésame, mélangez et laissez mariner 1 heure. Saupoudrez de gomashio avant de servir.
+
+## Noms ingrédients
+
+chou blanc. chou rouge
+---
+
+# Salade de harusamé
+
+
+## Commentaire
+
+Ces nouilles fines sont fabriquées à base de fécule de pomme de terre, de farine de soja ou de haricot. Vous pouvez les remplacer par des vermicelles de riz ou des nouilles somen.
+
+## Catégorie
+
+Japonais. Non testé. Poisson
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 10 min — Trempage : 10 min — Cuisson : 8 min*
+
+- 100 g de vermicelles harusamé
+- 120 g de petites crevettes cuites décortiquées
+- 1 poignée de roquette
+- 15 g de wakamé séché
+- 1 cuillerée à soupe de graines de sésame
+- 1½ cuillerée à soupe de sauce soja
+- 1½ cuillerée à soupe de jus de citron
+- 3 cuillerées à soupe d'huile de sésame grillé
+
+---
+
+## Déroulé de la recette
+
+Faites tremper le wakamé séché pendant 10 minutes dans un grand bol d'eau froide pour le réhydrater. Égouttez-le en le pressant bien avec vos mains.
+
+Faites cuire les vermicelles dans une casserole d'eau bouillante selon les indications du paquet – soit 5 à 8 minutes. Passez-les sous l'eau froide et égouttez-les. Coupez-les en grands tronçons.
+
+Rincez la roquette et mettez-la dans un saladier. Ajoutez les crevettes, les vermicelles et le wakamé. Assaisonnez d'huile de sésame, de sauce soja et de jus de citron. Saupoudrez de graines de sésame et mélangez avant de servir.
+
+## Noms ingrédients
+
+crevettes. citrons. roquette
+---
+
+# Salade de soba au crabe
+
+
+## Commentaire
+
+Nous connaissons le sarrasin dans les fameuses galettes bretonnes alors qu'au Japon, cette céréale est exclusivement utilisée dans la fabrication des nouilles.
+
+**Astuce :** Ne négligez pas le rinçage des nouilles soba, à l'eau froide, après la cuisson ; sinon, elles colleront entre elles !
+
+## Catégorie
+
+Japonais. Non testé. Poisson
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 12 min — Repos : 10 min — Cuisson : 8 min*
+
+- 250 g de nouilles soba
+- 125 g de chair de crabe
+- 100 g de daïkon râpé
+- 4 cuillerées à soupe de wakamé séché
+- 8 cuillerées à soupe de sauce ponzu (voir recette p. 57)
+- le zeste râpé de 1 citron vert pour la décoration (facultatif)
+
+---
+
+## Déroulé de la recette
+
+Faites tremper le wakamé séché pendant 10 minutes dans un bol d'eau froide pour le réhydrater. Égouttez-le en le pressant bien avec vos mains.
+
+Faites cuire les nouilles soba dans une grande casserole d'eau bouillante selon les indications du paquet – soit 5 minutes environ.
+
+Rincez les nouilles sous l'eau froide et égouttez-les. Dressez les nouilles sur un plat de service. Ajoutez le wakamé et le crabe, puis arrosez de sauce ponzu. Décorez de daïkon râpé et de zestes de citron.
+
+## Noms ingrédients
+
+chair de crabe. citrons verts. daïkon
+---
+
+# Soupe de palourdes au miso
+
+
+## Commentaire
+
+La variante au miso rouge, au goût prononcé et salé, avec le miso blanc est légèrement sucrée. Il se marie très bien aux palourdes car il confère une certaine douceur qui équilibre le goût subtilement iodé des coquillages.
+
+**Astuce :** Vous pouvez remplacer les palourdes par des coques.
+
+## Catégorie
+
+Japonais. Non testé. Poisson
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 10 min — Repos : 20 min — Cuisson : 10 min*
+
+- 400 g de palourdes
+- 2 cuillerées à soupe de wakamé séché
+- 4 cuillerées à soupe de miso blanc
+- 1 cuillerée à soupe de ciboule hachée
+
+---
+
+## Déroulé de la recette
+
+Nettoyez les palourdes, puis dessablez-les en les laissant tremper dans un grand volume d'eau pendant 10 minutes environ.
+
+Faites tremper le wakamé 10 minutes dans un bol d'eau pour le réhydrater. Égouttez-le en le pressant avec vos mains.
+
+Dans une casserole, portez 80 cl d'eau à ébullition. Égouttez les coquillages à travers une passoire puis plongez-les dans la casserole. Faites-les cuire 4 ou 5 minutes à feu vif jusqu'à ce qu'ils soient bien ouverts. Baissez le feu.
+
+Dans un petit bol, délayez le miso avec un peu de jus de cuisson des palourdes. Ajoutez-le dans la casserole en veillant bien à ne pas le faire bouillir.
+
+Répartissez le wakamé et les palourdes dans 4 bols. Recouvrez de bouillon au miso et parsemez de ciboule hachée. Servez sans attendre.
+
+## Noms ingrédients
+
+oignons verts. palourdes
+---
+
+# Salade de wakamé et saumon fumé
+
+
+## Commentaire
+
+En hiver, le daïkon remplace le concombre dans bon nombre de recettes de salades ou de légumes marinés.
+
+**Astuce :** Le daïkon, comme le concombre, est gorgé d'eau. Il est donc important de le laisser dégorger pour éviter que l'assaisonnement ne soit dilué.
+
+## Catégorie
+
+Japonais. Non testé. Poisson
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 10 min — Repos : 20 min — Sans cuisson*
+
+- 150 g de daïkon
+- 8 g de wakamé séché
+- 2 tranches de saumon fumé coupées en lamelles
+- 1 cuillerée à café de sel
+
+### Pour la vinaigrette
+
+- 1 cuillerée à soupe de vinaigre de riz
+- 1 cuillerée à soupe de sauce soja
+- 1 cuillerée à soupe d'huile de sésame grillé
+
+---
+
+## Déroulé de la recette
+
+Faites tremper le wakamé séché pendant 10 minutes dans un grand bol d'eau froide pour le réhydrater. Égouttez-le en le pressant bien avec vos mains.
+
+Épluchez le daïkon, émincez-le très finement, puis coupez chaque lamelle en deux. Faites-les dégorger 10 minutes dans une passoire avec le sel. Rincez-les sous l'eau froide et égouttez-les en les pressant avec les mains.
+
+Dans un bol, préparez la vinaigrette en émulsionnant la sauce soja, le vinaigre et l'huile de sésame.
+
+Sur un plat, disposez le daïkon avec le wakamé et le saumon fumé. Arrosez de vinaigrette et mélangez.
+
+## Noms ingrédients
+
+daïkon. saumon fumé
+---
+
+# Soupe kenchin
+
+
+## Commentaire
+
+À l'origine, cette soupe est végétarienne et servie dans les temples zen. Elle est principalement composée de légumes racines et de tofu. Je vous propose ici une version avec de la viande qui est, bien sûr, facultative !
+
+**Astuce :** Incorporez seulement les 2/3 du miso à la soupe, goûtez-la, puis incorporez le reste si vous jugez cela nécessaire. Cette précaution évite de se retrouver avec une soupe trop salée !
+
+## Catégorie
+
+Japonais. Non testé. Viande
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 15 min — Cuisson : 15 min*
+
+- 100 g de tofu ferme
+- 2 fines tranches de poitrine de porc non salée, coupées en lamelles
+- 1 petite carotte pelée
+- 1/2 patate douce pelée
+- 1 poireau
+- 1/2 daïkon pelé
+- 1/2 oignon nouveau émincé
+- 80 cl de bouillon dashi (voir recette p. 46)
+- 4 cuillerées à soupe rases de miso rouge
+- 1 cuillerée à soupe de sauce soja
+- 1 cuillerée à soupe d'huile de sésame grillé
+
+---
+
+## Déroulé de la recette
+
+Coupez la carotte, la patate douce et le daïkon en fines rondelles, puis retaillez celles-ci en deux ou quatre selon leur grosseur. Coupez le poireau en rondelles.
+
+Dans une casserole, faites chauffer l'huile, puis faites revenir les légumes et la poitrine de porc 3 ou 4 minutes à feu vif. Couvrez avec le bouillon et laissez mijoter 10 minutes environ, à feu doux, jusqu'à ce que les légumes soient bien tendres.
+
+Émiettez le tofu en gros morceaux, avec vos doigts, au-dessus de la casserole, mélangez et prolongez la cuisson de 5 minutes.
+
+Diluez le miso dans une louchée de bouillon, puis incorporez-le à la préparation ainsi que la sauce soja.
+
+Répartissez la soupe bien chaude dans des bols et décorez d'oignon émincé.
+
+## Noms ingrédients
+
+carottes. daïkon. oignons verts. patate douce. poireau. poitrine de porc. tofu ferme
+---
+
+# Japonais Onigiri - Onigiri grillé au soja
+
+
+## Commentaire
+
+Les onigiris sont des boules de riz japonaises, souvent triangulaires, qui peuvent être garnies de nombreuses façons. Ils constituent un en-cas très populaire au Japon et se retrouvent dans les konbini (épiceries de proximité) ou dans les boîtes bento.
+
+## Catégorie
+
+Japonais. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 onigiris — Préparation : 5 min — Cuisson : 8 min*
+
+- 2 bols de riz cuit (voir recette p. 38)
+- 3 cuillerées à soupe d'algues en paillettes
+- 2 cuillerées à soupe de gomashio (voir recette p. 51)
+- 3 cuillerées à soupe de sauce soja
+- 1/2 feuille d'algue nori coupée en 4 bandes
+- sel
+
+---
+
+## Déroulé de la recette
+
+Déposez le riz cuit dans un saladier. Ajoutez les paillettes d'algues et le gomashio. Mélangez délicatement afin de ne pas écraser les grains de riz.
+
+Saupoudrez vos mains humidifiées d'un peu de sel. Prélevez un quart du riz aux algues en le compactant légèrement afin de former un triangle – faites tourner le triangle entre vos mains de façon à avoir une pression homogène sur les trois bords, sans compresser le riz qui ne doit surtout pas être écrasé ! Réalisez ainsi 3 autres onigiri avec le reste de riz.
+
+Disposez les triangles de riz sur la plaque du four recouverte de papier sulfurisé. Passez-les sous le gril pendant 2 minutes environ. Sortez-les du four et badigeonnez-les de sauce soja à l'aide d'un pinceau. Remettez-les sous le gril 1 ou 2 minutes, puis badigeonnez-les à nouveau. Retournez les onigiri, badigeonnez-les puis faites-les griller encore 2 minutes.
+
+Enveloppez chaque onigiri d'une bande de nori.
+
+**Astuce :** Vous pouvez placer le riz dans un film étirable pour lui donner la forme souhaitée ou bien utiliser un moule à onigiri.
+
+## Noms ingrédients
+
+
+---
+
+# Japonais Onigiri - Onigiri grillé au miso
+
+
+## Commentaire
+
+Les onigiris sont des boules de riz japonaises, souvent triangulaires, qui peuvent être garnies de nombreuses façons. Ils constituent un en-cas très populaire au Japon et se retrouvent dans les konbini (épiceries de proximité) ou dans les boîtes bento.
+
+## Catégorie
+
+Japonais. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 2 onigiris*
+
+- 1 bol de riz cuit (voir recette p. 38)
+- 1/2 ciboule émincée
+- 1 cuillerée rase de miso
+
+---
+
+## Déroulé de la recette
+
+Avec vos mains mouillées, formez un triangle en suivant les indications de l'onigiri grillé au soja. Recommencez avec l'autre moitié du riz. Dans un bol, mélangez le miso et 1/2 cuillerée à soupe d'eau. Étalez ce mélange sur les 2 triangles de riz. Disposez les onigiri sur la plaque du four recouverte de papier sulfurisé. Passez-les quelques minutes sous le gril jusqu'à ce que le miso soit bien doré. Parsemez les onigiri de ciboule.
+
+## Noms ingrédients
+
+oignons verts
+---
+
+# Japonais Onigiri - Onigiri à l'œuf brouillé
+
+
+## Commentaire
+
+Les onigiris sont des boules de riz japonaises, souvent triangulaires, qui peuvent être garnies de nombreuses façons. Ils constituent un en-cas très populaire au Japon et se retrouvent dans les konbini (épiceries de proximité) ou dans les boîtes bento.
+
+## Catégorie
+
+Japonais. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 2 onigiris*
+
+- 1 bol de riz cuit (voir recette p. 38)
+- 1 œuf
+- 1/2 oignon nouveau émincé
+- 1 filet d'huile
+- 1 pincée de sel
+
+---
+
+## Déroulé de la recette
+
+Battez l'œuf dans un bol. Ajoutez l'oignon et le sel. Dans une poêle, faites chauffer l'huile, puis versez l'œuf battu en remuant sans cesse pour obtenir un œuf brouillé. Hors du feu, mélangez délicatement l'œuf brouillé au riz. Avec vos mains mouillées, formez un triangle en suivant les indications de l'onigiri grillé au soja. Recommencez avec l'autre moitié du riz.
+
+## Noms ingrédients
+
+oignons verts
+---
+
+# Japonais Onigiri - Onigiri tout rouge
+
+
+## Commentaire
+
+Les onigiris sont des boules de riz japonaises, souvent triangulaires, qui peuvent être garnies de nombreuses façons. Ils constituent un en-cas très populaire au Japon et se retrouvent dans les konbini (épiceries de proximité) ou dans les boîtes bento.
+
+## Catégorie
+
+Japonais. Non testé. Poisson
+
+---
+
+## Ingrédients
+
+*Pour 2 onigiris*
+
+- 1 bol de riz rouge cuit (voir recette p. 38)
+- 2 filets d'anchois marinés, égouttés et émincés
+- 2 brins de ciboulette ciselés
+
+---
+
+## Déroulé de la recette
+
+Mélangez les anchois, la ciboulette et le riz. Avec vos mains mouillées, formez un triangle en suivant les indications de l'onigiri grillé au soja. Recommencez avec l'autre moitié du riz.
+
+## Noms ingrédients
+
+anchois. ciboulette
+---
+
+# Japonais Onigiri - Onigiri au thon
+
+
+## Commentaire
+
+Les onigiris sont des boules de riz japonaises, souvent triangulaires, qui peuvent être garnies de nombreuses façons. Ils constituent un en-cas très populaire au Japon et se retrouvent dans les konbini (épiceries de proximité) ou dans les boîtes bento.
+
+## Catégorie
+
+Japonais. Non testé. Poisson
+
+---
+
+## Ingrédients
+
+*Pour 2 onigiris*
+
+- 1 bol de riz vinaigré à sushi (voir recette p. 40)
+- 2 cuillerées à soupe de thon en boîte émietté
+- 2 brins de ciboulette ciselés
+- algue nori
+
+---
+
+## Déroulé de la recette
+
+Mélangez le thon et la ciboulette avec le riz vinaigré. Avec vos mains mouillées, formez un triangle en suivant les indications de l'onigiri grillé au soja. Recommencez avec l'autre moitié du riz. Placez 1 bande d'algue nori à la base de chaque onigiri.
+
+## Noms ingrédients
+
+ciboulette. thon en boîte
+---
+
+# Japonais Onigiri - Onigiri au umeboshi
+
+
+## Commentaire
+
+Les onigiris sont des boules de riz japonaises, souvent triangulaires, qui peuvent être garnies de nombreuses façons. Ils constituent un en-cas très populaire au Japon et se retrouvent dans les konbini (épiceries de proximité) ou dans les boîtes bento.
+
+## Catégorie
+
+Japonais. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 2 onigiris*
+
+- 1 bol de riz cuit (voir recette p. 38)
+- 1 umeboshi dénoyauté (prune salée japonaise)
+- 1 cuillerée à soupe de graines de sésame noir
+
+---
+
+## Déroulé de la recette
+
+Saupoudrez le riz de graines de sésame, puis mélangez délicatement afin de ne pas écraser les grains de riz. Avec vos mains mouillées, formez un triangle en suivant les indications de l'onigiri grillé au soja. Recommencez avec l'autre moitié du riz. Exercez une légère pression au centre des triangles, puis placez-y un demi-umeboshi.
+
+## Noms ingrédients
+
+umeboshi
+---
+
+# Japonais Onigiri - Onigiri à la laitue de mer
+
+
+## Commentaire
+
+Les onigiris sont des boules de riz japonaises, souvent triangulaires, qui peuvent être garnies de nombreuses façons. Ils constituent un en-cas très populaire au Japon et se retrouvent dans les konbini (épiceries de proximité) ou dans les boîtes bento.
+
+## Catégorie
+
+Japonais. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 2 onigiris*
+
+- 1 bol de riz cuit (voir recette p. 38)
+- 2 cuillerées à soupe de gomashio (voir recette p. 51)
+- 2 cuillerées à soupe de laitue de mer en paillettes (en magasin bio)
+
+---
+
+## Déroulé de la recette
+
+Mélangez délicatement le gomashio et la laitue de mer avec le riz. Avec vos mains mouillées, formez un triangle en suivant les indications de l'onigiri grillé au soja. Recommencez avec l'autre moitié du riz.
+
+## Noms ingrédients
+
+laitue de mer
+---
+
+# Japonais Onigiri - Onigiri à l'italienne
+
+
+## Commentaire
+
+Les onigiris sont des boules de riz japonaises, souvent triangulaires, qui peuvent être garnies de nombreuses façons. Ils constituent un en-cas très populaire au Japon et se retrouvent dans les konbini (épiceries de proximité) ou dans les boîtes bento.
+
+## Catégorie
+
+Japonais. Non testé. Viande
+
+---
+
+## Ingrédients
+
+*Pour 2 onigiris*
+
+- 1 bol de riz cuit (voir recette p. 38)
+- 2 tranches de jambon de Parme
+- 10 feuilles de roquette
+
+---
+
+## Déroulé de la recette
+
+Ciselez 8 feuilles de roquette et mélangez-les au riz. Avec vos mains mouillées, formez un triangle en suivant les indications de l'onigiri grillé au soja. Recommencez avec l'autre moitié du riz. Enveloppez chaque onigiri d'une tranche de jambon de Parme. Décorez avec une feuille de roquette.
+
+## Noms ingrédients
+
+jambon de Parme. roquette
+---
+
+# Japonais Sushi - Nigiri sushi au saumon
+
+
+## Commentaire
+
+Pour vous y retrouver parmi toutes les variétés de sushi, retenez : nigiri sushi est une boulette de riz recouverte d'une garniture ; témari sushi est un sushi en forme de boule ; oshi sushi est un sushi pressé de forme carrée ou rectangulaire ; gunkan sushi est un sushi entouré d'une lamelle d'algue ou de légume qui maintient une garniture ; maki sushi est un rouleau de sushi entouré d'une feuille d'algue ; hosso maki est un petit rouleau ; futo maki est un gros rouleau ; uramaki est un rouleau de maki inversé ; témaki est un sushi roulé à la main en forme de cône. Dégustez les sushi en les trempant dans la sauce soja mélangée à une pointe de wasabi. Le gingembre mariné permet de se "nettoyer" le palais entre chaque bouchée pour ne pas mélanger les goûts.
+
+**Astuce :** Ne faites pas de boulettes de riz trop grosses car un sushi doit être avalé en une bouchée ! Il est également plus esthétique de voir la garniture recouvrir totalement la boulette.
+
+## Catégorie
+
+Japonais. Non testé. Poisson
+
+---
+
+## Ingrédients
+
+*Pour 8 nigiri — Préparation : 45 min — Cuisson : 15 min*
+
+- 4 petits bols de riz vinaigré (voir recette p. 40)
+- 1 filet de saumon
+- wasabi
+
+### Pour servir
+
+- sauce soja
+- gingembre mariné (voir recette p. 51)
+
+---
+
+## Déroulé de la recette
+
+Retirez la peau et les arêtes du saumon en prenant soin d'enlever toutes les parties sombres collées à la chair. Coupez le saumon en 8 tranches de 1½ cm d'épaisseur.
+
+Avec vos mains humidifiées, prenez une petite quantité de riz vinaigré. Pressez-la légèrement en la faisant rouler dans le creux de vos mains afin d'obtenir une boulette ovale.
+
+Placez une pointe de wasabi avec un doigt sur la boulette ou au centre d'une tranche de saumon. Déposez la tranche de saumon sur la boulette de riz.
+
+À l'aide de deux doigts, exercez une nouvelle pression sur le poisson afin qu'il adhère à la boulette de riz.
+
+Renouvelez l'opération jusqu'à obtenir 8 nigiri sushi. Déposez-les sur un plat de service. Servez avec la sauce soja et le gingembre mariné.
+
+## Noms ingrédients
+
+gingembre mariné. saumon
+---
+
+# Japonais Sushi - Nigiri sushi à la daurade
+
+
+## Commentaire
+
+Pour vous y retrouver parmi toutes les variétés de sushi, retenez : nigiri sushi est une boulette de riz recouverte d'une garniture ; témari sushi est un sushi en forme de boule ; oshi sushi est un sushi pressé de forme carrée ou rectangulaire ; gunkan sushi est un sushi entouré d'une lamelle d'algue ou de légume qui maintient une garniture. Dégustez les sushi en les trempant dans la sauce soja mélangée à une pointe de wasabi. Le gingembre mariné permet de se "nettoyer" le palais entre chaque bouchée.
+
+## Catégorie
+
+Japonais. Non testé. Poisson
+
+---
+
+## Ingrédients
+
+*Pour 4 nigiri*
+
+- 1 petit bol de riz vinaigré (voir recette p. 40)
+- 1 filet de daurade
+- gingembre frais râpé
+- ciboule ciselée
+
+---
+
+## Déroulé de la recette
+
+Retirez la peau et les arêtes du filet de daurade. Taillez-le en 4 tranches de 1½ cm d'épaisseur – pour obtenir des tranches suffisamment larges, tranchez dans le filet quasiment en parallèle de la planche et non verticalement.
+
+Réalisez 1 boulette de riz ovale et garnissez-la d'une tranche de daurade, en suivant les indications du nigiri sushi au saumon. Décorez le sushi d'une pointe de gingembre râpé et de ciboule ciselée. Renouvelez l'opération jusqu'à obtenir 4 nigiri sushi.
+
+## Noms ingrédients
+
+daurade. gingembre. oignons verts
+---
+
+# Japonais Sushi - Nigiri sushi au maquereau
+
+
+## Commentaire
+
+Pour vous y retrouver parmi toutes les variétés de sushi, retenez : nigiri sushi est une boulette de riz recouverte d'une garniture. Dégustez les sushi en les trempant dans la sauce soja mélangée à une pointe de wasabi. Le gingembre mariné permet de se "nettoyer" le palais entre chaque bouchée.
+
+## Catégorie
+
+Japonais. Non testé. Poisson
+
+---
+
+## Ingrédients
+
+*Pour 4 nigiri*
+
+- 1 petit bol de riz vinaigré (voir recette p. 40)
+- 1 filet de maquereau
+- gingembre frais râpé
+
+---
+
+## Déroulé de la recette
+
+Retirez la peau et les arêtes du filet de maquereau. Taillez-le en 4 tranches de 1½ cm d'épaisseur.
+
+Réalisez 1 boulette de riz ovale et garnissez-la d'une tranche de maquereau, en suivant les indications du nigiri sushi au saumon. Décorez le sushi d'une pointe de gingembre râpé. Renouvelez l'opération jusqu'à obtenir 4 nigiri sushi.
+
+## Noms ingrédients
+
+gingembre. maquereau
+---
+
+# Japonais Sushi - Nigiri sushi aux noix de saint-jacques
+
+
+## Commentaire
+
+Pour vous y retrouver parmi toutes les variétés de sushi, retenez : nigiri sushi est une boulette de riz recouverte d'une garniture ; gunkan sushi est un sushi entouré d'une lamelle d'algue ou de légume qui maintient une garniture. Dégustez les sushi en les trempant dans la sauce soja mélangée à une pointe de wasabi.
+
+## Catégorie
+
+Japonais. Non testé. Poisson
+
+---
+
+## Ingrédients
+
+*Pour 4 nigiri*
+
+- 1 petit bol de riz vinaigré (voir recette p. 40)
+- 2 grosses noix de saint-jacques
+- le zeste de 1 citron vert
+
+---
+
+## Déroulé de la recette
+
+Taillez les noix de saint-jacques en quatre dans l'épaisseur.
+
+Réalisez 1 boulette de riz ovale et garnissez-la de 2 tranches de noix de saint-jacques, en suivant les indications du nigiri sushi au saumon. Décorez le sushi de zestes de citron vert coupés en fines lamelles. Renouvelez l'opération jusqu'à obtenir 4 nigiri sushi.
+
+## Noms ingrédients
+
+citrons verts. noix de saint-jacques
+---
+
+# Japonais Sushi - Gunkan aux œufs de saumon
+
+
+## Commentaire
+
+Pour vous y retrouver parmi toutes les variétés de sushi : gunkan sushi est un sushi entouré d'une lamelle d'algue ou de légume qui maintient une garniture. Dégustez les sushi en les trempant dans la sauce soja mélangée à une pointe de wasabi.
+
+**Astuce :** Si vous n'avez pas de belles lamelles de poisson, retaillez-les en dés et garnissez-en des gunkan. La feuille d'algue maintiendra le tartare de poisson sur la boulette de riz.
+
+## Catégorie
+
+Japonais. Non testé. Poisson
+
+---
+
+## Ingrédients
+
+*Pour 4 gunkan*
+
+- 1 petit bol de riz vinaigré (voir recette p. 40)
+- 4 cuillerées à soupe d'œufs de saumon
+- 1 feuille de nori coupée en bandes
+
+---
+
+## Déroulé de la recette
+
+Réalisez 1 boulette de riz ovale, en suivant les indications du nigiri sushi au saumon. Coupez 1 bande de nori d'une largeur supérieure à la hauteur de la boulette de riz. Entourez celle-ci avec la bande de nori. Déposez les œufs de saumon sur le riz à l'aide d'une petite cuillère. Renouvelez l'opération jusqu'à obtenir 4 gunkan.
+
+## Noms ingrédients
+
+œufs de saumon
+---
+
+# Japonais Sushi - Sushi au tamago yaki
+
+
+## Commentaire
+
+Pour vous y retrouver parmi toutes les variétés de sushi, retenez : nigiri sushi est une boulette de riz recouverte d'une garniture. Dégustez les sushi en les trempant dans la sauce soja mélangée à une pointe de wasabi.
+
+## Catégorie
+
+Japonais. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 sushi*
+
+- 1 petit bol de riz vinaigré (voir recette p. 40)
+- 4 tranches de tamago yaki (voir recette p. 76)
+- lamelles de nori
+
+---
+
+## Déroulé de la recette
+
+Réalisez 1 boulette de riz ovale et garnissez-la d'une tranche de tamago yaki, en suivant les indications du nigiri sushi au saumon. Entourez le sushi d'une lamelle de nori. Renouvelez l'opération jusqu'à obtenir 4 sushi.
+
+**Variante Sushi à la crêpe d'œuf :** Réalisez 4 boulettes de riz ovales et enveloppez chacune d'elles d'une demi-crêpe d'œuf. Entourez chaque sushi d'une lamelle de nori ou d'un brin de ciboulette.
+
+## Noms ingrédients
+
+oignons verts
+---
+
+# Japonais Sushi - Sushi teriyaki
+
+
+## Commentaire
+
+Dégustez les sushi en les trempant dans la sauce soja mélangée à une pointe de wasabi (sauf le sushi teriyaki qui est déjà assaisonné). Le gingembre mariné permet de se "nettoyer" le palais entre chaque bouchée pour ne pas mélanger les goûts.
+
+**Astuce :** Vous pouvez remplacer le poisson par un légume comme la courgette ou le shiitaké, tous deux délicieux en teriyaki !
+
+## Catégorie
+
+Japonais. Non testé. Poisson
+
+---
+
+## Ingrédients
+
+*Pour 4 sushi*
+
+- 1 petit bol de riz vinaigré (voir recette p. 40)
+- 1 filet de carrelet
+- sauce teriyaki (voir recette p. 56)
+
+---
+
+## Déroulé de la recette
+
+Disposez le filet de carrelet sur une grille à rôtir ou sur la plaque du gril. Faites cuire 1 minute sur feu doux, puis badigeonnez le filet de sauce teriyaki à l'aide d'un pinceau. Remettez sur le feu 1 minute. Badigeonnez à nouveau le filet de sauce et faites cuire encore 1 minute.
+
+Coupez le filet en 4 tranches d'environ 4 cm de large.
+
+Réalisez 1 boulette de riz ovale et garnissez-la d'une tranche de carrelet teriyaki, puis badigeonnez le sushi de sauce teriyaki. Renouvelez l'opération jusqu'à obtenir 4 sushi. Parsemez éventuellement les sushi de quelques graines germées.
+
+## Noms ingrédients
+
+carrelet
+---
+
+# Oshi sushi au maquereau
+
+
+## Catégorie
+
+Japonais. Non testé. Poisson
+
+---
+
+## Ingrédients
+
+*Pour 12 sushi — Préparation : 20 min — Sans cuisson — Marinade : 1 h 40*
+
+- 240 g de riz vinaigré (voir recette p. 40)
+- 2 filets de maquereau extra-frais (environ 180 g)
+- 12 cl de vinaigre de riz
+- 2 cuillerées à soupe de sucre semoule
+- 2 cuillerées à soupe de sel
+
+### Pour servir
+
+- sauce soja et wasabi
+
+---
+
+## Déroulé de la recette
+
+Retirez les arêtes des filets de maquereau, puis déposez ceux-ci dans un plat creux. Saupoudrez-les de la moitié du sel, retournez-les et saupoudrez-les du reste de sel. Laissez macérer 40 minutes.
+
+Rincez les filets à l'eau claire et essuyez-les avec du papier absorbant.
+
+Versez le vinaigre de riz dans un plat creux. Ajoutez le sucre et mélangez. Déposez les filets de maquereau dans le plat et laissez mariner 1 heure au réfrigérateur.
+
+Retirez les filets de la marinade, essuyez-les avec du papier absorbant et enlevez la fine pellicule qui recouvre la peau.
+
+Faites tremper un moule à sushi dans de l'eau. Remplissez-le de riz à ras bord et tassez bien avec la cuillère à riz. Démoulez le riz, puis coupez les filets de maquereau en rectangles de la même taille. Placez-les sur les portions de riz et appuyez bien pour les faire adhérer.
+
+Disposez les oshi sushi sur un plat de service. Dégustez-les avec la sauce soja mélangée à une pointe de wasabi.
+
+**Astuce :** Si vous n'avez pas de moule, vous pouvez bien évidemment réaliser les oshi sushi à la main.
+
+## Noms ingrédients
+
+maquereau
+---
+
+# Japonais Sushi - Inari sushi
+
+
+## Commentaire
+
+Pour vous y retrouver parmi toutes les variétés de sushi : inari sushi est une boulette de riz glissée dans une poche de tofu frit mariné.
+
+## Catégorie
+
+Japonais. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 6 sushi*
+
+- 120 g de riz vinaigré (voir recette p. 40)
+- 1 cuillerée à soupe de graines de sésame
+- 6 inari (tofu frits marinés)
+
+---
+
+## Déroulé de la recette
+
+Mélangez délicatement le riz et les graines de sésame. Réalisez 6 boulettes de riz ovales. Ouvrez les tofus frits (comme une pochette) et farcissez chacun d'eux d'une boulette de riz.
+
+## Noms ingrédients
+
+inari
+---
+
+# Japonais Sushi - Gunkan au saumon
+
+
+## Commentaire
+
+Pour vous y retrouver parmi toutes les variétés de sushi : gunkan sushi est un sushi entouré d'une lamelle d'algue ou de légume qui maintient une garniture.
+
+## Catégorie
+
+Japonais. Non testé. Poisson
+
+---
+
+## Ingrédients
+
+*Pour 6 sushi*
+
+- 120 g de riz vinaigré (voir recette p. 40)
+- 100 g de filet de saumon préparé, taillé en dés
+- 1/2 courgette
+- 1 ciboule émincée
+
+---
+
+## Déroulé de la recette
+
+Lavez la courgette puis coupez-la en 6 très fines lamelles dans la longueur à l'aide d'une mandoline. Plongez ces lamelles dans une casserole d'eau bouillante salée pendant 5 secondes. Égouttez-les. Réalisez 6 boulettes de riz ovales. Entourez chaque boulette avec 1 lamelle de courgette. Garnissez chaque sushi de dés de saumon et de ciboule.
+
+## Noms ingrédients
+
+courgettes. oignons verts. saumon
+---
+
+# Japonais Sushi - Nigiri sushi de sardine
+
+
+## Commentaire
+
+Pour vous y retrouver parmi toutes les variétés de sushi : nigiri sushi est une boulette de riz recouverte d'une garniture. Dégustez les sushi en les trempant dans la sauce soja mélangée à une pointe de wasabi.
+
+## Catégorie
+
+Japonais. Non testé. Poisson
+
+---
+
+## Ingrédients
+
+*Pour 6 sushi*
+
+- 120 g de riz vinaigré (voir recette p. 40)
+- 6 filets de sardines préparés
+- 1 cuillerée à café de gingembre frais râpé
+- 1 brin de ciboulette ciselé
+
+---
+
+## Déroulé de la recette
+
+Réalisez 6 boulettes de riz ovales. Déposez 1 filet de sardine sur chaque boulette de riz. À l'aide de deux doigts, exercez une pression sur le poisson afin qu'il adhère au riz. Décorez chaque sushi d'une pointe de gingembre et de ciboulette.
+
+## Noms ingrédients
+
+ciboulette. gingembre. sardines
+---
+
+# Japonais Sushi - Gunkan au corail d'oursin
+
+
+## Commentaire
+
+Pour vous y retrouver parmi toutes les variétés de sushi : gunkan sushi est un sushi entouré d'une lamelle d'algue ou de légume qui maintient une garniture.
+
+## Catégorie
+
+Japonais. Non testé. Poisson
+
+---
+
+## Ingrédients
+
+*Pour 6 sushi*
+
+- 120 g de riz vinaigré (voir recette p. 40)
+- 50 g de corail d'oursin
+- 2 feuilles de nori
+
+---
+
+## Déroulé de la recette
+
+Réalisez 6 boulettes de riz ovales. Coupez 6 bandes de nori plus larges que la hauteur des boulettes de riz. Entourez chaque boulette d'une bande de nori. À l'aide d'une cuillère, garnissez délicatement chaque sushi de corail d'oursin.
+
+## Noms ingrédients
+
+corail d'oursin
+---
+
+# Japonais Sushi - Nigiri sushi aux crevettes
+
+
+## Commentaire
+
+Pour vous y retrouver parmi toutes les variétés de sushi : nigiri sushi est une boulette de riz recouverte d'une garniture. Dégustez les sushi en les trempant dans la sauce soja mélangée à une pointe de wasabi.
+
+## Catégorie
+
+Japonais. Non testé. Poisson
+
+---
+
+## Ingrédients
+
+*Pour 6 sushi*
+
+- 120 g de riz vinaigré (voir recette p. 40)
+- 6 crevettes crues
+- 3 cuillerées à café de condiment à la coriandre (voir recette p. 152)
+- quelques feuilles de coriandre
+
+---
+
+## Déroulé de la recette
+
+Ôtez la tête des crevettes ainsi que le filament noir du dos. Insérez une pique à brochette le long de leur dos – les crevettes resteront bien droites. Plongez les crevettes dans une casserole d'eau bouillante pendant 30 secondes – elles doivent devenir bien orangées. Égouttez-les, décortiquez-les et incisez-les du ventre vers le dos sans les couper en deux. Réalisez 6 boulettes de riz ovales, puis garnissez chacune d'elles d'une crevette et de feuilles de coriandre.
+
+## Noms ingrédients
+
+coriandre. crevettes
+---
+
+# Japonais Chirashi - Chirashi traditionnel
+
+
+## Commentaire
+
+Le chirashi est un « sushi éparpillé », c'est à dire un bol de riz vinaigré sur lequel on vient déposer une garniture. Si vous ne vous sentez pas prêt à rouler des maki, lancez-vous donc dans la réalisation des chirashi !
+
+## Catégorie
+
+Japonais. Non testé. Poisson
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 20 min — Sans cuisson*
+
+- 4 grands bols de riz vinaigré (voir recette p. 40)
+- 4 grosses noix de saint-jacques très fraîches
+- 1 pavé de saumon très frais
+- 1 filet de maquereau très frais
+- 12 crevettes cuites
+- 8 tranches de tamago yaki (voir recette p. 76)
+- 1/4 de concombre
+- quelques feuilles de persil
+- 2 cuillerées à soupe de graines de sésame
+
+### Pour servir
+
+- sauce soja
+- wasabi
+
+---
+
+## Déroulé de la recette
+
+Décortiquez les crevettes en laissant la nageoire caudale (l'extrémité de la queue). Taillez chaque noix de saint-jacques en 3 lamelles dans l'épaisseur. Retirez la peau et les arêtes des poissons, puis détaillez les filets en tranches de 1,5 cm d'épaisseur.
+
+Pelez le concombre, coupez-le en deux dans la longueur, puis émincez chaque moitié en fines lamelles.
+
+Saupoudrez le riz de graines de sésame et mélangez délicatement. Garnissez chaque bol de riz de 2 tranches de tamago yaki, 3 lamelles de saint-jacques, 3 crevettes, de tranches de poisson et de lamelles de concombre. Décorez d'une feuille de persil.
+
+Mélangez un peu de sauce soja et une pointe de wasabi dans des coupelles, puis versez dans le riz avant de déguster.
+
+## Noms ingrédients
+
+concombres. crevettes. maquereau. noix de saint-jacques. persil. saumon
+---
+
+# Japonais Chirashi - Chirashi au thon et aux œufs de saumon
+
+
+## Commentaire
+
+Le chirashi est un « sushi éparpillé », c'est à dire un bol de riz vinaigré sur lequel on vient déposer une garniture.
+
+## Catégorie
+
+Japonais. Non testé. Poisson
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 4 grands bols de riz vinaigré (voir recette p. 40)
+- 250 g de pavé de thon albacore
+- 4 cuillerées à soupe d'œufs de saumon (ou de truite)
+- 1 poignée de mesclun
+
+### Pour servir
+
+- sauce soja et wasabi
+
+---
+
+## Déroulé de la recette
+
+Coupez le thon en rectangles de la taille d'une bouchée. Garnissez chaque bol de riz de thon, d'une cuillerée à soupe d'œufs de saumon et d'un peu de mesclun. Mélangez un peu de sauce soja et une pointe de wasabi dans des coupelles, puis versez dans le riz avant de déguster.
+
+## Noms ingrédients
+
+mesclun. œufs de saumon. thon
+---
+
+# Japonais Chirashi - Chirashi au poulet
+
+
+## Commentaire
+
+Le chirashi est un « sushi éparpillé », c'est à dire un bol de riz vinaigré sur lequel on vient déposer une garniture.
+
+## Catégorie
+
+Japonais. Non testé. Viande
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 4 grands bols de riz vinaigré (voir recette p. 40)
+- 300 g de cuisses de poulet désossées
+- 1 carotte pelée et râpée
+- 1 petit concombre pelé, épépiné et taillé en fines lamelles
+- quelques brins de coriandre
+- graines de sésame
+- 10 cl de sauce yakiniku (voir recette p. 240)
+- huile d'arachide pour la cuisson
+
+### Pour servir
+
+- sauce soja et wasabi
+
+---
+
+## Déroulé de la recette
+
+Coupez la chair de poulet en gros dés. Déposez-les dans un grand bol, arrosez-les de sauce yakiniku et laissez mariner 15 minutes au réfrigérateur. Égouttez les dés de poulet. Faites-les revenir dans une poêle 3 ou 4 minutes avec un filet d'huile, en remuant de temps en temps. Garnissez chaque bol de riz de poulet, de carotte râpée, de concombre et de coriandre. Parsemez de graines de sésame et servez avec le reste de la marinade.
+
+## Noms ingrédients
+
+carottes. concombres. coriandre. cuisses de poulet
+---
+
+# Japonais Chirashi - Chirashi au tamago yaki
+
+
+## Commentaire
+
+Le chirashi est un « sushi éparpillé », c'est à dire un bol de riz vinaigré sur lequel on vient déposer une garniture.
+
+## Catégorie
+
+Japonais. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 4 grands bols de riz vinaigré (voir recette p. 40)
+- 1 tamago yaki (voir recette p. 76)
+- 1/4 de betterave crue pelée et finement râpée
+- 1/4 de concombre pelé, épépiné et taillé en fines lamelles
+- 1 poignée de roquette
+- 1 cuillerée à soupe de graines de sésame
+
+### Pour servir
+
+- sauce soja et wasabi
+
+---
+
+## Déroulé de la recette
+
+Coupez le tamago yaki en tranches, puis coupez chaque tranche en deux. Garnissez chaque bol de riz de tamago yaki, de concombre, de betterave et de roquette. Parsemez de graines de sésame. Mélangez un peu de sauce soja et une pointe de wasabi dans des coupelles, puis versez dans le riz avant de déguster.
+
+## Noms ingrédients
+
+betteraves. concombres. roquette
+---
+
+# Japonais Chirashi - Chirashi au bar et aux groseilles
+
+
+## Commentaire
+
+Le chirashi est un « sushi éparpillé », c'est à dire un bol de riz vinaigré sur lequel on vient déposer une garniture.
+
+## Catégorie
+
+Japonais. Non testé. Poisson
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 4 grands bols de riz vinaigré (voir recette p. 40)
+- 350 g de filet de bar
+- 1 avocat pelé, dénoyauté et taillé en lamelles
+- 1 poignée de feuilles de shiso (ou de feuilles de basilic et de menthe mélangées)
+- 1/4 de citron détaillé en 4 lamelles
+- 1 cuillerée à soupe de groseilles
+- 1 ciboule finement émincée
+- 1 cuillerée à soupe d'algue wakamé en paillettes (facultatif)
+
+### Pour servir
+
+- sauce soja et wasabi
+
+---
+
+## Déroulé de la recette
+
+Retirez la peau et les arêtes du bar. Coupez-le en fines tranches. Garnissez chaque bol de riz de lamelles de bar, d'avocat et de citron, ainsi que de feuilles de shiso, de groseilles et de ciboule. Saupoudrez de paillettes de wakamé. Mélangez un peu de sauce soja et une pointe de wasabi dans des coupelles, puis versez dans le riz avant de déguster.
+
+## Noms ingrédients
+
+avocats. bar. citrons. groseilles. oignons verts
+---
+
+# Japonais Chirashi - Chirashi au riz rouge
+
+
+## Commentaire
+
+Le chirashi est un « sushi éparpillé », c'est à dire un bol de riz vinaigré sur lequel on vient déposer une garniture.
+
+## Catégorie
+
+Japonais. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 4 grands bols de riz rouge vinaigré (voir recettes p. 38 et 40)
+- 16 lamelles de takuan (ou de concombre)
+- 1 avocat
+- 12 feuilles de shiso (ou de coriandre)
+- 1 poignée d'alfalfa (pousses de luzerne, ou autres graines germées)
+
+### Pour servir
+
+- sauce soja et wasabi
+
+---
+
+## Déroulé de la recette
+
+Pelez et dénoyautez l'avocat. Taillez sa chair en lamelles. Coupez les lamelles de takuan en deux ou en quatre selon leur grosseur. Garnissez chaque bol de riz de takuan, d'avocat, de feuilles de shiso et de graines germées. Mélangez un peu de sauce soja et une pointe de wasabi dans des coupelles, puis versez dans le riz avant de déguster.
+
+## Noms ingrédients
+
+avocats. takuan
+---
+
+# Japonais Riz sauté - Riz sauté au crabe
+
+
+## Commentaire
+
+Le riz sauté est très pratique pour finir ses restes de riz. Vous pouvez remplacer le crabe par du jambon et également ajouter des restes de légumes.
+
+**Astuce :** Si vous utilisez un reste de riz un peu dur, ajoutez un filet d'eau pour le rendre plus moelleux.
+
+## Catégorie
+
+Japonais. Non testé. Poisson
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 10 min — Cuisson : 10 min*
+
+- 600 g de riz cuit chaud (voir recette p. 38)
+- 250 g de chair de crabe
+- 4 œufs battus
+- 2 oignons nouveaux émincés
+- 1 gousse d'ail finement hachée
+- 4 brins de ciboulette ciselés
+- 1 cuillerée à soupe de gingembre frais finement émincé
+- 1½ cuillerée à soupe de sauce soja
+- 4 cuillerées à soupe d'huile de sésame grillé
+- sel et poivre du moulin
+
+---
+
+## Déroulé de la recette
+
+Dans un bol, battez les œufs avec 1 pincée de sel. Faites chauffer ½ cuillerée à soupe d'huile dans un wok ou une poêle, puis versez les œufs. Dès qu'ils commencent à prendre, mélangez avec une ou deux paires de baguettes. Retirez du feu avant que la préparation soit complètement cuite. Réservez sur une assiette.
+
+Faites chauffer 2 cuillerées à soupe d'huile dans le wok (nettoyé) sur feu moyen, puis faites revenir l'ail, le gingembre et les oignons pendant 3 ou 4 minutes.
+
+Incorporez le riz cuit, mélangez et faites sauter 2 ou 3 minutes. Ajoutez le crabe et les œufs réservés, puis assaisonnez de sauce soja et du reste d'huile. Mélangez délicatement. Rectifiez l'assaisonnement en sel et poivre si nécessaire. Décorez de ciboulette.
+
+## Noms ingrédients
+
+ail. chair de crabe. ciboulette. gingembre. oignons verts
+---
+
+# Japonais Riz sauté - Shiitaké et maïs
+
+
+## Catégorie
+
+Japonais. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 600 g de riz cuit (voir recette p. 38)
+- 8 champignons shiitaké frais
+- 200 g de grains de maïs cuit
+- 100 g de haricots verts
+- 1 cuillerée à café de gingembre frais râpé
+- 2 cuillerées à soupe de jus de citron
+- 2 cuillerées à soupe de sauce soja
+- 1 cuillerée à soupe d'huile de sésame grillé
+- sel et poivre du moulin
+
+---
+
+## Déroulé de la recette
+
+Nettoyez les shiitaké et émincez-les. Équeutez les haricots verts et coupez-les en dés. Dans un wok, faites chauffer l'huile de sésame, puis faites revenir les shiitaké, les haricots verts et le gingembre pendant 2 ou 3 minutes sur feu vif. Incorporez le riz cuit et le maïs. Assaisonnez de jus de citron et de sauce soja. Salez et poivrez, au besoin. Mélangez le tout 1 minute sur feu moyen et servez.
+
+## Noms ingrédients
+
+champignons shiitaké. gingembre. maïs. haricots verts. citrons
+---
+
+# Japonais Riz sauté - Jambon, œuf et brocoli
+
+
+## Catégorie
+
+Japonais. Non testé. Viande
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 600 g de riz cuit (voir recette p. 38)
+- 200 g de brocoli
+- 4 œufs
+- 2 tranches de jambon blanc
+- 1 gousse d'ail
+- 2 cuillerées à soupe d'huile d'olive
+- sel et poivre du moulin
+
+---
+
+## Déroulé de la recette
+
+Dans un saladier, battez les œufs avec 1 pincée de sel. Séparez le brocoli en petits fleurons. Pelez et râpez l'ail. Coupez les tranches de jambon en petits cubes. Dans un wok, faites chauffer la moitié de l'huile, puis versez les œufs et mélangez afin d'obtenir des œufs brouillés. Débarrassez sur une assiette. Versez le reste d'huile dans le wok (nettoyé) et faites revenir le brocoli et l'ail 4 ou 5 minutes sur feu vif. Salez et poivrez. Incorporez le riz cuit, les œufs brouillés et le jambon. Mélangez le tout et faites sauter 1 minute sur feu moyen. Servez.
+
+## Noms ingrédients
+
+ail. brocoli. jambon blanc
+---
+
+# Japonais Riz sauté - Crevette et pois mange-tout
+
+
+## Catégorie
+
+Japonais. Non testé. Poisson
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 600 g de mélange de riz blanc et de riz noir sauvage cuit (voir recette p. 38)
+- 8 crevettes cuites décortiquées
+- 200 g de pois mange-tout
+- 1 cuillerée à café de gingembre frais râpé
+- le jus de 1 citron vert
+- 1 cuillerée à soupe d'huile de tournesol
+- sel et poivre du moulin
+
+---
+
+## Déroulé de la recette
+
+Coupez les crevettes en dés. Détaillez les pois mange-tout en lamelles. Dans un wok, faites chauffer l'huile, puis faites revenir les pois mange-tout et le gingembre pendant 2 minutes sur feu vif. Ajoutez les crevettes, le jus de citron vert, du sel et du poivre. Incorporez le riz cuit et faites cuire quelques minutes sur feu vif en mélangeant. Servez.
+
+## Noms ingrédients
+
+crevettes. gingembre. citrons verts. pois mange-tout
+---
+
+# Japonais Riz sauté - Wakamé et œuf
+
+
+## Catégorie
+
+Japonais. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 600 g de riz semi-complet cuit (voir recette p. 38)
+- 4 cuillerées à soupe de wakamé en paillettes
+- 4 œufs
+- 1 cuillerée à café de gingembre frais râpé
+- 1 cuillerée à soupe d'huile de sésame grillé
+- 1 cuillerée à soupe d'huile de tournesol
+- sel et poivre du moulin
+
+---
+
+## Déroulé de la recette
+
+Dans un saladier, battez les œufs avec 1 pincée de sel. Dans un wok, faites chauffer l'huile de tournesol, puis versez les œufs et mélangez afin d'obtenir des œufs brouillés. Débarrassez sur une assiette. Versez l'huile de sésame dans le wok (nettoyé) et faites revenir le gingembre 1 minute sur feu vif. Salez, poivrez puis ajoutez le riz cuit, les œufs brouillés et le wakamé. Mélangez et faites sauter le tout 1 minute sur feu moyen. Servez aussitôt.
+
+## Noms ingrédients
+
+gingembre
+---
+
+# Japonais Riz sauté - Maquereau et pack choï
+
+
+## Catégorie
+
+Japonais. Non testé. Poisson
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 600 g de riz cuit (voir recette p. 38)
+- 1 beau filet de maquereau
+- 300 g de pack choï
+- 1 oignon nouveau émincé
+- 2 cuillerées à soupe de saké
+- le jus de 1½ citron
+- 2 cuillerées à soupe d'huile de tournesol
+- sel et poivre du moulin
+
+---
+
+## Déroulé de la recette
+
+Ôtez la base du pack choï, puis coupez le chou en tronçons de 2 cm de long. Retirez la peau et les arêtes du filet de maquereau. Coupez la chair en lamelles. Dans un wok, faites chauffer la moitié de l'huile, puis faites revenir le poisson 2 minutes sur feu vif. Débarrassez sur une assiette. Versez le reste d'huile dans le wok, puis faites revenir l'oignon et le pack choï 3 ou 4 minutes. Assaisonnez de sel, de poivre, de saké et de jus de citron. Mélangez puis incorporez le riz cuit et les lamelles de poisson. Mélangez délicatement le tout pendant 1 minute sur feu moyen. Servez.
+
+## Noms ingrédients
+
+citrons. maquereau. oignons verts. pak choï
+---
+
+# Japonais Riz sauté - Shiitaké et petits pois
+
+
+## Catégorie
+
+Japonais. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 600 g de riz cuit (voir recette p. 38)
+- 100 g de petits pois écossés
+- 8 champignons shiitaké séchés
+- 1 oignon nouveau émincé
+- 2 cuillerées à soupe de sauce soja
+- 2 cuillerées à soupe de saké
+- 1 cuillerée à soupe d'huile de sésame grillé
+
+---
+
+## Déroulé de la recette
+
+Faites tremper les shiitaké dans un bol d'eau froide pendant 30 minutes. Égouttez les champignons en gardant l'eau de trempage et retirez les pieds. Émincez-les finement. Dans un wok, faites chauffer l'huile, puis faites revenir les petits pois, les shiitaké et l'oignon pendant 3 minutes. Versez 10 cl d'eau de trempage des champignons, le saké et la sauce soja. Continuez la cuisson jusqu'à évaporation du liquide. Ajoutez le riz cuit et mélangez. Servez aussitôt.
+
+## Noms ingrédients
+
+champignons shiitaké. oignons verts. petits pois
+---
+
+# Riz au konjac
+
+
+## Commentaire
+
+Le konjac, appelé aussi « shirataki », est un aliment santé très prisé des Japonais, car il n'a quasiment pas de calorie ; c'est donc un coupe-faim idéal !
+
+**Astuce :** Si vous ne trouvez pas de konjac, remplacez-le par de fins bâtonnets de tofu ferme.
+
+## Catégorie
+
+Japonais. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 15 min — Trempage : 20 min — Cuisson : 6 min*
+
+- 600 g de riz cuit chaud (voir recette p. 38)
+- 200 g de vermicelles de konjac
+- 1 carotte
+- 10 pois mange-tout
+- 4 champignons shiitaké séchés
+- 1 cuillerée à café de gingembre frais râpé
+- 1 gousse d'ail
+- 2 cuillerées à soupe de saké (ou de mirin)
+- 2 cuillerées à soupe de sauce soja
+- 1 cuillerée à soupe d'huile de sésame grillé
+- gomashio (voir recette p. 51)
+- 2 cuillerées à soupe d'huile de tournesol
+- sel et poivre du moulin
+
+---
+
+## Déroulé de la recette
+
+Faites tremper les champignons shiitaké dans un bol d'eau froide pendant 20 minutes. Égouttez-les, retirez les pieds et émincez-les finement.
+
+Rincez et égouttez les vermicelles de konjac, puis ciselez-les grossièrement.
+
+Pelez la carotte et coupez-la en julienne. Émincez les pois mange-tout. Pelez et râpez l'ail.
+
+Dans un wok, faites chauffer les huiles de tournesol et de sésame, puis faites revenir les vermicelles de konjac avec la carotte, les shiitaké, les pois mange-tout, l'ail et le gingembre pendant 5 minutes sur feu vif.
+
+Assaisonnez la préparation de saké, de sauce soja et de gomashio. Mélangez le tout 1 minute sur feu moyen.
+
+Hors du feu, incorporez le riz cuit. Rectifiez l'assaisonnement en sel et poivre, au besoin. Servez aussitôt.
+
+## Noms ingrédients
+
+ail. carottes. champignons shiitaké. gingembre. konjac. pois mange-tout
+---
+
+# Sakana-meshi
+
+
+## Commentaire
+
+Sakana signifie « poisson ». Ce plat peut donc être réalisé à partir de nombreuses variétés de poissons comme le cabillaud, le lieu ou encore le maquereau.
+
+**Astuce :** Servez ce plat avec du kombu et du shiitaké marinés (voir recette p. 51) ou du condiment au sésame et wasabi (voir recette p. 52).
+
+## Catégorie
+
+Japonais. Non testé. Poisson
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 10 min — Cuisson : 10 min*
+
+- 600 g de riz cuit chaud (voir recette p. 38)
+- 400 g de filet de truite (ou de saumon)
+- 300 g de chou chinois
+- 1 poireau
+- 100 g de pousses de soja
+- 2 œufs
+- 1 cuillerée à café de gingembre frais râpé
+- 2 cuillerées à soupe de graines de sésame noir (ou blond)
+- 2 cuillerées à soupe de sauce soja
+- 2 cuillerées à soupe d'huile de tournesol
+- 2 cuillerées à soupe d'huile de sésame grillé
+- sel et poivre du moulin
+
+---
+
+## Déroulé de la recette
+
+Retirez la peau et les arêtes du poisson, puis coupez la chair en dés. Émincez finement le poireau et le chou chinois.
+
+Dans un wok, faites chauffer l'huile de tournesol et la moitié de l'huile de sésame, puis faites revenir le poireau, le chou chinois et le gingembre pendant 3 minutes sur feu vif. Ajoutez les pousses de soja et poursuivez la cuisson 1 minute. Débarrassez sur une assiette.
+
+Versez le reste d'huile de sésame dans le wok (nettoyé), puis faites revenir les dés de truite 1 minute sur feu vif. Ajoutez les œufs battus et mélangez. Quand les œufs sont pris, incorporez les légumes réservés. Assaisonnez de sauce soja, de sel et de poivre.
+
+Hors du feu, incorporez le riz cuit et saupoudrez de graines de sésame. Servez aussitôt.
+
+## Noms ingrédients
+
+chou chinois. gingembre. poireau. pousses de soja. truite
+---
+
+# Hiyashi somen
+
+
+## Commentaire
+
+Les somen sont des nouilles de blé très fines dégustées généralement froides en été. Leur temps de cuisson est très rapide et elles doivent impérativement être rincées à l'eau froide, une fois cuites, pour arrêter rapidement la cuisson et éviter qu'elles ne collent.
+
+**Astuce :** Pour un goût plus relevé, ajoutez une pointe de wasabi dans la sauce.
+
+## Catégorie
+
+Japonais. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 10 min — Cuisson : 3 min*
+
+- 400 g de nouilles somen
+- 1 ciboule hachée (ou la partie verte de 1 oignon nouveau)
+- 2 cuillerées à soupe de graines de sésame
+- 1 feuille de nori ciselée
+- 1 petit morceau de gingembre émincé
+- 60 cl de sauce tsuyu (voir recette p. 58)
+
+---
+
+## Déroulé de la recette
+
+Faites cuire les nouilles somen dans un grand volume d'eau bouillante selon les indications du paquet – soit 2 ou 3 minutes. Rincez les nouilles à l'eau froide et égouttez-les. Déposez-les sur un plat et parsemez-les de graines de sésame. Dégustez les nouilles accompagnées de la sauce tsuyu versée dans un bol et des condiments présentés dans des coupelles.
+
+## Noms ingrédients
+
+gingembre. oignons verts. somen
+---
+
+# Somen champuru
+
+
+## Commentaire
+
+Le champuru est un plat typique d'Okinawa, un archipel à l'extrême sud du Japon, connu pour ses centenaires et son régime sain. La version traditionnelle utilise le goya, un légume légèrement amer qui ressemble à un concombre grumeleux. Il est ici remplacé par de la courgette, plus facile à trouver chez nous !
+
+## Catégorie
+
+Japonais. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 10 min — Cuisson : 20 min*
+
+- 400 g de nouilles somen
+- 120 g de tofu ferme
+- 1 petite courgette non traitée
+- 2 oignons nouveaux
+- 4 œufs
+- 1 morceau de 2 cm de gingembre frais
+- 2 cuillerées à soupe de sauce soja
+- 2 cuillerées à soupe de graines de sésame noir
+- 1 filet d'huile de sésame grillé
+- 1½ cuillerée à soupe d'huile de tournesol
+- sel et poivre du moulin
+
+---
+
+## Déroulé de la recette
+
+Égouttez le tofu et coupez-le en petits rectangles. Pelez le gingembre et coupez-le en fine julienne. Pelez et émincez les oignons. Rincez la courgette et émincez-la finement.
+
+Faites cuire les nouilles dans une casserole d'eau bouillante selon les indications du paquet – 2 minutes environ. Passez-les sous l'eau froide et égouttez-les.
+
+Dans un bol, battez les œufs avec 1 pincée de sel. Faites chauffer ½ cuillerée à soupe d'huile de tournesol dans un wok. Versez les œufs, puis, dès qu'ils commencent à prendre, mélangez-les avec une paire de baguettes ou une spatule. Retirez le wok du feu avant que le mélange soit complètement cuit. Débarrassez l'omelette sur une assiette.
+
+Versez le reste d'huile de tournesol dans le wok (nettoyé), puis faites revenir le tofu avec le gingembre 8 minutes sur feu moyen. Ajoutez les oignons et faites sauter le tout 2 minutes. Incorporez la courgette et faites sauter 3 minutes. Ajoutez les nouilles, la sauce soja et l'huile de sésame.
+
+Hors du feu, ajoutez l'omelette. Salez, poivrez et mélangez. Disposez la préparation sur un grand plat et parsemez de graines de sésame. Servez aussitôt.
+
+## Noms ingrédients
+
+courgettes. gingembre. oignons verts. somen. tofu ferme
+---
+
+# Karé udon
+
+
+## Commentaire
+
+Karé vient du mot « curry » prononcé à la japonaise. Le karé rice, un curry nippon servi avec du riz, est un plat très populaire au Japon. Cette recette est sa version aux nouilles udon. Le curry japonais se présente sous forme de tablettes, à casser puis à dissoudre dans le plat, comme du chocolat !
+
+**Astuce :** Pour adoucir la sauce, vous pouvez ajouter une pomme râpée en même temps que le curry.
+
+## Catégorie
+
+Japonais. Non testé. Viande
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 20 min — Cuisson : 35 min*
+
+- 800 g de nouilles udon fraîches
+- 2 cuisses de poulet
+- 1 petite carotte
+- 8 champignons de Paris
+- 1 poireau
+- 1 petite gousse d'ail
+- 100 g de curry japonais
+- 1 filet d'huile de tournesol
+
+---
+
+## Déroulé de la recette
+
+Désossez les cuisses de poulet et retirez la peau. Coupez la chair en cubes. Pelez la carotte et coupez-la en rondelles. Lavez le poireau et taillez-le en tronçons de 2 cm de large. Nettoyez les champignons, ôtez les pieds et coupez les chapeaux en deux. Pelez et hachez l'ail.
+
+Faites chauffer l'huile de tournesol dans une casserole sur feu vif, puis faites revenir l'ail, la carotte et le poireau 3 ou 4 minutes. Ajoutez les cubes de poulet et faites-les dorer en remuant. Ajoutez les champignons. Versez 1 litre d'eau, portez à ébullition, puis laissez cuire 15 minutes à feu doux.
+
+Émiettez le curry sur la préparation et remuez pour le dissoudre. Laissez mijoter 5 minutes, en remuant de temps en temps, jusqu'à ce que la sauce épaississe.
+
+Faites cuire les nouilles dans une casserole d'eau bouillante selon les indications du paquet – soit 2 à 4 minutes.
+
+Égouttez les nouilles, puis répartissez-les dans 4 bols. Recouvrez de préparation au curry et servez aussitôt.
+
+## Noms ingrédients
+
+ail. carottes. champignons de Paris. cuisses de poulet. poireau
+---
+
+# Nabé udon au canard
+
+
+## Catégorie
+
+Japonais. Non testé. Viande
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 10 min — Cuisson : 15 min*
+
+- 800 g de nouilles udon fraîches
+- 300 g de magret de canard
+- 150 g d'épinards
+- 4 champignons shiitaké frais
+- 125 g de champignons énoki (ou de champignons de Paris)
+- 1,2 litre de bouillon dashi (voir recette p. 46)
+- 6 cuillerées à soupe de sauce soja
+- 4 cuillerées à soupe de mirin
+- 1 pincée de poivre sansho (ou de poivre du Sichuan)
+
+---
+
+## Déroulé de la recette
+
+Coupez le magret de canard en fines tranches. Nettoyez les champignons et ôtez les pieds des shiitaké. Rincez les épinards, puis faites-les tomber 2 ou 3 minutes dans une poêle antiadhésive sur feu moyen. Égouttez-les.
+
+Faites cuire les nouilles dans une casserole d'eau bouillante selon les indications du paquet – soit 2 à 4 minutes. Égouttez-les.
+
+Dans une cocotte, mélangez le bouillon dashi, la sauce soja et le mirin. Ajoutez les nouilles, les tranches de canard, les champignons et les épinards. Couvrez, portez à ébullition, puis laissez mijoter 8 minutes environ, à feu doux.
+
+Saupoudrez de poivre sansho et servez dans des assiettes creuses.
+
+**Astuce :** Pour une saveur plus relevée, arrosez le plat d'un filet de sauce soja et de jus de citron juste avant de servir.
+
+## Noms ingrédients
+
+champignons enoki. champignons shiitaké. épinards. magrets de canard
+---
+
+# Soba au poulet namban
+
+
+## Catégorie
+
+Japonais. Non testé. Viande
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 15 min — Cuisson : 25 min*
+
+- 350 g de nouilles soba séchées
+- 2 cuisses de poulet
+- 1 poireau
+- 1 grosse poignée d'épinards
+- 1,5 litre de bouillon dashi (voir recette p. 46)
+- 6 cuillerées à soupe de sauce soja
+- 6 cuillerées à soupe de mirin
+- 1 cuillerée à soupe de saké
+- 1 pincée de poivre sansho (facultatif, ou poivre du Sichuan)
+- 1 cuillerée à soupe de sucre semoule
+- 1 filet d'huile de tournesol
+- sel et poivre du moulin
+
+---
+
+## Déroulé de la recette
+
+Désossez les cuisses de poulet et retirez la peau. Salez et poivrez de tous côtés. Lavez le poireau et coupez-le en 8 tronçons. Rincez les épinards.
+
+Faites chauffer l'huile de tournesol dans une poêle, puis faites dorer les morceaux de poulet 3 minutes sur feu vif. Retournez-les et faites-les dorer encore 2 minutes. Déposez-les sur une planche et coupez-les en tranches.
+
+Dans la poêle, faites revenir le poireau 3 ou 4 minutes sur feu vif. Versez 1/2 verre de bouillon dashi, baissez le feu et laissez réduire à couvert. Ajoutez les épinards et laissez-les fondre 1 ou 2 minutes. Éteignez le feu.
+
+Dans une casserole, versez le mirin et le saké. Portez à ébullition pour laisser l'alcool s'évaporer, puis ajoutez la sauce soja et le sucre. Faites à nouveau bouillir, puis baissez le feu et laissez réduire de moitié. Versez le reste de bouillon dashi dans la casserole et portez le tout à ébullition.
+
+Faites cuire les nouilles dans une casserole d'eau bouillante selon les indications du paquet – soit 4 ou 5 minutes.
+
+Égouttez les nouilles et répartissez-les dans 4 grands bols. Ajoutez la garniture de légumes et les tranches de poulet. Versez le bouillon bien chaud dessus et saupoudrez, éventuellement, de sansho. Servez aussitôt.
+
+## Noms ingrédients
+
+cuisses de poulet. épinards. poireau
+---
+
+# Sashimi soba au thé vert
+
+
+## Catégorie
+
+Japonais. Non testé. Poisson
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 15 min — Cuisson : 8 min*
+
+- 350 g de nouilles soba au thé vert (ou de nouilles soba séchées)
+- 1 maquereau très frais
+- 1 oignon nouveau
+- 1 cuillerée à café de gingembre frais râpé
+- 8 feuilles de shiso (ou 5 brins de coriandre)
+- 60 cl de sauce tsuyu (voir recette p. 58)
+
+---
+
+## Déroulé de la recette
+
+Levez les filets du maquereau, retirez bien toutes les arêtes et ôtez la peau. Taillez chaque filet en lamelles.
+
+Émincez l'oignon. Ciselez le shiso.
+
+Faites cuire les nouilles dans une casserole d'eau bouillante selon les indications du paquet – soit 4 ou 5 minutes. Passez-les sous l'eau froide et égouttez-les.
+
+Déposez les nouilles sur un plat de service. Garnissez de lamelles de maquereau et d'oignon. Parsemez de gingembre et de shiso. Arrosez d'un filet de sauce tsuyu.
+
+Servez accompagné du reste de sauce tsuyu répartie dans 4 petits bols.
+
+## Noms ingrédients
+
+gingembre. maquereau. oignons verts
+---
+
+# Champon ramen
+
+
+## Commentaire
+
+Les ramen sont surtout servies dans des bouillons à base de sauce soja, comme dans cette recette. Mais vous pouvez également ajouter un peu de miso dans le bouillon.
+
+**Astuce :** À défaut de poitrine de porc non salée, utilisez du lard demi-sel et supprimez le sel de la recette.
+
+## Catégorie
+
+Japonais. Non testé. Viande
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 25 min — Cuisson : 10 à 15 min*
+
+- 600 g de nouilles ramen fraîches (ou 400 g de nouilles séchées)
+- 200 g de poitrine de porc non salée
+- 150 g d'anneaux de calamar
+- 150 g de crevettes crues décortiquées
+- 1/4 de chou vert
+- 1/2 carotte
+- 60 g de pousses de soja
+- 2 oignons nouveaux émincés
+- 2 litres de bouillon ramen (voir recette p. 48)
+- gingembre vinaigré
+- 2 cuillerées à soupe de sauce d'huître
+- 1 cuillerée à soupe d'huile de tournesol
+- 1 cuillerée à café de sel
+- poivre du moulin
+
+---
+
+## Déroulé de la recette
+
+Coupez la poitrine de porc en lamelles. Émincez le chou. Pelez la carotte et coupez-la en fines rondelles.
+
+Faites chauffer l'huile dans un wok sur feu vif, puis saisissez les lamelles de porc 1 minute. Ajoutez les rondelles de carotte et faites-les revenir 2 ou 3 minutes. Incorporez les crevettes, le calamar, le chou, les oignons et les pousses de soja. Faites sauter le tout 3 ou 4 minutes. Versez la sauce d'huître, salez et laissez chauffer encore 1 minute.
+
+Versez le bouillon dans le wok, mélangez et portez à ébullition. Faites cuire les nouilles ramen dans le bouillon pendant 2 ou 3 minutes.
+
+Égouttez les nouilles et répartissez-les dans 4 grands bols. Ajoutez la garniture de porc et de légumes. Versez le bouillon bien chaud dessus et poivrez. Décorez de gingembre et servez aussitôt.
+
+## Noms ingrédients
+
+calamars. carottes. chou vert. crevettes. gingembre mariné. oignons verts. poitrine de porc. pousses de soja
+---
+
+# Shoyu ramen
+
+
+## Commentaire
+
+Cette recette est un grand classique des soupes ramen dégustées sur le pouce, souvent debout, dans des petites gargotes. Au Japon, il est toléré de faire du bruit en mangeant ses nouilles, profitez-en !
+
+## Catégorie
+
+Japonais. Non testé. Viande
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 15 min — Cuisson : 35 min*
+
+- 400 g de nouilles ramen séchées
+- 1 rôti de porc de 400 g environ
+- 200 g d'épinards
+- 8 mini-épis de maïs
+- 1 oignon nouveau émincé
+- 2 œufs mollets écalés
+- 1/2 feuille d'algue nori coupée en quatre (facultatif)
+- 2 litres de bouillon de poulet (voir recette p. 47)
+- 4 cuillerées à soupe de sauce soja
+- 2 cuillerées à soupe de mirin
+- 1/2 cuillerée à soupe d'huile de tournesol
+- 1 cuillerée à café de sel
+
+---
+
+## Déroulé de la recette
+
+Faites chauffer l'huile dans une casserole sur feu vif, puis faites dorer le rôti de tous côtés. Couvrez d'eau à hauteur. Portez à ébullition, puis laissez cuire 10 minutes à feu doux.
+
+Sortez la viande, jetez l'eau de cuisson, puis remettez le rôti dans la casserole. Versez le bouillon de poulet et portez à ébullition. Versez la sauce soja et le mirin, salez et laissez mijoter 15 minutes à feu doux.
+
+Ajoutez les œufs mollets et les épis de maïs dans la casserole. Poursuivez la cuisson 5 minutes à feu doux.
+
+Égouttez la viande et coupez-la en tranches. Coupez chaque œuf en deux.
+
+Rincez les épinards, puis faites-les blanchir 2 minutes dans une casserole d'eau bouillante. Égouttez-les en pressant avec le dos d'une cuillère pour enlever le maximum d'eau.
+
+Faites cuire les nouilles dans une casserole d'eau bouillante selon les indications du paquet – soit 2 ou 3 minutes.
+
+Égouttez les nouilles et répartissez-les dans 4 grands bols. Versez le bouillon bien chaud dessus, puis garnissez de viande, d'épinards, d'œuf et de maïs. Parsemez d'oignon nouveau et de nori, puis servez aussitôt.
+
+## Noms ingrédients
+
+épinards. épis de maïs. oignons verts. rôti de porc
+---
+
+# Hiyashi chuka
+
+
+## Commentaire
+
+Ce plat de nouilles ramen froides, très rafraîchissant, est servi l'été (hiyashi chuka signifie « chinois froid »). La garniture et les sauces peuvent se décliner à volonté.
+
+**Astuce :** N'hésitez pas à varier la garniture : avocat, pousses de soja, reste de rôti ou de poulet…
+
+## Catégorie
+
+Japonais. Non testé. Viande
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 20 min — Cuisson : 15 min*
+
+- 600 g de nouilles ramen fraîches (ou 400 g de nouilles séchées)
+- 2 tranches de jambon blanc
+- 4 crêpes d'œufs taillées en tagliatelles (voir recette p. 43)
+- 1 tomate
+- 1 petit concombre non traité
+- 4 cuillerées à soupe de grains de maïs
+- 1 feuille de nori finement ciselée
+- 2 cuillerées à soupe de graines de sésame
+- moutarde karashi (ou moutarde de Dijon)
+
+### Pour la sauce de base
+
+- 10 cl de bouillon de poule
+- 1 cuillerée à café de gingembre frais râpé
+- 2 cuillerées à soupe de sauce soja
+- 1 cuillerée à soupe de vinaigre de riz
+- 2 cuillerées à soupe de sucre semoule
+
+---
+
+## Déroulé de la recette
+
+Faites cuire les nouilles dans une casserole d'eau bouillante selon les indications du paquet – soit 2 ou 3 minutes. Passez-les sous l'eau froide et égouttez-les.
+
+Coupez les tranches de jambon en deux, puis en fines lanières. Pelez la tomate, coupez-la en deux, puis en très fines tranches. Rincez le concombre et coupez-le en fines lamelles puis en julienne.
+
+Préparez la sauce de votre choix en mélangeant tous les ingrédients dans un bol.
+
+Déposez les nouilles sur un grand plat. Garnissez-les de jambon, de tomates et de concombre. Ajoutez le maïs et les lamelles d'œuf. Déposez la moutarde sur le bord du plat.
+
+Juste avant de servir, parsemez de graines de sésame, assaisonnez de sauce et décorez de nori.
+
+## Noms ingrédients
+
+concombres. gingembre. maïs. jambon blanc. tomates en conserve
+---
+
+# Plateau de sashimi
+
+
+## Commentaire
+
+N'hésitez pas à varier les poissons : bonite, bar, sardine, chinchard ou à mettre des noix de saint-jacques.
+
+**Astuce :** Le tataki est une technique de cuisson qui consiste à saisir très rapidement une pièce de viande ou de poisson à la poêle, sur une plaque teppan ou au-dessus d'une flamme, puis à la tremper dans de l'eau glacée. On obtient ainsi une chair cuite uniquement sur l'extérieur et crue à l'intérieur.
+
+## Catégorie
+
+Japonais. Non testé. Poisson
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 20 min — Sans cuisson*
+
+- 120 g de filet de saumon
+- 100 g de filet de daurade
+- 1 filet de maquereau
+- 120 g de pavé de thon albacore
+- 1 seiche
+- 1 petit morceau de daïkon (facultatif)
+- quelques feuilles de shiso ou de mesclun (facultatif)
+- quelques lamelles de gingembre mariné (voir recette p. 51)
+
+### Pour servir
+
+- 4 bols de riz à la japonaise (facultatif, voir recette p. 38)
+- sauce soja
+- wasabi
+
+---
+
+## Déroulé de la recette
+
+Si vous le souhaitez, pelez le daïkon et coupez-le en fine julienne, de préférence à l'aide d'une mandoline.
+
+Préparez les poissons. Coupez les filets de poisson en tranches d'environ 1 cm d'épaisseur. Détaillez le pavé de thon en rectangles de 1,5 cm d'épaisseur.
+
+Séparez la tête du corps de la seiche et retirez l'os. Lavez bien le corps de la seiche à l'eau claire, surtout si elle possède une poche d'encre, puis incisez-le et retirez la fine membrane qui en tapisse l'intérieur à l'aide d'un linge propre. Coupez la seiche en 2 filets, puis, à l'aide d'un couteau, incisez chacun d'eux tous les centimètres de manière à obtenir un quadrillage. Enroulez chaque filet sur lui-même et coupez-le en lamelles.
+
+Disposez les tranches de poisson et les lamelles de seiche sur un plat de service. Décorez de feuilles de shiso, de daïkon et de gingembre mariné.
+
+Dans des coupelles, mélangez un peu de sauce soja avec une pointe de wasabi. Dégustez les sashimi, éventuellement accompagnés d'un bol de riz à la japonaise, en les trempant dans la sauce.
+
+## Noms ingrédients
+
+daïkon. daurade. gingembre mariné. maquereau. saumon. seiche. thon
+---
+
+# Gyoza
+
+
+## Commentaire
+
+Les gyoza sont des raviolis particuliers puisqu'ils présentent deux textures : un côté croustillant, grillé, et un côté moelleux, cuit à la vapeur. On les déguste généralement en accompagnement des nouilles ramen.
+
+**Astuce :** Les gyoza se congèlent très bien avant cuisson. Vous pouvez ensuite les cuire encore congelés.
+
+## Catégorie
+
+Japonais. Non testé. Viande
+
+---
+
+## Ingrédients
+
+*Pour 20 gyoza — Préparation : 30 min — Repos : 15 min — Cuisson : 10 à 15 min*
+
+### Pour la pâte
+
+- 75 g de farine blanche de blé
+- 75 g de farine de riz
+- 10 cl d'eau
+
+### Pour la farce
+
+- 120 g de porc haché
+- 120 g de chou vert
+- 1 oignon nouveau émincé
+- 1 gousse d'ail hachée
+- 1 cuillerée à café de gingembre frais râpé
+- 3 cuillerées à soupe de sauce soja
+- 3 cuillerées à café d'huile de sésame grillé + pour la cuisson
+- sel et poivre du moulin
+
+### Pour la sauce
+
+- 2 cuillerées à soupe de vinaigre de riz
+- 2 cuillerées à soupe de sauce soja
+
+---
+
+## Déroulé de la recette
+
+Préparez la pâte. Dans un bol, tamisez les deux farines. Ajoutez l'eau et mélangez à la main pour obtenir une pâte bien homogène. Couvrez d'un torchon humide et laissez reposer 15 minutes.
+
+Roulez la pâte en boudin, puis découpez-la en 20 portions. Étalez chacune d'elles au rouleau en une fine crêpe d'environ 10 cm de diamètre.
+
+Préparez la farce. Blanchissez les feuilles de chou 1 minute dans une casserole d'eau bouillante. Égouttez-les et émincez-les finement. Dans un bol, mélangez tous les ingrédients de la farce.
+
+Déposez 1 bonne cuillerée à café de farce au milieu de chaque crêpe. Humidifiez le bord de la moitié supérieure de la crêpe et repliez celle-ci en deux en veillant à enfermer le minimum d'air dans le chausson. Collez le pourtour, puis plissez-le pour bien fermer le gyoza.
+
+Faites chauffer un filet d'huile dans une poêle, puis faites dorer les gyoza 5 minutes d'un côté. Versez de l'eau à mi-hauteur, couvrez et laissez cuire à feu vif jusqu'à évaporation totale de l'eau. Retirez le couvercle et continuez la cuisson 1 minute.
+
+Préparez la sauce en mélangeant le vinaigre de riz et la sauce soja.
+
+Déposez les gyoza sur un plat en les retournant de façon à voir le côté doré. Dégustez-les avec la sauce.
+
+**Variante végétarienne :** Préparez une farce végétarienne avec 120 g de chou frisé émincé, 100 g de tofu ferme émietté, 1 oignon nouveau, 4 champignons shiitaké taillés en petits dés, 1 cuillerée à café de gingembre, 3 cuillerées à soupe de sauce soja et 1 cuillerée à soupe d'huile de sésame grillé.
+
+## Noms ingrédients
+
+ail. chou vert. gingembre. oignons verts. porc haché
+---
+
+# Harumaki
+
+
+## Commentaire
+
+Harumaki signifie littéralement « rouleaux de printemps » mais au Japon, ces rouleaux sont toujours frits et réalisés avec une galette de blé et non pas avec une galette de riz. Cette pâte est disponible au rayon surgelé des épiceries asiatiques. À défaut, vous pouvez utiliser des feuilles de brick.
+
+**Astuce :** Ces rouleaux se congèlent très bien avant cuisson.
+
+## Catégorie
+
+Japonais. Non testé. Viande
+
+---
+
+## Ingrédients
+
+*Pour 12 rouleaux — Préparation : 40 min — Cuisson : 30 min — Trempage : 15 min*
+
+- 12 feuilles pour rouleaux de printemps (au rayon surgelés des épiceries asiatiques)
+- 200 g de viande de porc hachée
+- 6 feuilles de chou
+- 1 petite carotte
+- 1 poignée de pousses de soja
+- 4 champignons shiitaké séchés
+- 1/2 oignon
+- 2 cuillerées à soupe de fécule de pomme de terre
+- 1 cuillerée à soupe d'huile de sésame grillé
+- 2 cuillerées à soupe de sauce soja
+- 1 cuillerée à soupe d'huile de tournesol
+- huile de friture
+- sel et poivre du moulin
+
+### Pour servir
+
+- sauce soja
+- moutarde karashi (ou moutarde classique)
+
+---
+
+## Déroulé de la recette
+
+Faites tremper les champignons 15 minutes dans un bol d'eau froide pour les réhydrater. Égouttez-les en réservant l'eau de trempage, retirez les pieds et coupez-les en lamelles.
+
+Ôtez la partie centrale des feuilles de chou, puis émincez-les finement. Émincez l'oignon. Pelez et râpez la carotte.
+
+Faites chauffer l'huile de tournesol dans un wok sur feu vif, puis faites revenir l'oignon et les champignons 3 ou 4 minutes. Ajoutez la viande hachée, la carotte, le chou et les pousses de soja. Faites sauter le tout pendant 5 minutes.
+
+Diluez la fécule de pomme de terre dans 10 cl d'eau de trempage des champignons. Versez la sauce soja et l'huile de sésame dans le wok. Ajoutez la fécule diluée, salez et poivrez. Remuez jusqu'à ce que le mélange ait épaissi. Éteignez le feu et laissez tiédir.
+
+Placez 1 feuille pour rouleaux de printemps sur le plan de travail, puis déposez 1 grosse cuillerée à soupe de farce sur la partie inférieure. Humidifiez le pourtour de la partie supérieure de la feuille. Commencez à rouler en recouvrant l'ensemble de la garniture. Refermez les deux extrémités en rabattant les bords, puis continuez à rouler pour fermer le rouleau. Procédez de la même manière avec le reste des ingrédients pour obtenir 12 rouleaux.
+
+Faites chauffer l'huile de friture à 170 °C. Plongez les rouleaux dans le bain d'huile et laissez-les frire jusqu'à ce qu'ils prennent une belle couleur dorée. Égouttez-les sur du papier absorbant. Procédez en plusieurs fournées.
+
+Dégustez les harumaki avec de la sauce soja et de la moutarde karashi.
+
+**Variante aux gambas :** Garnissez 12 feuilles pour rouleaux de printemps d'une feuille de roquette, 1 tronçon de poireau cuit à la vapeur, 1 gambas décortiquée et quelques lamelles de shiitaké. Faites cuire comme ci-dessus.
+
+## Noms ingrédients
+
+carottes. champignons shiitaké. chou vert. oignons. porc haché. pousses de soja
+---
+
+# Yakitori de poulet et poireaux
+
+
+## Commentaire
+
+Cette recette de yakitori est sans doute la plus courante au Japon. Je vous conseille vivement de la réaliser avec des cuisses de poulet désossées plutôt qu'avec des blancs qui donneraient des brochettes trop sèches.
+
+**Astuce :** Pour éviter que les piques en bois brûlent au cours de la cuisson, faites-les tremper dans de l'eau 15 minutes avant de réaliser les brochettes.
+
+## Catégorie
+
+Japonais. Non testé. Viande
+
+---
+
+## Ingrédients
+
+*Pour 12 brochettes — Préparation : 20 min — Marinade : 30 min — Cuisson : 12 min*
+
+- 400 g de cuisses de poulet
+- 4 poireaux fins
+- 10 cl de sauce yakitori (voir recette p. 56)
+
+### Pour servir
+
+- 4 bols de riz cuit chaud (voir recette p. 38)
+- shichimi togarashi (facultatif, voir recette p. 52)
+
+---
+
+## Déroulé de la recette
+
+Lavez les poireaux et coupez-les en tronçons de 4 cm. Faites-les cuire à la vapeur 3 minutes.
+
+Désossez les cuisses de poulet et coupez la chair en cubes.
+
+Répartissez les cubes de poulet et les tronçons de poireau sur 12 piques en bois, en les alternant. Déposez les brochettes dans un plat creux, recouvrez-les de sauce yakitori et laissez mariner 30 minutes au réfrigérateur.
+
+Faites chauffer le barbecue. Égouttez les brochettes, puis faites-les griller 4 minutes. Trempez-les dans la sauce et faites-les griller à nouveau 5 minutes, en les retournant à mi-cuisson, jusqu'à ce qu'elles soient bien dorées.
+
+Trempez une dernière fois les brochettes dans la sauce et servez-les aussitôt avec le riz bien chaud. Saupoudrez-les, éventuellement, de shichimi togarashi.
+
+## Noms ingrédients
+
+cuisses de poulet. poireau. nanami togarashi
+---
+
+# Brochettes de shiitaké
+
+
+## Commentaire
+
+Au Japon, les shiitaké en brochettes sont souvent présentés avec une décoration sur le chapeau : un joli quadrillage délicatement incisé au couteau.
+
+**Astuce :** Vous pouvez conserver la sauce yakitori végétarienne dans un bocal placé au réfrigérateur pendant 3 semaines.
+
+## Catégorie
+
+Japonais. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 12 brochettes — Préparation : 10 min — Cuisson : 20 min*
+
+- 24 champignons shiitaké
+- shichimi togarashi (facultatif, voir recette p. 52)
+
+### Pour la sauce yakitori végétarienne
+
+- 1/2 cuillerée à café de bouillon de légumes en poudre
+- 10 cl de sauce soja
+- 3 cuillerées à soupe de mirin
+- 8 cl de saké
+- 2 cuillerées à soupe de sucre semoule
+
+---
+
+## Déroulé de la recette
+
+Préparez la sauce. Versez tous les ingrédients dans une casserole, puis portez à ébullition en remuant pour dissoudre le sucre et le bouillon cube. Laissez mijoter à feu doux 15 minutes environ jusqu'à obtention d'une consistance sirupeuse.
+
+Nettoyez les champignons et ôtez les pieds. Répartissez les champignons sur 12 piques en bois.
+
+Faites chauffer le barbecue. À l'aide d'un pinceau, badigeonnez les brochettes de sauce yakitori végétarienne, puis faites-les griller 6 minutes en les retournant à mi-cuisson. Badigeonnez à nouveau les brochettes de sauce, saupoudrez-les, éventuellement, de shichimi togarashi et servez aussitôt.
+
+## Noms ingrédients
+
+champignons shiitaké. nanami togarashi
+---
+
+# Yakitori de tofu, sauce au sésame
+
+
+## Catégorie
+
+Japonais. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 12 brochettes — Préparation : 15 min — Marinade : 20 min — Cuisson : 8 min*
+
+- 280 g de tofu ferme
+- 1 courgette
+
+### Pour la sauce au sésame
+
+- 4 cuillerées à soupe de sauce soja
+- 3 cuillerées à soupe de gomashio (voir recette p. 51)
+- 1½ cuillerée à soupe d'huile de sésame grillé
+- 2 cuillerées à soupe de sucre semoule
+
+### Pour servir
+
+- 4 bols de riz cuit chaud (voir recette p. 38)
+- shichimi togarashi (facultatif)
+
+---
+
+## Déroulé de la recette
+
+Égouttez le tofu et coupez-le en 24 rectangles. Lavez la courgette et taillez-la en bâtonnets de la même longueur que les rectangles de tofu.
+
+Préparez la sauce en mélangeant tous les ingrédients dans un bol.
+
+Répartissez les rectangles de tofu et les bâtonnets de courgette sur 12 piques en bois en les alternant. Déposez les brochettes dans un plat creux, recouvrez-les de sauce au sésame et laissez mariner 20 minutes.
+
+Faites chauffer le barbecue. Égouttez les brochettes, puis faites-les griller 4 minutes, en les retournant à mi-cuisson. Trempez les brochettes dans la sauce et faites-les griller à nouveau 3 ou 4 minutes en les retournant.
+
+Trempez une dernière fois les brochettes dans la sauce et servez-les avec le riz bien chaud, éventuellement accompagnées de shichimi togarashi.
+
+## Noms ingrédients
+
+courgettes. nanami togarashi. tofu ferme
+---
+
+# Piques de crevettes au sansho
+
+
+## Commentaire
+
+Le sansho est une baie au goût fruité, aux saveurs de citron et de citronnelle, qui se marie bien avec les poissons et les crustacés. On le trouve en épicerie asiatique sous forme de poudre, ou en graines dans certaines épiceries fines.
+
+## Catégorie
+
+Japonais. Non testé. Poisson
+
+---
+
+## Ingrédients
+
+*Pour 12 brochettes — Préparation : 12 min — Marinade : 15 min — Cuisson : 6 min*
+
+- 12 grosses crevettes crues
+- 1 cuillerée à café de graines de sansho (ou de poivre du Sichuan en grains)
+- 2 cuillerées à soupe de jus de citron vert
+- 3 cuillerées à soupe de sauce soja
+- 2 cuillerées à soupe d'huile d'olive
+
+---
+
+## Déroulé de la recette
+
+Concassez les graines de sansho dans un mortier. Versez la sauce soja, le jus de citron vert et l'huile d'olive. Mélangez bien le tout.
+
+Décortiquez les crevettes en gardant la tête et la queue. Enfilez chaque crevette sur une pique en bois.
+
+Déposez les brochettes de crevette dans un plat creux. Versez la marinade dessus et laissez mariner 15 minutes au réfrigérateur.
+
+Faites chauffer le barbecue. Égouttez les brochettes, puis faites-les griller 3 minutes de chaque côté.
+
+## Noms ingrédients
+
+crevettes. citrons verts
+---
+
+# Brochettes de sardines grillées
+
+
+## Commentaire
+
+N'hésitez pas à utiliser toutes sortes d'herbes pour votre sauce (basilic, menthe, roquette, shiso...).
+
+## Catégorie
+
+Japonais. Non testé. Poisson
+
+---
+
+## Ingrédients
+
+*Pour 12 brochettes — Préparation : 10 min — Marinade : 1 h — Cuisson : 6 min*
+
+- 12 filets de sardines
+- 1/2 bouquet de persil plat
+- 1/2 bouquet de coriandre
+- 1 cuillerée à soupe de sauce soja
+- 1 cuillerée à soupe de jus de citron
+- 2 cuillerées à soupe de vinaigre de riz
+- 2 cuillerées à soupe d'huile d'olive
+- 1 cuillerée à soupe de gomashio (voir recette p. 51 ou 1 pincée de sel)
+
+---
+
+## Déroulé de la recette
+
+Préparez la sauce aux herbes. Lavez et effeuillez le persil et la coriandre. Mixez-les ensemble dans un robot-hachoir. Déposez ce hachis d'herbes dans un bol, puis ajoutez le reste des ingrédients. Émulsionnez le tout.
+
+Déposez les filets de sardine dans un plat creux. Versez la sauce aux herbes dessus et laissez mariner 1 heure au réfrigérateur.
+
+Égouttez les filets, puis enfilez chacun d'eux sur une pique en bois.
+
+Faites chauffer le barbecue. Égouttez les brochettes, puis faites-les griller 3 minutes de chaque côté. Servez avec le reste de sauce.
+
+## Noms ingrédients
+
+coriandre. citrons. persil. sardines
+---
+
+# Teppanyaki de champignons, sauce citron et wasabi
+
+
+## Commentaire
+
+Pour un repas complet, servez ce plat accompagné d'une soupe miso et d'un bol de riz.
+
+**Astuce :** Vous pouvez remplacer la sauce citron et wasabi par une sauce au gingembre (voir recette p. 56).
+
+## Catégorie
+
+Japonais. Non testé. Végé
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 10 min — Cuisson : 5 min*
+
+- 12 champignons shiitaké
+- 125 g de champignons énoki (ou de champignons de Paris)
+- 125 g de champignons shimeji (ou de pleurotes)
+- le zeste de 1 citron vert
+- huile d'olive pour la cuisson
+
+### Pour la sauce citron et wasabi
+
+- 1/2 cuillerée à soupe de wasabi
+- 2 cuillerées à soupe de jus de citron vert
+- 2 cuillerées à soupe de sauce soja
+- 2 cuillerées à soupe d'huile d'olive
+
+---
+
+## Déroulé de la recette
+
+Nettoyez les champignons et ôtez les pieds.
+
+Préparez la sauce. Dans un bol, mélangez le wasabi avec la sauce soja. Versez l'huile et le jus de citron, puis émulsionnez le tout.
+
+Faites chauffer le teppanyaki (ou la plancha) sur feu moyen, puis faites cuire tous les champignons 4 ou 5 minutes avec un filet d'huile d'olive, en remuant fréquemment à l'aide d'une spatule.
+
+Versez la sauce sur la plaque et enrobez-en bien les champignons, toujours à l'aide de la spatule. Saupoudrez de zestes de citron vert et servez.
+
+## Noms ingrédients
+
+champignons enoki. champignons shiitaké. champignons shimeji. citrons verts. pleurotes
+---
+
+# Tataki de bonite, sauce au wasabi
+
+
+## Commentaire
+
+Le tataki est une technique de cuisson qui consiste à saisir très rapidement une pièce de viande ou de poisson à la poêle, sur une plaque teppan ou au-dessus d'une flamme, puis à la tremper dans de l'eau glacée. On obtient ainsi une chair cuite uniquement sur l'extérieur et crue à l'intérieur.
+
+**Astuce :** La bonite, poisson de la famille du thon, peut aussi être remplacée par du saumon.
+
+## Catégorie
+
+Japonais. Non testé. Poisson
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 10 min — Cuisson : 1 min*
+
+- 500 g de filet de bonite (ou de thon albacore)
+- 1/4 de daïkon
+- 4 feuilles de shiso (ou quelques feuilles de basilic et de menthe mélangées)
+- 1 cuillerée à soupe de gingembre frais râpé
+- huile de tournesol pour la cuisson
+
+### Pour la sauce au wasabi
+
+- 2 cuillerées à café de wasabi en poudre
+- 2 cuillerées à soupe de sauce soja
+- 2 cuillerées à soupe de vinaigre de riz
+- 1 cuillerée à soupe d'huile de sésame grillé
+
+---
+
+## Déroulé de la recette
+
+Préparez la sauce au wasabi en mélangeant tous les ingrédients dans un bol.
+
+Pelez et râpez le daïkon. Lavez et ciselez les feuilles de shiso.
+
+Faites chauffer le teppanyaki (ou la plancha) sur feu vif. Huilez légèrement la plaque à l'aide d'un papier absorbant, puis saisissez le filet de bonite 10 secondes de chaque côté. Plongez-le aussitôt dans de l'eau glacée pour arrêter la cuisson, puis égouttez-le et essuyez-le avec du papier absorbant.
+
+Coupez la bonite en lamelles de 1 cm d'épaisseur. Disposez celles-ci sur un plat de service. Garnissez de daïkon râpé, de gingembre et de shiso. Arrosez de sauce au wasabi et servez aussitôt.
+
+## Noms ingrédients
+
+bonite. daïkon. gingembre
+---
+
+# Yakiniku
+
+
+## Commentaire
+
+Yakiniku signifie « viande grillée » en japonais. Pour vous faciliter la tâche, demandez à votre boucher de préparer le bœuf en carpaccio. Optez pour du faux-filet pour une version plus économique !
+
+## Catégorie
+
+Japonais. Non testé. Viande
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 25 min — Cuisson : 15 min*
+
+- 400 g de filet de bœuf
+- 1/4 de potimarron
+- 8 champignons de Paris
+- 1 poivron vert
+- 1 oignon rouge
+- huile de tournesol pour la cuisson
+
+### Pour la sauce yakiniku
+
+- 1/4 d'oignon râpé
+- 1 gousse d'ail râpée
+- 3 cuillerées à soupe de sauce soja
+- 3 cuillerées à soupe de mirin
+- 2 cuillerées à soupe de saké
+- 1 cuillerée à soupe de graines de sésame
+- 1½ cuillerée à soupe de sucre semoule
+
+### Pour servir
+
+- 4 bols de riz cuit chaud (voir recette p. 38)
+
+---
+
+## Déroulé de la recette
+
+Préparez la sauce yakiniku. Faites chauffer l'oignon râpé dans une casserole sur feu vif, jusqu'à ce que l'eau rendue par l'oignon commence à bouillir. Versez la sauce soja, le mirin, le saké ainsi que le sucre et laissez bouillir 1 minute. Hors du feu, incorporez l'ail râpé et les graines de sésame. Réservez.
+
+Coupez le filet de bœuf en fines lamelles. Pelez l'oignon rouge et le potimarron, puis coupez-les en lamelles. Nettoyez les champignons et ôtez les pieds. Lavez le poivron, coupez-le en deux, épépinez-le et détaillez-le en lamelles de 3 cm de large.
+
+Faites chauffer le teppanyaki (ou la plancha) sur feu moyen. Huilez légèrement la plaque à l'aide d'un papier absorbant, puis déposez les légumes. Faites-les cuire 5 à 10 minutes – selon les légumes – en les retournant à mi-cuisson.
+
+Saisissez la viande sur la plaque à feu vif, pendant quelques secondes de chaque côté. Dégustez-la aussitôt avec le riz bien chaud et les légumes, en trempant ceux-ci dans la sauce yakiniku.
+
+## Noms ingrédients
+
+ail. champignons de Paris. faux-filet. oignons rouges. poivron vert. potimarron
+---
+
+# Oyako-don
+
+
+## Commentaire
+
+Ce plat est très populaire au Japon. Oyako signifie littéralement « parents et enfants », en référence à la poule et à l'œuf.
+
+**Astuce :** Je vous conseille de demander à votre boucher de désosser la cuisse de poulet, vous gagnerez du temps !
+
+## Catégorie
+
+Japonais. Non testé. Viande
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 10 min — Cuisson : 10 min*
+
+- 1 belle cuisse de poulet
+- 4 bols de riz blanc cuit (voir recette p. 38)
+- 4 œufs
+- 2 ciboules (ou 1 oignon nouveau)
+- 1/2 feuille de nori coupée en fines lamelles
+- 20 cl de bouillon dashi (voir recette p. 46)
+- 4 cuillerées à soupe de mirin
+- 4 cuillerées à soupe de sauce soja
+
+---
+
+## Déroulé de la recette
+
+Désossez le poulet, ôtez la peau et coupez la chair en lamelles. Émincez les ciboules – réservez un peu de vert pour la décoration.
+
+Dans un wok, portez le bouillon dashi à ébullition. Ajoutez le poulet, les ciboules, la sauce soja et le mirin. Faites cuire environ 5 minutes à feu moyen.
+
+Dans un bol, mélangez les œufs sans les battre, puis versez-les dans le wok en remuant très légèrement. Laissez cuire jusqu'à ce que les œufs prennent.
+
+Répartissez la préparation sur les bols de riz, puis décorez avec du vert de ciboule et des lamelles de nori.
+
+## Noms ingrédients
+
+cuisses de poulet. oignons verts
+---
+
+# Okonomiyaki au lard
+
+
+## Commentaire
+
+La sauce okonomiyaki est en vente dans les épiceries asiatiques. Vous pouvez la remplacer par la sauce yakisoba ou la sauce Worcestershire (en grandes surfaces).
+
+## Catégorie
+
+Japonais. Non testé. Viande
+
+---
+
+## Ingrédients
+
+*Pour 2 crêpes — Préparation : 15 min — Cuisson : 15 min*
+
+- 6 fines tranches de lard
+- 100 g de chou vert
+- 1 œuf
+- 1 ciboule
+- 1 cuillerée à soupe de lamelles de gingembre vinaigré (facultatif)
+- 80 g de farine blanche
+- 20 g de fécule de pomme de terre
+- 10 cl de bouillon dashi (voir recette p. 46)
+- huile de tournesol pour la cuisson
+
+### Pour servir
+
+- sauce okonomiyaki
+- 1 poignée de flocons de bonite séchée (facultatif)
+- paillettes d'algues ao nori (facultatif)
+
+---
+
+## Déroulé de la recette
+
+Lavez le chou et détaillez-le en fines lanières. Lavez et émincez la ciboule. Émincez finement les lamelles de gingembre.
+
+Dans un saladier, mélangez la farine, la fécule, l'œuf et le bouillon dashi jusqu'à obtenir une consistance homogène. Ajoutez le chou et la ciboule. Mélangez bien le tout.
+
+Faites chauffer le teppanyaki (ou la plancha) sur feu moyen. Huilez légèrement la plaque à l'aide d'un papier absorbant, puis versez la moitié de la préparation dessus en l'étalant comme une crêpe, avec une spatule. Faites cuire 4 minutes. Parsemez la crêpe de gingembre vinaigré et garnissez-la de 3 tranches de lard. Retournez la crêpe – le lard se retrouve côté plaque – et faites cuire l'autre face pendant 4 minutes.
+
+Retournez à nouveau la crêpe et laissez-la cuire 4 minutes. Retournez-la une dernière fois et prolongez la cuisson de 2 minutes. Débarrassez-la sur une assiette et maintenez-la au chaud. Procédez de la même manière pour obtenir une seconde crêpe.
+
+Servez les crêpes badigeonnées de sauce okonomiyaki et, éventuellement, parsemées de flocons de bonite et de paillettes d'algues.
+
+## Noms ingrédients
+
+bonite séchée. chou vert. gingembre mariné. lard. oignons verts
+---
+
+# Hiroshima okonomiyaki
+
+
+## Commentaire
+
+Ce plat de crêpes japonaises est une spécialité d'Hiroshima. La garniture et les sauces peuvent se décliner à volonté.
+
+## Catégorie
+
+Japonais. Non testé. Viande
+
+---
+
+## Ingrédients
+
+*Pour 2 crêpes — Préparation : 15 min — Cuisson : 15 min*
+
+- 250 g de nouilles yakisoba séchées (ou de nouilles ramen)
+- 100 g de chou vert
+- 2 ciboules (ou oignons nouveaux)
+- 60 g de pois mange-tout
+- 6 fines tranches de lard
+- 2 œufs
+- 20 g de fécule de pomme de terre
+- 80 g de farine blanche
+- 10 cl de bouillon dashi (voir recette p. 46)
+- huile de tournesol pour la cuisson
+
+### Pour servir
+
+- sauce okonomiyaki (ou sauce yakisoba, voir recette p. 57)
+- mayonnaise kewpie (ou mayonnaise classique)
+
+---
+
+## Déroulé de la recette
+
+Dans un bol, mélangez la farine, la fécule et le bouillon dashi jusqu'à obtenir une consistance homogène. Réservez au réfrigérateur.
+
+Faites cuire les nouilles dans une casserole d'eau bouillante selon les indications du paquet. Rincez-les à l'eau froide et égouttez-les.
+
+Lavez et émincez très finement le chou et les ciboules. Lavez les pois mange-tout.
+
+Huilez le teppanyaki (ou la plancha) avec du papier absorbant et faites-le chauffer à feu moyen. Versez la moitié de la pâte en l'étalant comme une crêpe à l'aide d'une spatule. Déposez dessus la moitié du chou, de la ciboule et des pois mange-tout, ainsi que 3 tranches de lard. Laissez cuire 3 minutes.
+
+Simultanément, à côté de la crêpe, étalez la moitié des nouilles cuites en un cercle de même dimension que la crêpe. Laissez cuire 3 minutes, puis retournez-les.
+
+Cassez 1 œuf sur la plaque et étalez-le en l'écrasant à l'aide de la spatule. Quand il commence à prendre, déposez le cercle de nouilles dessus, puis recouvrez avec la crêpe garnie retournée – les nouilles se retrouvant ainsi entre l'œuf et le lard. Retournez le tout pour avoir l'œuf sur le dessus et laissez cuire encore 3 minutes. Procédez de la même manière pour la seconde crêpe, avec le reste des ingrédients.
+
+Servez les crêpes badigeonnées de sauce okonomiyaki et de mayonnaise japonaise.
+
+## Noms ingrédients
+
+chou vert. lard. oignons verts. pois mange-tout
+---
+
+# Japonais Yakitori - Poulet et oignon rouge
+
+
+## Commentaire
+
+Les yakitori sont des brochettes japonaises traditionnellement grillées au charbon de bois. On les déguste dans les izakaya, les restaurants informels japonais, souvent accompagnées d'une bière.
+
+## Catégorie
+
+Japonais. Non testé. Viande
+
+---
+
+## Ingrédients
+
+*Pour 12 brochettes — Préparation : 20 min — Cuisson : 10 min*
+
+- 400 g de cuisses de poulet
+- 1 oignon rouge
+- 5 cl de sauce yakitori (voir recette p. 56)
+
+---
+
+## Déroulé de la recette
+
+Désossez les cuisses de poulet et coupez la chair en cubes. Pelez l'oignon et taillez-le aussi en cubes. Répartissez les cubes de poulet et d'oignon sur 12 piques en bois, en les alternant. Faites chauffer le barbecue. À l'aide d'un pinceau, badigeonnez les brochettes de sauce yakitori, puis faites-les griller 8 à 10 minutes, en les retournant à mi-cuisson. Badigeonnez une nouvelle fois les brochettes de sauce et servez aussitôt.
+
+## Noms ingrédients
+
+cuisses de poulet. oignons rouges
+---
+
+# Japonais Yakitori - Foie et shiso
+
+
+## Commentaire
+
+Les yakitori sont des brochettes japonaises traditionnellement grillées au charbon de bois. On les déguste dans les izakaya, les restaurants informels japonais, souvent accompagnées d'une bière.
+
+## Catégorie
+
+Japonais. Non testé. Viande
+
+---
+
+## Ingrédients
+
+*Pour 12 brochettes*
+
+- 200 g de foies de volaille
+- 12 feuilles de shiso (ou de roquette)
+- 5 cl de sauce teriyaki (voir recette p. 56)
+- graines de sésame
+
+---
+
+## Déroulé de la recette
+
+Coupez les feuilles de shiso en deux. Détaillez les foies en 24 cubes. Enveloppez chaque cube de foie d'une demi-feuille de shiso. Répartissez les cubes sur 12 piques en bois. Faites chauffer le barbecue. À l'aide d'un pinceau, badigeonnez les brochettes de sauce teriyaki, puis faites-les griller 3 minutes, en les retournant à mi-cuisson. Saupoudrez les brochettes de sésame et servez aussitôt.
+
+## Noms ingrédients
+
+foies de volaille
+---
+
+# Japonais Yakitori - Asperge et lard
+
+
+## Commentaire
+
+Les yakitori sont des brochettes japonaises traditionnellement grillées au charbon de bois. On les déguste dans les izakaya, les restaurants informels japonais, souvent accompagnées d'une bière.
+
+## Catégorie
+
+Japonais. Non testé. Viande
+
+---
+
+## Ingrédients
+
+*Pour 12 brochettes*
+
+- 12 asperges vertes
+- 18 tranches de poitrine non salée
+- 5 cl de sauce yakitori (voir recette p. 56)
+- shichimi togarashi (facultatif, voir recette p. 52)
+
+---
+
+## Déroulé de la recette
+
+Détaillez chaque asperge en 3 tronçons. Coupez les tranches de poitrine en deux. Enroulez chaque tronçon d'asperge dans une demi-tranche de poitrine. Répartissez les asperges lardées sur 12 piques en bois. Faites chauffer le barbecue. À l'aide d'un pinceau, badigeonnez les brochettes de sauce yakitori, puis faites-les griller 8 à 10 minutes, en les retournant à mi-cuisson. Saupoudrez, éventuellement, les brochettes de shichimi et servez aussitôt.
+
+## Noms ingrédients
+
+asperges. poitrine de porc. nanami togarashi
+---
+
+# Japonais Yakitori - Bœuf et courgette yakiniku
+
+
+## Commentaire
+
+Les yakitori sont des brochettes japonaises traditionnellement grillées au charbon de bois. On les déguste dans les izakaya, les restaurants informels japonais, souvent accompagnées d'une bière.
+
+## Catégorie
+
+Japonais. Non testé. Viande
+
+---
+
+## Ingrédients
+
+*Pour 12 brochettes*
+
+- 400 g de filet de bœuf
+- 1 courgette
+- 5 cl de sauce yakiniku (voir recette p. 240)
+
+---
+
+## Déroulé de la recette
+
+Coupez le filet de bœuf en 24 lamelles. Lavez la courgette et détaillez-la en fins bâtonnets. Entourez quelques bâtonnets de courgette avec 1 lamelle de viande. Répartissez les rouleaux de viande sur 12 piques en bois. Faites chauffer le barbecue. À l'aide d'un pinceau, badigeonnez les brochettes de sauce yakiniku, puis faites-les griller 8 minutes, en les retournant à mi-cuisson.
+
+## Noms ingrédients
+
+courgettes. faux-filet
+---
+
+# Japonais Yakitori - Boulette et poivron
+
+
+## Commentaire
+
+Les yakitori sont des brochettes japonaises traditionnellement grillées au charbon de bois. On les déguste dans les izakaya, les restaurants informels japonais, souvent accompagnées d'une bière.
+
+## Catégorie
+
+Japonais. Non testé. Viande
+
+---
+
+## Ingrédients
+
+*Pour 12 brochettes*
+
+- 250 g de préparation pour boulettes tsukuné (voir recette p. 227)
+- 1 poivron rouge
+- sel et poivre du moulin
+
+---
+
+## Déroulé de la recette
+
+Lavez le poivron et coupez-le en cubes. Avec les mains légèrement huilées, prélevez 1 cuillerée à soupe du mélange tsukuné et façonnez 1 boulette. Réalisez ainsi 12 boulettes en les déposant au fur et à mesure sur du film alimentaire. Répartissez les boulettes et les cubes de poivron sur 12 piques en bois. Faites chauffer le barbecue. Salez et poivrez les brochettes, puis faites-les griller 8 minutes, en les retournant à mi-cuisson.
+
+## Noms ingrédients
+
+poivron rouge. poulet haché
+---
+
+# Japonais Yakitori - Chou kale et poitrine de porc
+
+
+## Commentaire
+
+Les yakitori sont des brochettes japonaises traditionnellement grillées au charbon de bois. On les déguste dans les izakaya, les restaurants informels japonais, souvent accompagnées d'une bière.
+
+## Catégorie
+
+Japonais. Non testé. Viande
+
+---
+
+## Ingrédients
+
+*Pour 12 brochettes*
+
+- 4 feuilles de chou kale
+- 300 g de poitrine de porc non fumée
+- 5 cl de sauce yakitori (voir recette p. 56)
+
+---
+
+## Déroulé de la recette
+
+Lavez le chou, retirez les tiges, puis coupez chaque feuille en 6 morceaux. Détaillez la poitrine en 24 cubes. Enroulez chaque cube de poitrine dans un morceau de chou. Répartissez les cubes de poitrine au chou sur 12 piques en bois. Faites chauffer le barbecue. À l'aide d'un pinceau, badigeonnez les brochettes de sauce yakitori, puis faites-les griller 10 minutes, en les retournant à mi-cuisson.
+
+## Noms ingrédients
+
+chou kale. poitrine de porc
+---
+
+# Japonais Yakitori - Poulet et roquette
+
+
+## Commentaire
+
+Les yakitori sont des brochettes japonaises traditionnellement grillées au charbon de bois. On les déguste dans les izakaya, les restaurants informels japonais, souvent accompagnées d'une bière.
+
+## Catégorie
+
+Japonais. Non testé. Viande
+
+---
+
+## Ingrédients
+
+*Pour 12 brochettes*
+
+- 2 blancs de poulet
+- 1 tomate
+- 60 g de parmesan
+- 1 poignée de roquette
+- 2 cuillerées à soupe de sauce soja
+- 1 cuillerée à soupe d'huile d'olive
+
+---
+
+## Déroulé de la recette
+
+Coupez les blancs de poulet en 12 fines lamelles, le parmesan en 12 bâtonnets et la tomate en 12 quartiers. Enveloppez 1 bâtonnet de parmesan, 1 quartier de tomate et un peu de roquette d'une lamelle de poulet en serrant bien, puis enfilez le tout sur une pique à brochette. Dans un bol, émulsionnez la sauce soja avec l'huile d'olive. Faites chauffer le barbecue. À l'aide d'un pinceau, badigeonnez les brochettes de sauce, puis faites-les griller 6 à 8 minutes, en les retournant à mi-cuisson.
+
+## Noms ingrédients
+
+parmesan. poulet. roquette. tomates en conserve
+---
+
+# Japonais Yakitori - Poulet au sésame noir
+
+
+## Commentaire
+
+Les yakitori sont des brochettes japonaises traditionnellement grillées au charbon de bois. On les déguste dans les izakaya, les restaurants informels japonais, souvent accompagnées d'une bière.
+
+## Catégorie
+
+Japonais. Non testé. Viande
+
+---
+
+## Ingrédients
+
+*Pour 12 brochettes*
+
+- 400 g de cuisses de poulet
+- 3 cuillerées à soupe de graines de sésame noir
+- 5 cl de sauce yakitori (voir recette p. 56)
+
+---
+
+## Déroulé de la recette
+
+Désossez les cuisses de poulet et coupez la chair en gros cubes. Déposez ceux-ci dans un saladier, versez la sauce yakitori et laissez mariner 30 minutes au réfrigérateur. Égouttez les cubes de poulet, puis enfilez-les sur 12 piques en bois. Enrobez-les de graines de sésame. Faites chauffer le barbecue, puis faites griller les brochettes 8 minutes, en les retournant à mi-cuisson.
+
+## Noms ingrédients
+
+cuisses de poulet
+---
+
+# Japonais Yakitori - Bœuf au fromage
+
+
+## Commentaire
+
+Cette recette, très peu répandue au Japon, a été occidentalisée. Mais il faut dire que l'intégration d'un fromage français à la brochette yakitori est une réussite, et ce plat devient vite addictif !
+
+**Astuce :** Remplacez le comté par du gruyère, de l'emmental, du gouda...
+
+## Catégorie
+
+Japonais. Non testé. Viande
+
+---
+
+## Ingrédients
+
+*Pour 12 brochettes — Préparation : 15 min — Marinade : 30 min — Cuisson : 4 min*
+
+- 600 g de carpaccio de bœuf
+- 600 g de comté
+- 10 cl de sauce yakitori (voir recette p. 56)
+- graines de sésame (facultatif)
+
+---
+
+## Déroulé de la recette
+
+Coupez le comté en 12 longs bâtonnets. Enveloppez chaque bâtonnet d'une tranche de carpaccio, puis enfilez chaque rouleau sur une pique en bois.
+
+Déposez les brochettes dans un plat creux. Versez la sauce yakitori dessus et laissez mariner 30 minutes au réfrigérateur.
+
+Faites chauffer le barbecue. Égouttez les brochettes, puis faites-les griller 3 minutes, en les retournant à mi-cuisson. À l'aide d'un pinceau, badigeonnez-les de sauce yakitori et faites-les griller à nouveau 1 minute.
+
+Badigeonnez une dernière fois les brochettes de sauce et servez-les aussitôt saupoudrées de graines de sésame.
+
+## Noms ingrédients
+
+bœuf. comté
+---
+
+# Niku-miso domburi
+
+
+## Commentaire
+
+Vous pouvez remplacer le porc par du bœuf haché.
+
+## Catégorie
+
+Japonais. Non testé. Viande
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 10 min — Cuisson : 10 min*
+
+- 4 bols de riz cuit chaud (voir recette p. 38)
+- 400 g de porc haché
+- 1 poireau
+- 1 petit concombre
+- 1 gousse d'ail
+- 1 cuillerée à soupe de gingembre frais râpé
+- coriandre ciselée
+- 1 cuillerée à soupe de fécule de maïs
+- 2 cuillerées à soupe de graines de sésame
+- 4 cuillerées à soupe rases de miso
+- 2 cuillerées à soupe de sauce soja
+- 2 cuillerées à soupe de sucre semoule
+- 1 cuillerée à soupe d'huile de sésame grillé
+- 1 filet d'huile de tournesol
+
+---
+
+## Déroulé de la recette
+
+Coupez le poireau en deux dans la longueur, puis émincez-le finement. Épluchez et épépinez le concombre, puis taillez-le en julienne. Pelez et râpez l'ail.
+
+Dans un saladier, mélangez le porc haché avec la fécule de maïs.
+
+Faites chauffer l'huile de tournesol dans un wok sur feu vif, puis faites revenir le poireau avec le gingembre et l'ail pendant 2 ou 3 minutes. Ajoutez la viande et saisissez-la pendant 3 minutes. Assaisonnez de sauce soja et de sucre. Mélangez le tout et poursuivez la cuisson 3 minutes. Hors du feu, incorporez le miso et l'huile de sésame.
+
+Répartissez la préparation à la viande sur les bols de riz bien chaud. Garnissez de concombre, et parsemez de graines de sésame et de coriandre ciselée. Servez aussitôt.
+
+## Noms ingrédients
+
+ail. concombres. coriandre. gingembre. poireau. porc haché
+---
+
+# Sukiyaki-don
+
+
+## Commentaire
+
+Le sukiyaki est un grand classique de la cuisine japonaise, une sorte de fondue où chacun fait cuire des lamelles de bœuf et de légumes dans le bouillon. Je vous propose ici une version en domburi.
+
+## Catégorie
+
+Japonais. Non testé. Viande
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 15 min — Cuisson : 15 min*
+
+- 4 bols de riz cuit chaud (voir recette p. 38)
+- 300 g de filet de bœuf coupé en très fines lamelles (type carpaccio)
+- 400 g de pack choï (ou de chou chinois)
+- 1 poireau
+- 1 carotte
+- 4 champignons shiitaké (ou champignons de Paris)
+- 100 g de champignons énoki (facultatif)
+- 4 œufs bio extra-frais
+- le vert de 1 oignon nouveau
+- 1/2 cuillerée à soupe d'huile végétale
+
+### Pour la sauce sukiyaki
+
+- 6 cuillerées à soupe de sauce soja
+- 6 cuillerées à soupe de mirin
+- 3 cuillerées à soupe de saké
+- 3 cuillerées à soupe d'eau
+- 3 cuillerées à soupe de sucre semoule
+
+---
+
+## Déroulé de la recette
+
+Détaillez le poireau en tronçons. Épluchez la carotte et coupez-la en rondelles. Émincez finement le vert de l'oignon nouveau. Coupez les shiitaké en deux. Ôtez la base du pack choï et coupez-le en tronçons de 2 cm de long.
+
+Préparez la sauce sukiyaki. Versez tous les ingrédients dans une petite casserole, portez à ébullition tout en mélangeant pour bien dissoudre le sucre. Réservez hors du feu.
+
+Dans une cocotte, faites chauffer l'huile, puis faites revenir le poireau et la carotte pendant 2 minutes. Versez la sauce sukiyaki et laissez mijoter 6 à 8 minutes jusqu'à ce que les légumes soient tendres.
+
+Ajoutez le chou, ainsi que les champignons shiitaké et énoki. Poursuivez la cuisson 2 minutes, puis retirez la cocotte du feu. Déposez alors les lamelles de bœuf – elles vont cuire au contact des légumes chauds.
+
+Garnissez chaque bol de riz bien chaud de légumes et de viande. Cassez 1 œuf au centre et parsemez de vert d'oignon. Dégustez aussitôt.
+
+## Noms ingrédients
+
+bœuf. carottes. champignons enoki. champignons shiitaké. oignons verts. pak choï. poireau
+---
+
+# Aubergines grillées à l'ail noir, pignons de pin et basilic
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+L'ail noir offre une saveur profonde, à mi-chemin entre la crème de balsamique et les arômes de réglisse. On trouve des têtes entières ou des gousses en pot, pelées et prêtes à l'emploi. Cette recette gagne à être préparée quelques heures à l'avance pour que les saveurs se développent. Les quartiers d'aubergines grillés ont tendance à se défaire quand on les mélange avec la sauce — le résultat sera facile à étaler à la cuiller sur du pain au levain grillé ou du pain pita.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 5 aubergines moyennes, parées (1,4 kg)
+- 12 cl d'huile d'olive + un peu pour servir
+- 150 g de yaourt nature
+- 10 g de feuilles de basilic
+- 20 g de pignons de pin, légèrement grillés
+- Sel de mer et poivre noir
+
+**Sauce à l'ail noir**
+
+- 50 g de gousses d'ail noir, pelées
+- 1 cuil. à café de mélasse de grenade
+- 1 ½ cuil. à café de harissa
+- 2 ½ cuil. à soupe de jus de citron
+- ¼ cuil. à café de flocons de piments urfa (ou 1 pincée de flocons de piments rouges)
+- ½ cuil. à café de cacao en poudre
+- 5 cl d'huile d'olive
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 220 °C.
+
+2. Coupez les aubergines en deux dans la longueur, puis à nouveau en deux dans la largeur. Coupez chaque section en quartiers d'environ 3 cm de large et 10 cm de long. Placez-les dans un saladier avec l'huile d'olive, 1 cuil. à soupe de sel de mer et du poivre noir. Mélangez, puis répartissez les aubergines sur deux plaques de cuisson tapissées de papier sulfurisé — elles ne doivent pas être trop serrées —, côté peau en bas. Enfournez pour 40 min environ, jusqu'à ce qu'elles soient brun doré. Retirez du four et laissez refroidir.
+
+3. Mettez tous les ingrédients de la sauce dans le bol d'un robot, avec une pincée de sel. Mixez environ 2 min pour obtenir une pâte lisse.
+
+4. Mettez les aubergines dans un saladier. Versez la sauce et mélangez délicatement avec les mains : les aubergines doivent être bien enrobées mais sans se désagréger. Laissez reposer au moins 1 h. Étalez le yaourt sur un plat ou dans des assiettes individuelles et disposez les quartiers d'aubergines par-dessus. Saupoudrez de feuilles de basilic grossièrement ciselées et de pignons de pin. Arrosez d'un filet d'huile d'olive et servez.
+
+## Noms ingrédients
+
+ail noir. aubergines. basilic. piment d'Urfa. citrons. grenade. pistaches. yaourt nature
+---
+
+# Purée de céleri-rave, chou-fleur aux épices et œufs de caille
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+Le ras-el-hanout est un mélange d'épices du Maghreb dont la composition varie selon chaque épicier. La purée de céleri-rave est une bonne alternative au houmous. Si vous confectionnez la purée la veille, couvrez-la d'un film alimentaire appliqué à même la purée pour empêcher la formation d'une peau. Mieux vaut la savourer à température ambiante plutôt que trop froide : sortez-la du réfrigérateur au moins une demi-heure avant de servir.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+**Purée de céleri-rave**
+
+- 6 cl d'huile d'olive + 1 cuil. à soupe pour servir
+- 1 gros oignon, coupé en dés grossiers (160 g)
+- 2 gousses d'ail, grossièrement hachées
+- 2 feuilles de laurier
+- 1 gros céleri-rave, épluché et coupé en tronçons de 2 cm (600 g)
+- 50 cl de bouillon de légumes
+- 2 cuil. à soupe de tahini
+- 2 cuil. à soupe de jus de citron
+- ½ cuil. à café de cumin en poudre
+- ½ cuil. à café de coriandre en poudre
+- ½ cuil. à café de paprika doux fumé
+- Sel de mer et poivre noir
+
+**Chou-fleur aux épices**
+
+- 2 cuil. à soupe d'huile d'olive
+- 1 gros oignon, émincé (160 g)
+- 3 gousses d'ail, émincées
+- 2 cuil. à café de ras-el-hanout
+- 1 chou-fleur moyen, paré et grossièrement râpé (650 g)
+- 2 cuil. à soupe d'écorce de citron confit en petits dés
+- 90 g d'amandes décortiquées, grillées et grossièrement hachées
+- 50 g de persil, grossièrement haché
+
+**Œufs de caille frits**
+
+- 2 ½ cuil. à soupe d'huile d'olive
+- 6 ou 12 œufs de caille
+
+## Déroulé de la recette
+
+1. Préparez la purée de céleri. Faites chauffer à feu moyen 6 cl d'huile d'olive dans une casserole pour y faire revenir les dés d'oignon 5 à 6 min en remuant souvent, jusqu'à ce qu'ils soient fondants et bien dorés. Ajoutez l'ail et le laurier, laissez cuire 1 min, puis ajoutez le céleri. Faites revenir le mélange pendant 8 à 10 min, en remuant souvent pour que le céleri se colore. Versez alors le bouillon, portez à ébullition, puis laissez mijoter à feu moyen pendant 15 min, jusqu'à ce que le céleri soit cuit. Retirez la casserole du feu, jetez le laurier, puis transférez le mélange dans un blender. Mixez en purée lisse avant d'ajouter le tahini, le jus de citron, le cumin, la coriandre et ½ cuil. à café de sel. Donnez un bon tour de moulin à poivre. Laissez reposer jusqu'au moment de servir.
+
+2. Préparez le chou-fleur : faites chauffer l'huile à feu moyen dans une grande poêle pour y faire revenir l'oignon pendant 5 min, jusqu'à ce qu'il soit fondant. Ajoutez l'ail, poursuivez la cuisson 2 min, puis saupoudrez de ras-el-hanout et laissez cuire encore 1 min. Versez 10 cl d'eau, remuez pendant 1 min, puis retirez la poêle du feu. Incorporez le chou-fleur, le citron confit, les amandes, la moitié du persil et 1 cuil. à café de sel. Laissez refroidir.
+
+3. Pour servir, répartissez la purée dans 6 assiettes, arrosez avec ½ cuil. d'huile, garnissez de chou-fleur, puis saupoudrez de paprika fumé et du reste de persil.
+
+4. Pour faire frire les œufs, faites chauffer l'huile à feu moyen dans une grande poêle, puis cassez les œufs un à un dans l'huile chaude et laissez-les frire 30 à 60 s. Salez et poivrez, puis disposez 1 ou 2 œufs dans chaque assiette et servez aussitôt.
+
+## Noms ingrédients
+
+ail. amandes. céleri-rave. chou-fleur. citron confit. citrons. oignons. œufs de caille. persil. ras-el-hanout. tahin. yaourt nature
+---
+
+# Artichauts poivrade frits et aïoli au poivre rose
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+Plus les artichauts sont petits, plus leur préparation est facile. Une fois les feuilles extérieures coriaces enlevées, celles de l'intérieur sont si tendres qu'on peut les manger crues. Il faut impérativement des cœurs crus pour cette recette — les artichauts en conserve ne conviennent pas. L'aïoli se garde 5 jours au réfrigérateur. Le persil frit rehausse visuellement le plat mais les feuilles peuvent vite brûler — on peut s'en passer.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 50 g de farine de maïs
+- 50 g de farine de ménage
+- 1 cuil. à soupe de cinq-épices
+- 8 artichauts poivrade ou 4 gros artichauts (1,1 kg)
+- 1 cuil. à soupe de jus de citron
+- 60 cl d'huile de tournesol, pour la friture
+- 20 g de feuilles de persil, rincées et très bien séchées (facultatif)
+- 1 citron en quartiers, pour servir
+- Sel de mer et poivre noir
+
+**Aïoli au poivre rose**
+
+- 4 gousses d'ail, pelées
+- 2 brins de thym
+- 1 cuil. à soupe d'huile d'olive
+- 2 jaunes d'œuf
+- ½ cuil. à café de moutarde de Dijon
+- 1 cuil. à soupe de vinaigre de vin blanc
+- 1 cuil. à soupe de jus de citron
+- 15 cl d'huile de tournesol
+- 1 ½ cuil. à soupe de grains de poivre rose, légèrement écrasés
+- Sel de mer et poivre noir
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 200 °C.
+
+2. Pour préparer l'aïoli, mettez les gousses d'ail au centre d'un carré de papier d'aluminium, avec le thym et l'huile d'olive. Fermez hermétiquement et enfournez pour 20 min, jusqu'à ce que les gousses soient tendres. Sortez-les du four et laissez-les refroidir (jetez le thym, mais gardez l'huile).
+
+3. Mettez les jaunes d'œufs dans le bol d'un robot de cuisine, avec la moutarde, le vinaigre, le jus de citron, l'ail rôti avec son huile de cuisson, ½ cuil. à café de sel et du poivre. Mixez. Quand le mélange est lisse, versez l'huile de tournesol en filet, sans couper le moteur, puis ajoutez le poivre rose. Réservez au frais.
+
+4. Mélangez dans un bol les farines, le cinq-épices et 1 ½ cuil. à soupe de sel. Poivrez généreusement, puis réservez.
+
+5. Préparez les artichauts : enlevez les feuilles extérieures à la main, puis coupez le haut des feuilles restantes avec un couteau à dents. Parez les artichauts en éliminant toutes les parties coriaces, puis coupez-les en deux de haut en bas pour retirer le foin avec la pointe du couteau. Disposez les moitiés à plat sur une planche à découper, puis taillez-les en quartiers de 1 cm d'épaisseur. Mettez-les aussitôt dans un saladier d'eau froide avec le jus de citron pour éviter qu'ils noircissent. Juste avant de les faire frire, égouttez bien les quartiers, puis roulez-les dans le mélange farines-épices.
+
+6. Dans une sauteuse, versez 2 cm d'huile et faites chauffer à feu moyen. Quand l'huile est chaude, plongez-y les quartiers d'artichauts et faites-les frire 5 à 6 min, jusqu'à ce qu'ils commencent à brunir et soient bien croustillants ; procédez en plusieurs fois pour ne pas trop remplir la sauteuse. Sortez les quartiers de l'huile avec une écumoire et laissez-les égoutter dans une passoire tapissée de papier absorbant. Saupoudrez avec ½ cuil. à café de sel et gardez-les au chaud jusqu'au moment de servir.
+
+7. Si vous en utilisez, jetez ¼ du persil dans l'huile chaude (facultatif), en faisant attention aux projections, puis laissez frire 1 min environ, jusqu'à ce que les feuilles soient translucides. Faites-les ensuite égoutter sur une assiette tapissée de papier absorbant. Procédez de la même façon avec le reste du persil, puis mélangez avec les artichauts. Répartissez dans les assiettes. Servez avec l'aïoli et des quartiers de citron.
+
+## Noms ingrédients
+
+ail. artichauts. jaunes d'œuf. citrons. persil
+---
+
+# Crème d'oignon vert grillé et chou kale poêlé
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+La crème d'oignon vert seule est délicieuse tartinée sur du pain grillé ou pour accompagner des épis de maïs grillés. Les lamelles de piment et d'ail frites apportent du croquant et des saveurs brûlantes. Les oignons ne sont jamais trop grillés — plus ils cuisent longtemps, plus leur goût fumé est prononcé. Si vous avez un barbecue, faites griller les oignons dehors.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+**Dip aux oignons**
+
+- 1 tête d'ail
+- 2 cuil. à soupe d'huile d'olive
+- 150 g d'oignons verts (12 à 14), les extrémités coupées et coupés en deux dans la longueur (110 g)
+- 1 ½ cuil. à soupe d'huile de tournesol
+- 150 g de cream cheese
+- 110 g de crème aigre
+- Sel marin et poivre noir
+
+**Chou kale grillé**
+
+- 9 cl d'huile d'olive
+- 6 gousses d'ail, en fines lamelles
+- 3 gros piments rouges, épépinés et coupés en fines lamelles
+- 550 g de feuilles de chou kale, lavées et sans la tige centrale, puis coupées en lanières de 3 à 4 cm de largeur (450 g)
+- 2 cuil. à soupe de jus de citron
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 210 °C.
+
+2. Coupez le haut de la tête d'ail et jetez-le. Mettez la tête d'ail au centre d'un carré de papier d'aluminium, avec 1 cuil. à soupe d'huile d'olive et 1 pincée de sel. Enveloppez-la, placez-la sur une plaque de cuisson, enfournez et laissez-la rôtir 30 min, jusqu'à ce que la chair soit tendre. Laissez-la refroidir un peu, puis pressez les gousses pour détacher la peau. Avec le plat d'un couteau, écrasez la chair en purée. Réservez.
+
+3. Mettez les oignons verts dans un plat et badigeonnez-les avec l'huile de tournesol. Ajoutez ¼ de cuil. à café de sel et poivrez. Faites chauffer à feu vif un gril en fonte. Quand le gril est fumant, faites griller les oignons verts pendant 5 à 6 min, en les retournant à mi-cuisson pour qu'ils se colorent de toutes parts. Laissez-les refroidir, puis hachez-les finement. Mettez-les dans un bol et ajoutez le cream cheese, la crème aigre, le reste d'huile d'olive, la purée d'ail et ¼ de cuil. à café de sel. Mélangez bien et réservez.
+
+4. Préparez maintenant le chou : faites chauffer l'huile à feu vif dans une grande poêle pour y faire frire l'ail et le piment pendant 4 à 6 min, en remuant sans cesse jusqu'à ce que les lamelles soient dorées et croustillantes. Ajoutez le chou kale, salez (1 ½ cuil. à café) et poivrez à votre goût, puis laissez cuire 3 min — vous devrez peut-être procéder en plusieurs tournées — en remuant souvent : le chou doit rester un peu croquant. Retirez la poêle du feu, puis arrosez de jus de citron. Disposez le chou dans un grand plat ou dans des assiettes de service, garnissez de crème d'oignon et servez sans attendre.
+
+## Noms ingrédients
+
+ail. chou kale. cream cheese. citrons. oignons verts. piment rouge
+---
+
+# Burrata et oranges sanguines aux graines de coriandre et lavande
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+Une des salades emblématiques de NOPI — environ mille portions par mois ! La burrata est une mozzarella dont le cœur est fourré d'un mélange de crème fraîche et de mozzarella effilochée. À défaut, on peut utiliser une mozzarella di bufala. Les oranges sanguines ont une courte saison mais beaucoup de variantes ont été testées : pêches blanches, clémentines, pomelos, raisin, poires en pickles, et même chou-rave. Des oranges ordinaires conviennent aussi très bien.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 2 cuil. à soupe d'huile d'olive
+- 1 ½ cuil. à café de miel liquide clair
+- ¾ de cuil. à café de lavande séchée
+- ½ petite gousse d'ail, écrasée
+- 1 cuil. à soupe de graines de coriandre, grillées
+- 2 oranges sanguines (320 g), ou 2 oranges moyennes
+- 4 boules de burrata (440 g)
+- 5 g de feuilles de basilic
+- Sel de mer
+
+## Déroulé de la recette
+
+1. Mettez l'huile dans une petite casserole avec le miel, la lavande, l'ail et ¾ de cuil. à café de sel. Portez à ébullition, puis retirez aussitôt du feu. Mélangez et laissez refroidir complètement, puis ajoutez les graines de coriandre.
+
+2. Avec un couteau à dents, coupez la base et le sommet des oranges. Prélevez l'écorce en suivant la courbe naturelle du fruit pour le peler à vif. Découpez chaque orange en 8 rondelles de 1 cm d'épaisseur et retirez les pépins.
+
+3. Disposez les tranches d'oranges sur les assiettes en les faisant se chevaucher, puis placez une boule de burrata à côté. Assaisonnez avec les graines de coriandre et l'huile de lavande et décorez de feuilles de basilic (en ciselant grossièrement les plus grandes).
+
+## Noms ingrédients
+
+ail. basilic. burrata. miel. oranges sanguines
+---
+
+# Asperges vertes grillées, sauce romesco et balsamic à la pomme
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+Une variante de la sauce romesco plus rustique et plus dense que la sauce classique, l'œuvre d'Andreu Altamirano, originaire de Catalogne. Si vous avez le temps, laissez la sauce infuser une nuit entière.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 1 kg d'asperges vertes, sans la base ligneuse (800 g)
+- 4 cl de vinaigre balsamique
+- 6 cl de jus de pomme
+- 1 cuil. à café de sucre en poudre
+- 1 cuil. à soupe d'huile d'olive
+- 10 g de flocons d'amandes, grillés
+- Sel de mer et poivre noir
+
+**Sauce romesco**
+
+- 1 piment ancho séché (10 g), ébouillanté 30 min, égoutté, épépiné et grossièrement haché
+- 40 g d'amandes entières, grillées
+- 50 g de pain au levain sans la croûte, coupé en cubes de 3 cm
+- 3 tomates moyennes mûres (200 g), coupées en quartiers de 1,5 cm d'épaisseur
+- 1 cuil. à soupe de vinaigre de xérès Valdespino
+- 2,5 cl d'huile d'olive
+- 1 piment rouge moyen, épépiné et grossièrement haché
+
+## Déroulé de la recette
+
+1. Pour préparer la sauce romesco, mettez tous les ingrédients dans un bol, ajoutez 1 cuil. à café de sel et poivrez généreusement. Mélangez bien, puis laissez infuser 4 h au réfrigérateur, voire une nuit entière. Avant de servir, mixez la sauce en pâte épaisse et réchauffez-la dans une casserole.
+
+2. Dans une casserole moyenne, portez à ébullition de l'eau salée et plongez-y les asperges. Faites-les blanchir 1 à 2 min, pour qu'elles restent croquantes, puis égouttez-les et rafraîchissez-les sous l'eau froide. Laissez-les sécher.
+
+3. Mettez dans une petite casserole le vinaigre, le jus de pomme et le sucre. Faites cuire 4 à 5 min à feu vif, jusqu'à ce que la préparation ait réduit de moitié : elle doit avoir une texture épaisse et collante.
+
+4. Faites chauffer un gril en fonte à feu vif. Mélangez les asperges avec l'huile d'olive et 1 cuil. à café de sel, puis disposez-les sur le gril. Saisissez-les 2 min, en les retournant à mi-cuisson pour que les deux côtés se colorent. Répartissez la sauce romesco dans les assiettes et disposez les asperges dessus. Arrosez avec la réduction de balsamique, saupoudrez d'amandes effilées et servez.
+
+## Noms ingrédients
+
+amandes. asperges. pomme. pain au levain. piment ancho. piment rouge. tomates en conserve
+---
+
+# Brocolis à jets violets et skordalia
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+La skordalia est la version grecque de la purée de pommes de terre, onctueuse et lisse, parfumée à l'ail et à l'huile d'olive. À servir en entrée ou pour accompagner des foies de volaille ou du canard confit.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 550 g de brocolis violets (ou de broccolinis), feuilles et base ligneuse coupées (350 g)
+- 1 kg de grosses pommes de terre (désirée ou charlotte)
+- 1 tête d'ail
+- 1 piment rouge moyen, coupé en biais en tranches fines
+- 3 longues lanières de zeste de citron
+- 10 cl d'huile d'olive + un peu pour servir
+- 1 ½ cuil. à soupe de jus de citron
+- 1 citron, en quartiers, pour servir
+- Sel de mer et poivre blanc
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 220 °C.
+
+2. Portez de l'eau à ébullition dans une casserole pour y faire blanchir les brocolis pendant 3 à 4 min : ils doivent rester un peu croquants. Rafraîchissez-les sous l'eau froide, égouttez-les, puis laissez-les sécher.
+
+3. Disposez les pommes de terre (sans les peler) sur une plaque de cuisson. Éliminez le quart supérieur de la tête d'ail avant d'envelopper cette dernière dans une feuille de papier d'aluminium avec 1 cuil. à soupe d'huile et 1 pincée de sel. Placez-la à côté des pommes de terre, enfournez et laissez rôtir environ 45 min, jusqu'à ce que les pommes de terre soient cuites et les gousses d'ail fondantes.
+
+4. Mettez les tranches de piment dans une petite casserole avec le zeste de citron et le reste d'huile d'olive. Laissez cuire 5 min à feu moyen, puis laissez refroidir. Avec une écumoire, repêchez le piment et le zeste de citron. Filtrez l'huile et réservez-la.
+
+5. Quand les pommes de terre sont tièdes, pelez-les, puis écrasez-les avec un presse-purée (deux fois pour une purée très lisse), puis mettez-les dans une casserole. Déballez la tête d'ail, pressez les gousses et ajoutez-les dans la purée. Réchauffez la purée à feu moyen en y incorporant au fouet 1 cuil. à soupe de l'huile filtrée, le jus de citron, 3 cuil. à soupe d'eau, 1 ½ cuil. à café de sel et ½ cuil. à café de poivre moulu. Fouettez pour obtenir une consistance soyeuse, puis réchauffez-la pendant 1 min. Réservez au chaud.
+
+6. Faites chauffer un gril en fonte à feu vif. Mélangez les brocolis avec l'huile restante et 1 pincée de sel. Déposez les brocolis sur le gril chaud et laissez-les se colorer pendant 3 min environ (en procédant en plusieurs tournées).
+
+7. Répartissez la purée sur les assiettes, puis ajoutez les brocolis. Parsemez de piment frit, arrosez d'un filet d'huile et servez avec des quartiers de citron.
+
+## Noms ingrédients
+
+ail. brocoli. citrons. piment rouge. pomme de terre
+---
+
+# Courge rôtie, tomates au gingembre et yaourt au citron vert
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+Les quartiers de courge rôtis figurent de longue date sur les cartes d'Ottolenghi et de NOPI. L'association de la courge rôtie avec un yaourt parfumé au citron vert et des tomates rôties au gingembre est particulièrement réussie. On peut trouver des échalotes frites prêtes à l'emploi dans les magasins asiatiques — elles sont facultatives, les noix de cajou apportant déjà une note croquante.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 1 courge butternut moyenne, lavée, coupée en deux dans la hauteur (pour retirer les graines), puis en quartiers de 2,5 cm d'épaisseur (800 g)
+- 4,5 cl d'huile d'olive
+- 6 grosses tomates mûres, coupées en deux dans la hauteur (500 g)
+- 3 cm de gingembre, râpé (25 g)
+- 1 piment rouge, épépiné et coupé en petits dés
+- 2 gousses d'ail, écrasées
+- 30 g de sucre muscovado
+- Sel de mer et poivre noir
+
+**Yaourt au citron vert**
+
+- 120 g de yaourt à la grecque
+- ¼ de cuil. à café de cardamome moulue
+- Le zeste râpé de ½ citron vert + 1 ½ cuil. à café de jus de citron vert
+
+**Pour servir**
+
+- 5 g de feuilles de coriandre, grossièrement hachées
+- 30 g de noix de cajou, grillées et grossièrement hachées
+- 10 g d'échalotes frites (facultatif)
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 240 °C.
+
+2. Mélangez les quartiers de courge avec 2 cuil. à soupe d'huile, assaisonnez avec 2 cuil. à café de sel et du poivre, puis étalez-les sur une plaque de cuisson tapissée de papier sulfurisé. Enfournez pour 35 à 40 min, jusqu'à ce que la chair soit brun-doré. Laissez refroidir.
+
+3. Réglez le four à 170 °C.
+
+4. Mettez les demi-tomates sur une plaque de cuisson recouverte de papier sulfurisé, côté peau en bas. Assaisonnez avec ¼ de cuil. à café de sel, arrosez avec le reste d'huile et laissez confire pendant 1 h 20.
+
+5. Mettez dans un bol le gingembre, le piment, l'ail, le sucre et ¼ de cuil. à café de sel. Mélangez pour former une pâte et étalez-la à la cuillère sur les tomates. Laissez cuire encore 40 min, pour que la pâte caramélise, puis laissez refroidir.
+
+6. Mettez dans un bol le yaourt, le zeste et le jus de citron vert, assaisonnez avec ½ cuil. de sel et du poivre noir. Mélangez bien et réservez au frais.
+
+7. Disposez les tranches de courge dans un plat et glissez les tomates entre les tranches. Nappez de yaourt au citron vert, puis saupoudrez de coriandre, de noix de cajou et d'échalotes frites (facultatif). Servez sans attendre.
+
+## Noms ingrédients
+
+ail. citrons verts. coriandre. courge butternut. gingembre. noix de cajou. piment rouge. tomates en conserve. yaourt grec
+---
+
+# Carottes et haricots mungo au labné fumé et pain pita croustillant
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+Le labné fumé nécessite 24 h d'égouttage au réfrigérateur (réductible à 6 h en pressant régulièrement). Il se garde au moins une semaine, hermétiquement couvert. Le temps de fumage est très précis : si vous le dépassez, le goût sera trop fort. La feta peut remplacer le labné en cas de manque de temps.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+**Labné fumé**
+
+- 300 g de yaourt à la grecque
+- 2 cuil. à soupe d'huile d'olive
+- 50 g de thé oolong (ou lapsang souchong)
+- 1 cuil. à soupe de graines de carvi
+- 1 cuil. à soupe de poivre rose
+- Le zeste de 1 citron
+- 10 g de brins de thym
+- Sel de mer et poivre noir
+
+**Pain pita croustillant**
+
+- 2 pains pita
+- 30 g de beurre doux, fondu
+- 2 cuil. à café de zaatar
+
+**Haricots mungo**
+
+- 120 g de haricots mungo
+- 6 cl d'huile d'olive
+- 1 oignon rouge moyen, coupé en petits dés (100 g)
+- 2 gousses d'ail, hachées
+- 2 cuil. à café de graines de carvi, légèrement grillées
+- ½ cuil. à café de graines de fenouil, légèrement grillées
+- 1 ½ cuil. à soupe de sucre en poudre
+- 8 cl de vinaigre de xérès Valdespino
+- 10 g de feuilles de menthe, grossièrement hachées
+
+**Carottes**
+
+- 650 g de jeunes carottes, grattées (ou des grosses carottes coupées en bâtonnets)
+- 1 cuil. à soupe d'huile d'olive
+
+## Déroulé de la recette
+
+1. Commencez par préparer le labné : mélangez le yaourt avec 1 cuil. à soupe d'huile et ¼ de cuil. à café de sel. Transférez-le sur une étamine propre, fermez avec un nœud, puis suspendez-le dans un pichet haut et étroit, en l'accrochant à la poignée. Réservez 24 h au réfrigérateur pour qu'il s'égoutte.
+
+2. Quand le yaourt est égoutté, tapissez un wok ou une casserole avec 2 couches de papier d'aluminium. Ajoutez le thé, les graines de carvi, le poivre rose, le zeste de citron et le thym, ainsi que 2 cuil. à soupe d'eau. Faites d'abord chauffer à feu vif, puis baissez à feu moyen au bout de 8 min, quand le mélange commence à fumer. Placez dans le wok une grille tapissée de papier sulfurisé percé de petits trous. Sortez le fromage égoutté du linge et posez-le sur le papier sulfurisé, en le pressant légèrement pour l'aplatir. Couvrez et laissez fumer 5 min. Fermez hermétiquement en recouvrant le couvercle de papier d'aluminium. Retirez le wok du feu (sans retirer le couvercle) et laissez reposer encore 5 min. Transférez le labné fumé dans un petit récipient, laissez-le refroidir, puis arrosez-le avec le reste d'huile. Réservez au réfrigérateur.
+
+3. Préchauffez le four à 120 °C. Ouvrez les pains pita, disposez-les sur une plaque de cuisson recouverte de papier sulfurisé, puis badigeonnez-les de beurre fondu. Assaisonnez-les avec le zaatar et ½ cuil. à café de sel. Enfournez pour 1 h : les pains doivent sécher, sans trop se colorer. Sortez-les du four et laissez-les refroidir.
+
+4. Rincez les haricots mungo et mettez-les dans une casserole. Couvrez-les d'eau, portez à ébullition, puis laissez frémir 20 à 25 min : ils doivent être juste cuits. Égouttez-les, rincez-les, puis laissez-les s'égoutter complètement.
+
+5. Dans une petite casserole, faites chauffer à feu doux 1 cuil. à soupe d'huile pour y faire fondre l'oignon et l'ail pendant 8 à 10 min. Ajoutez le carvi et le fenouil, remuez encore 1 min avant d'incorporer le sucre. Mélangez 1 min, puis versez le vinaigre. Laissez cuire à feu moyen pendant 3 min, pour que la préparation réduise de moitié. Retirez du feu et incorporez l'huile d'olive restante. Salez et poivrez, puis versez la sauce sur les haricots mungo. Ajoutez enfin la menthe.
+
+6. Plongez les carottes dans un grand volume d'eau bouillante salée, puis laissez-les cuire 5 à 7 min : elles doivent rester un peu croquantes. Égouttez-les, rafraîchissez-les sous l'eau froide, puis laissez-les sécher complètement. Dans une grande poêle, faites chauffer à feu moyen 1 cuil. à soupe d'huile, pour y saisir les carottes avec ½ cuil. à café de sel et du poivre noir. Faites-les revenir 7 à 10 min, jusqu'à ce qu'elles soient brun doré. Gardez au chaud.
+
+7. Répartissez les haricots sur des assiettes. Disposez les carottes par-dessus, puis ajoutez quelques cuillerées de labné, ainsi que des morceaux de pain pita.
+
+## Noms ingrédients
+
+ail. carottes. haricots mungo. lapsang souchong. menthe. oignons rouges. pain pita. yaourt grec. zaatar. citrons
+---
+
+# Frites de polenta
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+Cette recette peut être préparée à l'avance — il ne reste plus qu'à faire frire la polenta. On peut aussi opter pour une cuisson au four : il suffit de badigeonner les cubes d'huile d'olive, de les étaler sur une plaque de cuisson et de les faire dorer 25 min dans un four préchauffé à 240 °C. L'aïoli se garde 5 jours au réfrigérateur. À servir avec l'aïoli ou un chutney de tomates, voire les deux mélangés.
+
+## Ingrédients
+
+*Pour 4 à 6 personnes*
+
+- 250 g de polenta instantanée + 60 g pour saupoudrer
+- 100 g de beurre doux, réfrigéré et coupé en dés de 1 cm
+- 75 g de parmesan, finement râpé
+- ¾ cuil. à café d'huile de truffe
+- 1 l d'huile de tournesol, pour la friture
+- 300 g de chutney de tomates (facultatif)
+- Sel de mer
+
+**Aïoli (facultatif)**
+
+- 10 gousses d'ail, pelées
+- 25 cl d'huile de tournesol
+- 2 brins de thym
+- 1 feuille de laurier
+- 2 grains de poivre noir
+- 2 jaunes d'œufs
+- 2 cuil. à soupe de moutarde forte
+- 2 cuil. à soupe de vinaigre de vin blanc
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 180 °C.
+
+2. Pour confectionner l'aïoli, mettez les gousses d'ail, l'huile de tournesol, le thym, le laurier et le poivre dans une petite casserole allant au four. Couvrez de papier d'aluminium et enfournez pour 20 à 25 min, jusqu'à ce que l'ail soit fondant. Laissez refroidir. Jetez le thym, le laurier et le poivre. Réservez séparément les gousses d'ail et l'huile. Mettez les jaunes d'œufs, la moutarde, le vinaigre et les gousses d'ail rôties, pelées, dans le bol du robot, ajoutez ½ cuil. à café de sel et mixez pour obtenir une pâte lisse. Sans couper le moteur, incorporez lentement l'huile infusée pour former une mayonnaise épaisse. Conservez au frais.
+
+3. Dans une casserole, faites chauffer 1 l d'eau à feu moyen. Portez à ébullition, puis versez lentement la polenta, en remuant sans cesse. Baissez le feu au minimum et poursuivez la cuisson encore 3 min, en remuant souvent. Ajoutez le beurre en plusieurs fois, en remuant jusqu'à ce qu'il soit bien incorporé, puis ajoutez le parmesan et 1 cuil. à soupe de sel. Mélangez bien et laissez cuire encore 5 min, sans cesser de mélanger, jusqu'à ce que la polenta n'adhère plus aux parois. Retirez la casserole du feu, incorporez l'huile de truffe, puis transférez la polenta sur une plaque de cuisson (30 × 20 cm) tapissée de papier sulfurisé. Avec une spatule humide, étalez-la sur 2 cm d'épaisseur. Couvrez d'une autre feuille de papier sulfurisé et pressez légèrement. Laissez refroidir, puis réservez au moins 2 h au réfrigérateur.
+
+4. Retournez la polenta sur une planche à découper et détaillez-la en bâtonnets de 10 × 2 cm (une trentaine environ). Étalez les 60 g de polenta restants dans une assiette pour y rouler les bâtonnets afin de les en recouvrir de toutes parts.
+
+5. Faites chauffer l'huile de tournesol dans une casserole à feu vif. Plongez-y délicatement un quart des frites de polenta et laissez-les frire 3 à 4 min, jusqu'à ce qu'elles soient bien dorées. Sortez-les avec une écumoire, transférez-les sur une plaque tapissée de papier absorbant et saupoudrez-les de sel. Faites cuire le reste des frites en trois fois, puis servez sans attendre avec l'aïoli ou le chutney de tomates.
+
+## Noms ingrédients
+
+ail. tomates en conserve. jaunes d'œuf. parmesan
+---
+
+# Soupe de pastèque aux épices
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+Cette recette est née du souhait de Scully de tirer parti de l'écorce d'une pastèque au lieu de la jeter. Le pickle d'écorce doit mariner une semaine au réfrigérateur avant d'être utilisé. Il se garde plusieurs semaines dans un bocal hermétique et est délicieux avec de la viande froide ou en salade. Les graines d'ajowan ont un goût amer et piquant rappelant le thym — à défaut, utilisez des graines de céleri. Pour une version plus consistante, servez avec du riz ou du pain indien.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 1 grosse pastèque (3,2 kg), sans pépins de préférence
+- 2 cuil. à soupe d'huile de tournesol
+- ½ cuil. à café de graines d'ajowan (ou de céleri)
+- 1 cuil. à café de graines de cumin noir
+- ½ cuil. à café de graines de fenouil
+- 1 gousse de cardamome noire
+- 2 piments thaïs, épépinés et finement hachés
+- 5 gousses d'ail, finement hachées
+- 1 morceau de 3 cm de gingembre, pelé et finement haché (20 g)
+- ¼ de cuil. à café de curcuma moulu
+- 20 g de coriandre, grossièrement hachée (feuilles et tiges)
+- Sel de mer
+
+**Marinade pour le pickle**
+
+- 20 cl de vinaigre de cidre
+- 25 cl de vinaigre de riz
+- 60 g de sucre en poudre
+- ½ cuil. à café de clous de girofle
+- 1 cuil. à café de graines de moutarde jaune
+- 1 bâton de cannelle moyen
+- 1 cuil. à café de grains de poivre noir
+
+## Déroulé de la recette
+
+1. Avec un économe, éliminez la peau vert foncé de la pastèque en veillant à conserver intacte la partie blanche. Coupez la pastèque en deux, puis chaque moitié en 3 ou 4 quartiers. Retirez l'écorce blanche, puis découpez la chair en cubes de 3 cm. Réservez trois quarts des cubes et mixez le reste dans un blender : vous devez obtenir 65 cl de jus de pastèque. Conservez séparément au réfrigérateur les cubes et le jus. Découpez l'écorce blanche en lanières de 4 à 5 cm de long sur 3 mm de large.
+
+2. Dans une casserole, portez à ébullition 1 l d'eau avec 3 cuil. à soupe de sel. Remuez pour dissoudre le sel, puis retirez du feu. Laissez refroidir avant d'incorporer les lanières d'écorce de pastèque. Couvrez, puis laissez reposer au réfrigérateur. Vingt-quatre heures plus tard, égouttez les lanières, puis rincez-les à l'eau froide. Laissez-les sécher.
+
+3. Mélangez dans une casserole les ingrédients de la marinade et ajoutez 20 cl d'eau. Portez à ébullition, puis faites mijoter 2 min à feu moyen pour dissoudre le sucre. Laissez refroidir le mélange avant de le verser sur les écorces de pastèque. Le pickle pourra être consommé 1 h plus tard, mais vous pouvez aussi le mettre dans un bocal stérilisé et le laisser reposer plusieurs mois.
+
+4. Préparez la soupe : faites chauffer l'huile à feu vif dans une grande casserole, puis ajoutez les graines, la cardamome et les piments. Laissez cuire 1 à 2 min en remuant souvent pour que les arômes se développent. Ajoutez l'ail et le gingembre, remuez encore 1 min, puis incorporez 180 g de pickle de pastèque (sans la marinade), le curcuma et 1 cuil. à café de sel. Baissez à feu moyen et laissez cuire 3 à 4 min. Versez alors le jus de pastèque, 20 cl d'eau et 4 cuil. à soupe de marinade. Portez à ébullition et laissez bouillonner 2 min. Réduisez le feu, couvrez et laissez frémir 4 à 5 min. Ajoutez la chair de la pastèque et augmentez le feu, puis laissez cuire encore 4 min. Retirez la casserole du feu, incorporez la coriandre et servez.
+
+## Noms ingrédients
+
+ail. coriandre. gingembre. pastèque. piment rouge
+---
+
+# Velouté de petits pois et fingers frits au fromage
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+C'est au Bathers' Pavilion de Sydney que Scully a appris à faire ce velouté — en ajoutant des pommes de terre et en surveillant de près la cuisson des petits pois pour obtenir une soupe d'un beau vert tendre, à la fois crémeuse et brillante. La soupe et les fingers au fromage peuvent être préparés à l'avance. Pour conserver la belle couleur vert tendre, plongez la casserole dans un grand récipient d'eau glacée. L'oseille peut être remplacée hors saison par de la roquette ou du cresson.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 2 cuil. à soupe d'huile d'olive
+- 40 g de beurre doux
+- 3 échalotes, hachées (130 g)
+- 2 gousses d'ail, hachées
+- 1 gros poireau, paré puis détaillé en tronçons de 1 cm (250 g)
+- 2 pommes de terre moyennes (400 g), pelées et coupées en dés
+- 1 l de bouillon de légumes
+- 500 g de petits pois frais ou surgelés
+- Sel de mer et poivre blanc moulu
+
+**Fingers au fromage**
+
+- 120 g de fromage de chèvre frais
+- 1 cuil. à soupe de moutarde forte
+- 1 cuil. à café de feuilles de thym citron
+- 3 tranches de pain de 1,5 cm d'épaisseur, sans la croûte (150 g)
+- 1 œuf, légèrement battu
+- 5 cl de lait entier
+- 60 g de polenta instantanée
+- 20 cl d'huile de tournesol, pour la friture
+
+**Pour servir**
+
+- 120 g de crème fraîche
+- 60 g de feuilles d'oseille, ciselées (ou de roquette ou de cresson)
+
+## Déroulé de la recette
+
+1. Dans une casserole, faites chauffer à feu moyen l'huile d'olive et le beurre pour faire revenir les échalotes et l'ail pendant 4 à 5 min, jusqu'à ce qu'ils soient fondants. Ajoutez le poireau, poursuivez la cuisson 2 à 3 min, puis incorporez les pommes de terre. Mélangez et laissez cuire 5 min avant de verser le bouillon. Augmentez le feu pour atteindre l'ébullition, puis baissez à feu moyen et laissez mijoter 12 min, jusqu'à ce que les pommes de terre soient tendres. Ajoutez les petits pois, portez à ébullition et laissez mijoter 2 min. Hors du feu, assaisonnez avec 2 cuil. à café de sel et ½ cuil. à café de poivre, puis mixez la soupe pour obtenir une texture bien lisse. Passez la soupe dans un tamis fin, puis réservez.
+
+2. Préparez ensuite les fingers : mettez le fromage dans un bol et brassez-le pour obtenir une pâte lisse. Ajoutez la moutarde, le thym, ½ cuil. à café de sel et 1 pincée de poivre. Mélangez bien.
+
+3. Avec un rouleau à pâtisserie, aplatissez chaque tranche de pain en un rectangle de 10 cm de large sur 14 cm de long et 2 mm d'épaisseur. Coupez-les en deux dans la longueur et déposez 2 cuil. à café de fromage de chèvre sur chacun des rectangles. En commençant par un grand côté, roulez les rectangles en serrant bien, pour former une sorte de long cigare.
+
+4. Mélangez l'œuf et le lait dans une assiette creuse ; étalez la polenta dans une autre assiette creuse. Roulez un à un les fingers au fromage dans l'œuf battu, puis dans la polenta, puis mettez-les au moins 30 min au réfrigérateur pour les raffermir.
+
+5. Au moment de servir, faites chauffer l'huile de tournesol dans une grande poêle à feu vif pour y faire frire les fingers au fromage pendant 2 à 3 min, en les tournant sans cesse afin qu'ils dorent de tous côtés. Égouttez-les sur du papier absorbant, puis coupez-les en deux dans la longueur, en biais.
+
+6. Réchauffez la soupe et répartissez-la dans des bols. Ajoutez de la crème fraîche et un peu d'oseille. Servez aussitôt en proposant à part les fingers au fromage.
+
+## Noms ingrédients
+
+ail. échalotes. fromage de chèvre. oseille. petits pois. poireau. pomme de terre
+---
+
+# Soupe de topinambours, pesto noisettes-épinards
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+Chez NOPI, cette soupe est garnie de champignons shimeji marinés. La garniture proposée ici au pesto noisettes-épinards est très parfumée. Pour les champignons marinés : mélangez 15 cl de vinaigre de riz, 2 étoiles de badiane, 1 petit bâton de cannelle, 1 cuil. à café de poivre rose, ½ cuil. à café de clous de girofle, 2 cuil. à soupe de sucre, 10 cl d'eau et 1 cuil. à café de sel. Portez à ébullition, laissez frémir 5 min, laissez refroidir, puis ajoutez 200 g de shimeji.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 1 cuil. à soupe d'huile d'olive
+- 30 g de beurre doux
+- 2 échalotes, émincées (100 g)
+- 1 blanc de poireau, paré et émincé (120 g)
+- 2 gousses d'ail, écrasées
+- 1,2 kg de topinambours, pelés et coupés en fines tranches (950 g)
+- 25 cl de vin blanc sec
+- 50 cl de lait entier
+- 70 cl de bouillon de légumes
+- 10 g de ciboulette, finement hachée, pour servir
+- Sel de mer et poivre noir
+
+**Pesto noisettes-épinards**
+
+- 50 g de noisettes mondées
+- 1 cuil. à soupe d'huile de noisette
+- 2 cuil. à soupe d'huile d'olive + un peu pour servir
+- 30 g de pousses d'épinards
+- 10 g d'estragon
+- Le zeste finement râpé de 1 citron
+- 1 cuil. à café de vinaigre blanc
+- 1 petite gousse d'ail, écrasée
+- 1 à 2 piments thaïs verts, épépinés
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 150 °C.
+
+2. Commencez par préparer le pesto : étalez les noisettes sur une plaque de cuisson et enfournez pour 15 min. Sortez-les du four, laissez-les refroidir, puis hachez-les grossièrement. Réservez 30 g pour servir et mettez les 20 g restants dans le bol d'un robot de cuisine avec le reste des ingrédients du pesto et ¼ de cuil. à café de sel. Ajoutez 2 ½ cuil. à café d'eau et mixez pour obtenir une pâte lisse. Réservez.
+
+3. Dans une casserole, faites chauffer à feu vif l'huile d'olive et le beurre pour y faire revenir les échalotes pendant 3 min. Ajoutez les poireaux et l'ail, puis ½ cuil. à café de sel et du poivre. Laissez cuire 3 min, en veillant à ce que le mélange ne se colore pas. Ajoutez les topinambours et laissez-les dorer 12 min. Mouillez avec le vin, portez à frémissement, puis laissez cuire 3 à 4 min pour que le liquide réduise d'un quart. Versez alors le lait et le bouillon, portez à ébullition, écumez la surface, puis réduisez à feu moyen. Laissez mijoter 50 min, en remuant de temps en temps, jusqu'à ce que les topinambours soient fondants. Mixez la soupe pour obtenir une texture lisse.
+
+4. Répartissez la soupe dans des bols et garnissez de pesto, de ciboulette ciselée et de noisettes concassées. Ajoutez un filet d'huile et servez aussitôt.
+
+## Noms ingrédients
+
+ail. ciboulette. échalotes. épinards. noisettes. piment vert. poireau. topinambours. citrons
+---
+
+# Salade d'agrumes au piment vert, salsa croquante au gingembre
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+L'association des saveurs sucrée et amère, ainsi que le contraste de texture entre les fruits moelleux et la salsa croustillante composent une salade très originale. La recette fonctionne aussi très bien avec seulement deux variétés d'agrumes, à condition de conserver le poids total indiqué. Le gingembre confit et son sirop font des merveilles sur les salades — habituellement cantonné à la pâtisserie.
+
+## Ingrédients
+
+*Pour 8 personnes*
+
+- 2 oranges (500 g)
+- 1 pamplemousse à chair rouge (400 g)
+- 1 gros pomelo (1 kg)
+- 1 petit radicchio (ou une autre salade amère), paré et coupé en quartiers de 1 cm (130 g)
+- 1 endive, parée et coupée en 8 quartiers (90 g)
+- 50 g de jeunes feuilles de cresson
+
+**Salsa aux amandes**
+
+- 880 g d'amandes décortiquées, avec la peau
+- 5 piments verts, épépinés et émincés
+- 80 g de gingembre confit, en petits dés
+- 2 cuil. à soupe de graines de coriandre, grillées 1 min et légèrement écrasées
+- 1 cuil. à soupe de graines de fenouil, grillées 1 min et légèrement écrasées
+- 1 ½ cuil. à soupe de graines de pavot
+- 5 cl de vinaigre de xérès Valdespino
+- 7,5 cl d'huile d'olive
+- Sel de mer et poivre noir
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 150 °C.
+
+2. Commencez par préparer la salsa. Étalez les amandes sur une plaque de cuisson et faites-les griller 20 min au four. Sortez-les et laissez-les tiédir, puis hachez-les grossièrement. Mettez-les dans un bol avec le reste des ingrédients de la salsa, ajoutez ¼ de cuil. à café de sel et du poivre. Mélangez et réservez.
+
+3. Coupez le sommet et la base des oranges avant de les peler à vif avec un couteau à dents pour enlever l'écorce et la partie blanche. Découpez la chair en rondelles de 5 mm, puis recoupez chaque rondelle en quatre. Préparez de la même manière le pamplemousse, en coupant chaque tranche en six. Mettez le tout dans un saladier.
+
+4. Pelez le pomelo avec un couteau, puis prélevez les quartiers en éliminant les fines membranes. Recoupez chaque segment en morceaux de 2 cm et ajoutez-les dans le saladier. Incorporez la moitié de la salsa, ainsi que les quartiers d'endive et de radicchio. Remuez délicatement, présentez sur un plat de service, nappez avec le reste de la salsa et servez.
+
+## Noms ingrédients
+
+amandes. cresson. endives. gingembre confit. oranges. pamplemousse. piment vert. pomelo. radicchio
+---
+
+# Salade de choux de Bruxelles, pleurotes et œufs de caille
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+Des choux de Bruxelles crus ! Avec sa vinaigrette sucrée, ses champignons charnus et ses fines lamelles de fromage, voici une salade d'hiver aussi savoureuse qu'originale, et très photogénique avec sa présentation en forme de nid dans lequel se cachent les œufs de caille. Utilisez de préférence une mandoline pour émincer les choux de Bruxelles le plus finement possible. Chez NOPI, la salade est garnie d'œufs pochés — on peut aussi les faire cuire avec la coquille pour simplifier.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 200 g de pleurotes, nettoyés, puis coupés en deux
+- 6 cl d'huile d'olive + un peu pour servir
+- 1 ½ cuil. à soupe de jus de citron
+- 1 ½ cuil. à café de vinaigre de vin blanc
+- 1 ½ cuil. à café de sirop d'érable
+- 12 œufs de caille
+- 250 g de choux de Bruxelles, débarrassés des feuilles extérieures et émincés
+- 20 g de persil, finement haché
+- 60 g de manchego (ou de vieux pecorino), en fines lamelles taillées avec un épluche-légumes
+- Sel de mer et poivre noir
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 180 °C.
+
+2. Mélangez dans un récipient les pleurotes avec 1 cuil. à soupe d'huile d'olive, une pincée de sel et un peu de poivre. Étalez-les sur une plaque de cuisson tapissée de papier sulfurisé et enfournez pour 15 min, jusqu'à ce qu'ils soient légèrement dorés. Sortez-les du four et laissez-les refroidir.
+
+3. Pour préparer la vinaigrette, versez le reste d'huile dans un bol avec le jus de citron, le vinaigre et le sirop d'érable. Salez et poivrez. Mélangez bien et réservez.
+
+4. Portez de l'eau à ébullition dans une casserole. Préparez à côté un saladier rempli d'eau glacée. Dès que l'eau commence à bouillir, plongez délicatement les œufs de caille dedans, avec une écumoire. Laissez-les cuire pendant 2 min, puis plongez-les aussitôt dans le bol d'eau glacée pour stopper la cuisson. Laissez-les refroidir avant de les écaler, puis de les assaisonner avec du sel et du poivre.
+
+5. Disposez les choux de Bruxelles, le persil, le manchego et les pleurotes dans un saladier. Versez la vinaigrette et mélangez délicatement : il ne faut pas briser les lamelles de fromage. Répartissez la salade sur les assiettes, en formant au centre une sorte de petit nid pour y déposer les œufs de caille. Arrosez enfin d'un filet d'huile d'olive.
+
+## Noms ingrédients
+
+choux de Bruxelles. citrons. fromage de brebis. œufs de caille. persil. pleurotes
+---
+
+# Salade de pastèque, feta et olives marinées au citron confit
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+Deux options pour cette recette : la garnir avec 70 g d'écorce de pastèque en pickle (préparé à l'avance) pour une note astringente bienvenue, ou simplement acheter des olives toutes prêtes aux herbes et aux épices et y ajouter 5 cl d'huile d'olive pour simplifier. Les olives marinées peuvent infuser 24 h pour une saveur plus intense.
+
+## Ingrédients
+
+*Pour 4 à 6 personnes*
+
+- 1 petite pastèque (1,6 kg)
+
+**Olives marinées**
+
+- 5 cl d'huile d'olive
+- 1 piment rouge moyen, en fines rondelles
+- 1 petite gousse d'ail, pelée et légèrement écrasée
+- 3 brins de thym
+- 1 brin de romarin
+- 35 g d'écorce de citrons confits (soit 2 petits citrons), en julienne
+- 25 olives de Kalamata, dénoyautées (100 g)
+- Sel de mer et poivre noir
+
+**Pour servir**
+
+- 100 g de feta, en morceaux de 1 à 2 cm
+- 70 g de pickle d'écorce de pastèque, bien égoutté (facultatif)
+- 15 g de feuilles de basilic
+- 10 g de feuilles de menthe
+
+## Déroulé de la recette
+
+1. Préparez d'abord les olives : mettez l'huile dans une petite casserole avec le piment, l'ail, le thym, le romarin et le citron confit, ¼ de cuil. à café de sel et du poivre. Faites chauffer 4 à 5 min à feu moyen, puis retirez du feu. Laissez refroidir avant d'ajouter les olives. Vous pouvez utiliser aussitôt les olives, mais leur saveur sera plus intense si vous les laissez mariner 24 h.
+
+2. Coupez la pastèque en quatre et prélevez la chair. Découpez chaque quartier en tranches de 1 cm d'épaisseur et recoupez-les en triangles d'environ 6 cm de long et 3 cm de large à la base. Il vous faut 600 g de chair (éliminez les graines).
+
+3. Juste avant de servir, disposez les triangles de pastèque dans un grand plat ou sur des assiettes de service, puis garnissez-les avec la feta et le pickle (facultatif). Ajoutez les olives et leur marinade (jetez l'ail et le romarin, mais vous pouvez garder un peu de thym). Terminez avec les feuilles de basilic et de menthe grossièrement ciselées. Servez sans attendre.
+
+## Noms ingrédients
+
+ail. basilic. citron confit. feta. menthe. olives de Kalamata. pastèque. piment rouge
+---
+
+# Haricots verts au freekeh et au miso
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+Le freekeh à la saveur fumée est la signature de Yotam ; le miso riche en umami celle de Scully. Comme c'est souvent le cas avec les contrastes marqués, ils se marient parfaitement. Le nanami togarashi est un mélange d'épices japonaises — à défaut, utilisez du poivre de Cayenne.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 10 g de freekeh
+- 10 cl d'huile d'olive
+- 1 petit oignon, en dés (65 g)
+- 1 branche de céleri, en dés (45 g)
+- 2 gousses d'ail, écrasées
+- 1 feuille de laurier
+- 23 cl de bouillon de légumes
+- 4 belles échalotes, pelées et coupées en quartiers (250 g)
+- 1 cuil. à café de nanami togarashi (ou ½ cuil. à café de poivre de Cayenne)
+- 250 g de shiitakés, sans les pieds
+- 200 g de fèves edamame (fraîches ou surgelées), décortiquées
+- 350 g de haricots verts, équeutés
+- 10 g de feuilles d'estragon, ciselées
+- 35 g de pousses de mange-tout
+- 1 cuil. à soupe de graines de nigelle
+- 2 cuil. à soupe de jus de citron
+- Sel de mer et poivre noir
+
+**Sauce au miso**
+
+- 7 cl de saké
+- 8 cl de mirin
+- 1 cuil. à soupe de sucre en poudre
+- 40 g de pâte de miso blanc
+- Le zeste de 1 orange râpé
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 180 °C.
+
+2. Rincez le freekeh, puis faites-le tremper 5 min dans de l'eau froide, avant de l'égoutter.
+
+3. Dans une casserole moyenne, faites chauffer 2 cuil. à soupe d'huile d'olive pour y faire revenir l'oignon, le céleri, l'ail et le laurier pendant 8 min. Ajoutez le freekeh et versez le bouillon. Portez à ébullition, puis réduisez le feu, couvrez et laissez mijoter 15 à 20 min, jusqu'à ce que le freekeh soit cuit et tout le liquide absorbé. Retirez la feuille de laurier.
+
+4. Dans un récipient, mélangez les échalotes avec 3 cuil. à soupe d'huile d'olive, le nanami togarashi et ¼ de cuil. à café de sel. Étalez-les sur une plaque de cuisson tapissée de papier sulfurisé, enfournez et laissez cuire 30 min. Sortez-les du four et laissez-les refroidir.
+
+5. Mélangez les champignons avec le reste d'huile, salez et poivrez. Étalez-les sur une plaque de cuisson tapissée de papier sulfurisé et enfournez pour 20 min. Quand ils sont assez froids pour être manipulés, découpez-les en tranches de 1 cm d'épaisseur.
+
+6. Portez de l'eau salée à ébullition dans une petite casserole pour y faire blanchir les fèves pendant 2 min. Sortez-les avec une écumoire, rafraîchissez-les à l'eau froide, puis laissez-les sécher complètement. Faites de même avec les haricots verts en les laissant cuire 4 min, égouttez-les, puis rafraîchissez-les et laissez-les sécher.
+
+7. Préparez la sauce : mettez dans une casserole le saké, le mirin et le sucre, puis faites chauffer à feu moyen jusqu'au point de frémissement, en remuant pour dissoudre le sucre. Laissez ensuite réduire pendant 8 min : il doit rester 10 cl de liquide dans la casserole. Incorporez alors le miso, laissez bouillir pendant 2 min pour obtenir une sauce épaisse et caramélisée, puis retirez la casserole du feu. Incorporez le zeste d'orange et laissez refroidir.
+
+8. Mélangez dans un saladier le freekeh, les échalotes, les champignons, les fèves, les haricots, la sauce et ½ cuil. à café de sel. Remuez, puis ajoutez l'estragon, les pousses de mange-tout, les graines de nigelle et le jus de citron. Mélangez délicatement avant de disposer la salade sur un plat de service ou dans les assiettes. Servez sans attendre.
+
+## Noms ingrédients
+
+ail. céleri. échalotes. édamamé. fèves. haricots verts. citrons. nanami togarashi. oignons. pousses de mange-tout. champignons shiitaké. oranges
+---
+
+# Salade de tomates aux pignons de pin et mascarpone au wasabi
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+La vedette ici, c'est la tomate — essayez de dénicher le plus de variétés différentes : vertes, rouges, noires, jaunes, géantes ou toutes petites, en forme de poire ou de cerise, etc. Variez aussi les découpes. Le mascarpone au wasabi et aux herbes, les échalotes marinées, les tomates et les pignons peuvent tous être préparés à l'avance.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 250 g de mascarpone
+- 1 cuil. à soupe de pâte de wasabi
+- 10 g de ciboulette, ciselée
+- 10 g d'estragon, ciselé
+- 1 oignon vert, en tranches fines (20 g)
+- 2 échalotes, émincées en biseau (100 g)
+- 2 cuil. à soupe de vinaigre de xérès au Pedro Ximénez (ou un autre cépage)
+- 1 cuil. à soupe d'huile d'olive
+- 1 kg de tomates mélangées, coupées en tranches ou en quartiers
+- 20 g de pignons de pin, grillés
+- 5 g de basilic (si possible, mélangez plusieurs variétés)
+- Sel de mer et poivre noir
+
+## Déroulé de la recette
+
+1. Mettez dans un bol le mascarpone, le wasabi, la ciboulette, l'estragon et l'oignon. Salez (½ cuil. à café) et poivrez. Mélangez bien et conservez au réfrigérateur jusqu'à utilisation.
+
+2. Mettez dans un autre bol les échalotes, le vinaigre, l'huile et ½ cuil. à café de sel. Mélangez bien et conservez au réfrigérateur jusqu'à utilisation.
+
+3. Pour servir, répartissez le mascarpone sur les assiettes en l'étalant bien. Disposez les tomates par-dessus, avant de garnir ces dernières avec des échalotes marinées. Ajoutez les pignons de pin et le basilic ciselé. Salez et poivrez juste avant de servir.
+
+## Noms ingrédients
+
+basilic. ciboulette. échalotes. mascarpone. oignons verts. pistaches. tomates en conserve
+---
+
+# Salade bicolore de chou-fleur, raisins secs, ricotta et câpres
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+D'une excursion au marché de Berkeley Bowl en Californie, Yotam a rapporté l'image de monticules de choux-fleurs jaunes et violets qui ont inspiré cette recette. On peut associer le classique chou-fleur blanc au chou romanesco si on ne trouve pas les variétés colorées. Les câpres frites qui s'ouvrent comme des fleurs sont particulièrement décoratives.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 2 gros choux-fleurs (1 blanc et 1 violet ou 1 jaune, ou 2 blancs, 1,4 kg), parés et cassés en petites fleurettes (850 g)
+- 7,5 cl d'huile d'olive
+- 1 chou romanesco moyen (800 g), paré et cassé en petites fleurettes (450 g)
+- 100 g de câpres, rincées et bien égouttées
+- 400 g de ricotta
+- 150 g de raisins secs
+- 10 cl de vinaigre moscatel (ou un autre vinaigre de vin blanc de qualité)
+- 40 g de moutarde à l'ancienne
+- 10 cl environ d'huile de tournesol, pour la friture
+- 60 g de pignons de pin, grillés
+- Sel de mer et poivre noir
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 210 °C.
+
+2. Assaisonnez les fleurettes de choux-fleurs avec 2 cuil. à soupe d'huile d'olive, 1 cuil. à café de sel et du poivre. Disposez-les sur une plaque de cuisson tapissée de papier sulfurisé et enfournez pour 25 min, jusqu'à ce qu'elles soient tendres et brun doré. Sortez-les du four et laissez-les refroidir.
+
+3. Dans une casserole, portez à ébullition de l'eau salée pour y faire blanchir le chou romanesco pendant 5 min. Égouttez, rincez sous l'eau froide et laissez sécher.
+
+4. Hachez finement la moitié des câpres et mettez-les dans un bol avec la ricotta, 1 cuil. à soupe d'huile d'olive, ½ cuil. à café de sel et du poivre. Mélangez et réservez au réfrigérateur.
+
+5. Mettez les raisins secs dans une petite casserole avec 7 cl de vinaigre et 6 cl d'eau. Portez à ébullition, puis laissez frémir 8 min pour que le liquide s'évapore et que les grains de raisin gonflent. Retirez du feu et laissez refroidir.
+
+6. Versez le reste du vinaigre dans un bol, ajoutez la moutarde, salez (½ cuil. à café) et poivrez. Mélangez, puis incorporez 2 cuil. à soupe d'huile d'olive et 1 ½ cuil. à soupe d'eau pour émulsionner la préparation. Réservez.
+
+7. Versez de l'huile dans une sauteuse sur une hauteur de 5 mm, puis faites-la chauffer à feu moyen. Quand elle est chaude, jetez les câpres entières dedans. Laissez-les frire 1 min, jusqu'à ce qu'elles s'ouvrent comme des fleurs et deviennent bien dorées et croustillantes. Sortez-les avec une écumoire et égouttez-les sur du papier absorbant.
+
+8. Répartissez la ricotta dans les assiettes ou étalez-la dans un plat de service, puis répartissez les fleurettes de choux-fleurs et de romanesco par-dessus. Nappez de sauce et garnissez de pignons de pin, de grains de raisin et de câpres. Servez sans attendre.
+
+## Noms ingrédients
+
+câpres. chou romanesco. chou-fleur. pistaches. raisins secs. ricotta
+---
+
+# Salade de lentilles aux échalotes marinées et croûtons au berbéré
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+Le berbéré est un mélange d'épices éthiopien et érythréen dont les saveurs dominantes sont le piment, l'ail et le gingembre. À défaut, remplacez-le par du paprika fumé fort. Les croûtons se gardent jusqu'à 5 jours dans un récipient hermétique. Cette recette consistante convient pour un déjeuner léger ou dans un assortiment de mezze.
+
+## Ingrédients
+
+*Pour 6 à 8 personnes*
+
+- 300 g de lentilles du Puy
+- 8 échalotes, émincées (300 g)
+- 7,5 cl d'huile d'olive
+- 2 cuil. à soupe de vinaigre de xérès Valdespino
+- 150 g de pain au levain sans la croûte, en morceaux de 2 cm
+- 1 ½ cuil. à café de berbéré (ou 1 cuil. à café de paprika fumé fort)
+- 25 g de feuilles de coriandre, grossièrement ciselées
+- 20 g de roquette
+- 1 betterave dorée ou violette, lavée et coupée en tranches de 2 à 3 mm d'épaisseur (50 g)
+- ½ radis noir, lavé et coupé en tranches de 2 à 3 mm (80 g, facultatif)
+- 10 petits radis rouges, lavés et coupés en tranches de 2 à 3 mm (80 g)
+- Sel de mer et poivre noir
+
+**Assaisonnement**
+
+- 1 cuil. à soupe de vinaigre de xérès Valdespino
+- 1 cuil. à soupe de jus de citron
+- ½ cuil. à café de moutarde forte
+- ½ cuil. à café de miel de fleurs d'oranger
+- 3 cuil. à soupe d'huile d'olive
+
+## Déroulé de la recette
+
+1. Rincez les lentilles et mettez-les dans une casserole moyenne. Couvrez-les d'eau, portez à ébullition et laissez cuire 15 à 20 min à feu moyen : elles doivent rester un peu fermes. Égouttez, rincez à l'eau froide et laissez sécher.
+
+2. Préchauffez le four à 180 °C.
+
+3. Mettez les échalotes dans un saladier avec 3 cuil. à soupe d'huile d'olive et ½ cuil. à café de sel. Étalez-les sur une plaque tapissée de papier sulfurisé et enfournez pour 12 min, jusqu'à ce qu'elles soient tendres et à peine dorées. Sortez-les du four, arrosez-les de vinaigre de xérès, mélangez et laissez refroidir.
+
+4. Placez les morceaux de pain dans un bol avec l'huile d'olive restante et le berbéré. Mélangez, puis disposez le pain sur une plaque tapissée de papier sulfurisé et enfournez pour 12 à 15 min. Vous devez obtenir des croûtons croustillants et bien dorés. Laissez refroidir.
+
+5. Préparez l'assaisonnement en mélangeant tous les ingrédients de la vinaigrette dans un petit bol. Salez (1 ½ cuil. à café) et poivrez. Mélangez bien, puis réservez.
+
+6. Juste avant de servir, mettez les lentilles et les échalotes marinées dans un saladier avec la coriandre, la roquette, la betterave, les tranches de radis et la moitié des croûtons. Versez la vinaigrette, mélangez, transférez sur un plat de service, garnissez avec le reste des croûtons et servez aussitôt.
+
+## Noms ingrédients
+
+betteraves. coriandre. échalotes. citrons. lentilles du Puy. miel. pain au levain. radis noir. radis rouges. roquette
+---
+
+# Salade de quinoa rouge et cresson
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+Chez NOPI, cette salade accompagnait à l'origine une terrine de crabe servie avec des œufs de caille. Ses saveurs acides se marient bien avec la plupart des poissons et fruits de mer ou de la viande grillée. Le quinoa noir fonctionne aussi très bien dans cette recette. Si vous ne trouvez ni quinoa rouge ni noir, le quinoa blanc conviendra — ajustez le temps de cuisson, car il cuit plus vite.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 5 petites échalotes, en rondelles de 1 cm d'épaisseur (75 g)
+- ½ cuil. à café de sucre en poudre
+- 1 cuil. à soupe de sumac
+- 3 cuil. à soupe de vinaigre de vin rouge
+- 200 g de quinoa rouge, rincé
+- 2 cuil. à soupe de jus de citron
+- 1 cuil. à soupe de moutarde forte
+- 2 cuil. à soupe d'huile d'olive
+- 150 g de jeunes feuilles de cresson, tiges dures retirées
+- Gros sel de mer et poivre noir
+
+## Déroulé de la recette
+
+1. Mettez les échalotes dans un bol avec 1 cuil. à café de sel. Mélangez, puis laissez reposer 5 min avant d'ajouter le sucre, le sumac et le vinaigre. Mélangez à nouveau et laissez infuser au moins 30 min.
+
+2. Portez de l'eau à ébullition dans une casserole, puis jetez-y le quinoa. Après la reprise de l'ébullition, comptez 11 min de cuisson, puis égouttez le quinoa et rafraîchissez-le sous l'eau froide. Laissez-le s'égoutter ensuite complètement.
+
+3. Pour préparer la vinaigrette, mettez dans un bol le jus de citron, la moutarde et 1 cuil. à café de sel. Poivrez, puis incorporez progressivement l'huile en remuant sans cesse.
+
+4. Égouttez les échalotes en gardant 1 cuil. à soupe de la marinade et mettez-les dans un saladier avec le quinoa et le cresson. Ajoutez la marinade réservée, puis la vinaigrette. Mélangez délicatement et servez.
+
+## Noms ingrédients
+
+cresson. échalotes. citrons. quinoa rouge
+---
+
+# Salade de radis noir, endives rouges et pommes
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+Fraîche et croquante, avec un mélange de saveurs douces et piquantes, cette salade peut être servie en entrée ou accompagner des plats plus riches. Elle offre un joli contraste de couleurs — le rouge de la chicorée, le noir du radis et le blanc des pommes. Sa variante monochrome (navet blanc à la place du radis noir, endives blanches) présente aussi des saveurs et textures variées.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 2 petites pommes cox ou Pink Lady (250 g)
+- 6 endives rouges (ou blanches), parées et séparées en feuilles (300 g)
+- 200 g de radis noir (ou de navet blanc), en tranches de 1 à 2 mm d'épaisseur (à la mandoline)
+- 15 g de persil, ciselé
+
+**Assaisonnement**
+
+- 15 cl de vinaigre de cidre
+- 2 cuil. à soupe de miel liquide
+- 3 cuil. à soupe de jus de citron
+- 2 petits bâtons de cannelle
+- 3 cuil. à soupe d'huile d'olive
+- Sel de mer et poivre noir
+
+## Déroulé de la recette
+
+1. Commencez par préparer l'assaisonnement : mettez dans une petite casserole le vinaigre, le miel, le jus de citron et la cannelle, portez à ébullition, puis réduisez à feu moyen et laissez réduire pendant 10 à 15 min, pour obtenir la consistance d'un sirop (il doit rester 5 cl de liquide). Laissez refroidir la préparation avant de retirer la cannelle, puis incorporez l'huile en fouettant sans cesse. Salez (⅓ de cuil. à café) et poivrez.
+
+2. Au dernier moment, coupez les pommes en quartiers, épépinez-les, puis détaillez-les en fines lamelles (1 à 2 mm d'épaisseur). Déposez ces dernières dans un saladier avant d'ajouter les feuilles d'endives, le radis et le persil. Versez l'assaisonnement, mélangez et servez.
+
+## Noms ingrédients
+
+endives rouges. citrons. miel. persil. pomme. radis noir
+---
+
+# Pommes de terre nouvelles aux câpres, au poivre rose et à l'ail rôti
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+Cet accompagnement mise sur les saveurs marquées — l'ail rôti, les câprons (baies du câprier vendues en saumure avec leur queue, plus douces que les câpres et légèrement citronnées), et le poivre rose. Les câprons peuvent être remplacés par de simples câpres.
+
+## Ingrédients
+
+*Pour 4 à 6 personnes*
+
+- 1 tête d'ail, gousses séparées et pelées
+- 7,5 cl d'huile d'olive
+- 1 feuille de laurier
+- 10 g de thym frais
+- 10 g de romarin frais
+- 1 kg de pommes de terre nouvelles, avec la peau
+- 20 g de brins de menthe + 10 g de feuilles ciselées
+- 60 g de câprons, débarrassés de leur queue et coupés en deux pour les plus gros (ou 60 g de câpres en saumure, rincées)
+- 25 g de beurre doux
+- Le zeste de 1 citron, finement râpé
+- 2 cuil. à soupe de jus de citron
+- 20 g de feuilles de persil, ciselées
+- 2 cuil. à café de poivre rose, légèrement écrasé
+- Sel de mer
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 180 °C.
+
+2. Mettez les gousses d'ail, l'huile d'olive, le laurier, la moitié du thym et du romarin dans un plat allant au four. Enfournez pour 15 à 20 min. Badigeonnez une ou deux fois l'ail avec l'huile pendant la cuisson. Sortez-le du four, puis transférez l'huile dans une grande poêle. Réservez les gousses d'ail, mais jetez le thym et le romarin.
+
+3. Mettez les pommes de terre dans une grande casserole avec les brins de menthe et le reste du thym et du romarin. Ajoutez 1 cuil. à soupe de sel, couvrez d'eau, portez à ébullition, puis laissez cuire 15 min. Égouttez les pommes de terre (jetez la menthe, le romarin et le thym) avant de les couper en deux.
+
+4. Faites chauffer à feu vif l'huile parfumée à l'ail et laissez revenir les pommes de terre pendant 8 à 9 min, en remuant de temps en temps : elles doivent être bien dorées et commencer à se défaire. Ajoutez les câprons (ou les câpres), l'ail rôti et le beurre, poursuivez la cuisson pendant 1 min, puis incorporez le zeste et le jus de citron, le persil, les feuilles de menthe, ½ cuil. à café de sel et le poivre rose. Mélangez délicatement, faites cuire encore 1 min et servez sans attendre.
+
+## Noms ingrédients
+
+ail. câpres. citrons. menthe. persil. pomme de terre
+---
+
+# Gratin suédois fondant
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+Ce gratin très riche peut aussi bien accompagner des plats puissants comme le confit de canard ou la selle d'agneau, ou constituer l'attraction principale dans l'assiette. Le caerphilly est un fromage de vache à pâte pressée du sud du Pays de Galles, à texture friable et goût acidulé — remplaçable par du cheddar ou une tomme de vache. Peut être préparé à l'avance et mis au four une demi-heure avant de servir.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 140 g de beurre doux
+- 1 gros rutabaga, pelé et coupé en dés de 1 cm (1 kg)
+- 1 chou de Savoie, en fines lanières (320 g)
+- 15 cl de bouillon de légumes
+- 120 g de caerphilly (ou de cheddar), grossièrement émietté
+- 30 cl de double crème (45 % de MG)
+- Sel de mer et poivre noir
+
+**Chapelure aux herbes**
+
+- 25 g de chapelure fraîche
+- ½ cuil. à soupe de feuilles de thym
+- 1 cuil. à soupe de feuilles d'estragon, hachées
+- Le zeste finement râpé de ½ petit citron
+
+## Déroulé de la recette
+
+1. Mettez tous les ingrédients de la chapelure aux herbes dans un bol. Mélangez bien et réservez.
+
+2. Faites fondre à feu moyen 100 g de beurre dans une sauteuse. Ajoutez le rutabaga, salez (½ cuil. à café) et poivrez. Baissez le feu au minimum et laissez cuire 1 h sans couvrir, en arrosant régulièrement le rutabaga de beurre et en le retournant deux fois. Il doit être fondant et caramélisé. Retirez-le de la sauteuse et égouttez-le.
+
+3. Remettez la sauteuse sur le feu avec le reste du beurre. Ajoutez le chou, salez (½ cuil. à café) et poivrez, puis versez le bouillon. Laissez cuire 10 à 15 min : le chou doit être fondant et il ne doit plus rester que 3 cuil. à soupe de bouillon dans la sauteuse. Égouttez le chou dans une passoire.
+
+4. Préchauffez le four à 210 °C.
+
+5. Étalez le chou dans un plat à gratin rectangulaire (18 cm × 25 cm) ou dans des ramequins individuels. Ajoutez la moitié du fromage émietté, puis les morceaux de rutabaga. Nappez de double crème, puis recouvrez avec le reste du fromage. Enfournez pour 15 min avant de couvrir le gratin de chapelure aux herbes. Remettez-le au four pour 10 à 15 min, puis terminez par 2 min sous le gril pour que la chapelure soit bien dorée. Servez aussitôt.
+
+## Noms ingrédients
+
+fromage de brebis. chou de Savoie. rutabaga. citrons
+---
+
+# Mini-carottes au parmesan, vinaigrette à la truffe
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+Chez NOPI, ce plat est préparé avec de la boule de Belp, un fromage de vache suisse affiné 13 semaines, enveloppé d'une poussière d'ail, de poivre et de sel — à remplacer par du pecorino ou du parmesan. On peut aussi utiliser des carottes ordinaires détaillées en bâtonnets. C'est un plat qui joue avec les couleurs : essayez de trouver des carottes orange, jaunes et bordeaux. Peut aussi bien être servi en entrée qu'en accompagnement.
+
+## Ingrédients
+
+*Pour 4 à 6 personnes*
+
+- 1 kg de mini-carottes, parées et rincées
+- 80 g de parmesan (ou de boule de Belp), émietté en petits morceaux
+- 15 g de feuilles d'estragon
+- 10 g de persil, grossièrement haché
+- 2 cuil. à café de graines de nigelle
+
+**Vinaigrette à la truffe**
+
+- 1 cuil. à café de moutarde forte
+- 1 ½ cuil. à soupe de jus de citron
+- 2 cuil. à soupe d'huile d'olive
+- ½ cuil. à soupe d'huile de truffe
+- Sel de mer
+
+## Déroulé de la recette
+
+1. Commencez par la vinaigrette : mettez dans un bol la moutarde, le jus de citron et ½ cuil. à café de sel. Fouettez les ingrédients en incorporant progressivement les deux huiles.
+
+2. Portez de l'eau salée à ébullition dans une grande casserole, plongez-y les carottes et laissez-les cuire 4 min : elles doivent rester un peu croquantes.
+
+3. Rafraîchissez-les sous l'eau froide (pour arrêter la cuisson), puis laissez-les sécher avant de les transférer dans un saladier. Ajoutez le fromage, les herbes, les graines de nigelle et ½ cuil. à café de sel. Arrosez de vinaigrette, mélangez et servez.
+
+## Noms ingrédients
+
+carottes. citrons. parmesan. persil
+---
+
+# Topinambours écrasés à l'estragon
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+Les topinambours ont des arômes de champignon et de noisette. Leur saison dure d'octobre à mars. Leur épluchage est une vraie corvée vu leur forme tarabiscotée — le résultat en vaut la peine.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 600 g de topinambours, épluchés et coupés en dés de 1 cm (420 g), mis à tremper dans de l'eau froide avec le jus de ½ citron pour éviter qu'ils noircissent
+- 2 cuil. à soupe d'huile d'olive
+- 4 petites échalotes, en tranches fines (60 g)
+- 10 cl de bouillon de légumes
+- 5 gousses d'ail, écrasées
+- 2 cuil. à soupe de vin blanc sec
+- 2 cuil. à soupe de jus de citron
+- 10 g de feuilles d'estragon, grossièrement ciselées
+- 5 g de feuilles de persil, finement ciselées
+- Sel de mer et poivre noir
+
+## Déroulé de la recette
+
+1. Égouttez les topinambours et séchez-les dans un torchon propre. Mettez l'huile d'olive à chauffer à feu moyen dans une casserole moyenne et faites revenir les topinambours pendant 8 min : ils doivent commencer à caraméliser, tout en restant un peu croquants. Ajoutez les échalotes, le bouillon et ¾ de cuil. à café de sel. Poursuivez la cuisson encore 8 min. Baissez le feu et ajoutez l'ail, remuez pendant 1 min, puis versez le vin. Laissez cuire 2 min avant d'ajouter le jus de citron, puis poursuivez la cuisson 1 min. Hors du feu, incorporez les herbes et poivrez généreusement. Écrasez grossièrement les topinambours avec une fourchette et servez sans attendre.
+
+## Noms ingrédients
+
+ail. échalotes. citrons. persil. topinambours
+---
+
+# Riz à la cardamome et aux clous de girofle
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+Cette recette accompagnera aussi bien des plats de viande ou de poisson que des plats végétariens. Par exemple, des boulettes d'agneau, des côtes d'agneau, des foies de volaille, de la sole, du tofu ou des galettes de pois chiches.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 1 cuil. à soupe d'huile d'olive
+- 10 clous de girofle entiers
+- 10 gousses de cardamome, légèrement écrasées
+- 250 g de riz basmati, bien rincé
+- 43 cl d'eau bouillante
+- Sel de mer et poivre noir
+
+## Déroulé de la recette
+
+1. Mettez l'huile et les épices dans une casserole moyenne, puis faites-les chauffer à feu vif pendant 2 min, en remuant constamment. Quand la cardamome commence à se colorer, ajoutez le riz, puis salez (1 ¼ de cuil. à café) et poivrez. Versez l'eau bouillante, puis réduisez le feu au minimum. Remuez, couvrez et laissez cuire 12 min. Retirez la casserole du feu, découvrez-la pour placer aussitôt un torchon propre dessus, puis remettez immédiatement le couvercle et laissez reposer 10 min. Aérez le riz à la fourchette et servez.
+
+## Noms ingrédients
+
+
+---
+
+# Farinata
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+D'origine italienne, cette galette de farine de pois chiche est délicieuse. D'une belle taille, une seule suffit pour deux personnes. Elle est l'accompagnement idéal pour les gambas au pastis, le cabillaud au lait de coco, la purée de céleri-rave, le tofu au cinq-épices, l'achar de haricot kilomètre ou encore le dhal aux aubergines. Pour cette recette, choisissez une très bonne huile d'olive : elle fera toute la différence.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 200 g de farine de pois chiche
+- 60 cl d'huile d'olive
+- Sel de mer
+
+## Déroulé de la recette
+
+1. Mettez la farine dans un saladier, puis incorporez progressivement 45 cl d'eau, en remuant sans cesse pour bien mélanger. Laissez la pâte reposer 20 min.
+
+2. Préchauffez le four à 240 °C.
+
+3. Incorporez à la pâte 2 cuil. à soupe d'huile d'olive et 1 cuil. à café de sel.
+
+4. Choisissez une poêle à fond épais allant au four de 25 cm de diamètre et faites-la chauffer à feu vif avec 1 cuil. à soupe d'huile. Quand l'huile commence à fumer, versez la moitié de la pâte pour former une galette de 4 mm d'épaisseur. Laissez cuire 30 s sur le feu. Quand des bulles commencent à se former, glissez la poêle dans le four pour 10 min, jusqu'à ce que la farinata soit bien cuite : elle doit être dorée et croustillante des deux côtés, mais souple à cœur. Sortez-la du four et décollez-la avec une spatule pour la déposer sur une assiette. Gardez-la au chaud pendant que vous faites cuire la seconde farinata.
+
+## Noms ingrédients
+
+
+---
+
+# Riz gluant au sésame
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+Ce riz est délicieux avec les plats de poisson (daurade, grondin ou maquereau) mais aussi savoureux avec de l'agneau ou du tofu. Astuce de la mère de Scully pour éviter la corvée de décapage de la casserole si le riz colle au fond : sortez le riz et versez aussitôt de l'eau bouillante dans la casserole, puis remettez-la sur le feu vif pendant 5 min. Le riz se décolle tout seul !
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 2 ½ cuil. à café de graines de sésame blanc et de sésame noir (ou seulement du sésame blanc)
+- 240 g de riz gluant thaï, mis à tremper au moins 1 h et jusqu'à 12 h, puis bien égoutté
+- ½ cuil. à café d'huile de sésame
+- Sauce soja (facultatif)
+- Sel de mer
+
+## Déroulé de la recette
+
+1. Dans une petite poêle, faites griller à sec le sésame à feu moyen pendant 3 à 4 min, pour qu'il se colore. Retirez du feu et réservez.
+
+2. Versez le riz dans une casserole moyenne. Versez 40 cl d'eau, ajoutez ½ cuil. à café de sel et mettez à cuire à feu vif. Quand l'eau commence à bouillir, baissez le feu, couvrez et laissez frémir pendant 15 min.
+
+3. Retirez la casserole du feu, ajoutez les graines de sésame et l'huile, puis aérez les grains à la fourchette. Couvrez de nouveau le riz, puis laissez-le reposer 5 min. Arrosez de sauce soja (facultatif) et servez.
+
+## Noms ingrédients
+
+
+---
+
+# Purée de haricots blancs au romarin et à l'ail
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+Une alternative très réconfortante à la purée de pommes de terre. Cette recette se marie bien avec des plats généreux comme la selle d'agneau, le confit de canard, les saint-jacques ou les crabes aux gombos. On peut aussi la servir en dip ou sur du pain grillé pour une collation improvisée.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 400 g de haricots secs (faites-les tremper la veille dans de l'eau froide avec 1 cuil. à café de bicarbonate)
+- 6 cl d'huile d'olive + un peu pour servir
+- 2 tiges de romarin
+- 1 gousse d'ail, écrasée
+- Sel de mer et poivre noir
+
+## Déroulé de la recette
+
+1. Égouttez les haricots, puis mettez-les dans une casserole avec 2 l d'eau. Portez à ébullition, puis laissez frémir doucement entre 20 min et 1 h : le temps de cuisson peut beaucoup varier selon la qualité des haricots. Quand les haricots sont fondants, égouttez-les en réservant le liquide de cuisson.
+
+2. Mettez l'huile d'olive et le romarin dans une petite casserole et faites chauffer le mélange à feu moyen pendant 3 à 4 min, jusqu'à ce que le parfum du romarin se développe. Retirez la casserole du feu et jetez le romarin.
+
+3. Mettez les haricots dans le bol du robot avec l'huile infusée, l'ail, 2 cuil. à café de sel et du poivre. Mixez le tout en incorporant progressivement environ 15 cl de liquide de cuisson des haricots. Si vous voulez une purée plus fluide, ajoutez un peu plus de liquide. Continuez à mixer 1 min pour obtenir une texture lisse. Transférez dans un saladier, arrosez d'un filet d'huile et servez chaud.
+
+## Noms ingrédients
+
+ail. haricots blancs
+---
+
+# Supions sautés, tarator aux amandes et salsa au citron vert
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Poisson
+
+## Commentaire
+
+Le tarator est une sauce épaisse à base de pain, d'ail rôti et d'amandes. Les supions (petits calamars) peuvent être remplacés par de plus grands calamars découpés en anneaux. La pâte épicée qui enrobe les supions après cuisson est très parfumée — laissez-les infuser quelques minutes dedans pendant que vous poursuivez la cuisson.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 600 g de supions (petits calamars), nettoyés
+- 2 cuil. à soupe d'huile d'olive
+- Sel de mer
+
+**Tarator**
+
+- 75 g de pain au levain sans croûte, en morceaux
+- 12 cl de lait entier
+- 1 belle tête d'ail
+- 7,5 cl d'huile d'olive
+- 90 g d'amandes mondées, grillées
+- 2 cuil. à soupe de vinaigre de xérès
+
+**Pâte épicée**
+
+- ¼ de cuil. à café de chacune de ces épices : graines de cumin, graines de coriandre, graines de fenouil, flocons de piments séchés, poivre noir, cardamome moulue
+- 1 ½ cuil. à café de sucre en poudre
+- 1 belle gousse d'ail, écrasée
+- 1 morceau de gingembre de 3 cm, pelé et haché (20 g)
+- 2 cuil. à café de pâte de tamarin
+- 2 cuil. à café d'huile de tournesol
+
+**Salsa au citron vert**
+
+- 3 citrons verts
+- 1 cuil. à soupe d'huile d'olive
+- 1 piment rouge, épépiné et haché
+- 10 g de feuilles de coriandre, hachées
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 180 °C.
+
+2. Pour préparer le tarator, mettez le pain avec le lait dans un récipient et réservez 30 min. Coupez et éliminez le sommet de la tête d'ail, puis placez cette dernière sur une feuille de papier d'aluminium, arrosez-la avec 1 cuil. à soupe d'huile d'olive, assaisonnez avec ¼ de cuil. à café de sel, puis enveloppez-la bien et faites-la rôtir 50 min au four, jusqu'à ce que la chair soit fondante. Pressez sur les gousses pour récupérer la chair, mettez-la dans le bol du robot avec la panade (pain et lait), le reste d'huile d'olive, les amandes, le vinaigre et 1 cuil. à café de sel. Mixez en pâte grossière, en versant progressivement 10 cl d'eau. Transférez le tarator dans une petite casserole (vous le réchaufferez juste avant de servir).
+
+3. Confectionnez la pâte épicée : faites griller à sec, dans une petite poêle, le cumin, la coriandre, les graines de fenouil, les piments séchés et le poivre, jusqu'à ce que les arômes se développent. Mettez-les dans un moulin à épices ou dans un mortier, ajoutez la cardamome, ¼ de cuil. à café de sel et le sucre, puis réduisez le tout en poudre. Incorporez progressivement l'ail, le gingembre, le tamarin et un peu d'huile, jusqu'à obtenir la consistance d'une pâte. Transférez dans un grand bol et réservez.
+
+4. Pour préparer la salsa, coupez les extrémités des citrons verts, puis pelez les fruits à vif pour éliminer l'écorce et le mésocarpe blanc. En travaillant au-dessus d'un bol, coupez entre les membranes pour dégager les quartiers. Faites ensuite égoutter ces derniers dans un tamis, puis transférez-les dans un bol, avec ½ cuil. à soupe de leur jus et le reste des ingrédients. Mélangez bien et réservez.
+
+5. Peu avant de servir, mettez les encornets dans un bol avec l'huile d'olive et ¾ de cuil. à café de sel. Mélangez bien.
+
+6. Préchauffez un gril en fonte à feu vif et saisissez les supions (procédez en quatre fois) pendant 2 à 3 min, en les retournant une fois, jusqu'à ce qu'ils soient à point. Quand ils sont cuits, mettez-les dans le bol contenant la pâte d'épices et mélangez. Laissez infuser pendant que vous poursuivez la cuisson des supions.
+
+7. Réchauffez le tarator, puis répartissez-le dans des assiettes creuses. Garnissez de supions sautés et de salsa de citron vert.
+
+## Noms ingrédients
+
+ail. amandes. citrons verts. coriandre. gingembre. pain au levain. tamarin. piment rouge. piment séché. supions
+---
+
+# Saint-Jacques grillées au daïkon mariné et confiture de piment
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Poisson
+
+## Commentaire
+
+La confiture de piment est addictive — la mère de Scully et neuf de ses tantes en ont chacune leur version. Elle peut être remplacée par un mélange plus simple de sauce au piment doux, d'huile de tournesol, de nam pla, de jus de citron vert et de coriandre fraîche. La confiture se conserve un mois au réfrigérateur et est polyvalente : avec de la viande froide, en tartine, ou simplement avec du riz nature. Les quantités données permettent de confectionner un bocal entier.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 1 pomme granny smith, sans le cœur et coupée en tranches très fines (140 g), puis mises à tremper dans de l'eau avec 1 cuil. à café de jus de citron
+- 6 radis ronds rouges, émincés (50 g)
+- 30 g de jeunes feuilles de bette rouge (ou de mâche)
+- 3 cuil. à soupe d'huile d'olive
+- 12 noix de saint-jacques (540 g)
+
+**Confiture de piment**
+
+- 50 cl d'huile de tournesol
+- 30 échalotes thaï, pelées et émincées (200 g)
+- 24 gousses d'ail, pelées et émincées (80 g)
+- 20 g de galangal, pelé et émincé
+- 10 g de piment rouge séché, épépiné
+- 50 g de crevettes séchées, rincées et très bien séchées
+- 100 g de sucre de palme, grossièrement râpé
+- 1 ½ cuil. à soupe de nam pla (sauce de poisson thaïe) ou de nuoc-mâm
+- 8 cl d'eau de tamarin
+
+**Daïkon mariné**
+
+- 15 cl de vinaigre de riz
+- 2 cuil. à soupe de sucre en poudre
+- 2 cuil. à café de poivre rose
+- 3 clous de girofle, légèrement écrasés
+- 1 piment rouge, épépiné et haché
+- ½ daïkon, pelé et détaillé en julienne (160 g)
+- Sel de mer et poivre noir
+
+## Déroulé de la recette
+
+1. Préparez la confiture de piment : faites chauffer l'huile de tournesol à feu vif dans une grande casserole pour y laisser frire doucement les échalotes pendant 6 à 7 min, jusqu'à ce qu'elles soient bien dorées. Sortez-les avec une écumoire et égouttez-les sur du papier absorbant. Faites également frire l'ail pendant 2 min, puis égouttez-le. Faites ensuite frire le galangal et le piment pendant 1 min. Terminez avec les crevettes séchées : laissez-les cuire 30 s. Transférez tous les ingrédients frits et refroidis dans un robot de cuisine, ajoutez 9 cl d'huile utilisée pour la cuisson et mixez bien pour obtenir une pâte lisse. Mettez la pâte obtenue dans une casserole avec le sucre, la sauce de poisson et l'eau de tamarin, puis faites épaissir environ 15 min à feu doux en remuant de temps en temps. Laissez refroidir la préparation avant de la transférer dans un bocal.
+
+2. Préparez le daïkon mariné : dans une casserole, mélangez le vinaigre de riz, le sucre, le poivre rose, les clous de girofle et le piment, ajoutez 20 cl d'eau et 2 cuil. à café de sel, puis faites cuire 2 à 3 min à feu moyen. Retirez du feu et laissez refroidir. Ajoutez le daïkon et laissez mariner au moins 4 h, voire une nuit entière.
+
+3. Juste avant de servir, égouttez les tranches de pomme, séchez-les et mettez-les dans un saladier. Ajoutez le daïkon bien égoutté et les épices de sa marinade (jetez cette dernière), les radis, les pousses de bettes et 1 cuil. à soupe d'huile d'olive. Assaisonnez avec ¾ cuil. à café de sel et du poivre. Mélangez délicatement et réservez.
+
+4. Dans un petit bol, mélangez les échalotes avec ½ cuil. à café de sel et un peu de poivre. Dans une grande poêle, faites chauffer l'huile d'olive restante à feu vif, pour y faire dorer les noix de saint-jacques pendant 4 à 5 min, en les retournant à mi-cuisson. Servez aussitôt avec la salade au daïkon et 1 cuil. à café de confiture de piment.
+
+## Noms ingrédients
+
+ail. bette rouge. crevettes séchées. daïkon. tamarin. échalotes thaïes. galanga. nam pla. noix de saint-jacques. piment rouge. piment rouge séché. pomme. radis
+---
+
+# Tartare de truite, salsa de citrons confits et chips de topinambours
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Poisson
+
+## Commentaire
+
+Inspiré du kebbé nayé libanais — traditionnellement un tartare de viande crue mélangée avec du boulgour et des épices —, cette version remplace la viande par de la truite coupée en petits dés. On peut aussi utiliser du saumon. Choisissez un poisson de la plus grande fraîcheur pour pouvoir le consommer cru. Les chips de topinambours maison sont impressionnantes, mais des chips de légumes-racines du commerce conviennent aussi. Les huiles aux agrumes apportent la touche finale.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+**Tartare de truite**
+
+- 50 g de boulgour
+- 400 g de filet de truite de mer (ou de saumon), sans peau ni arêtes, coupé en dés de 5 mm
+- 1 piment rouge, épépiné et haché
+- 4 petites échalotes, hachées (70 g)
+- ½ cuil. à café de graines de cumin, grillées et moulues
+- ¾ de cuil. à café de graines de coriandre, grillées et moulues
+- ¾ de cuil. à café de quatre-épices moulu
+- 2 cuil. à soupe d'huile d'olive
+- 1 ½ cuil. à soupe de jus de citron
+- Sel de mer et poivre noir
+
+**Salsa de citrons confits**
+
+- 60 g d'olives vertes dénoyautées, grossièrement hachées
+- La peau de 2 petits citrons confits, en petits dés (25 g)
+- 10 g de persil, finement haché
+- 3 cuil. à soupe d'huile d'olive
+
+**Chips de topinambours**
+
+- 100 g de topinambours, grattés et détaillés en fines tranches à la mandoline (mettez les tranches dans de l'eau avec 1 cuil. à café de jus de citron pour éviter qu'elles noircissent)
+- 30 cl d'huile de tournesol
+
+**Pour servir**
+
+- 1 cuil. à soupe d'huile d'olive parfumée au citron vert (ou nature)
+
+## Déroulé de la recette
+
+1. Rincez le boulgour et mettez-le dans un bol. Versez 7,5 cl d'eau chaude et incorporez ½ cuil. à café de sel. Laissez gonfler 30 min : le boulgour doit rester un peu ferme. Égouttez-le bien et laissez-le sécher avant de le transférer dans un saladier, avec les ingrédients du tartare (sauf le jus de citron). Assaisonnez avec 1 cuil. à café de sel et du poivre. Mélangez et conservez au réfrigérateur (au maximum 1 h). Juste avant de servir, ajoutez le jus de citron.
+
+2. Mettez tous les ingrédients de la salsa dans un bol. Poivrez, puis mélangez. Réservez.
+
+3. Égouttez les topinambours et séchez-les dans un torchon propre. Dans une petite sauteuse, faites chauffer l'huile de tournesol à feu vif pour y faire frire les chips pendant 2 min (en deux fois pour ne pas surcharger la sauteuse), jusqu'à ce qu'elles soient bien dorées et croustillantes. Égouttez-les sur du papier absorbant et salez-les légèrement.
+
+4. Moulez les tartares au centre des assiettes en utilisant un emporte-pièce rond de 10 cm de diamètre et 3 cm de hauteur. Déposez 1 cuil. de salsa sur le dessus ou à côté. Garnissez de chips de topinambours et arrosez d'un filet d'huile.
+
+## Noms ingrédients
+
+boulgour. citron confit. citrons. échalotes. olives vertes. persil. piment rouge. topinambours. truite
+---
+
+# Gambas au pastis, à l'estragon et à la feta
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Poisson
+
+## Commentaire
+
+Une variante du classique grec saganaki (crevettes-feta). On peut préparer toutes les composantes à l'avance. Procurez-vous des gambas de la plus grande fraîcheur pour garder les têtes, si décoratives quand elles sont cuites. N'oubliez surtout pas le pain pour saucer !
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 600 g de gambas, décortiquées et déveinées (gardez la tête et la queue)
+- 1 cuil. à soupe de feuilles de thym
+- 1 grosse gousse d'ail, écrasée
+- Le zeste finement râpé de 1 gros citron
+- 11,5 cl d'huile d'olive
+- 120 g de feta, en morceaux de 1,5 cm
+- ½ cuil. à café de flocons de piment séchés
+- 1 cuil. à café d'origan séché
+- 4 mini-fenouils (ou 1 gros), parés et coupés en tranches de 5 mm (300 g)
+- 18 cl de pastis
+- 15 cl de bouillon de légumes
+- 70 g de beurre doux
+- 20 g d'estragon, grossièrement ciselé
+- ½ cuil. à café de sumac, pour servir
+- Sel de mer
+
+## Déroulé de la recette
+
+1. Mettez les gambas décortiquées dans un saladier avec le thym, l'ail, le zeste de citron et 7 cl d'huile. Mélangez pour bien les enrober, couvrez et laissez mariner au moins 1 h au réfrigérateur (une nuit entière, c'est mieux).
+
+2. Mettez la feta dans un bol avec 1 cuil. à soupe d'huile, ajoutez les flocons de piment et l'origan. Mélangez délicatement, couvrez et réservez au réfrigérateur.
+
+3. Faites chauffer les 2 cuil. à soupe d'huile restantes dans une sauteuse à feu vif pour y saisir les gambas pendant 1 à 2 min, en les retournant une ou deux fois, jusqu'à ce qu'elles aient changé de couleur. Sortez-les de la poêle. Faites ensuite revenir le fenouil pendant 6 à 7 min, en remuant de temps en temps, pour qu'il commence à s'attendrir et à se colorer légèrement. Versez le pastis et laissez-le réduire pendant 1 min, avant d'ajouter le bouillon. Laissez cuire 2 à 3 min de plus, jusqu'à ce que le liquide ait réduit des deux tiers : il doit en rester environ 12 cl. Réduisez le feu pour incorporer l'estragon et ⅓ de cuil. à café de sel. Laissez fondre le beurre, ajoutez les gambas, puis remuez pendant 2 min : vous obtenez une sauce lisse et brillante. Assurez-vous que les gambas soient bien cuites.
+
+4. Répartissez les gambas et le fenouil dans des assiettes de service ou des bols préchauffés, garnissez de feta marinée, décorez avec un peu de sumac et servez aussitôt.
+
+## Noms ingrédients
+
+ail. fenouil. feta. piment rouge séché. gambas. citrons
+---
+
+# Rasam au bar et aux pommes de terre
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Poisson
+
+## Commentaire
+
+Le tamarin, favori de la maison, a une saveur aigre-douce qui apporte une acidité particulière aux sauces et soupes. Le rasam est une soupe originaire de l'Inde du Sud. Cette version est un repas en soi, à mi-chemin entre la soupe et le poisson en sauce. Au restaurant, le rasam est préparé avec cinq épices — ici remplacées par du garam masala. Pour la version originale : 1 cuil. à café de chacun de ces ingrédients pilés dans un mortier : poivre noir, cumin, coriandre, carvi, graines de moutarde jaune.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 30 g de ghee
+- 6 pavés de bar (840 g), la peau légèrement entaillée
+- 1 cuil. à soupe de jus de citron
+- 10 g de feuilles de coriandre (facultatif)
+- Sel de mer et poivre noir
+
+**Pommes de terre**
+
+- 620 g de pommes de terre désirée (ou une autre variété à chair ferme), pelées et coupées en cubes de 2,5 cm
+- 15 g de ghee
+- 20 g de feuilles de curry (caloupilé)
+- 1 ½ cuil. à soupe de graines de moutarde jaune
+- 1 oignon moyen, en petits dés (100 g)
+- 4 gousses d'ail, en petits dés
+- 1 cuil. à café de curcuma moulu
+- 2 tomates moyennes (170 g), coupées en deux, égrainées et grossièrement hachées (100 g)
+- 10 g de beurre doux
+
+**Soupe rasam**
+
+- 100 g de pulpe de tamarin
+- 1 cuil. à soupe d'huile de tournesol
+- 2 oignons moyens, en petits dés (200 g)
+- 8 gousses d'ail, écrasées
+- 1 ½ cuil. à soupe de garam masala
+- 25 g de feuilles de curry
+- 2 gros piments rouges séchés
+- 3 grosses tomates (300 g), coupées en 6 quartiers de 2 cm
+
+## Déroulé de la recette
+
+1. Mettez les pommes de terre dans une casserole moyenne et couvrez-les d'eau salée. Portez à ébullition, puis baissez le feu et laissez mijoter 10 min, pour qu'elles soient juste cuites. Égouttez et réservez.
+
+2. Essuyez et séchez la casserole, puis remettez-la sur le feu pour y faire fondre le ghee. Ajoutez les feuilles de curry et les graines de moutarde, laissez revenir 2 min. Ajoutez ensuite l'oignon et l'ail, laissez fondre pendant 3 à 4 min, et incorporez enfin le curcuma, les tomates et les pommes de terre. Mélangez bien pendant 1 à 2 min avant d'incorporer le beurre, du sel (1 cuil. à café) et du poivre. Laissez encore cuire 1 min, puis réservez.
+
+3. Préparez maintenant le rasam : versez 90 cl d'eau bouillante sur le tamarin et laissez reposer 30 min, pour que la pulpe se désagrège dans l'eau. Passez le mélange dans un tamis fin pour éliminer les graines. Faites chauffer l'huile de tournesol dans une cocotte pour y faire revenir les oignons et l'ail pendant 4 à 5 min. Ajoutez le garam masala, les feuilles de curry et les piments. Laissez cuire quelques minutes avant d'ajouter les tomates. Versez l'eau de tamarin, baissez le feu et laissez mijoter doucement pendant 15 min. Ajoutez 2 cuil. à café de sel, remuez, puis réservez. Vous pouvez soit filtrer le rasam pour obtenir un bouillon clair, soit garder tous les aromates pour une soupe plus rustique.
+
+4. Pour faire cuire le poisson, faites fondre le ghee dans une grande poêle à feu moyen. Salez et poivrez les pavés de bar côté peau, puis déposez-les dans le ghee bien chaud, sur la peau, et laissez-les frire pendant 3 à 4 min : la peau doit devenir croustillante et prendre une teinte bien dorée. Salez et poivrez les pavés côté chair avant de les retourner délicatement pour les laisser cuire 1 min sur l'autre face. Arrosez de jus de citron.
+
+5. Juste avant de servir, réchauffez les pommes de terre et le rasam. Répartissez les pommes de terre et les pavés de bar dans des bols, arrosez de bouillon chaud et garnissez de feuilles de coriandre (facultatif).
+
+## Noms ingrédients
+
+ail. bar. coriandre. feuilles de curry. citrons. oignons. piment rouge séché. pomme de terre. tamarin. tomates en conserve
+---
+
+# Filets de daurade et salade mangue-papaye
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Poisson
+
+## Commentaire
+
+C'est la salade de mangue-papaye qui tient la vedette ici. Pour que les saveurs ressortent, laissez les ingrédients infuser pendant au moins 4 h — ou préparez la salade la veille, sans le basilic, la coriandre, les arachides et les anchois séchés, que vous ajouterez juste avant de servir. Le basilic thaï a un goût anisé — à défaut, utilisez un mélange de basilic méditerranéen et d'estragon.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 2 cuil. à soupe d'huile de tournesol
+- 6 filets de daurade (900 g), peau entaillée et sans arêtes
+- 30 g de beurre doux
+- 1 citron vert, coupé en 6 quartiers
+- Sel de mer et poivre noir
+
+**Salade mangue-papaye**
+
+- 20 cl d'huile de tournesol pour la friture + 1 cuil. à soupe
+- 40 g d'anchois séchés
+- 5 échalotes thaïes, pelées et détaillées en quartiers (50 g)
+- 1 ou 2 piments oiseau
+- 6 cl de vinaigre de riz
+- 6 cl de jus de citron vert
+- 50 g de sucre de palme, râpé
+- 2 cuil. à soupe de nuoc-mâm
+- 2 papayes vertes, épluchées, coupées en deux et taillées en julienne (440 g)
+- 2 mangues vertes moyennes, épluchées et taillées en julienne (380 g)
+- 35 g de feuilles de basilic thaï ciselées
+- 30 g de feuilles de coriandre (ou de graines germées)
+- 100 g de cacahuètes grillées
+
+## Déroulé de la recette
+
+1. Commencez par préparer la salade. Faites chauffer 2 cm d'huile dans une petite casserole pour y faire frire les anchois pendant 1 à 2 min. Sortez-les avec une écumoire et réservez-les sur une assiette tapissée de papier absorbant.
+
+2. Mettez les échalotes, les piments, le vinaigre, le jus de citron vert, le sucre, le nuoc-mâm et 1 cuil. à soupe d'huile dans le bol d'un robot, puis mixez pour obtenir une pâte à la texture fine. Transférez-la dans un saladier, ajoutez la papaye et la mangue, puis mélangez délicatement. Couvrez et laissez reposer au réfrigérateur au moins 4 h. Sortez la salade quelques minutes avant de servir et ajoutez alors le basilic, la coriandre, les cacahuètes et les anchois.
+
+3. Faites chauffer 2 cuil. à soupe d'huile à feu vif dans une grande poêle. Assaisonnez les filets de daurade des deux côtés (½ cuil. à café de sel et un bon tour de moulin à poivre), puis mettez-les dans la poêle, côté peau vers le bas. Laissez frire le poisson 2 à 3 min pour obtenir une peau croustillante, puis retournez-le et ajoutez le beurre. Quand celui-ci commence à écumer, arrosez-en le poisson et laissez cuire 2 min côté chair. Servez avec la salade mangue-papaye et 1 quartier de citron vert.
+
+## Noms ingrédients
+
+anchois. basilic. cacahuètes. citrons verts. coriandre. daurade. échalotes thaïes. mangue verte. papaye. piment oiseau
+---
+
+# Églefin vapeur, bagna cauda au sésame et cavolo nero
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Poisson
+
+## Commentaire
+
+La bagna cauda est une spécialité piémontaise — sauce tiède à base d'ail et d'anchois. L'ajout de graines de sésame lui donne une note asiatique. L'idée est née d'une discussion que Mary, la mère de Scully, a eue avec un ami népalais. Elle a ajouté les anchois, Scully le vinaigre de xérès Valdespino et Yotam l'a baptisée « bagna cauda au sésame ». À défaut d'échalotes frites, faites griller à sec un peu plus de graines de sésame pour parsemer le poisson.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 6 pavés d'églefin (ou un autre poisson blanc : cabillaud, flétan, etc.), sans peau ni arêtes (900 g)
+- 1 cuil. à soupe d'huile d'olive
+- 1 cuil. à soupe de jus de citron
+- Sel de mer et poivre noir
+
+**Bagna cauda au sésame**
+
+- 50 g de graines de sésame
+- 6 cl d'huile d'olive
+- 4 gousses d'ail, émincées
+- 5 piments rouges, épépinés et émincés
+- 4 tomates moyennes, avec la peau, coupées en cubes de 2 cm (500 g)
+- 1 cuil. à soupe de sucre brun clair
+- 2 ½ cuil. à soupe de vinaigre de xérès Valdespino
+- 10 filets d'anchois brun (30 g), rincés et séchés
+- 20 g de beurre doux
+
+**Échalotes frites (facultatif)**
+
+- 40 g de farine de ménage
+- 20 g de farine de maïs
+- 1 ½ cuil. à café de cinq-épices
+- 1 ½ cuil. à café de poivre blanc moulu
+- 2 grosses échalotes, coupées en quartiers (150 g), puis en rondelles
+- 40 cl environ d'huile de tournesol, pour la friture
+
+**Cavolo nero**
+
+- 2 cuil. à soupe d'huile d'olive
+- 2 gousses d'ail, émincées
+- 1 piment rouge, épépiné et émincé
+- 500 g de cavolo nero, sans les côtes centrales dures, les feuilles finement hachées (300 g)
+- 10 cl de vin blanc
+- Le zeste finement râpé de ½ citron
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 170 °C.
+
+2. Commencez par préparer la bagna cauda : étalez les graines de sésame sur une plaque de cuisson et faites-les dorer 25 min au four.
+
+3. Faites chauffer l'huile d'olive dans une petite casserole pour y faire revenir pendant 5 à 6 min l'ail et le piment, en remuant souvent. Ajoutez le reste des ingrédients (sauf les graines de sésame grillées) et poursuivez la cuisson encore 8 à 9 min en remuant constamment, jusqu'à épaississement. Retirez du feu et incorporez alors les graines de sésame, du sel (½ cuil. à café) et du poivre. Mixez quelques minutes pour obtenir une pâte lisse et transférez-la dans un bol.
+
+4. Pour les échalotes frites (facultatif), mélangez dans un bol les deux farines, le cinq-épices, le poivre blanc et ½ cuil. à café de sel. Ajoutez les échalotes et mélangez à la main. Versez 4 cm d'huile dans une petite casserole, faites chauffer à feu vif, puis faites frire les échalotes (en deux fois) pendant 2 à 3 min, jusqu'à ce qu'elles soient croustillantes. Égouttez-les sur du papier absorbant et réservez.
+
+5. Préparez maintenant le cavolo nero : faites chauffer l'huile dans une grande casserole, ajoutez l'ail et le piment, laissez-les se colorer pendant 2 à 3 min, puis jetez le cavolo nero dans l'huile chaude et remuez pendant 2 min. Ajoutez le vin, ¼ de cuil. à café de sel et un peu de poivre, puis laissez cuire encore 1 min. Hors du feu, incorporez le zeste de citron. Gardez au chaud.
+
+6. Badigeonnez les pavés d'églefin avec l'huile et 1 ½ cuil. à café de sel (pour les 6 pavés) et un peu de poivre. Tapissez de papier sulfurisé le fond d'un panier vapeur. Versez de l'eau bouillante dans une casserole, puis portez à frémissement. Déposez le poisson dans le panier vapeur, placez celui-ci sur la casserole d'eau frémissante, couvrez et laissez le poisson cuire pendant 5 min : la chair doit s'effeuiller quand on presse délicatement dessus.
+
+7. Répartissez la bagna cauda chaude dans les assiettes, garnissez de cavolo nero, puis déposez un pavé d'églefin dessus. Arrosez de jus de citron, décorez avec des échalotes frites et servez sans attendre.
+
+## Noms ingrédients
+
+ail. anchois. chou kale. échalotes. églefin. citrons. piment rouge. tomates en conserve
+---
+
+# Cabillaud cuit au babeurre et lentilles à l'indienne
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Poisson
+
+## Commentaire
+
+Une recette parfaite pour un dîner, car tout peut être préparé à l'avance : le poisson doit mariner entre 4 et 6 h. Chez NOPI, deux variétés de lentilles sont utilisées : des urid dal (blanc crème) et des mung dal (jaunes) — prévoir 60 g de chaque pour la version originale. La recette se termine par un filet d'huile d'olive à la bergamote, facilement reproductible en infusant des sachets de thé Earl Grey dans de l'huile chaude. Ne négligez pas de faire griller à sec les graines de moutarde avant de les mélanger avec les autres épices.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- ½ cuil. à café de graines de cumin
+- ½ cuil. à café de graines de coriandre
+- ½ cuil. à café de graines de fenouil
+- ½ cuil. à café de flocons de piments séchés
+- ½ cuil. à café de cardamome moulue
+- 15 cl de babeurre
+- 1 beau filet de cabillaud (1 kg), sans peau ni arêtes, coupé en 6 pavés
+- 1 cuil. à soupe d'huile d'olive (ou de l'huile de bergamote)
+- 1 citron, coupé en 6 quartiers, pour servir
+- Sel de mer et poivre noir
+
+**Lentilles à l'indienne**
+
+- 2 ½ cuil. à soupe de graines de moutarde jaune
+- 60 g de ghee
+- 120 g de lentilles urid dhal, rincées
+- 3 gros oignons, émincés (600 g)
+- 8 gousses d'ail, écrasées
+- 1 cuil. à soupe de concentré de tomates
+- 7 cm de gingembre, épluché et finement haché (60 g)
+- 4 piments rouges, épépinés et émincés
+- 10 g de feuilles de curry frais
+- 8 tomates mûres, en quartiers (800 g)
+- 150 g de jeunes feuilles d'épinards
+
+## Déroulé de la recette
+
+1. Faites griller à sec, dans une poêle, les graines de cumin, de coriandre et de fenouil jusqu'à ce qu'elles commencent à éclater. Mettez-les dans un moulin à épices ou dans un mortier avec les flocons de piments, la cardamome, du sel (½ cuil. à café) et du poivre, puis réduisez le tout en fine poudre. Transférez le mélange dans un récipient, versez le babeurre, remuez, puis déposez les pavés de cabillaud dedans. Couvrez d'un film alimentaire et laissez mariner au réfrigérateur pendant 4 à 6 h.
+
+2. Pour préparer le dhal, commencez par faire éclater les graines de moutarde à sec dans une petite casserole bien chaude, couverte (comptez 1 min environ). Retirez la casserole du feu dès que vous entendez les graines crépiter et agitez-la vivement, laissez reposer encore 1 min à couvert, puis transférez les graines dans un bol.
+
+3. Faites fondre le ghee dans une casserole moyenne pour y faire revenir les lentilles pendant 2 min, en remuant souvent. Ajoutez les oignons et ¼ de cuil. à café de sel, poursuivez la cuisson 8 min à feu moyen. Ajoutez l'ail, le concentré de tomate, le gingembre, les piments et les feuilles de curry. Laissez cuire encore 5 min en remuant de temps en temps. Incorporez les tomates et laissez mijoter 15 min. Ajoutez les graines de moutarde, versez 7,5 cl d'eau et poursuivez la cuisson encore 5 min, jusqu'à ce que les tomates soient bien ramollies. Transférez le mélange dans le bol d'un robot, ajoutez 2 cuil. à café de sel et poivrez généreusement, puis donnez plusieurs impulsions pour mixer grossièrement la préparation, sans la réduire en purée. Réservez au chaud.
+
+4. Préchauffez le four à 210 °C.
+
+5. Retirez les pavés de cabillaud de la marinade et disposez-les sur une plaque de cuisson tapissée de papier sulfurisé. Enfournez pour 8 à 10 min, puis passez-les sous le gril pendant 2 min.
+
+6. Jetez les feuilles d'épinards dans une poêle chaude et laissez-les juste 30 s pour qu'elles commencent à se flétrir, puis répartissez-les dans les assiettes. Ajoutez le dhal, posez le cabillaud par-dessus et arrosez d'un filet d'huile. Servez avec des quartiers de citron.
+
+## Noms ingrédients
+
+ail. cabillaud. citrons. concentré de tomate. épinards. feuilles de curry. gingembre. lentilles urid dhal. oignons. piment rouge. piment séché. tomates en conserve
+---
+
+# Turbots frits, mayonnaise aux huîtres et salsa de concombres
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Poisson
+
+## Commentaire
+
+Préparez à l'avance la mayonnaise et la salsa. Juste avant de passer à table, il vous faudra seulement quelques minutes pour finaliser le plat. En France, les radis se mangent traditionnellement avec du beurre et du sel — ne jetez pas les feuilles, leur goût poivré boostera vos préparations. On peut partir d'une bonne mayonnaise du commerce complétée avec de la moutarde, du poivre de Cayenne, les huîtres et leur eau.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 2 cuil. à soupe d'huile d'olive + un peu pour servir
+- 6 petits turbots en filets, avec la peau (800 g)
+- 10 g de beurre doux
+- 2 cuil. à café de jus de citron
+- Sel de mer et poivre noir
+
+**Mayonnaise aux huîtres**
+
+- 1 jaune d'œuf
+- 1 cuil. à soupe de moutarde forte
+- 1 cuil. à soupe de vinaigre de vin blanc
+- 1 pincée de poivre de Cayenne
+- 15 cl d'huile de tournesol
+- 3 grosses huîtres, ouvertes (conservez 1 cuil. à café de leur eau)
+
+**Salsa de concombre**
+
+- 1 cuil. à café de sucre en poudre
+- 2 cuil. à soupe de vinaigre de riz
+- 1 cuil. à café d'huile d'olive
+- 2 petits concombres, épluchés, épépinés et coupés en petits dés (150 g)
+- 20 radis blanc et rouge (ou 12 radis rouges ronds), en petits dés (100 g)
+- ½ oignon rouge moyen, en petits dés (80 g)
+- 10 g de ciboulette, ciselée
+
+## Déroulé de la recette
+
+1. Commencez par la mayonnaise. Mettez le jaune d'œuf, la moutarde, le vinaigre, le poivre de Cayenne et ¼ de cuil. à café de sel dans le bol d'un robot. Faites tourner le moteur et incorporez progressivement l'huile, puis les huîtres, l'eau des huîtres et 1 cuil. à soupe d'eau. Continuez de mélanger pour obtenir une consistance épaisse. Réservez au réfrigérateur.
+
+2. Mélangez dans un bol le sucre et le vinaigre de la salsa, fouettez pour faire dissoudre le sucre, puis ajoutez le reste des ingrédients de la salsa et ½ cuil. à café de sel. Mélangez et réservez au réfrigérateur. Sortez-la un peu avant de servir.
+
+3. Faites chauffer l'huile d'olive dans une grande poêle. Salez et poivrez les filets, puis déposez 3 filets dans la poêle, côté peau vers le haut. Faites-les frire 3 min, pour qu'ils se colorent, puis retournez-les. Ajoutez aussitôt la moitié du beurre, que vous laissez mousser avant d'en arroser les filets. Quand ces derniers sont cuits, sortez-les de la poêle, arrosez-les de jus de citron et réservez-les au chaud pendant que vous faites cuire les autres filets de la même manière.
+
+4. Étalez un peu de mayonnaise dans les assiettes de service, posez un filet dessus et garnissez de salsa. Arrosez d'un trait d'huile et servez.
+
+## Noms ingrédients
+
+ciboulette. concombres. huîtres. jaunes d'œuf. citrons. oignons rouges. piment de Cayenne. radis. turbot
+---
+
+# Pavés de flétan en croûte, vichyssoise à la roquette sauvage et au persil
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Poisson
+
+## Commentaire
+
+Au restaurant, la vichyssoise est préparée avec des orties et de la livèche (à la place de la roquette et du persil). Si vous parvenez à dénicher ces deux plantes, associez 80 g de feuilles de livèche et 120 g de feuilles d'ortie. La soupe et la croûte de noix peuvent être préparées la veille. Pour une texture plus lisse, passez la soupe dans un tamis fin — mais si vous aimez les textures plus rustiques, sautez cette étape. Servez avec du bon pain frais pour saucer.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 6 pavés de flétan, sans peau ni arêtes (950 g)
+- 2 cuil. à soupe d'huile d'olive
+- 2 cuil. à soupe de jus de citron
+- 12 radis blanc et rouge, lavés, puis coupés en deux dans la hauteur
+- Sel de mer et poivre noir
+
+**Vichyssoise**
+
+- 100 g de brins de persil
+- 150 g de roquette sauvage
+- 1 cuil. à soupe d'huile d'olive
+- 40 g de beurre doux
+- 2 échalotes moyennes, grossièrement hachées (100 g)
+- 3 gousses d'ail, écrasées
+- 1 poireau moyen, émincé (200 g)
+- 2 grosses pommes de terre (vivaldi ou désirée), pelées et coupées en cubes de 2 cm (370 g)
+- 1 l de bouillon de volaille
+- 25 g de feuilles d'épinards
+
+**Croûte de pistaches et pignons de pin**
+
+- 150 g de beurre doux, en dés de 1 cm
+- 60 g de pistaches décortiquées, légèrement grillées et grossièrement hachées
+- 60 g de pignons de pin, légèrement grillés et grossièrement hachés
+- ¼ de cuil. à café de sucre en poudre
+- 2 cuil. à soupe de jus de citron
+
+## Déroulé de la recette
+
+1. Pour confectionner la croûte de noix, préparez un beurre noisette : mettez le beurre à fondre à feu vif dans une casserole moyenne, puis laissez-le cuire 4 min, jusqu'à ce qu'il commence à brunir. Filtrez-le dans un tamis fin pour éliminer les résidus noirs, puis ajoutez les pistaches, les pignons de pin, le sucre, le jus de citron et ¼ de cuil. à café de sel. Mélangez, puis étalez sur une petite plaque de cuisson (16 × 21 cm) tapissée de papier sulfurisé. Réfrigérez 2 à 3 h pour que le beurre se fige, puis découpez en six rectangles égaux. Remettez au réfrigérateur jusqu'à utilisation.
+
+2. Pour la vichyssoise, commencez par faire blanchir les feuilles de persil et de roquette en les plongeant 30 s dans une casserole d'eau salée à ébullition, puis rafraîchissez-les sous l'eau froide. Égouttez, pressez bien pour évacuer l'eau, laissez sécher, puis hachez grossièrement.
+
+3. Mettez l'huile et le beurre dans une casserole moyenne et faites chauffer à feu moyen, pour y laisser fondre les échalotes pendant 4 à 5 min. Ajoutez l'ail et le poireau, laissez cuire 2 à 3 min, puis mettez les pommes de terre. Remuez pendant 5 à 6 min pour les faire dorer de toutes parts, puis versez le bouillon et portez à ébullition. Laissez ensuite mijoter 8 à 10 min : les pommes de terre doivent rester un peu fermes. Ajoutez le persil et la roquette blanchis, poursuivez la cuisson 1 min, puis retirez la casserole du feu pour incorporer les épinards. Salez (1 ½ cuil. à café) et poivrez généreusement. Mixez en velouté bien lisse, puis réservez au chaud.
+
+4. Préchauffez le four à 200 °C, en position gril. Disposez les pavés de flétan sur une plaque de cuisson tapissée de papier sulfurisé et badigeonnez-les avec 2 cuil. à soupe d'huile. Salez (½ cuil. à café pour les 6 filets) et poivrez généreusement. Faites-les rôtir 6 à 7 min, jusqu'à ce qu'ils soient presque cuits. Déposez un rectangle de croûte de noix sur chaque filet et remettez-les sous le gril pour 2 à 3 min, jusqu'à ce que la croûte soit bien dorée. Retirez du four et arrosez de jus de citron.
+
+5. Réchauffez la vichyssoise et répartissez-la dans de grands bols peu profonds. Déposez un filet de flétan dans chaque bol et décorez avec les radis. Servez aussitôt.
+
+## Noms ingrédients
+
+ail. échalotes. épinards. flétan. citrons. persil. pistaches. poireau. pomme de terre. radis. roquette
+---
+
+# Filets de grondin en feuille de bananier, sambal d'ananas et piment
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Poisson
+
+## Commentaire
+
+Scully a trouvé l'inspiration dans le souvenir du bananier du jardin de son enfance et dans un voyage en Thaïlande. Si vous ne voulez pas confectionner une pâte de curry maison, utilisez une préparation du commerce (80 g). La recette maison donne environ 300 g — le reste se garde au réfrigérateur dans un bocal hermétique ou au congélateur. Remplaçable par du cabillaud, de l'églefin ou du merlu. Si pas de feuilles de bananier, faites cuire le poisson dans du papier sulfurisé. Servez avec du riz gluant au sésame ou un riz thaï à la vapeur.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 8 cl de crème de coco
+- 80 g de pâte de curry rouge maison (voir ci-dessous) ou du commerce
+- Le zeste de 1 citron vert
+- 500 g de filet de grondin (ou un autre poisson blanc à chair ferme), sans la peau et sans les arêtes, coupé en 4 pavés d'environ 10 cm × 5 cm
+- 4 feuilles de bananier, découpées en rectangles de 21 cm × 16 cm (ou du papier sulfurisé)
+- 10 g de jeunes feuilles de cresson (facultatif)
+- 2 citrons verts, coupés en deux et grillés (facultatif)
+- Sel de mer
+
+**Sambal d'ananas**
+
+- La chair de 1 petit ananas, en dés de 1 cm (300 g)
+- La chair de ½ gros concombre, en dés de 1 cm (140 g)
+- 2 piments rouges, émincés
+- 2 petites échalotes, pelées et émincées (30 g)
+- 3 cuil. à soupe de jus de citron vert
+- 1 ½ cuil. à soupe de nuoc-mâm
+- ¾ de cuil. à café de sucre en poudre
+- 15 g de feuilles de coriandre, grossièrement hachées
+- 1 cuil. à café de graines de pavot
+
+**Pâte de curry rouge maison**
+
+- 1 cuil. à café de pâte de crevettes
+- 4 petites échalotes, pelées et coupées en quartiers (60 g)
+- 3 grosses gousses d'ail, écrasées
+- 4 cm de gingembre, épluché et grossièrement haché (35 g)
+- 7 piments oiseau, épépinés et grossièrement hachés
+- 5 tiges de citronnelle, parées, puis écrasées et finement hachées
+- 18 feuilles fraîches de citron kaffir
+- 1 cuil. à café de curcuma moulu, ou 20 g de curcuma frais, pelé et grossièrement haché
+- 1 cuil. à soupe de graines de coriandre, grillées
+- ¼ de cuil. à café de cumin moulu
+- 1 cuil. à café de cardamome moulue
+- 3 cuil. à soupe d'huile de tournesol
+- 75 cl de lait de coco
+
+## Déroulé de la recette
+
+1. Commencez par préparer la pâte de curry (sauf si vous utilisez une préparation du commerce). Préchauffez le four à 210 °C. Enveloppez la pâte de crevettes dans un petit morceau de papier d'aluminium et faites-la rôtir au four 8 min. Retirez-la du four et mettez-la dans le bol d'un robot avec les autres ingrédients, sauf le lait de coco. Mixez pour former une pâte grossière. Incorporez le lait de coco et mixez de nouveau pour obtenir une sauce lisse.
+
+2. Mélangez dans un saladier 80 g de pâte de curry (gardez le reste au réfrigérateur), la crème de coco, le zeste de citron vert et 2 cuil. à café de sel. Ajoutez le poisson. Remuez délicatement pour que tout le poisson soit enrobé. Couvrez et laissez mariner 2 h au réfrigérateur.
+
+3. Mettez dans un saladier tous les ingrédients du sambal, sauf la coriandre et les graines de pavot. Mélangez et laissez reposer 30 min.
+
+4. Préchauffez le four à 210 °C.
+
+5. Enfournez les feuilles de bananier pour 1 min : cela les attendrira et évitera qu'elles ne cassent. Étalez-les sur le plan de travail, face brillante en bas. Disposez un filet de poisson sur chaque feuille, dans le sens de la longueur, puis roulez délicatement mais fermement chaque feuille pour envelopper le poisson. Gardez les extrémités ouvertes. Disposez les feuilles de bananier roulées sur une plaque de cuisson, puis enfournez pour 7 à 8 min.
+
+6. Présentez les feuilles de bananier roulées sur les assiettes de service, en ouvrant délicatement le haut pour montrer le poisson.
+
+7. Ajoutez au sambal les feuilles de coriandre et les graines de pavot, puis déposez quelques cuillerées de ce mélange à côté du poisson. Ajoutez les feuilles de cresson et un demi-citron grillé (facultatif). Servez sans attendre.
+
+## Noms ingrédients
+
+ail. ananas. citronnelle. citron kaffir. citrons verts. concombres. coriandre. noix de coco. échalotes. feuilles de bananier. gingembre. grondin. crevettes. piment oiseau. piment rouge
+---
+
+# Limandes-soles au beurre noisette nori et câpres frites
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Poisson
+
+## Commentaire
+
+Scully a beaucoup appris en travaillant au Bathers' Pavilion sur Balmoral Beach à Sydney. Pour ceux qui n'ont jamais mangé un poisson en contemplant la mer, les algues séchées apportent ici ce parfum iodé. Le beurre noisette parfumé au gingembre, aux algues nori et au persil est particulièrement savoureux.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 15 cl d'huile de tournesol, pour la friture
+- 60 g de câpres, rincées et séchées
+- 4 limandes-soles entières (1,6 kg), sans la peau et séchées
+- 2 cuil. à soupe d'huile d'olive
+- 100 g de beurre doux, en cubes grossiers
+- 6 cm de gingembre, épluché et râpé (50 g)
+- 4 cl de jus de citron
+- 1 feuille d'algues nori, passée au moulin à épices pour obtenir 1 cuil. à soupe de poudre fine
+- 10 g de persil, finement haché
+- 1 citron en quartiers, pour servir
+- Sel de mer et poivre noir
+
+## Déroulé de la recette
+
+1. Faites chauffer l'huile de tournesol à feu vif dans une petite casserole, puis ajoutez délicatement les câpres et laissez-les frire pendant 1 min, jusqu'à ce qu'elles soient croustillantes et commencent à brunir. Sortez-les avec une écumoire et mettez-les à égoutter sur du papier absorbant.
+
+2. Préchauffez le gril du four. Posez les limandes sur une grande plaque tapissée de papier sulfurisé, puis salez-les (1 cuil. à café de sel). Retournez-les, badigeonnez-les d'huile d'olive et assaisonnez-les (1 cuil. à café de sel et un bon tour de moulin à poivre). Faites-les griller 8 à 10 min, puis réservez au chaud.
+
+3. Pendant que les soles cuisent, préparez le beurre noisette : faites chauffer le beurre 5 à 6 min dans une casserole, jusqu'à ce qu'il commence à mousser et prenne une teinte bien dorée. Hors du feu, incorporez le gingembre, le jus de citron, les algues en poudre et le persil.
+
+4. Versez ½ cuil. à soupe de beurre noisette dans chaque assiette et parsemez de quelques câpres. Posez le poisson dessus, nappez de sauce et ajoutez le reste des câpres. Servez aussitôt, avec 1 quartier de citron.
+
+## Noms ingrédients
+
+câpres. gingembre. citrons. limandes-soles. persil
+---
+
+# Marmite de rougets et coquillages au safran, spätzle aux herbes
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Poisson
+
+## Commentaire
+
+Les spätzle sont des petites pâtes très populaires dans le sud de l'Allemagne et en Autriche — le plat réconfortant de Yotam par excellence. Pour former les rubans des spätzle, la méthode avec la planche à découper (proposée ici) est la plus simple. Une fois ébouillantés et refroidis, les spätzle sont délicieux nature, passés à la poêle et arrosés de beurre noisette.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+**Spätzle aux herbes**
+
+- 130 g de jeunes feuilles d'épinards
+- 40 g de feuilles de basilic
+- 200 g de farine, tamisée
+- 2 œufs
+- ¼ de cuil. à café de noix muscade râpée
+- 20 cl de lait entier
+- Sel de mer et poivre noir
+
+**Gremolata**
+
+- 30 g de persil, ciselé
+- Le zeste finement râpé de 1 gros citron
+- 7,5 cl d'huile d'olive
+- ½ cuil. à café de flocons de piments séchés
+
+**Marmite de fruits de mer**
+
+- 3 cuil. à soupe d'huile d'olive
+- 2 grosses échalotes, hachées (140 g)
+- 3 gousses d'ail, écrasées
+- 2 branches de céleri, en petits dés (100 g)
+- 45 cl de vermouth sec
+- 30 cl de vin blanc sec
+- 300 g de palourdes, bien rincées
+- 250 g de coques, bien rincées
+- 300 g de moules, nettoyées, barbes éliminées
+- ¼ de cuil. à café de stigmates de safran
+- La chair de 4 tomates moyennes, en cubes de 2 cm (300 g)
+- 25 cl de bouillon de volaille
+- 6 petits filets de rouget (300 g)
+
+## Déroulé de la recette
+
+1. Commencez par préparer les spätzle. Portez de l'eau à ébullition dans une casserole moyenne pour y faire blanchir les épinards et le basilic pendant 30 s. Égouttez-les dans une passoire. Rafraîchissez-les sous l'eau froide et pressez-les pour éliminer l'eau. Hachez finement.
+
+2. Mettez la farine dans un saladier, ajoutez les œufs, la noix muscade et 2 cuil. à café de sel, poivrez généreusement, puis mélangez délicatement en incorporant progressivement le lait pour obtenir une pâte lisse. Ajoutez les épinards et le basilic, puis laissez épaissir 1 h au réfrigérateur.
+
+3. Pour la gremolata, mélangez tous les ingrédients dans un bol, salez (¼ de cuil. à café) et poivrez. Réservez au frais.
+
+4. Pour la cuisson des spätzle, préparez un saladier d'eau glacée ; portez au point de frémissement un grand volume d'eau salée dans un faitout. Avec une spatule, abaissez la pâte sur une planche à découper pour former un carré de 15 cm de côté sur 5 mm d'épaisseur. Amenez la planche au bord du faitout, en l'inclinant à 45 degrés. Avec un couteau, taillez des rubans de pâte d'environ 4 × 1 cm, que vous laissez tomber aussitôt dans l'eau frémissante (procédez en deux ou trois fois). L'eau ne doit pas bouillir, sinon les spätzle vont se briser. Dès qu'ils remontent à la surface (généralement au bout de 1 min), sortez-les avec une écumoire et plongez-les aussitôt dans l'eau glacée. Quand tous les spätzle sont cuits et refroidis, mettez-les à égoutter sur un torchon propre.
+
+5. Préparez maintenant le bouillon pour la marmite de la mer : faites chauffer l'huile à feu moyen dans une grande casserole, pour y faire fondre les échalotes et l'ail pendant 3 à 4 min. Ajoutez le céleri, laissez cuire 1 min, puis augmentez le feu au maximum. Versez le vermouth et le vin, puis laissez bouillir 5 min pour que le liquide réduise de moitié. Ajoutez les coquillages, couvrez et maintenez à feu vif pendant 2 à 4 min, pour que les coquillages s'ouvrent (jetez ceux qui restent fermés). Avec l'écumoire, transférez-les dans une passoire. Quand ils sont moins chauds, décoquillez-en les deux tiers et laissez les autres intacts.
+
+6. Baissez le feu sous la casserole avant d'ajouter le safran, les tomates, le bouillon, du sel (½ cuil. à café) et du poivre. Déposez délicatement les filets de rougets dans la casserole, couvrez et laissez-les cuire 3 min, puis sortez-les avec une écumoire. Réservez au chaud.
+
+7. Ajoutez les spätzle et la moitié de la gremolata dans la casserole. Réchauffez le tout pendant 2 min en remuant délicatement.
+
+8. Répartissez les coquillages et les spätzle dans des assiettes creuses, posez les filets de rouget dessus, puis versez le bouillon. Ajoutez avec le reste de la gremolata et servez aussitôt.
+
+## Noms ingrédients
+
+ail. basilic. céleri. coques. échalotes. épinards. piment rouge séché. moules. palourdes. persil. rouget. tomates en conserve. citrons
+---
+
+# Noix de pétoncles poêlées, salsa de maïs et merguez, sauce à l'oseille
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Poisson
+
+## Commentaire
+
+Chez NOPI, cette recette est toujours accompagnée de sauce à l'oseille, mais cette herbe à la saveur acidulée n'est pas facile à trouver même en été. Vous pouvez la remplacer par des feuilles de roquette ou de moutarde en ajoutant un trait de jus de citron. Le plat fonctionne aussi très bien avec la sauce au sumac seule. Pour obtenir 250 g de grains de maïs frais, prévoyez deux épis.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 8,5 cl d'huile d'olive
+- 250 g de grains de maïs frais ou congelés
+- ½ petit oignon rouge, haché finement (60 g)
+- 80 g de piquillos (petits poivrons rouges rôtis, en conserve), en dés de 1 cm
+- 2 branches de céleri, en dés de 5 mm (100 g)
+- 10 g d'estragon, ciselé
+- 20 g de feuilles de coriandre, ciselées
+- Le zeste râpé de 2 citrons verts + 1 ½ cuil. à soupe de jus
+- 1 piment rouge, épépiné et finement haché
+- 300 g de merguez
+- 30 noix de pétoncles, avec leur corail (800 g)
+- 1 cuil. à soupe de jus de citron
+- Sel de mer et poivre noir
+
+**Sauce à l'oseille**
+
+- 70 g de feuilles d'oseille
+- 1 cuil. à soupe de vinaigre de riz
+- 2 cuil. à soupe d'huile d'olive
+
+**Sauce au sumac**
+
+- 160 g de crème fraîche
+- 2 cuil. à café de sumac
+- 1 cuil. à soupe d'huile d'olive
+
+## Déroulé de la recette
+
+1. Commencez par préparer les deux sauces. Mettez l'oseille, le vinaigre et l'huile dans le bol d'un robot, avec ¼ de cuil. à café de sel et 1 cuil. à soupe d'eau ; mixez pour obtenir une consistance lisse. Mettez la crème fraîche dans un bol avec le sumac, l'huile et ¼ de cuil. à café de sel. Mélangez bien. Réservez les deux sauces au réfrigérateur.
+
+2. Faites chauffer 1 cuil. à café d'huile d'olive à feu vif dans une grande poêle pour y faire frire les grains de maïs pendant 4 à 5 min, jusqu'à ce qu'ils soient bien dorés. Transférez dans un bol et laissez refroidir avant d'ajouter l'oignon, le poivron piquillo, le céleri, l'estragon, la coriandre, le zeste et le jus de citron vert, le piment, 3 cuil. à soupe d'huile d'olive, du sel (1 ¼ de cuil. à café) et du poivre. Réservez.
+
+3. Essuyez la poêle et remettez-la sur le feu avec 1 cuil. à café d'huile. Quand l'huile fume, déposez les merguez dedans et laissez-les cuire entre 8 et 12 min selon leur épaisseur. Mettez-les ensuite à refroidir sur du papier absorbant, puis découpez-les en rondelles avant de les ajouter à la salsa au maïs.
+
+4. Laissez 1 cuil. à soupe d'huile dans la poêle et faites-la chauffer à feu vif. Dans un bol, mélangez les noix de pétoncles avec le reste d'huile d'olive, du sel (1 cuil. à soupe) et du poivre. Quand la poêle est bien chaude, jetez la moitié des noix de pétoncles dedans et faites-les cuire environ 4 min, en les retournant à mi-cuisson. Sortez-les de la poêle, arrosez-les de jus de citron et gardez-les au chaud pendant que vous faites cuire les noix restantes.
+
+5. Pour servir, déposez de la sauce à l'oseille dans le fond des bols de service. Disposez la salsa de maïs par-dessus, puis les noix de pétoncles. Servez aussitôt en proposant la crème au sumac à part.
+
+## Noms ingrédients
+
+céleri. citrons verts. coriandre. maïs. merguez. noix de pétoncles. oignons rouges. oseille. piment rouge. piquillos
+---
+
+# Poulpe grillé, chou kale sauté, salsa d'olives noires et raisins secs
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Poisson
+
+## Commentaire
+
+Procurez-vous si possible des poulpes congelés que vous ferez décongeler avant de les préparer : le froid extrême attendrit leur chair et l'empêche de prendre une texture caoutchouteuse. Si vous utilisez des poulpes frais, faites-les mariner plusieurs heures ou faites-les cuire dans de l'eau bouillante avec un bouchon de liège. La salsa et le chou kale fonctionnent aussi très bien avec des filets de maquereau poêlé.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 1 gros poulpe (1,8 kg entier, 1,5 kg une fois nettoyé)
+- 1 petite branche de céleri, hachée grossièrement (50 g)
+- 1 petit fenouil, paré et haché grossièrement (80 g)
+- 1 petit poireau, paré et émincé
+- 2 brins de thym
+- 2 feuilles de laurier
+- 1 cuil. à café de grains de poivre noir
+- 1 cuil. à café de graines de coriandre
+- 50 cl de vin blanc
+- 3 cuil. à soupe d'huile d'olive
+- 1 cuil. à soupe de harissa mélangée avec ½ cuil. à café d'eau de rose
+- 1 ½ cuil. à soupe de jus de citron
+- Sel de mer
+
+**Salsa**
+
+- 50 g de raisins secs
+- 1 petit oignon rouge, coupé en petits dés (110 g)
+- 100 g d'olives kalamata dénoyautées, en fines rondelles
+- 1 ½ cuil. à soupe de vinaigre de xérès Valdespino
+- 1 cuil. à soupe d'huile d'olive
+- 10 g de feuilles de menthe
+
+**Chou kale**
+
+- 2 cuil. à soupe d'huile d'olive
+- 10 g de beurre doux
+- 1 gousse d'ail, émincée
+- 300 g de chou kale, sans les côtes dures, les feuilles grossièrement hachées (180 g)
+- 8 cl de bouillon de légumes
+- 8 cl de vin blanc
+
+## Déroulé de la recette
+
+1. Pour nettoyer le poulpe, tranchez la tête juste en dessous des yeux et jetez-la. Retournez les tentacules pour pousser sur le bec et l'éliminer. Pelez la partie charnue des tentacules en gardant ces dernières intactes (avec leurs ventouses).
+
+2. Mettez dans une cocotte le céleri, le fenouil, les poireaux, le thym, le laurier, le poivre, la coriandre, le vin blanc et 1 cuil. à café de sel. Versez 1,2 l d'eau, portez à ébullition, puis baissez le feu. Avec des pinces, plongez le poulpe et sortez-le au bout de 5 s. Répétez deux fois cette opération, jusqu'à ce que les tentacules se recroquevillent. Ensuite, immergez le poulpe dans l'eau, posez dessus un disque de papier sulfurisé maintenu avec une assiette retournée, puis laissez mijoter à feu moyen 40 à 50 min. Sortez le poulpe de la casserole et laissez-le refroidir avant de le placer au réfrigérateur. Jetez le bouillon et les légumes.
+
+3. Quand le poulpe est bien froid, coupez les tentacules en biais, en tronçons de 2 cm d'épaisseur, en laissant les extrémités intactes sur 4 cm. Mettez le tout dans un saladier avec 1 cuil. à soupe d'huile d'olive et la harissa. Mélangez bien, puis réservez au moins 2 h au réfrigérateur (voire toute une nuit).
+
+4. Préparez maintenant la salsa : mettez les raisins dans une petite casserole avec 8 cl d'eau, portez à ébullition, puis retirez du feu et laissez reposer 1 h, jusqu'à ce que les raisins soient gonflés. Égouttez-les et mettez-les dans un bol avec le reste des ingrédients de la salsa, sauf la menthe. Poivrez généreusement, mélangez, puis réservez.
+
+5. Pour la cuisson du chou, commencez par faire revenir l'ail pendant 1 min dans l'huile d'olive et le beurre fondu, puis ajoutez le chou kale. Remuez vivement, puis mouillez avec le bouillon et le vin. Salez et poivrez, puis laissez cuire 3 à 4 min. Égouttez le chou dans une passoire et réservez au chaud.
+
+6. Faites chauffer une grande poêle à feu vif. Mélangez le poulpe avec l'huile d'olive restante, puis déposez-le dans la poêle fumante et laissez-le cuire 1 à 2 min, en le retournant une ou deux fois, jusqu'à ce que chaque morceau soit bien grillé. Transférez le poulpe dans un saladier et ajoutez le jus de citron.
+
+7. Répartissez le chou kale chaud dans les assiettes de service et disposez le poulpe dessus. Ajoutez la menthe déchiquetée dans la salsa avant d'en garnir les assiettes.
+
+## Noms ingrédients
+
+ail. céleri. chou kale. fenouil. citrons. menthe. olives de Kalamata. oignons rouges. poireau. poulpe. raisins secs
+---
+
+# Maquereau poêlé, salade de noix de coco et d'arachides
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Poisson
+
+## Commentaire
+
+La salade de noix de coco fraîche avec des herbes fraîches se marie très bien avec les poissons gras — ou avec du poulet mariné et grillé. Elle peut aussi se déguster seule, pour une collation. Pour faire cuire tous les filets en même temps, utilisez deux grandes poêles. Vous pouvez aussi faire tout simplement griller le poisson au four, en le retournant une fois.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 2 citrons verts, coupés en deux
+- 8 filets de maquereaux (640 g), sans arêtes, peau légèrement entaillée
+- 2 cuil. à soupe d'huile d'olive
+- Sel de mer et poivre noir
+
+**Assaisonnement**
+
+- 35 g de sucre de palme, râpé
+- 2,5 cl de vinaigre de riz
+- 3 cl de jus de citron vert
+- 1 cuil. à café de nuoc-mâm
+
+**Salade de noix de coco**
+
+- 3,5 cl de mirin
+- 3,5 cl de vinaigre de riz
+- 10 g de sucre en poudre
+- 4 cm de gingembre, épluché et en julienne (40 g)
+- 150 g de chair de noix de coco fraîche, grossièrement râpée (soit 1 noix de coco moyenne)
+- 1 piment rouge long, épépiné et taillé en julienne
+- 2 oignons verts, en julienne (65 g)
+- 120 g de cacahuètes salées grillées, grossièrement hachées
+- 15 g de feuilles de coriandre
+- 10 g de feuilles de menthe, déchiquetées
+
+## Déroulé de la recette
+
+1. Commencez par préparer le gingembre mariné pour la salade : mélangez dans une petite casserole le mirin, le vinaigre de riz, le sucre en poudre et 1 pincée de sel. Portez à frémissements en remuant pour dissoudre le sucre. Retirez la casserole du feu, ajoutez le gingembre et laissez refroidir.
+
+2. Pour l'assaisonnement, faites fondre le sucre de palme à feu doux dans une petite casserole, avec ½ cuil. à soupe d'eau. Au bout de 2 min, retirez la casserole du feu pour incorporer le vinaigre de riz, le jus de citron vert et le nuoc-mâm. Réservez.
+
+3. Mettez la noix de coco, le piment, les oignons verts, les cacahuètes, la coriandre et la menthe dans un saladier. Égouttez le gingembre mariné et ajoutez-le dans le saladier (jetez la marinade). Versez l'assaisonnement, mélangez délicatement et réservez.
+
+4. Faites chauffer une grande poêle à feu vif pour y faire caraméliser les moitiés de citrons verts pendant 2 min (face coupée en bas), puis sortez-les de la poêle.
+
+5. Badigeonnez les filets de maquereaux avec l'huile avant de les assaisonner (1 cuil. à café de sel en tout et un tour de moulin à poivre sur chaque filet). Déposez 4 filets dans la poêle, peau en bas, et laissez-les cuire 2 à 3 min, jusqu'à ce qu'ils soient dorés et croustillants. Retournez-les et poursuivez la cuisson 1 min côté chair. Sortez-les de la poêle et gardez-les au chaud pendant que vous faites cuire les 4 filets restants.
+
+6. Dressez les filets de maquereaux sur les assiettes. Proposez à part la salade de noix de coco et le citron vert grillé.
+
+## Noms ingrédients
+
+cacahuètes. citrons verts. coriandre. gingembre. maquereau. menthe. noix de coco. oignons verts. piment rouge
+---
+
+# Brochettes de thon, mochis et salade de carottes au yuzu
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Poisson
+
+## Commentaire
+
+Le yuzu offre une saveur entre citron vert et mandarine — remplaçable par du jus de citron vert. La farine de riz gluant (aussi appelée « crème de riz »), à teneur élevée en amidon, apporte une texture collante aux préparations. Les mochis, préparables à l'avance et réchauffables au four, constituent ici une version salée de ce classique japonais. Le glaçage pour le thon peut également être réalisé à l'avance, tout comme la salade — sans l'assaisonnement, à ajouter au dernier moment.
+
+## Ingrédients
+
+*Pour 6 personnes en plat (pour 12 personnes en entrée)*
+
+**Brochettes de thon**
+
+- 15 cl de saké
+- 9 cl de mirin
+- 9 cl de sauce soja
+- 35 g de sucre en poudre
+- 25 cl de bouillon de volaille
+- 6 pavés de thon de 2 à 3 cm d'épaisseur (1 kg), coupés en cubes
+- 2 cuil. à soupe d'huile de tournesol
+- Sel de mer et poivre noir
+- 12 brochettes en bois, trempées 30 min dans de l'eau
+
+**Mochis**
+
+- 50 cl de crème de coco
+- 2 gros bâtons de citronnelle, légèrement écrasés
+- 8 feuilles de citron kaffir (fraîches ou surgelées)
+- 4 feuilles de pandan (ou 1 gousse de vanille)
+- 220 g de farine de riz gluant
+- 1 ½ cuil. à soupe de levure
+- 50 g de beurre doux, fondu
+- 2 œufs, légèrement battus
+- 1 cuil. à café de sucre en poudre
+
+**Salade de carottes au yuzu**
+
+- 2 carottes moyennes, épluchées et taillées en julienne (140 g)
+- 100 g de pois mange-tout, émincés en biais
+- 7 oignons verts, émincés (90 g)
+- 4 piments rouges moyens, épépinés et taillés en julienne
+- 140 g de shiitakés, pieds éliminés et émincés (110 g)
+- 15 g de graines de sésame grillées
+- 2 cuil. à soupe de jus de yuzu (ou de citron vert)
+- 3 cuil. à soupe de vinaigre de riz
+- 3 cuil. à soupe de mirin
+- 2 cm de gingembre, épluché et finement râpé (10 g)
+- 2 cuil. à café d'huile de tournesol
+
+## Déroulé de la recette
+
+1. Préparez d'abord les mochis. Mettez dans une casserole la crème de coco, la citronnelle, les feuilles de kaffir et de pandan, portez à ébullition, puis retirez aussitôt du feu. Laissez infuser au moins 30 min. Jetez les aromates et réservez.
+
+2. Préchauffez le four à 200 °C.
+
+3. Mettez dans un saladier la farine de riz et la levure, puis formez un puits au milieu. Ajoutez le beurre fondu, les œufs et la crème de coco infusée, ajoutez le sucre et 1 cuil. à café de sel. Mélangez pour former une pâte lisse, que vous étalez sur une plaque à pâtisserie (30 cm × 20 cm) tapissée de papier sulfurisé. Enfournez pour 45 min, puis sortez la plaque du four et laissez refroidir. Retournez le gâteau sur une planche à découper, coupez les bords, puis détaillez-le en 12 rectangles de 4 cm × 10 cm.
+
+4. Préparez maintenant le glaçage du thon : mélangez dans une casserole le saké, le mirin, la sauce soja, le sucre et le bouillon, portez à ébullition, puis laissez frémir 35 à 40 min, en remuant de temps en temps, pour obtenir une sauce épaisse. Versez dans un bol et réservez.
+
+5. Pour préparer la salade, mélangez dans un bol les carottes, les mange-tout, les oignons, les piments, les champignons et les graines de sésame. Fouettez le jus de yuzu, le vinaigre de riz, le mirin, le gingembre, l'huile et ½ cuil. à café de sel. (Attendez le dernier moment pour assaisonner la salade.)
+
+6. Déposez les cubes de thon dans un saladier, salez (2 cuil. à café de sel) et poivrez, mélangez bien, puis préparez les brochettes en enfilant 6 cubes de thon sur chaque pique. Mettez un gril à chauffer à feu vif pour y faire griller les brochettes pendant 3 min, en les retournant souvent. Retirez-les du gril et nappez-les sur toutes les faces avec le glaçage.
+
+7. Disposez 2 mochis (chauds) dans chaque assiette, ajoutez deux brochettes de thon et nappez-les de glaçage. Versez l'assaisonnement sur la salade, mélangez, puis garnissez les assiettes.
+
+## Noms ingrédients
+
+carottes. citronnelle. citron kaffir. noix de coco. gingembre. yuzu. oignons verts. pandan. piment rouge. pois mange-tout. champignons shiitaké. thon
+---
+
+# Salade de homard au fenouil et au raisin
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Poisson
+
+## Commentaire
+
+Une variante d'une salade que Yotam a inventée en Sardaigne pour le tournage de Mediterranean Feasts. Cette salade est tout simplement délicieuse, même sans homard — remplaçable par de la chair de crabe (pinces cuites en poissonnerie). Le dukkah est un mélange aromatique égyptien à base de graines et de noix, achetable en grande surface ou fait maison.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 2 homards moyens (1,2 kg, soit 270 g de chair décortiquée) ou 450 g de chair de crabe fraîche
+- 150 g de raisin sans pépins
+- 1 ½ cuil. à soupe d'huile de tournesol
+- 1 bulbe de fenouil, paré (réserver quelques pluches tendres), coupé en tranches de 2 à 3 mm (190 g, pour éviter l'oxydation, laissez tremper dans de l'eau froide avec un filet de citron)
+- 1 grosse endive (ou 2 petites) blanche ou rouge pâle, le cœur éliminé et les feuilles coupées en lanières de 1 cm (80 g)
+- 2 radis rouges ronds, parés et émincés (50 g)
+- 15 g de feuilles de basilic, déchiquetées
+- 15 g de feuilles d'aneth
+- 10 g de feuilles d'estragon
+- 2 cuil. à soupe de dukkah
+- Sel de mer et poivre noir
+
+**Assaisonnement**
+
+- 8 cl de jus d'orange
+- 1 ½ cuil. à café d'arak (ou une autre liqueur anisée : pastis, raki, ouzo ou sambuca)
+- 1 ½ cuil. à café de jus de citron
+- 2 cuil. à soupe d'huile d'olive
+
+## Déroulé de la recette
+
+1. La façon la moins violente de préparer un homard consiste à l'endormir au préalable en le laissant 2 h au congélateur. Une fois qu'il est anesthésié, plantez la pointe d'un grand couteau ou d'une brochette au centre de la tête, ce qui le tue instantanément. Portez à ébullition de l'eau salée dans une grande casserole, plongez-y un des homards et laissez cuire 5 à 6 min après la reprise de l'ébullition. Sortez le homard de la casserole puis rafraîchissez-le sous l'eau froide. Laissez-le s'égoutter pendant que vous répétez l'opération avec le second homard.
+
+2. Détachez les pattes et les pinces des homards et brisez leur carapace en tapant dessus délicatement avec une petite casserole ou un marteau. Retirez la chair et réservez-la. Séparez la tête du corps et jetez-la. Avec un couteau bien aiguisé ou des ciseaux, fendez la carapace du corps pour retirer la chair. Coupez-la en deux dans la longueur, retirez la veine, puis réservez.
+
+3. Mélangez les raisins avec ½ cuil. à soupe d'huile de tournesol et ¼ de cuil. à café de sel. Faites chauffer un gril à feu vif, jetez-y les grains de raisin et laissez-les cuire jusqu'à ce qu'ils commencent à s'orner de belles rayures colorées. Mettez-les ensuite dans un saladier. Égouttez le fenouil et séchez-le bien, malaxez-le avec le reste d'huile et ½ cuil. à café de sel, puis faites-le griller pendant 1 à 2 min, en le retournant à mi-cuisson. Ajoutez-le dans le saladier.
+
+4. Pour l'assaisonnement, versez le jus d'orange dans une petite casserole, puis portez à ébullition et laissez réduire 4 à 5 min : il doit rester 1 ½ cuil. à soupe de liquide. Laissez refroidir cette réduction avant de la transférer dans un bol avec l'arak, le jus de citron, l'huile, ½ cuil. à café de sel et du poivre. Mélangez au fouet, puis versez cet assaisonnement sur les raisins et le fenouil. Ajoutez les pluches de fenouil réservées, les endives, les radis, les herbes et le dukkah. Mélangez bien avant d'incorporer la chair du homard. Remuez délicatement puis répartissez la salade dans des assiettes et servez.
+
+## Noms ingrédients
+
+aneth. basilic. endives. fenouil. homard. citrons. oranges. radis. raisin
+---
+
+# Rasam au bar et aux pommes de terre
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Poisson
+
+## Commentaire
+
+Le rasam est une soupe originaire de l'Inde du Sud, à la base de tamarin, qui vient contrebalancer la chaleur des plats épicés. Cette version est un repas en soi, à mi-chemin entre la soupe et le poisson en sauce. On peut aussi préparer le rasam avec cinq épices pilées (poivre noir, cumin, coriandre, carvi, graines de moutarde jaune) à la place du garam masala. On peut filtrer le rasam pour obtenir un bouillon clair ou garder tous les aromates pour une soupe plus rustique.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+**Poisson**
+- 30 g de ghee
+- 6 pavés de bar (840 g), la peau légèrement entaillée
+- 1 cuil. à soupe de jus de citron
+- 10 g de feuilles de coriandre (facultatif)
+- Sel de mer et poivre noir
+
+**Pommes de terre**
+- 620 g de pommes de terre désirée (ou autre variété à chair ferme), pelées et coupées en cubes de 2,5 cm
+- 15 g de ghee
+- 20 g de feuilles de curry (caloupilé)
+- 1 ½ cuil. à soupe de graines de moutarde jaune
+- 1 oignon moyen, en petits dés (100 g)
+- 4 gousses d'ail, en petits dés
+- 1 cuil. à café de curcuma moulu
+- 2 tomates moyennes (170 g), coupées en deux, égrainées et grossièrement hachées (100 g)
+- 10 g de beurre doux
+
+**Soupe rasam**
+- 100 g de pulpe de tamarin
+- 1 cuil. à soupe d'huile de tournesol
+- 2 oignons moyens, en petits dés (200 g)
+- 8 gousses d'ail, écrasées
+- 1 ½ cuil. à soupe de garam masala
+- 25 g de feuilles de curry
+- 2 gros piments rouges séchés
+- 3 grosses tomates (300 g), coupées en 6 quartiers de 2 cm
+
+## Déroulé de la recette
+
+1. Mettez les pommes de terre dans une casserole moyenne et couvrez-les d'eau salée. Portez à ébullition, puis baissez le feu et laissez mijoter 10 min pour qu'elles soient juste cuites. Égouttez et réservez.
+
+2. Essuyez et séchez la casserole, puis remettez-la sur le feu pour y faire fondre le ghee. Ajoutez les feuilles de curry et les graines de moutarde, laissez revenir 2 min pour que les parfums se dégagent. Ajoutez ensuite l'oignon et l'ail, laissez fondre pendant 3 à 4 min, et incorporez enfin le curcuma, les tomates et les pommes de terre. Mélangez bien pendant 1 à 2 min avant d'incorporer le beurre, du sel (1 cuil. à café) et du poivre. Laissez encore cuire 1 min, puis réservez.
+
+3. Préparez le rasam : versez 90 cl d'eau bouillante sur le tamarin et laissez reposer 30 min pour que la pulpe se désagrège. Passez dans un tamis fin pour éliminer les graines. Faites chauffer l'huile dans une cocotte pour y faire revenir les oignons et l'ail pendant 4 à 5 min. Ajoutez le garam masala, les feuilles de curry et les piments. Laissez cuire quelques minutes avant d'ajouter les tomates. Versez l'eau de tamarin, baissez le feu et laissez mijoter doucement pendant 15 min (ne pas bouillir). Ajoutez 2 cuil. à café de sel, remuez, puis réservez.
+
+4. Pour faire cuire le poisson, faites fondre le ghee dans une grande poêle à feu moyen. Salez et poivrez les pavés de bar côté peau, puis déposez-les dans le ghee bien chaud, sur la peau, et laissez-les frire pendant 3 à 4 min : la peau doit devenir croustillante et bien dorée. Salez et poivrez côté chair avant de les retourner délicatement pour les laisser cuire 1 min sur l'autre face. Sortez-les de la poêle avant de les arroser de jus de citron.
+
+5. Juste avant de servir, réchauffez les pommes de terre et le rasam. Répartissez les pommes de terre et les pavés de bar dans des bols, arrosez de bouillon chaud et garnissez de feuilles de coriandre (facultatif).
+
+## Noms ingrédients
+
+ail. bar. coriandre. feuilles de curry. gingembre. citrons. oignons. piment rouge séché. pomme de terre. tamarin. tomate
+---
+
+# Filets de daurade et salade mangue-papaye
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Poisson
+
+## Commentaire
+
+C'est la salade de mangue-papaye qui tient la vedette. Pour que les saveurs ressortent, laisser infuser au moins 4 h, voire toute une nuit — sans le basilic, la coriandre, les cacahuètes et les anchois séchés, qu'on ajoute juste avant de servir. Le basilic thaï a un goût anisé ; à défaut, utiliser un mélange de basilic méditerranéen et d'estragon. Si on ne trouve pas d'anchois séchés, la recette fonctionne très bien sans.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+**Poisson**
+- 2 cuil. à soupe d'huile de tournesol
+- 6 filets de daurade (900 g), peau entaillée et sans arêtes
+- 30 g de beurre doux
+- 1 citron vert, coupé en 6 quartiers
+- Sel de mer et poivre noir
+
+**Salade mangue-papaye**
+- 20 cl d'huile de tournesol pour la friture + 1 cuil. à soupe
+- 40 g d'anchois séchés
+- 5 échalotes thaïes, pelées et détaillées en quartiers (50 g)
+- 1 ou 2 piments oiseau
+- 6 cl de vinaigre de riz
+- 6 cl de jus de citron vert
+- 50 g de sucre de palme, râpé
+- 2 cuil. à soupe de nuoc-mâm
+- 2 papayes vertes, épluchées, coupées en deux et taillées en julienne (440 g)
+- 2 mangues vertes moyennes, épluchées et taillées en julienne (380 g)
+- 35 g de feuilles de basilic thaï, ciselées
+- 30 g de feuilles de coriandre (ou de graines germées)
+- 100 g de cacahuètes grillées
+
+## Déroulé de la recette
+
+1. Commencez par préparer la salade. Faites chauffer 2 cm d'huile dans une petite casserole pour y faire frire les anchois pendant 1 à 2 min. Sortez-les avec une écumoire et réservez-les sur une assiette tapissée de papier absorbant.
+
+2. Mettez les échalotes, les piments, le vinaigre, le jus de citron vert, le sucre, le nuoc-mâm et 1 cuil. à soupe d'huile dans le bol d'un robot, puis mixez pour obtenir une pâte à la texture fine. Transférez-la dans un saladier, ajoutez la papaye et la mangue, puis mélangez délicatement. Couvrez et laissez reposer au réfrigérateur au moins 4 h (voire toute une nuit). Sortez la salade quelques minutes avant de servir et ajoutez alors le basilic, la coriandre, les cacahuètes et les anchois.
+
+3. Faites chauffer 2 cuil. à soupe d'huile à feu vif dans une grande poêle. Assaisonnez les filets de daurade des deux côtés (½ cuil. à café de sel et un bon tour de moulin à poivre), puis mettez-les dans la poêle, côté peau vers le bas. Laissez frire 2 à 3 min pour obtenir une peau croustillante, puis retournez et ajoutez le beurre. Quand celui-ci commence à écumer, arrosez-en le poisson et laissez cuire 2 min côté chair. Servez avec la salade mangue-papaye et 1 quartier de citron vert.
+
+## Noms ingrédients
+
+anchois. basilic. cacahuètes. coriandre. citrons verts. daurade. échalotes thaïes. mangue. papaye. piment oiseau
+---
+
+# Églefin vapeur, bagna cauda au sésame et cavolo nero
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Poisson
+
+## Commentaire
+
+La bagna cauda est une sauce piémontaise tiède à base d'ail et d'anchois. L'ajout de graines de sésame lui donne une note asiatique. Le résultat est délicieux avec un poisson blanc ou une viande blanche. Si on n'a pas le courage de préparer les échalotes frites, on peut en trouver facilement dans le commerce, ou faire griller à sec un peu plus de graines de sésame.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+**Poisson**
+- 6 pavés d'églefin (ou cabillaud, flétan, etc.), sans peau ni arêtes (900 g)
+- 1 cuil. à soupe d'huile d'olive
+- 1 cuil. à soupe de jus de citron
+- Sel de mer et poivre noir
+
+**Bagna cauda au sésame**
+- 50 g de graines de sésame
+- 6 cl d'huile d'olive
+- 4 gousses d'ail, émincées
+- 5 piments rouges, épépinés et émincés
+- 4 tomates moyennes, avec la peau, coupées en cubes de 2 cm (500 g)
+- 1 cuil. à soupe de sucre brun clair
+- 2 ½ cuil. à soupe de vinaigre de xérès Valdespino (ou autre marque de qualité)
+- 10 filets d'anchois brun (30 g), rincés et séchés
+- 20 g de beurre doux
+
+**Échalotes frites (facultatif)**
+- 40 g de farine de ménage
+- 20 g de farine de maïs
+- ½ cuil. à café de cinq-épices
+- ½ cuil. à café de poivre blanc moulu
+- 2 grosses échalotes, coupées en quartiers (150 g), puis en rondelles
+- 40 cl environ d'huile de tournesol pour la friture
+
+**Cavolo nero**
+- 2 cuil. à soupe d'huile d'olive
+- 2 gousses d'ail, émincées
+- 1 piment rouge, épépiné et émincé
+- 500 g de cavolo nero, sans les côtes centrales dures, les feuilles finement hachées (300 g)
+- 10 cl de vin blanc
+- Le zeste finement râpé de ½ citron
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 170 °C (th. 5-6). Étalez les graines de sésame sur une plaque de cuisson et faites-les dorer 25 min au four.
+
+2. Faites chauffer l'huile d'olive dans une petite casserole pour y faire revenir pendant 5 à 6 min l'ail et le piment, en remuant souvent. Ajoutez le reste des ingrédients (sauf les graines de sésame grillées) et poursuivez la cuisson encore 8 à 9 min en remuant constamment jusqu'à épaississement. Retirez du feu et incorporez les graines de sésame, du sel (½ cuil. à café) et du poivre. Mixez quelques minutes pour obtenir une pâte lisse. Réservez jusqu'au moment de servir (à réchauffer brièvement au dernier moment).
+
+3. Pour les échalotes frites (facultatif), mélangez dans un bol les deux farines, le cinq-épices, le poivre blanc et ½ cuil. à café de sel. Ajoutez les échalotes et mélangez à la main. Versez 4 cm d'huile dans une petite casserole, faites chauffer à feu vif, puis faites frire les échalotes (en deux fois) pendant 2 à 3 min, jusqu'à ce qu'elles soient croustillantes. Égouttez-les sur du papier absorbant et réservez.
+
+4. Préparez le cavolo nero : faites chauffer l'huile dans une grande casserole, ajoutez l'ail et le piment, laissez-les se colorer pendant 2 à 3 min, puis jetez le cavolo nero dans l'huile chaude et remuez pendant 2 min. Ajoutez le vin, ¼ de cuil. à café de sel et un peu de poivre, puis laissez cuire encore 1 min. Hors du feu, incorporez le zeste de citron. Gardez au chaud.
+
+5. Badigeonnez les pavés d'églefin avec l'huile et 1 ½ cuil. à café de sel (pour les 6 pavés) et un peu de poivre. Tapissez de papier sulfurisé le fond d'un panier vapeur. Versez de l'eau bouillante dans une casserole, puis portez à frémissement. Déposez le poisson dans le panier vapeur, placez celui-ci sur la casserole (le fond ne doit pas toucher l'eau), couvrez et laissez le poisson cuire pendant 5 min : la chair doit s'effeuiller quand on presse délicatement dessus.
+
+6. Répartissez la bagna cauda chaude dans les assiettes, garnissez de cavolo nero, puis déposez un pavé d'églefin dessus. Arrosez de jus de citron, décorez avec des échalotes frites et servez sans attendre.
+
+## Noms ingrédients
+
+anchois. ail. chou kale. citrons. échalotes. églefin. piment rouge. tomate
+---
+
+# Cabillaud cuit au babeurre et lentilles à l'indienne
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Poisson
+
+## Commentaire
+
+Cette recette est parfaite pour un dîner : le poisson doit mariner entre 4 et 6 h. Au dernier moment, pendant que le poisson cuit, on peut réchauffer les lentilles avant d'y incorporer les épinards. Ne pas dépasser 6 h de marinade sinon le poisson « cuit » dans le babeurre. Pour le dhal, ne pas négliger de faire griller à sec les graines de moutarde avant de les mélanger avec les autres épices — sinon leur amertume se transmettra à toute la préparation. On peut terminer avec un filet d'huile d'olive à la bergamote (ou faire infuser des sachets de thé Earl Grey dans l'huile).
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+**Marinade et poisson**
+- ½ cuil. à café de graines de cumin
+- ½ cuil. à café de graines de coriandre
+- ½ cuil. à café de graines de fenouil
+- ½ cuil. à café de flocons de piments séchés
+- ½ cuil. à café de cardamome moulue
+- 15 cl de babeurre
+- 1 beau filet de cabillaud (1 kg), sans peau ni arêtes, coupé en 6 pavés (8 cm x 12 cm)
+- 1 cuil. à soupe d'huile d'olive (ou de l'huile de bergamote)
+- 1 citron, coupé en 6 quartiers, pour servir
+- Sel de mer et poivre noir
+
+**Lentilles à l'indienne**
+- 2 ½ cuil. à soupe de graines de moutarde jaune
+- 60 g de ghee
+- 120 g de lentilles urid dhal, rincées
+- 3 gros oignons, émincés (600 g)
+- 8 gousses d'ail, écrasées
+- 1 cuil. à soupe de concentré de tomates
+- 7 cm de gingembre, épluché et finement haché (60 g)
+- 4 piments rouges, épépinés et émincés
+- 10 g de feuilles de curry frais
+- 8 tomates mûres, en quartiers (800 g)
+- 150 g de jeunes feuilles d'épinards
+
+## Déroulé de la recette
+
+1. Faites griller à sec, dans une poêle, les graines de cumin, de coriandre et de fenouil jusqu'à ce qu'elles commencent à éclater et que le mélange embaume. Mettez-les dans un moulin à épices ou dans un mortier avec les flocons de piments, la cardamome, du sel (½ cuil. à café) et du poivre, puis réduisez en fine poudre. Transférez dans un récipient, versez le babeurre, remuez, puis déposez les pavés de cabillaud dedans. Couvrez d'un film alimentaire et laissez mariner au réfrigérateur pendant 4 à 6 h.
+
+2. Pour préparer le dhal, commencez par faire éclater les graines de moutarde à sec dans une petite casserole bien chaude, couverte (comptez 1 min environ). Retirez du feu dès que vous entendez les graines crépiter et agitez vivement, laissez reposer encore 1 min à couvert, puis transférez les graines dans un bol.
+
+3. Faites fondre le ghee dans une casserole moyenne pour y faire revenir les lentilles pendant 2 min en remuant souvent. Ajoutez les oignons et ¼ de cuil. à café de sel, poursuivez la cuisson 8 min à feu moyen. Ajoutez l'ail, le concentré de tomate, le gingembre, les piments et les feuilles de curry. Laissez cuire encore 5 min. Incorporez les tomates et laissez mijoter 15 min. Ajoutez les graines de moutarde, versez 7,5 cl d'eau et poursuivez la cuisson encore 5 min. Transférez le mélange dans le bol d'un robot, ajoutez 2 cuil. à café de sel et poivrez généreusement, puis mixez grossièrement sans réduire en purée. Réservez au chaud.
+
+4. Préchauffez le four à 210 °C (th. 7). Retirez les pavés de cabillaud de la marinade et disposez-les sur une plaque de cuisson tapissée de papier sulfurisé. Enfournez pour 8 à 10 min, puis passez-les sous le gril pendant 2 min.
+
+5. Jetez les feuilles d'épinards dans une poêle chaude et laissez-les juste 30 s pour qu'elles commencent à se flétrir, puis répartissez-les dans les assiettes. Ajoutez le dhal, posez le cabillaud par-dessus et arrosez d'un filet d'huile. Servez avec des quartiers de citron.
+
+## Noms ingrédients
+
+ail. cabillaud. citrons. concentré de tomate. épinards. feuilles de curry. gingembre. lentilles urid dhal. oignons. piment rouge. tomate
+---
+
+# Turbots frits, mayonnaise aux huîtres et salsa de concombres
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Poisson
+
+## Commentaire
+
+La mayonnaise et la salsa peuvent être préparées à l'avance et conservées au réfrigérateur. On peut partir d'une bonne mayonnaise du commerce en y ajoutant de la moutarde, du poivre de Cayenne, les huîtres et leur eau. Merci à Craig Tregonning pour cette recette.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+**Poisson**
+- 2 cuil. à soupe d'huile d'olive + un peu pour servir
+- 6 petits turbots en filets, avec la peau (800 g)
+- 10 g de beurre doux
+- 2 cuil. à café de jus de citron
+- Sel de mer et poivre noir
+
+**Mayonnaise aux huîtres**
+- 1 jaune d'œuf
+- 1 cuil. à soupe de moutarde forte
+- 1 cuil. à soupe de vinaigre de vin blanc
+- 1 pincée de poivre de Cayenne
+- 15 cl d'huile de tournesol
+- 3 grosses huîtres, ouvertes (conserver 1 cuil. à café de leur eau)
+
+**Salsa de concombre**
+- 1 cuil. à café de sucre en poudre
+- 2 cuil. à soupe de vinaigre de riz
+- 1 cuil. à café d'huile d'olive
+- 2 petits concombres, épluchés, épépinés et coupés en petits dés (150 g)
+- 20 radis blanc et rouge (ou 12 radis rouges ronds), en petits dés (100 g)
+- ½ oignon rouge moyen, en petits dés (80 g)
+- 10 g de ciboulette, ciselée
+
+## Déroulé de la recette
+
+1. Commencez par la mayonnaise. Mettez le jaune d'œuf, la moutarde, le vinaigre, le poivre de Cayenne et ¼ de cuil. à café de sel dans le bol d'un robot. Faites tourner le moteur et incorporez progressivement l'huile, puis les huîtres, l'eau des huîtres et 1 cuil. à soupe d'eau. Continuez de mélanger pour obtenir une consistance épaisse. Réservez au réfrigérateur jusqu'au moment de servir (7 h au maximum).
+
+2. Mélangez dans un bol le sucre et le vinaigre de la salsa, fouettez pour faire dissoudre le sucre, puis ajoutez le reste des ingrédients de la salsa et ½ cuil. à café de sel. Mélangez et réservez au réfrigérateur. Sortez-la un peu avant de servir pour qu'elle soit à température ambiante.
+
+3. Faites chauffer l'huile d'olive dans une grande poêle. Salez et poivrez les filets, puis déposez 3 filets dans la poêle, côté peau vers le haut. Faites-les frire 3 min, pour qu'ils se colorent, puis retournez-les. Ajoutez aussitôt la moitié du beurre, que vous laissez mousser avant d'en arroser les filets. Quand ces derniers sont cuits, sortez-les de la poêle, arrosez-les de jus de citron et réservez-les au chaud pendant que vous faites cuire les autres filets de la même manière.
+
+4. Étalez un peu de mayonnaise dans les assiettes de service, posez un filet dessus et garnissez de salsa. Arrosez d'un trait d'huile et servez.
+
+## Noms ingrédients
+
+ciboulette. citrons. concombres. huîtres. oignons rouges. piment de Cayenne. radis. turbot
+---
+
+# Pavés de flétan en croûte, vichyssoise à la roquette sauvage et au persil
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Poisson
+
+## Commentaire
+
+Au restaurant, la vichyssoise est préparée avec des orties et de la livèche à la place de la roquette et du persil. Pour un velouté lisse, passer la soupe mixée dans un tamis fin. La soupe et la croûte de noix peuvent être préparées la veille. Pour garder la couleur verte, plonger le récipient dans un grand saladier d'eau glacée après le mixage. Ne pas oublier du bon pain frais pour saucer.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+**Poisson**
+- 6 pavés de flétan, sans peau ni arêtes (950 g)
+- 2 cuil. à soupe d'huile d'olive
+- 2 cuil. à soupe de jus de citron
+- 12 radis blanc et rouge, lavés (garder les feuilles et la pointe de la racine), puis coupés en deux dans la hauteur
+- Sel de mer et poivre noir
+
+**Vichyssoise**
+- 100 g de brins de persil
+- 150 g de roquette sauvage
+- 1 cuil. à soupe d'huile d'olive
+- 40 g de beurre doux
+- 2 échalotes moyennes, grossièrement hachées (100 g)
+- 3 gousses d'ail, écrasées
+- 1 poireau moyen, émincé (200 g)
+- 2 grosses pommes de terre (vivaldi ou désirée), pelées et coupées en cubes de 2 cm (370 g)
+- 1 l de bouillon de volaille
+- 25 g de feuilles d'épinards
+
+**Croûte de pistaches et pignons de pin**
+- 150 g de beurre doux, en dés de 1 cm
+- 60 g de pistaches décortiquées, légèrement grillées et grossièrement hachées
+- 60 g de pignons de pin, légèrement grillés et grossièrement hachés
+- ¼ de cuil. à café de sucre en poudre
+- 2 cuil. à soupe de jus de citron
+
+## Déroulé de la recette
+
+1. Pour la croûte de noix, préparez un beurre noisette : mettez le beurre à fondre à feu vif dans une casserole moyenne, puis laissez-le cuire 4 min jusqu'à ce qu'il commence à brunir. Filtrez-le dans un tamis fin pour éliminer les résidus noirs, puis ajoutez les pistaches, les pignons de pin, le sucre, le jus de citron et ¼ de cuil. à café de sel. Mélangez, puis étalez sur une petite plaque de cuisson (16 x 21 cm) tapissée de papier sulfurisé. Réfrigérez 2 à 3 h pour que le beurre se fige, puis découpez en six rectangles égaux. Remettez au réfrigérateur jusqu'à utilisation.
+
+2. Pour la vichyssoise, commencez par faire blanchir les feuilles de persil et de roquette en les plongeant 30 s dans une casserole d'eau salée à ébullition, puis rafraîchissez-les sous l'eau froide. Égouttez, pressez bien pour évacuer l'eau, laissez sécher, puis hachez grossièrement.
+
+3. Mettez l'huile et le beurre dans une casserole moyenne et faites chauffer à feu moyen pour y laisser fondre les échalotes pendant 4 à 5 min. Ajoutez l'ail et le poireau, laissez cuire 2 à 3 min, puis mettez les pommes de terre. Remuez pendant 5 à 6 min pour les faire dorer de toutes parts, puis versez le bouillon et portez à ébullition. Laissez ensuite mijoter 8 à 10 min : les pommes de terre doivent rester un peu fermes. Ajoutez le persil et la roquette blanchis, poursuivez la cuisson 1 min, puis retirez la casserole du feu pour incorporer les épinards. Salez (1 ½ cuil. à café de sel) et poivrez généreusement. Mixez en velouté bien lisse, puis réservez au chaud.
+
+4. Préchauffez le four à 200 °C (th. 6-7), en position gril. Disposez les pavés de flétan sur une plaque de cuisson tapissée de papier sulfurisé et badigeonnez-les avec 2 cuil. à soupe d'huile. Salez (½ cuil. à café de sel pour les 6 filets) et poivrez généreusement. Faites-les rôtir 6 à 7 min, jusqu'à ce qu'ils soient presque cuits. Déposez un rectangle de croûte de noix sur chaque filet et remettez-les sous le gril pour 2 à 3 min, jusqu'à ce que la croûte soit bien dorée. Retirez du four et arrosez de jus de citron.
+
+5. Réchauffez la vichyssoise et répartissez-la dans de grands bols peu profonds. Déposez un filet de flétan dans chaque bol et décorez avec les radis. Servez aussitôt.
+
+## Noms ingrédients
+
+ail. citrons. échalotes. épinards. flétan. persil. pistaches. poireau. pomme de terre. radis. roquette
+---
+
+# Filets de grondin en feuille de bananier, sambal d'ananas et piment
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Poisson
+
+## Commentaire
+
+Pour la pâte de curry, on peut utiliser une préparation du commerce (la recette maison donne 300 g, mais le reste se garde au réfrigérateur ou au congélateur). On peut remplacer le grondin par du cabillaud, de l'églefin ou du merlu. Si on ne trouve pas de feuilles de bananier, faire cuire le poisson dans du papier sulfurisé. On peut préparer les papillotes à l'avance et n'enfourner qu'au dernier moment. Servir avec du riz gluant au sésame ou du riz thaï à la vapeur.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+**Poisson**
+- 8 cl de crème de coco
+- 80 g de pâte de curry maison (voir ci-dessous) ou du commerce
+- Le zeste de 1 citron vert
+- 500 g de filet de grondin (ou autre poisson blanc à chair ferme), sans la peau et sans les arêtes, coupé en 4 pavés d'environ 10 cm x 5 cm
+- 4 feuilles de bananier, découpées en rectangles de 21 cm x 16 cm (ou du papier sulfurisé)
+- 10 g de jeunes feuilles de cresson (facultatif)
+- 2 citrons verts, coupés en deux et grillés (facultatif)
+- Sel de mer
+
+**Sambal d'ananas**
+- La chair de 1 petit ananas, en dés de 1 cm (300 g)
+- La chair de ½ gros concombre, en dés de 1 cm (140 g)
+- 2 piments rouges, émincés
+- 2 petites échalotes, pelées et émincées (30 g)
+- 3 cuil. à soupe de jus de citron vert
+- 1 ½ cuil. à soupe de nuoc-mâm
+- ¾ de cuil. à café de sucre en poudre
+- 15 g de feuilles de coriandre, grossièrement hachées
+- 1 cuil. à café de graines de pavot
+
+**Pâte de curry rouge maison**
+- 1 cuil. à café de pâte de crevettes
+- 4 petites échalotes, pelées et coupées en quartiers (60 g)
+- 3 grosses gousses d'ail, écrasées
+- 4 cm de gingembre, épluché et grossièrement haché (35 g)
+- 7 piments oiseau, épépinés et grossièrement hachés
+- 5 tiges de citronnelle, parées, écrasées et finement hachées
+- 18 feuilles fraîches de citron kaffir
+- 1 cuil. à café de curcuma moulu (ou 20 g de curcuma frais)
+- 1 cuil. à soupe de graines de coriandre, grillées
+- ¾ de cuil. à café de cumin moulu
+- 1 cuil. à café de cardamome moulue
+- 3 cuil. à soupe d'huile de tournesol
+- 75 cl de lait de coco
+
+## Déroulé de la recette
+
+1. Commencez par préparer la pâte de curry. Préchauffez le four à 210 °C (th. 7). Enveloppez la pâte de crevettes dans un petit morceau de papier d'aluminium et faites-la rôtir au four 8 min. Mettez-la dans le bol d'un robot avec les autres ingrédients, sauf le lait de coco. Mixez pour former une pâte grossière. Incorporez le lait de coco et mixez de nouveau pour obtenir une sauce lisse.
+
+2. Mélangez dans un saladier 80 g de pâte de curry, la crème de coco, le zeste de citron vert et 2 cuil. à café de sel. Ajoutez le poisson. Remuez délicatement pour que tout le poisson soit enrobé. Couvrez et laissez mariner 2 h au réfrigérateur.
+
+3. Mettez dans un saladier tous les ingrédients du sambal, sauf la coriandre et les graines de pavot. Mélangez et laissez reposer 30 min.
+
+4. Préchauffez le four à 210 °C (th. 7). Enfournez les feuilles de bananier pour 1 min pour les attendrir. Étalez-les sur le plan de travail, face brillante en bas. Disposez un filet de poisson sur chaque feuille, puis roulez délicatement mais fermement chaque feuille de bananier pour envelopper le poisson. Gardez les extrémités ouvertes. Disposez les feuilles de bananier roulées sur une plaque de cuisson, puis enfournez pour 7 à 8 min.
+
+5. Présentez les feuilles de bananier roulées sur les assiettes de service, en ouvrant délicatement le haut pour montrer le poisson. Ajoutez au sambal les feuilles de coriandre et les graines de pavot, puis déposez quelques cuillerées de ce mélange à côté du poisson. Ajoutez les feuilles de cresson et un demi-citron grillé (facultatif). Servez sans attendre.
+
+## Noms ingrédients
+
+ail. ananas. citronnelle. citron kaffir. citrons verts. concombres. coriandre. noix de coco. cresson. échalotes. feuilles de bananier. gingembre. grondin. crevettes. piment oiseau. piment rouge
+---
+
+# Limandes-soles au beurre noisette nori et câpres frites
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Poisson
+
+## Commentaire
+
+L'ajout d'algues nori séchées apporte un parfum iodé qui rappelle la mer. Scully a découvert l'importance du poisson cuisiné au bord de la mer lors de ses années au Bathers' Pavilion à Sydney.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 15 cl d'huile de tournesol, pour la friture
+- 60 g de câpres, rincées et séchées
+- 4 limandes-soles entières (1,6 kg), sans la peau et séchées
+- 2 cuil. à soupe d'huile d'olive
+- 100 g de beurre doux, en cubes grossiers
+- 6 cm de gingembre, épluché et râpé (50 g)
+- 4 cl de jus de citron
+- 1 feuille d'algues nori, passée au moulin à épices pour obtenir 1 cuil. à soupe de poudre fine
+- 10 g de persil, finement haché
+- 1 citron en quartiers, pour servir
+- Sel de mer et poivre noir
+
+## Déroulé de la recette
+
+1. Faites chauffer l'huile de tournesol à feu vif dans une petite casserole, puis ajoutez délicatement les câpres et laissez-les frire pendant 1 min, jusqu'à ce qu'elles soient croustillantes et commencent à brunir. Sortez-les avec une écumoire et mettez-les à égoutter sur du papier absorbant.
+
+2. Préchauffez le gril du four. Posez les limandes sur une grande plaque tapissée de papier sulfurisé, puis salez-les (1 cuil. à café de sel). Retournez-les, badigeonnez-les d'huile d'olive et assaisonnez-les (1 cuil. à café de sel et un bon tour de moulin à poivre). Faites-les griller 8 à 10 min, puis réservez au chaud jusqu'au moment de servir.
+
+3. Pendant que les soles cuisent, préparez le beurre noisette : faites chauffer le beurre 5 à 6 min dans une casserole, jusqu'à ce qu'il commence à mousser et prenne une teinte bien dorée. Hors du feu, incorporez le gingembre, le jus de citron, les algues en poudre et le persil.
+
+4. Versez ½ cuil. à soupe de beurre noisette dans chaque assiette et parsemez de quelques câpres. Posez le poisson dessus, nappez de sauce et ajoutez le reste des câpres. Servez aussitôt, avec 1 quartier de citron.
+
+## Noms ingrédients
+
+câpres. citrons. gingembre. limandes-soles. persil
+---
+
+# Marmite de rougets et coquillages au safran, spätzle aux herbes
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Poisson
+
+## Commentaire
+
+Les spätzle sont des petites pâtes très populaires dans le sud de l'Allemagne et en Autriche. Pour former les rubans, la méthode avec la planche à découper (proposée ici) est la plus simple : on abaisse la pâte sur une planche et on coupe des rubans que l'on fait tomber dans l'eau frémissante. L'eau ne doit pas bouillir sinon les spätzle se brisent. Les spätzle sont aussi délicieux nature, juste passés à la poêle avec du beurre noisette.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+**Spätzle aux herbes**
+- 130 g de jeunes feuilles d'épinards
+- 40 g de feuilles de basilic
+- 200 g de farine, tamisée
+- 2 œufs
+- ¼ de cuil. à café de noix muscade râpée
+- 20 cl de lait entier
+- Sel de mer et poivre noir
+
+**Gremolata**
+- 30 g de persil, ciselé
+- Le zeste finement râpé de 1 gros citron
+- 7,5 cl d'huile d'olive
+- ½ cuil. à café de flocons de piments séchés
+
+**Marmite de fruits de mer**
+- 3 cuil. à soupe d'huile d'olive
+- 2 grosses échalotes, hachées (140 g)
+- 3 gousses d'ail, écrasées
+- 2 branches de céleri, en petits dés (100 g)
+- 45 cl de vermouth sec
+- 30 cl de vin blanc sec
+- 300 g de palourdes, bien rincées
+- 250 g de coques, bien rincées
+- 300 g de moules, nettoyées, barbes éliminées
+- ¼ de cuil. à café de stigmates de safran
+- La chair de 4 tomates moyennes, en cubes de 2 cm (300 g)
+- 25 cl de bouillon de volaille
+- 6 petits filets de rouget (300 g)
+
+## Déroulé de la recette
+
+1. Commencez par préparer les spätzle. Portez de l'eau à ébullition dans une casserole moyenne pour y faire blanchir les épinards et le basilic pendant 30 s. Égouttez dans une passoire. Rafraîchissez sous l'eau froide et pressez pour éliminer l'eau. Hachez finement.
+
+2. Mettez la farine dans un saladier, ajoutez les œufs, la noix muscade et 2 cuil. à café de sel, poivrez généreusement, puis mélangez délicatement en incorporant progressivement le lait pour obtenir une pâte lisse. Ajoutez les épinards et le basilic, puis laissez épaissir 1 h au réfrigérateur.
+
+3. Pour la gremolata, mélangez tous les ingrédients dans un bol, salez (¼ de cuil. à café de sel) et poivrez. Réservez au frais.
+
+4. Pour la cuisson des spätzle, préparez un saladier d'eau glacée ; portez au point de frémissement un grand volume d'eau salée dans un faitout. Avec une spatule, abaissez la pâte sur une planche à découper pour former un carré de 15 cm de côté sur 5 mm d'épaisseur. Amenez la planche au bord du faitout en l'inclinant à 45 degrés. Avec un couteau, taillez des rubans de pâte d'environ 4 x 1 cm, que vous laissez tomber aussitôt dans l'eau frémissante. Dès qu'ils remontent à la surface (généralement au bout de 1 min), sortez-les avec une écumoire et plongez-les aussitôt dans l'eau glacée. Quand tous les spätzle sont cuits et refroidis, mettez-les à égoutter sur un torchon propre.
+
+5. Préparez maintenant le bouillon pour la marmite : faites chauffer l'huile à feu moyen dans une grande casserole pour y faire fondre les échalotes et l'ail pendant 3 à 4 min. Ajoutez le céleri, laissez cuire 1 min, puis augmentez le feu au maximum. Versez le vermouth et le vin, puis laissez bouillir 5 min pour que le liquide réduise de moitié. Ajoutez les coquillages, couvrez et maintenez à feu vif pendant 2 à 4 min, pour que les coquillages s'ouvrent (jetez ceux qui restent fermés). Avec l'écumoire, transférez-les dans une passoire. Quand ils sont moins chauds, décoquillez-en les deux tiers et laissez les autres intacts.
+
+6. Baissez le feu sous la casserole avant d'ajouter le safran, les tomates, le bouillon, du sel (½ cuil. à café) et du poivre. Déposez délicatement les filets de rougets dans la casserole, couvrez et laissez-les cuire 3 min, puis sortez-les avec une écumoire. Réservez au chaud.
+
+7. Ajoutez les spätzle et la moitié de la gremolata dans la casserole. Réchauffez le tout pendant 2 min en remuant délicatement.
+
+8. Répartissez les coquillages et les spätzle dans des assiettes creuses, posez les filets de rouget dessus, puis versez le bouillon. Ajoutez le reste de la gremolata et servez aussitôt.
+
+## Noms ingrédients
+
+ail. basilic. céleri. citrons. coques. échalotes. épinards. moules. palourdes. persil. piment séché. rouget. tomate
+---
+
+# Noix de pétoncles poêlées, salsa de maïs et merguez, sauce à l'oseille
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Poisson
+
+## Commentaire
+
+L'oseille a une saveur acidulée mais n'est pas facile à trouver — on peut la remplacer par de la roquette ou des feuilles de moutarde en ajoutant un trait de jus de citron. Le plat fonctionne aussi très bien avec la sauce au sumac seule. Pour le maïs, prévoyez deux épis pour obtenir 250 g de grains ; à défaut, utiliser du maïs congelé.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+**Pétoncles et salsa**
+- 8,5 cl d'huile d'olive
+- 250 g de grains de maïs frais ou congelés
+- ½ petit oignon rouge, haché finement (60 g)
+- 80 g de piquillos (petits poivrons rouges rôtis, en conserve), en dés de 1 cm
+- 2 branches de céleri, en dés de 5 mm (100 g)
+- 10 g d'estragon, ciselé
+- 20 g de feuilles de coriandre, ciselées
+- Le zeste râpé de 2 citrons verts + 1 ½ cuil. à soupe de jus
+- 1 piment rouge, épépiné et finement haché
+- 300 g de merguez
+- 30 noix de pétoncles, avec leur corail (800 g)
+- 1 cuil. à soupe de jus de citron
+- Sel de mer et poivre noir
+
+**Sauce à l'oseille**
+- 70 g de feuilles d'oseille
+- 1 cuil. à soupe de vinaigre de riz
+- 2 cuil. à soupe d'huile d'olive
+
+**Sauce au sumac**
+- 160 g de crème fraîche
+- 2 cuil. à café de sumac
+- 1 cuil. à soupe d'huile d'olive
+
+## Déroulé de la recette
+
+1. Commencez par préparer les deux sauces. Mettez l'oseille, le vinaigre et l'huile dans le bol d'un robot, avec ¼ de cuil. à café de sel et 1 cuil. à soupe d'eau ; mixez pour obtenir une consistance lisse. Mettez la crème fraîche dans un bol avec le sumac, l'huile et ¼ de cuil. à café de sel. Mélangez bien. Réservez les deux sauces au réfrigérateur.
+
+2. Faites chauffer 1 cuil. à café d'huile d'olive à feu vif dans une grande poêle pour y faire frire les grains de maïs pendant 4 à 5 min, jusqu'à ce qu'ils soient bien dorés. Transférez dans un bol et laissez refroidir avant d'ajouter l'oignon, le poivron piquillo, le céleri, l'estragon, la coriandre, le zeste et le jus de citron vert, le piment, 3 cuil. à soupe d'huile d'olive, du sel (1 ¼ de cuil. à café) et du poivre. Réservez.
+
+3. Essuyez la poêle et remettez-la sur le feu avec 1 cuil. à café d'huile. Quand l'huile fume, déposez les merguez dedans et laissez-les cuire entre 8 et 12 min selon leur épaisseur. Mettez-les ensuite à refroidir sur du papier absorbant, puis découpez-les en rondelles avant de les ajouter à la salsa au maïs.
+
+4. Laissez 1 cuil. à soupe d'huile dans la poêle et faites-la chauffer à feu vif. Dans un bol, mélangez les noix de pétoncles avec le reste d'huile d'olive, du sel (1 cuil. à soupe) et du poivre. Quand la poêle est bien chaude, jetez la moitié des noix de pétoncles dedans et faites-les cuire environ 4 min en les retournant à mi-cuisson. Sortez-les de la poêle, arrosez-les de jus de citron et gardez-les au chaud pendant que vous faites cuire les noix restantes.
+
+5. Pour servir, déposez de la sauce à l'oseille dans le fond des bols de service. Disposez la salsa de maïs par-dessus, puis les noix de pétoncles. Servez aussitôt en proposant la crème au sumac à part.
+
+## Noms ingrédients
+
+céleri. citrons verts. coriandre. citrons. maïs. merguez. oignons rouges. oseille. pétoncles. piment rouge. piquillos
+---
+
+# Poulpe grillé, chou kale sauté, salsa d'olives noires et raisins secs
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Poisson
+
+## Commentaire
+
+Pour les poulpes congelés (préférables), le froid extrême attendrit leur chair. Si on utilise des poulpes frais, les attendrir en les faisant cuire dans de l'eau bouillante avec un bouchon de liège, ou en les ébouillantant trois fois. La salsa et le chou kale fonctionnent aussi très bien avec des filets de maquereau poêlé. Un grand merci à David Bravo pour cette recette.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+**Poulpe**
+- 1 gros poulpe (1,8 kg entier, 1,5 kg une fois nettoyé)
+- 1 petite branche de céleri, hachée grossièrement (50 g)
+- 1 petit fenouil, paré et haché grossièrement (80 g)
+- 1 petit poireau, paré et émincé
+- 2 brins de thym
+- 2 feuilles de laurier
+- 1 cuil. à café de grains de poivre noir
+- 1 cuil. à café de graines de coriandre
+- 50 cl de vin blanc
+- 3 cuil. à soupe d'huile d'olive
+- 1 cuil. à soupe de harissa mélangée avec ½ cuil. à café d'eau de rose
+- 1 ½ cuil. à soupe de jus de citron
+- Sel de mer
+
+**Salsa**
+- 50 g de raisins secs
+- 1 petit oignon rouge, coupé en petits dés (110 g)
+- 100 g d'olives kalamata dénoyautées, en fines rondelles
+- 1 ½ cuil. à soupe de vinaigre de xérès Valdespino (ou autre marque de qualité)
+- 1 cuil. à soupe d'huile d'olive
+- 10 g de feuilles de menthe
+
+**Chou kale**
+- 2 cuil. à soupe d'huile d'olive
+- 10 g de beurre doux
+- 1 gousse d'ail, émincée
+- 300 g de chou kale, sans les côtes dures, les feuilles grossièrement hachées (180 g)
+- 8 cl de bouillon de légumes
+- 8 cl de vin blanc
+
+## Déroulé de la recette
+
+1. Pour nettoyer le poulpe, tranchez la tête juste en dessous des yeux et jetez-la. Retournez les tentacules pour pousser sur le bec et l'éliminer. Pelez la partie charnue des tentacules en gardant ces dernières intactes (avec leurs ventouses).
+
+2. Mettez dans une cocotte le céleri, le fenouil, les poireaux, le thym, le laurier, le poivre, la coriandre, le vin blanc et 1 cuil. à café de sel. Versez 1,2 l d'eau, portez à ébullition, puis baissez le feu. Avec des pinces, plongez le poulpe et sortez-le au bout de 5 s. Répétez deux fois cette opération, jusqu'à ce que les tentacules se recroquevillent. Ensuite, immergez le poulpe dans l'eau, posez dessus un disque de papier sulfurisé maintenu avec une assiette retournée, puis laissez mijoter à feu moyen 40 à 50 min. Sortez le poulpe de la casserole et laissez-le refroidir avant de le placer au réfrigérateur.
+
+3. Quand le poulpe est bien froid, coupez les tentacules en biais, en tronçons de 2 cm d'épaisseur, en laissant les extrémités intactes sur 4 cm. Mettez le tout dans un saladier avec 1 cuil. à soupe d'huile d'olive et la harissa. Mélangez bien, puis réservez au moins 2 h au réfrigérateur (voire toute une nuit).
+
+4. Préparez la salsa : mettez les raisins dans une petite casserole avec 8 cl d'eau, portez à ébullition, puis retirez du feu et laissez reposer 1 h jusqu'à ce que les raisins soient gonflés et moelleux. Égouttez-les et mettez-les dans un bol avec le reste des ingrédients de la salsa, sauf la menthe. Poivrez généreusement, mélangez, puis réservez jusqu'au moment de servir.
+
+5. Pour la cuisson du chou, commencez par faire revenir l'ail pendant 1 min dans l'huile d'olive et le beurre fondu, puis ajoutez le chou kale. Remuez vivement, puis mouillez avec le bouillon et le vin. Salez et poivrez, puis laissez cuire 3 à 4 min. Égouttez le chou dans une passoire et réservez au chaud.
+
+6. Faites chauffer une grande poêle à feu vif. Mélangez le poulpe avec l'huile d'olive restante, puis déposez-le dans la poêle fumante et laissez-le cuire 1 à 2 min, en le retournant une ou deux fois, jusqu'à ce que chaque morceau soit bien grillé. Transférez le poulpe dans un saladier et ajoutez le jus de citron.
+
+7. Répartissez le chou kale chaud dans les assiettes de service et disposez le poulpe dessus. Ajoutez la menthe déchiquetée dans la salsa avant d'en garnir les assiettes.
+
+## Noms ingrédients
+
+ail. céleri. chou kale. fenouil. citrons. menthe. olives de Kalamata. oignons rouges. poireau. poulpe. raisins secs
+---
+
+# Maquereau poêlé, salade de noix de coco et d'arachides
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Poisson
+
+## Commentaire
+
+La salade de noix de coco fraîche avec des herbes fraîches se marie très bien avec les poissons gras — ou avec du poulet mariné et grillé. La salade peut aussi se déguster seule pour une collation. Prévoyez deux grandes poêles pour faire cuire tous les filets en même temps, ou procédez en deux fois en réservant les premiers filets au four à 70 °C.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+**Maquereau**
+- 2 citrons verts, coupés en deux
+- 8 filets de maquereaux (640 g), sans arêtes, peau légèrement entaillée
+- 2 cuil. à soupe d'huile d'olive
+- Sel de mer et poivre noir
+
+**Assaisonnement**
+- 35 g de sucre de palme, râpé
+- 2,5 cl de vinaigre de riz
+- 3 cl de jus de citron vert
+- 1 cuil. à café de nuoc-mâm
+
+**Salade de noix de coco**
+- 3,5 cl de mirin
+- 3,5 cl de vinaigre de riz
+- 10 g de sucre en poudre
+- 4 cm de gingembre, épluché et en julienne (40 g)
+- 150 g de chair de noix de coco fraîche, grossièrement râpée (soit 1 noix de coco moyenne)
+- 1 piment rouge long, épépiné et taillé en julienne
+- 2 oignons verts, en julienne (65 g)
+- 120 g de cacahuètes salées grillées, grossièrement hachées
+- 15 g de feuilles de coriandre
+- 10 g de feuilles de menthe, déchiquetées
+
+## Déroulé de la recette
+
+1. Commencez par préparer le gingembre mariné pour la salade : mélangez dans une petite casserole le mirin, le vinaigre de riz, le sucre en poudre et 1 pincée de sel. Portez à frémissements en remuant pour dissoudre le sucre. Retirez la casserole du feu, ajoutez le gingembre et laissez refroidir.
+
+2. Pour l'assaisonnement, faites fondre le sucre de palme à feu doux dans une petite casserole, avec ½ cuil. à soupe d'eau. Au bout de 2 min, retirez la casserole du feu pour incorporer le vinaigre de riz, le jus de citron vert et le nuoc-mâm. Réservez.
+
+3. Mettez la noix de coco, le piment, les oignons verts, les cacahuètes, la coriandre et la menthe dans un saladier. Égouttez le gingembre mariné et ajoutez-le dans le saladier (jetez la marinade). Versez l'assaisonnement, mélangez délicatement et réservez.
+
+4. Faites chauffer une grande poêle à feu vif pour y faire caraméliser les moitiés de citrons verts pendant 2 min (face coupée en bas), puis sortez-les de la poêle.
+
+5. Badigeonnez les filets de maquereaux avec l'huile avant de les assaisonner (1 cuil. à café de sel en tout et un tour de moulin à poivre sur chaque filet). Déposez 4 filets dans la poêle, peau en bas, et laissez-les cuire 2 à 3 min, jusqu'à ce qu'ils soient dorés et croustillants. Retournez-les et poursuivez la cuisson 1 min côté chair. Sortez-les de la poêle et gardez-les au chaud pendant que vous faites cuire les 4 filets restants.
+
+6. Dressez les filets de maquereaux sur les assiettes. Proposez à part la salade de noix de coco et le citron vert grillé.
+
+## Noms ingrédients
+
+cacahuètes. citrons verts. coriandre. gingembre. maquereau. menthe. noix de coco. oignons verts. piment rouge
+---
+
+# Brochettes de thon, mochis et salade de carottes au yuzu
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Poisson
+
+## Commentaire
+
+Le yuzu offre une saveur entre citron vert et mandarine — on le trouve en jus pressé en magasins bio ou grandes surfaces ; à défaut, utiliser du jus de citron vert. La farine de riz gluant (aussi appelée crème de riz) apporte une texture collante aux mochis. Les mochis peuvent être préparés à l'avance et réchauffés au four 3 à 4 min avant de servir. Le glaçage pour le thon peut également être réalisé à l'avance. Cette recette peut aussi être servie en entrée en réduisant les quantités.
+
+## Ingrédients
+
+*Pour 6 personnes en plat (pour 12 personnes en entrée)*
+
+**Brochettes de thon**
+- 15 cl de saké
+- 9 cl de mirin
+- 9 cl de sauce soja
+- 35 g de sucre en poudre
+- 25 cl de bouillon de volaille
+- 6 pavés de thon de 2 à 3 cm d'épaisseur (1 kg), coupés en cubes
+- 2 cuil. à soupe d'huile de tournesol
+- Sel de mer et poivre noir
+- 12 brochettes en bois, trempées 30 min dans de l'eau
+
+**Mochis**
+- 50 cl de crème de coco
+- 2 gros bâtons de citronnelle, légèrement écrasés
+- 8 feuilles de citron kaffir (fraîches ou surgelées)
+- 4 feuilles de pandan (ou 1 gousse de vanille)
+- 220 g de farine de riz gluant
+- 1 ½ cuil. à soupe de levure
+- 50 g de beurre doux, fondu
+- 2 œufs, légèrement battus
+- 1 cuil. à café de sucre en poudre
+
+**Salade de carottes au yuzu**
+- 2 carottes moyennes, épluchées et taillées en julienne (140 g)
+- 100 g de pois mange-tout, émincés en biais
+- 7 oignons verts, émincés (90 g)
+- 4 piments rouges moyens, épépinés et taillés en julienne
+- 140 g de shiitakés, pieds éliminés et émincés (110 g)
+- 15 g de graines de sésame grillées
+- 2 cuil. à soupe de jus de yuzu (ou de citron vert)
+- 3 cuil. à soupe de vinaigre de riz
+- 3 cuil. à soupe de mirin
+- 2 cm de gingembre, épluché et finement râpé (10 g)
+- 2 cuil. à café d'huile de tournesol
+
+## Déroulé de la recette
+
+1. Préparez d'abord les mochis. Mettez dans une casserole la crème de coco, la citronnelle, les feuilles de kaffir et de pandan, portez à ébullition, puis retirez aussitôt du feu. Laissez infuser au moins 30 min. Jetez les aromates et réservez.
+
+2. Préchauffez le four à 200 °C (th. 6-7). Mettez dans un saladier la farine de riz et la levure, formez un puits au milieu. Ajoutez le beurre fondu, les œufs et la crème de coco infusée, ajoutez le sucre et 1 cuil. à café de sel. Mélangez pour former une pâte lisse, que vous étalez sur une plaque à pâtisserie (30 cm x 20 cm) tapissée de papier sulfurisé. Enfournez pour 45 min, puis sortez la plaque du four et laissez refroidir. Retournez le gâteau sur une planche à découper, coupez les bords, puis détaillez-le en 12 rectangles de 4 cm x 10 cm. Remettez ces derniers sur la plaque.
+
+3. Préparez le glaçage du thon : mélangez dans une casserole le saké, le mirin, la sauce soja, le sucre et le bouillon, portez à ébullition, puis laissez frémir 35 à 40 min en remuant de temps en temps, pour obtenir une sauce épaisse. Versez dans un bol et réservez.
+
+4. Pour préparer la salade, mélangez dans un bol les carottes, les mange-tout, les oignons verts, les piments, les champignons et les graines de sésame. Fouettez le jus de yuzu, le vinaigre de riz, le mirin, le gingembre, l'huile et ½ cuil. à café de sel (assaisonner au dernier moment).
+
+5. Déposez les cubes de thon dans un saladier, salez (2 cuil. à café de sel) et poivrez, mélangez bien, puis préparez les brochettes en enfilant 6 cubes de thon sur chaque pique. Mettez un gril à chauffer à feu vif pour y faire griller les brochettes pendant 3 min, en les retournant souvent. Retirez-les du gril et nappez-les sur toutes les faces avec le glaçage.
+
+6. Réchauffez les mochis au four 3 à 4 min. Disposez 2 mochis (chauds) dans chaque assiette, ajoutez deux brochettes de thon et nappez-les de glaçage. Versez l'assaisonnement sur la salade, mélangez, puis garnissez les assiettes.
+
+## Noms ingrédients
+
+carottes. citronnelle. citron kaffir. noix de coco. gingembre. yuzu. oignons verts. pandan. piment rouge. champignons shiitaké. thon
+---
+
+# Crabes mous, sauce au poivre noir, gombos et pickle de concombre
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Poisson
+
+## Commentaire
+
+Si on déteste les gombos, la recette fonctionne très bien sans. La sauce et le pickle de concombre peuvent être préparés à l'avance (la sauce se conserve une semaine au réfrigérateur). Le crabe et les gombos doivent être dégustés juste après la cuisson. Le pickle de concombre peut accompagner du thon frais ou du tofu poêlé. N'hésitez pas à doubler les proportions de sauce et de pickle.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+**Crabes**
+- 200 g de farine de maïs
+- 1 cuil. à soupe de gros sel de mer, pilé dans un mortier
+- 1 cuil. à café de poivre noir concassé
+- 1 l d'huile de tournesol, pour la friture
+- 12 crabes mous, décongelés et séchés délicatement (560 g)
+
+**Pickle de concombre**
+- 1 gros concombre, épluché (400 g)
+- 12,5 cl de vinaigre de riz
+- 1 ½ cuil. à soupe de mirin
+- 1 ½ cuil. à soupe de saké
+- 40 g de sucre en poudre
+- 3 étoiles de badiane
+- 2 petits bâtons de cannelle
+- 1 piment rouge long, épépiné et taillé en julienne
+- 10 g de brins de coriandre, grossièrement hachés
+- Sel de mer
+
+**Sauce au poivre**
+- ½ cuil. à café d'huile de tournesol
+- 80 g de pancetta fumée, en bâtonnets
+- 60 g de beurre doux
+- 2 petites échalotes, émincées
+- 3 gousses d'ail, émincées
+- 2 longs piments rouges, épépinés et finement hachés
+- 5 g de feuilles de curry
+- 30 g de crevettes séchées, bien rincées puis séchées et pilées en poudre fine dans un mortier
+- 1 ½ cuil. à soupe de sucre en poudre
+- ½ cuil. à café de pâte de miso blanc
+- 3 cuil. à soupe de sauce soja claire
+- 2 cuil. à soupe de sauce soja foncée
+- 2 cuil. à soupe de sauce d'huître
+- 12,5 cl de bouillon de volaille
+- 1 cuil. à soupe de grains de poivre noir, pilés en poudre fine dans un mortier
+
+**Gombos (facultatif)**
+- 12 gombos (130 g), coupés en deux dans la longueur, graines éliminées à la petite cuillère
+
+## Déroulé de la recette
+
+1. Commencez par préparer le pickle de concombre. Avec un économe, détaillez la chair du concombre en longs rubans (jetez le cœur avec les graines). Mettez dans une petite casserole le vinaigre de riz, le mirin, le saké, le sucre en poudre, la badiane et les bâtons de cannelle, ajoutez 5 cl d'eau et 1 cuil. à café de sel, portez à ébullition, puis laissez mijoter 7 à 8 min pour faire réduire d'un tiers. Laissez tiédir 20 min. Déposez les rubans de concombre dans un bol, versez la marinade dessus, mélangez et laissez refroidir.
+
+2. Pour la sauce au poivre, faites chauffer l'huile à feu vif dans une petite casserole. Jetez la pancetta dedans pour la faire frire pendant 3 min jusqu'à ce qu'elle soit croustillante. Égouttez-la et jetez le gras.
+
+3. Remettez la casserole sur le feu et ajoutez le beurre. Faites-y revenir les échalotes et l'ail pendant 6 à 7 min, puis ajoutez le piment, les feuilles de curry et les crevettes séchées. Poursuivez la cuisson 2-3 min, puis ajoutez le sucre. Laissez cuire encore 1 à 2 min. Ajoutez le miso, remuez pendant 1 min, puis versez les sauces de soja et d'huître, le bouillon et 7,5 cl d'eau. Mettez la pancetta dans la casserole, augmentez le feu et laissez mijoter 6 min. Retirez du feu, incorporez le poivre et laissez refroidir.
+
+4. Mettez la farine de maïs dans un saladier avec le sel et le poivre concassé. Mélangez bien.
+
+5. Faites chauffer l'huile de friture dans une grande casserole à feu vif. Roulez les gombos dans le mélange farine-poivre avant de les faire frire 2 à 3 min dans l'huile chaude (entre 170 et 180 °C). Sortez-les avec une écumoire, égouttez-les sur du papier absorbant et salez-les légèrement.
+
+6. Faites ensuite frire les crabes deux par deux : enrobez-les de farine, puis jetez-les dans l'huile brûlante et laissez-les frire 3 à 4 min en les retournant une fois, jusqu'à ce qu'ils soient dorés et croustillants. Transférez-les sur une plaque tapissée de papier absorbant et saupoudrez-les de 1 pincée de sel. Répétez l'opération avec les crabes restants.
+
+7. Incorporez au pickle de concombre le piment et la coriandre. Dressez les crabes, les gombos et le pickle sur un plat de service. Proposez la sauce au poivre à part.
+
+## Noms ingrédients
+
+ail. concombres. coriandre. crabes mous. crevettes séchées. échalotes. feuilles de curry. gombos. pancetta. piment rouge
+---
+
+# Salade de verdure à l'oignon rouge mariné
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+La saveur sucrée de la vinaigrette et le mélange de verdure font de cette salade l'accompagnement idéal de plats généreux (coquelet cuit deux fois, pastilla de poulet, cailles caramélisées, gambas au pastis…). Pour ajouter un peu de croquant, faire frire des morceaux de pain pita et/ou des amandes grossièrement hachées dans un mélange d'huile d'olive et de beurre.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- ½ oignon rouge moyen, en rondelles de 3 à 4 mm d'épaisseur (90 g)
+- 1 cuil. à café de sumac
+- 2 cuil. à soupe d'huile d'olive
+- 1 ½ cuil. à soupe de vinaigre de xérès Valdespino (ou autre marque de qualité)
+- ¼ de cuil. à café de sucre en poudre
+- ¼ de cuil. à café de quatre-épices
+- 100 g de roquette
+- 60 g de cresson (ou de mizuna) ou un mélange de jeunes pousses
+- Sel de mer et poivre noir
+
+## Déroulé de la recette
+
+1. Mettez les rondelles d'oignon dans un bol avec le sumac, l'huile, le vinaigre, le sucre, le quatre-épices, du sel (½ cuil. à café) et du poivre (un bon tour de moulin). Mélangez bien, puis laissez reposer 1 h si possible.
+
+2. Juste avant de servir, mettez la roquette et le cresson dans un saladier, puis ajoutez l'oignon et sa marinade. Mélangez délicatement et servez.
+
+## Noms ingrédients
+
+cresson. oignons rouges. roquette
+---
+
+# Poêlée de choux chinois
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+Ces légumes peuvent accompagner un large éventail de recettes (coquelet, onglet, poitrine de porc, grondin, thon, tofu). On peut utiliser des échalotes frites toutes prêtes (magasins asiatiques) ou les préparer soi-même. La poêlée est également très bonne sans échalotes frites si on n'en a pas sous la main.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 3 cuil. à soupe d'huile d'arachide
+- 3 cm de gingembre, épluché et en julienne (25 g)
+- 4 gousses d'ail, émincées
+- 2 gros piments rouges, épépinés et en julienne
+- 400 g de bok choy (ou de choi sum), découpés en quartiers dans la longueur
+- 300 g de brocoli à jets
+- 3 cuil. à soupe d'échalotes frites croustillantes (facultatif)
+- 1 citron vert, en quartiers, pour servir
+- Sel de mer
+
+## Déroulé de la recette
+
+1. Faites chauffer l'huile à feu vif dans une grande poêle, puis ajoutez le gingembre, l'ail et le piment. Laissez revenir ce mélange pendant 2 min, en remuant souvent, jusqu'à ce que les parfums se développent. Jetez le bok choy dans la poêle et poursuivez la cuisson 2 min, en remuant souvent. Ajoutez le brocoli et 1 cuil. à café de sel, mélangez, puis laissez cuire encore 4 min. Saupoudrez d'échalotes frites (facultatif) et servez avec des quartiers de citron vert.
+
+## Noms ingrédients
+
+ail. pak choï. brocoli. citrons verts. échalotes frites. gingembre. piment rouge
+---
+
+# Frites au paprika cuites au four
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+Rares sont les plats qui ne s'accordent pas avec la note croquante de frites cuites au four : filet d'agneau, selle d'agneau, gibier, coquelet, aloyau, onglet, joue de porc, côtes de porc, églefin, sole, crabe, galettes de maïs…
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 6 grosses pommes de terre désirée (avec la peau), en grosses frites de 1,5 cm (1,2 kg)
+- 3 gousses d'ail, écrasées
+- ½ cuil. à café de paprika fumé
+- 1 cuil. à café de paprika
+- 6 cl d'huile de tournesol
+- 2 cuil. à café de semoule fine
+- Sel de mer et poivre noir
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 240 °C (th. 8). Plongez les frites dans une grande casserole d'eau bouillante salée pour les précuire pendant 5 min. Égouttez-les, puis mettez-les dans un saladier avec le reste des ingrédients. Ajoutez ½ cuil. à café de sel et poivrez généreusement. Mélangez délicatement les frites — il ne faut pas les casser — avant de les étaler sur deux plaques de cuisson tapissées de papier sulfurisé : espacez-les bien pour qu'elles se colorent uniformément. Enfournez pour 35 min environ, en les retournant à mi-cuisson : vous devez obtenir des frites bien dorées, croustillantes et cuites à cœur.
+
+## Noms ingrédients
+
+ail. pomme de terre. semoule
+---
+
+# Carottes rôties aux graines de coriandre et à l'ail
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+Miel, ail, thym et coriandre : ces ingrédients se marient très bien aux carottes rôties. Peut accompagner côtelettes d'agneau, ris d'agneau, suprêmes de poulet, cuisses de canard confites, onglet, sole, cabillaud, poulpe, ou le risotto à l'orge perlé.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 1 kg de carottes, épluchées et détaillées en bâtonnets de 1,5 cm x 8 cm (850 g)
+- 1 cuil. à soupe de miel liquide
+- 1 ½ cuil. à soupe d'huile d'olive
+- ½ cuil. à café de graines de coriandre, écrasées
+- 3 gousses d'ail, écrasées
+- 5 brins de thym
+- Sel de mer et poivre noir
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 210 °C (th. 7). Mettez les carottes dans un saladier avec le miel, l'huile, les graines de coriandre, l'ail, ½ cuil. à café de sel et beaucoup de poivre. Mélangez bien, puis transférez-les sur deux plaques de cuisson tapissées de papier sulfurisé : elles ne doivent pas être trop serrées. Enfournez pour 30 min et parsemez de thym 3 min avant la fin de la cuisson. Les carottes doivent être cuites à cœur et caramélisées, tout en conservant leur belle couleur vive.
+
+## Noms ingrédients
+
+ail. carottes. miel
+---
+
+# Gratin de pommes de terre et céleri-rave
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+La crème est remplacée ici par du bouillon de légumes pour un gratin plus léger — surtout s'il accompagne un plat généreux. Si on aime une jolie croûte gratinée, parsemer de fromage râpé les légumes. Si possible, utiliser une mandoline pour émincer le céleri-rave et les pommes de terre.
+
+## Ingrédients
+
+*Pour 6 à 8 personnes*
+
+- 50 g de beurre doux
+- 3 gousses d'ail, émincées
+- 10 g de feuilles de sauge, ciselées
+- 1 petit céleri-rave, épluché, coupé en deux, puis en tranches de 2 à 3 mm (500 g)
+- 4 grosses pommes de terre, épluchées et coupées en tranches de 2 à 3 mm (1 kg)
+- 70 cl de bouillon de légumes
+- 20 cl de crème double (45 % de MG)
+- Sel de mer et poivre noir
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 210 °C (th. 7). Faites chauffer le beurre dans une grande casserole. Quand il est fondu, faites colorer l'ail pendant 1 à 2 min, en remuant sans cesse. Ajoutez la sauge, que vous laissez revenir quelques secondes avant d'incorporer le reste des ingrédients. Salez (2 cuil. à café) et poivrez généreusement.
+
+2. Portez à ébullition, puis baissez le feu et laissez mijoter pendant 8 min : le céleri et les pommes de terre doivent rester un peu croquants. Égouttez-les (conservez le liquide de cuisson), puis étalez-les dans un grand plat à gratin (28 cm x 20 cm).
+
+3. Versez le liquide réservé dans la poêle et faites-le réduire de moitié pendant 12 à 14 min. Versez-le sur les légumes et enfournez pour 40 à 45 min : le dessus doit être joliment doré. Sortez le gratin du four et laissez-le reposer 10 min avant de servir.
+
+## Noms ingrédients
+
+ail. céleri-rave. pomme de terre. sauge
+---
+
+# Chou kale aux piments et à l'ail frits
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+Ces feuilles de kale juste flétries sont l'accompagnement idéal de bon nombre de viandes et poissons, mais ils peuvent aussi accompagner des recettes végétariennes comme le tofu au cinq-épices, le dhal aux aubergines ou les galettes de pois chiches.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 600 g de chou kale (3 bouquets moyens), sans la partie dure des tiges, feuilles grossièrement déchirées (370 g)
+- 2 cuil. à soupe d'huile d'olive
+- 2 piments rouges doux (retirer les graines pour une saveur moins piquante), en rondelles de 3 mm
+- 3 gousses d'ail, émincées
+- Sel de mer
+
+## Déroulé de la recette
+
+1. Portez à ébullition un grand volume d'eau salée pour y faire blanchir le chou pendant 1 min. Égouttez-le bien, puis séchez-le avec un torchon propre.
+
+2. Essuyez la casserole. Versez l'huile dedans et faites-la chauffer à feu vif, avant d'ajouter les piments et l'ail. Laissez-les revenir 1 à 2 min, jusqu'à ce que l'ail commence à se colorer ; les piments doivent être bien croustillants. Sortez les piments et l'ail avec une écumoire et réservez.
+
+3. Remettez l'huile à chauffer, puis ajoutez les feuilles de chou kale et ¾ de cuil. à café de sel. Remuez vivement pendant 2 min. Juste avant de servir, parsemez le chou de piment et d'ail frits.
+
+## Noms ingrédients
+
+ail. chou kale. piment rouge
+---
+
+# Tête de céleri-rave rôtie
+
+## Catégorie
+
+Ottolenghi. Nopi. Pas testé. Végé
+
+## Commentaire
+
+Cette tête de céleri en étonnera plus d'un, avec sa peau croquante et son cœur fondant. Elle accompagne bien l'onglet, l'aloyau, les joues de porc, les cailles ou la sole. Peut aussi être servie en entrée ou proposée à l'apéritif, avec un bol de crème fraîche pour y tremper les morceaux de céleri et des quartiers de citron à presser dessus. Se mange avec la peau, mais celle-ci est un peu amère — il suffit de l'éliminer dans l'assiette.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 1 gros céleri-rave (1,2 kg), paré (retirer les radicelles), rincé et séché
+- 1 cuil. à soupe d'huile d'olive + 2 cuil. à café pour servir
+- 2 cuil. à café de sel de mer + 1 pincée pour servir
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 180 °C (th. 6). Posez le céleri-rave sur une plaque de cuisson tapissée de papier sulfurisé, badigeonnez-le de toutes parts avec l'huile et frottez-le de sel, puis enfournez pour 3 h. Pour vérifier la cuisson, piquez-le avec la pointe d'un couteau : la lame doit s'enfoncer facilement.
+
+2. Découpez la tête de céleri en 12 quartiers, arrosez d'un filet d'huile et salez une dernière fois avant de servir.
+
+## Noms ingrédients
+
+céleri-rave
