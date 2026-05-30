@@ -3,6 +3,7 @@ build.py — Génère le site statique dans le dossier docs/.
 Usage : python build.py
 """
 import json
+import hashlib
 import shutil
 import time
 from pathlib import Path
@@ -16,6 +17,10 @@ DOCS        = Path("docs")
 
 ORIGINES = ["Ottolenghi", "Japonais", "Gagnaire", "Breton", "Réunion"]
 TYPES    = ["Végé", "Viande", "Poisson", "Dessert"]
+
+# Mot de passe partagé pour accéder au site. Change-le pour ce que tu veux.
+# (Tu peux mettre des accents, des espaces, ce que tu préfères.)
+MOT_DE_PASSE = "miam"
 
 
 # ── Template index.html ────────────────────────────────────────────────────────
@@ -855,6 +860,74 @@ TMPL_RECETTE = """<!DOCTYPE html>
 </html>"""
 
 
+# ── Portail mot de passe (injecté sur chaque page) ──────────────────────────────
+# Le marqueur __HASH__ est remplacé au build par le hash SHA-256 du mot de passe.
+# Le mot de passe en clair n'apparaît donc jamais dans les pages publiées.
+
+GATE_HTML = """
+<style>
+  html.verrouille body > *:not(#porte) { display: none !important; }
+  #porte { display: none; }
+  html.verrouille #porte {
+    display: flex; position: fixed; inset: 0; z-index: 99999;
+    align-items: center; justify-content: center; background: #faf8f5;
+    font-family: -apple-system, system-ui, sans-serif;
+  }
+  #porte .boite { width: 100%; max-width: 300px; padding: 24px; text-align: center; }
+  #porte h2 { margin: 0 0 16px; font-size: 18px; color: #5a3a1a; font-weight: 600; }
+  #porte input { width: 100%; padding: 12px; font-size: 16px; box-sizing: border-box;
+    border: 1px solid #d8cfc4; border-radius: 8px; background: #fff; margin-bottom: 10px; }
+  #porte button { width: 100%; padding: 12px; font-size: 15px; border: none;
+    border-radius: 8px; background: #8b4513; color: #fff; cursor: pointer; }
+  #porte .err { color: #c0392b; font-size: 13px; height: 16px; margin-bottom: 8px; }
+</style>
+<script>
+(function () {
+  var HASH = "__HASH__";
+  var CLE = "recettes_acces";
+  if (localStorage.getItem(CLE) === HASH) return;        // déjà entré : on laisse passer
+  document.documentElement.classList.add("verrouille");  // sinon on masque tout de suite
+
+  async function sha256(txt) {
+    var buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(txt));
+    return Array.from(new Uint8Array(buf))
+      .map(function (b) { return b.toString(16).padStart(2, "0"); }).join("");
+  }
+
+  function poser() {
+    var d = document.createElement("div");
+    d.id = "porte";
+    d.innerHTML =
+      '<div class="boite">' +
+      '<h2>\\uD83D\\uDD12 Mes recettes</h2>' +
+      '<div class="err" id="porte-err"></div>' +
+      '<input type="password" id="porte-mdp" placeholder="Mot de passe" autocomplete="current-password">' +
+      '<button id="porte-ok">Entrer</button></div>';
+    document.body.appendChild(d);
+    var inp = document.getElementById("porte-mdp");
+    var err = document.getElementById("porte-err");
+    inp.focus();
+    async function verifier() {
+      var h = await sha256(inp.value);
+      if (h === HASH) {
+        localStorage.setItem(CLE, HASH);
+        document.documentElement.classList.remove("verrouille");
+        d.remove();
+      } else {
+        err.textContent = "Mot de passe incorrect";
+        inp.value = ""; inp.focus();
+      }
+    }
+    document.getElementById("porte-ok").addEventListener("click", verifier);
+    inp.addEventListener("keydown", function (e) { if (e.key === "Enter") verifier(); });
+  }
+  if (document.body) poser();
+  else document.addEventListener("DOMContentLoaded", poser);
+})();
+</script>
+"""
+
+
 # ── Build ──────────────────────────────────────────────────────────────────────
 
 def build():
@@ -950,7 +1023,18 @@ def build():
         (DOCS / "recettes" / f"{r['id']}.html").write_text(
             tmpl.render(titre=r["titre"], contenu_html=html), encoding="utf-8")
 
-    # 11. Service worker v6
+    # 10b. Injection du portail mot de passe sur toutes les pages HTML
+    hash_mdp = hashlib.sha256(MOT_DE_PASSE.encode("utf-8")).hexdigest()
+    gate = GATE_HTML.replace("__HASH__", hash_mdp)
+    pages = list(DOCS.glob("*.html")) + list((DOCS / "recettes").glob("*.html"))
+    for page in pages:
+        contenu = page.read_text(encoding="utf-8")
+        if "</head>" in contenu:
+            page.write_text(contenu.replace("</head>", gate + "</head>", 1),
+                            encoding="utf-8")
+    print(f"Mot de passe ajouté sur {len(pages)} pages.")
+
+    # 11. Service worker v7
     fichiers = (
         ["./index.html", "./style.css", "./menu.html",
          "./ingredients.html", "./courses.html"]
@@ -964,7 +1048,7 @@ def build():
 
 def _genere_sw(fichiers):
     liste = ",\n    ".join(f'"{f}"' for f in fichiers)
-    return f"""const CACHE = "recettes-v6";
+    return f"""const CACHE = "recettes-v7";
 const PRECACHE = [
     {liste}
 ];
