@@ -1,4 +1,4 @@
-/* Style minimal mais lisible, optimisé mobile. */
+/* Style Méditerranée — optimisé mobile */
 * { box-sizing: border-box; }
 
 body {
@@ -6,74 +6,99 @@ body {
     line-height: 1.6;
     max-width: 720px;
     margin: 0 auto;
-    padding: 1rem;
-    color: #2a2a2a;
-    background: #fdfaf6;
+    padding: 0;
+    color: #1b3a5c;
+    background: #f0f4f8;
 }
 
 header {
-    border-bottom: 2px solid #8b4513;
-    margin-bottom: 1.5rem;
-    padding-bottom: 0.75rem;
+    background: #1b3a5c;
+    border-bottom: none;
+    margin-bottom: 0;
+    padding: 1rem 1rem 0.75rem;
 }
 
-h1 { color: #8b4513; margin: 0 0 0.5rem 0; }
+h1 { color: #e8f0f8; margin: 0 0 0.5rem 0; }
 
 #recherche {
     width: 100%;
     padding: 0.6rem;
     font-size: 1rem;
-    border: 1px solid #ccc;
+    border: 1px solid rgba(255,255,255,.25);
     border-radius: 6px;
+    background: rgba(255,255,255,.12);
+    color: #e8f0f8;
 }
+#recherche::placeholder { color: rgba(232,240,248,.5); }
 
 #liste-recettes {
     list-style: none;
-    padding: 0;
+    padding: 6px;
+    margin: 0;
 }
 
 #liste-recettes li {
-    border-bottom: 1px solid #eee;
+    background: #fff;
+    border-radius: 10px;
+    border: 0.5px solid #d4dde8;
+    margin-bottom: 6px;
 }
 
 #liste-recettes a {
     display: block;
-    padding: 0.9rem 0.4rem;
-    color: #2a2a2a;
+    padding: 0.9rem 0.75rem;
+    color: #1b3a5c;
     text-decoration: none;
     font-size: 1.05rem;
 }
 
-#liste-recettes a:active { background: #f0e6d6; }
+#liste-recettes a:active { background: #e8f0f8; border-radius: 10px; }
 
 .compteur {
     text-align: center;
-    color: #888;
+    color: #7a95b0;
     font-size: 0.9rem;
     margin-top: 1.5rem;
 }
 
-.header-recette { border: none; }
+.header-recette {
+    background: #1b3a5c;
+    padding: 1rem;
+}
 
 .bouton-retour {
     display: inline-block;
-    padding: 0.5rem 1rem;
-    background: #8b4513;
-    color: white;
+    padding: 0.4rem 0.9rem;
+    background: rgba(255,255,255,.15);
+    color: rgba(232,240,248,.9);
     text-decoration: none;
     border-radius: 6px;
-    font-size: 1rem;
+    font-size: 0.95rem;
+    border: 0.5px solid rgba(255,255,255,.25);
 }
+.bouton-retour:hover { background: rgba(255,255,255,.25); color: #fff; }
 
-.recette h1 { color: #8b4513; }
+/* Pages recette */
+.recette {
+    padding: 1rem;
+    background: #fff;
+    margin: 0.75rem;
+    border-radius: 10px;
+    border: 0.5px solid #d4dde8;
+}
+.recette h1 { color: #1b3a5c; }
 .recette h2 {
-    color: #8b4513;
-    border-bottom: 1px solid #d4b896;
+    color: #1b3a5c;
+    border-bottom: 1px solid #d4dde8;
     padding-bottom: 0.3rem;
     margin-top: 2rem;
 }
-.recette h3 { color: #6b3410; margin-top: 1.2rem; }
+.recette h3 { color: #c05a35; margin-top: 1.2rem; }
 .recette ul, .recette ol { padding-left: 1.5rem; }
 .recette li { margin-bottom: 0.4rem; }
-.recette em { color: #6b3410; }
-.recette hr { border: none; border-top: 1px dashed #d4b896; margin: 2rem 0; }
+.recette em { color: #c05a35; }
+.recette hr { border: none; border-top: 1px dashed #d4dde8; margin: 2rem 0; }
+
+/* Pages intérieures (menu, courses, ingrédients) */
+.header-recette + div,
+.header-recette ~ div { padding: 0 1rem; }
