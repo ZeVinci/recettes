@@ -33,93 +33,108 @@ TMPL_LISTE = """<!DOCTYPE html>
     <title>Mes recettes</title>
     <link rel="stylesheet" href="style.css">
     <link rel="manifest" href="manifest.json">
-    <meta name="theme-color" content="#8b4513">
+    <meta name="theme-color" content="#1b3a5c">
     <style>
+        /* ── Base Méditerranée ── */
+        body { background: #f0f4f8; }
+        header { background: #1b3a5c; }
+        header h1 { color: #e8f0f8 !important; }
+        #recherche { background: rgba(255,255,255,.12) !important;
+                     border-color: rgba(255,255,255,.22) !important;
+                     color: #e8f0f8 !important; }
+        #recherche::placeholder { color: rgba(232,240,248,.5) !important; }
+        #liste-recettes { padding: 6px; }
+        #liste-recettes li { background: #fff; border-radius: 10px;
+                             border: 0.5px solid #d4dde8; margin-bottom: 6px; }
+
         /* ── Filtres catégories ── */
-        .filter-label { font-size: 11px; color: #888; margin-bottom: 4px;
+        .filter-label { font-size: 11px; color: rgba(232,240,248,.7); margin-bottom: 4px;
                         letter-spacing: 0.04em; margin-top: 8px; }
         .filter-row { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 4px; }
         .chip { display: inline-flex; align-items: center; gap: 4px; padding: 4px 10px;
-                border-radius: 99px; font-size: 12px; border: 0.5px solid #ccc;
-                background: #f5f5f5; color: #555; cursor: pointer; user-select: none; }
+                border-radius: 99px; font-size: 12px; border: 0.5px solid rgba(255,255,255,.28);
+                background: rgba(255,255,255,.12); color: rgba(232,240,248,.85);
+                cursor: pointer; user-select: none; }
         .chip .dot { width: 6px; height: 6px; border-radius: 50%; flex-shrink: 0; }
-        .dot-origine { background: #7F77DD; }
-        .dot-type    { background: #1D9E75; }
-        .chip.active-origine { background: #EEEDFE; border-color: #7F77DD; color: #3C3489; }
-        .chip.active-type    { background: #E1F5EE; border-color: #1D9E75; color: #085041; }
+        .dot-origine { background: #e8f0f8; }
+        .dot-type    { background: #fdeee8; }
+        .chip.active-origine { background: rgba(232,240,248,.2); border-color: rgba(232,240,248,.7); color: #fff; }
+        .chip.active-type    { background: rgba(192,90,53,.3); border-color: #d97c5a; color: #fdeee8; }
 
         /* ── Filtre ingrédients ── */
         .ing-section { margin-top: 8px; }
         .ing-wrap { position: relative; }
         .ing-wrap input { width: 100%; padding: 8px 10px; font-size: 14px;
-                          border-radius: 6px; border: 1px solid #ccc;
-                          background: #f9f9f9; box-sizing: border-box; }
+                          border-radius: 6px; border: 1px solid rgba(255,255,255,.22);
+                          background: rgba(255,255,255,.12); color: #e8f0f8; box-sizing: border-box; }
+        .ing-wrap input::placeholder { color: rgba(232,240,248,.5); }
         .suggestions { position: absolute; left: 0; right: 0; top: calc(100% + 2px);
-                       background: white; border: 1px solid #ccc; border-radius: 6px;
-                       z-index: 100; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,.1); }
-        .suggestion { padding: 9px 12px; font-size: 13px; color: #222; cursor: pointer;
-                      border-bottom: 0.5px solid #eee; }
+                       background: #fff; border: 1px solid #d4dde8; border-radius: 6px;
+                       z-index: 100; overflow: hidden; box-shadow: 0 2px 8px rgba(27,58,92,.12); }
+        .suggestion { padding: 9px 12px; font-size: 13px; color: #1b3a5c; cursor: pointer;
+                      border-bottom: 0.5px solid #eef2f7; }
         .suggestion:last-child { border-bottom: none; }
-        .suggestion:hover, .suggestion.focused { background: #f5f5f5; }
-        .suggestion mark { background: none; color: #BA7517; font-weight: 500; }
+        .suggestion:hover, .suggestion.focused { background: #f0f4f8; }
+        .suggestion mark { background: none; color: #c05a35; font-weight: 500; }
         .ing-tags { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 8px; }
         .ing-tag { display: inline-flex; align-items: center; gap: 5px;
                    padding: 3px 8px 3px 10px; border-radius: 99px; font-size: 12px;
-                   background: #FAEEDA; color: #633806; border: 0.5px solid #EF9F27; }
-        .ing-tag button { background: none; border: none; cursor: pointer; color: #BA7517;
+                   background: rgba(192,90,53,.25); color: #fde8dc; border: 0.5px solid #d97c5a; }
+        .ing-tag button { background: none; border: none; cursor: pointer; color: #fde8dc;
                           font-size: 15px; line-height: 1; padding: 0; }
 
         /* ── Onglets ── */
-        .tabs { display: flex; border-bottom: 0.5px solid #eee;
-                background: white; position: sticky; top: 0; z-index: 10; }
+        .tabs { display: flex; border-bottom: 0.5px solid #d4dde8;
+                background: #f0f4f8; position: sticky; top: 0; z-index: 10; }
         .tab-btn { flex: 1; padding: 11px 8px; font-size: 13px; cursor: pointer;
-                   text-align: center; color: #888; background: white;
+                   text-align: center; color: #7a95b0; background: #f0f4f8;
                    border: none; position: relative; }
-        .tab-btn.active { color: #7F77DD; font-weight: 500; }
+        .tab-btn.active { color: #1b3a5c; font-weight: 500; }
         .tab-btn.active::after { content: ''; position: absolute; bottom: -0.5px;
-                                  left: 0; right: 0; height: 2px; background: #7F77DD; }
+                                  left: 0; right: 0; height: 2px; background: #1b3a5c; }
         .tab-count { display: inline-block; font-size: 11px; padding: 1px 6px;
                      border-radius: 99px; margin-left: 4px;
-                     background: #f5f5f5; color: #888; }
-        .tab-btn.active .tab-count { background: #EEEDFE; color: #3C3489; }
+                     background: #d4dde8; color: #7a95b0; }
+        .tab-btn.active .tab-count { background: #e8f0f8; color: #0c2e4f; }
 
         /* ── Tags recettes ── */
         .item-tags { display: flex; gap: 4px; flex-wrap: wrap; margin-top: 4px; }
         .tag { font-size: 11px; padding: 2px 7px; border-radius: 99px; }
-        .tag-origine { background: #EEEDFE; color: #3C3489; }
-        .tag-type    { background: #E1F5EE; color: #085041; }
-        .tag-bib     { background: #FAEEDA; color: #633806; }
+        .tag-origine { background: #e8f0f8; color: #0c2e4f; }
+        .tag-type    { background: #fdeee8; color: #8b3018; }
+        .tag-bib     { background: #fdeee8; color: #8b3018; }
         .score-badge { font-size: 10px; padding: 1px 6px; border-radius: 99px; }
 
         /* ── Mode sélection ── */
         .sel-btn { padding: 6px 10px; font-size: 12px; border-radius: 6px;
-                   border: 0.5px solid #ccc; background: #f5f5f5; color: #555;
+                   border: 0.5px solid rgba(255,255,255,.28);
+                   background: rgba(255,255,255,.12); color: rgba(232,240,248,.85);
                    cursor: pointer; white-space: nowrap; }
-        .sel-btn.on { background: #EEEDFE; border-color: #7F77DD; color: #3C3489; }
-        #liste-recettes li.picked { background: #F5F3FE; }
+        .sel-btn.on { background: rgba(192,90,53,.3); border-color: #d97c5a; color: #fdeee8; }
+        #liste-recettes li.picked { background: #e8f0f8; }
         #liste-recettes li .check-circle { width: 20px; height: 20px; border-radius: 50%;
-            border: 1.5px solid #ccc; display: none; align-items: center;
+            border: 1.5px solid #d4dde8; display: none; align-items: center;
             justify-content: center; flex-shrink: 0; margin-right: 4px; }
         body.sel-mode #liste-recettes li .check-circle { display: flex; }
         body.sel-mode #liste-recettes li { cursor: pointer; }
-        #liste-recettes li.picked .check-circle { background: #7F77DD; border-color: #7F77DD; }
+        #liste-recettes li.picked .check-circle { background: #c05a35; border-color: #c05a35; }
         #liste-recettes li.picked .check-circle::after {
             content: '✓'; color: white; font-size: 11px; }
 
         /* ── Boutons flottants ── */
-        .fabs { display: none; position: sticky; bottom: 0; background: white;
-                border-top: 0.5px solid #eee; padding: 10px 14px; gap: 8px; }
+        .fabs { display: none; position: sticky; bottom: 0; background: #f0f4f8;
+                border-top: 0.5px solid #d4dde8; padding: 10px 14px; gap: 8px; }
         .fabs.visible { display: flex; }
         .fab { flex: 1; display: flex; align-items: center; justify-content: center;
                gap: 6px; padding: 10px; border-radius: 99px; font-size: 12px;
                font-weight: 500; border: none; cursor: pointer; text-decoration: none; }
-        .fab-menu { background: #7F77DD; color: white; }
-        .fab-ing  { background: #8b4513; color: white; }
+        .fab-menu { background: #1b3a5c; color: white; }
+        .fab-ing  { background: #c05a35; color: white; }
         .fab .bdg { background: rgba(255,255,255,.3); border-radius: 99px; font-size: 11px;
                     min-width: 18px; height: 18px; display: flex; align-items: center;
                     justify-content: center; padding: 0 4px; }
 
-        .compteur { text-align: center; color: #888; font-size: .9rem; margin-top: 1.5rem; }
+        .compteur { text-align: center; color: #7a95b0; font-size: .9rem; margin-top: 1.5rem; }
     </style>
 </head>
 <body>
@@ -315,8 +330,8 @@ TMPL_LISTE = """<!DOCTYPE html>
                     badge.className = "score-badge";
                     badge.textContent = s + "/" + ingActifs.size;
                     badge.style.cssText =
-                        "background:" + (s === ingActifs.size ? "#E1F5EE" : "#FFF3E0") + ";" +
-                        "color:"      + (s === ingActifs.size ? "#085041" : "#8b4513") + ";";
+                        "background:" + (s === ingActifs.size ? "#fdeee8" : "#FFF3E0") + ";" +
+                        "color:"      + (s === ingActifs.size ? "#8b3018" : "#1b3a5c") + ";";
                     li.querySelector(".item-link").appendChild(badge);
                 }
                 liste.appendChild(li);
@@ -434,8 +449,14 @@ TMPL_MENU = """<!DOCTYPE html>
     <title>Mon menu</title>
     <link rel="stylesheet" href="style.css">
     <link rel="manifest" href="manifest.json">
-    <meta name="theme-color" content="#8b4513">
+    <meta name="theme-color" content="#1b3a5c">
     <style>
+        /* ── Base Méditerranée ── */
+        body { background: #f0f4f8; }
+        header { background: #1b3a5c; }
+        header h1 { color: #e8f0f8 !important; }
+        .bouton-retour { color: rgba(232,240,248,.85) !important; }
+        .bouton-retour:hover { color: #fff !important; }
         .mitem { border-bottom: 0.5px solid #eee; padding: 10px 0; display: flex;
                  align-items: center; gap: 10px; }
         .mitem-title { flex: 1; font-size: 14px; }
@@ -450,15 +471,15 @@ TMPL_MENU = """<!DOCTYPE html>
               font-size: 20px; line-height: 1; padding: 0 2px; }
         .rm:hover { color: #e24b4a; }
         .valider { display: block; width: 100%; padding: 12px; margin-top: 16px;
-                   background: #8b4513; color: white; border: none; border-radius: 8px;
+                   background: #1b3a5c; color: white; border: none; border-radius: 8px;
                    font-size: 14px; font-weight: 500; cursor: pointer; }
         .valider:disabled { opacity: .35; }
         .empty { text-align: center; padding: 2rem; color: #aaa; }
         .nav-ing { display: block; width: 100%; padding: 12px; margin-top: 8px;
-                   background: #7F77DD; color: white; border: none; border-radius: 8px;
+                   background: #c05a35; color: white; border: none; border-radius: 8px;
                    font-size: 14px; font-weight: 500; cursor: pointer;
                    text-decoration: none; text-align: center; }
-        .tag-bib { background: #FAEEDA; color: #633806; font-size: 11px;
+        .tag-bib { background: #fdeee8; color: #8b3018; font-size: 11px;
                    padding: 1px 6px; border-radius: 99px; margin-left: 4px; }
     </style>
 </head>
@@ -546,8 +567,14 @@ TMPL_INGREDIENTS = """<!DOCTYPE html>
     <title>Ingrédients du menu</title>
     <link rel="stylesheet" href="style.css">
     <link rel="manifest" href="manifest.json">
-    <meta name="theme-color" content="#8b4513">
+    <meta name="theme-color" content="#1b3a5c">
     <style>
+        /* ── Base Méditerranée ── */
+        body { background: #f0f4f8; }
+        header { background: #1b3a5c; }
+        header h1 { color: #e8f0f8 !important; }
+        .bouton-retour { color: rgba(232,240,248,.85) !important; }
+        .bouton-retour:hover { color: #fff !important; }
         .sec { font-size: 10px; color: #aaa; letter-spacing: .05em;
                padding: 10px 0 3px; text-transform: uppercase; }
         .iitem { border-bottom: 0.5px solid #eee; padding: 9px 0;
@@ -555,7 +582,7 @@ TMPL_INGREDIENTS = """<!DOCTYPE html>
         .iqte { font-size: 12px; font-weight: 500; color: #555; min-width: 80px; }
         .inom { font-size: 13px; color: #222; }
         .valider { display: block; width: 100%; padding: 12px; margin-top: 16px;
-                   background: #8b4513; color: white; border: none; border-radius: 8px;
+                   background: #1b3a5c; color: white; border: none; border-radius: 8px;
                    font-size: 14px; font-weight: 500; cursor: pointer; }
     </style>
 </head>
@@ -615,17 +642,23 @@ TMPL_COURSES = """<!DOCTYPE html>
     <title>Liste de courses</title>
     <link rel="stylesheet" href="style.css">
     <link rel="manifest" href="manifest.json">
-    <meta name="theme-color" content="#8b4513">
+    <meta name="theme-color" content="#1b3a5c">
     <style>
+        /* ── Base Méditerranée ── */
+        body { background: #f0f4f8; }
+        header { background: #1b3a5c; }
+        header h1 { color: #e8f0f8 !important; }
+        .bouton-retour { color: rgba(232,240,248,.85) !important; }
+        .bouton-retour:hover { color: #fff !important; }
         .toolbar { display: flex; gap: 8px; margin-bottom: 10px; flex-wrap: wrap; }
         .tbtn { flex: 1; padding: 8px 10px; border-radius: 6px; border: 0.5px solid #ccc;
                 background: #f5f5f5; color: #555; font-size: 12px; cursor: pointer; }
-        .tbtn.primary   { background: #8b4513; color: white; border-color: #8b4513; }
-        .tbtn.secondary { background: #7F77DD; color: white; border-color: #7F77DD; }
+        .tbtn.primary   { background: #1b3a5c; color: white; border-color: #1b3a5c; }
+        .tbtn.secondary { background: #c05a35; color: white; border-color: #c05a35; }
         .add-row { display: flex; gap: 8px; margin-bottom: 12px; }
         .add-row input { flex: 1; padding: 8px 10px; font-size: 14px; border-radius: 6px;
                          border: 1px solid #ccc; background: #f9f9f9; }
-        .add-row button { padding: 8px 14px; background: #8b4513; color: white;
+        .add-row button { padding: 8px 14px; background: #1b3a5c; color: white;
                           border: none; border-radius: 6px; font-size: 18px; cursor: pointer; }
         .citem { border-bottom: 0.5px solid #eee; padding: 10px 0; display: flex;
                  align-items: center; gap: 10px; cursor: grab; user-select: none; }
@@ -644,7 +677,7 @@ TMPL_COURSES = """<!DOCTYPE html>
         .crm:hover { color: #e24b4a; }
         .sub { font-size: 12px; color: #888; margin-top: 4px; }
         .empty { text-align: center; padding: 2rem; color: #aaa; }
-        .drag-over { border-top: 2px solid #8b4513; }
+        .drag-over { border-top: 2px solid #1b3a5c; }
         .panel { display: none; background: #fafafa; border: 0.5px solid #eee;
                  border-radius: 8px; padding: 12px; margin-bottom: 12px; }
         .panel.open { display: block; }
@@ -661,7 +694,7 @@ TMPL_COURSES = """<!DOCTYPE html>
         .modal-btns button { flex: 1; padding: 10px; border-radius: 6px;
                              font-size: 13px; cursor: pointer; border: none; }
         .btn-cancel { background: #f5f5f5; color: #555; }
-        .btn-ok     { background: #8b4513; color: white; }
+        .btn-ok     { background: #1b3a5c; color: white; }
     </style>
 </head>
 <body>
@@ -847,7 +880,13 @@ TMPL_RECETTE = """<!DOCTYPE html>
     <title>{{ titre }}</title>
     <link rel="stylesheet" href="../style.css">
     <link rel="manifest" href="../manifest.json">
-    <meta name="theme-color" content="#8b4513">
+    <meta name="theme-color" content="#1b3a5c">
+    <style>
+        body { background: #f0f4f8; }
+        header { background: #1b3a5c; }
+        .bouton-retour { color: rgba(232,240,248,.85) !important; }
+        .bouton-retour:hover { color: #fff !important; }
+    </style>
 </head>
 <body>
     <header class="header-recette">
@@ -878,7 +917,7 @@ GATE_HTML = """
   #porte input { width: 100%; padding: 12px; font-size: 16px; box-sizing: border-box;
     border: 1px solid #d8cfc4; border-radius: 8px; background: #fff; margin-bottom: 10px; }
   #porte button { width: 100%; padding: 12px; font-size: 15px; border: none;
-    border-radius: 8px; background: #8b4513; color: #fff; cursor: pointer; }
+    border-radius: 8px; background: #1b3a5c; color: #fff; cursor: pointer; }
   #porte .err { color: #c0392b; font-size: 13px; height: 16px; margin-bottom: 8px; }
 </style>
 <script>
