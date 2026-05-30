@@ -52,8 +52,7 @@ Ottolenghi. Végé. Dessert
 
 ## Noms ingrédients
 
-abricots. biscuits amaretti croquants. citron vert. crème double. eau de fleur d'oranger. mascarpone. pistaches. sauternes. sucre. vanille
-
+abricots. biscuits amaretti. citrons verts. mascarpone. pistaches
 ---
 
 # Abricots pochés et mascarpone aux pistaches et biscuits amaretti
@@ -106,8 +105,7 @@ Ottolenghi. Végé. Dessert
 
 ## Noms ingrédients
 
-abricots. biscuits amaretti croquants. citron vert. crème double. eau de fleur d'oranger. mascarpone. pistaches. sauternes. sucre. vanille
-
+abricots. biscuits amaretti. citrons verts. mascarpone. pistaches
 ---
 
 # Aubergines frites mijotées
@@ -129,7 +127,7 @@ Le bouillon dashi constitue la base de la fameuse soupe miso, mais il sert égal
 - 1/2 cuillerée à soupe de sucre semoule
 - huile pour la friture
 
-## Déroulé de la recette
+## Déroulé
 
 Dans une casserole sur feu doux, portez le bouillon dashi à ébullition, puis arrêtez aussitôt le feu et laissez reposer dans la casserole.
 
@@ -151,8 +149,7 @@ Japonais. Végé
 
 ## Noms ingrédients
 
-aubergines. bouillon dashi. daïkon. huile de tournesol. mirin. piment d'espelette. sauce soja. sucre
-
+aubergines. daïkon. piment d'espelette
 ---
 
 # Aubergines grillées, sauce au lait fermenté
@@ -203,8 +200,7 @@ Au moment de servir, nappez généreusement de sauce la chair des aubergines san
 
 ## Noms ingrédients
 
-ail. aubergines. citron. grenade. huile d'olive. lait fermenté. sel. sel de maldon. yaourt grec. zaatar
-
+ail. aubergines. citrons. grenade. yaourt grec. zaatar
 ---
 
 # Aubergines marinées au tahini et à l'origan
@@ -256,8 +252,7 @@ Disposez les aubergines sur un plat, arrosez-les de sauce tahini et décorez-les
 
 ## Noms ingrédients
 
-ail. aubergines. coriandre. huile d'olive. jus de citron. origan. piment rouge frais. poivre noir. tahin
-
+ail. aubergines. coriandre. citrons. piment rouge frais. tahin
 ---
 
 # Aubergines rôties aux anchois et à l'origan
@@ -300,8 +295,7 @@ Ottolenghi. Poisson
 
 ## Noms ingrédients
 
-ail. anchois. aubergines. huile d'olive. origan. persil. poivre noir. vinaigre de vin blanc
-
+ail. anchois. aubergines. persil
 ---
 
 # Aubergines rôties, sauce yaourt et curry
@@ -350,8 +344,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-amandes. arilles de grenade. aubergines. citron vert. curcuma. curry en poudre. graines de coriandre. graines de cumin. huile d'arachide. oignons. poivre noir. yaourt grec
-
+amandes. arilles de grenade. aubergines. citrons verts. oignons. yaourt grec
 ---
 
 # Baked custard servie en affogato
@@ -414,8 +407,7 @@ Au moment de servir, remuez délicatement la *baked custard* pour la détendre :
 
 ## Noms ingrédients
 
-blancs d'œufs. café. cassonade. crème double. jaunes d'œufs. lait. maïzena. noisettes. noix de coco déshydratée. sel. sucre. vanille. vinaigre de cidre
-
+jaunes d'œuf. noisettes. noix de coco déshydratée
 ---
 
 # Beignets de poireaux
@@ -480,8 +472,7 @@ Faites chauffer une grande poêle sur feu moyen avec 2 cuil. à soupe d'huile d'
 
 ## Noms ingrédients
 
-ail. beurre. blancs d'œufs. cannelle. coriandre. crème aigre. cumin. curcuma. échalotes. farine. huile d'olive. jus de citron. lait. levure. persil. piment rouge frais. poireaux. sel. sucre. yaourt grec. œufs
-
+ail. coriandre. échalotes. citrons. persil. piment rouge frais. poireau. yaourt grec
 ---
 
 # Biscuit roulé à la vanille, jus de fraise
@@ -514,7 +505,7 @@ ail. beurre. blancs d'œufs. cannelle. coriandre. crème aigre. cumin. curcuma. 
 - 10 cl de lait
 - Le jus de ½ citron
 
-## Déroulé de la recette
+## Déroulé
 
 **1. Le biscuit**
 
@@ -528,7 +519,7 @@ Battre au fouet les jaunes d'œufs et le sucre jusqu'à ce que le mélange blanc
 
 Préparer un grand rectangle de biscuit en coupant les bords souvent trop secs. Assouplir la crème pâtissière froide au fouet, l'étaler sur les ¾ du biscuit, rouler le biscuit sur lui-même (on peut s'aider d'un linge ou d'un papier sulfurisé). Enfermer le gâteau dans un film alimentaire, le laisser au froid 5 à 6 heures avant de le découper. Mixer la moitié des fraises avec le sucre, le lait et le citron. Couper le reste des fraises en petits morceaux, les mélanger au jus.
 
-**Dressage**
+## Dressage
 
 Répartir le jus de fraise dans 6 assiettes creuses, y déposer une belle tranche de biscuit roulé à la vanille.
 
@@ -542,8 +533,7 @@ Gagnaire. Végé. Dessert
 
 ## Noms ingrédients
 
-citron. farine. fraises. jaunes d'œufs. lait. sucre. vanille. œufs
-
+citrons. fraises. jaunes d'œuf
 ---
 
 # Boulettes d'agneau à la feta
@@ -588,8 +578,7 @@ Ottolenghi. Viande
 
 ## Noms ingrédients
 
-ail. cannelle. feta. huile d'olive. mie de pain. mélasse de grenade. persil. poivre noir. thym. viande d'agneau hachée
-
+ail. feta. grenade. persil. viande d'agneau hachée
 ---
 
 # Boulettes de bœuf au citron et au céleri
@@ -637,8 +626,7 @@ Ottolenghi. Viande
 
 ## Noms ingrédients
 
-ail. bouillon de volaille. bœuf haché. café. curcuma. céleri-rave. huile d'olive. mie de pain. oignons. paprika fumé. persil. poivre noir. œufs
-
+ail. bœuf haché. céleri-rave. oignons. persil
 ---
 
 # Boulettes de viande Stroganoff et tagliatelles
@@ -714,8 +702,7 @@ Faites cuire les pâtes dans une grande casserole d'eau bouillante salée, jusqu
 
 ## Noms ingrédients
 
-ail. aneth. beurre. bouillon de bœuf. champignons. citron. concentré de tomates. cornichons à l'aneth. crème aigre. échalotes. graines de pavot. huile d'olive. lait. moutarde de dijon. oignons. pain rassis. paprika fumé. pâtes sèches. poivre noir. porc haché. œufs
-
+ail. aneth. champignons. citrons. concentré de tomate. échalotes. oignons. pain rassis. porc haché
 ---
 
 # Brownies au caramel
@@ -771,8 +758,7 @@ Dans un grand saladier, battez au fouet les œufs, le sucre et la vanille. Ils d
 
 ## Noms ingrédients
 
-abricots. beurre. chocolat noir. extrait de vanille. farine. sel. sucre. œufs
-
+abricots. chocolat noir
 ---
 
 # Brunoise de poires caramélisées, bavaroises au coco, tuiles au muscovado
@@ -805,7 +791,7 @@ abricots. beurre. chocolat noir. extrait de vanille. farine. sel. sucre. œufs
 - 25 g de beurre fondu
 - 25 g de farine
 
-## Déroulé de la recette
+## Déroulé
 
 **1. Les poires caramélisées**
 
@@ -821,7 +807,7 @@ Mélanger le sucre muscovado au blanc d'œuf, laisser reposer 1 heure avant d'aj
 
 Préchauffer le four à 180 °C (th. 8). Étaler le mélange sur un tapis de cuisson dans des cercles ronds de 10 cm de diamètre, enfourner pour 9 minutes environ. Enlever les tuiles encore tièdes du tapis, les conserver à l'abri de l'humidité.
 
-**Dressage**
+## Dressage
 
 Au centre de chaque assiette (bien froide), déposer les poires caramélisées encore tièdes. Couvrir avec une tuile muscovado.
 
@@ -835,8 +821,7 @@ Gagnaire. Végé. Dessert
 
 ## Noms ingrédients
 
-beurre. blancs d'œufs. citron. farine. gélatine. gouttes d'essence d'amande amère. lait de coco. poires. purée de coco. sucre. sucre muscovado
-
+citrons. noix de coco. poire. purée de coco
 ---
 
 # Cacio e pepe au zaatar
@@ -880,8 +865,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-beurre. bucatini. huile d'olive. marjolaine. parmesan. pecorino. poivre noir. sel. zaatar
-
+parmesan. pecorino. zaatar
 ---
 
 # Cake aux myrtilles, citron et amandes
@@ -926,8 +910,7 @@ Ottolenghi. Végé. Dessert
 
 ## Noms ingrédients
 
-beurre. citron. extrait de vanille. farine. myrtilles. poudre d'amande. sel. sucre. sucre glace. œufs
-
+citrons. myrtilles. amandes moulues
 ---
 
 # Carottes nouvelles rôties, harissa et grenade
@@ -974,8 +957,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-arilles de grenade. beurre. carottes. coriandre. graines de cumin. harissa. huile d'olive. jus de citron. miel. sel
-
+arilles de grenade. carottes. coriandre. citrons. miel
 ---
 
 # Carré d'agneau mariné à la coriandre et au miel
@@ -1021,8 +1003,7 @@ Pendant ce temps, faites chauffer la marinade dans une petite casserole à feu d
 
 ## Noms ingrédients
 
-ail. carré d'agneau. gingembre. huile de tournesol. jus de citron. menthe. miel. persil. piment rouge frais. sauce soja. vinaigre de vin rouge
-
+ail. carré d'agneau. gingembre. citrons. menthe. miel. persil. piment rouge frais
 ---
 
 # Céleri-rave rôti et crème au gorgonzola
@@ -1076,8 +1057,7 @@ Avant de servir, répartissez les deux tiers de la sauce au poivron sur les quar
 
 ## Noms ingrédients
 
-ail. ciboulette. citron. crème fraîche. flocons de piment. gorgonzola. graines de cumin. huile d'olive. mélasse de grenade. noisettes. persil. poivre noir. poivrons rouges. vinaigre de vin rouge
-
+ail. ciboulette. citrons. piment rouge séché. gorgonzola. grenade. noisettes. persil. poivron rouge
 ---
 
 # Céleri-rave rôti entier et ses graines de coriandre
@@ -1117,12 +1097,10 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-céleri-rave. citron. fleur de sel. huile d'olive
-
+céleri-rave. citrons
 ---
 
-
-# Céleri-rave entier rôti (base)
+# Céleri-rave entier rôti de trois façons
 
 
 ## Commentaire
@@ -1155,10 +1133,136 @@ Ottolenghi. Végé
 
 3. Laissez reposer 15 min, puis découpez-le en quartiers ou en steaks (en fonction de la recette) et badigeonnez chaque face avec l'huile et le caramel laissés sur la plaque (vous devrez peut-être ajouter un peu d'huile s'il n'y en a pas assez pour enrober tous les morceaux).
 
+---
+
+## Les trois déclinaisons
+
+### 1. Céleri-rave rôti et mariné avec une vinaigrette au piment doux
+
+*Pour 2 personnes (ou en accompagnement 4 personnes)*
+
+**Ingrédients supplémentaires :**
+
+- 1 céleri-rave moyen, pelé et coupé en bâtonnets de 6 cm de long
+- 3 tiges de céleri, coupées en fins bâtonnets
+- 3 piments rouges, en fines rondelles
+- 5 gousses d'ail, en fines tranches
+- 12 cl d'huile de tournesol
+
+**Vinaigrette au piment doux :**
+- 15 cl de vinaigre de riz
+- 6 cl de jus + zestes : 3 citrons verts
+- 2 gousses d'ail, écrasées avec la peau et écrasées au couteau
+- 2 étoiles d'anis (badiane) rondelles (30 g)
+- 1 ½ cuil. à soupe de graines de sésame blanc ou noir, ou un mélange des deux
+- 1 cuil. à café de curry
+- 1 cuil. à soupe de vinaigre balsamique
+- ⅓ de cuil. à café de paprika fumé
+- ½ cuil. à café de cumin moulu
+- 2 gousses d'ail, écrasées
+- 1 échalote banane, finement hachée (30 g)
+- 5 cl d'huile de tournesol
+
+**Pour l'huile aromatique :**
+- 12 cl d'huile de tournesol
+- 5 gousses d'ail, en fines tranches
+- 3 piments rouges, en fines tranches
+- 2 étoiles d'anis (badiane), en morceaux
+
+**Pour servir :**
+- 2 cuil. à soupe de ciboulette, finement hachée
+- 5 cl de sauce soja
+- 1 cuil. à soupe de vinaigre de riz
+- 2 ½ cuil. à soupe de sirop d'érable
+- ½ cuil. à soupe de graines de sésame blanc ou noir, ou un mélange des deux
+- 5 g de feuilles de basilic thaï, grossièrement déchirées, pour servir
+- 2 citrons verts, coupés en quartiers, pour servir
+
+**Déroulé :** Pour la vinaigrette au piment, faites chauffer l'huile de tournesol à feu moyen dans une petite casserole, puis faites-y frire l'échalote et l'ail pendant 8 min, jusqu'à ce que l'ail soit tendre et parfumé. Baissez le feu si l'ail se colore trop rapidement. Réservez l'huile. Récupérez 4 cl d'huile pour le service et gardez le reste pour une autre recette. Prélevez les 4 cl d'huile aromatique et gardez-le reste pour le service. Filtrez le mélange dans un tamis placé au-dessus d'un bol résistant à la chaleur, puis laissez les tranches d'ail et l'ail frits séparément – elles doivent être croustillantes et dorées (l'ail va continuer à se colorer une fois sorti de l'huile, donc ne le laissez pas trop cuire). Ajoutez l'ail, les piments et l'anis étoilé, puis laissez frire 2 min à 2 min ½, en remuant pour séparer les tranches d'ail et les piments (l'ail va continuer à se colorer une fois sorti de l'huile). Filtrez l'huile. Réservez l'huile aromatique et le mélange d'ail frit et de piment au piment.
+
+Ajoutez le piment et l'ail frits dans la vinaigrette en évitant de mettre le liquide de la marinade, l'ail et la peau du citron vert. Garnissez avec 200 g du mélange de céleri-rave et répartissez à la cuillère les ¼ restants du mélange de vinaigrette. Ajoutez les oignons verts et le basilic thaï. Servez chaud, avec des quartiers de citron vert et proposez le reste de sauce de côté.
+
+---
+
+### 2. « Tacos » de chou au céleri-rave et sauce barbecue aux dattes
+
+*Pour 16 tacos (pour 4 à 6 personnes)*
+
+**Ingrédients supplémentaires :**
+
+- Céleri-rave entier rôti (voir p. 54), coupé en 16 quartiers
+- 15 feuilles de chou entières (grand chou pointu dont la base a été coupée)
+- 120 g de fromage de chèvre frais sans croûte, grossièrement émietté
+- 2 citrons verts, coupés en quartiers de 2 cm (facultatif)
+
+**Sauce barbecue aux dattes :**
+- 8 cl d'huile d'olive
+- 1 petite échalote banane, finement hachée (30 g)
+- 2 gousses d'ail, écrasées
+- 3 piments rouges, en fines tranches
+- 100 g de dattes dénoyautées et hachées grossièrement
+- 1 cuil. à café de cumin moulu
+- ¼ de cuil. à café de paprika fumé
+- 1 cuil. à soupe de vinaigre balsamique
+- 1 cuil. à café de mélasse de grenade
+- 5 cl de sauce soja
+
+**Huile aromatique :**
+- 4 cl d'huile de tournesol
+- 2 gousses d'ail, écrasées (pas écrasées)
+- 10 gousses d'ail noir (environ 30 g)
+- ½ cuil. à café de graines de cumin
+- 1 cuil. à café de graines de coriandre, légèrement écrasées
+
+**Pour servir :**
+- 5 g de feuilles de basilic thaï, grossièrement déchirées
+
+**Déroulé :** Pour la sauce barbecue, mettez 2 cuil. à soupe d'huile, l'échalote et l'ail dans une petite casserole à feu moyen. Laissez cuire environ 6 min en remuant souvent, jusqu'à ce que l'échalote soit tendre et dorée. Ajoutez les dattes, le reste de la sauce barbecue et les ingrédients. Ajoutez tous les autres ingrédients sauf le reste de l'huile restants avec 13 cl d'eau et ¼ cuil. à café de sel. Portez à petite ébullition, puis laissez cuire environ 10 min, jusqu'à ce que les dattes soient fondantes. Laissez refroidir 10 min, puis transférez dans le bol d'un robot ou dans le bol d'un mixeur plongeant. Mixez en sauce lisse. Allongez la préparation avec de l'eau si besoin. Ajoutez 6 cl d'huile restants. Goûtez et rectifiez éventuellement l'assaisonnement. Battez de nouveau 1 ou 2 s et ajoutez le persil lisse.
+
+Pour l'huile aromatique, mettez tous les ingrédients sauf le persil jusqu'à l'obtention d'une préparation lisse. Allongez la préparation avec de l'eau si besoin. Goûtez et rectifiez l'assaisonnement.
+
+Placez les quartiers de céleri-rave rôtis sur une grande plaque tapissée de papier sulfurisé et couvrez-les hermétiquement de papier d'aluminium. Enfournez pour 1 h, jusqu'à ce que le céleri soit bien doré. Les quartiers devraient avoir été badigeonnés de leur huile de cuisson et de leur caramel de céleri-rave. Si ce n'est pas le cas, badigeonnez-les d'un peu d'huile d'olive et d'un peu de sirop d'érable ou de miel. Assurez-vous que le papier ne déborde pas. Faites-les griller 6 min sur la grille supérieure du four, jusqu'à ce qu'ils soient bien dorés sur le dessus.
+
+Pour assembler, placez un quartier de céleri-rave sur chaque feuille de chou. Badigeonnez-les généreusement sur les deux faces avec 6 cuil. à soupe (120 g) de sauce barbecue. Sortez-les et faites-les griller sur un gril. Servez chaud, avec les quartiers de citron vert et proposez le reste de sauce de côté. Garnissez de fromage de chèvre et du reste de persil. Servez chaud.
+
+---
+
+### 3. Steaks de céleri-rave et sauce café de Paris
+
+*Pour 4 personnes en plat principal*
+
+**Ingrédients supplémentaires :**
+
+- 2 céleris-raves entiers rôtis (le double de la recette p. 54), coupés en steaks de 2,5 cm d'épaisseur
+- Sel de Maldon® et poivre noir
+
+**Sauce café de Paris :**
+- 110 g de beurre doux, coupé en cubes de 2 cm
+- 1 petite échalote banane, finement hachée (25 g)
+- 1 gousse d'ail écrasée
+- 3 filets d'anchois à l'huile, égouttés et finement hachés (facultatif ; ajustez l'assaisonnement si vous n'en utilisez pas)
+- ½ cuil. à café de curry moyen en poudre
+- ¼ de cuil. à café de poivre de Cayenne
+- 1 cuil. à soupe de moutarde moulue
+- 1 cuillère à soupe de petites câpres
+- 2 cuil. à soupe de ciboulette, finement hachée
+- 2 cuil. à soupe de feuilles d'estragon, finement hachées
+- 1 cuil. à soupe de persil, finement haché
+- 2 cuil. à café de feuilles de thym
+- 11 cl de crème liquide
+- 2 cuil. à café de jus de citron
+
+**Déroulé :** Mélangez dans une casserole à feu moyen les sept premiers ingrédients de la sauce et ¼ de cuil. à café de sel. Laissez cuire environ 6 min en faisant tourner la casserole en tous sens, jusqu'à ce que les échalotes aient ramolli et que le beurre soit fondu en prenant une teinte caramélisée. Ajouter les câpres et les herbes, poivrez généreusement et poursuivez la cuisson 1 min, puis retirez du feu.
+
+Réglez le four en position gril, thermostat au maximum. Étalez les steaks de céleri-rave, en les espaçant, sur une plaque tapissée de papier sulfurisé : la plaque doit être assez grande pour que les tranches ne forment qu'une seule couche. À ce stade, les steaks doivent avoir été badigeonnés de leur huile de cuisson et du caramel de céleri-rave. Si ce n'est pas le cas, badigeonnez-les d'un peu d'huile d'olive et d'un peu de sirop d'érable ou de miel. Glissez les steaks dans le haut du four et laissez-les griller environ 6-8 min, jusqu'à ce qu'ils soient dorés sur le dessus. Éteignez le four, en gardant la plaque dedans jusqu'à ce que vous soyez prêt à servir.
+
+Remettez la sauce à feu moyen et réchauffez-la doucement pendant 1 min, puis ajoutez la crème et le jus de citron. Laissez chauffer encore 2 minutes en agitant la casserole, jusqu'à ce que la sauce soit chaude. Ne mélangez pas trop : la sauce ne doit ni se dissocier ni former une émulsion.
+
+Versez la sauce dans un grand plat de service creux et disposez les steaks de céleri-rave par-dessus (ou servez-les sur des assiettes avec la sauce à part). Saupoudrez de sel de Maldon® et de poivre noir. Servez chaud avec une salade verte croquante.
+
 ## Noms ingrédients
 
-céleri-rave. huile d'olive. sel de maldon
-
+céleri-rave
 ---
 
 # Champignons farcis au taleggio
@@ -1204,8 +1308,7 @@ Disposez les champignons sur les assiettes et arrosez-les d'huile. Parsemez du r
 
 ## Noms ingrédients
 
-ail. basilic. céleri. champignons de paris. estragon. huile d'olive. oignons. parmesan. poivre noir. taleggio. tomates séchées
-
+ail. basilic. céleri. champignons de Paris. oignons. parmesan. taleggio. tomates séchées
 ---
 
 # Cheesecake sucré-salé à la cerise
@@ -1266,8 +1369,7 @@ Ottolenghi. Végé. Dessert
 
 ## Noms ingrédients
 
-badiane. beurre. cerises. citron. crème liquide. feta. fromage frais. graines de sésame. huile d'olive. noisettes. orange. poudre d'amande. sel. sucre
-
+cerises. citrons. feta. fromage frais. noisettes. oranges. amandes moulues
 ---
 
 # Chou-fleur rôti au beurre pimenté
@@ -1323,8 +1425,7 @@ Ottolenghi. Viande
 
 ## Noms ingrédients
 
-ail. beurre. chou-fleur. citron. concentré de tomates. flocons de piment. harissa. huile d'olive. oignons. piment d'urfa. piment rouge frais. sel. sucre
-
+ail. chou-fleur. citrons. concentré de tomate. piment rouge séché. oignons. piment d'Urfa. piment rouge frais
 ---
 
 # Chou-fleur rôti entier
@@ -1382,8 +1483,7 @@ Versez le tahin, le persil et l'ail dans le bol d'un petit robot et mixez enviro
 
 ## Noms ingrédients
 
-ail. beurre. chou-fleur. citron. fleur de sel. huile d'olive. jus de citron. persil. tahin
-
+ail. chou-fleur. citrons. persil. tahin
 ---
 
 # Chou rôti à l'estragon et au pecorino
@@ -1425,8 +1525,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-ail. chou pointu. citron. estragon. huile d'olive. pecorino. poivre noir
-
+ail. chou pointu. citrons. pecorino
 ---
 
 # Chou rouge rôti au miso
@@ -1460,7 +1559,7 @@ Si vous doutiez qu'un jour le chou puisse devenir addictif, testez cette recette
 - en fonction de la saison, des kumquats, des myrtilles, des châtaignes ou encore du kiwi
 - du persil
 
-## Déroulé de la recette
+## Déroulé
 
 **Chou**
 
@@ -1490,8 +1589,7 @@ Japonais. Végé
 
 ## Noms ingrédients
 
-chou rouge. dashi. gingembre. mirin. oignons. persil. purée de sésame. tamari. vinaigre de riz
-
+chou rouge. dashi. gingembre. oignons. persil. purée de sésame
 ---
 
 # Cœurs de bœuf grillées, piment, ail et gingembre
@@ -1534,8 +1632,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-ail. coriandre. fleur de sel. gingembre. huile d'olive. piment rouge frais. tomates
-
+ail. coriandre. gingembre. piment rouge frais. tomates en conserve
 ---
 
 # Crème aux œufs fraise-rhubarbe
@@ -1585,8 +1682,7 @@ Ottolenghi. Végé. Dessert
 
 ## Noms ingrédients
 
-crème liquide. extrait de vanille. fraises. jaunes d'œufs. maïzena. rhubarbe. sucre
-
+fraises. jaunes d'œuf. rhubarbe
 ---
 
 # Croquettes d'aubergines
@@ -1642,8 +1738,7 @@ Pour cuire les croquettes, détaillez chaque boudin de pâte en morceaux de 5 cm
 
 ## Noms ingrédients
 
-ail. aubergines. café. chapelure. estragon. feta. huile d'olive. huile de colza. huile de tournesol. jaunes d'œufs. jus de citron. parmesan. poivre noir. pommes de terre. sel. œufs
-
+ail. aubergines. feta. jaunes d'œuf. citrons. parmesan. pomme de terre
 ---
 
 # Crostinis aux poires
@@ -1692,8 +1787,7 @@ Garnissez les crostinis de pluches de cerfeuil, arrosez d'un filet d'huile et do
 
 ## Noms ingrédients
 
-ail. cerfeuil. fromage de chèvre. huile d'olive. jus de citron. pain rassis. pignons de pin. poires. poivre noir. sucre
-
+ail. persil. fromage de chèvre. citrons. pain rassis. pistaches. poire
 ---
 
 # Dutch baby aux tomates rôties
@@ -1755,8 +1849,7 @@ Sortez le *dutch baby* du four et faites-le glisser sur un plat de service en vo
 
 ## Noms ingrédients
 
-ail. bacon. basilic. cassonade. cheddar. farine. flocons de piment. huile d'olive. lait. parmesan. poivre noir. thym. tomates cerise. vinaigre balsamique. œufs
-
+ail. bacon. basilic. cheddar. piment rouge séché. parmesan. tomates cerise
 ---
 
 # Endives aux noix et au roquefort
@@ -1801,8 +1894,7 @@ Tapissez un plat de service avec quelques feuilles de *radicchio*. Disposez quel
 
 ## Noms ingrédients
 
-beurre. crème fraîche. endives. noix. pignons de pin. poivre blanc. roquefort
-
+endives. noix. pistaches. roquefort
 ---
 
 # Far breton aux pruneaux
@@ -1824,7 +1916,7 @@ Les fars en Bretagne sont multiples. Ils peuvent être cuisinés avec du sarrasi
 - 1 pincée de sel
 - 1 bouchon de rhum
 
-## Déroulé de la recette
+## Déroulé
 
 **1. Préparation des pruneaux :** laver les pruneaux et les tremper dans une eau tiède le temps de la préparation du far.
 
@@ -1852,8 +1944,7 @@ Breton. Végé. Dessert
 
 ## Noms ingrédients
 
-beurre demi-sel. farine. lait. pruneaux. rhum brun. sel. sucre. œufs
-
+pruneaux
 ---
 
 # Faux-filet épicé, sauce poivron-citron
@@ -1902,8 +1993,7 @@ Ottolenghi. Viande
 
 ## Noms ingrédients
 
-ail. citron. faux-filet. fleur de sel. harissa. huile d'olive. paprika. persil. piment en flocons. poivrons rouges. tomates en conserve
-
+ail. citrons. faux-filet. persil. piment rouge séché. poivron rouge. tomates en conserve
 ---
 
 # Fine tarte aux pommes et au beurre salé
@@ -1928,7 +2018,7 @@ Dès le XVIIème siècle, la Bretagne est reconnue pour ses vergers de pommes à
 - 150 g de beurre demi-sel
 - 120 g de sucre
 
-## Déroulé de la recette
+## Déroulé
 
 **1. Préparation de la pâte :** faire la pâte au moins 1 h avant ou la veille. Couper le beurre froid en petits morceaux. Faire une fontaine avec la farine. Mettre le beurre au centre de la fontaine et mélanger le beurre et la farine avec les doigts de façon à ce que tous les grains de farine soient enrobés de beurre (il doit rester des petits morceaux de beurre dans la farine). Y incorporer l'eau froide en travaillant la pâte le plus rapidement possible jusqu'à l'obtention d'une boule. Une fois filmée, laisser reposer la pâte au frais. Après le repos, étaler la pâte au rouleau et la déposer dans un plat à tarte en formant des bords plutôt hauts. Préchauffer le four à 200 °C (four chaud, th. 7). Précuire la pâte à four chaud pendant 20 min en la recouvrant de papier aluminium, lui-même recouvert de graines (riz, lentilles, haricots...) ou de petits cailloux afin qu'elle ne gonfle pas à la cuisson.
 
@@ -1948,8 +2038,7 @@ Breton. Végé
 
 ## Noms ingrédients
 
-beurre demi-sel. farine. pommes. sucre
-
+pomme
 ---
 
 # Frites de patate douce épicées
@@ -1990,8 +2079,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-ail. fleur de sel. huile d'olive. paprika fumé. patates douces. piment de cayenne. polenta. sumac
-
+ail. patate douce. piment de Cayenne
 ---
 
 # Frittata moelleuse aux courgettes
@@ -2037,8 +2125,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-ail. basilic. courgettes. crème liquide. cumin. huile d'olive. lait. pain rassis. parmesan. poivre noir. œufs
-
+ail. basilic. courgettes. pain rassis. parmesan
 ---
 
 # Galettes ou crêpes de blé noir
@@ -2058,7 +2145,7 @@ Le sarrasin et le blé noir sont des synonymes ! Quant à crêpe et galette, sel
 - 1,2 litre d'eau (plus si la pâte est trop épaisse)
 - Beurre
 
-## Déroulé de la recette
+## Déroulé
 
 **1. Fabrication de la pâte :** dans un saladier, verser les farines et le sel. Mélanger et former une fontaine. Casser au centre l'œuf. Mélanger doucement au fouet en ajoutant l'eau petit à petit. Mélanger la pâte jusqu'à ce qu'elle soit onctueuse. La battre ensuite avec une spatule pendant 10 minutes pour que la pâte devienne plus légère. Laisser reposer la pâte 1 h.
 
@@ -2072,7 +2159,6 @@ Breton. Végé
 
 ## Noms ingrédients
 
-beurre. farine. sel. œufs
 
 ---
 
@@ -2092,7 +2178,7 @@ Les crêpes de froment comme les crêpes ou galettes de blé noir se cuisent tra
 - 30 g de sucre + un peu de sucre pour saupoudrer chaque crêpe après leur cuisson
 - 1/2 litre de lait (plus si la pâte est trop épaisse)
 
-## Déroulé de la recette
+## Déroulé
 
 **1. Confection de la pâte :** dans un saladier, verser la farine et le sucre. Mélanger et former une fontaine. Casser les œufs entiers au centre en les incorporant bien au fouet petit à petit et en ajoutant ensuite le lait. Fouetter vigoureusement le tout afin d'obtenir une pâte bien lisse.
 
@@ -2114,7 +2200,6 @@ Breton. Végé
 
 ## Noms ingrédients
 
-beurre. farine. lait. sucre. œufs
 
 ---
 
@@ -2167,8 +2252,7 @@ Faites fondre le beurre dans une poêle antiadhésive. Pour confectionner les ga
 
 ## Noms ingrédients
 
-beurre. coriandre. crème aigre. farine. huile d'olive. jus de citron. oignons verts. patates douces. piment rouge frais. poivre noir. sauce soja. sel. sucre. yaourt grec
-
+coriandre. citrons. oignons verts. patate douce. piment rouge frais. yaourt grec
 ---
 
 # Ganache au chocolat, noisettes aux épices et huile à l'orange
@@ -2242,8 +2326,7 @@ Ottolenghi. Végé. Dessert
 
 ## Noms ingrédients
 
-badiane. beurre. cannelle. cardamome. chocolat noir. crème fraîche. fleur de sel. graines de coriandre. huile d'olive. noisettes. orange. poivre noir. sucre. sucre glace. œufs
-
+chocolat noir. noisettes. oranges
 ---
 
 # Gâteau aux pommes et aux épices
@@ -2294,8 +2377,7 @@ Ottolenghi. Végé. Dessert
 
 ## Noms ingrédients
 
-beurre. café. cassonade. crème fraîche. extrait de vanille. farine. mélange quatre-épices. pommes. sucre. œufs
-
+pomme
 ---
 
 # Gelée de café et granité orange, rhum blanc et limoncello
@@ -2322,7 +2404,7 @@ beurre. café. cassonade. crème fraîche. extrait de vanille. farine. mélange 
 - 1 poire épluchée et coupée en cubes
 - 2 oranges pelées à vif, levées en segments recoupés en trois
 
-## Déroulé de la recette
+## Déroulé
 
 **1. La gelée de café**
 
@@ -2336,7 +2418,7 @@ Mélanger le jus d'orange avec le limoncello et le rhum, ajouter le sucre et le 
 
 Mélanger les cubes de poire et les segments d'orange coupés en trois.
 
-**Dressage**
+## Dressage
 
 Répartir, au fond de 6 coupelles, la gelée de café cassée à la cuillère. Déposer les fruits par-dessus, terminer avec le granité d'orange. On peut servir ce dessert avec des biscuits à la cuillère ou des tranches de cake aux fruits confits.
 
@@ -2350,8 +2432,7 @@ Gagnaire. Végé. Dessert
 
 ## Noms ingrédients
 
-café. gélatine. jus d'orange. limoncello. orange. poires. rhum blanc. sucre
-
+oranges. poire
 ---
 
 # Gratin de pommes de terre, fenouil et saumon fumé
@@ -2413,8 +2494,7 @@ Pendant ce temps, faites chauffer le jus de citron à feu moyen-vif dans une pet
 
 ## Noms ingrédients
 
-ail. anchois. aneth. beurre. câpres. ciboulette. citron. graines de fenouil. jaunes d'œufs. jus de citron. lait. persil. poivre noir. pommes de terre. saumon fumé
-
+ail. anchois. aneth. câpres. ciboulette. citrons. jaunes d'œuf. persil. pomme de terre. saumon fumé
 ---
 
 # Gyoza
@@ -2455,7 +2535,7 @@ Les gyoza sont des raviolis particuliers puisqu'ils présentent deux textures : 
 
 Faites blanchir 120 g de chou et 100 g de tofu ferme, puis émiettez-le. Faites chauffer un filet d'huile de tournesol dans une poêle, puis faites revenir le tofu avec 1 cuillerée à café de gingembre et 1 oignon nouveau. Ôtez les pieds des shiitaké, puis tailllez les chapeaux en tout petits dés. Dans un saladier, mélangez le chou, le tofu, l'oignon, 1 cuillerée à café de gingembre râpé, 3 cuillerées à soupe de sauce soja et 1 cuillerée à soupe d'huile de sésame grillé. Salez et poivrez. Formez 20 ronds de pâte à gyoza, puis fermez-les. Faites cuire les raviolis comme indiqué précédemment. Dégustez avec la sauce.
 
-## Déroulé de la recette
+## Déroulé
 
 Préparez la pâte. Dans un bol, tamisez les deux farines. Ajoutez l'eau et mélangez à la main pour obtenir une pâte homogène. Couvrez d'un torchon humide et laissez reposer 15 minutes.
 
@@ -2483,8 +2563,7 @@ Japonais. Viande
 
 ## Noms ingrédients
 
-ail. chou vert. farine. gingembre. huile de sésame. oignons verts. porc haché. sauce soja. sel. vinaigre de riz
-
+ail. chou vert. gingembre. oignons verts. porc haché
 ---
 
 # Hiroshima okonomiyaki
@@ -2511,7 +2590,7 @@ ail. chou vert. farine. gingembre. huile de sésame. oignons verts. porc haché.
 - sauce okonomiyaki (ou sauce yakisoba, voir recette p. 57)
 - mayonnaise kewpie (ou mayonnaise classique)
 
-## Déroulé de la recette
+## Déroulé
 
 Dans un bol, mélangez la farine, la fécule et le bouillon dashi jusqu'à obtenir une consistance homogène. Réservez au réfrigérateur.
 
@@ -2537,8 +2616,7 @@ Japonais. Viande. Poisson
 
 ## Noms ingrédients
 
-bouillon dashi. chou vert. farine. fécule de pomme de terre. huile de tournesol. lard. mayonnaise kewpie. nouilles yakisoba. oignons verts. pois mange-tout. sauce okonomiyaki. œufs
-
+chou vert. lard. oignons verts. pois mange-tout
 ---
 
 # Hiyashi chuka
@@ -2589,7 +2667,7 @@ Faites cuire les nouilles de la même manière que p. 200. Coupez 120 g de haric
 
 Réhydratez 2 cuillerées à soupe d'algues wakamé dans un grand volume d'eau froide pendant 10 minutes. Égouttez-les en pressant bien avec vos mains. Faites cuire les nouilles de la même manière que p. 200. Coupez 4 fines tranches de rôti de porc cuit en fines lamelles. Taillez en julienne 1/2 concombre seulement. Râpez une carotte. Préparez une sauce au sésame en mélangeant 3 cuillerées à soupe de sauce soja, 3 cuillerées à soupe d'eau, 2 cuillerées à soupe de purée de sésame, 1 cuillerée à soupe de vinaigre de riz, 2 cuillerées à soupe d'huile de sésame grillé, 1 cuillerée à soupe de sucre semoule et 1 cuillerée à soupe de graines de sésame dans un bol. Garnissez les nouilles de cette garniture et arrosez-les de la sauce au sésame. Servez.
 
-## Déroulé de la recette
+## Déroulé
 
 Faites cuire les nouilles dans une casserole d'eau bouillante selon les indications du paquet — soit 2 ou 3 minutes. Passez-les sous l'eau froide et égouttez-les.
 
@@ -2611,8 +2689,7 @@ Japonais. Viande. Poisson
 
 ## Noms ingrédients
 
-bouillon de poulet. concombre. gingembre. graines de sésame. huile de sésame. jambon blanc. jus de citron. moutarde karashi. nori. nouilles ramen. piment en flocons. sauce soja. sucre. tagliatelles. tomates. vinaigre de riz
-
+concombres. gingembre. jambon blanc. citrons. piment rouge séché. tomates en conserve
 ---
 
 # Kara age
@@ -2637,7 +2714,7 @@ Dans les izakaya, les kara age sont souvent dégustés avec un verre de bière. 
 - huile pour la friture
 - poivre du moulin
 
-## Déroulé de la recette
+## Déroulé
 
 Coupez le poulet en petits cubes. Pelez, dégermez et écrasez l'ail.
 
@@ -2659,8 +2736,7 @@ Japonais. Viande
 
 ## Noms ingrédients
 
-ail. citron. cuisses de poulet. fécule de pomme de terre. gingembre. huile de tournesol. poivre noir. saké. sauce soja
-
+ail. citrons. cuisses de poulet. gingembre
 ---
 
 # Lentilles du Puy aux griottes, au lard fumé et au gorgonzola
@@ -2708,8 +2784,7 @@ Répartissez la préparation sur des assiettes et parsemez de morceaux de gorgon
 
 ## Noms ingrédients
 
-échalotes. épinards. gorgonzola. griottes. huile d'olive. lard. laurier. lentilles du puy. poivre noir. sucre. vinaigre de vin rouge
-
+échalotes. épinards. gorgonzola. griottes. lard. lentilles du Puy
 ---
 
 # Linguine au beurre miso, shiitake et épinards
@@ -2760,8 +2835,7 @@ Remettez les pâtes cuites dans la sauteuse, mélangez 30 s, puis ajoutez les é
 
 ## Noms ingrédients
 
-ail. beurre. champignons shiitaké. citron. échalotes. épinards. huile d'olive. miso blanc. poivre noir. sauce soja.
-
+ail. champignons shiitaké. citrons. échalotes. épinards
 ---
 
 # Macarons
@@ -2775,13 +2849,7 @@ Ottolenghi. Végé. Dessert
 
 ---
 
-## Ingrédients
-
-*Voir les différentes recettes de macarons ci-dessous.*
-
----
-
-## Déroulé de la recette
+## Ingrédients et déroulé de la recette
 
 ### Recette de base
 
@@ -2875,8 +2943,7 @@ Recouvrez la surface de la ganache de film alimentaire et laissez-la durcir 2 à
 
 ## Noms ingrédients
 
-amandes. basilic. beurre. blancs d'œufs. cacahuètes grillées. cacao. chocolat noir. citron vert. crème fraîche. dulce de leche. rhum brun. sel. sucre. sucre glace
-
+amandes. basilic. cacahuètes. chocolat noir. citrons verts. dulce de leche
 ---
 
 # Magret de canard rôti, beurre de noisettes à la bière, quinoa rouge
@@ -2938,8 +3005,7 @@ Ottolenghi. Viande
 
 ## Noms ingrédients
 
-ail. champignons shimeji. ciboulette. citron vert. échalotes. huile d'olive. huile de tournesol. magret de canard. mirin. moutarde de dijon. noisettes. pleurotes. quinoa rouge. sauce soja. sel de mer. sirop de datte. sucre muscovado. vinaigre de riz
-
+ail. champignons shimeji. ciboulette. citrons verts. échalotes. magrets de canard. noisettes. pleurotes. quinoa rouge
 ---
 
 # Filets de merlan, gel de citron, purée de pommes de terre roquette-persil
@@ -2976,7 +3042,7 @@ ail. champignons shimeji. ciboulette. citron vert. échalotes. huile d'olive. hu
 - 2 c. à s. de persil plat ciselé
 - 60 g de roquette hachée grossièrement au couteau
 
-## Déroulé de la recette
+## Déroulé
 
 **1. Le gel de citron**
 
@@ -2990,7 +3056,7 @@ Faire cuire les pommes de terre à l'eau salée, les égoutter, sans les rafraî
 
 Battre les œufs avec l'huile de tournesol, assaisonner. Passer les filets de merlan successivement dans l'œuf, la farine, puis la chapelure. Faire chauffer l'huile d'olive dans une grande poêle ovale à 170 °C environ. Faire frire les filets durant 5 à 6 minutes. Les égoutter sur un papier absorbant, puis les saler.
 
-**Dressage**
+## Dressage
 
 Poser les filets de merlan sur de grandes assiettes plates, accompagnés d'une cuillerée de purée. Servir le gel de citron en condiment à part pour chaque convive. Présenter le reste de purée dans un légumier sur la table.
 
@@ -3004,8 +3070,7 @@ Gagnaire. Poisson
 
 ## Noms ingrédients
 
-agar-agar. beurre. chapelure. citron. crème liquide. farine. gélatine. huile d'olive. huile de tournesol. jus de citron. lait. merlans. persil. pommes de terre. roquette. sel. sucre. œufs
-
+citrons. merlans. persil. pomme de terre. roquette
 ---
 
 # Moelleux au chocolat
@@ -3050,8 +3115,7 @@ Versez 800 g (deux tiers environ) du mélange dans le moule tapissé et égalise
 
 ## Noms ingrédients
 
-beurre. cacao. chocolat noir. sel. sucre muscovado. œufs
-
+chocolat noir
 ---
 
 # Mousse au chocolat et caramel à l'orange
@@ -3106,8 +3170,7 @@ Environ 15 min avant de servir, sortez la mousse du réfrigérateur. Garnissez-l
 
 ## Noms ingrédients
 
-chocolat noir. crème aigre. crème liquide. noisettes. orange. sel de mer. sucre. œufs
-
+chocolat noir. noisettes. oranges
 ---
 
 # Nabé udon au canard
@@ -3130,7 +3193,7 @@ chocolat noir. crème aigre. crème liquide. noisettes. orange. sel de mer. sucr
 - 4 cuillerées à soupe de mirin
 - 1 pincée de poivre sansho (ou de poivre du Sichuan)
 
-## Déroulé de la recette
+## Déroulé
 
 Coupez le magret de canard en fines tranches. Nettoyez les champignons et ôtez les pieds des shiitaké. Rincez les épinards, puis faites-les tomber 2 ou 3 minutes dans une poêle antiadhésive sur feu moyen. Égouttez-les.
 
@@ -3150,8 +3213,7 @@ Japonais. Viande. Poisson
 
 ## Noms ingrédients
 
-champignons énoki. champignons shiitaké. épinards. magret de canard. mirin. nouilles udon. poivre sansho. sauce soja
-
+champignons enoki. champignons shiitaké. épinards. magrets de canard
 ---
 
 # Niku-miso domburi
@@ -3179,7 +3241,7 @@ champignons énoki. champignons shiitaké. épinards. magret de canard. mirin. n
 - 1 cuillerée à soupe d'huile de sésame grillé
 - 1 filet d'huile de tournesol
 
-## Déroulé de la recette
+## Déroulé
 
 Coupez le poireau en deux dans la longueur, puis émincez-le finement. Épluchez et épépinez le concombre, puis taillez-le en julienne. Pelez et râpez l'ail.
 
@@ -3199,8 +3261,7 @@ Japonais. Viande
 
 ## Noms ingrédients
 
-ail. concombre. coriandre. gingembre. graines de sésame. huile de sésame. huile de tournesol. maïzena. poireaux. porc haché. riz. sauce soja. sucre
-
+ail. concombres. coriandre. gingembre. poireau. porc haché
 ---
 
 # Noisettes d'agneau aux amandes et à la fleur d'oranger
@@ -3256,8 +3317,7 @@ Ottolenghi. Viande
 
 ## Noms ingrédients
 
-ail. amandes. citron. eau de fleur d'oranger. filet d'agneau. huile d'olive. menthe. miel. poivre noir. poivrons rouges. thym
-
+ail. amandes. citrons. filet d'agneau. menthe. miel. poivron rouge
 ---
 
 # Nouilles soba aux aubergines et à la mangue
@@ -3306,8 +3366,7 @@ Mélangez, dans un saladier, les nouilles, la mangue, l'aubergine, la moitié de
 
 ## Noms ingrédients
 
-ail. aubergines. basilic. citron vert. coriandre. huile de sésame. huile de tournesol. mangue. nouilles soba. oignons rouges. piment rouge frais. sel. sucre. vinaigre de riz
-
+ail. aubergines. basilic. citrons verts. coriandre. mangue. oignons rouges. piment rouge frais
 ---
 
 # Œufs braisés, poireaux et zaatar
@@ -3351,8 +3410,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-beurre. bouillon de légumes. citron. épinards. feta. graines de cumin. huile d'olive. poireaux. poivre noir. zaatar. œufs
-
+citrons. épinards. feta. poireau. zaatar
 ---
 
 # Oignons au beurre de miso
@@ -3398,8 +3456,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-beurre. oignons
-
+oignons
 ---
 
 # Okonomiyaki au lard
@@ -3428,7 +3485,7 @@ beurre. oignons
 - 1 poignée de flocons de bonite séchée (facultatif)
 - paillettes d'algues ao nori (facultatif)
 
-## Déroulé de la recette
+## Déroulé
 
 Lavez le chou et détaillez-le en fines lanières. Lavez et émincez la ciboule. Émincez finement les lamelles de gingembre.
 
@@ -3450,8 +3507,7 @@ Japonais. Viande. Poisson
 
 ## Noms ingrédients
 
-ao nori. bouillon dashi. chou vert. farine. fécule de pomme de terre. gingembre. huile de tournesol. lard. oignons verts. sauce okonomiyaki. œufs
-
+chou vert. gingembre. lard. oignons verts
 ---
 
 # Orecchiette aux oignons caramélisés, noisettes grillées et feuilles de sauge frites
@@ -3494,8 +3550,7 @@ Mettez la petite poêle (avec son huile) à chauffer à feu moyen, puis ajoutez 
 
 ## Noms ingrédients
 
-jus de citron. noisettes. oignons. poivre noir. sauge
-
+citrons. noisettes. oignons. sauge
 ---
 
 # Oyako-don
@@ -3519,7 +3574,7 @@ Ce plat est très populaire au Japon. Oyako signifie littéralement « parents e
 - 4 cuillerées à soupe de mirin
 - 4 cuillerées à soupe de sauce soja
 
-## Déroulé de la recette
+## Déroulé
 
 Désossez le poulet, ôtez la peau et coupez la chair en morceaux (voir préparation p. 36-37). Émincez les ciboules — réservez un peu de vert pour la décoration.
 
@@ -3539,8 +3594,7 @@ Japonais. Viande
 
 ## Noms ingrédients
 
-bouillon dashi. cuisses de poulet. mirin. nori. oignons verts. riz. sauce soja. œufs
-
+cuisses de poulet. oignons verts
 ---
 
 # Pain perdu et yaourt à l'orange
@@ -3605,8 +3659,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-badiane. beurre. fruits rouges. jus d'orange. jus de citron. lait. orange. pain brioché. sucre. sucre glace. yaourt grec. œufs
-
+fruits rouges. oranges. citrons. pain brioché. yaourt grec
 ---
 
 # Pancakes verts au beurre de citron vert
@@ -3668,8 +3721,7 @@ Pour servir, empilez 3 pancakes dans chaque assiette et déposez sur le dernier 
 
 ## Noms ingrédients
 
-ail. beurre. blancs d'œufs. café. citron. coriandre. cumin. épinards. farine. flocons de piment. huile d'olive. jus de citron vert. lait. levure. oignons verts. piments verts. poivre blanc. sel. œufs
-
+ail. citrons. coriandre. épinards. piment rouge séché. citrons verts. oignons verts. piment vert
 ---
 
 # Patates douces à la sauce tomate, citron vert et cardamome
@@ -3726,8 +3778,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-ail. aneth. cardamome. citron. concentré de tomates. cumin. échalotes. huile d'olive. piments verts. poivre noir. sirop d'érable. sucre. tomates en conserve
-
+ail. aneth. citrons. concentré de tomate. échalotes. piment vert. tomates en conserve
 ---
 
 # Pâtes au pesto, haricots grillés et pommes de terre
@@ -3772,8 +3823,7 @@ Transférez les pâtes dans un saladier de service. Garnissez avec les haricots 
 
 ## Noms ingrédients
 
-ail. basilic. citron. haricots verts. huile d'olive. parmesan. pignons de pin. poivre noir. pommes de terre
-
+ail. basilic. citrons. haricots verts. parmesan. pistaches. pomme de terre
 ---
 
 # Pièce de bœuf rôtie au sarrasin
@@ -3802,7 +3852,7 @@ Cette recette était considérée par Curnonsky comme « une des merveilles culi
 - Un peu de lait si la purée est trop épaisse
 - Gros sel, sel et poivre
 
-## Déroulé de la recette
+## Déroulé
 
 **1. Préparation de la purée de pommes de terre :** éplucher et laver les pommes de terre puis les cuire dans une casserole d'eau froide légèrement salée. Dès les petits frémissements, compter 30 à 40 minutes de cuisson sur un feu doux à couvert. Les égoutter et les écraser au presse-purée. Ajouter 100 g de beurre et délayer la purée avec la crème chaude en mélangeant délicatement. Ajouter un peu de lait chaud si la purée semble trop épaisse.
 
@@ -3824,8 +3874,7 @@ Breton. Viande
 
 ## Noms ingrédients
 
-beurre. crème fraîche. farine. faux-filet. lait. pommes de terre. sel
-
+faux-filet. pomme de terre
 ---
 
 # Poireaux et salsa au miso et à la ciboulette
@@ -3879,8 +3928,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-ail. ciboulette. gingembre. graines de sésame. huile d'olive. huile de tournesol. maïzena. mirin. poireaux. sel de maldon. vinaigre de riz
-
+ail. ciboulette. gingembre. poireau
 ---
 
 # Polenta aux champignons et aux herbes
@@ -3930,8 +3978,7 @@ Préchauffez le gril du four. Quand la polenta est prête, incorporez le parmesa
 
 ## Noms ingrédients
 
-ail. beurre. bouillon de légumes. cerfeuil. champignons. estragon. huile d'olive. parmesan. poivre noir. polenta. romarin. taleggio. thym
-
+ail. persil. champignons. parmesan. taleggio
 ---
 
 # Poulet mariné à la harissa et salade de pamplemousses roses
@@ -4011,8 +4058,7 @@ Dressez les assiettes. Mélangez la roquette avec les quartiers de pamplemousse,
 
 ## Noms ingrédients
 
-ail. badiane. cannelle. concentré de tomates. cuisses de poulet. graines de carvi. graines de coriandre. graines de cumin. huile d'olive. jus de citron. oignons rouges. pamplemousses roses. piment rouge frais. piment rouge séché. poivre noir. poivrons rouges. roquette. sirop d'érable. yaourt grec
-
+ail. concentré de tomate. cuisses de poulet. citrons. oignons rouges. pamplemousse rose. piment rouge frais. piment rouge séché. poivron rouge. roquette. yaourt grec
 ---
 
 # Purée de haricots blancs au muhammara
@@ -4071,8 +4117,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-ail. haricots verts. huile d'olive. noix. paprika fumé. piment en flocons. poivrons rouges. sel. thym. vinaigre balsamique
-
+ail. haricots verts. noix. piment rouge séché. poivron rouge
 ---
 
 # Purée à l'huile d'olive aromatisée
@@ -4100,7 +4145,7 @@ Les purées montées au lait et au beurre sont exquises, certes, mais quand le p
 - 1 citron : 1 cuil. à soupe de zeste et 1 cuil. à soupe de jus
 - 60 ml d'huile d'olive
 
-## Déroulé de la recette
+## Déroulé
 
 1. Versez les pommes de terre, l'ail, l'écorce de citron, les brins de thym, de menthe et 2 cuillères à café de sel dans une grande casserole. Recouvrez d'eau bouillante de manière qu'elle s'élève 2 cm au-dessus des pommes de terre et laissez cuire environ 25 minutes, ou jusqu'à ce que les pommes de terre soient suffisamment cuites pour être écrasées.
 
@@ -4120,8 +4165,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-ail. citron. huile d'olive. menthe. poivre noir. pommes de terre. thym
-
+ail. citrons. menthe. pomme de terre
 ---
 
 # Rougail Sosis Fumé
@@ -4141,7 +4185,7 @@ ail. citron. huile d'olive. menthe. poivre noir. pommes de terre. thym
 - 1 tasse d'eau si nécessaire
 - Feuille de thym + épices
 
-## Déroulé de la recette
+## Déroulé
 
 1. Faire bouillir les saucisses pendant 20-30 minutes, puis les sortir.
 
@@ -4172,8 +4216,7 @@ Réunion. Viande
 
 ## Noms ingrédients
 
-ail. gingembre. huile d'olive. oignons. safran. saucisses fumées. thym. tomates
-
+ail. gingembre. oignons. saucisses fumées. tomates en conserve
 ---
 
 # Roulés à la saucisse et sauce moutarde au miel
@@ -4215,7 +4258,7 @@ La présence de pâte, de beurre et de moutarde sont de bons indices pour reconn
 - 1 c. à s. de miel liquide
 - 15 g de ciboulette, finement hachée
 
-## Déroulé de la recette
+## Déroulé
 
 Déposez les grains de poivre, la coriandre et 1 cuillerée à café de graines de carvi dans une sauteuse, puis faites-les revenir à sec pendant 1 min à feu moyen-vif. Quand les arômes se libèrent, réduisez le mélange en poudre grossière dans un mortier ou avec un moulin à épices. Ajoutez le reste des épices, la moutarde en poudre et ¾ de cuillerée à café de sel. Réservez.
 
@@ -4243,8 +4286,7 @@ Ottolenghi. Viande
 
 ## Noms ingrédients
 
-beurre. chair à saucisse. ciboulette. farine. gingembre moulu. graines de carvi. graines de coriandre. huile d'olive. lait. macis moulu. marjolaine. mayonnaise kewpie. miel. oignons. poivre blanc. poivre noir. sel. sucre. œufs
-
+chair à saucisse. ciboulette. gingembre. miel. oignons
 ---
 
 # Salade au bœuf et au basilic
@@ -4267,7 +4309,7 @@ Ce plat peut faire une belle entrée ou un repas léger. Tous les composants peu
 - 60 g de parmesan, détaillé en copeaux
 - Sel et poivre noir
 
-## Déroulé de la recette
+## Déroulé
 
 1. Préchauffez le four à 200 °C (chaleur tournante).
 
@@ -4291,8 +4333,7 @@ Ottolenghi. Viande
 
 ## Noms ingrédients
 
-ail. basilic. endives rouges. faux-filet. huile d'olive. jus de citron. pains pitas. parmesan. poivre noir. roquette
-
+ail. basilic. endives rouges. faux-filet. citrons. pain pita. parmesan. roquette
 ---
 
 # Salade de carottes rôties, sauce Chamoy
@@ -4327,7 +4368,7 @@ Cette recette convient très bien pour un buffet végétarien (voir p. 304) ou p
 - 1 petite gousse d'ail
 - 2 cuil. à soupe d'huile d'olive
 
-## Déroulé de la recette
+## Déroulé
 
 1. Préchauffez le four à 240 °C (th. 8) en mode chaleur tournante.
 
@@ -4349,8 +4390,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-abricots secs. ail. amandes. aneth. carottes. huile d'olive. menthe. piment d'alep. poivre noir. sirop d'érable. sumac
-
+abricots secs. ail. amandes. aneth. carottes. menthe. piment d'Alep
 ---
 
 # Salade douce pour l'hiver
@@ -4385,7 +4425,7 @@ Cette salade apporte de la couleur sur une table et égaie n'importe quel repas.
 - ¼ de cuil. à café de flocons de piment
 - 4 cuil. à soupe d'huile d'olive douce ou d'huile de tournesol
 
-## Déroulé de la recette
+## Déroulé
 
 Pour préparer la sauce, mettez tous les ingrédients sauf l'huile dans une petite casserole et laissez réduire sur feu vif de 5 à 10 min pour obtenir la consistance d'un sirop épais. Laissez la sauce refroidir un peu avant d'y incorporer l'huile. Réservez.
 
@@ -4403,8 +4443,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-beurre. chou rouge. chou vert. citron. coriandre. flocons de piment. huile de sésame. huile de tournesol. jus de citron vert. mangue. menthe. noix de macadamia. papaye. piment rouge frais. sauce soja. sel. sirop d'érable. sucre
-
+chou rouge. chou vert. citrons. coriandre. piment rouge séché. citrons verts. mangue. menthe. noix de cajou. papaye. piment rouge frais
 ---
 
 # Salade de pommes de terre royales
@@ -4429,7 +4468,7 @@ La royale de Jersey est à son apogée au printemps et au début de l'été, sai
 - Huile d'olive
 - Sel et poivre noir
 
-## Déroulé de la recette
+## Déroulé
 
 Mettez les œufs de caille dans une casserole, couvrez-les d'eau froide et portez à ébullition. Laissez-les cuire entre 30 s (pour des œufs mollets) et 2 min (pour des œufs durs). Rafraîchissez-les dans de l'eau froide, puis écalez-les.
 
@@ -4453,23 +4492,21 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-ail. huile d'olive. parmesan. persil. pignons de pin. pois mange-tout. poivre noir. pommes de terre. vinaigre de vin blanc. œufs de caille
-
+ail. parmesan. persil. pistaches. pois mange-tout. pomme de terre. œufs de caille
 ---
 
-
-# Sauces japonaises - Sauce au gingembre
-
+# Sauces japonaises
 
 ## Catégorie
 
-Japonais. Non testé. Végé
+Japonais. Végé
 
 ---
 
-## Ingrédients
-
+## Sauce au gingembre
 *しょうがだれ — Pour 25 cl de sauce*
+
+**Ingrédients**
 
 - 2 cuillerées à soupe de gingembre frais râpé
 - 8 cuillerées à soupe de sauce soja
@@ -4477,57 +4514,35 @@ Japonais. Non testé. Végé
 - 2 cuillerées à soupe de vinaigre de riz
 - 3 cuillerées à soupe de sucre semoule
 
----
-
-## Déroulé de la recette
+**Préparation**
 
 Dans un bol, mélangez tous les ingrédients. Cette sauce peut se conserver 2 semaines dans un bocal placé au réfrigérateur.
 
 *Idéale pour des marinades de viandes et de légumes.*
 
-## Noms ingrédients
 ---
 
-# Sauces japonaises - Sauce teriyaki
-
-
-## Catégorie
-
-Japonais. Non testé. Végé
-
----
-
-## Ingrédients
-
+## Sauce teriyaki
 *てりやきソース — Pour 30 cl de sauce*
+
+**Ingrédients**
 
 - 20 cl de sauce soja
 - 15 cl de mirin
 - 4 cuillerées à soupe de sucre semoule
 
----
-
-## Déroulé de la recette
+**Préparation**
 
 Versez tous les ingrédients dans une casserole. Portez à ébullition, puis baissez le feu et laissez réduire 5 minutes en remuant de temps en temps. Cette sauce peut se conserver 2 semaines dans un bocal placé au réfrigérateur.
 
 *Idéale pour des marinades de poissons, de volailles et de légumes.*
 
-## Noms ingrédients
 ---
 
-# Sauces japonaises - Sauce yakitori
-
-
-## Catégorie
-
-Japonais. Non testé. Végé
-
----
-
-## Ingrédients
-
+## Sauce yakitori
 *焼き鳥のたれ — Pour 20 cl de sauce*
+
+**Ingrédients**
 
 - 1/2 cuillerée à café de bouillon de poulet en poudre (ou 1/2 cube de bouillon)
 - 15 cl de sauce soja
@@ -4535,29 +4550,18 @@ Japonais. Non testé. Végé
 - 5 cuillerées à soupe de mirin
 - 3 cuillerées à soupe de sucre semoule
 
----
-
-## Déroulé de la recette
+**Préparation**
 
 Versez tous les ingrédients dans une casserole. Portez à ébullition en remuant pour dissoudre le sucre et le bouillon, puis laissez mijoter 15 minutes environ, à feu doux, jusqu'à obtention d'une consistance sirupeuse. Cette sauce peut se conserver 1 semaine dans un bocal placé au réfrigérateur.
 
 *Pour une version végétarienne, suivre la recette p. 216. Idéale avec les brochettes.*
 
-## Noms ingrédients
 ---
 
-# Sauces japonaises - Marinade ail et piment
-
-
-## Catégorie
-
-Japonais. Non testé. Végé
-
----
-
-## Ingrédients
-
+## Marinade ail et piment
 *にんにくとうがらしソース — Pour 20 cl de sauce*
+
+**Ingrédients**
 
 - 2 gousses d'ail râpées
 - 1 ciboule finement émincée
@@ -4567,87 +4571,54 @@ Japonais. Non testé. Végé
 - 1½ cuillerée à soupe d'huile de sésame grillé
 - 2 cuillerées à soupe de sucre semoule
 
----
-
-## Déroulé de la recette
+**Préparation**
 
 Dans un bol, mélangez tous les ingrédients. Cette sauce peut se conserver 2 semaines dans un bocal placé au réfrigérateur.
 
 *Idéale pour des marinades de viandes et de légumes.*
 
-## Noms ingrédients
 ---
 
-# Sauces japonaises - Sauce goma daré
-
-
-## Catégorie
-
-Japonais. Non testé. Végé
-
----
-
-## Ingrédients
-
+## Sauce goma daré
 *ごまだれ — Pour 25 cl de sauce*
+
+**Ingrédients**
 
 - 1/2 gousse d'ail râpée
 - 120 g de purée de sésame (tahin)
 - 12 cl de bouillon dashi (voir recette p. 46)
 - 4 cuillerées à soupe de sauce soja
 
----
-
-## Déroulé de la recette
+**Préparation**
 
 Dans un bol, délayez la purée de sésame avec un quart du bouillon. Versez le reste de bouillon sans cesser de remuer. Incorporez l'ail râpé, puis la sauce soja. Cette sauce peut se conserver 2 semaines dans un bocal placé au réfrigérateur.
 
 *Idéale avec des viandes ou des légumes grillés, et en teppanyaki.*
 
-## Noms ingrédients
 ---
 
-# Sauces japonaises - Sauce yakisoba
-
-
-## Catégorie
-
-Japonais. Non testé. Végé
-
----
-
-## Ingrédients
-
+## Sauce yakisoba
 *ソース — Pour 12 cl de sauce*
+
+**Ingrédients**
 
 - 4 cuillerées à soupe de ketchup
 - 4 cuillerées à soupe de sauce soja
 - 4 cuillerées à soupe de sauce d'huître
 - 4 cuillerées à soupe de sauce Worcestershire
 
----
-
-## Déroulé de la recette
+**Préparation**
 
 Versez tous les ingrédients dans une casserole. Faites chauffer sur feu moyen jusqu'au point d'ébullition. Arrêtez aussitôt et laissez refroidir. Cette sauce peut se conserver 2 semaines dans un bocal placé au réfrigérateur.
 
 *Idéale avec les yakisoba ou autres nouilles.*
 
-## Noms ingrédients
 ---
 
-# Sauces japonaises - Sauce ponzu
-
-
-## Catégorie
-
-Japonais. Non testé. Végé
-
----
-
-## Ingrédients
-
+## Sauce ponzu
 *ポン酢 — Pour 25 cl de sauce*
+
+**Ingrédients**
 
 - 1 champignon shiitaké séché
 - 5 cm de kombu séché
@@ -4656,143 +4627,88 @@ Japonais. Non testé. Végé
 - 4 cuillerées à soupe de jus de mandarine
 - 4 cuillerées à soupe de jus de citron
 
----
-
-## Déroulé de la recette
+**Préparation**
 
 La veille, mettez le shiitaké et le kombu dans un bocal, versez la sauce soja, puis fermez le bocal et laissez infuser toute la nuit au réfrigérateur. Le jour même, filtrez la sauce et versez-la dans un bol. Ajoutez le reste des ingrédients et mélangez. Cette sauce peut se conserver 2 semaines dans un bocal placé au réfrigérateur.
 
 *Idéale avec des poissons ou des légumes grillés, et en teppanyaki.*
 
-## Noms ingrédients
 ---
 
-# Sauces japonaises - Marinade au sésame
-
-
-## Catégorie
-
-Japonais. Non testé. Végé
-
----
-
-## Ingrédients
-
+## Marinade au sésame
 *ごま — Pour 24 cl de sauce*
+
+**Ingrédients**
 
 - 1 cuillerée à soupe de gomashio (voir recette p. 51)
 - 3 cuillerées à soupe de sauce soja
 - 1 cuillerée à soupe d'huile de sésame grillé
 - 4 cuillerées à soupe de sucre semoule
 
----
-
-## Déroulé de la recette
+**Préparation**
 
 Dans un bol, mélangez tous les ingrédients. Cette marinade peut se conserver 2 semaines dans un bocal placé au réfrigérateur.
 
 *Idéale pour des marinades de viandes et de légumes.*
 
-## Noms ingrédients
 ---
 
-# Sauces japonaises - Sauce miso au citron
-
-
-## Catégorie
-
-Japonais. Non testé. Végé
-
----
-
-## Ingrédients
-
+## Sauce miso au citron
 *みそレモンソース — Pour 5 cuillerées à soupe de sauce*
+
+**Ingrédients**
 
 - 3 cuillerées à soupe de miso blanc
 - 2 cuillerées à soupe de jus de citron vert
 - le zeste de 1 citron non traité
 
----
-
-## Déroulé de la recette
+**Préparation**
 
 Dans un bol, mélangez le miso avec le reste des ingrédients. Cette sauce peut se conserver 1 semaine au réfrigérateur.
 
 *Idéale pour accompagner poissons et légumes.*
 
-## Noms ingrédients
 ---
 
-# Sauces japonaises - Sauce soja sucrée
-
-
-## Catégorie
-
-Japonais. Non testé. Végé
-
----
-
-## Ingrédients
-
+## Sauce soja sucrée
 *甘口しょうゆ — Pour 20 cl de sauce*
+
+**Ingrédients**
 
 - 12 cl de sauce soja
 - 3 cuillerées à soupe de mirin
 - 80 g de sucre semoule
 
----
-
-## Déroulé de la recette
+**Préparation**
 
 Versez tous les ingrédients dans une casserole. Portez à ébullition, puis baissez le feu et laissez réduire 3 minutes en remuant de temps en temps. Cette sauce peut se conserver 1 mois au réfrigérateur.
 
 *Idéale pour accompagner les sushi (à la place de la sauce soja classique).*
 
-## Noms ingrédients
 ---
 
-# Sauces japonaises - Sauce tsuyu
-
-
-## Catégorie
-
-Japonais. Non testé. Végé
-
----
-
-## Ingrédients
-
+## Sauce tsuyu
 *つゆ — Pour 30 cl de sauce*
+
+**Ingrédients**
 
 - 6 cuillerées à soupe de sauce soja
 - 1 petite poignée de copeaux de bonite séchée
 - 6 cuillerées à soupe de mirin
 - 15 cl d'eau
 
----
-
-## Déroulé de la recette
+**Préparation**
 
 Versez la sauce soja dans une casserole, ajoutez le reste des ingrédients, mélangez, puis faites chauffer sur feu moyen jusqu'à ébullition. Arrêtez le feu et laissez refroidir. Filtrez la sauce. Vous pouvez la conserver 2 semaines au réfrigérateur.
 
 *Idéale pour accompagner tempura et nouilles froides.*
 
-## Noms ingrédients
 ---
 
-# Sauces japonaises - Mayo-wasabi
-
-
-## Catégorie
-
-Japonais. Non testé. Végé
-
----
-
-## Ingrédients
-
+## Mayo-wasabi
 *わさびマヨネーズ — Pour 12 cl de mayonnaise*
+
+**Ingrédients**
 
 - 1 jaune d'œuf bio extra-frais
 - 3 cuillerées à café de wasabi en poudre
@@ -4801,16 +4717,11 @@ Japonais. Non testé. Végé
 - 1 cuillerée à café de vinaigre de riz
 - 1 pincée de sel
 
----
-
-## Déroulé de la recette
+**Préparation**
 
 Dans un saladier, fouettez le jaune d'œuf avec la moutarde, le vinaigre de riz, le wasabi et le sel. Incorporez une petite quantité d'huile, jusqu'à ce que le mélange prenne. Versez ensuite le reste d'huile petit à petit sans cesser de fouetter. Cette mayonnaise se conserve 2 jours au frais.
 
 *Idéale pour accompagner sushi (à la place de la sauce soja classique) et témaki.*
-
-## Noms ingrédients
----
 
 ## Notes personnelles
 
@@ -4853,7 +4764,7 @@ La version classique de cette recette se prépare avec des saucisses fraîches, 
 - 1½ c. à c. de moutarde de Dijon
 - 1½ c. à c. de moutarde à l'ancienne
 
-## Déroulé de la recette
+## Déroulé
 
 Rincez les lentilles, couvrez-les d'eau froide et laissez-les tremper jusqu'au moment de les cuisiner.
 
@@ -4877,8 +4788,7 @@ Ottolenghi. Viande
 
 ## Noms ingrédients
 
-ail. blettes. bouillon de volaille. céleri. concentré de tomates. crème fraîche. cumin. huile d'olive. kielbasa. laurier. lentilles du puy. moutarde à l'ancienne. moutarde de dijon. oignons. persil. poivre noir. poivrons verts. thym
-
+ail. blettes. céleri. concentré de tomate. saucisses fumées. lentilles du Puy. oignons. persil. poivron vert
 ---
 
 # Saumon rôti alla puttanesca
@@ -4915,7 +4825,7 @@ Si vous faites infuser l'huile parfumée la veille, vous pourrez préparer un d�
 - 2 c. à c. de jus de citron
 - 2 c. à c. de sirop d'érable
 
-## Déroulé de la recette
+## Déroulé
 
 Préchauffez le four à 240 °C (chaleur tournante 220 °C).
 
@@ -4937,8 +4847,7 @@ Ottolenghi. Poisson
 
 ## Noms ingrédients
 
-ail. anchois. basilic. câpres. citron. concentré de tomates. flocons de piment. graines de coriandre. haricots verts. huile d'olive. jus de citron. oignons verts. olives de kalamata. persil. poivre noir. saumon. sirop d'érable. tomates cerise
-
+ail. anchois. basilic. câpres. citrons. concentré de tomate. piment rouge séché. haricots verts. oignons verts. olives de Kalamata. persil. saumon. tomates cerise
 ---
 
 # Saumon bio et salsa de poivrons rouges et de noisettes
@@ -4966,7 +4875,7 @@ Vous pouvez servir ce poisson bien chaud, à la sortie du four, mais il est éga
 - Le jus et le zeste râpé de 1 citron
 - 2 cuil. à soupe de vinaigre de cidre
 
-## Déroulé de la recette
+## Déroulé
 
 Préparez la salsa. Préchauffez le four à 220 °C (chaleur tournante 200 °C) th. 7-8. Coupez les poivrons en quatre et épépinez-les. Disposez-les sur une plaque de cuisson et mélangez-les avec 2 cuil. à soupe d'huile d'olive et 1 grosse pincée de sel. Faites-les rôtir au four environ 20 min, jusqu'à ce qu'ils soient bien cuits et légèrement grillés. Mettez-les dans un saladier, recouvrez de film alimentaire et laissez-les refroidir. Gardez le jus de cuisson.
 
@@ -4984,8 +4893,7 @@ Ottolenghi. Poisson
 
 ## Noms ingrédients
 
-ail. ciboulette. citron. huile d'olive. noisettes. poivrons rouges. saumon. sel. vinaigre de cidre
-
+ail. ciboulette. citrons. noisettes. poivron rouge. saumon
 ---
 
 # Saumon teriyaki
@@ -5003,7 +4911,7 @@ ail. ciboulette. citron. huile d'olive. noisettes. poivrons rouges. saumon. sel.
 - 2 cuillerées à soupe de graines de sésame
 - 10 cl de sauce teriyaki (voir recette p. 56)
 
-## Déroulé de la recette
+## Déroulé
 
 Retirez les arêtes et la peau du saumon (voir préparation p. 32-33).
 
@@ -5031,8 +4939,7 @@ Japonais. Poisson
 
 ## Noms ingrédients
 
-gingembre. graines de sésame. pois mange-tout. sauce teriyaki. saumon
-
+gingembre. pois mange-tout. saumon
 ---
 
 # Shoyu ramen
@@ -5058,7 +4965,7 @@ Cette recette est un grand classique des soupes ramen dégustées sur le pouce, 
 - 1/2 cuillerée à soupe d'huile de tournesol
 - 1 cuillerée à café de sel
 
-## Déroulé de la recette
+## Déroulé
 
 Faites chauffer l'huile dans une casserole sur feu vif, puis faites dorer le rôti de tous côtés. Couvrez d'eau à hauteur. Portez à ébullition, puis laissez cuire 10 minutes à feu doux.
 
@@ -5084,8 +4991,7 @@ Japonais. Viande
 
 ## Noms ingrédients
 
-bouillon de poulet. épinards. épis de maïs. huile de tournesol. mirin. nori. nouilles ramen. oignons verts. porc haché. sauce soja. sel. œufs
-
+épinards. épis de maïs. oignons verts. porc haché
 ---
 
 # Soba au poulet namban
@@ -5109,7 +5015,7 @@ bouillon de poulet. épinards. épis de maïs. huile de tournesol. mirin. nori. 
 - 1 cuillerée à soupe de sucre semoule
 - sel et poivre du moulin
 
-## Déroulé de la recette
+## Déroulé
 
 Désossez les cuisses de poulet et retirez la peau (voir préparation p. 37). Salez et poivrez de tous côtés. Lavez le poireau et coupez-le en 8 tronçons. Rincez les épinards.
 
@@ -5133,8 +5039,7 @@ Japonais. Viande
 
 ## Noms ingrédients
 
-cuisses de poulet. épinards. huile de tournesol. mirin. nouilles soba. poireaux. poivre sansho. saké. sauce soja. sel. sucre
-
+cuisses de poulet. épinards. poireau
 ---
 
 # Spaghettis De Cecco® n°7, crème d'oignon au gorgonzola
@@ -5153,7 +5058,7 @@ cuisses de poulet. épinards. huile de tournesol. mirin. nouilles soba. poireaux
 - 150 g de gorgonzola
 - Gros sel et poivre
 
-## Déroulé de la recette
+## Déroulé
 
 **1. La crème d'oignon**
 
@@ -5163,7 +5068,7 @@ Faire revenir les lardons dans une casserole avec 30 g de beurre, les retirer av
 
 Plonger les spaghettis dans une grande casserole d'eau bouillante salée (8 g de gros sel pour 1 litre). Les faire cuire al dente à découvert et à vive ébullition. Les égoutter, rincer rapidement d'un peu d'eau bouillante puis ajouter le reste de beurre qui sera mousseux.
 
-**Dressage**
+## Dressage
 
 Présenter les spaghettis dans un plat, la crème d'oignon à part. On peut accompagner ce plat de calamars grillés et d'une soupe de tomate.
 
@@ -5177,8 +5082,7 @@ Gagnaire. Végé
 
 ## Noms ingrédients
 
-beurre. crème fraîche. gorgonzola. lardons fumés. oignons doux. sel. spaghettis
-
+gorgonzola. lardons fumés. oignons doux
 ---
 
 # Sukiyaki-don
@@ -5210,7 +5114,7 @@ Le sukiyaki est un grand classique de la cuisine japonaise souvent servi sous fo
 - 3 cuillerées à soupe d'eau
 - 3 cuillerées à soupe de sucre semoule
 
-## Déroulé de la recette
+## Déroulé
 
 Détaillez le poireau en tronçons. Épluchez la carotte et coupez-la en rondelles. Émincez finement le vert de l'oignon nouveau. Coupez les shiitaké en deux. Ôtez la base du pack choï et coupez-le en tronçons.
 
@@ -5232,8 +5136,7 @@ Japonais. Viande
 
 ## Noms ingrédients
 
-carottes. champignons énoki. champignons shiitaké. faux-filet. huile de tournesol. mirin. oignons verts. pack choï. poireaux. riz. saké. sauce soja. sucre. œufs
-
+carottes. champignons enoki. champignons shiitaké. faux-filet. oignons verts. pak choï. poireau
 ---
 
 # Tagliatelles au safran
@@ -5250,7 +5153,7 @@ Ces pâtes ont vu le jour grâce à la recette de la page ci-contre (tagliatelle
 - 70 g de semoule fine
 - 2 œufs entiers + 2 jaunes
 
-## Déroulé de la recette
+## Déroulé
 
 1. Pour confectionner les pâtes, mettez tous les ingrédients (y compris l'eau de trempage du safran) dans le bol d'un robot de cuisine et battez-les pendant environ 30 s pour obtenir la texture d'une chapelure collante. Déposez la pâte sur une surface légèrement farinée et pétrissez-la vigoureusement pendant 7 min, jusqu'à ce qu'elle devienne lisse et souple. Façonnez un disque, enveloppez d'un film alimentaire et laissez reposer 30 min.
 
@@ -5270,8 +5173,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-farine. safran. semoule fine. œufs
-
+semoule
 ---
 
 # Tagliatelles au safran et au beurre épicé
@@ -5308,7 +5210,7 @@ Le mariage des pâtes et d'un beurre aux arômes du Maroc peut sembler paradoxal
 - Huile d'olive
 - Poivre noir
 
-## Déroulé de la recette
+## Déroulé
 
 Mettez le safran dans un bol avec 4 cuil. à soupe d'eau bouillante et laissez infuser pendant au moins 10 min. Ajoutez les œufs et 4 cuil. à soupe d'huile d'olive, puis fouettez énergiquement.
 
@@ -5334,8 +5236,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-beurre. cannelle. coriandre. curcuma. échalotes. farine. flocons de piment. gingembre moulu. huile d'olive. menthe. paprika. persil. pignons de pin. piment de cayenne. poivre noir. safran. sel. œufs
-
+coriandre. échalotes. piment rouge séché. gingembre. menthe. persil. pistaches. piment de Cayenne
 ---
 
 # Tagliatelles au safran, ricotta et échalotes frites au piment chipotle
@@ -5373,7 +5274,7 @@ Si vous confectionnez des pâtes fraîches, préparez-les au dernier moment — 
 - 2 cuil. à soupe de vinaigre de riz
 - ½ cuil. à café de sucre en poudre
 
-## Déroulé de la recette
+## Déroulé
 
 1. Pour les échalotes frites, faites chauffer l'huile à feu vif dans une grande poêle antiadhésive. Ajoutez les échalotes, le sirop d'érable, les graines de coriandre et de cumin, les flocons de chipotle et ¼ de cuil. à café de sel. Laissez revenir pendant 7 min, en séparant les échalotes à la spatule pour les empêcher de coller entre elles, jusqu'à ce qu'elles soient bien croquantes. Réduisez à feu doux et prolongez la cuisson de 6 min, jusqu'à ce qu'elles soient caramélisées et d'un brun profond. Avec 2 fourchettes, transférez-les sur une assiette tapissée de papier sulfurisé en les étalant bien — elles sont un peu collantes, mais vont gagner en croquant en refroidissant. Réservez.
 
@@ -5397,8 +5298,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-ail. café. coriandre. flocons de chipotle. graines de cumin. huile d'olive. parmesan. persil. piments verts. poivre noir. sirop d'érable. sucre. tagliatelles. vinaigre de riz
-
+ail. coriandre. piment chipotle. parmesan. persil. piment vert
 ---
 
 # Tempura de légumes
@@ -5430,7 +5330,7 @@ La tempura est à l'origine un plat portugais, introduit au Japon par des missio
 - 5 cuillerées à soupe de sauce soja
 - 1 cuillerée à soupe de sucre semoule
 
-## Déroulé de la recette
+## Déroulé
 
 Préparez la sauce. Dans une casserole, faites chauffer le bouillon dashi avec le reste des ingrédients, puis laissez réduire de moitié.
 
@@ -5458,8 +5358,7 @@ Japonais. Végé
 
 ## Noms ingrédients
 
-bouillon dashi. carottes. daïkon. farine. haricots verts. huile de tournesol. jaunes d'œufs. levure. mirin. sauce soja. sucre
-
+carottes. daïkon. haricots verts. jaunes d'œuf
 ---
 
 # Toasts briochés, champignons et œufs pochés
@@ -5482,7 +5381,7 @@ Comme pour toutes les recettes à base de pain grillé et d'œufs, tout est affa
 - 100 g de crème fraîche
 - Fleur de sel et poivre noir
 
-## Déroulé de la recette
+## Déroulé
 
 1. Préchauffez le four à 220 °C (chaleur tournante).
 
@@ -5506,8 +5405,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-ail. basilic. cannelle. champignons de paris. crème fraîche. fleur de sel. huile d'olive. pain brioché. piment en flocons. œufs
-
+ail. basilic. champignons de Paris. pain brioché. piment rouge séché
 ---
 
 # Tokyo cheesecake au yuzu
@@ -5527,7 +5425,7 @@ ail. basilic. cannelle. champignons de paris. crème fraîche. fleur de sel. hui
 - 60 g de beurre fondu
 - 70 g de sucre semoule
 
-## Déroulé de la recette
+## Déroulé
 
 Préchauffez le four à 180 °C (th. 6).
 
@@ -5551,8 +5449,7 @@ Japonais. Végé. Dessert
 
 ## Noms ingrédients
 
-agar-agar. beurre. crème fraîche. faisselle. fraises. sucre
-
+faisselle. fraises
 ---
 
 # Tranches de potiron croustillantes et crème aigre
@@ -5576,7 +5473,7 @@ La plupart des courges conviennent pour cette recette. Servez avec un gaspacho v
 - Huile d'olive
 - Sel et poivre blanc
 
-## Déroulé de la recette
+## Déroulé
 
 Préchauffez le four à 190 °C (th. 6-7). Découpez le potiron en tranches de 1 cm d'épaisseur, disposez-les à plat sur une plaque de cuisson recouverte de papier sulfurisé.
 
@@ -5598,8 +5495,7 @@ Ottolenghi. Végé
 
 ## Noms ingrédients
 
-ail. aneth. chapelure. citron. crème aigre. huile d'olive. parmesan. persil. poivre blanc. potiron. thym
-
+ail. aneth. citrons. parmesan. persil. potiron
 ---
 
 # Travers de porc caramélisés au bourbon et salade de maïs fumé
@@ -5656,7 +5552,7 @@ Si vous ne trouvez que des épis de maïs sans la cosse, utilisez du riz pour le
 - 4 oignons verts, émincés (45 g)
 - Sel de mer
 
-## Déroulé de la recette
+## Déroulé
 
 1. Mettez les travers de porc dans un saladier avec le sel, mélangez bien puis laissez reposer 1 h.
 
@@ -5684,8 +5580,7 @@ Ottolenghi. Viande
 
 ## Noms ingrédients
 
-ail. badiane. bourbon. cannelle. citron. coriandre. échalotes. épis de maïs. gingembre. huile d'olive. huile de sésame. jus de citron. jus de citron vert. ketchup. menthe. oignons. oignons verts. persil. piment rouge séché. piment vert. poivre du sichuan. poivre noir. sel de mer. sirop d'érable. travers de porc. vin shaoxing. vinaigre de riz
-
+ail. citrons. coriandre. échalotes. épis de maïs. gingembre. citrons verts. menthe. oignons. oignons verts. persil. piment rouge séché. piment vert. travers de porc
 ---
 
 # Truite rôtie, tomates, orange et baies d'épine-vinette
@@ -5710,7 +5605,7 @@ Simple et rapide à réaliser, ce plat peut aisément se préparer les soirs de 
 - 10 g de feuilles de coriandre, ciselées
 - Sel et poivre noir
 
-## Déroulé de la recette
+## Déroulé
 
 1. Préchauffez le four à 230 °C (chaleur tournante).
 
@@ -5730,8 +5625,7 @@ Ottolenghi. Poisson
 
 ## Noms ingrédients
 
-ail. beurre. citron. coriandre. graines de fenouil. huile d'olive. orange. poivre noir. tomates. truites
-
+ail. citrons. coriandre. oranges. tomates en conserve. truite
 ---
 
 # Verrines de fraises rôties au sumac et yaourt égoutté
@@ -5753,7 +5647,7 @@ Si vous avez oublié une barquette de fraises dans votre réfrigérateur et que 
 - 1 gousse de vanille, grattée
 - Sel
 
-## Déroulé de la recette
+## Déroulé
 
 1. Dans un cul-de-poule, mélangez le yaourt avec la moitié du sucre glace et ¼ de cuillère à café de sel. Au-dessus d'un saladier, tapissez une passoire d'une étamine et versez-y le yaourt. Refermez avec un morceau de ficelle de cuisine et laissez le yaourt s'égoutter 30 minutes au réfrigérateur en ayant pris soin de déposer votre saladier le plus lourd sur le dessus. Extrayez ensuite un maximum de liquide de manière à récupérer env. 550 g de yaourt égoutté. Retirez l'étamine et transvasez le yaourt dans un cul-de-poule. Incorporez la crème liquide, les zestes de citron et réservez au frais jusqu'au moment de dresser.
 
@@ -5775,9 +5669,7 @@ Ottolenghi. Végé. Dessert
 
 ## Noms ingrédients
 
-citron. crème liquide. fraises. menthe. sel. sucre glace. vanille. yaourt grec
-
-
+citrons. fraises. menthe. yaourt grec
 # Omelettes gratinées à la harissa et au manchego
 
 ## Catégorie
@@ -5815,8 +5707,7 @@ J'aime cuisiner ce plat pour le brunch du week-end, mais aussi les soirs de sema
 
 ## Noms ingrédients
 
-citron vert. coriandre. graines de nigelle. harissa. huile d'olive. lait. oignons. œufs
-
+citrons verts. coriandre. oignons
 ---
 
 # Brouillade de tofu à la harissa
@@ -5860,8 +5751,7 @@ Au départ, nous avons créé cette recette pour nos clients vegan, mais elle a 
 
 ## Noms ingrédients
 
-avocat. concombre. coriandre. graines de nigelle. harissa. huile d'olive. jus de citron vert. oignons. pain rassis. piment vert
-
+avocats. concombres. coriandre. citrons verts. oignons. pain rassis. piment vert
 ---
 
 # Tartines au beurre d'avocat et tomates en sauce vierge
@@ -5901,8 +5791,7 @@ Comment rendre un bel avocat bien riche et crémeux encore plus riche et crémeu
 
 ## Noms ingrédients
 
-ail. aneth. beurre. câpres. citron vert. estragon. graines de cumin. huile d'olive. pain rassis. tomates cerise
-
+ail. aneth. câpres. citrons verts. pain rassis. tomates cerise
 ---
 
 # Pain de betterave au chèvre et aux graines
@@ -5949,8 +5838,7 @@ Faire du pain sans avoir à pétrir ou à laisser pousser la pâte : n'est-ce pa
 
 ## Noms ingrédients
 
-crème fraîche. farine. fromage de chèvre. graines de carvi. graines de courge. graines de nigelle. huile de tournesol. levure. miel. parmesan. thym. œufs
-
+fromage de chèvre. miel. parmesan
 ---
 
 # Pain de maïs au fromage et au piment
@@ -6005,8 +5893,7 @@ Parmi les plats qui égayent instantanément une table, celui-ci est l'un de mes
 
 ## Noms ingrédients
 
-cheddar. coriandre. crème fraîche. cumin. épis de maïs. farine. feta. graines de nigelle. huile d'olive. levure. oignons rouges. oignons verts. piment de cayenne. piment rouge frais. polenta. sucre. œufs
-
+cheddar. coriandre. épis de maïs. feta. oignons rouges. oignons verts. piment de Cayenne. piment rouge frais
 ---
 
 # Croquettes aux petits pois, à la feta et au zaatar
@@ -6043,8 +5930,7 @@ Pour moi, cette recette se résume à la liste de mes aliments préférés : pet
 
 ## Noms ingrédients
 
-citron. farine. feta. huile de tournesol. levure. menthe. œufs. pois mange-tout. ricotta. zaatar
-
+citrons. feta. menthe. pois mange-tout. ricotta. zaatar
 ---
 
 # Galettes iraniennes aux herbes
@@ -6082,8 +5968,7 @@ Ces galettes se dégustent telles quelles, à température ambiante, ou accompag
 
 ## Noms ingrédients
 
-aneth. basilic. coriandre. cumin. huile de tournesol. mie de pain. noix. œufs. tahin
-
+aneth. basilic. coriandre. noix. tahin
 ---
 
 # Soupe de concombre froide, chou-fleur et gingembre
@@ -6124,8 +6009,7 @@ Quand on a envie d'une soupe froide, on pense aussitôt au gaspacho ; or, il exi
 
 ## Noms ingrédients
 
-ail. amandes. chou-fleur. concombre. gingembre. huile d'olive. jus de citron. menthe. poivre blanc. yaourt grec
-
+ail. amandes. chou-fleur. concombres. gingembre. citrons. menthe. yaourt grec
 ---
 
 # Carpaccio de cœurs de bœuf, cébettes et gingembre
@@ -6162,8 +6046,7 @@ Comme toujours avec les plats à base de tomates — et surtout de tomates crues
 
 ## Noms ingrédients
 
-coriandre. fleur de sel. gingembre. huile d'olive. huile de tournesol. oignons verts. piment vert. tomates. vinaigre de vin blanc
-
+coriandre. gingembre. oignons verts. piment vert. tomates en conserve
 ---
 
 # Raïta de tomates et de concombres
@@ -6204,8 +6087,7 @@ Le caviar de piment peut se conserver 3 jours au réfrigérateur et la raïta 2 
 
 ## Noms ingrédients
 
-ail. citron confit. concombre. graines de cumin. huile d'olive. jus de citron. menthe. oignons. piment vert. tomates cerise. yaourt grec
-
+ail. citron confit. concombres. citrons. menthe. oignons. piment vert. tomates cerise. yaourt grec
 ---
 
 # Tagliatelles de courgettes au thym et aux noix
@@ -6239,8 +6121,7 @@ L'huile aromatisée peut se préparer à l'avance et se garder 3 jours à tempé
 
 ## Noms ingrédients
 
-ail. basilic. citron. courgettes. huile d'olive. noix. thym
-
+ail. basilic. citrons. courgettes. noix
 ---
 
 # Salade de tomates aux anchois et aux câpres
@@ -6279,8 +6160,7 @@ Essayez de trouver des tomates de variétés différentes pour donner de la coul
 
 ## Noms ingrédients
 
-ail. anchois. basilic. câpres. citron. fleur de sel. huile d'olive. pain rassis. persil. piment d'urfa. tomates
-
+ail. anchois. basilic. câpres. citrons. pain rassis. persil. piment d'Urfa. tomates en conserve
 ---
 
 # Méli-mélo de tomates, échalion au sumac et pignons de pin
@@ -6316,8 +6196,7 @@ Ici, tout repose sur la qualité des tomates : choisissez-les donc bien sucrées
 
 ## Noms ingrédients
 
-basilic. échalotes. huile d'olive. pignons de pin. sumac. tomates. vinaigre de vin blanc
-
+basilic. échalotes. pistaches. tomates en conserve
 ---
 
 # Salade fraîcheur au tahin et au zaatar
@@ -6354,8 +6233,7 @@ Pour certains — dont je fais partie —, l'ajout de tahin dans la traditionnel
 
 ## Noms ingrédients
 
-coriandre. concombre. feta. huile d'olive. jus de citron. oignons verts. poivrons rouges. tahin. tomates. zaatar
-
+coriandre. concombres. feta. citrons. oignons verts. poivron rouge. tahin. tomates en conserve. zaatar
 ---
 
 # Salade verte, sauce fourre-tout
@@ -6396,8 +6274,7 @@ Cette recette est née un jour où Tara a découvert que certaines herbes aromat
 
 ## Noms ingrédients
 
-ail. aneth. basilic. citron. coriandre. estragon. gingembre. graines de sésame. huile d'olive. menthe. persil. piment vert. tahin
-
+ail. aneth. basilic. citrons. coriandre. gingembre. menthe. persil. piment vert. tahin
 ---
 
 # Salade de mâche et de concombre
@@ -6436,8 +6313,7 @@ Une fois qu'on maîtrise une sauce salade, on a tendance à la refaire systémat
 
 ## Noms ingrédients
 
-ail. concombre. coriandre. fleur de sel. gingembre. graines de nigelle. jus de citron. mâche. menthe. yaourt grec
-
+ail. concombres. coriandre. gingembre. citrons. mâche. menthe. yaourt grec
 ---
 
 # Salade de pastèque, granny smith et citron vert
@@ -6470,8 +6346,7 @@ Ottolenghi. Simple. Pas testé. Végé
 
 ## Noms ingrédients
 
-citron vert. coriandre. fleur de sel. huile d'olive. menthe. pastèque. pommes
-
+citrons verts. coriandre. menthe. pastèque. pomme
 ---
 
 # Cresson et radicchio aux pêches, framboises et cinq épices
@@ -6505,8 +6380,7 @@ Pour préserver l'équilibre de cette recette sucrée salée, choisissez des pê
 
 ## Noms ingrédients
 
-cresson. échalotes. fraises. huile d'olive. mélange quatre-épices. sirop d'érable. vinaigre de cidre
-
+cresson. échalotes. fraises
 ---
 
 # Burrata au basilic, brochettes de raisin grillé
@@ -6543,8 +6417,7 @@ La burrata — qui signifie « beurré » en italien — est l'un des petits pla
 
 ## Noms ingrédients
 
-ail. basilic. burrata. fleur de sel. fromage frais. graines de fenouil. huile d'olive. sucre. vinaigre de vin blanc
-
+ail. basilic. burrata. fromage frais
 ---
 
 # Taboulé de chou-fleur
@@ -6580,8 +6453,7 @@ Si vous doublez ou triplez les quantités pour cette recette, détaillez le chou
 
 ## Noms ingrédients
 
-aneth. arilles de grenade. chou-fleur. grenade. huile d'olive. jus de citron. mélange quatre-épices. menthe. oignons verts. persil
-
+aneth. arilles de grenade. chou-fleur. grenade. citrons. menthe. oignons verts. persil
 ---
 
 # Salade toute verte aux cébettes et aux herbes
@@ -6619,8 +6491,7 @@ Avec ses saveurs végétales et légèrement astringentes, cette salade se marie
 
 ## Noms ingrédients
 
-concombre. coriandre. gingembre. graines de nigelle. huile d'olive. jus de citron. menthe. oignons verts. poivrons verts
-
+concombres. coriandre. gingembre. citrons. menthe. oignons verts. poivron vert
 ---
 
 # Soupe de lentilles corail au curry, tomates et lait de coco
@@ -6659,8 +6530,7 @@ Ce que j'aime dans cette soupe, c'est le jeu de textures entre le potage onctueu
 
 ## Noms ingrédients
 
-ail. coriandre. curry en poudre. flocons de piment. gingembre. huile de tournesol. lait de coco. lentilles du puy. oignons. tomates en conserve
-
+ail. coriandre. piment rouge séché. gingembre. noix de coco. lentilles du Puy. oignons. tomates en conserve
 ---
 
 # Velouté de courgettes, petits pois et basilic
@@ -6697,8 +6567,7 @@ Bien qu'elle soit déjà riche en saveurs, cette soupe peut aussi intégrer du b
 
 ## Noms ingrédients
 
-ail. basilic. bouillon de légumes. citron. courgettes. feta. huile d'olive. pois mange-tout
-
+ail. basilic. citrons. courgettes. feta. pois mange-tout
 ---
 
 # Soupe de citrouille au safran et à l'orange
@@ -6748,8 +6617,7 @@ Quand arrive la saison des courges et que les étals se parent de cucurbitacées
 
 ## Noms ingrédients
 
-bouillon de légumes. coriandre. crème fraîche. flocons de piment. graines de courge. harissa. huile d'olive. oignons. orange. potiron. safran. sirop d'érable
-
+coriandre. piment rouge séché. oignons. oranges. potiron
 ---
 
 # Courgettes à l'étuvée, ail et origan
@@ -6787,8 +6655,7 @@ Pour cette recette, choisissez des courgettes aussi jeunes, fines et petites que
 
 ## Noms ingrédients
 
-ail. bouillon de légumes. courgettes. fleur de sel. huile d'olive. origan
-
+ail. courgettes
 ---
 
 # Écrasé de courgettes à l'ail et aux herbes
@@ -6827,8 +6694,7 @@ Cet écrasé de courgettes peut se déguster tel quel (ou avec une cuillère de 
 
 ## Noms ingrédients
 
-ail. aneth. courgettes. huile d'olive. jus de citron. menthe. thym
-
+ail. aneth. courgettes. citrons. menthe
 ---
 
 # Courgettes farcies, sauce vierge aux pignons
@@ -6871,8 +6737,7 @@ Quand arrivera l'heure de mon dernier repas, nul doute que les légumes farcis s
 
 ## Noms ingrédients
 
-ail. citron. courgettes. huile d'olive. mie de pain. œufs. origan. parmesan. pignons de pin. tomates cerise
-
+ail. citrons. courgettes. parmesan. pistaches. tomates cerise
 ---
 
 # Courgettes et petits pois aux herbes, semoule au lait
@@ -6916,8 +6781,7 @@ Cette semoule au lait peut être utilisée comme une base gourmande dans une mul
 
 ## Noms ingrédients
 
-ail. basilic. beurre. citron. courgettes. estragon. huile d'olive. lait. pecorino. pignons de pin. pois mange-tout. semoule fine
-
+ail. basilic. citrons. courgettes. pecorino. pistaches. pois mange-tout. semoule
 ---
 
 # Aubergines rôties aux anchois et à l'origan
@@ -6955,8 +6819,7 @@ Contrairement à ce que l'on pourrait croire, l'association anchois/aubergines f
 
 ## Noms ingrédients
 
-ail. anchois. aubergines. huile d'olive. origan. persil. vinaigre de vin blanc
-
+ail. anchois. aubergines. persil
 ---
 
 # Chaud-froid de tomates cerise au yaourt citronné
@@ -6997,8 +6860,7 @@ Tout l'intérêt de ce plat réside dans le contraste entre les tomates chaudes,
 
 ## Noms ingrédients
 
-ail. citron. fleur de sel. graines de cumin. huile d'olive. origan. piment d'urfa. sucre. thym. tomates cerise. yaourt grec
-
+ail. citrons. piment d'Urfa. tomates cerise. yaourt grec
 ---
 
 # Tomates, bettes et épinards aux amandes
@@ -7037,8 +6899,7 @@ Ce plat végétarien peut se servir chaud, accompagné de riz blanc ou tel quel,
 
 ## Noms ingrédients
 
-ail. amandes. aneth. blettes. citron vert. épinards. graines de carvi. huile d'olive. menthe. oignons verts. paprika. tomates en conserve
-
+ail. amandes. aneth. blettes. citrons verts. épinards. menthe. oignons verts. tomates en conserve
 ---
 
 # Poêlée de brocoli et kale à l'ail, cumin et citron vert
@@ -7073,8 +6934,7 @@ Le kale et le brocoli peuvent être blanchis quelques heures en amont, à condit
 
 ## Noms ingrédients
 
-ail. brocoli. graines de cumin. huile d'olive. jus de citron vert. kale. menthe. piment d'urfa
-
+ail. brocoli. citrons verts. kale. menthe. piment d'Urfa
 ---
 
 # Rapini vapeur à la sauce soja, ail et cacahuètes
@@ -7111,8 +6971,7 @@ Si vous préférez, vous pouvez remplacer le rapini de cette recette par une mê
 
 ## Noms ingrédients
 
-ail. cacahuètes grillées. gingembre. huile d'arachide. miel. orange. sauce soja
-
+ail. cacahuètes. gingembre. miel. oranges
 ---
 
 # Chou rôti à l'estragon et au pecorino
@@ -7149,8 +7008,7 @@ Ce plat se sert tiède pour conserver tout le goût et la texture du pecorino. I
 
 ## Noms ingrédients
 
-ail. chou pointu. citron. estragon. huile d'olive. pecorino
-
+ail. chou pointu. citrons. pecorino
 ---
 
 # Kale mariné à la moutarde, asperges et fèves
@@ -7194,8 +7052,7 @@ Ici, un peu de temps et quelques manipulations sont nécessaires pour permettre 
 
 ## Noms ingrédients
 
-aneth. asperges. estragon. fèves. graines de courge. huile d'olive. kale. moutarde à l'ancienne. sirop d'érable. vinaigre de vin blanc
-
+aneth. asperges. fèves. kale
 ---
 
 # Asperges rôties aux amandes, aux câpres et à l'aneth
@@ -7232,8 +7089,7 @@ Voici l'un des plats que mon mari Karl cuisine souvent le dimanche à la maison.
 
 ## Noms ingrédients
 
-amandes. aneth. asperges. beurre. câpres. huile d'olive
-
+amandes. aneth. asperges. câpres
 # Chou palmier Noir de Toscane au chorizo et au citron confit
 
 ## Catégorie
@@ -7260,8 +7116,7 @@ Servir tel quel en mezze ou en accompagnement de viandes rôties ou grillées.
 3. Remettre le chorizo et l'ail dans la sauteuse avec le chou, ainsi que le citron confit et le jus de citron. Mélanger, puis hors du feu incorporer la crème aigre. Dresser dans un grand plat de service.
 
 ## Noms ingrédients
-huile d'olive. ail. paprika fumé. citron confit. jus de citron. crème aigre
-
+ail. citron confit. citrons
 ---
 
 # Gombos express, sauce aigre-douce
@@ -7292,8 +7147,7 @@ Les gombos sont cuits entiers et très brièvement pour rester croquants et évi
 4. Dresser dans un saladier de service, parsemer de cacahuètes grillées et servir.
 
 ## Noms ingrédients
-huile d'arachide. ail. piment rouge frais. sirop d'érable. huile de sésame. citron vert. jus de citron vert. coriandre. cacahuètes grillées
-
+ail. piment rouge frais. citrons verts. coriandre. cacahuètes
 ---
 
 # Le wok de Garry : chou sauté à l'ail et au piment
@@ -7319,8 +7173,7 @@ Trois fondamentaux pour réussir ce wok : une bonne dose de piment, une bonne do
 2. Ajouter le chou en plusieurs fois et faire sauter 5 minutes avec ¾ de cuillère à café de sel. Le chou doit être cuit mais encore légèrement croquant. Retirer du feu, laisser tiédir 5 minutes, puis servir avec des quartiers de citron vert.
 
 ## Noms ingrédients
-huile de tournesol. ail. piment rouge frais. chou pointu. citron vert
-
+ail. piment rouge frais. chou pointu. citrons verts
 ---
 
 # Cru-cuit de chou-fleur, grenade et pistaches
@@ -7351,8 +7204,7 @@ Association de chou-fleur cuit et cru dans un même plat. Les feuilles rôties s
 3. Verser les légumes dans un saladier avec 50 ml d'huile d'olive, la semoule de chou-fleur et tous les ingrédients restants. Assaisonner avec ¼ de cuillère à café de sel et mélanger délicatement. Dresser et déguster.
 
 ## Noms ingrédients
-huile d'olive. oignons. persil. menthe. estragon. grenade. arilles de grenade. pistaches. cumin. jus de citron. chou-fleur
-
+oignons. persil. menthe. grenade. arilles de grenade. pistaches. citrons. chou-fleur
 ---
 
 # Gratin de chou-fleur à la moutarde
@@ -7386,8 +7238,7 @@ Plat gourmand par excellence, délicieux avec du poulet rôti, des saucisses ou 
 4. Verser les 20 g de cheddar restants dans un cul-de-poule avec le pain de mie haché et le persil. Mélanger, puis répartir cette chapelure sur le gratin. Nettoyez les parois de la cocotte avec un torchon ou une spatule souple. Enfourner pour 8 minutes. Passer en mode gril (puissance maximale) et faire gratiner 4 minutes, en surveillant régulièrement. Sortir la cocotte du four et laisser tiédir 5 minutes avant de servir.
 
 ## Noms ingrédients
-beurre. oignons. graines de cumin. curry en poudre. piments verts. crème liquide. cheddar. mie de pain. persil. chou-fleur
-
+oignons. piment vert. cheddar. persil. chou-fleur
 ---
 
 # Salade de chou-fleur et d'œufs à la reine
@@ -7420,8 +7271,7 @@ Version végétarienne du poulet à la reine. Peut aussi se servir en garniture 
 4. Dans un cul-de-poule, mélanger le yaourt, la mayonnaise, 1 cuillère à café de curry, la moitié du piment d'Alep, le cumin, le jus de citron et ¼ de cuillère à café de sel. Verser cette sauce sur les œufs, puis ajouter l'estragon, ainsi que le chou-fleur et l'oignon rôtis. Mélanger bien, puis dresser sur un plat de service, parsemer du reste de piment et servir avec des quartiers de citron.
 
 ## Noms ingrédients
-huile d'olive. curry en poudre. œufs. yaourt grec. piment d'Alep. graines de cumin. jus de citron. estragon. chou-fleur. oignons
-
+yaourt grec. piment d'Alep. citrons. chou-fleur. oignons
 ---
 
 # Pois chiches et feuilles de bette au yaourt
@@ -7453,8 +7303,7 @@ Plat généreux et réconfortant, servi avec du riz blanc. Peut se préparer à 
 4. Incorporer le jus de citron hors du feu, puis dresser dans les assiettes avec une belle cuillère de yaourt et un quartier de citron. Parsemer de coriandre, arroser d'un filet d'huile d'olive.
 
 ## Noms ingrédients
-carottes. huile d'olive. oignons. graines de carvi. cumin. blettes. pois chiches (non listé — voir note). jus de citron. yaourt grec. coriandre
-
+carottes. oignons. blettes. pois chiches. citrons. yaourt grec. coriandre
 ---
 
 # Mijoté de haricots plats à la tomate
@@ -7485,8 +7334,7 @@ Servi avec du riz complet, ce plat estival et léger se bonifie avec le temps : 
 2. Retirer le couvercle et laisser épaissir 30 minutes, en remuant de temps en temps, jusqu'à ce que les haricots ne montrent plus aucune résistance. Incorporer la coriandre. Servir chaud ou à température ambiante.
 
 ## Noms ingrédients
-huile d'olive. oignons. ail. graines de cumin. paprika. concentré de tomates. haricots verts. tomates. bouillon de légumes. coriandre
-
+oignons. ail. concentré de tomate. haricots verts. tomates en conserve. coriandre
 ---
 
 # Haricots verts et tofu en sauce rouge
@@ -7523,8 +7371,7 @@ D'inspiration libyenne, la sauce rouge aux épices peut se conserver au moins 1 
 4. Hors du feu, incorporer délicatement le tofu et la coriandre, puis dresser dans quatre assiettes creuses. Servir avec un quartier de citron vert.
 
 ## Noms ingrédients
-haricots verts. huile de tournesol. ail. paprika. graines de carvi. cumin. cannelle. concentré de tomates. jus de citron vert. coriandre
-
+haricots verts. ail. concentré de tomate. citrons verts. coriandre
 ---
 
 # Guacamole revisité aux saveurs printanières
@@ -7550,8 +7397,7 @@ Guacamole plus frais et léger que la version traditionnelle grâce aux fèves. 
 3. Dresser le guacamole en cratère dans une assiette creuse et, juste avant de servir, verser le mélange de fèves, de cébettes et de citron au centre.
 
 ## Noms ingrédients
-fèves. huile d'olive. jus de citron. citron
-
+fèves. citrons
 ---
 
 # Purée de haricots blancs au muhammara
@@ -7589,8 +7435,7 @@ Le muhammara est une spécialité de la cuisine levantine à base de poivrons ro
 4. Pour la purée de haricots, faire chauffer l'huile dans une petite casserole sur feu moyen, puis faire infuser la gousse d'ail et les branches de thym pendant 2 à 3 minutes. Jeter l'ail, mais réserver le thym avec 2 cuillères à café d'huile aromatisée. Verser le reste dans le bol d'un robot avec les haricots blancs, 1 cuillère à soupe d'eau et ½ cuillère à café de sel. Mixer jusqu'à obtenir une purée parfaitement lisse. Dresser en cratère dans un grand plat de service ou dans des coupelles, et verser la sauce aux poivrons au centre. Déposer les branches de thym frites sur le dessus et arroser des 2 cuillères à café d'huile aromatisée réservées.
 
 ## Noms ingrédients
-poivrons rouges. huile d'olive. ail. thym. paprika fumé. piment en flocons. vinaigre balsamique. noix
-
+poivron rouge. ail. piment rouge séché. noix
 ---
 
 # Salade de haricots verts aux deux citrons
@@ -7621,8 +7466,7 @@ Les deux premières étapes peuvent s'effectuer jusqu'à 6 h à l'avance. Si vou
 3. Une fois les haricots et les edamames bien égouttés, les verser dans un plat de service et les arroser avec la sauce et le jus de citron vert. Mélanger bien, puis parsemer de graines de sésame, de coriandre et servir aussitôt.
 
 ## Noms ingrédients
-citron vert. jus de citron vert. menthe. ail. huile d'olive. piments verts. coriandre. haricots verts. graines de sésame
-
+citrons verts. menthe. ail. piment vert. coriandre. haricots verts
 ---
 
 # Châtaignes et champignons au zaatar
@@ -7652,8 +7496,7 @@ Garniture idéale pour les repas d'automne ou de fêtes. Peut aussi se servir au
 3. Verser le contenu de la plaque dans un saladier et assaisonner avec l'estragon, le zaatar, le jus de citron et 2 cuillères à café d'huile d'olive. Mélanger, puis dresser dans un grand plat de service et servir.
 
 ## Noms ingrédients
-champignons de paris. échalotes. huile d'olive. ail. sauge. estragon. zaatar. jus de citron
-
+champignons de Paris. échalotes. ail. sauge. zaatar. citrons
 ---
 
 # Choux de Bruxelles au beurre noisette et à l'ail noir
@@ -7684,8 +7527,7 @@ L'ail noir, avec son goût balsamique et ses notes de réglisse, permet de donne
 4. Réaliser un beurre noisette en laissant le beurre colorer 3 minutes dans une grande sauteuse sur feu moyen-vif. Ajouter la pâte à base d'ail noir, de thym et de carvi, les choux, les graines de courge et 1 pincée de sel. Laisser cuire 30 secondes en remuant continuellement, puis retirer du feu. Incorporer le jus de citron et dresser dans un saladier de service ou directement dans les assiettes. Arroser d'un filet de tahin et servir aussitôt.
 
 ## Noms ingrédients
-huile d'olive. graines de carvi. thym. beurre. jus de citron. tahin
-
+citrons. tahin
 ---
 
 # Salade de carottes à la cannelle, sauce au yaourt et aux herbes
@@ -7716,8 +7558,7 @@ Les carottes nouvelles fines apportent une certaine élégance. La sauce peut se
 3. Dans un cul-de-poule, mélanger le yaourt avec la crème fraîche et ¼ de cuillère à café de sel. Verser sur les carottes, ajouter les herbes fraîches et donner un ou deux coups de cuillères en bois – pas plus ! Soulever délicatement les carottes avec des couverts à salade pour les transvaser dans un saladier de service et déguster.
 
 ## Noms ingrédients
-carottes. huile d'olive. vinaigre de cidre. miel. ail. cannelle. yaourt grec. crème fraîche. aneth. coriandre
-
+carottes. miel. ail. yaourt grec. aneth. coriandre
 ---
 
 # Butternut rôtie aux lentilles et au dolcelatte
@@ -7750,8 +7591,7 @@ Servir avec la courge et les lentilles encore chaudes pour que le gorgonzola fon
 4. Verser les tranches de butternut et les oignons dans les lentilles et mélanger délicatement. Débarrasser dans un saladier de service, parsemer de morceaux de dolcelatte, arroser d'un filet d'huile d'olive et servir.
 
 ## Noms ingrédients
-huile d'olive. oignons rouges. sauge. lentilles du puy. citron. jus de citron. ail. persil. menthe. estragon. gorgonzola
-
+oignons rouges. sauge. lentilles du Puy. citrons. ail. persil. menthe. gorgonzola
 ---
 
 # Butternut rôtie avec maïs, feta et graines de courge
@@ -7782,8 +7622,7 @@ Si vous aimez votre maïs grillé bien croquant, démarrez avec des épis frais.
 4. Dresser les tranches de butternut dans un grand plat de service ou directement dans les assiettes, puis arroser du mélange maïs/huile/herbes. Parsemer de graines de courge, de morceaux de feta et servir avec un filet d'huile d'olive supplémentaire.
 
 ## Noms ingrédients
-huile d'olive. piment rouge frais. citron vert. jus de citron vert. coriandre. menthe. feta. épis de maïs
-
+piment rouge frais. citrons verts. coriandre. menthe. feta. épis de maïs
 ---
 
 # Salade de betteraves rôties au yaourt et au citron confit
@@ -7814,8 +7653,7 @@ Cette salade s'accorde divinement avec les poissons gras : maquereau fumé, file
 4. Incorporer le tahin dans le yaourt et déposer quatre ou cinq points de ce mélange sur les betteraves. Donner un coup de cuillère en bois sans chercher à vraiment incorporer le yaourt, parsemer du reste d'aneth et servir.
 
 ## Noms ingrédients
-huile d'olive. graines de cumin. oignons rouges. citron confit. jus de citron. aneth. tahin. yaourt grec
-
+oignons rouges. citron confit. citrons. aneth. tahin. yaourt grec
 ---
 
 # Purée à l'huile d'olive aromatisée
@@ -7850,8 +7688,7 @@ Purée à base d'huile d'olive plutôt que de beurre et de lait. Aromatisée au 
 4. Dresser la purée dans un plat de service et, avec le dos d'une cuillère, créer du relief pour retenir l'huile aromatisée. Arroser d'huile aromatisée, donner quelques tours de moulin à poivre noir et servir.
 
 ## Noms ingrédients
-pommes de terre. ail. thym. menthe. citron. jus de citron. huile d'olive
-
+pomme de terre. ail. menthe. citrons
 ---
 
 # Purée de patates douces, sauce aux herbes et au citron vert
@@ -7880,8 +7717,7 @@ Cette purée se marie avec tout : côtelettes grillées, saucisses au barbecue, 
 5. Dresser la purée dans un plat de service, créer quelques aspérités sur la surface et verser la sauce dans les creux. Servir aussitôt.
 
 ## Noms ingrédients
-patates douces. huile d'olive. basilic. coriandre. ail. citron vert. jus de citron vert
-
+patate douce. basilic. coriandre. ail. citrons verts
 ---
 
 # Pommes de terre en robe des champs, gorgonzola et épinards
@@ -7909,8 +7745,7 @@ Le goût puissant du bleu apporte un vrai plus, mais on peut le remplacer par to
 4. Remplir une casserole d'eau salée à mi-hauteur et porter à ébullition. Blanchir les épinards pendant 10 à 15 secondes, puis égoutter en pressant les feuilles pour extraire un maximum de liquide. Incorporer les épinards dans la purée, puis garnir généreusement les peaux de pommes de terre. Enfourner pour 15 minutes, jusqu'à ce que la purée soit gratinée en surface. Sortir du four, parsemer de brisures de noix et servir.
 
 ## Noms ingrédients
-pommes de terre. crème liquide. gorgonzola. beurre. épinards. noix
-
+pomme de terre. gorgonzola. épinards. noix
 ---
 
 # Pommes de terre en robe des champs, œufs mollets et sauce au thon
@@ -7945,8 +7780,7 @@ Cette recette combine les pommes de terre au four et les œufs mollets. La sauce
 4. Au moment de servir, inciser profondément les pommes de terre dans le sens de la longueur. Pincer légèrement la peau pour aider la chair à se détacher. Saupoudrer d'une pincée de fleur de sel. Garnir de sauce au thon. Déposer un œuf mollet sur le dessus en le coupant en deux juste avant pour que le jaune coule sur la sauce. Parsemer du reste de persil et de câpres, arroser d'un filet d'huile d'olive et servir.
 
 ## Noms ingrédients
-pommes de terre. huile d'olive. œufs. jus de citron. anchois. ail. persil. câpres
-
+pomme de terre. citrons. anchois. ail. persil. câpres
 ---
 
 # Frites au four à la feta et à l'origan
@@ -7974,8 +7808,7 @@ Ces frites s'inspirent de celles goûtées à Melbourne au restaurant de George 
 4. Cinq minutes avant que les frites ne soient bien dorées et croustillantes, faire chauffer l'huile d'olive avec les gousses d'ail dans une petite casserole sur feu moyen-vif. Laisser colorer 3 à 4 minutes, puis sortir les frites du four, les arroser de cette huile aillée et remettre au four (avec les gousses d'ail) pour 4 minutes supplémentaires. Parsemer les frites d'origan et de feta, et servir aussitôt.
 
 ## Noms ingrédients
-pommes de terre. huile de tournesol. huile d'olive. ail. origan. feta. fleur de sel
-
+pomme de terre. ail. feta
 ---
 
 # Pommes sautées au romarin et au sumac
@@ -8001,8 +7834,7 @@ Le sumac, avec sa belle robe pourpre et son goût légèrement astringent, perme
 2. Égoutter les pommes de terre avec une écumoire et déposer dans un saladier de service. Parsemer de sumac, mélanger et servir.
 
 ## Noms ingrédients
-huile d'olive. pommes de terre. ail. thym. romarin. sumac
-
+pomme de terre. ail
 ---
 
 # Pommes de terre à la harissa et à l'ail confit au four
@@ -8033,8 +7865,7 @@ L'ail confit consiste simplement à faire rôtir l'ail tout doucement jusqu'à c
 5. Verser les pommes de terre dans le cul-de-poule contenant la graisse d'oie et ajouter la semoule, les graines de carvi, la harissa et 2 cuillères à café de fleur de sel. Mélanger bien, puis répartir le tout sur une grande plaque chemisée avec du papier sulfurisé. Faire dorer au four pendant 45 minutes en retournant les pommes de terre une ou deux fois en cours de cuisson. Ajouter l'ail confit et les herbes et poursuivre la cuisson 10 à 15 minutes, jusqu'à ce que les pommes de terre soient croustillantes et bien colorées. Servir.
 
 ## Noms ingrédients
-ail. romarin. thym. pommes de terre. semoule fine. graines de carvi. harissa
-
+ail. pomme de terre. semoule
 ---
 
 # Salade croquante, laitue et robes des champs
@@ -8067,8 +7898,7 @@ Recette anti-gaspi utilisant les peaux de pommes de terre d'une recette précéd
 4. Dans un bol, émulsionner tous les ingrédients prévus pour la sauce avec ¼ de cuillère à café de sel et verser sur la salade. Mélanger et servir.
 
 ## Noms ingrédients
-pommes de terre. harissa. huile d'olive. estragon. citron confit. jus de citron. graines de cumin
-
+pomme de terre. citron confit. citrons
 ---
 
 # Pommes de terre nouvelles et petits pois à la coriandre
@@ -8095,8 +7925,7 @@ Cette garniture se marie à merveille avec l'agneau ou tout autre produit printa
 2. Porter un grand volume d'eau salée à ébullition, puis plonger les pommes de terre et laisser cuire environ 15 minutes. Égoutter et débarrasser dans un saladier. Écraser grossièrement les pommes de terre en essayant d'en laisser au moins ⅓ entières. Ajouter les petits pois – mixés et entiers –, ainsi que le jus de citron et les feuilles de coriandre. Mélanger délicatement et servir chaud.
 
 ## Noms ingrédients
-piments verts. citron confit. coriandre. huile d'olive. jus de citron. pommes de terre. citron
-
+piment vert. citron confit. coriandre. citrons. pomme de terre
 ---
 
 # Pizza blanche aux pommes de terre, anchois et sauge
@@ -8135,8 +7964,7 @@ Garniture blanche à base de mascarpone et de pommes de terre. La pâte peut se 
 5. Badigeonner deux grandes plaques à four d'huile d'olive et fariner légèrement le plan de travail. Abaisser l'un des pâtons en un rectangle de 30 x 20 cm, puis déposer délicatement sur l'une des plaques. Répéter l'opération avec le deuxième pâton et répartir la base mascarpone/anchois sur les deux pâtes, en laissant 2 cm de pâte vierge sur tout le tour. Parsemer de cébettes, puis recouvrir de tranches de pommes de terre. Arroser chaque pizza de 1 cuillère à soupe d'huile d'olive et enfourner pour 9 minutes, jusqu'à ce que la pâte soit bien dorée et croustillante sur les bords. Servir chaud avec un dernier tour de moulin à poivre.
 
 ## Noms ingrédients
-farine. levure. huile d'olive. pommes de terre. mascarpone. pecorino. anchois. sauge. citron. oignons verts
-
+pomme de terre. mascarpone. pecorino. anchois. sauge. citrons. oignons verts
 ---
 
 # Salade de haricots verts au sarrasin
@@ -8173,8 +8001,7 @@ Peut aussi se déguster seule ou avec des pavés de saumon poêlés. Simple et r
 5. Au moment de servir, mélanger les oignons, le sarrasin, les haricots, la menthe et l'estragon avec la cuillère à soupe d'huile restante et ½ cuillère à café de sel. Transvaser le tout dans votre plat de service et servir avec la sauce à part. Saupoudrer de piment et déguster !
 
 ## Noms ingrédients
-oignons rouges. huile d'olive. haricots verts. menthe. estragon. piment d'urfa. yaourt grec. ail. jus de citron
-
+oignons rouges. haricots verts. menthe. piment d'Urfa. yaourt grec. ail. citrons
 ---
 
 # Taboulé à ma façon
@@ -8209,8 +8036,7 @@ Compagnon idéal de tous vos barbecues, ce taboulé se marie divinement avec les
 5. Dresser le taboulé dans un plat de service et déposer les tomates sur le dessus avant de servir.
 
 ## Noms ingrédients
-semoule fine. huile d'olive. tomates cerise. oignons. graines de cumin. amandes. coriandre. menthe. citron. jus de citron
-
+semoule. tomates cerise. oignons. amandes. coriandre. menthe. citrons
 ---
 
 # Ragoût de lentilles aux aubergines
@@ -8243,8 +8069,7 @@ Ce ragoût supporte 3 jours de réfrigérateur. Pour réchauffer, ajouter une cu
 3. Servir chaud ou à température ambiante, avec une cuillère de crème fraîche, un filet d'huile d'olive, les flocons de piment et les feuilles d'origan.
 
 ## Noms ingrédients
-huile d'olive. ail. oignons rouges. thym. aubergines. tomates cerise. lentilles du puy. bouillon de légumes. crème fraîche. piment d'urfa. origan
-
+ail. oignons rouges. aubergines. tomates cerise. lentilles du Puy. piment d'Urfa
 ---
 
 # Boulgour à la tomate, aux aubergines et au yaourt citronné
@@ -8278,8 +8103,7 @@ Si servi en accompagnement, les aubergines et le yaourt citronné ne sont pas in
 5. Répartir le boulgour dans quatre assiettes, dresser une belle cuillère de yaourt sur le dessus, ajouter les aubergines et parsemer du reste de menthe.
 
 ## Noms ingrédients
-aubergines. huile d'olive. oignons. ail. mélange quatre-épices. tomates cerise. concentré de tomates. yaourt grec. citron confit. menthe
-
+aubergines. oignons. ail. tomates cerise. concentré de tomate. yaourt grec. citron confit. menthe
 ---
 
 # Lentilles du Puy au caviar d'aubergine, tomates et yaourt
@@ -8309,8 +8133,7 @@ Par souci de praticité, les aubergines sont confites au four, mais pour plus de
 4. Pendant que les tomates sont au four, remplir une casserole d'eau et porter à ébullition. Plonger les lentilles sèches dans l'eau bouillante, baisser le feu (moyen) et faire cuire 20 minutes jusqu'à ce qu'elles soient al dente. Verser les lentilles dans une passoire, laisser s'égoutter au maximum, puis transvaser dans un saladier. Ajouter le caviar d'aubergine, les tomates, l'huile d'olive, le jus de citron, l'ail, 2 cuillères à soupe d'origan, ¾ de cuillère à café de sel et du poivre. Mélanger, puis dresser dans un plat de service (creux). Ajouter le yaourt sur le dessus en créant quelques volutes, saupoudrer du reste d'origan, arroser d'un filet d'huile d'olive et servir.
 
 ## Noms ingrédients
-aubergines. tomates cerise. lentilles du puy. huile d'olive. jus de citron. ail. origan. yaourt grec
-
+aubergines. tomates cerise. lentilles du Puy. citrons. ail. yaourt grec
 ---
 
 # Riz pilaf aux oignons et à l'ail noir
@@ -8337,8 +8160,7 @@ Ce plat à base de riz se marie admirablement avec la viande d'agneau ou de porc
 2. Verser la cuillère à soupe d'huile restante dans la sauteuse, puis ajouter le riz et ½ cuillère à café de sel. Laisser frire 1 minute sans cesser de remuer, puis mouiller avec 500 ml d'eau. Porter à ébullition, puis baisser le feu (moyen-doux) et laisser mijoter à couvert env. 45 minutes, jusqu'à ce que le riz soit entièrement cuit. Retirer du feu et incorporer les oignons, le jus de citron et l'ail noir. Servir aussitôt, surmonté d'une belle cuillère de yaourt et de persil haché.
 
 ## Noms ingrédients
-huile de tournesol. oignons. citron. jus de citron. riz. yaourt grec. persil
-
+oignons. citrons. yaourt grec. persil
 ---
 
 # Riz au four parfumé à la menthe, grenade et olives vertes
@@ -8373,8 +8195,7 @@ Opter pour une cuisson au four, c'est choisir une méthode inratable. De plus, c
 4. Sortir le riz du four et retirer le papier d'aluminium. Prélever les feuilles sur les brins de menthe (jeter les tiges) et déposer sur le riz, puis parsemer de feta. Juste avant de servir, incorporer les 10 g de menthe ciselée dans la garniture et verser sur le riz de manière homogène. Servir chaud.
 
 ## Noms ingrédients
-riz. beurre. menthe. feta. olives de kalamata. grenade. arilles de grenade. noix. huile d'olive. mélasse de grenade. ail
-
+menthe. feta. olives de Kalamata. grenade. arilles de grenade. noix. ail
 ---
 
 # Riz gluant et julienne croustillante comme en Asie
@@ -8403,8 +8224,7 @@ Servi avec un plat à base de viande ou de poisson, le riz gluant est déjà un 
 2. Pendant que le riz cuit, faire chauffer l'huile dans une poêle ou un wok sur feu moyen-vif. Ajouter le gingembre, l'ail et les piments et faire revenir 3 à 4 minutes en remuant régulièrement, jusqu'à obtenir un début de coloration. Ajouter la coriandre, les cacahuètes, les graines de sésame, une belle pincée de sel et laisser dorer encore 1 à 2 minutes. Dresser sur le riz et servir avec des quartiers de citron vert.
 
 ## Noms ingrédients
-riz. huile d'arachide. gingembre. ail. piment rouge frais. coriandre. cacahuètes grillées. graines de sésame. citron vert
-
+gingembre. ail. piment rouge frais. coriandre. cacahuètes. citrons verts
 ---
 
 # Riz au four aux tomates confites et à l'ail
@@ -8435,8 +8255,7 @@ Accompagnement parfait pour quasiment toutes les viandes et poissons, mais aussi
 4. Assaisonner le riz avec ½ cuillère à café de sel et quelques tours de moulin à poivre, puis mouiller délicatement le plat avec l'eau bouillante. Couvrir hermétiquement le plat avec une feuille de papier d'aluminium et enfourner pour 25 minutes, jusqu'à ce que le riz ait absorbé tout le liquide. Sortez le plat du four et laissez reposer 10 minutes sans toucher le couvercle. Retirer le papier d'aluminium, parsemer de feuilles de coriandre, mélanger délicatement et servir.
 
 ## Noms ingrédients
-tomates cerise. ail. échalotes. coriandre. thym. cannelle. huile d'olive. riz
-
+tomates cerise. ail. échalotes. coriandre
 ---
 
 # Nouilles de riz froides au concombre et au pavot
@@ -8476,8 +8295,7 @@ Cette salade fait aussi des merveilles avec des pavés de saumon poêlés. Tous 
 3. Quand les nouilles sont revenues à température ambiante, verser tous les ingrédients restants dans le saladier, le jus de macération, 2 cuillères à soupe d'huile d'olive et 1 petite cuillère à café de sel. Mélanger bien et servir aussitôt.
 
 ## Noms ingrédients
-vinaigre de cidre. oignons rouges. gingembre. huile d'olive. concombre. piment rouge frais. menthe. estragon. graines de pavot. yaourt grec. ail. jus de citron
-
+oignons rouges. gingembre. concombres. piment rouge frais. menthe. yaourt grec. ail. citrons
 ---
 
 # Sobas froides au citron vert, cardamome et avocat
@@ -8507,8 +8325,7 @@ Recette légère pour déjeuner ou dîner. On peut y ajouter des crevettes ou du
 2. Avec le plat du couteau, ouvrir les capsules de cardamome en les écrasant. Récupérer les graines et jeter les capsules. Dans un mortier, piler les graines jusqu'à obtenir ½ cuillère à café de poudre. Transvaser les sobas dans un saladier et ajouter la poudre de cardamome. Ajouter le basilic, la coriandre, les pistaches, le zeste et le jus de citron vert, l'huile, le piment, les lamelles d'avocat et ½ cuillère à café de sel. Mélanger, puis dresser dans quatre grands bols, en raclant bien le fond du saladier. Parsemer de graines de nigelle ou de piment et servir avec un quartier de citron vert.
 
 ## Noms ingrédients
-nouilles soba. cardamome. basilic. coriandre. pistaches. citron vert. jus de citron vert. huile d'arachide. piment vert
-
+basilic. coriandre. pistaches. citrons verts. piment vert
 ---
 
 # Salade de spaghettis de mer au sésame
@@ -8542,8 +8359,7 @@ Les spaghettis de mer ont une texture proche des nouilles de riz et un goût sub
 2. Verser les spaghettis de mer dans une casserole de taille moyenne et mouiller à hauteur. Porter à ébullition, puis baisser le feu et laisser cuire 15 minutes à feu doux, jusqu'à obtenir une cuisson al dente. Égoutter, puis stopper la cuisson à l'eau froide. Sécher les spaghettis avec du papier absorbant et débarrasser dans un saladier. Ajouter les tagliatelles de concombre, les graines de sésame, la coriandre, la vinaigrette et ½ cuillère à café de sel. Mélanger le tout, puis dresser dans quatre grands bols (ou dans un plat de service creux), saupoudrer de piment et servir aussitôt.
 
 ## Noms ingrédients
-concombre. graines de sésame. coriandre. piment en flocons. miel. vinaigre de riz. mirin. moutarde de dijon. sauce soja. tahin. huile d'arachide
-
+concombres. coriandre. piment rouge séché. miel. tahin
 ---
 
 # Pâtes à la sicilienne
@@ -8576,8 +8392,7 @@ Ces pâtes font partie des plats dont on ne se lasse jamais. La sauce tomate peu
 5. Dresser les pâtes dans quatre assiettes creuses, saupoudrer du restant de fromage et de basilic, arroser de 1 cuillère à soupe d'huile d'olive et servir.
 
 ## Noms ingrédients
-aubergines. huile d'olive. ail. tomates en conserve. origan. spaghettis. pecorino. basilic
-
+aubergines. ail. tomates en conserve. pecorino. basilic
 ---
 
 # Tagliatelles piquantes aux tomates cerise
@@ -8605,8 +8420,7 @@ Choisir de belles tomates cerise au pic de leur maturité. La sauce peut se pré
 2. Plonger les tagliatelles dans un grand volume d'eau salée portée à ébullition et laisser cuire 10 à 12 minutes à feu vif, ou selon les indications figurant sur le paquet pour obtenir une cuisson al dente. Égoutter et mélanger avec la sauce. Dresser dans quatre assiettes creuses, saupoudrer de parmesan et servir.
 
 ## Noms ingrédients
-huile d'olive. ail. tomates cerise. basilic. tagliatelles. parmesan
-
+ail. tomates cerise. basilic. parmesan
 ---
 
 # Pappardelles aux olives noires, câpres et harissa à la rose
@@ -8636,8 +8450,7 @@ La sauce peut se préparer jusqu'à 3 jours à l'avance et se conserver au réfr
 3. Verser la sauce sur les pâtes, ajouter 1 bonne pincée de sel et mélanger. Dresser dans quatre assiettes creuses et servir bien chaud, avec une cuillère de yaourt et quelques feuilles de persil hachées.
 
 ## Noms ingrédients
-huile d'olive. oignons. harissa. tomates cerise. olives de kalamata. câpres. persil. yaourt grec
-
+oignons. tomates cerise. olives de Kalamata. câpres. persil. yaourt grec
 ---
 
 # Gigli aux pois chiches et au zaatar
@@ -8672,8 +8485,7 @@ En italien, gigli signifie « lys ». Les orecchiette (« oreilles ») et les co
 3. Verser les épinards et le persil sur les pois chiches et mélanger : la chaleur de la sauce devrait suffire à faire tomber les épinards mais, si ce n'est pas le cas, remettre la sauteuse quelques minutes sur feu doux. Verser ensuite les pâtes dans la sauteuse et mélanger. Dresser dans quatre grands bols, saupoudrer de zaatar, arroser d'un filet d'huile d'olive et servir.
 
 ## Noms ingrédients
-huile d'olive. oignons. ail. cumin. thym. anchois. citron. jus de citron. bouillon de volaille. épinards. persil. zaatar. orecchiette
-
+oignons. ail. anchois. citrons. épinards. persil. zaatar
 ---
 
 # Risoni aux crevettes, tomates et feta marinée
@@ -8705,8 +8517,7 @@ L'association crevettes/feta/tomates/pâtes est une valeur sûre pour les soirs 
 3. Remettre la sauteuse sur le feu et faire revenir l'ail 1 minute dans les 2 cuillères à soupe d'huile avec ¼ de cuillère à café de piment en flocons, 2 cuillères à café de graines de fenouil, et les écorces d'orange. Quand l'ail commence à colorer, ajouter les tomates, le bouillon de légumes, 200 ml d'eau, ¾ de cuillère à café de sel et du poivre. Laisser cuire jusqu'à ébullition, puis ajouter les risoni frits. Baisser le feu (moyen-doux) et laisser mijoter à couvert pendant 15 minutes, en remuant une fois ou deux. Retirer le couvercle et laisser épaissir 1 à 2 minutes. Ajouter les crevettes, laisser les rosir (2 à 3 min), puis incorporer le basilic et servir aussitôt, parsemé de dés de feta marinée.
 
 ## Noms ingrédients
-feta. piment en flocons. graines de fenouil. huile d'olive. ail. tomates en conserve. bouillon de légumes. basilic
-
+feta. piment rouge séché. ail. tomates en conserve. basilic
 ---
 
 # Trofie au basilic et aux pistaches
@@ -8736,8 +8547,7 @@ Les trofie sont les pâtes que l'on sert habituellement avec le pesto, les fusil
 3. Égoutter dans une passoire en réservant 2 cuillères à soupe d'eau de cuisson, puis transvaser dans un saladier. Verser le pesto basilic/anchois sur les pâtes et mélanger. Ajouter le pecorino, les pistaches, le zeste de citron, les 20 g de basilic restants, 1 bonne pincée de sel et du poivre. Mélanger délicatement et servir.
 
 ## Noms ingrédients
-basilic. ail. anchois. huile d'olive. pois mange-tout. pecorino. pistaches. citron
-
+basilic. ail. anchois. pois mange-tout. pecorino. pistaches. citrons
 ---
 
 # Spaghettis aux anchois et à la salicorne
@@ -8767,8 +8577,7 @@ La salicorne et les anchois, deux produits fortement iodés, permettent de donne
 3. Remettre la sauteuse sur feu moyen-vif, puis ajouter les spaghettis, la salicorne et mélanger. Si besoin, délayer avec un peu d'eau de cuisson. Incorporer le restant de persil, poivrer et dresser dans quatre assiettes. Saupoudrer de quelques flocons de piment et servir avec un quartier de citron.
 
 ## Noms ingrédients
-huile d'olive. anchois. piment d'Alep. ail. citron. persil. spaghettis
-
+anchois. piment d'Alep. ail. citrons. persil
 ---
 
 # Gnocchis à la romaine
@@ -8797,8 +8606,7 @@ Servi tel quel ou accompagné d'une salade verte croquante, c'est le plat famili
 4. Enclencher le gril à puissance maximale et faire gratiner 2 à 3 minutes, env. 10 cm sous la source de chaleur. Laisser tiédir 5 minutes et servir.
 
 ## Noms ingrédients
-beurre. lait. semoule fine. parmesan. œufs. cheddar
-
+semoule. parmesan. cheddar
 ---
 
 # Boulettes d'agneau à la feta
@@ -8828,8 +8636,7 @@ Ces boulettes peuvent se grignoter à l'apéritif ou faire office de plat princi
 3. Dans une grande poêle, mettre l'huile à chauffer sur feu moyen-vif, puis faire revenir les boulettes 5 à 6 minutes, en les retournant régulièrement jusqu'à ce qu'elles soient uniformément dorées. Débarrasser sur une plaque à four chemisée, arroser d'un filet de mélasse de grenade et terminer la cuisson 5 minutes au four. Servir chaud.
 
 ## Noms ingrédients
-viande d'agneau hachée. feta. thym. ail. persil. mie de pain. cannelle. huile d'olive. mélasse de grenade
-
+viande d'agneau hachée. feta. ail. persil. grenade
 ---
 
 # Salade au bœuf et au basilic
@@ -8862,8 +8669,7 @@ Ce plat peut faire une belle entrée ou un repas léger. Tous les composants peu
 6. Au moment de servir, détailler le bœuf en fines tranches de 0,5 cm d'épaisseur. Assaisonner avec une pincée de sel et verser dans le saladier de légumes. Ajouter les morceaux de pitas grillés, mélanger délicatement et servir aussitôt.
 
 ## Noms ingrédients
-basilic. ail. huile d'olive. faux-filet. pains pitas. endives rouges. roquette. jus de citron. parmesan
-
+basilic. ail. faux-filet. pain pita. endives rouges. roquette. citrons. parmesan
 ---
 
 # Parmentier d'agneau au sésame
@@ -8901,8 +8707,7 @@ Version orientale du hachis Parmentier où la purée de pommes de terre est remp
 5. Sortir la cocotte du four, laisser reposer 5 minutes et servir.
 
 ## Noms ingrédients
-huile d'olive. oignons. concentré de tomates. viande d'agneau hachée. tomates. paprika. pignons de pin. persil. tahin. jus de citron. ail
-
+oignons. concentré de tomate. viande d'agneau hachée. tomates en conserve. pistaches. persil. tahin. citrons. ail
 ---
 
 # Noisettes d'agneau aux amandes et à la fleur d'oranger
@@ -8937,8 +8742,7 @@ Très pratique quand on reçoit du monde, ce plat peut se préparer presque enti
 7. Au moment de servir, découper l'agneau en tranches de 1 cm d'épaisseur. Dresser sur un plat de service avec les poivrons rouges et arroser de marinade. Incorporer la menthe fraîchement ciselée dans la sauce aux amandes et verser sur la viande.
 
 ## Noms ingrédients
-ail. thym. citron. jus de citron. huile d'olive. filet d'agneau. amandes. miel. eau de fleur d'oranger. poivrons rouges. menthe
-
+ail. citrons. filet d'agneau. amandes. miel. poivron rouge. menthe
 ---
 
 # Pain de viande, agneau, tahin, tomates
@@ -8976,8 +8780,7 @@ Ce pain de viande peut se servir chaud en plat principal ou à température ambi
 5. Sortir le moule du bain-marie et laisser tiédir 10 minutes avant de démouler. Recouvrir d'un tiers de sauce sésame et d'un tiers de tomates râpées. Servir chaud avec le reste de sauce et de tomates à part, ou laisser revenir à température ambiante et servir découpé en tranches dans des pains pita.
 
 ## Noms ingrédients
-courgettes. carottes. oignons. tomates. viande d'agneau hachée. ail. pecorino. mie de pain. œufs. concentré de tomates. cumin. mélange quatre-épices. tahin. jus de citron
-
+courgettes. carottes. oignons. tomates en conserve. viande d'agneau hachée. ail. pecorino. concentré de tomate. tahin. citrons
 ---
 
 # Arayes d'agneau au tahin et au sumac
@@ -9012,8 +8815,7 @@ Les arayes sont des petits pains plats fourrés à la viande d'agneau très popu
 3. Délayer le sumac dans 2 cuillères à café d'huile. Badigeonner la face visible des arayes de cette huile aromatisée et servir chaud ou à température ambiante.
 
 ## Noms ingrédients
-huile d'olive. sumac. viande d'agneau hachée. oignons. tomates. mélange quatre-épices. tahin. ail. mélasse de grenade. menthe. cheddar
-
+viande d'agneau hachée. oignons. tomates en conserve. tahin. ail. grenade. menthe. cheddar
 ---
 
 # Épaule d'agneau confite à la menthe et au cumin
@@ -9047,8 +8849,7 @@ Servi avec un écrasé de haricots blancs détendu au jus de cuisson de l'agneau
 4. Déposer la pièce de viande dans un grand plat à gratin d'environ 30 x 40 cm avec la marinade et 500 ml d'eau. Couvrir hermétiquement de papier d'aluminium et enfourner pour 1 heure. Baisser la température du four (160 °C), ajouter le céleri-rave, les carottes, les têtes d'ail (partie coupée vers le haut) et laisser confire 5 h, en arrosant la viande et les légumes trois ou quatre fois au cours de la cuisson. Retirer ensuite l'aluminium et laisser dorer encore 30 minutes. En fin de cuisson, les légumes doivent être caramélisés et vous devez pouvoir détacher la viande de l'os sans effort.
 
 ## Noms ingrédients
-citron. jus de citron. ail. paprika. cumin. menthe. coriandre. huile d'olive. carottes. céleri-rave
-
+citrons. ail. menthe. coriandre. carottes. céleri-rave
 ---
 
 # Bouchées d'agneau à la pistache, sauce au yaourt et au sumac
@@ -9081,8 +8882,7 @@ Ces bouchées sont parfaites en guise de collation salée ou en amuse-bouches lo
 3. Dans une grande poêle antiadhésive, faire chauffer 1 cuillère à soupe d'huile sur feu moyen. Faire revenir les bouchées environ 7 minutes, en les retournant une fois à mi-cuisson. En fin de cuisson, elles doivent être joliment dorées à l'extérieur et cuites à cœur. Garder la première fournée au chaud et répéter l'opération avec les bouchées restantes. Quand toutes vos bouchées sont prêtes, dressez-les sur un grand plat de service, avec la sauce au yaourt et au sumac à proximité.
 
 ## Noms ingrédients
-pistaches. roquette. oignons. ail. viande d'agneau hachée. huile d'olive. yaourt grec. sumac. jus de citron
-
+pistaches. roquette. oignons. ail. viande d'agneau hachée. yaourt grec. citrons
 ---
 
 # Parmentier d'agneau épicé aux haricots blancs
@@ -9118,8 +8918,7 @@ Cette recette s'inspire de la cuisine d'Afrique du Nord, avec une purée de hari
 3. Pour la purée, verser les haricots blancs dans un cul-de-poule, ainsi que le tahin, le reste des zestes de citron, 2 cuillères à soupe d'huile d'olive, 3 cuillères à soupe d'eau, ¼ de cuillère à café de sel et un tour de moulin à poivre noir. Mélanger, puis écraser au presse-purée. Étaler la purée sur la couche de viande puis creuser quelques petits puits ici et là à l'aide d'une cuillère. Répartir la cuillère à soupe d'huile restante sur le dessus et faire gratiner 30 minutes au four. Laisser reposer 10 minutes à température ambiante et servir.
 
 ## Noms ingrédients
-huile d'olive. ail. échalotes. viande d'agneau hachée. graines de cumin. mélange quatre-épices. citron. concentré de tomates. harissa. abricots secs. bouillon de volaille. olives de kalamata. tahin
-
+ail. échalotes. viande d'agneau hachée. citrons. concentré de tomate. abricots secs. olives de Kalamata. tahin
 ---
 
 # Le poulet rôti d'Arnold, farce aux canneberges et au carvi
@@ -9154,8 +8953,7 @@ Arnold Rogow est un ami d'Ixta Belfrage, un chef qui a contribué à l'élaborat
 5. Enfourner la volaille pour 70 à 75 minutes, en arrosant environ toutes les 20 minutes. En fin de cuisson, la peau doit être bien dorée et croustillante, et le jus qui s'écoule de la cuisse quand on la pique doit être translucide. Sortir la volaille du four et laisser reposer 10 minutes avant de servir.
 
 ## Noms ingrédients
-beurre. graines de carvi. ail. céleri-rave. oignons. bouillon de volaille. persil
-
+ail. céleri-rave. oignons. persil
 ---
 
 # Boulettes de bœuf au citron et au céleri
@@ -9190,8 +8988,7 @@ Ces boulettes sont à la fois réconfortantes, surprenantes et goûteuses. Elles
 3. Retirer du feu et laisser reposer 5 à 10 minutes avant de servir parsemé de persil.
 
 ## Noms ingrédients
-bœuf haché. mie de pain. oignons. persil. œufs. mélange quatre-épices. huile d'olive. céleri-rave. ail. curcuma. graines de fenouil. paprika fumé. bouillon de volaille. jus de citron
-
+bœuf haché. oignons. persil. céleri-rave. ail. citrons
 ---
 
 # Boulettes de bœuf à la ricotta et à l'origan
@@ -9225,8 +9022,7 @@ Grâce à la ricotta, ces boulettes sont à la fois légères et moelleuses en b
 4. Glisser la totalité des boulettes dans la sauce et mouiller quasi à hauteur avec le reste du bouillon. Laisser mijoter 30 minutes à couvert sur feu moyen-doux, puis retirer le couvercle et passer à feu moyen jusqu'à obtenir une sauce épaisse comme une sauce bolognaise. Retirer du feu et laisser reposer minimum 10 minutes. Parsemer d'origan et servir.
 
 ## Noms ingrédients
-huile d'olive. oignons. ail. origan. tomates en conserve. bouillon de volaille. bœuf haché. mie de pain. ricotta. parmesan. œufs. persil
-
+oignons. ail. tomates en conserve. bœuf haché. ricotta. parmesan. persil
 ---
 
 # Faux-filet épicé, sauce poivron-citron
@@ -9260,8 +9056,7 @@ La sauce poivron-citron peut se préparer intégralement la veille, tout comme l
 5. Servir le bœuf chaud ou à température ambiante, détaillé en tranches de 1 cm d'épaisseur. Napper de sauce, parsemer de persil et servir avec les quartiers de citron.
 
 ## Noms ingrédients
-faux-filet. harissa. poivrons rouges. huile d'olive. ail. tomates en conserve. piment en flocons. citron confit. persil. citron. fleur de sel
-
+faux-filet. poivron rouge. ail. tomates en conserve. piment rouge séché. citron confit. persil. citrons
 ---
 
 # Poulet rôti au citron
@@ -9290,8 +9085,7 @@ Classique indémodable : citron/ail/poulet. La volaille peut être préparée 4 
 5. Sortir la volaille du four et laisser reposer 10 minutes avant de servir.
 
 ## Noms ingrédients
-beurre. thym. ail. citron confit. citron. jus de citron
-
+ail. citron confit. citrons
 ---
 
 # Cuisses de poulet Marbella
@@ -9324,8 +9118,7 @@ Plat pouvant se réaliser presque entièrement avant l'arrivée des convives : m
 4. Sortir les cuisses du four, dresser sur un grand plat de service avec leur jus de cuisson, parsemer de feuilles d'origan frais et servir.
 
 ## Noms ingrédients
-cuisses de poulet. ail. origan. vinaigre de vin rouge. huile d'olive. olives de kalamata. câpres. laurier
-
+cuisses de poulet. ail. olives de Kalamata. câpres
 ---
 
 # Poulet au miso, gingembre et citron vert
@@ -9360,8 +9153,7 @@ Ce plat se déguste aussi bien chaud, dès la sortie du four, avec du riz basmat
 5. Au moment de servir, dresser une cuisse de poulet dans chaque assiette et disposer les tiges de coriandre, le piment et les demi-cébettes autour. Arroser de sauce, saupoudrer de cébettes émincées et servir.
 
 ## Noms ingrédients
-cuisses de poulet. huile de tournesol. mirin. sirop d'érable. sauce soja. gingembre. ail. citron vert. jus de citron vert. coriandre. piment rouge frais. oignons verts
-
+cuisses de poulet. gingembre. ail. citrons verts. coriandre. piment rouge frais. oignons verts
 ---
 
 # Porc sauté au gingembre, cébettes et aubergines
@@ -9397,8 +9189,7 @@ L'une des recettes préférées quand on n'a pas envie de s'échiner en cuisine.
 3. Pendant que les aubergines cuisent, faire chauffer la moitié de l'huile d'arachide dans une grande sauteuse sur feu vif, puis faire sauter les cébettes, le gingembre, l'ail et le piment pendant 5 minutes, en remuant régulièrement. Débarrasser dans un cul-de-poule dès que l'ail commence à colorer. Verser le restant d'huile dans la sauteuse et faire revenir le porc haché 3 minutes en l'aidant à s'émietter avec une cuillère en bois. Déglacer avec le mirin, la sauce soja, le Keçap Manis, l'huile de sésame et le vinaigre de riz. Ajouter ½ cuillère à café de sel et laisser cuire 2 minutes avant de reverser les cébettes dans la sauteuse. Poursuivre la cuisson encore 1 minute et incorporer 10 g de coriandre et les cacahuètes. Servir avec les aubergines, des graines de sésame et le reste de coriandre parsemé sur le dessus.
 
 ## Noms ingrédients
-aubergines. huile d'arachide. gingembre. ail. piment vert. porc haché. mirin. sauce soja. huile de sésame. vinaigre de riz. coriandre. cacahuètes grillées. graines de sésame
-
+aubergines. gingembre. ail. piment vert. porc haché. coriandre. cacahuètes
 ---
 
 # Aiguillettes de poulet panées aux graines
@@ -9434,8 +9225,7 @@ Si vous vous découvrez une passion pour ce plat, doublez les quantités de chap
 6. Verser 0,5 cm d'huile dans une grande poêle que vous ferez chauffer sur feu moyen. Faire frire les aiguillettes quatre par quatre pendant 5 à 6 minutes, en les retournant une fois à mi-cuisson. En fin de cuisson, elles doivent être bien dorées sur les deux faces et cuites à cœur. Débarrasser sur une assiette tapissée de papier absorbant et répéter l'opération avec les aiguillettes restantes. Servir chaud, avec des quartiers de citron.
 
 ## Noms ingrédients
-farine. œufs. graines de sésame. graines de coriandre. curcuma. huile de tournesol. citron
-
+citrons
 ---
 
 # Mijoté de poulet au chocolat et son croustillant de maïs
@@ -9475,8 +9265,7 @@ Parfait quand l'automne arrive. Le poulet peut se préparer bien à l'avance et 
 5. Faire gratiner 35 minutes au four en surveillant la cuisson au bout de 25 minutes. Si le dessus vous semble colorer trop vite, recouvrir d'une feuille de papier d'aluminium pour les 10 dernières minutes. Sortir du four et laisser tiédir 10 minutes avant de servir.
 
 ## Noms ingrédients
-huile d'olive. oignons rouges. ail. harissa. paprika fumé. tomates. chocolat noir. coriandre. beurre. lait. œufs. blancs d'œufs
-
+oignons rouges. ail. tomates en conserve. chocolat noir. coriandre
 ---
 
 # Tartare de truite au beurre noisette et aux pistaches
@@ -9507,8 +9296,7 @@ La réussite d'un bon tartare repose exclusivement sur la qualité et la fraîch
 4. Dresser les cubes de truite dans quatre assiettes et ajouter les échalotes (sans leur liquide résiduel) sur le dessus. Parsemer de pistaches, d'estragon et arroser de beurre noisette au cumin. Ajouter une pincée de fleur de sel et servir aussitôt.
 
 ## Noms ingrédients
-échalotes. citron. jus de citron. truites. huile d'olive. beurre. graines de cumin. pistaches. estragon. fleur de sel
-
+échalotes. citrons. truite. pistaches
 # Recettes — Poisson & Desserts
 
 ---
@@ -9520,8 +9308,9 @@ La réussite d'un bon tartare repose exclusivement sur la qualité et la fraîch
 **Classification**
 Ottolenghi. Simple. Non testé. Poisson
 
-## Noms ingrédients
-maquereau. gingembre. coriandre. basilic. pistaches. citrons verts. piment vert
+**Noms ingrédients**
+maquereau, cardamome, gingembre, crème liquide, crème aigre, coriandre, basilic, pistaches, citron vert, piment vert, huile de tournesol, sel
+
 **Ingrédients**
 - 8 capsules de cardamome (ou ½ cuil. à café de cardamome en poudre)
 - 4 filets de maquereau avec la peau, désarêtés (260 g)
@@ -9553,8 +9342,9 @@ maquereau. gingembre. coriandre. basilic. pistaches. citrons verts. piment vert
 **Classification**
 Ottolenghi. Simple. Non testé. Poisson
 
-## Noms ingrédients
-saumon. pistaches. câpres. olives vertes. persil. citrons. raisins secs
+**Noms ingrédients**
+saumon, huile d'olive, céleri en branches, pignons de pin, câpres, olives vertes, safran, persil, citron, raisins secs, sel, poivre noir
+
 **Ingrédients**
 - 100 g de raisins de Corinthe
 - 4 pavés de saumon avec la peau, désarêtés (500 g)
@@ -9583,8 +9373,9 @@ saumon. pistaches. câpres. olives vertes. persil. citrons. raisins secs
 **Classification**
 Ottolenghi. Simple. Non testé. Poisson
 
-## Noms ingrédients
-truite. tomates cerise. oranges. citrons verts. ail. coriandre
+**Noms ingrédients**
+truites, tomates cerise, orange, citron vert, sirop d'érable, baies d'épine-vinette, graines de fenouil, huile d'olive, beurre, ail, coriandre, sel, poivre noir
+
 **Ingrédients**
 - 150 g de tomates cerise, coupées en quatre
 - 1 orange : 1 cuil. à café de zeste et 1 cuil. à soupe de jus
@@ -9613,8 +9404,9 @@ truite. tomates cerise. oranges. citrons verts. ail. coriandre
 **Classification**
 Ottolenghi. Simple. Non testé. Poisson
 
-## Noms ingrédients
-flétan. piment rouge frais. ail. tomates en conserve. concentré de tomate. coriandre. tahin. citrons
+**Noms ingrédients**
+flétan, huile d'olive, piment rouge frais, ail, graines de carvi, paprika fumé, tomates, concentré de tomates, coriandre, tahin, jus de citron, sel, sucre
+
 **Ingrédients**
 - 800 g de flétan (ou autre poisson blanc à chair ferme) : soit 4 darnes, soit 4 filets, sans peau ni arêtes
 - 60 ml d'huile d'olive
@@ -9648,8 +9440,9 @@ flétan. piment rouge frais. ail. tomates en conserve. concentré de tomate. cor
 **Classification**
 Ottolenghi. Simple. Non testé. Poisson
 
-## Noms ingrédients
-églefin. noix de coco. citrons verts. noix de coco déshydratée. piment rouge séché
+**Noms ingrédients**
+églefin, crème de coco, citron vert, noix de coco déshydratée, panko, flocons de piment, beurre, sel
+
 **Ingrédients**
 - 2 cuil. à soupe de jus de citron vert
 - 60 ml de crème de coco
@@ -9676,8 +9469,9 @@ Ottolenghi. Simple. Non testé. Poisson
 **Classification**
 Ottolenghi. Simple. Non testé. Poisson
 
-## Noms ingrédients
-ail. citrons verts. coriandre. yaourt grec. oignons rouges. mangue. piment rouge frais
+**Noms ingrédients**
+ail, œufs, graines de cumin, citron vert, coriandre, yaourt grec, oignons rouges, mangue, piment rouge frais, sel
+
 **Ingrédients**
 - 450 g de filets de plie, sans peau ni arêtes, détaillés en morceaux de 2 à 3 cm
 - 1 gousse d'ail, écrasée au presse-ail
@@ -9708,8 +9502,9 @@ ail. citrons verts. coriandre. yaourt grec. oignons rouges. mangue. piment rouge
 **Classification**
 Ottolenghi. Simple. Non testé. Poisson
 
-## Noms ingrédients
-panais. aneth. ciboulette. ail. citrons
+**Noms ingrédients**
+haddock, panais, huile d'olive, aneth, ciboulette, ail, citron, œufs, beurre, sel, poivre noir
+
 **Ingrédients**
 - 8 panais, pelés et coupés en cubes de 4 cm (600 g)
 - 120 ml d'huile d'olive
@@ -9736,8 +9531,9 @@ panais. aneth. ciboulette. ail. citrons
 **Classification**
 Ottolenghi. Simple. Non testé. Poisson
 
-## Noms ingrédients
-gambas. oignons rouges. tomates cerise. gingembre. citrons verts
+**Noms ingrédients**
+gambas, oignons rouges, tomates cerise, marjolaine, gingembre, sriracha, huile d'olive, citron vert, sel
+
 **Ingrédients**
 - 440 g de gambas, décortiquées (en laissant la queue) et châtrées (240 g)
 - 1 cuil. à café d'huile d'olive
@@ -9767,8 +9563,9 @@ gambas. oignons rouges. tomates cerise. gingembre. citrons verts
 **Classification**
 Ottolenghi. Simple. Non testé. Poisson
 
-## Noms ingrédients
-oignons. poivron rouge. ail. concentré de tomate. oranges
+**Noms ingrédients**
+encornets, huile d'olive, oignons, poivrons rouges, ail, graines de carvi, mélange quatre-épices, concentré de tomates, laurier, thym, orange, sel, poivre noir
+
 **Ingrédients**
 - 70 ml d'huile d'olive
 - 1 oignon, coupé en rondelles de 1 à 1,5 cm d'épaisseur (160 g)
@@ -9796,8 +9593,9 @@ oignons. poivron rouge. ail. concentré de tomate. oranges
 **Classification**
 Ottolenghi. Simple. Non testé. Poisson
 
-## Noms ingrédients
-bar. chou blanc. gingembre. piment rouge frais. coriandre
+**Noms ingrédients**
+bar, chou blanc, cébettes, gingembre, piment rouge frais, huile d'arachide, coriandre, fleur de sel, bouillon de volaille, huile de sésame, vin shaoxing, sauce soja, sucre
+
 **Ingrédients**
 - 1 bar entier d'env. 45 cm de long, écaillé, vidé et rincé (1 kg)
 - 10 cébettes, parées (160 g)
@@ -9830,8 +9628,9 @@ bar. chou blanc. gingembre. piment rouge frais. coriandre
 **Classification**
 Ottolenghi. Simple. Non testé. Poisson
 
-## Noms ingrédients
-cabillaud. ail. oignons. concentré de tomate. citrons. pois chiches. coriandre
+**Noms ingrédients**
+cabillaud, huile d'olive, cumin, ail, oignons, cardamome, harissa, concentré de tomates, citron, pois chiches, bouillon de légumes, coriandre, sel
+
 **Ingrédients**
 - 200 g de cabillaud, sans peau ni arêtes, détaillé en tronçons de 3 cm
 - 2,5 cuil. à soupe d'huile d'olive
@@ -9860,8 +9659,9 @@ cabillaud. ail. oignons. concentré de tomate. citrons. pois chiches. coriandre
 **Classification**
 Ottolenghi. Simple. Non testé. Poisson
 
-## Noms ingrédients
-crevettes. coriandre. piment rouge séché. citrons verts
+**Noms ingrédients**
+crevettes, graines de cumin, coriandre, paprika fumé, flocons de piment, œufs, citron vert, sel
+
 **Ingrédients**
 - 350 g de crevettes roses crues, décortiquées
 - 140 g de maïs en boîte, égoutté
@@ -9882,6 +9682,8 @@ crevettes. coriandre. piment rouge séché. citrons verts
 
 ---
 
+## 🍮 Desserts
+
 ---
 
 ### Verrines de fraises rôties au sumac et yaourt égoutté
@@ -9890,8 +9692,9 @@ crevettes. coriandre. piment rouge séché. citrons verts
 **Classification**
 Ottolenghi. Simple. Non testé. Dessert
 
-## Noms ingrédients
-yaourt grec. citrons. fraises. menthe
+**Noms ingrédients**
+yaourt grec, sucre glace, crème liquide, citron, fraises, sumac, menthe, vanille, sel
+
 **Ingrédients**
 - 900 g de yaourt à la grecque
 - 140 g de sucre glace
@@ -9917,8 +9720,9 @@ yaourt grec. citrons. fraises. menthe
 **Classification**
 Ottolenghi. Simple. Non testé. Dessert
 
-## Noms ingrédients
-mûres. prunes. amandes moulues
+**Noms ingrédients**
+mûres, prunes, extrait de vanille, sucre, laurier, cannelle, farine, sucre glace, poudre d'amande, blancs d'œufs, beurre, sel
+
 **Ingrédients**
 - 200 g de mûres
 - 4 prunes mûres à point, dénoyautées, coupées en quartiers de 1 cm de large (360 g)
@@ -9948,8 +9752,9 @@ mûres. prunes. amandes moulues
 **Classification**
 Ottolenghi. Simple. Non testé. Dessert
 
-## Noms ingrédients
-citrons. amandes moulues. myrtilles
+**Noms ingrédients**
+beurre, sucre, citron, extrait de vanille, œufs, farine, poudre d'amande, myrtilles, sucre glace, sel
+
 **Ingrédients**
 - 150 g de beurre doux, à température ambiante, plus une noisette pour le moule
 - 190 g de sucre semoule
@@ -9976,8 +9781,9 @@ citrons. amandes moulues. myrtilles
 **Classification**
 Ottolenghi. Simple. Non testé. Dessert
 
-## Noms ingrédients
-figues. citrons
+**Noms ingrédients**
+sucre muscovado, figues, thym, citron, œufs, farine, extrait de vanille, crème liquide, sel
+
 **Ingrédients**
 - 90 g de muscovado
 - 2 cuil. à soupe de vin rouge
@@ -10005,8 +9811,9 @@ figues. citrons
 **Classification**
 Ottolenghi. Simple. Non testé. Dessert
 
-## Noms ingrédients
-yaourt grec. fromage frais. citrons. chocolat blanc. miel
+**Noms ingrédients**
+yaourt grec, fromage frais, sucre glace, citron, chocolat blanc, beurre, thym, miel
+
 **Ingrédients**
 - 500 g de yaourt à la grecque
 - 400 g de fromage frais type Philadelphia (non allégé)
@@ -10037,8 +9844,9 @@ yaourt grec. fromage frais. citrons. chocolat blanc. miel
 **Classification**
 Ottolenghi. Simple. Non testé. Dessert
 
-## Noms ingrédients
-pêches. framboises. noisettes
+**Noms ingrédients**
+pêches, framboises, sucre, noisettes, beurre, œufs, farine, huile de tournesol, sel
+
 **Ingrédients**
 - 2 cuil. à café d'huile de tournesol
 - 2 belles pêches, dénoyautées, détaillées en lamelles de 1,5 cm de large (340 g)
@@ -10066,8 +9874,9 @@ pêches. framboises. noisettes
 **Classification**
 Ottolenghi. Simple. Non testé. Dessert
 
-## Noms ingrédients
-pomme
+**Noms ingrédients**
+beurre, sucre, œufs, extrait de vanille, farine, crème aigre, cassonade, mélange quatre-épices, pommes, sel
+
 **Ingrédients**
 - 130 g de beurre doux, à température ambiante et coupé en cubes, plus une noix pour le moule
 - 150 g de sucre semoule
@@ -10098,8 +9907,9 @@ pomme
 **Classification**
 Ottolenghi. Simple. Non testé. Dessert
 
-## Noms ingrédients
-noisettes. oranges
+**Noms ingrédients**
+farine, huile d'olive, noisettes, graines de sésame, Nutella, orange, sucre glace, sucre
+
 **Ingrédients**
 - 150 g de farine de force, plus une poignée pour le plan de travail
 - ¾ de cuil. à café de levure de boulanger sèche instantanée
@@ -10128,8 +9938,9 @@ noisettes. oranges
 **Classification**
 Ottolenghi. Simple. Non testé. Dessert
 
-## Noms ingrédients
-chocolat noir. raisins secs. pistaches
+**Noms ingrédients**
+chocolat noir, beurre, raisins secs, pistaches, rhum brun, sel
+
 **Ingrédients**
 - 100 g de chocolat noir aromatisé à la menthe, détaillé en morceaux de 3 cm
 - 200 g de chocolat noir à 70 % de cacao, détaillé en morceaux de 3 cm
@@ -10154,8 +9965,9 @@ chocolat noir. raisins secs. pistaches
 **Classification**
 Ottolenghi. Simple. Non testé. Dessert
 
-## Noms ingrédients
-amandes moulues. oranges
+**Noms ingrédients**
+poudre d'amande, sucre glace, cacao, orange, mélange quatre-épices, blancs d'œufs, extrait de vanille, sel
+
 **Ingrédients**
 - 270 g de poudre d'amande
 - 250 g de sucre cristal, plus 10 g pour saupoudrer les biscuits
@@ -10181,8 +9993,9 @@ amandes moulues. oranges
 **Classification**
 Ottolenghi. Simple. Non testé. Dessert
 
-## Noms ingrédients
-framboises. jaunes d'œuf. citrons
+**Noms ingrédients**
+framboises, sucre glace, crème liquide, œufs, jaunes d'œufs, jus de citron, sucre, vanille, sel
+
 **Ingrédients**
 - 600 g de framboises fraîches (ou surgelées et décongelées)
 - 2 cuil. à soupe de sucre glace
@@ -10257,8 +10070,7 @@ Sortez le *dutch baby* du four et faites-le glisser sur un plat de service. Déc
 
 ## Noms ingrédients
 
-bacon. basilic. cassonade. cheddar. farine. flocons de piment. huile d'olive. lait. moutarde anglaise. œufs. parmesan. thym. tomates cerises. vinaigre balsamique
-
+bacon. basilic. cheddar. piment rouge séché. parmesan. tomates cerise
 ---
 
 # Œufs et cresson
@@ -10321,8 +10133,7 @@ Pour servir, étalez l'aïoli sur un plat de service et disposez les œufs dessu
 
 ## Noms ingrédients
 
-ail. babeurre. ciboulette. citron. cresson. huile d'olive. moutarde de Dijon. œufs. piment jalapeño. pistaches. sel de mer. sirop d'érable
-
+ail. ciboulette. citrons. cresson. piment jalapeño. pistaches
 ---
 
 # Sambal aux œufs façon chakchouka
@@ -10376,8 +10187,7 @@ Faites chauffer le reste d'huile dans une petite poêle et faites revenir le res
 
 ## Noms ingrédients
 
-ail. cannelle. cardamome. coriandre. curry en poudre. graines de fenouil. gingembre. graines de moutarde noire. huile d'olive. oignon rouge. œufs. sambal oelek. sucre de palme. tamarin. tomates cerises. tomates concassées
-
+ail. coriandre. gingembre. oignons rouges. sambal oelek. tamarin. tomates cerise. tomates concassées
 ---
 
 # Frittata de poireaux, tomates et curcuma
@@ -10440,8 +10250,7 @@ Quand la poêle est chaude, ajoutez le reste d'huile, puis augmentez à feu moye
 
 ## Noms ingrédients
 
-ail. cardamome. coriandre. cumin. curcuma. farine. gingembre. huile d'olive. levure chimique. œufs. persil. piments verts. poireaux. tomates. vinaigre de cidre
-
+ail. coriandre. gingembre. persil. piment vert. poireau. tomates en conserve
 ---
 
 # Tortang talong (omelette aux aubergines)
@@ -10500,8 +10309,7 @@ Au moment de servir, arrosez les omelettes de sauce au tahin et garnissez avec l
 
 ## Noms ingrédients
 
-agneau haché. ail. aubergines. cannelle. coriandre. cumin. échalote. harissa. huile d'olive. jus de citron. menthe. œufs. oignons verts. piment de la Jamaïque. tahin. yaourt
-
+agneau haché. ail. aubergines. coriandre. échalotes. citrons. menthe. oignons verts. piment de la Jamaïque. tahin. yaourt
 ---
 
 # Œufs vapeur aux crevettes et à la ciboulette
@@ -10559,8 +10367,7 @@ Préparez la sauce en mélangeant l'huile de sésame, la sauce soja et le vinaig
 
 ## Noms ingrédients
 
-bouillon dashi. ciboulette. crevettes. gingembre. huile de sésame. huile de tournesol. œufs. riz. sauce soja. vinaigre noir de Chinkiang. vin de Shaoxing
-
+ciboulette. crevettes. gingembre
 ---
 
 # Crêpes à décliner en version salée ou sucrée
@@ -10595,7 +10402,6 @@ Faites chauffer à feu moyen une crêpière ou une poêle antiadhésive (environ
 
 ## Noms ingrédients
 
-beurre. farine. lait. œufs
 
 ---
 
@@ -10650,8 +10456,7 @@ Faites fondre le chocolat au bain-marie, versez-le dans le robot. Ajoutez le cac
 
 ## Noms ingrédients
 
-cacao. chocolat au lait. crème fraîche. graines de sésame. huile de tournesol. noisettes. sucre. sucre glace. vanille
-
+chocolat au lait. noisettes
 ---
 
 # Crêpes au curry et fromage
@@ -10699,8 +10504,7 @@ Préchauffez le four à 240 °C (chaleur tournante 220 °C).
 
 ## Noms ingrédients
 
-beurre. cheddar. chutney de mangue. curry. curcuma. farine. huile d'olive. lait. oignons verts. poulet. yaourt grec
-
+cheddar. mangue. oignons verts. poulet. yaourt grec
 ---
 
 # Crêpes au citron, mascarpone et thym
@@ -10748,8 +10552,7 @@ Arrosez de caramel au thym et citron, garnissez de noisettes hachées et de feui
 
 ## Noms ingrédients
 
-beurre. citron. crème double. lemon curd. mascarpone. noisettes. sucre. sucre glace. thym. vanille
-
+citrons. mascarpone. noisettes
 ---
 
 # Pancakes de polenta et salade de maïs aux épices
@@ -10813,8 +10616,7 @@ Servez avec 1 cuillerée à soupe bombée de crème fraîche et la salade de ma�
 
 ## Noms ingrédients
 
-beurre. cacahuètes grillées. cannelle. citron. clous de girofle. coriandre. crème fraîche. cumin. épis de maïs. farine. feuilles de curry. graines de moutarde noire. huile d'arachide. lait. levure chimique. oignons verts. piment rouge. polenta. sirop d'érable
-
+cacahuètes. citrons. coriandre. épis de maïs. feuilles de curry. oignons verts. piment rouge
 ---
 
 # Pancakes pleins de trous
@@ -10865,8 +10667,7 @@ Au moment de faire cuire les pancakes, remuez délicatement la pâte, puis laiss
 
 ## Noms ingrédients
 
-beurre. eau de fleur d'oranger. farine forte. miel. noix de pécan. semoule fine. sel de mer
-
+miel. noix. semoule
 ---
 
 # Soupe d'aubergines, tomates et poivrons rôtis
@@ -10929,8 +10730,7 @@ Répartissez la soupe dans des bols et garnissez d'amandes frites et de leur hui
 
 ## Noms ingrédients
 
-ail. amandes effilées. aubergines. bouillon de légumes. cumin. huile d'olive. oignons. paprika. persil. piment de Cayenne. poivrons rouges. safran. sel de mer. thym. tomates. vinaigre de xérès
-
+ail. amandes effilées. aubergines. oignons. persil. piment de Cayenne. poivron rouge. tomates en conserve
 ---
 
 # Mulligatawny
@@ -10998,8 +10798,7 @@ Répartissez le riz dans six bols, versez la soupe. Ajoutez le tadka et les feui
 
 ## Noms ingrédients
 
-ail. beurre. carottes. céleri. coriandre. crème de coco. cuisses de poulet. cumin. curry. farine de pois chiches. feuilles de curry. garam masala. gingembre. graines de moutarde noire. lentilles corail. oignon. piment vert. poivron vert. riz. tomates
-
+ail. carottes. céleri. coriandre. noix de coco. cuisses de poulet. feuilles de curry. gingembre. lentilles corail. oignons. piment vert. poivron vert. tomates en conserve
 ---
 
 # Soupe de pois cassés et jambon
@@ -11053,8 +10852,7 @@ Servez la soupe garnie de viande effilochée, de salsa et de graines de courge g
 
 ## Noms ingrédients
 
-ail. bouillon de volaille. carottes. céleri. coriandre (graines). cumin (graines). graines de courge. huile d'olive. jarret de porc. jus de citron vert. laurier. menthe. oignons. petits pois. pois cassés. tomates concassées
-
+ail. carottes. céleri. jarret de porc. citrons verts. menthe. oignons. petits pois. pois cassés. tomates concassées
 ---
 
 # Soupe aux boulettes de matzo
@@ -11124,8 +10922,7 @@ Retirez les morceaux de poulet du bouillon et réservez. Filtrez le bouillon, re
 
 ## Noms ingrédients
 
-ail. aneth. cardamome. carottes. céleri. coriandre. cuisses de poulet. cumin. curcuma. farine de matzo. fenugrec. huile de tournesol. laurier. oignon. œufs. panais. persil. poivre noir
-
+ail. aneth. carottes. céleri. coriandre. cuisses de poulet. oignons. panais. persil
 ---
 
 # Soupe au pain, fromage et chou vert
@@ -11174,9 +10971,7 @@ Faites griller 6 tranches de pain, puis frottez-les avec les gousses d'ail enti�
 
 ## Noms ingrédients
 
-anchois. ail. beurre. bouillon de volaille. cavolo nero. chou vert. fontina. huile d'olive. laurier. muscade. oignons. pain au levain. parmesan. persil. thym. vin blanc
-
-
+anchois. ail. chou kale. chou vert. fromage de chèvre. oignons. pain au levain. parmesan. persil
 ---
 
 # Houmous
@@ -11232,8 +11027,7 @@ Mettez le reste des pois chiches dans le bol du robot. Réservez 70 g de sauce a
 
 ## Noms ingrédients
 
-ail. cornichons. cumin. huile d'olive. jus de citron. oignons verts. piments rouges. pois chiches. tahin. vinaigre de cidre
-
+ail. citrons. oignons verts. piment rouge. pois chiches. tahin
 ---
 
 # Houmous comme dans le sud de la France
@@ -11248,9 +11042,7 @@ Ottolenghi. Comfort. Non testé. Végé
 
 ---
 
-## Ingrédients
-
-*purée de pois chiches et fenouil*
+## Ingrédients (purée de pois chiches et fenouil)
 
 ## Catégorie
 
@@ -11296,8 +11088,7 @@ Pour servir, transférez la purée dans un plat. Déposez la garniture dessus, d
 
 ## Noms ingrédients
 
-ail. basilic. fenouil. graines de fenouil. huile d'olive. jus de citron. olives. oignon. pois chiches. poivron rouge. tomates cerises. vermouth. vinaigre de vin rouge
-
+ail. basilic. fenouil. citrons. olives. oignons. pois chiches. poivron rouge. tomates cerise
 ---
 
 # Caponata au céleri et à la burrata
@@ -11347,8 +11138,7 @@ Au moment de servir, déposez la caponata dans un saladier peu profond, puis ajo
 
 ## Noms ingrédients
 
-ail. aubergines. basilic. burrata. câpres. céleri. concentré de tomates. flocons de piment. huile d'olive. miel. olives de Kalamata. oignon. origan. tomates concassées. vinaigre de vin rouge
-
+ail. aubergines. basilic. burrata. câpres. céleri. concentré de tomate. piment rouge séché. miel. olives de Kalamata. oignons. tomates concassées
 ---
 
 # Crème d'aubergine fumée façon salade César
@@ -11411,8 +11201,7 @@ Pour servir, disposez les croûtons, les poivrons, les radis et les feuilles de 
 
 ## Noms ingrédients
 
-ail. anchois. aubergines. citron. graines de sésame. huile d'olive. moutarde anglaise. oignons verts. pain au levain. parmesan. poivrons. radis. sirop d'érable. yaourt
-
+ail. anchois. aubergines. citrons. oignons verts. pain au levain. parmesan. poivron. radis. yaourt
 ---
 
 # Épinards et artichauts « à la crème »
@@ -11465,8 +11254,7 @@ Dans un bol, mélangez les morceaux de pain avec le reste de levure nutritionnel
 
 ## Noms ingrédients
 
-ail. artichauts. câpres. coriandre. épinards. huile d'olive. jus de citron. levure nutritionnelle. oignon. oignons verts. pain au levain. piments rouges. tofu soyeux
-
+ail. artichauts. câpres. coriandre. épinards. citrons. oignons. oignons verts. pain au levain. piment rouge. tofu soyeux
 ---
 
 # Ragù de champignons
@@ -11519,8 +11307,7 @@ Hors du feu, incorporez l'estragon haché. Garnissez avec les feuilles entières
 
 ## Noms ingrédients
 
-beurre. bouillon de volaille. céleri-rave. cèpes séchés. champignons. citron confit. crème double. estragon. farine. flocons de piment d'Urfa. huile d'olive. miso blanc. oignons. vinaigre de xérès
-
+céleri-rave. cèpes séchés. champignons. citron confit. piment d'Urfa. oignons
 ---
 
 # Haricots blancs aux tomates cerises rôties
@@ -11571,8 +11358,7 @@ Faites chauffer le reste d'huile dans une casserole à feu moyen. Ajoutez l'oign
 
 ## Noms ingrédients
 
-ail. fenouil (graines). haricots blancs. huile d'olive. laurier. oignon. origan. paprika fumé. thym. tomates cerises. vin blanc. yaourt grec
-
+ail. haricots blancs. oignons. tomates cerise. yaourt grec
 ---
 
 # Toasts aux haricots verts braisés
@@ -11619,8 +11405,7 @@ Répartissez le mélange feta-mascarpone sur les tranches de pain grillé. Dispo
 
 ## Noms ingrédients
 
-ail. basilic. échalotes. feta. flocons de piment chipotle. haricots d'Espagne. haricots verts. huile d'olive. jus de citron. mascarpone. origan. pain au levain. tomates cerises
-
+ail. basilic. échalotes. feta. piment chipotle. haricots d'Espagne. haricots verts. citrons. mascarpone. pain au levain. tomates cerise
 ---
 
 # Céleri-rave rôti et crème au gorgonzola
@@ -11671,8 +11456,7 @@ Avant de servir, répartissez les deux tiers de la sauce au poivron sur les quar
 
 ## Noms ingrédients
 
-ail. céleri-rave. ciboulette. citron. crème fraîche. cumin. gorgonzola. huile d'olive. mélasse de grenade. noisettes. persil. piment d'Alep. poivrons rouges. vinaigre de vin rouge
-
+ail. céleri-rave. ciboulette. citrons. gorgonzola. grenade. noisettes. persil. piment d'Alep. poivron rouge
 ---
 
 # Carottes rôties et dukkah aux feuilles de curry
@@ -11723,8 +11507,7 @@ Au moment de servir, mélangez le yaourt avec ¼ de cuillerée à café de sel, 
 
 ## Noms ingrédients
 
-amandes. cacahuètes. carottes. coriandre (graines). feuilles de curry. flocons de piment. huile végétale. jus de citron. noisettes. noix de cajou. yaourt grec
-
+amandes. cacahuètes. carottes. feuilles de curry. piment rouge séché. citrons. noisettes. noix de cajou. yaourt grec
 ---
 
 # Chou-rave braisé au beurre et chimichurri aux olives
@@ -11775,8 +11558,7 @@ Mettez la crème fraîche dans un bol, assaisonnez avec ⅛ de cuillerée à caf
 
 ## Noms ingrédients
 
-ail. beurre. câpres. chou-rave. ciboulette. citron. crème fraîche. graines de courge. huile d'olive. jus de citron. moutarde de Dijon. olives vertes. persil. piment jalapeño. sirop d'érable
-
+ail. câpres. chou-rave. ciboulette. citrons. olives vertes. persil. piment jalapeño
 ---
 
 # Choux de Bruxelles « brûlés » à l'huile d'olive et au citron
@@ -11820,8 +11602,7 @@ Pendant la cuisson des choux, mélangez dans un bol les herbes, le reste d'huile
 
 ## Noms ingrédients
 
-ail. aneth. bouillon de légumes. choux de Bruxelles. citron. citron confit. estragon. huile d'olive. oignons. persil. piment vert
-
+ail. aneth. choux de Bruxelles. citrons. citron confit. oignons. persil. piment vert
 ---
 
 # Betteraves rôties, vinaigrette à l'estragon et tarator aux noix
@@ -11878,8 +11659,7 @@ Répartissez la moitié du tarator sur un plat de service, disposez les betterav
 
 ## Noms ingrédients
 
-ail. betteraves. estragon. huile d'olive. jus de citron. menthe. moutarde de Dijon. noix. pain blanc. sucre. vinaigre de vin rouge
-
+ail. betteraves. citrons. menthe. noix. pain blanc
 ---
 
 # Panais rôtis au parmesan et au poivre
@@ -11918,8 +11698,7 @@ Arrosez les panais avec le reste d'huile, râpez le reste du parmesan dessus. Sa
 
 ## Noms ingrédients
 
-citron. huile d'olive. panais. parmesan. poivre noir. sirop d'érable
-
+citrons. panais. parmesan
 ---
 
 # Galettes de saumon et sauce rémoulade façon chermoula
@@ -11976,8 +11755,7 @@ Faites chauffer l'huile de tournesol à feu moyen-vif dans une grande poêle. Fa
 
 ## Noms ingrédients
 
-ciboulette. citron vert. cornichons à l'aneth. chermoula. huile de tournesol. mayonnaise. oignons verts. œuf. panko. patate douce. pommes de terre. saumon. yaourt grec
-
+ciboulette. citrons verts. chermoula. oignons verts. patate douce. pomme de terre. saumon. yaourt grec
 ---
 
 # Salade de courgettes confites et saumon
@@ -12034,8 +11812,7 @@ Pour servir, disposez la roquette sur un plat. Déposez les trois quarts des cou
 
 ## Noms ingrédients
 
-citron. courgettes. échalotes. huile d'olive. jus de citron. pignons de pin. roquette. saumon
-
+citrons. courgettes. échalotes. pistaches. roquette. saumon
 ---
 
 # Vermicelles de riz et poisson au curcuma, aneth et oignons verts
@@ -12102,8 +11879,7 @@ Répartissez les nouilles dans quatre bols. Ajoutez le poisson, puis les oignons
 
 ## Noms ingrédients
 
-ail. aneth. cabillaud. cacahuètes grillées. curcuma. curry. échalote. gingembre. huile d'arachide. jus de citron vert. oignons verts. piments rouges. sauce de poisson. sucre de palme. vermicelles de riz. vinaigre de riz
-
+ail. aneth. cabillaud. cacahuètes. échalotes. gingembre. citrons verts. oignons verts. piment rouge
 ---
 
 # Fenouil et cabillaud braisés aux haricots et beurre 'nduja
@@ -12159,8 +11935,7 @@ Sortez la cocotte et laissez reposer 5 min. Déposez quelques cuillerées de cr�
 
 ## Noms ingrédients
 
-ail. beurre. bouillon de volaille. cabillaud. ciboulette. citron. crème fraîche. doliques (haricots). échalotes. fenouil. huile d'olive. 'nduja. paprika fumé. piment chipotle. piment d'Urfa. vin blanc
-
+ail. cabillaud. ciboulette. citrons. haricots secs. échalotes. fenouil. nduja. piment chipotle. piment d'Urfa
 ---
 
 # Saumon rôti alla puttanesca
@@ -12220,8 +11995,7 @@ Mélangez les ingrédients de la salsa dans un bol et poivrez généreusement. V
 
 ## Noms ingrédients
 
-ail. anchois. basilic. câpres. citron confit. concentré de tomates. coriandre (graines). flocons de piment. haricots verts. huile d'olive. jus de citron. oignons verts. olives de Kalamata. persil. saumon. sirop d'érable. tomates cerises
-
+ail. anchois. basilic. câpres. citron confit. concentré de tomate. piment rouge séché. haricots verts. citrons. oignons verts. olives de Kalamata. persil. saumon. tomates cerise
 ---
 
 # Gratin de pommes de terre, fenouil et saumon fumé
@@ -12282,8 +12056,7 @@ Pendant ce temps, faites chauffer le jus de citron dans une petite casserole jus
 
 ## Noms ingrédients
 
-anchois. aneth. beurre. câpres. ciboulette. citron. crème double. fenouil. graines de fenouil. jaunes d'œuf. lait. persil. pommes de terre. saumon fumé
-
+anchois. aneth. câpres. ciboulette. citrons. fenouil. jaunes d'œuf. persil. pomme de terre. saumon fumé
 ---
 
 # Curry de crevettes et asperges au curcuma frais et au poivre
@@ -12344,8 +12117,7 @@ Versez les 14,5 cl de crème de coco dans une casserole de taille moyenne et fai
 
 ## Noms ingrédients
 
-ail. asperges. concombre. coriandre. crème de coco. crevettes. curcuma frais. échalotes. gingembre. lait de coco. piments rouges. riz. sauce de poisson. sucre de palme. vinaigre de riz
-
+ail. asperges. concombres. coriandre. noix de coco. crevettes. échalotes. gingembre. piment rouge
 ---
 
 # Curry de thon à la citronnelle et au galanga
@@ -12406,8 +12178,7 @@ Pendant ce temps, portez à ébullition de l'eau salée dans une grande casserol
 
 ## Noms ingrédients
 
-ail. citronnelle. coriandre. curcuma frais. échalotes. feuilles de combava. galanga. gingembre. huile végétale. jus de citron vert. kecap manis. lait de coco. pak choï. riz. sauce de poisson. sucre de palme. thon
-
+ail. citronnelle. coriandre. échalotes. feuilles de combava. galanga. gingembre. citrons verts. noix de coco. pak choï. thon
 ---
 
 # Poisson et riz au gingembre
@@ -12472,8 +12243,7 @@ Répartissez la julienne de gingembre et le vert des oignons sur le poisson. Jus
 
 ## Noms ingrédients
 
-ail. bar. beurre. bouillon de volaille. gingembre. huile de sésame. huile de tournesol. jus de citron vert. Maïzena. oignons verts. piments rouges. riz. sauce d'huître. sauce soja. sucre. vin de Shaoxing
-
+ail. bar. gingembre. citrons verts. oignons verts. piment rouge
 ---
 
 # Boulettes de viande au nuoc cham, concombre et menthe
@@ -12535,8 +12305,7 @@ Faites chauffer la moitié de l'huile à feu moyen-vif dans une grande poêle, f
 
 ## Noms ingrédients
 
-ail. coriandre. concombre. échalote. jus de citron vert. menthe. porc haché. riz. sauce de poisson. sucre de palme. vinaigre de riz
-
+ail. coriandre. concombres. échalotes. citrons verts. menthe. porc haché
 ---
 
 # Sando au poulet et mayonnaise à la harissa
@@ -12589,8 +12358,7 @@ Tartinez généreusement un côté de chaque tranche de pain avec la mayonnaise 
 
 ## Noms ingrédients
 
-baharat. cannelle. chou blanc. harissa. huile végétale. jus de citron vert. mayonnaise. oignons verts. pain de mie. panko. poulet. sucre. yaourt
-
+chou blanc. citrons verts. oignons verts. pain de mie. poulet. yaourt
 ---
 
 # Poulet rôti avec la marinade de tante Pauline
@@ -12640,8 +12408,7 @@ Transférez le poulet sur un plat de service et versez le jus de cuisson dans un
 
 ## Noms ingrédients
 
-ail. coriandre. gingembre. huile d'arachide. jus de citron vert. lait de coco. piment en poudre. poulet. sauce de poisson. sauce soja. sucre de palme
-
+ail. coriandre. gingembre. citrons verts. noix de coco. piment rouge séché. poulet
 ---
 
 # Le poulet aux épices de Steph
@@ -12691,8 +12458,7 @@ Préchauffez le four à 200 °C (chaleur tournante 180 °C).
 
 ## Noms ingrédients
 
-cannelle. cassonade. cuisses de poulet. huile d'olive. laurier. miel. oignon rouge. oignons verts. paprika. piment de la Jamaïque. piment en poudre. piments habanero. piments jalapeño. vinaigre de vin blanc
-
+cuisses de poulet. miel. oignons rouges. oignons verts. piment de la Jamaïque. piment rouge séché. piment rouge. piment jalapeño
 ---
 
 # Poulet mariné aux épices
@@ -12744,8 +12510,7 @@ Déposez le poulet sur une plaque de cuisson tapissée de papier sulfurisé, cô
 
 ## Noms ingrédients
 
-coriandre. cuisses de poulet. cumin. curcuma. fenouil (graines). huile d'arachide. jus de citron vert. sambal oelek. sirop d'érable
-
+coriandre. cuisses de poulet. citrons verts. sambal oelek
 ---
 
 # Poulet rôti et dukkah aux feuilles de curry
@@ -12802,8 +12567,7 @@ Enfournez pour 1h10. Éteignez le four et laissez le poulet à l'intérieur enco
 
 ## Noms ingrédients
 
-amandes. beurre. cacahuètes. citron vert. coriandre (graines). feuilles de curry. flocons de piment. huile végétale. noisettes. noix de cajou. oignons. poulet
-
+amandes. cacahuètes. citrons verts. feuilles de curry. piment rouge séché. noisettes. noix de cajou. oignons. poulet
 ---
 
 # Poulet chasseur en version été, avec une salsa aux herbes
@@ -12859,8 +12623,7 @@ Retirez la cocotte du four et ajoutez le pain grillé. Posez les cuisses de poul
 
 ## Noms ingrédients
 
-ail. ciboulette. citron. cuisses de poulet. graines de sésame. huile d'olive. menthe. olives vertes. origan. pain au levain. persil. thym. tomates. vinaigre de vin blanc
-
+ail. ciboulette. citrons. cuisses de poulet. menthe. olives vertes. pain au levain. persil. tomates en conserve
 ---
 
 # Pain de viande shawarma aux oignons caramélisés
@@ -12928,8 +12691,7 @@ Avant de servir, garnissez de feuilles de menthe et de coriandre, voire de grain
 
 ## Noms ingrédients
 
-agneau haché. boulgour. cannelle. coriandre. courgette. cumin. curcuma. graines de grenade. huile d'olive. mélasse de grenade. menthe. œufs. oignons. paprika. piment de Cayenne. piment de la Jamaïque. sucre. yaourt grec
-
+agneau haché. boulgour. coriandre. courgettes. grenade. menthe. oignons. piment de Cayenne. piment de la Jamaïque. yaourt grec
 ---
 
 # Blancs de poulet pochés à l'asiatique, chou chinois et cacahuètes au rayu
@@ -12981,8 +12743,7 @@ Effilochez les blancs de poulet tièdes en lanières et mettez-les dans un salad
 
 ## Noms ingrédients
 
-ail. basilic. blancs de poulet. cacahuètes. chou chinois. citron vert. gochugaru. graines de sésame. huile d'arachide. oignons verts. sauce soja. sucre. vin de Shaoxing
-
+ail. basilic. blancs de poulet. cacahuètes. chou chinois. citrons verts. oignons verts
 ---
 
 # Agneau braisé aux haricots blancs et au yaourt
@@ -13037,8 +12798,7 @@ Avant de servir, remuez le ragoût, puis nappez-le de yaourt. Saupoudrez de sel 
 
 ## Noms ingrédients
 
-agneau (collier). ail. anchois. bouillon de volaille. coriandre (graines). cumin (graines). haricots blancs. huile d'olive. laurier. oignons. persil. romarin. sel de mer. thym. tomates cerises. vin blanc. yaourt grec
-
+agneau. ail. anchois. haricots blancs. oignons. persil. tomates cerise. yaourt grec
 ---
 
 # Saucisses aux lentilles et crème à la moutarde
@@ -13098,9 +12858,7 @@ Ajoutez les feuilles de blettes et les saucisses dans la cocotte, puis laissez m
 
 ## Noms ingrédients
 
-ail. blettes. bouillon de volaille. céleri. concentré de tomates. crème fraîche. cumin. huile d'olive. kielbasa. laurier. lentilles du Puy. moutarde à l'ancienne. moutarde de Dijon. oignon. persil. poivron vert. thym
-
-
+ail. blettes. céleri. concentré de tomate. saucisses fumées. lentilles du Puy. oignons. persil. poivron vert
 ---
 
 # Oyakodon
@@ -13155,8 +12913,7 @@ Répartissez le riz dans des bols puis déposez le mélange de poulet, œufs et 
 
 ## Noms ingrédients
 
-ail. bouillon dashi. coriandre. cuisses de poulet. gingembre. huile de tournesol. mirin. nori. oignons. oignons verts. œufs. riz. sauce soja. shichimi togarashi. vin de Shaoxing
-
+ail. coriandre. cuisses de poulet. gingembre. oignons. oignons verts. nanami togarashi
 ---
 
 # Poitrine de porc braisée à la sauce soja, œufs et tofu
@@ -13221,8 +12978,7 @@ Retirez la cocotte du feu et laissez la viande reposer 10 min. Vous pouvez laiss
 
 ## Noms ingrédients
 
-ail. anis étoilé. cannelle. cinq-épices. concombre. coriandre. gingembre. huile végétale. laurier. menthe. mirin. oignons verts. œufs. poitrine de porc. riz. sauce soja. sirop d'érable. tofu. vinaigre de riz. vin de Shaoxing
-
+ail. concombres. coriandre. gingembre. menthe. oignons verts. poitrine de porc. tofu
 ---
 
 # Riz au lait de coco, sauce aux cacahuètes et relish au concombre
@@ -13289,8 +13045,7 @@ Démoulez le riz. Passez la relish au tamis, incorporez les feuilles de coriandr
 
 ## Noms ingrédients
 
-ail. cacahuètes. citronnelle. concombre. coriandre. gingembre. huile végétale. jus de citron vert. lait de coco. oignon. paprika. piment rouge. riz. sambal oelek. sucre. tamarin. vinaigre de riz
-
+ail. cacahuètes. citronnelle. concombres. coriandre. gingembre. citrons verts. noix de coco. oignons. piment rouge. sambal oelek. tamarin
 ---
 
 # Riz au citron et boulettes de fromage, avec un beurre au piment
@@ -13344,8 +13099,7 @@ Juste avant de servir, retirez le papier d'aluminium, puis badigeonnez le riz de
 
 ## Noms ingrédients
 
-beurre. cardamome. citron. clous de girofle. feta. flocons de piment. mozzarella. œuf. olives vertes. oignons verts. parmesan. piment d'Alep. ricotta. riz basmati. sumac
-
+citrons. feta. piment rouge séché. mozzarella. olives vertes. oignons verts. parmesan. piment d'Alep. ricotta
 ---
 
 # Pâtes au pesto, haricots grillés et pommes de terre
@@ -13389,8 +13143,7 @@ Transférez les pâtes dans un saladier de service. Garnissez avec les haricots 
 
 ## Noms ingrédients
 
-ail. basilic. citron. haricots verts. huile d'olive. parmesan. pâtes sèches. pignons de pin. pommes de terre
-
+ail. basilic. citrons. haricots verts. parmesan. pistaches. pomme de terre
 ---
 
 # Orecchiette aux oignons caramélisés, noisettes grillées et feuilles de sauge frites
@@ -13430,8 +13183,7 @@ Mettez la petite poêle (avec son huile) à chauffer à feu moyen, puis ajoutez 
 
 ## Noms ingrédients
 
-citron. huile d'olive. noisettes. oignons. pâtes sèches. sauge
-
+citrons. noisettes. oignons. sauge
 ---
 
 # Linguine au beurre miso, shiitake et épinards
@@ -13479,8 +13231,7 @@ Remettez les pâtes cuites dans la sauteuse, mélangez 30 s, puis ajoutez les é
 
 ## Noms ingrédients
 
-ail. beurre. champignons shiitake. échalote. épinards. huile d'olive. miso blanc. pâtes sèches. sauce soja. shichimi togarashi. vinaigre de Chinkiang
-
+ail. champignons shiitaké. échalotes. épinards. nanami togarashi
 ---
 
 # Rigatoni al ragù bianco
@@ -13540,8 +13291,7 @@ Faites cuire les pâtes dans une grande casserole d'eau bouillante salée jusqu'
 
 ## Noms ingrédients
 
-ail. anchois. beurre. bœuf haché. bouillon de volaille. carottes. céleri. champignons. citron. huile d'olive. oignon. parmesan. pâtes sèches. persil. porc haché. pomme de terre. romarin. sauge
-
+ail. anchois. bœuf haché. carottes. céleri. champignons. citrons. oignons. parmesan. persil. porc haché. pomme de terre. sauge
 ---
 
 # Les pâtes à la bolognaise d'Helen
@@ -13609,8 +13359,7 @@ Faites cuire les pâtes dans un grand volume d'eau bouillante salée jusqu'à ce
 
 ## Noms ingrédients
 
-ail. anis étoilé. cannelle. carotte. céleri. concombre. coriandre. doubanjiang. gingembre. graines de sésame. huile d'arachide. huile de sésame. laurier. Maïzena. miel. oignon. oignons verts. pâtes sèches. poivre du Sichuan. porc haché. sauce soja. vinaigre de riz. vin de Shaoxing
-
+ail. carottes. céleri. concombres. coriandre. gingembre. miel. oignons. oignons verts. porc haché
 ---
 
 # Boulettes de viande Stroganoff
@@ -13681,8 +13430,7 @@ Faites cuire les pâtes jusqu'à ce qu'elles soient al dente. Égouttez-les et r
 
 ## Noms ingrédients
 
-ail. aneth. beurre. bœuf haché. bouillon de bœuf. champignons. cognac. concentré de tomates. cornichons à l'aneth. crème fraîche. échalotes. graines de pavot. huile d'olive. lait. moutarde de Dijon. œuf. oignon. pain rassis. paprika fumé. pâtes sèches. sauce Worcestershire. zeste de citron
-
+ail. aneth. bœuf haché. champignons. concentré de tomate. échalotes. oignons. pain rassis. citrons
 ---
 
 # Poulet en cocotte à l'orzo et aux cèpes
@@ -13736,8 +13484,7 @@ Pressez le demi-citron restant sur le mélange orzo-poulet, saupoudrez de persil
 
 ## Noms ingrédients
 
-ail. cannelle. céleri. cèpes séchés. citron. huile d'olive. orzo. oignons. persil. piments Cascabel. poulet. thym
-
+ail. céleri. cèpes séchés. citrons. oignons. persil. piment cascabel. poulet
 ---
 
 # Congee au poulet
@@ -13802,8 +13549,7 @@ Pour servir, répartissez le congee dans des bols à soupe, puis ajoutez le poul
 
 ## Noms ingrédients
 
-ail. coriandre. cuisses de poulet. échalotes. gingembre. germes de soja. graines de sésame. huile de sésame. jus de citron vert. oignons verts. poivre blanc. piments rouges. riz. sauce de poisson
-
+ail. coriandre. cuisses de poulet. échalotes. gingembre. pousses de soja. citrons verts. oignons verts. piment rouge
 ---
 
 # Ramen express aux champignons
@@ -13856,8 +13602,7 @@ Répartissez les nouilles dans deux bols, puis émiettez les morceaux de nori de
 
 ## Noms ingrédients
 
-ail. champignons. gingembre. huile d'arachide. jus de citron vert. miel. nori. nouilles ramen. oignons verts. sauce de poisson. sauce soja. shichimi togarashi. vin de Shaoxing
-
+ail. champignons. gingembre. citrons verts. miel. oignons verts. nanami togarashi
 ---
 
 # Bread rolls
@@ -13900,9 +13645,7 @@ Transférez la pâte sur le plan de travail légèrement huilé et façonnez-la 
 
 ## Noms ingrédients
 
-beurre. crème fraîche. farine forte. levure. œufs. pomme de terre. sel de mer. sucre
-
-
+pomme de terre
 ---
 
 # Beignets de riz au fromage
@@ -13955,8 +13698,7 @@ Déposez un tiers du ghee dans une poêle et faites-le chauffer à feu moyen-vif
 
 ## Noms ingrédients
 
-ail. curcuma. feta. ghee. graines de nigelle. jus de citron vert. miel. mozzarella. oignons verts. petits pois. piments rouges. riz. sauce de poisson. yaourt grec
-
+ail. feta. citrons verts. miel. mozzarella. oignons verts. petits pois. piment rouge. yaourt grec
 ---
 
 # Falafels de haricots mungo et dip au kimchi
@@ -14006,8 +13748,7 @@ Pour la cuisson, versez 4 cm d'huile dans une sauteuse de taille moyenne et fait
 
 ## Noms ingrédients
 
-chou blanc. coriandre. haricots mungo. huile de sésame. huile de tournesol. kimchi. miel. oignons verts. sauce de poisson. sauce soja. vinaigre de riz
-
+chou blanc. coriandre. haricots mungo. kimchi. miel. oignons verts
 ---
 
 # Pakoras de chou-fleur et butternut
@@ -14065,8 +13806,7 @@ Versez 5 cm d'huile dans une grande poêle et faites-la chauffer à feu moyen-vi
 
 ## Noms ingrédients
 
-ail. butternut. cassonade. chou-fleur. coriandre. cumin. curcuma. farine. farine de pois chiches. flocons de piment. gingembre. graines de moutarde noire. huile de tournesol. jus de citron vert. levure chimique. oignon rouge. sauce de poisson. tamarin
-
+ail. butternut. chou-fleur. coriandre. piment rouge séché. gingembre. citrons verts. oignons rouges. tamarin
 ---
 
 # Cucur udang (beignets de crevettes à la malaisienne)
@@ -14126,8 +13866,7 @@ Dressez les beignets dans un plat de service, parsemez-les du reste d'oignons ve
 
 ## Noms ingrédients
 
-ail. curcuma. crevettes. farine. gingembre. huile de sésame. huile de tournesol. jus de citron vert. levure chimique. oignons verts. piment vert. piments rouges. sauce de poisson. sucre
-
+ail. crevettes. gingembre. citrons verts. oignons verts. piment vert. piment rouge
 ---
 
 # Tofu froid et vinaigrette épicée au sésame
@@ -14173,8 +13912,7 @@ Placez le tofu dans un saladier de service peu profond et découpez-le en morcea
 
 ## Noms ingrédients
 
-ail. coriandre. échalotes. graines de sésame. huile de sésame. oignons verts. piment rouge. sauce soja. shichimi togarashi. sucre. tofu. vinaigre de Chinkiang
-
+ail. coriandre. échalotes. oignons verts. piment rouge. nanami togarashi. tofu
 ---
 
 # Mapo tofu aux champignons et kimchi
@@ -14224,8 +13962,7 @@ Transférez dans un récipient, arrosez d'huile de sésame et garnissez de poivr
 
 ## Noms ingrédients
 
-ail. bouillon de légumes. champignons. doubanjiang. fécule de pomme de terre. gingembre. huile d'arachide. huile de sésame. kimchi. oignons verts. poivre du Sichuan. riz. sauce soja. tofu. vin de Shaoxing
-
+ail. champignons. gingembre. kimchi. oignons verts. tofu
 ---
 
 # Nasi goreng aux crevettes et haricots verts
@@ -14292,8 +14029,7 @@ Répartissez le riz dans des bols de service, garnissez chaque portion d'un œuf
 
 ## Noms ingrédients
 
-ail. anchois. basilic thaï. cassonade. crevettes. échalotes. feuilles de combava. haricots verts. huile d'arachide. jus de citron vert. œufs. piments rouges. riz. sauce de poisson. sauce soja. sucre
-
+ail. anchois. basilic. crevettes. échalotes. feuilles de combava. haricots verts. citrons verts. piment rouge
 ---
 
 # Dahl de lentilles corail, pommes de terre et fenouil
@@ -14355,8 +14091,7 @@ Juste avant de servir, faites fondre le reste de ghee dans une petite poêle, pu
 
 ## Noms ingrédients
 
-ail. coriandre. cumin. curcuma. fenouil. fenugrec. feuilles de curry. gingembre. ghee. graines de moutarde noire. graines de nigelle. haricots mungo. jus de citron vert. lait de coco. lentilles corail. oignon. piment vert. piments rouges séchés. pommes de terre. tomates
-
+ail. coriandre. fenouil. feuilles de curry. gingembre. haricots mungo. citrons verts. noix de coco. lentilles corail. oignons. piment vert. piment rouge séché. pomme de terre. tomates en conserve
 ---
 
 # Ragoût de butternut au tamarin et lait de coco
@@ -14402,8 +14137,7 @@ Ajoutez maintenant la courge, l'eau de tamarin et 1 cuillerée à café de sel. 
 
 ## Noms ingrédients
 
-ail. butternut. coriandre. curcuma. feuilles de curry. graines de moutarde noire. huile végétale. jaggery. lait de coco. oignons. paprika. piment jalapeño. tamarin
-
+ail. butternut. coriandre. feuilles de curry. jaggery. noix de coco. oignons. piment jalapeño. tamarin
 ---
 
 # Pommes de terre et aubergines rôties, sauce verte au tahin
@@ -14471,8 +14205,7 @@ Quand les pommes de terre sont cuites, entaillez le dessus en croix en utilisant
 
 ## Noms ingrédients
 
-ail. aubergines. chou rouge. cumin. curcuma. huile d'olive. jus de citron. menthe. persil. piment vert. pommes de terre. tahin. vinaigre de vin blanc
-
+ail. aubergines. chou rouge. citrons. menthe. persil. piment vert. pomme de terre. tahin
 ---
 
 # Börek aux épinards à partager pour le petit déjeuner
@@ -14551,8 +14284,7 @@ Servez le börek avec les sauces et les accompagnements.
 
 ## Noms ingrédients
 
-ail. aneth. beurre. épinards. feta. graines de nigelle. graines de sésame. harissa. huile d'olive. jus de citron. menthe séchée. œuf. oignon. oignons verts. pâte filo. pignons de pin. ricotta. tahin. tomates
-
+ail. aneth. épinards. feta. citrons. menthe. oignons. oignons verts. pistaches. ricotta. tahin. tomates en conserve
 ---
 
 # Aligot à l'ail et poireaux rôtis au thym
@@ -14614,8 +14346,7 @@ Préchauffez le gril du four. Disposez le mélange de poireaux et aromates sur l
 
 ## Noms ingrédients
 
-ail. beurre. cheddar. ciboulette. comté. crème épaisse. échalotes. huile d'olive. lait. moutarde de Dijon. oignons verts. panko. poireaux. pommes de terre. romarin. thym
-
+ail. cheddar. ciboulette. comté. échalotes. oignons verts. poireau. pomme de terre
 ---
 
 # Pains plats au cumin et à la coriandre
@@ -14660,7 +14391,6 @@ Sortez-le de la poêle et déposez-le sur le torchon, puis repliez un côté du 
 
 ## Noms ingrédients
 
-coriandre (graines). cumin (graines). farine. farine complète. ghee
 
 ---
 
@@ -14730,8 +14460,7 @@ Sortez les roulés et laissez-les refroidir 15 min avant de les découper en dou
 
 ## Noms ingrédients
 
-beurre. carvi (graines). ciboulette. coriandre (graines). gingembre moulu. huile d'olive. lait. macis. mayonnaise. miel. moutarde anglaise. moutarde jaune. œuf. oignons. pâte feuilletée. poivre. saucisses. sucre brun
-
+ciboulette. gingembre. miel. oignons. saucisses
 ---
 
 # Demi-lunes aux pommes de terre, fromage et chermoula
@@ -14784,8 +14513,7 @@ Répartissez les tourtes sur deux plaques recouvertes de papier sulfurisé et fa
 
 ## Noms ingrédients
 
-ail. beurre. cheddar. chermoula. coriandre. crème fraîche. cumin. graines de nigelle. huile d'olive. œuf. oignon. oignons verts. olives vertes. pâte feuilletée. pommes de terre
-
+ail. cheddar. chermoula. coriandre. oignons. oignons verts. olives vertes. pomme de terre
 ---
 
 # Tourte au bœuf, ail noir et baharat
@@ -14843,8 +14571,7 @@ Badigeonnez de blanc d'œuf battu le dessus de la tourte, ajoutez une bonne mout
 
 ## Noms ingrédients
 
-ail. ail noir. baharat. beurre. bœuf haché. bouillon de bœuf. carottes. céleri. concentré de tomates. farine. huile d'olive. laurier. navets. œuf. oignons. olives vertes. pâte brisée. pâte feuilletée. pommes de terre. tomates. vinaigre de vin rouge
-
+ail. ail noir. bœuf haché. carottes. céleri. concentré de tomate. navets. oignons. olives vertes. pomme de terre. tomates en conserve
 ---
 
 # Rugelachs aux poireaux, fromage et zaatar
@@ -14899,8 +14626,7 @@ En commençant par la base, roulez chaque triangle jusqu'à la pointe, en serran
 
 ## Noms ingrédients
 
-beurre. cheddar. cream cheese. feta. farine. fromage frais. huile d'olive. levure chimique. œuf. parmesan. poireaux. zaatar. zeste de citron
-
+cheddar. cream cheese. feta. fromage frais. parmesan. poireau. zaatar. citrons
 ---
 
 # Tarte aux tomates rôties, fromage et pâte Marmite
@@ -14968,8 +14694,7 @@ Découpez un disque de papier sulfurisé assez grand pour couvrir la garniture d
 
 ## Noms ingrédients
 
-ail. beurre. brie. carvi (graines). cream cheese. farine. huile d'olive. lait. Marmite. œuf. oignons rouges. sirop d'érable. thym. tomates. vinaigre de vin blanc
-
+ail. brie. cream cheese. Marmite. oignons rouges. tomates en conserve
 ---
 
 # Butteries au fromage et oignons verts
@@ -15020,8 +14745,7 @@ Enfournez pour 15 min, puis tournez les plaques et poursuivez la cuisson 3-5 min
 
 ## Noms ingrédients
 
-beurre. cheddar. farine forte. graines de pavot. levure. oignons verts. sucre
-
+cheddar. oignons verts
 ---
 
 # Pain aux épinards et asperges
@@ -15079,8 +14803,7 @@ Sortez le pain du four et laissez-le refroidir 10 min. Passez la lame d'un coute
 
 ## Noms ingrédients
 
-ail. asperges. beurre. cresson. crème fraîche. épinards. farine. huile d'olive. levure chimique. noix. œufs. parmesan. poireau. thym. zaatar
-
+ail. asperges. cresson. épinards. noix. parmesan. poireau. zaatar
 ---
 
 # Pain express aux carottes et vadouvan
@@ -15130,8 +14853,7 @@ Versez la pâte dans le moule préparé, lissez la surface et enfournez pour 50-
 
 ## Noms ingrédients
 
-ail. carottes. coriandre (graines). cumin. farine. gingembre. huile d'olive. levure chimique. œufs. oignons verts. sucre. vadouvan. yaourt grec
-
+ail. carottes. gingembre. oignons verts. vadouvan. yaourt grec
 ---
 
 # Frites maison à l'indonésienne
@@ -15181,8 +14903,7 @@ Transférez les frites dans un plat de service et parsemez-les de feuilles de co
 
 ## Noms ingrédients
 
-ail. citronnelle. coriandre. échalote. huile d'arachide. jus de citron vert. ketchup. mayonnaise. piment oiseau. piments rouges. pommes de terre. sucre de palme
-
+ail. citronnelle. coriandre. échalotes. citrons verts. piment oiseau. piment rouge. pomme de terre
 ---
 
 # Pommes de terre croustillantes au romarin et au zaatar
@@ -15221,8 +14942,7 @@ Versez l'huile dans une plaque à rôtir et faites-la chauffer 10 min au four. M
 
 ## Noms ingrédients
 
-farine de riz. huile de tournesol. pommes de terre. romarin. sel de mer. zaatar
-
+pomme de terre. zaatar
 ---
 
 # La salade de pommes de terre de Verena
@@ -15271,9 +14991,7 @@ Juste avant de servir, incorporez le concombre aux pommes de terre, puis transf�
 
 ## Noms ingrédients
 
-ail. bouillon de poule. ciboulette. concombre. moutarde de Dijon. oignon. pancetta. paprika. pommes de terre. vinaigre de cidre
-
-
+ail. ciboulette. concombres. oignons. pancetta. pomme de terre
 ---
 
 
@@ -15332,8 +15050,7 @@ Au moment de servir, remuez délicatement la baked custard pour la détendre : e
 
 ## Noms ingrédients
 
-cassonade. crème double. jaunes d'œufs. lait. Maïzena. noisettes. noix de coco déshydratée. sucre. vanille. vinaigre de cidre
-
+jaunes d'œuf. noisettes. noix de coco déshydratée
 ---
 
 # Mess au citron, myrtilles, pâte à kataifi et meringue
@@ -15390,8 +15107,7 @@ Juste avant de servir, préparez la crème au yaourt : mélangez les ingrédient
 
 ## Noms ingrédients
 
-beurre. cannelle. citron. crème double. meringues. myrtilles. pâte à kataifi. sucre. sucre glace. vanille. yaourt grec
-
+citrons. meringues. myrtilles. yaourt grec
 ---
 
 # Pudding de flocons d'avoine à la cannelle, banane et fraises
@@ -15440,8 +15156,7 @@ Enfournez pour 40-45 min, jusqu'à ce que le dessus soit doré et que le pudding
 
 ## Noms ingrédients
 
-amandes effilées. avoine. banane. beurre. boisson végétale. cannelle. crème double. extrait de vanille. fraises. levure chimique. œuf. sirop d'érable. sucre glace
-
+amandes effilées. bananes. fraises
 ---
 
 # Biscuits sans gluten au chocolat blanc caramélisé et noix de macadamia
@@ -15485,8 +15200,7 @@ Avec une cuillère, prélevez des petites portions de pâte de 50-55 g chacune, 
 
 ## Noms ingrédients
 
-avoine. beurre. bicarbonate de soude. chocolat blanc. farine de manioc. flocons de sel de mer. jaunes d'œufs. noix de macadamia. pâte de vanille. sucre. sucre brun
-
+chocolat blanc. jaunes d'œuf. noix de cajou
 ---
 
 # Chocolate ripple cake
@@ -15557,8 +15271,7 @@ Environ 15 min avant de servir, mélangez les fraises dans un bol avec le sucre,
 
 ## Noms ingrédients
 
-beurre. cacao. cannelle. crème double. crème fraîche. extrait de vanille. farine. fraises. golden syrup. Grand Marnier. huile végétale. levure chimique. lait. œuf. orange. sucre. sucre glace
-
+fraises. oranges
 ---
 
 # Mousse au chocolat et caramel à l'orange
@@ -15610,8 +15323,7 @@ Environ 15 min avant de servir, sortez la mousse du réfrigérateur. Garnissez-l
 
 ## Noms ingrédients
 
-chocolat noir. crème aigre. crème liquide. flocons de sel de mer. jaunes d'œufs. noisettes. orange. sucre. vanille
-
+chocolat noir. jaunes d'œuf. noisettes. oranges
 ---
 
 # Gâteau aux pommes, mûres et gingembre
@@ -15671,8 +15383,7 @@ Enfournez pour 45-50 min. Pour vérifier que le gâteau est cuit, piquez le cent
 
 ## Noms ingrédients
 
-amandes effilées. beurre. cannelle. citron. crème fraîche. extrait de vanille. farine. gingembre. levure chimique. mûres. œufs. pommes. sucre
-
+amandes effilées. citrons. gingembre. mûres. pomme
 ---
 
 # Gâteau hollandais aux pommes
@@ -15744,8 +15455,7 @@ Préparez la garniture en mélangeant tous les ingrédients dans un récipient. 
 
 ## Noms ingrédients
 
-amandes. beurre. cannelle. cassonade. chapelure panko. citron. crème fouettée. farine. jaunes d'œufs. mahleb. mélasse noire. muscade. œuf. pommes. raisins secs. rhum brun. sucre. vanille
-
+amandes. citrons. jaunes d'œuf. pomme. raisins secs
 ---
 
 # Le gâteau marbré-souvenir d'enfance de Verena
@@ -15808,8 +15518,7 @@ Pour le glaçage, placez le chocolat et le sel dans un bol résistant à la chal
 
 ## Noms ingrédients
 
-advocaat. beurre. cacao. chocolat au lait. chocolat noir. crème double. farine. jaunes d'œufs. kéfir. levure chimique. œufs. sucre. vanille
-
+chocolat au lait. chocolat noir. jaunes d'œuf. kéfir
 ---
 
 # Cheesecake sans pâte et compote de prunes
@@ -15868,8 +15577,7 @@ Si vous l'accompagnez de compote de prunes, mélangez tous les ingrédients dans
 
 ## Noms ingrédients
 
-anis étoilé. beurre. cassonade. citron. crème double. extrait de vanille. jaunes d'œufs. levure chimique. œufs. orange. prunes. semoule fine. sucre. yaourt grec
-
+citrons. jaunes d'œuf. oranges. prunes. semoule. yaourt grec
 ---
 
 # Gâteau texan végan
@@ -15931,8 +15639,7 @@ Quand le gâteau est cuit, sortez-le du four et versez le glaçage dessus, en l'
 
 ## Noms ingrédients
 
-boisson végétale. cacao. chocolat noir. farine. huile de coco. huile végétale. levure chimique. sel de mer. sirop d'érable. sucre. sucre brun. sucre glace. vinaigre de cidre
-
+chocolat noir
 ---
 
 # Kaiserschmarrn
@@ -15992,8 +15699,7 @@ Sortez le « pancake » du four, puis utilisez deux cuillères pour le déchirer
 
 ## Noms ingrédients
 
-anis étoilé. beurre. cannelle. cognac. crème fraîche. farine. œufs. raisins secs. rhum. sucre. sucre glace. vanille
-
+raisins secs
 ---
 
 # Cookies au chocolat façon brownies, fourrés d'une crème au tahin et halva
@@ -16056,8 +15762,7 @@ Quand les biscuits sont froids, étalez un peu de crème sur leur face plate. Aj
 
 ## Noms ingrédients
 
-beurre. cacao. chocolat au lait. chocolat noir. crème double. extrait de vanille. farine. graines de sésame. halva. lait malté. levure chimique. mascarpone. œufs. sel de mer. sucre. sucre brun. sucre glace. tahin
-
+chocolat au lait. chocolat noir. halva. mascarpone. tahin
 ---
 
 # Pudding malté aux figues
@@ -16122,9 +15827,7 @@ Laissez reposer 5 min avant d'étaler un peu de crème fraîche à la cuillère.
 
 ## Noms ingrédients
 
-amandes effilées. amandes moulues. beurre. cacao. chocolat noir. crème double. crème fraîche. farine. figues sèches. lait. lait malté. levure chimique. œuf. sirop d'érable. sucre brun
-
-
+amandes effilées. amandes moulues. chocolat noir. figues sèches
 ---
 # Pêches et haricots d'Espagne grillés, par Calvin
 
@@ -16164,8 +15867,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-amandes. fromage de chèvre. haricots d'Espagne. huile d'olive. jus de citron. miel. menthe. pêches. sel de maldon
-
+amandes. fromage de chèvre. haricots d'Espagne. citrons. miel. menthe. pêches
 ---
 
 # Quartiers de laitue iceberg à la crème d'aubergine fumée
@@ -16223,8 +15925,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-amandes. aubergines. avocat. ciboulette. graines de courge. huile d'olive. jus de citron. laitue iceberg. moutarde de dijon. pain au levain. parmesan. piment d'urfa. radis. yaourt grec
-
+amandes. aubergines. avocats. ciboulette. citrons. laitue iceberg. pain au levain. parmesan. piment d'Urfa. radis. yaourt grec
 ---
 
 # Haricots de Lima à l'huile de cascabel fumée
@@ -16271,8 +15972,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. citron. citron vert. graines de coriandre. graines de cumin. haricots de lima. huile d'olive. piments cascabel. piments jalapeño. sel de maldon
-
+ail. citrons. citrons verts. haricots de Lima. piment cascabel. piment jalapeño
 ---
 
 # Soupe aux herbes et aux aubergines grillées
@@ -16325,8 +16025,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. aneth. aubergines. bouillon de légumes. cannelle. coriandre. cumin. curcuma. épinards. graines de moutarde. huile d'olive. jus de citron. oignons. oignons verts. persil. piment rouge
-
+ail. aneth. aubergines. coriandre. épinards. citrons. oignons. oignons verts. persil. piment rouge
 ---
 
 # Chou hispi et nam phrik
@@ -16373,8 +16072,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. cassonade. chou pointu. citron vert. coriandre. galanga. huile de tournesol. jus de citron vert. piment d'alep. pâte de tamarin. sauce de poisson. tomates cerises
-
+ail. chou pointu. citrons verts. coriandre. galanga. piment d'Alep. tamarin. tomates cerise
 ---
 
 # Aubergines à la vapeur et salsa au piment grillé
@@ -16427,8 +16125,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. amandes. aubergines. coriandre. gingembre. huile d'olive. oignons verts. piments rouges. sel de maldon. tomates cerises. vinaigre de xérès
-
+ail. amandes. aubergines. coriandre. gingembre. oignons verts. piment rouge. tomates cerise
 ---
 
 # Haricots verts grillés, puis mijotés
@@ -16477,8 +16174,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. aneth. bouillon de légumes. citron. citron confit. estragon. haricots d'Espagne. haricots verts. huile d'olive. oignons. persil. piment vert
-
+ail. aneth. citrons. citron confit. haricots d'Espagne. haricots verts. oignons. persil. piment vert
 ---
 
 # Betterave Hasselback et beurre de feuilles de combava
@@ -16545,11 +16241,47 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. betteraves. beurre. citron vert. coriandre. crème double. feuilles de combava. gingembre. huile d'olive. piment vert. yaourt grec
+ail. betteraves. citrons verts. coriandre. feuilles de combava. gingembre. piment vert. yaourt grec
+---
+
+# Céleri-rave entier rôti de trois façons
+
+## Commentaire
+
+Nous avons déjà exploré par le passé ce mode de cuisson qui consiste à faire rôtir lentement le céleri-rave entier, avec uniquement de l'huile et du sel, pour le servir avec du zeste de citron ou une cuillerée de crème fraîche. Mais le procédé, qui consiste à transformer les amidons en sucres pour former un merveilleux caramel au goût de céleri, est exploité pour réaliser trois recettes différentes centrées sur le céleri. Si vous n'obtenez pas beaucoup de caramel, il suffit de badigeonner le céleri-rave d'huile et d'un peu de sirop d'érable ou de miel après l'avoir découpé.
+
+Le céleri-rave rôti est meilleur quand il est dégusté le jour même, mais vous pouvez le faire préparer la veille si vous voulez gagner du temps.
+
+## Catégorie
+
+Ottolenghi. Flavour. Non testé. Végé
 
 ---
 
-# Céleri-rave rôti et mariné avec une vinaigrette au piment doux
+## Ingrédients
+
+*Pour les trois recettes suivantes*
+
+- 1 gros céleri-rave, non pelé, mais nettoyé et sans les petites racines (900 g)
+- 6 cl d'huile d'olive
+- Sel de Maldon
+
+---
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 170 °C (th. 5-6) en mode chaleur tournante.
+
+2. Piquez le céleri-rave à la fourchette en 40 points différents et placez-le sur une plaque tapissée de papier sulfurisé. Mélangez l'huile et 1 ½ cuil. à café de sel de Maldon, puis frottez généreusement le céleri-rave avec cette préparation. Laissez rôtir au moins 2 h 15, voire 2 h 45 selon la taille de votre céleri-rave, en l'arrosant toutes les 20 min environ, jusqu'à ce qu'il soit bien doré, tout à fait tendre et qu'un caramel parfumé s'en écoule.
+
+3. Laissez reposer 15 min, puis découpez-le en quartiers ou en steaks (en fonction de la recette) et badigeonnez chaque face avec l'huile et le caramel laissés sur la plaque.
+
+## Noms ingrédients
+
+céleri-rave
+---
+
+# 1. Céleri-rave rôti et mariné avec une vinaigrette au piment doux
 
 ## Commentaire
 
@@ -16610,10 +16342,9 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. anis étoilé. basilic. céleri-rave. ciboulette. citron vert. graines de sésame. huile de tournesol. oignons verts. piments rouges. sauce soja. sirop d'érable. vinaigre de riz
-
+ail. basilic. céleri-rave. ciboulette. citrons verts. oignons verts. piment rouge
 ---
-# « Tacos » de chou au céleri-rave et sauce barbecue aux dattes
+# 2. « Tacos » de chou au céleri-rave et sauce barbecue aux dattes
 
 ## Commentaire
 
@@ -16673,11 +16404,10 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. ail noir. céleri-rave. chou pointu. ciboulette. citron vert. cumin. dattes. échalotes. fromage de chèvre. graines de coriandre. huile d'olive. paprika fumé. piments rouges. vinaigre balsamique
-
+ail. ail noir. céleri-rave. chou pointu. ciboulette. citrons verts. dattes. échalotes. fromage de chèvre. piment rouge
 ---
 
-# Steaks de céleri-rave et sauce café de Paris
+# 3. Steaks de céleri-rave et sauce café de Paris
 
 ## Commentaire
 
@@ -16729,8 +16459,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-anchois. beurre. câpres. céleri-rave. ciboulette. crème liquide. curry. échalotes. estragon. jus de citron. moutarde. persil. poivre de cayenne. thym
-
+anchois. câpres. céleri-rave. ciboulette. échalotes. citrons. persil. piment de Cayenne
 ---
 
 # Banane plantain aux épices et salade de noix de coco, pommes et gingembre
@@ -16786,8 +16515,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-bananes plantains. beurre. cannelle. cassonade. citron. coriandre. cumin. gingembre. huile d'olive. menthe. noix de coco. noix de muscade. piment vert. poivre de cayenne. pomme
-
+bananes plantains. citrons. coriandre. gingembre. menthe. noix de coco. piment vert. piment de Cayenne. pomme
 ---
 
 # Steaks de rutabaga en croûte de curry
@@ -16850,8 +16578,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. citron vert. coriandre. crème fraîche. curcuma. échalotes. fenugrec. huile d'olive. jus de citron vert. menthe. pamplemousses. piments rouges. poivre de cayenne. rutabaga. sucre
-
+ail. citrons verts. coriandre. échalotes. menthe. pamplemousse. piment rouge. piment de Cayenne. rutabaga
 ---
 
 # Purée de carottes au curry et au beurre brun
@@ -16903,8 +16630,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-beurre. cannelle. carottes. curry. gingembre. graines de cumin. graines de fenouil. graines de nigelle. huile d'olive. jus de citron vert. menthe. oignons verts. piments rouges. sucre. vinaigre de vin blanc
-
+carottes. gingembre. citrons verts. menthe. oignons verts. piment rouge
 ---
 
 # Ragoût d'orge, tomate et cresson
@@ -16961,8 +16687,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-anchois. ail. choux-raves. citron. concentré de tomates. cresson. crème double. échalotes. graines de cumin. huile d'olive. orge perlé. piment rouge. tomates cerises. vin blanc
-
+anchois. ail. chou-rave. citrons. concentré de tomate. cresson. échalotes. piment rouge. tomates cerise
 ---
 
 # Gratin de pommes de terre au citron vert et noix de coco
@@ -17014,8 +16739,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. bouillon de légumes. citron vert. crème de coco. échalotes. gingembre. huile d'olive. oignons verts. piments rouges. pommes de terre
-
+ail. citrons verts. noix de coco. échalotes. gingembre. oignons verts. piment rouge. pomme de terre
 ---
 
 # Bkaïla, ragoût de pommes de terre et haricots de Lima
@@ -17067,8 +16791,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. bouillon de légumes. cannelle. citron. coriandre. cumin. épinards. haricots de lima. huile d'olive. oignons. persil. piments verts. pommes de terre. sucre
-
+ail. citrons. coriandre. épinards. haricots de Lima. oignons. persil. piment vert. pomme de terre
 ---
 
 # Purée de haricots blancs et aïoli
@@ -17119,8 +16842,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. anchois. aneth. haricots cannellini. huile d'olive. jus de citron. moutarde de dijon. oignons. piment d'alep. piment vert. romarin. thym
-
+ail. anchois. aneth. haricots cannellini. citrons. oignons. piment d'Alep. piment vert
 ---
 
 # Pois chiches cuits — recette de base
@@ -17151,8 +16873,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-bicarbonate de soude. pois chiches
-
+pois chiches
 ---
 
 # Houmous au citron, ail frit et piment
@@ -17205,8 +16926,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. cannelle. citron. coriandre. gingembre. huile d'olive. piments rouges. pois chiches. sel de maldon. tahini
-
+ail. citrons. coriandre. gingembre. piment rouge. pois chiches. tahin
 ---
 
 # Salade de melon et mozzarella di buffala, kasha et feuilles de curry
@@ -17250,8 +16970,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-citron. échalotes. feuilles de curry. graines de moutarde. huile d'olive. kasha. melon. mozzarella. pastèque. sel de maldon
-
+citrons. échalotes. feuilles de curry. kasha. melon. mozzarella. pastèque
 ---
 
 # Soupe d'avocat froide et huile croquante à l'ail
@@ -17299,8 +17018,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. aneth. avocat. citron. concombre. crème aigre. graines de coriandre. graines de cumin. huile d'olive. piment vert. petits pois
-
+ail. aneth. avocats. citrons. concombres. piment vert. petits pois
 ---
 
 # Pappa al pomodoro au citron vert et graines de moutarde
@@ -17350,8 +17068,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. basilic. citron vert. feuilles de curry. graines de moutarde. huile d'olive. laurier. pain au levain. piments. sucre. tomates
-
+ail. basilic. citrons verts. feuilles de curry. pain au levain. piment rouge. tomates en conserve
 ---
 
 # Haricots noirs à la noix de coco, piment et citron vert
@@ -17401,8 +17118,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. citron vert. échalotes. feuilles de combava. graines de moutarde. haricots noirs. huile d'olive. noix de coco. piment ancho. piments rouges
-
+ail. citrons verts. échalotes. feuilles de combava. haricots noirs. noix de coco. piment ancho. piment rouge
 ---
 
 # Frites au four et mayonnaise aux feuilles de curry
@@ -17452,8 +17168,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. cardamome. citron vert. feuilles de curry. huile de tournesol. jaune d'œuf. pommes de terre. sel de maldon
-
+ail. citrons verts. feuilles de curry. jaunes d'œuf. pomme de terre
 ---
 
 # Pancakes de pois chiches et yaourt à la mangue
@@ -17516,8 +17231,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. citron vert. cumin. farine de pois chiches. fécule de maïs. feuilles de curry. garam masala. gingembre. huile d'olive. huile de tournesol. levure chimique. mangue. oignons verts. pickles de mangue. piment vert. vinaigre de cidre. yaourt grec
-
+ail. citrons verts. feuilles de curry. gingembre. mangue. oignons verts. pickles de mangue. piment vert. yaourt grec
 ---
 
 # Choux de Bruxelles à l'aigre-douce, châtaignes et raisins
@@ -17570,8 +17284,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. châtaignes. choux de Bruxelles. échalotes. huile d'olive. laurier. persil. piments verts. raisins. sauce soja. sirop d'érable. sucre. vinaigre de riz. vin shaoxing
-
+ail. châtaignes. choux de Bruxelles. échalotes. persil. piment vert. raisin
 ---
 
 # Gnocchis de rutabaga au beurre de miso
@@ -17627,8 +17340,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-beurre. bouillon de légumes. citron vert. épinards. farine. gingembre. graines de sésame. huile d'olive. jaune d'œuf. miso blanc. oignons verts. pommes de terre. rutabaga
-
+citrons verts. épinards. gingembre. jaunes d'œuf. oignons verts. pomme de terre. rutabaga
 ---
 
 # Pommes de terre et œufs braisés au gochujang
@@ -17681,8 +17393,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. chou-rave. ciboulette. citron vert. gochujang. graines de sésame. huile d'olive. miso blanc. œufs. pommes de terre
-
+ail. chou-rave. ciboulette. citrons verts. pomme de terre
 ---
 
 # Le ragù ultime cuit sur une plaque
@@ -17738,8 +17449,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. bouillon de légumes. carottes. cèpes séchés. concentré de tomates. crème de coco. graines de cumin. harissa. huile d'olive. lentilles. miso blanc. oignons. orge perlé. pleurotes. sauce soja. tomates. vin rouge
-
+ail. carottes. cèpes séchés. concentré de tomate. noix de coco. lentilles. oignons. pleurotes. tomates en conserve
 ---
 
 # Pancakes aux asperges et au gochujang
@@ -17795,8 +17505,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. asperges. coriandre. farine complète. farine de riz. gochujang. graines de sésame. huile de tournesol. miel. oignons verts. œuf. piment rouge. sauce soja. vinaigre de riz
-
+ail. asperges. coriandre. miel. oignons verts. piment rouge
 ---
 
 # Cacio e pepe au zaatar
@@ -17839,8 +17548,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-beurre. bucatini. huile d'olive. marjolaine. parmesan. pecorino. poivre noir. zaatar
-
+parmesan. pecorino. zaatar
 ---
 
 # Légumes de printemps au bouillon de parmesan et salsa au citron grillé
@@ -17901,8 +17609,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. basilic. citron. huile d'olive. jus de citron. olives vertes. oignons. parmesan. persil. petits pois. pois gourmands. pois mange-tout
-
+ail. basilic. citrons. olives vertes. oignons. parmesan. persil. petits pois. pois gourmands. pois mange-tout
 ---
 
 # Figues grillées et vinaigrette au vin de Shaoxing
@@ -17948,8 +17655,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-citron. figues. huile d'olive. piments rouges. ricotta. roquette. sauce soja. sirop d'érable. vinaigre balsamique. vin shaoxing
-
+citrons. figues. piment rouge. ricotta. roquette
 ---
 
 # Salade de concombre inspirée par Xi'an Impression
@@ -17998,8 +17704,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. concombre. graines de sésame. huile de tournesol. jus de citron vert. mirin. oignons verts. sauce soja. sel de maldon. tahini. vinaigre de riz
-
+ail. concombres. citrons verts. oignons verts. tahin
 ---
 
 # Patates douces à la sauce tomate, citron vert et cardamome
@@ -18055,8 +17760,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. aneth. cardamome. citron vert. concentré de tomates. cumin. échalotes. huile d'olive. patates douces. piments verts. sirop d'érable. sucre. tomates
-
+ail. aneth. citrons verts. concentré de tomate. échalotes. patate douce. piment vert. tomates en conserve
 ---
 
 # Galette de butternut, orange et sauge
@@ -18119,8 +17823,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. beurre. carottes. courge butternut. échalotes. farine. graines de cumin. huile d'olive. mascarpone. œuf. orange. polenta. sauge. sirop d'érable
-
+ail. carottes. courge butternut. échalotes. mascarpone. oranges. sauge
 ---
 
 # Caponata fusion au tofu soyeux
@@ -18176,9 +17879,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-aubergines. céleri. gingembre. graines de sésame. huile de tournesol. oignons verts. pignons. piments rouges. raisins secs. sauce soja. sirop d'érable. tomates cerises. tofu. vinaigre de riz. vin shaoxing
-
-
+aubergines. céleri. gingembre. oignons verts. pistaches. piment rouge. raisins secs. tomates cerise. tofu
 ---
 
 # Purée de courge, par Esme
@@ -18223,8 +17924,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. cannelle. citron vert. courge butternut. cumin. huile d'olive. miso blanc. oignons verts. piments jalapeño. sirop d'érable
-
+ail. citrons verts. courge butternut. oignons verts. piment jalapeño
 ---
 
 # Couscous perlé et courge, sauce tomate à l'anis étoilé
@@ -18278,8 +17978,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. anis étoilé. cannelle. concentré de tomates. coriandre. couscous perlé. courge. épinards. huile d'olive. oignons. piment. sucre. tomates
-
+ail. concentré de tomate. coriandre. couscous perlé. courge. épinards. oignons. piment. tomates en conserve
 ---
 
 # Orecchiette puttanesca façon one-pot
@@ -18327,8 +18026,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. bouillon de légumes. câpres. citron. concentré de tomates. cumin. graines de carvi. huile d'olive. olives vertes. orecchiette. paprika fumé. persil. pois chiches. sucre. tomates cerises
-
+ail. câpres. citrons. concentré de tomate. olives vertes. persil. pois chiches. tomates cerise
 ---
 
 # Poivrons grillés, polenta de maïs et jaunes d'œufs confits en sauce soja
@@ -18385,8 +18083,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. basilic. beurre. citron. huile d'olive. maïs. œufs. parmesan. poivrons. polenta. sauce soja. sirop d'érable. thym. vinaigre de cidre. yaourt grec
-
+ail. basilic. citrons. maïs. parmesan. poivron. yaourt grec
 ---
 
 # Omelettes fines au lait de coco et curcuma
@@ -18454,8 +18151,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. citron vert. coriandre. curcuma. échalotes. germes de haricots. gingembre. huile de tournesol. jus de pamplemousse. lait de coco. menthe. mirin. oignons verts. œufs. piments. radis. vinaigre de riz
-
+ail. citrons verts. coriandre. échalotes. pousses de soja. gingembre. pamplemousse. noix de coco. menthe. oignons verts. piment rouge. radis
 ---
 
 # Schnitzels de poivrons rouges
@@ -18517,8 +18213,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. chapelure panko. citron vert. farine. feuilles de combava. graines de sésame. huile de tournesol. mayonnaise. nori. œufs. piments rouges. poivrons rouges. sauce worcestershire. sirop d'érable. tomates cerises
-
+ail. citrons verts. feuilles de combava. piment rouge. poivron rouge. tomates cerise
 ---
 
 # Pâtes mafalda et butternut rôtie, sauce chaude au yaourt
@@ -18576,8 +18271,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. courge butternut. cumin. fécule de maïs. huile d'olive. jaunes d'œufs. oignons. pâtes mafalda. persil. piments rouges. tomates. vinaigre de cidre. yaourt grec
-
+ail. courge butternut. jaunes d'œuf. oignons. persil. piment rouge. tomates en conserve. yaourt grec
 ---
 
 # Aubergines farcies au curry et dhal au lait de coco
@@ -18641,8 +18335,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-aubergines. citron vert. coriandre. cumin. curcuma. curry. échalotes. épinards. feuilles de curry. gingembre. graines de moutarde. huile d'olive. lait de coco. lentilles rouges. paneer. pickles de mangue. piments rouges
-
+aubergines. citrons verts. coriandre. échalotes. épinards. feuilles de curry. gingembre. noix de coco. lentilles rouges. paneer. pickles de mangue. piment rouge
 ---
 
 # Boulettes d'aubergine alla parmigiana
@@ -18702,8 +18395,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. aubergines. basilic. chapelure. concentré de tomates. farine. flocons de piment. huile d'olive. œufs. olives de kalamata. origan. paprika. parmesan. persil. ricotta. sucre. tomates
-
+ail. aubergines. basilic. concentré de tomate. piment rouge séché. olives de Kalamata. parmesan. persil. ricotta. tomates en conserve
 ---
 
 # Tamales au fromage avec plein de garnitures (ou un peu)
@@ -18799,9 +18491,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. avocat. beurre. cheddar. citron vert. concentré de tomates. coriandre. crème double. cumin. farine de maïs. huile d'olive. huile de tournesol. maïs. masa harina. mozzarella. œuf. oignons. piments. sucre. tomates
-
-
+ail. avocats. cheddar. citrons verts. concentré de tomate. coriandre. maïs. mozzarella. oignons. piment rouge. tomates en conserve
 ---
 
 # Polenta au maïs frais et œufs braisés
@@ -18854,8 +18544,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. aneth. beurre. bouillon de légumes. coriandre. épinards. feta. flocons de piment. huile d'olive. lait. maïs. œufs. oignons verts. parmesan. persil. polenta
-
+ail. aneth. coriandre. épinards. feta. piment rouge séché. maïs. oignons verts. parmesan. persil
 ---
 
 # Salade de tomates et yaourt au citron vert et à la cardamome
@@ -18896,8 +18585,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. cardamome. citron vert. échalotes. fromage de chèvre. huile d'olive. menthe. piment vert. tomates cerises. yaourt grec
-
+ail. citrons verts. échalotes. fromage de chèvre. menthe. piment vert. tomates cerise. yaourt grec
 ---
 
 # Beignets de riz au kimchi et au gruyère
@@ -18950,8 +18638,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. citron. coriandre. farine. graines de sésame. gruyère. haricots verts. huile d'olive. huile de tournesol. kimchi. lait. oignons. œufs. riz. sel de maldon
-
+ail. citrons. coriandre. gruyère. haricots verts. kimchi. oignons
 ---
 
 # Salade d'asperges au tamarin et au citron vert
@@ -19007,8 +18694,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-anchois. ail. asperges. cardamome. citron noir séché. citron vert. huile d'olive. jus de citron vert. menthe. miel. moutarde de dijon. persil. piments verts. pistaches. pâte de tamarin. vinaigre de vin blanc
-
+anchois. ail. asperges. citron noir séché. citrons verts. menthe. miel. persil. piment vert. pistaches. tamarin
 ---
 
 # Tofu à la cardamome et choy sum au citron vert
@@ -19056,8 +18742,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. cardamome. choy sum. citron vert. farine. fécule de maïs. huile de tournesol. piments rouges. sauce soja. sauce sriracha. tofu
-
+ail. pak choï. citrons verts. piment rouge. tofu
 ---
 
 # Verdure braisée au yaourt
@@ -19106,8 +18791,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. aneth. cannelle. cavolo nero. citron noir séché. coriandre. huile d'olive. menthe séchée. oignons. oignons verts. persil. yaourt grec
-
+ail. aneth. chou kale. citron noir séché. coriandre. menthe. oignons. oignons verts. persil. yaourt grec
 ---
 
 # Tofu au citron noir séché, par Noor
@@ -19158,8 +18842,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. citron noir séché. concentré de tomates. cumin. épinards. fécule de maïs. huile d'olive. huile de tournesol. oignons. oignons rouges. persil. sucre. tofu. vinaigre de cidre
-
+ail. citron noir séché. concentré de tomate. épinards. oignons. oignons rouges. persil. tofu
 ---
 
 # Boulettes de riz gluant et rasam au tamarin
@@ -19224,8 +18907,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. citron. coriandre. cumin. feuilles de curry. gingembre. graines de moutarde. huile de tournesol. oignons. oignons verts. piments. pulpe de tamarin. riz gluant. sucre. tomates. curcuma
-
+ail. citrons. coriandre. feuilles de curry. gingembre. oignons. oignons verts. piment rouge. tamarin. tomates en conserve
 ---
 
 # Bette arc-en-ciel aux tomates et olives vertes
@@ -19271,8 +18953,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. basilic. bettes. citron. huile d'olive. olives vertes. oignons. origan. tomates
-
+ail. basilic. bettes. citrons. olives vertes. oignons. tomates en conserve
 ---
 
 # Tempura de tiges, feuilles et herbes
@@ -19328,9 +19009,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. aneth. citron vert. farine. fécule de maïs. feuilles de betteraves. feuilles de combava. graines de sésame. huile de tournesol. jus de mandarine. menthe. piment rouge. poivre du sichuan. sel de maldon. sirop d'érable. tiges de betteraves
-
-
+ail. aneth. citrons verts. feuilles de betteraves. feuilles de combava. mandarine. menthe. piment rouge. betteraves
 ---
 
 # Brocoli en deux façons, avec piment et cumin
@@ -19377,8 +19056,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-basilic. brocoli. graines de cumin. huile de tournesol. piment rouge. sauce soja. sucre. vinaigre de cidre
-
+basilic. brocoli. piment rouge
 ---
 
 # Salade de carottes rôties, sauce chamoy
@@ -19434,8 +19112,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-abricots secs. ail. amandes. aneth. carottes. citron vert. huile d'olive. menthe. piment d'alep. sirop d'érable. sumac
-
+abricots secs. ail. amandes. aneth. carottes. citrons verts. menthe. piment d'Alep
 ---
 
 # Salade de concombre, zaatar et citron haché
@@ -19475,8 +19152,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-aneth. basilic. citron. concombre. échalotes. huile d'olive. mâche. menthe. piment vert. zaatar
-
+aneth. basilic. citrons. concombres. échalotes. mâche. menthe. piment vert. zaatar
 ---
 
 # Purée de patate douce au yaourt et citron vert
@@ -19518,8 +19194,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. citron vert. coriandre. graines de sésame. huile d'olive. mélasse de grenade. patates douces. piment rouge. yaourt grec
-
+ail. citrons verts. coriandre. grenade. patate douce. piment rouge. yaourt grec
 ---
 
 # Pommes de terre au chaat masala, yaourt et tamarin
@@ -19580,8 +19255,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-chaat masala. citron vert. coriandre. curcuma. graines de coriandre. graines de nigelle. huile d'olive. oignons rouges. pâte de tamarin. piment vert. pommes de terre nouvelles. sucre. yaourt grec
-
+citrons verts. coriandre. oignons rouges. tamarin. piment vert. pomme de terre. yaourt grec
 ---
 
 # Chou à la crème de gingembre et huile qui picote
@@ -19639,8 +19313,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. anis étoilé. chou pointu. concentré de tomates. cream cheese. échalotes. flocons de piment. fromage à la crème. gingembre. graines de sésame. huile de tournesol. jus de citron vert. piment rouge. poivre du sichuan. sauce soja
-
+ail. chou pointu. concentré de tomate. cream cheese. échalotes. piment rouge séché. fromage à la crème. gingembre. citrons verts. piment rouge
 ---
 
 # Tagliatelles au safran
@@ -19678,8 +19351,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-farine. œufs. safran. semoule
-
+semoule
 ---
 
 # Tagliatelles au safran, ricotta et échalotes frites au piment chipotle
@@ -19742,8 +19414,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. chipotle. échalotes. graines de coriandre. graines de cumin. huile d'olive. parmesan. persil. piments verts. ricotta. safran. sirop d'érable. tagliatelles. vinaigre de riz
-
+ail. piment chipotle. échalotes. parmesan. persil. piment vert. ricotta
 ---
 
 # Nouilles udon au tofu frit et nam jim à l'orange sanguine
@@ -19806,9 +19477,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. basilic thaï. coriandre. échalotes. graines de sésame. huile de tournesol. nouilles udon. oignons verts. oranges sanguines. piment d'alep. piments rouges. pâte de tamarin. riz. sauce de poisson. sauce soja. sirop d'érable. tofu
-
-
+ail. basilic. coriandre. échalotes. oignons verts. oranges sanguines. piment d'Alep. piment rouge. tamarin. tofu
 ---
 
 # Courgettes moelleuses à la harissa et au citron
@@ -19849,8 +19518,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. basilic. citron. citron confit. courgettes. harissa. huile d'olive. piment rouge
-
+ail. basilic. citrons. citron confit. courgettes. piment rouge
 ---
 
 # Chou-fleur rôti au beurre pimenté
@@ -19905,8 +19573,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. beurre. chou-fleur. citron. concentré de tomates. harissa. huile d'olive. oignons. piment d'alep. piment d'urfa. piments rouges. sucre
-
+ail. chou-fleur. citrons. concentré de tomate. oignons. piment d'Alep. piment d'Urfa. piment rouge
 ---
 
 # Ratatouille au berbéré et salsa à la crème de coco
@@ -19967,8 +19634,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. aubergines. berbéré. choux-raves. citron vert. concombre. coriandre. crème de coco. gingembre. graines de nigelle. huile d'olive. piments. poivrons. sauce soja. sirop d'érable. tomates cerises
-
+ail. aubergines. chou-rave. citrons verts. concombres. coriandre. noix de coco. gingembre. piment rouge. poivron. tomates cerise
 ---
 
 # Steaks de portobello et purée de haricots de Lima
@@ -20024,8 +19690,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. champignons portobello. chipotle. concentré de tomates. graines de coriandre. graines de cumin. haricots de lima. huile d'olive. jus de citron. oignons. piment rouge. sel de maldon
-
+ail. champignons portobello. piment chipotle. concentré de tomate. haricots de Lima. citrons. oignons. piment rouge
 ---
 
 # Chou à la crème de gingembre et huile qui picote (voir recette 68)
@@ -20120,8 +19785,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. betteraves. citron. gingembre. huile d'olive. pois chiches. sel de maldon. sumac. tahini
-
+ail. betteraves. citrons. gingembre. pois chiches. tahin
 ---
 
 # Lasagnes aux champignons épicés
@@ -20181,8 +19845,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ## Noms ingrédients
 
-ail. beurre. cannelle. cèpes séchés. champignons de paris. concentré de tomates. cumin. farine. flocons de piment. huile d'olive. lait. lasagnes. noix de muscade. oignons. paprika fumé. parmesan. persil. pleurotes. tomates. vin rouge
-
+ail. cèpes séchés. champignons de Paris. concentré de tomate. piment rouge séché. lasagnes. oignons. parmesan. persil. pleurotes. tomates en conserve
 ---
 # Salade de nouilles et laab aux champignons et aux cacahuètes
 
@@ -20245,8 +19908,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ## Noms ingrédients
 
-arachides. basilic thaï. champignons de Paris. coriandre. flocons de piment rouge. haricots verts. huile d'arachide. jus de citron vert. menthe. oignon rouge. piment rouge. pleurotes. riz basmati. sauce de poisson. sauce soja. sirop d'érable. tamarin. vermicelles de riz
-
+cacahuètes. basilic. champignons de Paris. coriandre. piment rouge séché. haricots verts. citrons verts. menthe. oignons rouges. piment rouge. pleurotes. tamarin
 ---
 
 # Houmous à l'ail confit et champignons grillés
@@ -20306,8 +19968,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. aneth. champignons de Paris. champignons shiitake. citron. huile d'olive. jus de citron. persil. piment cascabel. pois chiches. sel de Maldon. sirop d'érable. tahini. thym
-
+ail. aneth. champignons de Paris. champignons shiitaké. citrons. persil. piment cascabel. pois chiches. tahin
 ---
 
 # Candji de riz brun et shiitakes
@@ -20369,8 +20030,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. champignons shiitake séchés. échalotes frites. flocons de piment d'Alep. flocons de poivron rouge. gingembre. graines de sésame. huile de tournesol. mandarine. oignons verts. radis. riz brun. sauce soja. sucre. vinaigre de riz
-
+ail. champignons shiitaké. échalotes frites. piment d'Alep. poivron rouge. gingembre. mandarine. oignons verts. radis
 ---
 
 # Tacos aux pleurotes avec plein de garnitures (ou un peu)
@@ -20446,8 +20106,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. avocat. chou-rave. citron vert. coriandre. crème de coco. cumin. fleurs d'hibiscus. huile d'olive. masa harina. oignon rouge. orange. piment cascabel. piment de la Jamaïque. pleurotes. sauce soja. sirop d'érable. sucre. vinaigre de vin blanc
-
+ail. avocats. chou-rave. citrons verts. coriandre. noix de coco. fleurs d'hibiscus. oignons rouges. oranges. piment cascabel. piment de la Jamaïque. pleurotes
 ---
 
 # Oignons grillés et gaspacho vert, par Neil
@@ -20505,8 +20164,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ## Noms ingrédients
 
-ciboulette. citron. concombre. coriandre. croûtons. estragon. feta. graines de nigelle. huile d'olive. oignons de Tropea. persil. piment vert. poivrons verts. vinaigre de cidre. yaourt grec
-
+ciboulette. citrons. concombres. coriandre. feta. oignons de Tropea. persil. piment vert. poivron vert. yaourt grec
 ---
 
 # Pétales d'oignons à l'aigre-douce
@@ -20549,8 +20207,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ## Noms ingrédients
 
-ciboulette. flocons de piment Urfa. fromage de chèvre. huile d'olive. jus de grenade. oignons rouges
-
+ciboulette. piment d'Urfa. fromage de chèvre. grenade. oignons rouges
 ---
 
 # Pains plats à l'huile d'olive et beurre aux trois ails
@@ -20617,8 +20274,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. ail noir. beurre. cumin. farine de force. huile d'olive. levure. origan. persil. sel de Maldon. thym. tomates
-
+ail. ail noir. persil. tomates en conserve
 ---
 
 # Aubergines aux herbes et à l'ail frit
@@ -20664,8 +20320,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. aneth. aubergines. coriandre. huile d'olive. jus de citron. menthe. piment vert. vinaigre de vin blanc
-
+ail. aneth. aubergines. coriandre. citrons. menthe. piment vert
 ---
 
 # Dirty rice
@@ -20713,8 +20368,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. ail noir. beurre. bouillon de légumes. châtaignes. épices cajun. huile d'olive. jus de citron. oignons. persil. riz basmati
-
+ail. ail noir. châtaignes. citrons. oignons. persil
 ---
 
 # Rondelles d'oignon frits au babeurre et au curcuma
@@ -20773,8 +20427,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. babeurre. carvi. citron vert. curcuma. farine. graines de nigelle. huile de tournesol. mirin. oignon. oignons verts. piment rouge. sel de Maldon. vinaigre de vin blanc
-
+ail. citrons verts. oignons. oignons verts. piment rouge
 ---
 # Poireaux et salsa au miso et à la ciboulette
 
@@ -20826,8 +20479,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. ciboulette. fécule de maïs. gingembre. graines de sésame. huile d'olive. huile de tournesol. mirin. miso blanc. poireaux. sel de Maldon. vinaigre de riz
-
+ail. ciboulette. gingembre. poireau
 ---
 
 # Oignons au beurre de miso
@@ -20870,8 +20522,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ## Noms ingrédients
 
-beurre. miso blanc. oignons
-
+oignons
 ---
 
 # Salade de « nouilles » de chou-rave
@@ -20922,8 +20573,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ## Noms ingrédients
 
-cacahuètes. chou-rave. flocons de piment d'Alep. gingembre. graines de pavot. graines de sésame. huile de tournesol. jus de citron vert. nori. oignons verts. poivre du Sichuan. sel de Maldon. vinaigre de riz
-
+cacahuètes. chou-rave. piment d'Alep. gingembre. citrons verts. oignons verts
 ---
 
 # Salade de radis et concombre, cacahuètes au piment chipotle
@@ -20975,8 +20625,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. cacahuètes. citron vert. concombre. coriandre. cumin. daikon. golden syrup. huile d'olive. piment chipotle. piment de Cayenne. piment jalapeño. radis. sel de Maldon
-
+ail. cacahuètes. citrons verts. concombres. coriandre. daïkon. piment chipotle. piment de Cayenne. piment jalapeño. radis
 ---
 
 # Ribs de maïs
@@ -21028,8 +20677,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ## Noms ingrédients
 
-beurre. citron noir séché. graines de courge. huile de tournesol. maïs. miel. sel de Maldon
-
+citron noir séché. maïs. miel
 ---
 
 # Salade de tomates et de prunes, sel de sésame et nori
@@ -21085,8 +20733,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. coriandre. flocons de piment. gingembre. graines de sésame. huile d'arachide. nori. oignons verts. orange. prunes. sauce de poisson. sauce soja. sel de Maldon. sucre. tomates. vinaigre de riz
-
+ail. coriandre. piment rouge séché. gingembre. oignons verts. oranges. prunes. tomates en conserve
 ---
 
 # Boulettes de tofu korma
@@ -21155,8 +20802,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. amandes. cardamome. cannelle. champignons de Paris. chapelure panko. coriandre. cumin. curcuma. fécule de maïs. gingembre. huile d'olive. jus de citron. noix de cajou. oignon. oignon rouge. oignons verts. piment vert. sauce soja. tahini. tofu extra-ferme. tofu soyeux. tomates
-
+ail. amandes. champignons de Paris. coriandre. gingembre. citrons. noix de cajou. oignons. oignons rouges. oignons verts. piment vert. tahin. tofu extra-ferme. tofu soyeux. tomates en conserve
 ---
 
 # Gâteau de navet
@@ -21233,8 +20879,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. champignons shiitake séchés. châtaignes. ciboulette. daikon. farine de riz blanc. fécule de maïs. gingembre. graines de sésame. huile de sésame. huile de tournesol. pignons de pin. sauce soja. sirop d'érable. sucre
-
+ail. champignons shiitaké. châtaignes. ciboulette. daïkon. gingembre. pistaches
 ---
 
 # Salade de pommes de terre et salsa au basilic thaï
@@ -21283,8 +20928,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. amandes fumées. basilic thaï. citron vert. gingembre. huile d'olive. piment vert. pommes de terre. radis. sel de Maldon. topinambours
-
+ail. amandes fumées. basilic. citrons verts. gingembre. piment vert. pomme de terre. radis. topinambours
 ---
 
 # Pommes de terre rôties aux épices, sauce tahini et soja
@@ -21336,8 +20980,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. ciboulette. graines de sésame. harissa à la rose. huile d'olive. mirin. pommes de terre. sauce soja. tahini. vinaigre de riz
-
+ail. ciboulette. pomme de terre. tahin
 ---
 # Flan de mandarine et piment ancho
 
@@ -21389,8 +21032,7 @@ Ottolenghi. Flavour. Pas testé. Végé. Dessert
 
 ## Noms ingrédients
 
-crème double. lait concentré. lait entier. mandarine. œufs. piment ancho. sel de Maldon. sucre. vanille
-
+mandarine. piment ancho
 ---
 
 # Beignets de tapioca et sirop d'orange à l'anis étoilé
@@ -21444,8 +21086,7 @@ Ottolenghi. Flavour. Pas testé. Végé. Dessert
 
 ## Noms ingrédients
 
-anis étoilé. crème double. fécule de tapioca. huile de tournesol. lait entier. miel. œufs. orange. sel de Maldon. sucre. sucre glace. tapioca. vanille
-
+miel. oranges. tapioca
 ---
 
 # Abricots pochés et mascarpone aux pistaches et biscuits amaretti
@@ -21497,8 +21138,7 @@ Ottolenghi. Flavour. Pas testé. Végé. Dessert
 
 ## Noms ingrédients
 
-abricots. biscuits amaretti croquants. citron vert. crème double. eau de fleur d'oranger. mascarpone. pistaches. sauternes. sucre. vanille
-
+abricots. biscuits amaretti. citrons verts. mascarpone. pistaches
 ---
 
 # Sorbet pastèque-fraise
@@ -21543,8 +21183,7 @@ Ottolenghi. Flavour. Pas testé. Végé. Dessert
 
 ## Noms ingrédients
 
-citron vert. combava. fraises. glucose. pastèque. rooibos. sucre. vodka
-
+citrons verts. combava. fraises. pastèque. rooibos
 ---
 
 # Glace à la noix de coco, litchis et fruits de la passion
@@ -21594,8 +21233,7 @@ Ottolenghi. Flavour. Pas testé. Végé. Dessert
 
 ## Noms ingrédients
 
-anis étoilé. aquafaba. citron vert. crème de coco. fruit de la passion. litchis. noix de coco. pois chiches. sel de Maldon. sucre. vanille
-
+citrons verts. noix de coco. fruit de la passion. litchis. pois chiches
 ---
 
 # Les citrons givrés de Max et Flynn
@@ -21636,8 +21274,7 @@ Ottolenghi. Flavour. Pas testé. Végé. Dessert
 
 ## Noms ingrédients
 
-citrons. fleurs d'hibiscus. menthe. sucre
-
+citrons. fleurs d'hibiscus. menthe
 ---
 
 # Crêpes aux bananes rôties et crème de la Barbade
@@ -21701,8 +21338,7 @@ Ottolenghi. Flavour. Pas testé. Végé. Dessert
 
 ## Noms ingrédients
 
-amandes effilées. bananes. beurre. cassonade. farine. gingembre. lait entier. mascarpone. œuf. rhum brun. vanille. yaourt grec
-
+amandes effilées. bananes. gingembre. mascarpone. yaourt grec
 ---
 
 # Entremets café-pandanus
@@ -21758,8 +21394,7 @@ Ottolenghi. Flavour. Pas testé. Végé. Dessert
 
 ## Noms ingrédients
 
-beurre. cacao en poudre. café. crème double. expresso. fécule de maïs. feuilles de pandanus. jaunes d'œufs. lait entier. noix de macadamia. sel de Maldon. sucre. vanille
-
+feuilles de pandanus. jaunes d'œuf. noix de cajou
 ---
 
 # Assiette de fruits rouges au labneh de brebis et huile d'orange
@@ -21807,8 +21442,7 @@ Ottolenghi. Flavour. Pas testé. Végé. Dessert
 
 ## Noms ingrédients
 
-cerises. citron vert. fraises. framboises. huile d'olive. mûres. myrtilles. orange. sucre. thym citron. yaourt de brebis
-
+cerises. citrons verts. fraises. framboises. mûres. myrtilles. oranges. yaourt de brebis
 ---
 
 # Figues au pecorino jeune et au miel
@@ -21841,8 +21475,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-basilic. figues. huile d'olive. miel. pecorino. roquette
-
+basilic. figues. miel. pecorino. roquette
 ---
 
 # Salade de radis et de fèves
@@ -21880,8 +21513,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-citron. citron confit. coriandre. cumin. fèves. huile d'olive. oignon rouge. pain pita. persil. radis. sauce tahini
-
+citrons. citron confit. coriandre. fèves. oignons rouges. pain pita. persil. radis. tahin
 ---
 
 # Salade de fenouil et feta aux graines de grenade et au sumac
@@ -21917,8 +21549,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-citron. estragon. fenouil. feta. grenade. huile d'olive. persil. sumac
-
+citrons. fenouil. feta. grenade. persil
 ---
 
 # Salade de concombre aux graines de pavot
@@ -21952,8 +21583,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-concombre. coriandre. graines de pavot. huile de tournesol. piment rouge. sucre. vinaigre de riz
-
+concombres. coriandre. piment rouge
 ---
 
 # Salade aux herbes d'Etti
@@ -21991,8 +21621,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-amandes. aneth. basilic. beurre. citron. coriandre. estragon. huile d'olive. persil. roquette
-
+amandes. aneth. basilic. citrons. coriandre. persil. roquette
 ---
 
 # Aubergines marinées au tahini et à l'origan
@@ -22033,8 +21662,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. aubergines. citron. coriandre. huile d'olive. origan. piment rouge. sauce tahini
-
+ail. aubergines. citrons. coriandre. piment rouge. tahin
 ---
 
 # Aubergine « brûlée » aux poivrons jaunes et à l'oignon rouge
@@ -22069,8 +21697,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-aubergines. cumin. huile de tournesol. oignon rouge. persil. poivrons. tomates cerises. vinaigre de cidre
-
+aubergines. oignons rouges. persil. poivron. tomates cerise
 ---
 
 # Rouleaux d'aubergine et gnocchis de ricotta au beurre de sauge
@@ -22123,8 +21750,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-aubergine. basilic. beurre. citron. farine. huile d'olive. muscade. parmesan. persil. pignons de pin. ricotta. sauge
-
+aubergines. basilic. citrons. parmesan. persil. pistaches. ricotta. sauge
 ---
 
 # Aubergine rôtie et yaourt au safran
@@ -22165,8 +21791,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. aubergines. basilic. citron. grenade. huile d'olive. pignons de pin. safran. yaourt grec
-
+ail. aubergines. basilic. citrons. grenade. pistaches. yaourt grec
 ---
 
 # Asperges, courgettes et manouri grillés
@@ -22209,9 +21834,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. asperges. basilic. courgettes. huile d'olive. manouri. roquette. tomates cerises
-
-
+ail. asperges. basilic. courgettes. fromage de brebis. roquette. tomates cerise
 ---
 
 # Salade d'asperges à la salicorne
@@ -22245,8 +21868,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. asperges. estragon. graines de sésame. huile d'olive. huile de sésame. salicorne
-
+ail. asperges. salicorne
 ---
 
 # Haricots verts et pois gourmands aux noisettes et à l'orange
@@ -22282,8 +21904,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. ciboulette. haricots verts. huile de noisette. huile d'olive. noisettes. orange. pois gourmands
-
+ail. ciboulette. haricots verts. noisettes. oranges. pois gourmands
 ---
 
 # Artichauts et fèves au four
@@ -22322,8 +21943,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. artichauts. citron. fèves. huile d'olive. laurier. persil. petits pois. poivre rose. thym. vin blanc
-
+ail. artichauts. citrons. fèves. persil. petits pois
 ---
 
 # Broccolinis au tofu, au sésame et à la coriandre
@@ -22359,8 +21979,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-broccolinis. coriandre. graines de sésame. huile d'arachide. huile de sésame. kecap manis. sauce au piment. tofu
-
+broccolinis. coriandre. piment rouge. tofu
 ---
 
 # Brocolis grillés au piment et à l'ail
@@ -22393,8 +22012,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. brocoli. huile d'olive. piment rouge
-
+ail. brocoli. piment rouge
 ---
 
 # Pousses de brocoli pourpre et salsifis au beurre de câpres
@@ -22432,8 +22050,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-aneth. beurre. brocoli pourpre. câpres. ciboulette. citron. estragon. persil. salsifis
-
+aneth. brocoli. câpres. ciboulette. citrons. persil. salsifis
 ---
 
 # Gombos au four aux tomates et au gingembre
@@ -22468,8 +22085,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. coriandre. gingembre. gombos. huile d'olive. piment. sucre. tomates
-
+ail. coriandre. gingembre. gombos. piment. tomates en conserve
 ---
 
 # Courge butternut rôtie, aubergine « brûlée » et mélasse de grenade
@@ -22515,8 +22131,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. amandes. aubergine. basilic. citron. courge butternut. graines de courge. graines de nigelle. graines de sésame. huile d'olive. mélasse de grenade. persil. yaourt grec
-
+ail. amandes. aubergines. basilic. citrons. courge butternut. grenade. persil. yaourt grec
 ---
 
 # Endives caramélisées au jambon serrano
@@ -22554,8 +22169,7 @@ Ottolenghi. Cookbook. Pas testé. Viande
 
 ## Noms ingrédients
 
-beurre. chapelure. crème. endives. huile d'olive. jambon serrano. parmesan. persil. sucre. thym
-
+endives. jambon serrano. parmesan. persil
 ---
 
 # Beignets de chou-fleur au cumin et sauce yaourt au citron vert
@@ -22600,9 +22214,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. cannelle. chou-fleur. citron vert. coriandre. cumin. curcuma. échalotes. farine. huile de tournesol. œufs. persil. yaourt grec
-
-
+ail. chou-fleur. citrons verts. coriandre. échalotes. persil. yaourt grec
 ---
 
 # Chou-fleur grillé aux tomates, à l'aneth et aux câpres
@@ -22640,8 +22252,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. aneth. câpres. chou-fleur. épinards. huile d'olive. moutarde. tomates cerises. vinaigre de cidre
-
+ail. aneth. câpres. chou-fleur. épinards. tomates cerise
 ---
 
 # Gratin façon crumble au fenouil et aux tomates cerises
@@ -22677,8 +22288,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. crème. fenouil. huile d'olive. parmesan. persil. pâte à crumble. thym. tomates cerises
-
+ail. fenouil. parmesan. persil. tomates cerise
 ---
 
 # Poivrons marinés à la mozzarella de bufflonne
@@ -22714,8 +22324,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. coriandre. huile d'olive. mozzarella. persil. poivrons romano. roquette. vinaigre de cidre
-
+ail. coriandre. mozzarella. persil. poivron rouge. roquette
 ---
 
 # Champignons à la cannelle et au citron
@@ -22755,8 +22364,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. cannelle. champignons de Paris. champignons enoki. champignons shiitake. citron. huile d'olive. persil. pleurotes. thym
-
+ail. champignons de Paris. champignons enoki. champignons shiitaké. citrons. persil. pleurotes
 ---
 
 # Champignons portobello à l'orge perlé et au citron confit
@@ -22803,8 +22411,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. basilic. beurre. bouillon. citron confit. feta. huile d'olive. huile de tournesol. oignon. orge perlé. persil. portobello. thym. vin blanc
-
+ail. basilic. citron confit. feta. oignons. persil. champignons portobello
 ---
 
 # Salade de betteraves rouges et dorées rôties
@@ -22841,8 +22448,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. betterave dorée. betterave rouge. cerfeuil. épinards. graines de tournesol. huile d'olive. sirop d'érable. vinaigre de xérès
-
+ail. betteraves. persil. épinards
 ---
 
 # Écrasée de pommes de terre nouvelles au raifort et à l'oseille
@@ -22877,8 +22483,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. cresson. huile d'olive. oignons nouveaux. oseille. pommes de terre nouvelles. raifort. yaourt grec
-
+ail. cresson. oignons nouveaux. oseille. pomme de terre. raifort. yaourt grec
 ---
 
 # Céleri et rutabaga aigres-doux
@@ -22918,8 +22523,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. aneth. câpres. céleri. citron. griottes séchées. huile d'olive. huile de tournesol. moutarde de Dijon. persil. rutabaga. sucre. vinaigre de cidre
-
+ail. aneth. câpres. céleri. citrons. griottes séchées. persil. rutabaga
 ---
 
 # Purée de panais et de potiron
@@ -22957,8 +22561,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. beurre. ciboulette. crème fraîche. huile d'olive. huile de tournesol. muscade. oignon. panais. potiron
-
+ail. ciboulette. oignons. panais. potiron
 ---
 
 # Patates douces rôties aux noix de pécan et au sirop d'érable
@@ -23004,9 +22607,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-cannelle. citron. coriandre. gingembre. huile d'olive. noix de pécan. oignons nouveaux. orange. patates douces. persil. piment. raisins secs. sirop d'érable. vinaigre de xérès
-
-
+citrons. coriandre. gingembre. noix. oignons nouveaux. oranges. patate douce. persil. piment. raisins secs
 ---
 
 # Carottes et petits pois
@@ -23046,8 +22647,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. anis étoilé. cannelle. carottes. coriandre. graines de coriandre. huile d'olive. miel. orange. petits pois. pousses de pois. vin rouge
-
+ail. carottes. coriandre. miel. oranges. petits pois. pousses de pois
 ---
 
 # Gratin de patates douces de Danielle
@@ -23079,8 +22679,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. crème fouettée. patates douces. sauge
-
+ail. patate douce. sauge
 ---
 
 # Pommes de terre et topinambours rôtis au citron et à la sauge
@@ -23116,8 +22715,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. citron. huile d'olive. olives Kalamata. persil. pommes de terre. sauge. tomates cerises. topinambours
-
+ail. citrons. olives de Kalamata. persil. pomme de terre. sauge. tomates cerise. topinambours
 ---
 
 # Haricots blancs à la sauce pimentée douce et aux herbes fraîches
@@ -23155,8 +22753,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. coriandre. citron. haricots blancs. huile de sésame. menthe. oignons nouveaux. poivrons rouges. sauce pimentée douce. sauce soja
-
+ail. coriandre. citrons. haricots blancs. menthe. oignons nouveaux. poivron rouge. piment rouge
 ---
 
 # Riz rouge de Camargue et quinoa à l'orange et aux pistaches
@@ -23195,8 +22792,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-abricots séchés. ail. citron. huile d'olive. oignon. oignons nouveaux. orange. pistaches. quinoa. riz rouge de Camargue. roquette
-
+abricots secs. ail. citrons. oignons. oignons nouveaux. oranges. pistaches. quinoa. roquette
 ---
 
 # Couscous et moghrabieh aux tomates séchées
@@ -23237,8 +22833,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-bouillon. couscous. estragon. graines de nigelle. huile d'olive. labneh. moghrabieh. oignons. safran. sucre muscovado. tomates. vinaigre balsamique
-
+couscous. labneh. moghrabieh. oignons. tomates en conserve
 ---
 
 # Couscous aux abricots séchés et à la courge butternut
@@ -23279,8 +22874,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-abricots secs. bouillon. cannelle. citron. couscous. courge butternut. estragon. huile d'olive. menthe. oignon. persil. safran
-
+abricots secs. citrons. couscous. courge butternut. menthe. oignons. persil
 ---
 
 # Lentilles du Puy aux griottes, au lard fumé et au gorgonzola
@@ -23319,8 +22913,7 @@ Ottolenghi. Cookbook. Pas testé. Viande
 
 ## Noms ingrédients
 
-échalotes. épinards. gorgonzola. griottes séchées. huile d'olive. lard fumé. laurier. lentilles du Puy. sucre. vinaigre de vin rouge
-
+échalotes. épinards. gorgonzola. griottes séchées. lard fumé. lentilles du Puy
 ---
 
 # Blé complet et champignons au céleri et aux échalotes
@@ -23357,8 +22950,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-blé complet. cassonade. céleri. champignons de Paris. échalotes. estragon. huile d'olive. persil. vinaigre de xérès
-
+blé complet. céleri. champignons de Paris. échalotes. persil
 ---
 
 # Pois chiches, épinards et patates douces au miel
@@ -23413,9 +23005,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. beurre. bicarbonate. citron. concentré de tomates. coriandre. cumin. épinards. huile d'olive. menthe. miel. oignon. patates douces. pois chiches. sucre. tomates. yaourt grec
-
-
+ail. citrons. concentré de tomate. coriandre. épinards. menthe. miel. oignons. patate douce. pois chiches. tomates en conserve. yaourt grec
 ---
 
 # Kosheri
@@ -23462,8 +23052,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. beurre. bouillon. cannelle. coriandre. cumin. huile d'olive. lentilles vertes. muscade. oignons. piments. riz basmati. tomates. vermicelles. vinaigre de cidre
-
+ail. coriandre. lentilles vertes. oignons. piment rouge. tomates en conserve
 ---
 
 # Feuilles de vigne farcies de Tamara
@@ -23511,8 +23100,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-cannelle. citron. clous de girofle. feuilles de vigne. huile d'olive. menthe. oignon. persil. pignons de pin. quatre-épices. raisins secs. riz rond. yaourt
-
+citrons. feuilles de vigne. menthe. oignons. persil. pistaches. raisins secs. yaourt
 ---
 
 # Soupe froide de poivrons rouges à la crème aigre
@@ -23556,8 +23144,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. basilic. bouillon. céleri. citron. crème aigre. cumin. huile d'olive. laurier. oignon. persil. piment. poivrons rouges. sauge. sucre
-
+ail. basilic. céleri. citrons. oignons. persil. piment. poivron rouge. sauge
 ---
 
 # Soupe aux lentilles rouges et aux bettes
@@ -23601,8 +23188,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. beurre. bettes. cannelle. citron. coriandre. cumin. graines de coriandre. huile d'olive. lentilles rouges. oignons rouges. pain au levain
-
+ail. bettes. citrons. coriandre. lentilles rouges. oignons rouges. pain au levain
 ---
 
 # Harira (agneau, pois chiches et épinards)
@@ -23648,8 +23234,7 @@ Ottolenghi. Cookbook. Pas testé. Viande
 
 ## Noms ingrédients
 
-agneau. bicarbonate. bouillon. citron. concentré de tomates. coriandre. cumin. épinards. gingembre. huile d'olive. oignon. pois chiches. safran. sucre. tomates
-
+agneau. citrons. concentré de tomate. coriandre. épinards. gingembre. oignons. pois chiches. tomates en conserve
 ---
 
 # Soupe à l'aubergine grillée et au citron
@@ -23683,8 +23268,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-aubergines. basilic. bouillon. citron. crème fraîche. huile de tournesol
-
+aubergines. basilic. citrons
 ---
 
 # Soupe de topinambours à la roquette
@@ -23719,8 +23303,7 @@ Ottolenghi. Cookbook. Pas testé. Végé
 
 ## Noms ingrédients
 
-ail. bouillon. oignons nouveaux. œuf. roquette. topinambours. yaourt grec
-
+ail. oignons nouveaux. roquette. topinambours. yaourt grec
 ---
 
 # Carré d'agneau mariné à la coriandre et au miel
@@ -23758,8 +23341,7 @@ Ottolenghi. Cookbook. Pas testé. Viande
 
 ## Noms ingrédients
 
-ail. citron. gingembre. huile de tournesol. menthe. miel. persil. piments. sauce soja. vinaigre de vin rouge. agneau
-
+ail. citrons. gingembre. menthe. miel. persil. piment rouge. agneau
 ---
 
 # Côtelettes d'agneau et salade de noix, figues et fromage de chèvre
@@ -23813,9 +23395,7 @@ Ottolenghi. Cookbook. Pas testé. Viande
 
 ## Noms ingrédients
 
-agneau. ail. anis étoilé. cannelle. figues. fromage de chèvre. huile d'olive. menthe. miel. noix. orange. persil. romarin. thym. vinaigre de vin rouge
-
-
+agneau. ail. figues. fromage de chèvre. menthe. miel. noix. oranges. persil
 ---
 
 # Boulettes de bœuf et d'agneau au tahini
@@ -23861,8 +23441,7 @@ Ottolenghi. Cookbook. Pas testé. Viande
 
 ## Noms ingrédients
 
-agneau. ail. bœuf. cannelle. citron. huile d'olive. œuf. pain. persil. quatre-épices. tahini. vinaigre de vin blanc
-
+agneau. ail. bœuf. citrons. pain. persil. tahin
 ---
 
 # Keftas d'agneau entourés de courgette
@@ -23911,8 +23490,7 @@ Ottolenghi. Cookbook. Pas testé. Viande
 
 ## Noms ingrédients
 
-agneau. ail. basilic. cannelle. courgettes. feta. huile d'olive. muscade. œuf. pain. persil. pignons de pin. piment. quatre-épices. tomates
-
+agneau. ail. basilic. courgettes. feta. pain. persil. pistaches. piment. tomates en conserve
 ---
 
 # Filet de bœuf rôti et ses trois sauces
@@ -23975,8 +23553,7 @@ Ottolenghi. Cookbook. Pas testé. Viande
 
 ## Noms ingrédients
 
-ail. bœuf. coriandre. crème aigre. cresson. huile d'olive. huile de tournesol. moutarde. oignon. paprika. piment. raifort. roquette. tomates. yaourt grec
-
+ail. bœuf. coriandre. cresson. oignons. piment. raifort. roquette. tomates en conserve. yaourt grec
 ---
 
 # Poitrine de porc rôtie et ses deux condiments
@@ -24030,8 +23607,7 @@ Ottolenghi. Cookbook. Pas testé. Viande
 
 ## Noms ingrédients
 
-ail. anis étoilé. cannelle. gingembre. groseilles à maquereau. huile d'olive. moutarde. piment. plumes rouges. poitrine de porc. rhubarbe. romarin. sirop de fleurs de sureau. sucre. thym. vinaigre de vin rouge. vin blanc
-
+ail. gingembre. groseilles à maquereau. piment. radicchio. poitrine de porc. rhubarbe
 ---
 
 # Ragoût de queue de bœuf au potiron et à la cannelle
@@ -24081,8 +23657,7 @@ Ottolenghi. Cookbook. Pas testé. Viande
 
 ## Noms ingrédients
 
-ail. anis étoilé. bœuf. cannelle. carottes. citron. échalotes. huile d'olive. laurier. orange. persil. potiron. romarin. thym. tomates. vin rouge
-
+ail. bœuf. carottes. citrons. échalotes. oranges. persil. potiron. tomates en conserve
 ---
 
 # Poulet mariné à la harissa et salade de pamplemousses roses
@@ -24141,8 +23716,7 @@ Ottolenghi. Cookbook. Pas testé. Viande
 
 ## Noms ingrédients
 
-ail. anis étoilé. cannelle. carvi. citron. coriandre. cumin. huile d'olive. oignon rouge. pamplemousse rose. piments. poivron. poulet. roquette. sirop d'érable. yaourt grec
-
+ail. citrons. coriandre. oignons rouges. pamplemousse rose. piment rouge. poivron. poulet. roquette. yaourt grec
 ---
 
 # Poulet rôti au sumac, au zaatar et au citron
@@ -24182,8 +23756,7 @@ Ottolenghi. Cookbook. Pas testé. Viande
 
 ## Noms ingrédients
 
-ail. beurre. bouillon. cannelle. citron. huile d'olive. oignons rouges. persil. pignons de pin. poulet. quatre-épices. sumac. zaatar
-
+ail. citrons. oignons rouges. persil. pistaches. poulet. zaatar
 ---
 
 # Poulet rôti au safran, aux noisettes et au miel
@@ -24223,8 +23796,7 @@ Ottolenghi. Cookbook. Pas testé. Viande
 
 ## Noms ingrédients
 
-cannelle. citron. eau de rose. gingembre. huile d'olive. miel. noisettes. oignons. oignons nouveaux. poulet. safran
-
+citrons. gingembre. miel. noisettes. oignons. oignons nouveaux. poulet
 ---
 
 # Poulet rôti et salade aux trois riz
@@ -24272,9 +23844,7 @@ Ottolenghi. Cookbook. Pas testé. Viande
 
 ## Noms ingrédients
 
-citron. coriandre. huile d'olive. huile de sésame. menthe. oignon. oignons nouveaux. piments. poulet. riz basmati. riz brun. riz sauvage. roquette. sauce de poisson thaï
-
-
+citrons. coriandre. menthe. oignons. oignons nouveaux. piment rouge. poulet. roquette
 ---
 
 # Boulettes de dinde au maïs, sauce au poivron rôti
@@ -24321,8 +23891,7 @@ Ottolenghi. Cookbook. Pas testé. Viande
 
 ## Noms ingrédients
 
-ail. coriandre. cumin. dinde. huile d'olive. huile de tournesol. maïs. œuf. oignons nouveaux. pain. persil. piment. poivrons rouges. sauce au piment. vinaigre de cidre
-
+ail. coriandre. dinde. maïs. oignons nouveaux. pain. persil. piment. poivron rouge. piment rouge
 ---
 
 # Poitrine de dinde marinée au cumin, à la coriandre et au vin blanc
@@ -24358,8 +23927,7 @@ Ottolenghi. Cookbook. Pas testé. Viande
 
 ## Noms ingrédients
 
-ail. citron. coriandre. cumin. dinde. huile d'olive. menthe. persil. vin blanc
-
+ail. citrons. coriandre. dinde. menthe. persil
 ---
 
 # Magrets de canard grillés à l'orange sanguine et à l'anis étoilé
@@ -24397,8 +23965,7 @@ Ottolenghi. Cookbook. Pas testé. Viande
 
 ## Noms ingrédients
 
-anis étoilé. canard. cumin. fenouil. oranges sanguines. piments. vinaigre de xérès. vin rouge
-
+canard. fenouil. oranges sanguines. piment rouge
 ---
 
 # Cailles grillées et salade de moghrabieh
@@ -24452,8 +24019,7 @@ Ottolenghi. Cookbook. Pas testé. Viande
 
 ## Noms ingrédients
 
-ail. beurre. cailles. cannelle. cardamome. citron. coriandre. cumin. curcuma. gingembre. huile d'olive. menthe. miel. moghrabieh. oignon nouveau. persil. piment. quatre-épices
-
+ail. cailles. citrons. coriandre. gingembre. menthe. miel. moghrabieh. oignons nouveaux. persil. piment
 ---
 
 # Salade de fruits de mer au fenouil et au citron vert
@@ -24492,8 +24058,7 @@ Ottolenghi. Cookbook. Pas testé. Poisson
 
 ## Noms ingrédients
 
-ail. aneth. calmars. coriandre. citron vert. fenouil. gambas. grenade. huile d'olive. oignon rouge. persil. piment. sumac
-
+ail. aneth. calamars. coriandre. citrons verts. fenouil. gambas. grenade. oignons rouges. persil. piment
 ---
 
 # Maquereaux grillés et salsa d'olives vertes, de céleri et de raisins secs
@@ -24533,8 +24098,7 @@ Ottolenghi. Cookbook. Pas testé. Poisson
 
 ## Noms ingrédients
 
-câpres. céleri. huile d'olive. maquereau. miel. olives vertes. persil. raisins secs. vinaigre de xérès
-
+câpres. céleri. maquereau. miel. olives vertes. persil. raisins secs
 ---
 
 # Maquereaux grillés, pickles de patate douce et yaourt à la menthe
@@ -24596,8 +24160,7 @@ Ottolenghi. Cookbook. Pas testé. Poisson
 
 ## Noms ingrédients
 
-ail. anis étoilé. cannelle. carvi. citron vert. concombre. coriandre. cumin. fenouil. gingembre. huile d'olive. maquereau. menthe. paprika. patates douces. piment. sucre. tamarin. yaourt grec
-
+ail. citrons verts. concombres. coriandre. fenouil. gingembre. maquereau. menthe. patate douce. piment. tamarin. yaourt grec
 ---
 
 # Thon grillé en croûte de pistaches et salsa de papaye
@@ -24645,9 +24208,7 @@ Ottolenghi. Cookbook. Pas testé. Poisson
 
 ## Noms ingrédients
 
-citron. citron vert. concombre. gingembre. huile d'olive. mangue. moutarde. oignon rouge. papaye. piments. pistaches. sauce de poisson thaï. sucre. thon
-
-
+citrons. citrons verts. concombres. gingembre. mangue. oignons rouges. papaye. piment rouge. pistaches. thon
 ---
 
 # Aubergine grillée au tahini
@@ -24682,8 +24243,7 @@ Peut constituer un plat unique ou un condiment pour accompagner des légumes cru
 5. Prélever les graines de la grenade. Transférer dans un plat peu profond, parsemer de graines de grenade et arroser d'huile.
 
 ## Noms ingrédients
-aubergine. tahini. mélasse de grenade. citron. ail. persil. concombre. tomates cerise. grenade. huile d'olive
-
+aubergines. tahin. grenade. citrons. ail. persil. concombres. tomates cerise
 ---
 
 # Aubergine tricolore (et même plus)
@@ -24714,8 +24274,7 @@ Plat très italien revisité avec de la coriandre fraîche à la place du basili
 3. Pour servir, disposer les tranches d'aubergines sur un plat en les faisant se chevaucher légèrement. Couper la mozzarella en gros morceaux et les répartir sur les aubergines. Ajouter la salade de poivron par-dessus et terminer avec les feuilles de coriandre.
 
 ## Noms ingrédients
-aubergine. poivron jaune. tomates cerise. vinaigre de vin blanc. câpres. mozzarella. coriandre. huile d'olive
-
+aubergines. poivron jaune. tomates cerise. câpres. mozzarella. coriandre
 ---
 
 # Aubergines grillées, sauce au lait fermenté
@@ -24752,8 +24311,7 @@ Entrée rustique et raffinée à la fois. Servir avec un bon pain de campagne ou
 5. Au moment de servir, napper généreusement la chair des aubergines de sauce. Saupoudrer de zaatar, garnir de graines de grenade et de brins de thym citron. Terminer avec un filet d'huile d'olive.
 
 ## Noms ingrédients
-aubergine. thym citron. grenade. zaatar. huile d'olive. lait fermenté. yaourt grec. ail
-
+aubergines. grenade. zaatar. yaourt grec. ail
 ---
 
 # Aumônières de champignons sauvages
@@ -24787,8 +24345,7 @@ Faciles à réaliser et réjouissantes. Un moment de suspense quand les convives
 5. Laisser reposer 1 min avant de disposer dans les assiettes. Laisser les convives les ouvrir eux-mêmes.
 
 ## Noms ingrédients
-champignons sauvages. champignons de Paris. pommes de terre. ail. cerfeuil. estragon. huile d'olive. crème double. Ricard
-
+champignons. champignons de Paris. pomme de terre. ail. persil
 ---
 
 # Bánh xèo
@@ -24840,8 +24397,7 @@ Adaptation végétarienne d'une galette vietnamienne habituellement garnie de po
 5. Mettre 1 galette dans chaque assiette, répartir les légumes sur une moitié, arroser de sauce et rabattre l'autre partie. Napper de sauce.
 
 ## Noms ingrédients
-farine de riz. œufs. curcuma. lait de coco. citron vert. huile de sésame. cassonade. vinaigre de riz. sauce soja. gingembre. piment. ail. carotte. daikon. oignons verts. mange-tout. coriandre. basilic thaï. menthe. germes de mungo. champignons enoki
-
+noix de coco. citrons verts. gingembre. piment. ail. carottes. daïkon. oignons verts. coriandre. basilic. menthe. pousses de soja. champignons enoki
 ---
 
 # Beignets de poireaux
@@ -24892,8 +24448,7 @@ Recette d'inspiration turque. Ne pas se laisser impressionner par la longue list
 5. Servir bien chaud avec la sauce à part.
 
 ## Noms ingrédients
-poireaux. échalotes. piment rouge. persil. coriandre. cumin. curcuma. cannelle. sucre. œufs. farine. levure. lait. beurre. huile d'olive. yaourt grec. crème aigre. ail. citron
-
+poireau. échalotes. piment rouge. persil. coriandre. yaourt grec. ail. citrons
 ---
 
 # Boulettes de panais en bouillon
@@ -24938,8 +24493,7 @@ Le secret d'un bouillon végétarien au goût profond : ajouter des pruneaux. Le
 4. Verser le bouillon chaud dans des bols, ajouter les boulettes, parsemer de persil et servir immédiatement.
 
 ## Noms ingrédients
-carottes. céleri. oignon. céleri-rave. ail. thym. persil. poivre. laurier. pruneaux. huile d'olive. pomme de terre. panais. beurre. farine. semoule. œufs
-
+carottes. céleri. oignons. céleri-rave. ail. persil. pruneaux. pomme de terre. panais. semoule
 ---
 
 # Chakchouka
@@ -24975,8 +24529,7 @@ Plat d'Afrique du Nord aux multiples variantes. Une des meilleures recettes pour
 3. Retirer les feuilles de laurier. Répartir dans 4 poêlons. Réchauffer sur feu moyen, faire 2 trous dans la garniture de chaque poêlon et casser délicatement 1 œuf dans chaque trou. Saler, couvrir hermétiquement et laisser cuire à tout petit feu 10 à 12 min. Parsemer de coriandre et servir.
 
 ## Noms ingrédients
-cumin. oignons. poivrons rouges. poivrons jaunes. sucre muscovado. laurier. thym. persil. coriandre. tomates. safran. Cayenne. œufs. huile d'olive
-
+oignons. poivron rouge. poivron jaune. persil. coriandre. tomates en conserve
 ---
 
 # Champignons farcis au taleggio
@@ -25011,8 +24564,7 @@ Le taleggio, fromage au lait de vache du nord de l'Italie, est merveilleusement 
 5. Disposer sur les assiettes, arroser d'huile, parsemer du reste de basilic et servir immédiatement.
 
 ## Noms ingrédients
-champignons de Paris. oignon. céleri. tomates séchées. ail. parmesan. estragon. basilic. taleggio. huile d'olive
-
+champignons de Paris. oignons. céleri. tomates séchées. ail. parmesan. basilic. taleggio
 ---
 
 # Champignons marinés aux noix, sauce au tahini
@@ -25050,9 +24602,7 @@ Plat polyvalent : avec quelques feuilles d'endive pour un repas complet, en réc
 4. Mettre les fèves avec les champignons marinés, ajouter les noix et le cumin, mélanger. Goûter et rectifier. Servir dans des bols avec 1 cuil. de sauce au tahini et parsemer d'herbes.
 
 ## Noms ingrédients
-vinaigre de vin blanc. sirop d'érable. citron. champignons bruns. shimeji. yaourt grec. tahini. ail. fèves. noix. cumin. aneth. origan. huile d'olive
-
-
+citrons. champignons bruns. champignons shimeji. yaourt grec. tahin. ail. fèves. noix. aneth
 ---
 
 # Chou farci
@@ -25091,8 +24641,7 @@ Plat réconfortant qui marie les traditions culinaires arabe et turque, mélange
 5. Parsemer du reste de parmesan, remettre 10 min au four pour faire fondre et dorer le fromage. Laisser reposer 5 min avant de servir.
 
 ## Noms ingrédients
-beurre. vermicelles. riz basmati. chou blanc. pignons de pin. ricotta. parmesan. menthe. persil. ail. vin blanc. bouillon de légumes. sucre. huile d'olive
-
+chou blanc. pistaches. ricotta. parmesan. menthe. persil. ail
 ---
 
 # Chou-fleur au safran
@@ -25123,8 +24672,7 @@ Le chou-fleur est un légume merveilleusement polyvalent, beaucoup plus que le b
 3. Sortir du four, retirer le papier d'aluminium et laisser refroidir un peu avant d'incorporer le persil. Goûter et rectifier l'assaisonnement. Servir chaud ou à température ambiante.
 
 ## Noms ingrédients
-safran. chou-fleur. oignon rouge. raisins de Smyrne. olives vertes. huile d'olive. laurier. persil
-
+chou-fleur. oignons rouges. raisins de Smyrne. olives vertes. persil
 ---
 
 # Chou-fleur, frittata à la mozzarella fumée
@@ -25158,8 +24706,7 @@ La scamorza affumicata est un fromage italien proche de la mozzarella qui fond m
 5. Sortir du four, laisser reposer 2 à 3 min avant de découper en portions. Servir immédiatement.
 
 ## Noms ingrédients
-chou-fleur. œufs. crème fraîche. moutarde de Dijon. paprika fumé. ciboulette. scamorza affumicata. cheddar. huile d'olive
-
+chou-fleur. ciboulette. scamorza affumicata. cheddar
 ---
 
 # Choux de Bruxelles sautés au tofu
@@ -25197,8 +24744,7 @@ Sans doute l'une des meilleures manières d'accommoder le rebarbatif chou de Bru
 5. Retirer la poêle du feu, y transférer le contenu du saladier. Arroser de marinade, ajouter la moitié des feuilles de coriandre. Mélanger et laisser refroidir légèrement. Incorporer le reste d'huile de sésame. Servir chaud, parsemé de graines de sésame et du reste de coriandre.
 
 ## Noms ingrédients
-sauce piment doux. sauce soja. huile de sésame. vinaigre de riz. sirop d'érable. tofu ferme. choux de Bruxelles. oignons verts. piment rouge. champignons shiitakés. coriandre. graines de sésame. huile de tournesol
-
+piment vert. tofu ferme. choux de Bruxelles. oignons verts. piment rouge. champignons shiitaké. coriandre
 ---
 
 # Courge rôtie aux épices douces, citron vert et piment
@@ -25234,8 +24780,7 @@ L'une des recettes les plus légères pour commencer un repas. Le sel de Maldon 
 5. Disposer les tranches de courge refroidies sur un plat, arroser de sauce au yaourt. Garnir avec les tranches de citron vert et leur jus, les rondelles de piment et la coriandre. Servir aussitôt.
 
 ## Noms ingrédients
-citron vert. huile d'olive. courge butternut. cardamome. quatre-épices. yaourt grec. tahini. piment vert. coriandre. sel de Maldon
-
+citrons verts. courge butternut. yaourt grec. tahin. piment vert. coriandre
 ---
 
 # Courgettes farcies
@@ -25272,8 +24817,7 @@ Adaptation libre d'une spécialité turque. Servir froid, juste au-dessus de la 
 4. Laisser refroidir complètement avant de réserver au réfrigérateur. Garnir de persil haché au moment de servir.
 
 ## Noms ingrédients
-oignon. riz à grains courts. groseilles. pignons de pin. persil. menthe séchée. quatre-épices. cannelle. clous de girofle. citron. courgettes. sucre. huile d'olive
-
+oignons. groseilles. pistaches. persil. menthe. citrons. courgettes
 ---
 
 # Courgettes, salade aux noisettes
@@ -25305,8 +24849,7 @@ L'entrée la plus somptueuse de l'été, avec ou sans noisettes. Les noisettes f
 5. Dresser les courgettes sur un plat de service avant de les garnir de parmesan. Arroser d'huile de noisette et servir aussitôt.
 
 ## Noms ingrédients
-noisettes. courgettes. vinaigre balsamique. basilic. parmesan. huile de noisette. huile d'olive
-
+noisettes. courgettes. basilic. parmesan
 ---
 
 # Croquettes aux blettes, sauce à l'oseille
@@ -25345,8 +24888,7 @@ Le cascaval est un fromage de Roumanie au lait de brebis à la saveur légèreme
 5. Servir chaud ou à température ambiante avec la sauce à part.
 
 ## Noms ingrédients
-blettes. pignons de pin. cascaval. œufs. chapelure. huile végétale. huile d'olive. oseille. yaourt grec. ail. moutarde de Dijon
-
+blettes. pistaches. fromage de brebis. oseille. yaourt grec. ail
 ---
 
 # Croquettes d'aubergines
@@ -25388,8 +24930,7 @@ Servir en en-cas ou en entrée. L'aïoli à l'estragon peut être remplacé par 
 5. Détailler chaque boudin en morceaux de 5 cm (environ 20 croquettes). Verser l'huile de friture sur 1,5 cm de hauteur dans une poêle et faire chauffer. Faire frire les croquettes en plusieurs fois environ 3 min en les retournant pour qu'elles dorent uniformément. Égoutter sur du papier absorbant et servir chaud.
 
 ## Noms ingrédients
-aubergine. pommes de terre. œufs. feta. parmesan. chapelure. huile de tournesol. huile de colza. huile d'olive. ail. citron. estragon
-
+aubergines. pomme de terre. feta. parmesan. ail. citrons
 ---
 
 # Endives caramélisées au gruyère
@@ -25420,9 +24961,7 @@ Le gruyère, dont la saveur marquée se marie bien avec l'amertume de l'endive, 
 4. Enfourner 8 à 12 min jusqu'à ce que le fromage commence à bouillonner. Sortir du four, saupoudrer de chapelure et poivrer. Remonter la température à 200 °C et remettre au four 5 à 7 min jusqu'à ce que la chapelure soit bien dorée. Servir chaud.
 
 ## Noms ingrédients
-beurre. sucre. endives. thym. gruyère. chapelure. huile d'olive
-
-
+endives. gruyère
 ---
 
 # Galettes de patates douces
@@ -25462,8 +25001,7 @@ Inspirées des gâteaux de patates douces légendaires du café Orna et Ella à 
 5. Servir chaud ou tiède avec la sauce à part.
 
 ## Noms ingrédients
-patates douces. sauce soja. farine. sucre. oignons verts. piment rouge. beurre. yaourt grec. crème aigre. huile d'olive. citron. coriandre
-
+patate douce. oignons verts. piment rouge. yaourt grec. citrons. coriandre
 ---
 
 # Lasagnes aux champignons
@@ -25510,8 +25048,7 @@ Servir avec une salade de roquette et de tomates. Le liquide de trempage des cè
 7. Saupoudrer de parmesan, couvrir de papier d'aluminium (sans le poser directement) et enfourner 40 min. Retirer le papier et prolonger 10 min pour dorer le dessus. Laisser reposer 10 min avant de servir.
 
 ## Noms ingrédients
-cèpes séchés. beurre. thym. champignons frais. estragon. persil. échalote. farine. lait. ricotta. œufs. feta. gruyère. lasagnes vertes. fontina. parmesan
-
+cèpes séchés. champignons. persil. échalotes. ricotta. feta. gruyère. lasagnes vertes. fromage de chèvre. parmesan
 ---
 
 # Légumes pochés et mayonnaise aux câpres
@@ -25559,8 +25096,7 @@ La cuisson pochée revient à la mode, à juste titre. Les légumes ainsi cuisin
 4. Sortir délicatement les légumes avec des pinces et les disposer dans des assiettes creuses. Arroser éventuellement d'un peu de jus de cuisson. Garnir chaque assiette d'une belle cuillerée de mayonnaise et parsemer d'aneth. Le liquide de cuisson peut être conservé au réfrigérateur pour une nouvelle utilisation.
 
 ## Noms ingrédients
-carottes. fenouil. asperges vertes. courgettes. poireaux. aneth. vin blanc. citron. laurier. oignon. céleri. huile d'olive. huile végétale. œufs. vinaigre de vin blanc. moutarde de Dijon. câpres. ail
-
+carottes. fenouil. asperges. courgettes. poireau. aneth. citrons. oignons. céleri. câpres. ail
 ---
 
 # Lentilles aux aubergines grillées
@@ -25599,8 +25135,7 @@ Un plat délicieux pour un repas décontracté ou un dîner chic. Penser à piqu
 4. Transférer le mélange rôti sur les lentilles, ajouter les herbes ciselées et remuer délicatement. Goûter et rectifier. Répartir les lentilles dans les assiettes, déposer les aubergines grillées par-dessus et couronner d'1 cuil. de crème fraîche. Terminer avec un filet d'huile.
 
 ## Noms ingrédients
-aubergine. vinaigre de vin blanc. lentilles du Puy. carottes. céleri. laurier. thym. oignon. tomates cerise. cassonade. persil. coriandre. aneth. crème fraîche. huile d'olive
-
+aubergines. lentilles du Puy. carottes. céleri. oignons. tomates cerise. persil. coriandre. aneth
 ---
 
 # Mélange de salades aux radis et aux câpres
@@ -25636,8 +25171,7 @@ Salade verte pour ménager une pause à mi-repas, nettoyer le palais et éclairc
 3. Juste avant de servir, verser la vinaigrette sur la salade et mélanger délicatement. Ajouter les câpres.
 
 ## Noms ingrédients
-laitue romaine. laitue frisée. endive rouge. oignons verts. radis. tomates semi-séchées. câpres. ail. citron. huile d'olive. huile de colza
-
+laitue romaine. laitue frisée. endives rouges. oignons verts. radis. tomates semi-séchées. câpres. ail. citrons
 ---
 
 # Mixed grill de légumes, huile au persil
@@ -25673,8 +25207,7 @@ Les légumes grillés ont presque un goût de viande grâce aux puissants arôme
 5. Verser l'huile au persil sur les légumes chauds et remuer délicatement, puis laisser refroidir complètement. Goûter et rectifier. Pour servir, disposer les légumes et le fromage sur un plat.
 
 ## Noms ingrédients
-courgette. chou-rave. aubergine. manouri. huile d'olive. persil. ail. citron
-
+courgettes. chou-rave. aubergines. fromage de brebis. persil. ail. citrons
 ---
 
 # Nouilles soba aux aubergines et à la mangue
@@ -25712,8 +25245,7 @@ Ce plat est le ticket gagnant pour impressionner des invités. Le caractère raf
 5. Au moment de servir, ajouter le reste des herbes et mélanger de nouveau. Dresser dans des assiettes ou servir dans le saladier.
 
 ## Noms ingrédients
-vinaigre de riz. sucre. ail. piment rouge. huile de sésame. citron vert. aubergine. nouilles soba. mangue. basilic. coriandre. oignon rouge. huile de tournesol
-
+ail. piment rouge. citrons verts. aubergines. mangue. basilic. coriandre. oignons rouges
 ---
 
 # Oignons farcis
@@ -25749,8 +25281,7 @@ Une recette où la farce mène la danse. On peut imaginer une variante en nappan
 5. Enfourner 45 à 50 min jusqu'à ce que la farce bouillonne et que les oignons soient tendres et légèrement dorés (ajouter du bouillon s'ils sèchent avant la fin). Arroser d'un filet d'huile et servir chaud.
 
 ## Noms ingrédients
-beurre. bouillon de légumes. vin blanc. oignons. tomates. chapelure. feta. persil. huile d'olive. ail. oignons verts
-
+oignons. tomates en conserve. feta. persil. ail. oignons verts
 ---
 
 # Omelettes aux blettes et au safran
@@ -25784,8 +25315,7 @@ Les blettes, qui appartiennent à la famille de la betterave, sont vraiment fabu
 4. Disposer les omelettes dans un plat de cuisson légèrement huilé ou sur une plaque (ou garder au réfrigérateur pour servir plus tard). Juste avant de servir, préchauffer le four à 170 °C, enfourner les omelettes 5 à 8 min et servir dès qu'elles sont chaudes.
 
 ## Noms ingrédients
-pommes de terre. safran. blettes. citron. ail. œufs. lait. estragon. aneth. persil. crème fraîche. huile végétale
-
+pomme de terre. blettes. citrons. ail. aneth. persil
 ---
 
 # Pancakes verts au beurre de citron vert
@@ -25831,9 +25361,7 @@ Recette réconfortante, idéale pour le brunch accompagnée de pousses de salade
 5. Pour servir, empiler 3 pancakes dans chaque assiette et déposer sur le dernier 1 tranche de beurre citronné qui va fondre doucement.
 
 ## Noms ingrédients
-épinards. farine. levure. œufs. beurre. cumin. lait. oignons verts. piment vert. huile d'olive. citron vert. coriandre. ail. flocons de piment
-
-
+épinards. oignons verts. piment vert. citrons verts. coriandre. ail. piment rouge séché
 ---
 
 # Paella aux légumes
@@ -25877,8 +25405,7 @@ Utiliser de préférence du riz de Calasparra ou un autre riz à paella. Un bon 
 5. Ôter le papier. Répartir les olives et le persil sur la paella. Servir avec des quartiers de citron.
 
 ## Noms ingrédients
-oignon rouge. poivron rouge. poivron jaune. fenouil. ail. laurier. paprika fumé. curcuma. Cayenne. riz à paella. xérès. safran. bouillon de légumes. fèves. tomates cerise. artichauts. olives de Kalamata. persil. citron. huile d'olive
-
+oignons rouges. poivron rouge. poivron jaune. fenouil. ail. fèves. tomates cerise. artichauts. olives de Kalamata. persil. citrons
 ---
 
 # Panais et patates douces rôtis, vinaigrette aux câpres
@@ -25916,8 +25443,7 @@ Cette recette peut servir de base pour de nombreux mélanges de légumes rôtis.
 5. Verser cette vinaigrette sur les légumes dès leur sortie du four. Remuer bien, goûter et rectifier. Parsemer de graines de sésame et servir dans le plat de cuisson.
 
 ## Noms ingrédients
-panais. oignons rouges. thym. romarin. ail. patates douces. tomates cerise. citron. câpres. sirop d'érable. moutarde de Dijon. graines de sésame. huile d'olive
-
+panais. oignons rouges. ail. patate douce. tomates cerise. citrons. câpres
 ---
 
 # Patates douces rôties à la citronnelle et à la crème
@@ -25953,8 +25479,7 @@ Création de Claudine Boulstridge, bras droit de l'auteur pour ce livre. Les pat
 4. Au moment de servir, placer les morceaux de patates douces sur un grand plat. Parsemer de piment frais et de feuilles de coriandre. Présenter la sauce à part.
 
 ## Noms ingrédients
-patates douces. coriandre moulue. piment rouge. coriandre fraîche. huile d'olive. citronnelle. crème fraîche. citron vert. gingembre
-
+patate douce. piment rouge. coriandre. citronnelle. citrons verts. gingembre
 ---
 
 # Pizza à l'œuf, aux épinards et au pecorino
@@ -25988,8 +25513,7 @@ Inspirée du manakish libanais, un pain plat assaisonné au zaatar et garni de f
 5. Enfourner 12 à 15 min. Quand la croûte commence à dorer, sortir les pizzas et casser 1 œuf dans chaque puits. Étaler le blanc à la fourchette sur toute la surface en conservant le jaune entier. Saupoudrer de fleur de sel et enfourner de nouveau 5 min : les blancs doivent être figés et les jaunes encore liquides. Servir sur-le-champ.
 
 ## Noms ingrédients
-levure sèche. farine à pain. épinards. pecorino. sumac. zaatar. œufs. huile d'olive. fleur de sel
-
+épinards. pecorino. zaatar
 ---
 
 # Poêlée de champignons et œufs de cane pochés
@@ -26029,8 +25553,7 @@ Recette préférée pour égayer une soirée d'hiver. Peut se simplifier en supp
 5. Réchauffer le bouillon, ajouter tous les champignons, la crème aigre et la plupart des herbes hachées. Saler et poivrer. Répartir les croûtons dans les assiettes, ajouter les champignons. Garnir chaque assiette d'1 œuf poché, d'un peu d'herbes, d'un filet d'huile de truffe et d'un peu de poivre.
 
 ## Noms ingrédients
-cèpes séchés. champignons frais. pain au levain. ail. oignon. carotte. céleri. vin blanc. thym. œufs de cane. crème aigre. estragon. persil. vinaigre. huile de truffe. huile d'olive
-
+cèpes séchés. champignons. pain au levain. ail. oignons. carottes. céleri. œufs de cane. persil
 ---
 
 # Poireaux frits
@@ -26071,8 +25594,7 @@ Penser à toujours avoir des poivrons marinés dans le réfrigérateur pour parf
 5. Disposer 5 morceaux de poireaux frits dans chaque assiette, napper de sauce à la crème. Ajouter quelques lanières de poivron égouttées et quelques graines de coriandre ou grains de poivre rose de la sauce. Garnir d'oignons verts et servir aussitôt.
 
 ## Noms ingrédients
-poivron rouge. sucre. vinaigre de cidre. poivre rose. coriandre. cardamome. poireaux. crème fraîche. câpres. oignons verts. citron. huile d'olive. chapelure panko. œufs. huile de tournesol
-
+poivron rouge. coriandre. poireau. câpres. oignons verts. citrons
 ---
 
 # Poivrons marinés au pecorino
@@ -26107,8 +25629,7 @@ Le pain de campagne est l'accompagnement indispensable pour « saucer » l'assie
 3. Pour composer la salade : mélanger les herbes, le cresson, les poivrons égouttés, le pecorino et les câpres. Ajouter 1 cuil. à soupe d'huile d'olive et 1 cuil. à soupe (ou plus) de marinade. Goûter et rectifier.
 
 ## Noms ingrédients
-poivron rouge. poivron jaune. huile d'olive. vinaigre balsamique. sucre muscovado. thym. ail. persil. basilic. cresson. pecorino. câpres
-
+poivron rouge. poivron jaune. ail. persil. basilic. cresson. pecorino. câpres
 ---
 
 # Pousses de brocoli pourpre et nouilles de riz
@@ -26154,8 +25675,7 @@ On peut utiliser de la pâte de curry du commerce au lieu de préparer la pâte 
 4. Répartir les nouilles dans de grands bols préchauffés et garnir de brocolis chauds. Verser 3 à 4 cuil. à soupe de sauce sur et autour du brocoli. Terminer avec le basilic ou la coriandre et un trait de jus de citron vert.
 
 ## Noms ingrédients
-brocoli pourpre. oignon rouge. sucre de palme. feuilles de combava. lait de coco. nouilles de riz. huile de sésame. citron vert. basilic. coriandre. galanga. piment vert. citronnelle. ail. échalote. cumin. huile végétale
-
+brocoli. oignons rouges. feuilles de combava. noix de coco. citrons verts. basilic. coriandre. galanga. piment vert. citronnelle. ail. échalotes
 ---
 
 # Ragoût de blettes, pois chiches et tamarin
@@ -26199,9 +25719,7 @@ Le tamarin et les blettes apportent la pointe de vivacité qui casse la gravité
 7. Répartir le riz dans des bols peu profonds en formant un cratère au milieu. Assaisonner le ragoût avec le jus de citron et verser 1 louche dans chaque bol. Garnir de yaourt (facultatif), arroser d'huile et terminer par les feuilles de coriandre.
 
 ## Noms ingrédients
-tamarin. blettes. coriandre. oignon. carvi. concentré de tomate. tomates en conserve. sucre. pois chiches. citron. yaourt grec. coriandre fraîche. huile d'olive. riz. beurre
-
-
+tamarin. blettes. coriandre. oignons. concentré de tomate. tomates en conserve. pois chiches. citrons. yaourt grec
 ---
 
 # La ratatouille de Tamara
@@ -26241,8 +25759,7 @@ Recette de Tamara Meitlis, cuisinière émérite. Conseil indispensable : prépa
 4. Préchauffer le four à 200 °C. Avec l'écumoire, sortir délicatement les légumes et les étaler dans un grand plat à gratin sur une épaisseur de 2 à 3 cm. Arroser de liquide de cuisson et enfourner 30 min. À la sortie du four, les légumes doivent être fondants et le liquide presque totalement évaporé. Saupoudrer de coriandre ciselée et servir avec du riz blanc.
 
 ## Noms ingrédients
-huile de tournesol. oignons. ail. piment vert. poivrons rouges. courge butternut. panais. haricots verts. courgette. aubergine. pomme de terre. tomates. sucre. concentré de tomate. coriandre
-
+oignons. ail. piment vert. poivron rouge. courge butternut. panais. haricots verts. courgettes. aubergines. pomme de terre. tomates en conserve. concentré de tomate. coriandre
 ---
 
 # Salade de betteraves au yaourt, sauce au citron confit
@@ -26281,8 +25798,7 @@ En été, sur les marchés, on trouve de merveilleuses betteraves avec leurs feu
 4. Avant de servir, disposer les morceaux de betteraves dans un saladier, verser la sauce, ajouter l'aneth et l'oignon rouge. Saler et poivrer. Mélanger bien et rectifier. Ajouter le yaourt au dernier moment sans trop mélanger pour obtenir un effet marbré blanc et rouge.
 
 ## Noms ingrédients
-betteraves. aneth. oignon rouge. yaourt grec. poivrons jaunes. coriandre. tomates en conserve. ail. sucre. citron confit. persil. huile d'olive
-
+betteraves. aneth. oignons rouges. yaourt grec. poivron jaune. coriandre. tomates en conserve. ail. citron confit. persil
 ---
 
 # Salade de betteraves, d'oranges et d'olives noires
@@ -26315,8 +25831,7 @@ La saveur légèrement sucrée des betteraves s'accorde très bien avec l'acidit
 4. Incorporer le reste des ingrédients et mélanger délicatement. Goûter pour rectifier l'assaisonnement si nécessaire. Servir sans attendre.
 
 ## Noms ingrédients
-betteraves. oranges. endive rouge. oignon rouge. persil. olives noires. huile de colza. eau de fleur d'oranger. vinaigre de vin rouge
-
+betteraves. oranges. endives rouges. oignons rouges. persil. olives noires
 ---
 
 # Salade de broccolinis au sésame doux
@@ -26356,8 +25871,7 @@ Inspirée d'une délicieuse spécialité japonaise à base de haricots verts au 
 5. Pour le service : soit mélanger les légumes avec la coriandre et les graines de sésame et de nigelle avant de les arroser de sauce ; soit disposer les légumes et les feuilles de coriandre dans un plat, parsemer de graines et proposer la sauce à part dans un bol.
 
 ## Noms ingrédients
-broccolinis. haricots verts. mange-tout. coriandre. graines de sésame. nigelle. huile d'arachide. tahini. ail. tamari. miel. vinaigre de cidre. mirin
-
+broccolinis. haricots verts. coriandre. tahin. ail. miel
 ---
 
 # Salade de carottes à la marocaine
@@ -26397,8 +25911,7 @@ Il existe de très nombreuses variantes de cette salade, mais toutes comportent 
 3. Avant de servir, ajouter la coriandre. Goûter pour rectifier l'assaisonnement si nécessaire. Disposer la salade dans des bols, ajouter 1 cuil. de yaourt bien frais, arroser d'un filet d'huile et parsemer de feuilles de coriandre.
 
 ## Noms ingrédients
-carottes. oignon. sucre. ail. piment vert. oignon vert. clous de girofle. gingembre. coriandre. cannelle. paprika. cumin. vinaigre de vin blanc. citron confit. coriandre fraîche. yaourt grec. huile d'olive
-
+carottes. oignons. ail. piment vert. oignons verts. gingembre. coriandre. citron confit. yaourt grec
 ---
 
 # Salade de chou blanc et de chou-rave
@@ -26431,8 +25944,7 @@ Le meilleur emploi du chou-rave, le mal-aimé des paniers bio. Cette salade a un
 4. Transférer dans le saladier de service en conservant la plus grande partie du jus. Garnir avec les pousses d'alfalfa restantes et servir aussitôt.
 
 ## Noms ingrédients
-chou-rave. chou blanc. aneth. griottes séchées. citron. huile d'olive. ail. pousses d'alfalfa
-
+chou-rave. chou blanc. aneth. griottes séchées. citrons. ail. pousses d'alfalfa
 ---
 
 # Salade de courgettes aux noisettes
@@ -26464,8 +25976,7 @@ L'entrée la plus somptueuse de l'été, avec ou sans noisettes. Les noisettes f
 5. Dresser les courgettes sur un plat de service avant de les garnir de parmesan. Arroser d'huile de noisette et servir aussitôt.
 
 ## Noms ingrédients
-noisettes. courgettes. vinaigre balsamique. basilic. parmesan. huile de noisette. huile d'olive
-
+noisettes. courgettes. basilic. parmesan
 ---
 
 # Salade de cresson aux pistaches et à l'eau de fleur d'oranger
@@ -26499,8 +26010,7 @@ Idéale pour commencer ou finir un repas : avec les saveurs robustes ou rafraîc
 3. Juste avant de servir, verser la sauce sur la salade, ajouter les pistaches, remuer délicatement et servir immédiatement.
 
 ## Noms ingrédients
-cresson. basilic. coriandre. aneth. estragon. pistaches. huile d'olive. citron. eau de fleur d'oranger
-
+cresson. basilic. coriandre. aneth. pistaches. citrons
 ---
 
 # Salade de pommes de terre royales
@@ -26537,9 +26047,7 @@ La royale de Jersey est à son apogée au printemps et au début de l'été, sai
 6. Couper les œufs en deux avant de les incorporer délicatement. Parsemer de persil ciselé.
 
 ## Noms ingrédients
-œufs de caille. petits pois. pommes de terre. persil. pignons de pin. parmesan. ail. huile d'olive. vinaigre de vin blanc. oseille
-
-
+œufs de caille. petits pois. pomme de terre. persil. pistaches. parmesan. ail. oseille
 ---
 
 # Salade de quinoa et pain au levain grillé
@@ -26575,8 +26083,7 @@ Adaptation du classique fattouche libanais avec un pain au levain et du quinoa. 
 4. Remuer délicatement jusqu'à ce que tous les ingrédients soient bien mélangés. Goûter et rectifier l'assaisonnement si nécessaire.
 
 ## Noms ingrédients
-quinoa. pain au levain. tomates. concombre. oignon rouge. coriandre. menthe. persil. citron. vinaigre de vin blanc. ail. huile d'olive
-
+quinoa. pain au levain. tomates en conserve. concombres. oignons rouges. coriandre. menthe. persil. citrons. ail
 ---
 
 # Salade de topinambours rôtis au fromage de brebis et au basilic
@@ -26615,8 +26122,7 @@ Une salade complexe qui constitue à elle seule un repas. Elle s'articule autour
 5. Juste avant de servir, rincer la poêle, verser de l'huile d'olive sur 5 mm de hauteur et mettre sur feu moyen. Faire frire les tranches de fromage 2 min de chaque côté jusqu'à ce qu'elles soient bien brunes. Égoutter sur du papier absorbant. Disposer des feuilles d'endive dans les assiettes, répartir les topinambours, les tomates et le fromage frit, terminer avec encore quelques feuilles d'endive. Arroser d'huile au basilic et servir aussitôt.
 
 ## Noms ingrédients
-topinambours. citron. thym. tomates cerise. manouri. endive. huile d'olive. basilic. persil. ail
-
+topinambours. citrons. tomates cerise. fromage de brebis. endives. basilic. persil. ail
 ---
 
 # Salade douce pour l'hiver
@@ -26659,8 +26165,7 @@ Cette salade apporte de la couleur sur une table et égaie n'importe quel repas.
 3. Mettre les choux dans un saladier avec le reste des ingrédients de la salade, y compris les noix caramélisées. Verser la sauce et mélanger. Goûter et rajouter du sel si la salade est un peu fade. Servir aussitôt.
 
 ## Noms ingrédients
-noix de macadamia. beurre. sucre. flocons de piment. chou vert. chou rouge. mangue. papaye. piment rouge. menthe. coriandre. citron vert. citronnelle. sirop d'érable. huile de sésame. sauce soja. huile d'olive
-
+noix de cajou. piment rouge séché. chou vert. chou rouge. mangue. papaye. piment rouge. menthe. coriandre. citrons verts. citronnelle
 ---
 
 # Soufflés d'Halloween
@@ -26700,8 +26205,7 @@ La base de ce soufflé, sauf les blancs en neige, peut être préparée la veill
 5. Remplir les ramequins jusqu'à 1 cm du haut. Enfourner sur la grille préparée et faire cuire 10 à 14 min jusqu'à ce qu'ils soient dorés et bien levés. Mélanger la crème aigre et la ciboulette. Servir les soufflés dès qu'ils sont cuits avec la crème à part.
 
 ## Noms ingrédients
-courge. cassonade. noisettes. beurre. farine. lait. œufs. flocons de piment. marjolaine. fromage de chèvre. crème aigre. ciboulette. huile d'olive
-
+courge. noisettes. piment rouge séché. fromage de chèvre. ciboulette
 ---
 
 # Soupe à l'ail et à la harissa
@@ -26751,8 +26255,7 @@ Cette soupe a une saveur délicieusement douce. La harissa maison prend du temps
 3. Mixer grossièrement en gardant quelques morceaux. Verser dans des bols peu profonds, incorporer un peu de harissa et parsemer de coriandre hachée. Terminer avec 1 cuil. de yaourt (facultatif).
 
 ## Noms ingrédients
-échalotes. céleri. beurre. ail. gingembre. thym. vin blanc. safran. laurier. bouillon de légumes. persil. coriandre. yaourt grec. huile d'olive. poivron rouge. coriandre. cumin. carvi. oignon rouge. piments rouges. concentré de tomate. citron
-
+échalotes. céleri. ail. gingembre. persil. coriandre. yaourt grec. poivron rouge. oignons rouges. piment rouge. concentré de tomate. citrons
 ---
 
 # Soupe de chou frisé au parmesan
@@ -26787,8 +26290,7 @@ Cette recette permet de recycler les talons de parmesan dont on ne sait que fair
 5. Verser la soupe chaude dans des bols. Ajouter un peu de parmesan râpé si souhaité. Garnir avec les lanières de chou mi-cuit et des graines de carvi.
 
 ## Noms ingrédients
-oignon. ail. carvi. chou vert. pomme de terre. bouillon de légumes. parmesan. piment rouge. huile d'olive
-
+oignons. ail. chou vert. pomme de terre. parmesan. piment rouge
 ---
 
 # Soupe de légumes grillés
@@ -26823,8 +26325,7 @@ L'emploi de légumes grillés donne à cette soupe une saveur très prononcée. 
 4. Mixer la soupe jusqu'à obtenir une consistance lisse, puis incorporer les haricots. Goûter et rectifier. Servir bien chaude avec le yaourt (ou du citron) et le reste du basilic.
 
 ## Noms ingrédients
-aubergine. poivrons rouges. tomates. oignons rouges. basilic. origan. ail. bouillon de légumes. haricots blancs. yaourt grec. citron. huile d'olive
-
+aubergines. poivron rouge. tomates en conserve. oignons rouges. basilic. ail. haricots blancs. yaourt grec. citrons
 ---
 
 # Soupe de tomates et semoule à la coriandre
@@ -26861,9 +26362,7 @@ Inspirée d'une recette du chef israélien Rafi Cohen, elle-même inspirée par 
 3. Avant de servir, ajouter de l'eau si la soupe semble trop épaisse. Goûter et ajuster sel, poivre, voire un trait de jus de citron. Verser dans les bols, garnir de yaourt si souhaité et terminer avec le reste de coriandre.
 
 ## Noms ingrédients
-oignon. céleri. coriandre. cumin. paprika. thym. coriandre fraîche. concentré de tomate. tomates. sucre. semoule. citron. yaourt grec. huile d'olive
-
-
+oignons. céleri. coriandre. concentré de tomate. tomates en conserve. semoule. citrons. yaourt grec
 ---
 
 # Tarte à l'ail caramélisé
@@ -26901,8 +26400,7 @@ Claudine, testeuse des recettes du livre, a qualifié celle-ci de « meilleure r
 5. Baisser la température du four à 160 °C et enfourner la tarte. Laisser cuire 35 à 45 min jusqu'à ce que la garniture soit ferme et le dessus doré. Sortir du four et laisser refroidir un peu avant de démouler. Retailler au besoin les bords, parsemer de thym et servir chaud.
 
 ## Noms ingrédients
-pâte feuilletée. ail. vinaigre balsamique. sucre. romarin. thym. fromage de chèvre frais. tomme de chèvre. œufs. crème double. crème fraîche. huile d'olive
-
+ail. fromage de chèvre frais. tomme de chèvre
 ---
 
 # Tarte aux feuilles de vigne, aux herbes et au yaourt
@@ -26941,8 +26439,7 @@ Recette originaire de la partie turque de Chypre, découverte dans le Classic Tu
 5. Rabattre les feuilles de vigne sur la farce, puis terminer avec les feuilles restantes. Badigeonner avec le reste du mélange beurre-huile. Saupoudrer de chapelure et arroser de 1 cuil. à soupe d'huile. Enfourner 40 min jusqu'à ce que les feuilles soient croquantes et la chapelure dorée. Laisser reposer au moins 10 min. Couper des parts et servir tiède ou à température ambiante avec du yaourt.
 
 ## Noms ingrédients
-feuilles de vigne. échalotes. beurre. yaourt grec. pignons de pin. estragon. persil. aneth. menthe. citron. farine de riz. chapelure panko. huile d'olive
-
+feuilles de vigne. échalotes. yaourt grec. pistaches. persil. aneth. menthe. citrons
 ---
 
 # Tarte aux légumes grillés
@@ -26981,8 +26478,7 @@ Cette tarte, qui regorge de légumes grillés, est un vrai festival de saveurs m
 5. Fouetter les œufs et la crème avec sel et poivre. Verser délicatement sur les légumes sans recouvrir complètement les tomates et le fromage. Saupoudrer du reste du thym. Enfourner 35 à 45 min jusqu'à ce que l'ensemble soit cuit et doré. Laisser reposer au moins 10 min avant de casser l'excédent de pâte, démouler et servir.
 
 ## Noms ingrédients
-poivron rouge. poivron jaune. aubergine. patate douce. courgette. oignons. laurier. pâte brisée. thym. ricotta. feta. tomates cerise. œufs. crème double. huile d'olive
-
+poivron rouge. poivron jaune. aubergines. patate douce. courgettes. oignons. ricotta. feta. tomates cerise
 ---
 
 # Tarte Tatin surprise
@@ -27017,8 +26513,7 @@ Une tarte aux pommes de terre est un régal pour les amateurs de ce tubercule. S
 6. Préchauffer le four à 200 °C. Faire d'abord cuire la tarte 25 min, puis réduire la température à 180 °C et prolonger la cuisson 15 min environ pour que la pâte soit bien cuite. Retirer du four et laisser reposer 2 min. Poser un plat sur le moule et retourner la tarte d'un mouvement vif, puis retirer le moule. Servir chaud ou tiède.
 
 ## Noms ingrédients
-tomates cerise. pommes de terre. oignon. sucre. beurre. origan. fromage de chèvre. pâte feuilletée. huile d'olive
-
+tomates cerise. pomme de terre. oignons. fromage de chèvre
 ---
 
 # Tartines garnies aux œufs brouillés et piments fumés
@@ -27054,8 +26549,7 @@ Idéales pour un brunch, ces tartines reposent sur les chipotles, des piments ja
 5. Disposer les tartines sur des assiettes, garnir avec les œufs brouillés aux piments et parsemer de coriandre. Servir immédiatement avec de la crème aigre dessus ou à part.
 
 ## Noms ingrédients
-piments chipotles. pain au levain. beurre. huile d'olive. ail. oignons verts. tomates. œufs de cane. coriandre. crème aigre
-
+piment chipotle. pain au levain. ail. oignons verts. tomates en conserve. œufs de cane. coriandre
 ---
 
 # Tempura de légumes
@@ -27097,8 +26591,7 @@ Une recette idéale pour tous les légumes. Et extraordinairement délicieuse ! 
 5. Quand tous les légumes sont cuits, les présenter ensemble et servir la sauce à part.
 
 ## Noms ingrédients
-légumes de saison. Maïzena. farine. eau pétillante. huile de colza. nigelle. flocons de piment. huile de tournesol. cardamome. citron vert. piment vert. coriandre. sucre
-
+piment rouge séché. citrons verts. piment vert. coriandre
 ---
 
 # Tofu au poivre noir, échalotes et oignons verts
@@ -27135,8 +26628,7 @@ Une recette rapide et facile à préparer, mais tellement délicieuse qu'on la c
 4. Réchauffer les dés de tofu 1 min dans cette sauce, puis ajouter les oignons verts. Servir chaud avec du riz.
 
 ## Noms ingrédients
-tofu ferme. Maïzena. beurre. échalotes. piments rouges. ail. gingembre. sauce soja douce. sauce soja claire. sauce soja brune. sucre. poivre noir. oignons verts. huile végétale
-
+tofu ferme. échalotes. piment rouge. ail. gingembre. oignons verts
 ---
 
 # Tomato Party
@@ -27173,8 +26665,7 @@ Le principe de cette salade consiste à mélanger le plus de variétés de tomat
 4. Mélanger le couscous et la fregola sarda dans un grand saladier. Ajouter les herbes, l'ail, les tomates cuites avec leur jus, la tomate verte et les tomates cerise rouges. Mélanger très délicatement à la main. Rectifier l'assaisonnement (sel, poivre et huile d'olive si nécessaire).
 
 ## Noms ingrédients
-couscous. fregola sarda. tomates grappe. cassonade. vinaigre balsamique. tomates cerise jaunes. origan. estragon. menthe. ail. tomate verte. tomates cerise rouges. huile d'olive
-
+couscous. tomates grappe. tomates cerise. menthe. ail. tomate verte
 ---
 
 # Tomates farcies aux herbes
@@ -27208,8 +26699,7 @@ Entrée inspirée d'une recette provençale, rapide à préparer. Servir avec un
 4. Mettre les tomates dans un plat de cuisson graissé et les arroser légèrement d'un filet d'huile d'olive. Enfourner 35 à 45 min jusqu'à ce que les tomates soient tendres. Servir chaud ou tiède.
 
 ## Noms ingrédients
-tomates. oignon. ail. olives noires. panko. origan. persil. menthe. câpres. huile d'olive
-
+tomates en conserve. oignons. ail. olives noires. persil. menthe. câpres
 ---
 
 # Tomates-mozzarella
@@ -27244,8 +26734,7 @@ Une entrée toute simple et pourtant superbe. La seule difficulté : la qualité
 3. Couper les tomates en quartiers et les disposer dans le plat avec la mozzarella marinée. Arroser d'huile d'olive et servir.
 
 ## Noms ingrédients
-mozzarella di bufala. tomates. graines de fenouil. citron. basilic. origan. huile d'olive. huile de colza. ail. sel de Maldon
-
+mozzarella di bufala. tomates en conserve. citrons. basilic. ail
 ---
 
 # Vindaloo de patates douces et de pommes de terre
@@ -27290,8 +26779,7 @@ Cette délicieuse recette peut se préparer en grandes quantités, car elle se g
 4. Retirer le couvercle et laisser épaissir la sauce pendant 10 min. Servir chaud avec du riz et de la menthe ou de la coriandre.
 
 ## Noms ingrédients
-cardamome. cumin. coriandre. clous de girofle. curcuma. paprika. cannelle. échalotes. moutarde brune. fenugrec. feuilles de curry. gingembre. piment rouge. tomates. vinaigre de cidre. sucre. pommes de terre. poivrons rouges. patates douces. menthe. coriandre fraîche. huile végétale
-
+coriandre. échalotes. feuilles de curry. gingembre. piment rouge. tomates en conserve. pomme de terre. poivron rouge. patate douce. menthe
 ---
 
 # Œufs cocotte à la roquette et au piment
@@ -27324,9 +26812,7 @@ Une cuisine réconfortante, idéale pour un brunch dominical. Inspirée du Çilb
 5. Sortir les œufs du four, déposer 1 cuil. de yaourt au centre et napper de beurre pimenté fondu. Servir immédiatement.
 
 ## Noms ingrédients
-roquette. œufs. yaourt grec. ail. beurre. kırmızı biber. sauge. huile d'olive
-
-
+roquette. yaourt grec. ail. kırmızı biber. sauge
 ---
 
 # Endives aux noix et au roquefort
@@ -27364,8 +26850,7 @@ La crème fraîche parfumée au roquefort doit recouvrir intégralement les feui
 
 ## Noms ingrédients
 
-beurre. crème fraîche. endives. noix. pignons de pin. radicchio. roquefort
-
+endives. noix. pistaches. radicchio. roquefort
 ---
 
 # Salade douce-amère
@@ -27407,8 +26892,7 @@ Une salade tout en rouge, à la fois douce et amère, à base de radicchio, d'en
 
 ## Noms ingrédients
 
-endive rouge. graines de grenade. graines germées. grenade. huile d'olive. jus de citron. orange sanguine. pignons de pin. radicchio. ricotta. sirop d'érable
-
+endives rouges. grenade. citrons. oranges sanguines. pistaches. radicchio. ricotta
 ---
 
 # Salade de concombres à l'ail et au gingembre
@@ -27452,8 +26936,7 @@ Une alternative fraîche et légère à la crème fraîche ou au yaourt pour acc
 
 ## Noms ingrédients
 
-ail. concombres. gingembre. graines de coriandre. graines de sésame. huile de sésame. huile de tournesol. oignon rouge. sucre. vinaigre de riz
-
+ail. concombres. gingembre. oignons rouges
 ---
 
 # Artichauts au citron et aux herbes
@@ -27496,8 +26979,7 @@ Parfaits pour ouvrir un dîner léger en été. À savourer chauds ou à tempér
 
 ## Noms ingrédients
 
-ail. aneth. artichauts poivrade. citrons verts. estragon. huile d'olive. oignon. persil. petits pois. sucre
-
+ail. aneth. artichauts. citrons verts. oignons. persil. petits pois
 ---
 
 # Asperges, fenouil et betteraves au verjus
@@ -27535,8 +27017,7 @@ Le verjus, jus aigre de raisins verts, très populaire au Moyen Âge, est ici r�
 
 ## Noms ingrédients
 
-aneth. asperges vertes. betteraves. fenouil. huile de colza. pignons de pin. verjus
-
+aneth. asperges. betteraves. fenouil. pistaches. verjus
 ---
 
 # Fenouil caramélisé au caillé de chèvre
@@ -27576,8 +27057,7 @@ Le caillé de chèvre, crémeux et légèrement acide, se trouve au rayon frais 
 
 ## Noms ingrédients
 
-ail. aneth. beurre. caillé de chèvre. citron. fenouil. graines de fenouil. huile d'olive. sucre
-
+ail. aneth. fromage de chèvre. citrons. fenouil
 ---
 
 # Cœurs d'artichauts et fèves concassées
@@ -27621,8 +27101,7 @@ Hommage à la façon dont les Juifs d'Italie cuisinent les artichauts, en les fa
 
 ## Noms ingrédients
 
-ail. aneth. artichauts. chapelure panko. citrons. fèves. huile d'olive. menthe. œufs
-
+ail. aneth. artichauts. citrons. fèves. menthe
 ---
 
 # Gratin d'artichauts
@@ -27669,8 +27148,7 @@ Les cœurs d'artichauts surgelés permettent d'éviter un gros travail sans sacr
 
 ## Noms ingrédients
 
-artichauts. beurre. citrons. farine. huile d'olive. lait. oignons. parmesan. persil. ricotta. thym
-
+artichauts. citrons. oignons. parmesan. persil. ricotta
 ---
 
 # Gombos en sauce tomate au citron et à la coriandre
@@ -27715,8 +27193,7 @@ Ottolenghi. Plenty. Pas testé. Végé
 
 ## Noms ingrédients
 
-citron confit. coriandre. gombos. graines de coriandre. huile d'olive. jus de citron. olives noires. oignon. paprika. persil. piment rouge. poivrons rouges. sucre. tomates
-
+citron confit. coriandre. gombos. citrons. olives noires. oignons. persil. piment rouge. poivron rouge. tomates en conserve
 ---
 
 # Gaspacho vert
@@ -27765,9 +27242,7 @@ Une variante verte du classique espagnol, inspirée du tarator, soupe de concomb
 
 ## Noms ingrédients
 
-ail. basilic. céleri. concombres. épinards. noix. pain au levain. persil. piment vert. poivrons verts. sucre. vinaigre de xérès. yaourt grec
-
-
+ail. basilic. céleri. concombres. épinards. noix. pain au levain. persil. piment vert. poivron vert. yaourt grec
 ---
 
 # Asperges mimosa
@@ -27800,8 +27275,7 @@ Une des meilleures façons de cuisiner les asperges selon l'auteur : toute simpl
 
 ## Noms ingrédients
 
-asperges vertes. câpres. huile d'olive. œufs
-
+asperges. câpres
 ---
 
 # Asperges grillées à la feta
@@ -27836,8 +27310,7 @@ Les asperges sont simplement saisies sur un gril en fonte, ce qui permet de cons
 
 ## Noms ingrédients
 
-asperges. citron. feta. huile de colza. ricotta
-
+asperges. citrons. feta. ricotta
 ---
 
 # Vichyssoise d'asperges
@@ -27880,8 +27353,7 @@ Le moment idéal pour cette soupe froide, c'est le début de l'été, quand la s
 
 ## Noms ingrédients
 
-asperges. beurre. bouillon de légumes. citron. crème double. poireaux. pomme de terre. salicorne. sucre. yaourt grec
-
+asperges. citrons. poireau. pomme de terre. salicorne. yaourt grec
 ---
 
 # Mee goreng
@@ -27926,8 +27398,7 @@ Inspiré de la street food malaisienne, ce plat se réalise en quelques minutes 
 
 ## Noms ingrédients
 
-choy sum. citron. coriandre moulue. cumin. échalotes frites. germes de soja. haricots verts. huile d'arachide. laitue iceberg. nouilles aux œufs. oignon. pak-choï. sambal oelek. sauce soja. tofu
-
+pak choï. citrons. échalotes frites. pousses de soja. haricots verts. laitue iceberg. oignons. sambal oelek. tofu
 ---
 
 # Nouilles soba au wakamé
@@ -27981,8 +27452,7 @@ Les nouilles soba au sarrasin sont souvent servies froides avec un bouillon savo
 
 ## Noms ingrédients
 
-ail. coriandre. concombres. gingembre. graines de sésame. huile d'arachide. huile de sésame. jus de citron vert. menthe. nouilles soba. piment doux. piments rouges. radis germés. sauce au piment. sucre de palme. vinaigre de riz. wakamé
-
+ail. coriandre. concombres. gingembre. citrons verts. menthe. piment vert. piment rouge. radis germés
 ---
 
 # Burgers de fèves
@@ -28032,8 +27502,7 @@ Décortiquer les fèves (environ 30 min de travail) donne des burgers plus lisse
 
 ## Noms ingrédients
 
-ail. chapelure. citron. coriandre. curcuma. épinards. fèves. graines de coriandre. graines de cumin. graines de fenouil. huile d'olive. huile de tournesol. œufs. piment vert. pommes de terre
-
+ail. citrons. coriandre. épinards. fèves. piment vert. pomme de terre
 ---
 
 # Gado-gado
@@ -28090,8 +27559,7 @@ Une salade très complète qui peut constituer un plat à elle toute seule. La s
 
 ## Noms ingrédients
 
-ail. cacahuètes. chips de manioc. chou. citronnelle. concombre. coriandre. curcuma. eau de tamarin. échalotes. échalotes frites. galanga. germes de soja. haricots verts. lait de coco. œufs. paprika. pommes de terre. sambal oelek. sucre. tofu
-
+ail. cacahuètes. chips de manioc. chou. citronnelle. concombres. coriandre. tamarin. échalotes. échalotes frites. galanga. pousses de soja. haricots verts. noix de coco. pomme de terre. sambal oelek. tofu
 ---
 
 # Salade de haricots verts aux graines de moutarde et à l'estragon
@@ -28134,8 +27602,7 @@ Un bel équilibre entre la fraîcheur des haricots croquants et la subtile compl
 
 ## Noms ingrédients
 
-blettes. citron. estragon. graines de coriandre. graines de moutarde. graines de nigelle. haricots verts. huile d'olive. oignon rouge. piment rouge. petits pois. pois gourmands
-
+blettes. citrons. haricots verts. oignons rouges. piment rouge. petits pois. pois gourmands
 ---
 
 # Vermicelles de soja aux fèves edamame
@@ -28185,9 +27652,7 @@ Les fèves edamame (fèves de soja) s'intègrent bien dans la plupart des salade
 
 ## Noms ingrédients
 
-ail. coriandre. fèves edamame. galanga. gingembre. graines de sésame. huile d'arachide. huile de tournesol. jus de citron vert. menthe. oignons verts. piment rouge. pâte de tamarin. sucre de palme. tamari. vermicelles de soja
-
-
+ail. coriandre. édamamé. galanga. gingembre. citrons verts. menthe. oignons verts. piment rouge. tamarin
 ---
 
 # Soupe chaude de fèves au yaourt
@@ -28235,8 +27700,7 @@ Créée pour l'exposition florale de la Royal Horticultural Society à Hampton C
 
 ## Noms ingrédients
 
-ail. aneth. carotte. céleri. cerfeuil. citron. fèves. huile d'olive. laurier. œufs. oignon. persil. riz. thym. yaourt grec
-
+ail. aneth. carottes. céleri. persil. citrons. fèves. oignons. yaourt grec
 ---
 
 # Feuilletés aux lentilles du Puy
@@ -28285,8 +27749,7 @@ Ce plat rappelle un peu les vol-au-vent d'autrefois. Les lentilles, délicieuses
 
 ## Noms ingrédients
 
-ail. citron. coriandre. épinards. graines de coriandre. graines de cumin. huile d'olive. laurier. lentilles du Puy. menthe. œufs. oignon. pâte feuilletée. yaourt grec
-
+ail. citrons. coriandre. épinards. lentilles du Puy. menthe. oignons. yaourt grec
 ---
 
 # Houmous au foul
@@ -28338,8 +27801,7 @@ Inspiré du restaurant Abu Hassan à Jaffa, qui prépare l'un des meilleurs houm
 
 ## Noms ingrédients
 
-ail. bicarbonate de soude. cumin. fèves sèches. huile d'olive. jus de citron. œufs. oignon. paprika. persil. pois chiches. tahini
-
+ail. fèves sèches. citrons. oignons. persil. pois chiches. tahin
 ---
 
 # Pois chiches sautés au yaourt
@@ -28378,8 +27840,7 @@ Un plat tout simple et rapide à préparer, qui marie agréablement des ingrédi
 
 ## Noms ingrédients
 
-ail. blettes. carottes. coriandre. graines de carvi. huile d'olive. jus de citron. menthe. pois chiches. yaourt grec
-
+ail. blettes. carottes. coriandre. citrons. menthe. pois chiches. yaourt grec
 ---
 
 # Haricots poêlés à la feta, à l'oseille et au sumac
@@ -28424,8 +27885,7 @@ On peut remplacer l'oseille par des épinards et doubler alors la quantité de j
 
 ## Noms ingrédients
 
-ail. aneth. beurre. bicarbonate de soude. cerfeuil. feta. haricots de Lima. huile d'olive. jus de citron. oignons verts. oseille. piments rouges. sumac
-
+ail. aneth. persil. feta. haricots de Lima. citrons. oignons verts. oseille. piment rouge
 ---
 
 # Céleri-rave et lentilles aux noisettes et à la menthe
@@ -28467,8 +27927,7 @@ Un plat d'automne copieux. À servir chaud avec une salade de radis, concombre e
 
 ## Noms ingrédients
 
-céleri-rave. huile de noisette. huile d'olive. laurier. lentilles du Puy. menthe. noisettes. thym. vinaigre de vin rouge
-
+céleri-rave. lentilles du Puy. menthe. noisettes
 ---
 
 # Soupe de pois chiches aux tomates et aux croûtons
@@ -28519,8 +27978,7 @@ Une variante de la ribollita toscane, à mi-chemin entre la soupe et le ragoût.
 
 ## Noms ingrédients
 
-basilic. bouillon de légumes. carotte. céleri. concentré de tomate. fenouil. huile d'olive. laurier. origan. pain au levain. persil. pesto. pois chiches. sucre. thym. tomates en conserve. vin blanc
-
+basilic. carottes. céleri. concentré de tomate. fenouil. pain au levain. persil. pesto. pois chiches. tomates en conserve
 ---
 
 # Lentilles vertes aux asperges et au cresson
@@ -28563,8 +28021,7 @@ Un fromage de brebis un peu fort se marie très bien avec les lentilles. À serv
 
 ## Noms ingrédients
 
-ail. asperges vertes. citron. cresson. huile de noix. huile d'olive. lentilles vertes. pecorino. persil. vinaigre de vin rouge
-
+ail. asperges. citrons. cresson. lentilles vertes. pecorino. persil
 ---
 
 # Lentilles corail épicées au yaourt et au concombre
@@ -28621,8 +28078,7 @@ Une recette transmise par Helen Goh, une encyclopédie culinaire. Le mélange d'
 
 ## Noms ingrédients
 
-ail. asa fœtida. beurre. concombre. coriandre. cumin. curcuma. fenugrec. feuilles de curry. gingembre. graines de moutarde noire. huile d'olive. huile de tournesol. jus de citron vert. lentilles corail. oignon. paprika. piment vert. sucre. tomates. yaourt grec
-
+ail. concombres. coriandre. feuilles de curry. gingembre. citrons verts. lentilles corail. oignons. piment vert. tomates en conserve. yaourt grec
 ---
 
 # Lentilles de Castelluccio aux tomates et au gorgonzola
@@ -28671,9 +28127,7 @@ Les lentilles de Castelluccio (en Ombrie) sont de minuscules bijoux bruns à la 
 
 ## Noms ingrédients
 
-ail. aneth. cerfeuil. ciboulette. gorgonzola. huile d'olive. lentilles de Castelluccio. oignon rouge. persil. thym. tomates. velours de balsamique. vinaigre de vin rouge
-
-
+ail. aneth. persil. ciboulette. gorgonzola. lentilles de Castelluccio. oignons rouges. tomates en conserve
 ---
 
 # Socca
@@ -28716,8 +28170,7 @@ Inspirée d'une variante de la pissaladière découverte dans un petit restauran
 
 ## Noms ingrédients
 
-blancs d'œufs. crème fraîche. farine de pois chiche. huile d'olive. oignons blancs. thym. tomates cerise. vinaigre de vin blanc
-
+oignons blancs. tomates cerise
 ---
 
 # Salade d'avocats, de quinoa et de fèves
@@ -28758,8 +28211,7 @@ Une salade parfaite pour un brunch printanier. À accompagner simplement de pain
 
 ## Noms ingrédients
 
-ail. avocats. citrons. cumin. fèves. flocons de piment. huile d'olive. quinoa. radis. radis pourpre
-
+ail. avocats. citrons. fèves. piment rouge séché. quinoa. radis. radis pourpre
 ---
 
 # Riz au lait de coco, sambal de piments et gombos
@@ -28812,8 +28264,7 @@ Inspiré du nasi lemak, le plat national malaisien. Sa saveur est très relevée
 
 ## Noms ingrédients
 
-ail. citron vert. coriandre. eau de tamarin. échalotes. échalotes frites. feuilles de combava. gingembre. gombos. huile végétale. lait de coco. piments rouges. piments verts séchés. riz basmati. sucre
-
+ail. citrons verts. coriandre. tamarin. échalotes. échalotes frites. feuilles de combava. gingembre. gombos. noix de coco. piment rouge. piment vert
 ---
 
 # Risotto au citron et aux aubergines
@@ -28860,8 +28311,7 @@ Le bouillon est la clé de la réussite dans la préparation du risotto. Contrai
 
 ## Noms ingrédients
 
-ail. aubergines. basilic. beurre. bouillon de légumes. citron. huile d'olive. oignon. parmesan. riz à risotto. vin blanc
-
+ail. aubergines. basilic. citrons. oignons. parmesan
 ---
 
 # Salade de farro et de poivrons grillés
@@ -28909,8 +28359,7 @@ Le farro, variété de blé très ancienne et proche de l'épeautre, a un arôme
 
 ## Noms ingrédients
 
-ail. citron. farro. feta. huile d'olive. miel. olives noires. oignons verts. origan. paprika fumé. poivrons rouges. quatre-épices. thym
-
+ail. citrons. feta. miel. olives noires. oignons verts. poivron rouge
 ---
 
 # Riz à la vapeur aux herbes
@@ -28955,8 +28404,7 @@ Cette recette iranienne, appelée sabzi polo, accompagne généralement le poiss
 
 ## Noms ingrédients
 
-aneth. coriandre. crème aigre. huile de colza. huile d'olive. oignons verts. persil. pomme de terre. riz basmati. yaourt grec
-
+aneth. coriandre. oignons verts. persil. pomme de terre. yaourt grec
 ---
 
 # Galettes de blé et orge perlé aux champignons
@@ -29012,8 +28460,7 @@ Un plat très réconfortant grâce à la texture fondante de l'orge et des champ
 
 ## Noms ingrédients
 
-ail. beurre. beurre clarifié. cèpes. champignons bruns. citron confit. coriandre. farine complète. huile d'olive. jus de citron. levure. orge perlé. persil. shiitakés. thym. vin blanc. yaourt grec
-
+ail. cèpes. champignons bruns. citron confit. coriandre. citrons. persil. champignons shiitaké. yaourt grec
 ---
 
 # Salade d'orge et de grenade
@@ -29051,8 +28498,7 @@ Une recette spectaculaire et simple à préparer. Se marie très bien avec des p
 
 ## Noms ingrédients
 
-ail. aneth. céleri. feuilles de céleri. graines de grenade. huile d'olive. orge perlé. persil. quatre-épices. vinaigre de xérès
-
+ail. aneth. céleri. feuilles de céleri. grenade. persil
 ---
 
 # Kisir
@@ -29095,8 +28541,7 @@ Interprétation d'un plat traditionnel turc qui connaît de nombreuses variantes
 
 ## Noms ingrédients
 
-ail. boulgour. concentré de tomate. cumin. graines de grenade. huile d'olive. jus de citron. mélasse de grenade. menthe. oignons. oignons verts. persil. piments verts. tomates
-
+ail. boulgour. concentré de tomate. grenade. citrons. menthe. oignons. oignons verts. persil. piment vert. tomates en conserve
 ---
 
 # Riz à la cardamome, œufs pochés et yaourt
@@ -29146,9 +28591,7 @@ Une recette idéale pour gâter sa famille lors d'un brunch dominical. Tous les 
 
 ## Noms ingrédients
 
-ail. cardamome. coriandre. curcuma. feuilles de curry. graines de coriandre. huile d'arachide. jus de citron vert. œufs. oignons. persil. piments verts. riz basmati. vinaigre de vin blanc. yaourt grec
-
-
+ail. coriandre. feuilles de curry. citrons verts. oignons. persil. piment vert. yaourt grec
 ---
 
 # Pilaf de freekeh
@@ -29195,8 +28638,7 @@ Le freekeh est issu du blé vert dont on fait brûler les épis pour dégager la
 
 ## Noms ingrédients
 
-ail. beurre. bouillon de légumes. cannelle. coriandre. freekeh. huile d'olive. jus de citron. menthe. oignons. persil. pignons de pin. quatre-épices. yaourt grec
-
+ail. coriandre. citrons. menthe. oignons. persil. pistaches. yaourt grec
 ---
 
 # Le pilaf de boulgour d'Itamar
@@ -29236,8 +28678,7 @@ Riche en jolies surprises — les baies de poivre rose, les groseilles, les grai
 
 ## Noms ingrédients
 
-boulgour. ciboulette. concentré de tomate. graines de coriandre. groseilles. huile d'olive. oignons blancs. poivrons rouges. poivre rose. sucre
-
+boulgour. ciboulette. concentré de tomate. groseilles. oignons blancs. poivron rouge
 ---
 
 # Salade de riz à la mangue et à la noix de coco
@@ -29283,8 +28724,7 @@ Les mangues alphonso, en provenance d'Inde, sont de loin les meilleures. Leur sa
 
 ## Noms ingrédients
 
-basilic thaï. beurre. cacahuètes. citron. coriandre. copeaux de noix de coco. échalotes frites. huile d'arachide. mangue. menthe. noix de coco. oignons verts. piment rouge. poivron rouge. riz basmati. riz de Camargue. riz jasmin
-
+basilic. cacahuètes. citrons. coriandre. noix de coco déshydratée. échalotes frites. mangue. menthe. noix de coco. oignons verts. piment rouge. poivron rouge
 ---
 
 # Salade de quinoa au citron noir d'Iran
@@ -29327,8 +28767,7 @@ Les petits citrons noirs séchés (loomi) sont très employés dans la cuisine i
 
 ## Noms ingrédients
 
-ail. citron. citron noir d'Iran. feta. huile d'olive. jus de citron. menthe. oignons verts. origan. patates douces. quinoa. riz basmati. riz sauvage. sauge
-
+ail. citrons. citron noir d'Iran. feta. menthe. oignons verts. patate douce. quinoa. sauge
 ---
 
 # Raviolis au fromage de chèvre et au citron
@@ -29384,8 +28823,7 @@ Dans cette recette, la pâte est faite maison, mais en contrepartie, il n'y a pa
 
 ## Noms ingrédients
 
-blanc d'œuf. citrons. curcuma. estragon. farine. flocons de piment. fromage de chèvre. huile de colza. huile d'olive. œufs. poivre rose. semoule. tomme de chèvre
-
+citrons. piment rouge séché. fromage de chèvre. semoule. tomme de chèvre
 ---
 
 # Pappardelles croustillants
@@ -29431,8 +28869,7 @@ Pour obtenir une sauce crémeuse fluide (presque liquide), ajouter un peu d'eau 
 
 ## Noms ingrédients
 
-ail. brocoli. champignons de Paris. chapelure panko. citron. crème double. huile d'olive. laurier. pappardelle. persil. sucre. thym. vin blanc
-
+ail. brocoli. champignons de Paris. citrons. persil
 ---
 
 # Salade de pâtes et de courgettes frites
@@ -29476,8 +28913,7 @@ Hommage aux courgettes frites de la grand-mère de l'auteur, sa spécialité pou
 
 ## Noms ingrédients
 
-basilic. câpres. citron. courgettes. fèves edamame. huile d'olive. huile de tournesol. mozzarella di bufala. persil. strozzapreti. vinaigre de vin rouge
-
+basilic. câpres. citrons. courgettes. édamamé. mozzarella di bufala. persil
 ---
 
 # Semoule verte
@@ -29525,8 +28961,7 @@ Cette salade très saine est belle à regarder et encore meilleure à déguster.
 
 ## Noms ingrédients
 
-aneth. bouillon de légumes. couscous. cumin. estragon. huile d'olive. menthe. oignon. oignons verts. persil. piment vert. pistaches. roquette
-
+aneth. couscous. menthe. oignons. oignons verts. persil. piment vert. pistaches. roquette
 ---
 
 # Tagliatelles au safran et au beurre épicé
@@ -29582,8 +29017,7 @@ Le mariage des pâtes et d'un beurre aux arômes du Maroc peut sembler paradoxal
 
 ## Noms ingrédients
 
-beurre. cannelle. coriandre moulue. curcuma. échalotes. farine. flocons de piment. gingembre. huile d'olive. menthe. œufs. paprika. persil. pignons de pin. poivre de Cayenne. safran
-
+échalotes. piment rouge séché. gingembre. menthe. persil. pistaches. piment de Cayenne
 ---
 
 # Mon couscous « ultime »
@@ -29635,9 +29069,7 @@ Un couscous aux légumes rôtis avec potiron, carottes et panais, agrémenté d'
 
 ## Noms ingrédients
 
-abricots secs. badiane. beurre. bouillon de légumes. cannelle. carottes. citron confit. coriandre. couscous. curcuma. échalotes. flocons de piment. gingembre. harissa. huile d'olive. laurier. panais. paprika. pois chiches. potiron. safran
-
-
+abricots secs. carottes. citron confit. coriandre. couscous. échalotes. piment rouge séché. gingembre. panais. pois chiches. potiron
 ---
 
 # Polenta aux champignons et aux herbes
@@ -29680,8 +29112,7 @@ On trouve dans le commerce deux types de polenta : la polenta instantanée (pré
 
 ## Noms ingrédients
 
-ail. beurre. bouillon de légumes. cerfeuil. champignons. estragon. huile à la truffe. huile d'olive. parmesan. polenta. romarin. taleggio. thym
-
+ail. persil. champignons. parmesan. taleggio
 ---
 
 # Polenta de maïs doux
@@ -29728,8 +29159,7 @@ La polenta préparée avec du maïs frais rappelle les purées pour bébés : li
 
 ## Noms ingrédients
 
-aubergine. beurre. concentré de tomate. feta. huile végétale. maïs. origan. sucre. tomates. vin blanc
-
+aubergines. concentré de tomate. feta. maïs. tomates en conserve
 ---
 
 # Figues au basilic et au caillé de chèvre, vinaigrette à la grenade
@@ -29766,8 +29196,7 @@ Quand les figues sont mûres, elles offrent une saveur sucrée et une texture ri
 
 ## Noms ingrédients
 
-basilic. caillé de chèvre. échalote. figues. fromage de chèvre. huile d'olive. mélasse de grenade. moutarde de Dijon. roquette
-
+basilic. fromage de chèvre. échalotes. figues. grenade. roquette
 ---
 
 # Soufflés au fromage de chèvre et pêches pochées à la vanille
@@ -29819,8 +29248,7 @@ Inspiré d'un soufflé au fromage de chèvre servi en entrée au Launceston Plac
 
 ## Noms ingrédients
 
-beurre. blancs d'œufs. crème double. farine. fromage de chèvre. jaunes d'œufs. laurier. lait. noisettes. pêches. poivre noir. sucre. vanille. vin blanc
-
+fromage de chèvre. jaunes d'œuf. noisettes. pêches
 ---
 
 # Salade de coings au dolcelatte
@@ -29864,8 +29292,7 @@ Le coing, redoutablement coriace, exige une longue cuisson pour pouvoir être co
 
 ## Noms ingrédients
 
-citron. coings. cresson. dolcelatte. feuilles de salade. graines de moutarde. huile d'olive. laurier. mizuna. orange. pistaches. poivre noir. sucre. vinaigre de cidre. vin rouge
-
+citrons. coings. cresson. dolcelatte. oranges. pistaches
 ---
 
 # Crostinis aux poires
@@ -29907,8 +29334,7 @@ Inspiré du dicton toscan sur le mariage sublime de la poire et du fromage. Choi
 
 ## Noms ingrédients
 
-ail. cerfeuil. fromage de chèvre. huile d'olive. jus de citron. pain au levain. pignons de pin. poires. sucre
-
+ail. persil. fromage de chèvre. citrons. pain au levain. pistaches. poire
 ---
 
 # Salade aux dattes et au fromage de brebis turc
@@ -29948,8 +29374,7 @@ Les fromages de brebis turcs sont disponibles dans les épiceries turques ou du 
 
 ## Noms ingrédients
 
-amandes. aneth. basilic. blettes. dattes medjool. fromage de brebis. huile d'olive. mélasse de grenade. mozzarella di bufala. ricotta. roquette
-
+amandes. aneth. basilic. blettes. dattes. fromage de brebis. grenade. mozzarella di bufala. ricotta. roquette
 ---
 
 # Achar de chou aux haricots kilomètre et aux cacahuètes
@@ -29998,7 +29423,7 @@ L'achar est la version malaisienne du pickle — il a bercé toute l'enfance de 
 
 ## Noms ingrédients
 
-chou pointu. huile de tournesol. oignon. céleri. piments rouges. curcuma. cumin. graines de céleri. clous de girofle. cannelle. quatre-épices. cassonade. vinaigre de cidre. graines de moutarde. feuilles de curry. haricots kilomètre. cacahuètes. œufs
+chou pointu. oignons. céleri. piment rouge. feuilles de curry. haricots verts. cacahuètes
 # Ananas rôti au tamarin et au piment, glace à la noix de coco
 
 ## Catégorie
@@ -30056,7 +29481,7 @@ Vous pouvez acheter de la pâte de tamarin prête à l'emploi, mais il est recom
 
 ## Noms ingrédients
 
-ananas. basilic thaï. cannelle. citron vert. clous de girofle. crème de noix de coco. crème fraîche. feuilles de kaffir. gingembre. lait de coco. piment rouge. sucre. tamarin. vanille
+ananas. basilic. citrons verts. noix de coco. feuilles de kaffir. gingembre. piment rouge. tamarin
 # Beignets de courgettes et manouri
 
 ## Catégorie
@@ -30100,7 +29525,7 @@ Créés par Sarit Packer et John Meechan lors de l'ouverture de NOPI — d'abord
 
 ## Noms ingrédients
 
-courgettes. échalotes. ail. citron vert. farine. œufs. coriandre. cardamome. manouri. huile de tournesol. crème aigre
+courgettes. échalotes. ail. citrons verts. coriandre. fromage de brebis
 # Beignets de ricotta, sauce aux mûres et sablé chocolaté
 
 ## Catégorie
@@ -30170,7 +29595,7 @@ Vous aurez plus de sablé que la quantité nécessaire pour la recette. Il se co
 
 ## Noms ingrédients
 
-anis étoilé. beurre. cacao. farine. farine de maïs. gin. huile de tournesol. mûres. œufs. orange. ricotta. sucre. sucre glace. vanille
+mûres. oranges. ricotta
 # Bœuf en croûte de poivre et salade de fenouil au pecorino et à la truffe
 
 ## Catégorie
@@ -30220,7 +29645,7 @@ Dans le monde singulier des plats NOPI, voici enfin une recette dont la prépara
 
 ## Noms ingrédients
 
-aloyau de bœuf. thym. romarin. poivre noir. poivre rose. moutarde de Dijon. citron. huile d'olive. huile de truffe. céleri. fenouil. persil. pecorino
+aloyau de bœuf. citrons. céleri. fenouil. persil. pecorino
 # Bœuf mariné rôti, kimchi au concombre et aux prunes
 
 ## Catégorie
@@ -30273,7 +29698,7 @@ Plat né de l'amour commun de Scully et Yotam pour tout ce qui est fermenté. Le
 
 ## Noms ingrédients
 
-gochujang. huile de tournesol. sauce soja. mirin. ail. gingembre. aloyau de bœuf. nanami togarashi. concombres. sucre. carottes. sauce de poisson. vinaigre de riz. oignons verts. coriandre. prunes
+ail. gingembre. aloyau de bœuf. nanami togarashi. concombres. carottes. oignons verts. coriandre. prunes
 # Boulettes d'agneau, sauce au yaourt et aux bettes
 
 ## Catégorie
@@ -30324,7 +29749,7 @@ Simple à réaliser, ce plat peut se préparer la veille — il est même meille
 
 ## Noms ingrédients
 
-agneau haché. oignon. ail. œuf. chapelure. cumin. cannelle. coriandre. piment de la Jamaïque. persil. huile d'olive. bettes. yaourt grec. fécule de maïs. bouillon de volaille. beurre
+agneau haché. oignons. ail. coriandre. piment de la Jamaïque. persil. bettes. yaourt grec
 # Cailles caramélisées au miso et salsa de grenade et noix
 
 ## Catégorie
@@ -30374,7 +29799,7 @@ Inspirée par une recette de Christina Tosi dans Lucky Peach — elle avait util
 
 ## Noms ingrédients
 
-miso blanc. mirin. sucre brun. vinaigre de xérès. beurre. huile de tournesol. cailles. grenade. noix. mélasse de grenade. huile d'olive. persil
+cailles. grenade. noix. persil
 # Coings pochés, gelée de framboise et coing, sabayon au mascarpone
 
 ## Catégorie
@@ -30432,7 +29857,7 @@ Pour le coulis de framboises, il suffit d'écraser des framboises fraîches ou s
 
 ## Noms ingrédients
 
-anis étoilé. cannelle. cardamome. citron. clous de girofle. coings. coulis de framboises. gélatine. mascarpone. pistaches. sucre. vanille. vinsanto
+citrons. coings. framboises. mascarpone. pistaches
 # Coquelets cuits deux fois, sauce piment-gingembre, sel aux feuilles de kaffir
 
 ## Catégorie
@@ -30481,7 +29906,7 @@ Plat signature de NOPI — les clients ne le laissent pas retirer du menu. La cu
 
 ## Noms ingrédients
 
-bouillon à l'asiatique. coquelets. huile d'arachide. ail. gingembre. piments rouges. sucre. vinaigre de riz. feuilles de kaffir. sel. citron vert
+coquelets. ail. gingembre. piment rouge. feuilles de kaffir. citrons verts
 # Côtes d'agneau fumées, purée d'aubergines, sauce jalapeño et pickle de chou-rave
 
 ## Catégorie
@@ -30546,7 +29971,7 @@ Recette technique mais très impressionnante. Le fumage maison ne nécessite pas
 
 ## Noms ingrédients
 
-agneau. coriandre. ail. gingembre. oignon rouge. huile de tournesol. riz basmati. vinaigre de riz. mirin. sucre. poivre. clous de girofle. anis étoilé. chou-rave. aubergines. huile d'olive. citron. tahini. cumin. piments jalapeño. câpres
+agneau. coriandre. ail. gingembre. oignons rouges. chou-rave. aubergines. citrons. tahin. piment jalapeño. câpres
 # Crème glacée caramel-cacahuètes, sauce au chocolat et croquant aux cacahuètes
 
 ## Catégorie
@@ -30613,7 +30038,7 @@ Doublez les quantités pour la sauce au chocolat et le croquant. Ils se conserve
 
 ## Noms ingrédients
 
-beurre. cacahuètes. chocolat noir. crème fraîche. huile de noisette. jaunes d'œufs. lait entier. Nutella. sel de mer. sirop de glucose. sucre
+cacahuètes. chocolat noir. jaunes d'œuf
 # Crème à la ricotta, compote de cassis et rhubarbe
 
 ## Catégorie
@@ -30664,7 +30089,7 @@ Si vous ne trouvez pas de cassis, des mûres, des framboises, des prunes ou des 
 
 ## Noms ingrédients
 
-blancs d'œufs. cassis. crème fraîche. rhubarbe. ricotta. sucre. vanille
+cassis. rhubarbe. ricotta
 # Croquettes de bœuf et coleslaw à l'asiatique
 
 ## Catégorie
@@ -30725,7 +30150,7 @@ Plat signature de NOPI dès l'ouverture — les clients ont protesté quand il a
 
 ## Noms ingrédients
 
-poitrine de bœuf. huile de tournesol. bouillon à l'asiatique. carotte. échalotes. céleri. œufs. lait. chapelure panko. farine. citron vert. sucre de palme. vinaigre de riz. huile d'olive. chou rouge. mange-tout. piments rouges. coriandre. menthe
+poitrine de bœuf. carottes. échalotes. céleri. citrons verts. chou rouge. piment rouge. coriandre. menthe
 # Cuisses de canard confites, moutarde aux cerises et salade de chou-rave
 
 ## Catégorie
@@ -30791,7 +30216,7 @@ Au restaurant, les cerises séchées sont trempées dans du thé Earl Grey (la b
 
 ## Noms ingrédients
 
-thym. romarin. sel. clous de girofle. coriandre. cannelle. poivre. cuisses de canard. ail. graisse de canard. vin rouge. sucre. vinaigre de vin rouge. cerises séchées. cerises. moutarde de Dijon. moutarde anglaise. chou-rave. pomme granny smith. radis. persil. citron. huile d'olive
+coriandre. cuisses de canard. ail. cerises séchées. cerises. chou-rave. pomme. radis. persil. citrons
 # Échine de porc aux épices et condiment aux physalis
 
 ## Catégorie
@@ -30850,7 +30275,7 @@ Les graines de rocou (annatto ou achiote) sont disponibles en épiceries asiatiq
 
 ## Noms ingrédients
 
-graines de rocou. piments chipotle. origan. quatre-épices. oignon. ail. jus d'orange. vinaigre de cidre. citron vert. échine de porc. huile de tournesol. échalote. gingembre. saké. mirin. piments jalapeño. piment rouge. huile d'olive. physalis. coriandre
+piment chipotle. oignons. ail. oranges. citrons verts. échine de porc. échalotes. gingembre. piment jalapeño. piment rouge. physalis. coriandre
 # Eton mess aux fraises et à la rose
 
 ## Catégorie
@@ -30906,7 +30331,7 @@ S'il vous reste du sorbet, vous pourrez le conserver plusieurs semaines au réfr
 
 ## Noms ingrédients
 
-crème fraîche. eau de rose. fraises. grenade. mascarpone. mélasse de grenade. meringues. pétales de roses séchés. sirop de glucose. sucre. sucre glace. sumac
+fraises. grenade. mascarpone. meringues. pétales de rose
 # Filet d'agneau rôti, sauce aux cacahuètes et salsa à l'oignon rouge
 
 ## Catégorie
@@ -30959,7 +30384,7 @@ La viande doit mariner au moins 4 h au réfrigérateur, idéalement toute une nu
 
 ## Noms ingrédients
 
-agneau. romarin. ail. huile d'olive. câprons. cacahuètes. sésame. piment rouge. anchois. citron. coriandre. lait de coco. oignon rouge. sumac. sucre. vinaigre de cidre. piquillos. persil
+agneau. ail. câpres. cacahuètes. piment rouge. anchois. citrons. coriandre. noix de coco. oignons rouges. piquillos. persil
 # Filet de chevreuil, labné aux dattes, sauce aux mûres et crumble aux cacahuètes
 
 ## Catégorie
@@ -31025,7 +30450,7 @@ Plat comportant plusieurs préparations, toutes réalisables la veille et assemb
 
 ## Noms ingrédients
 
-yaourt grec. sirop de dattes. mélasse de grenade. vin rouge. porto. vinaigre de vin rouge. sucre. mûres. baies de genévrier. fèves de cacao. cacahuètes. gingembre. chevreuil. huile de tournesol. beurre. thym. romarin. ail. basilic
+yaourt grec. grenade. mûres. fèves de cacao. cacahuètes. gingembre. chevreuil. ail. basilic
 # Financiers et crème café-noix de pécan
 
 ## Catégorie
@@ -31083,7 +30508,7 @@ Ce qui fait le secret d'un bon financier, c'est le beurre noisette. Traditionnel
 
 ## Noms ingrédients
 
-beurre. café expresso. crème fraîche. farine. grains de café. levure chimique. noix de pécan. poudre d'amandes. poudre de malt. sucre complet. sucre glace. œufs (blancs)
+noix. amandes moulues
 # Foies de volaille au bacon, réduction de vin rouge et cerises glacées
 
 ## Catégorie
@@ -31143,7 +30568,7 @@ La recette la plus classique du livre — inspirée de la gastronomie française
 
 ## Noms ingrédients
 
-foies de volaille. lait. bacon fumé. beurre. persil. huile d'olive. oignons rouges. thym. ail. laurier. poivre. sucre. vin rouge. bouillon de bœuf. vinaigre de vin rouge. cerises. radicchio
+foies de volaille. bacon. persil. oignons rouges. ail. cerises. radicchio
 # Galettes de pois chiches, purée de noix de coco et lentilles aux feuilles de curry
 
 ## Catégorie
@@ -31212,7 +30637,7 @@ Chez NOPI, cette recette est accompagnée d'une salade de tomates cerises parfum
 
 ## Noms ingrédients
 
-pois chiches. ghee. oignon. ail. lentilles moong dhal. feuilles de curry. coriandre. cumin. piments. tomates. citron vert. farine de pois chiches. noix de coco. gingembre. tamarin. huile de tournesol. graines de moutarde. lentilles urid dhal. lait de coco. curcuma. yaourt grec
+pois chiches. oignons. ail. lentilles moong dhal. feuilles de curry. coriandre. piment rouge. tomates en conserve. citrons verts. noix de coco. gingembre. tamarin. lentilles urid dhal. yaourt grec
 # Ganache au chocolat, noisettes aux épices et huile à l'orange
 
 ## Catégorie
@@ -31269,7 +30694,7 @@ Chocolat, orange et crème : un mariage classique auquel s'ajoutent noisettes, c
 
 ## Noms ingrédients
 
-chocolat noir. beurre. œufs. sucre. coriandre. poivre noir. cannelle. anis étoilé. cardamome. noisettes. crème fraîche. sucre glace. orange. huile d'olive. fleur de sel
+chocolat noir. coriandre. noisettes. oranges
 # Glace au pop-corn et maïs caramélisé
 
 ## Catégorie
@@ -31315,7 +30740,7 @@ Commencez cette recette la veille pour que la crème infuse et prenne le goût d
 
 ## Noms ingrédients
 
-beurre. crème fraîche. fleur de sel. lait entier. maïs à souffler. poivre noir. sirop de glucose. sucre. vanille
+maïs
 # Jambon et haricots au four, œuf au plat et toasts au levain
 
 ## Catégorie
@@ -31373,7 +30798,7 @@ Une recette à la NOPI pour le week-end. Les saveurs du jambon et des haricots s
 
 ## Noms ingrédients
 
-haricots secs. jarret de porc. huile d'olive. ail. oignon. carotte. céleri. quatre-épices. clous de girofle. piment. moutarde anglaise. origan. paprika fumé. concentré de tomates. bouillon de bœuf. tomates en conserve. orange. romarin. thym. laurier. pain au levain. œufs. persil
+haricots secs. jarret de porc. ail. oignons. carottes. céleri. piment. concentré de tomate. tomates en conserve. oranges. pain au levain. persil
 # Joues de porc braisées et salade de céleri-rave
 
 ## Catégorie
@@ -31439,7 +30864,7 @@ Les baies d'épine-vinette sont un ingrédient de base chez Ottolenghi et NOPI �
 
 ## Noms ingrédients
 
-joues de porc. huile de tournesol. beurre. carottes. oignon. poireau. céleri. ail. madère. poivre. thym. romarin. laurier. bouillon. épine-vinette. céleri-rave. persil. huile d'olive. citron. porto. vin rouge. sucre
+joues de porc. carottes. oignons. poireau. céleri. ail. céleri-rave. persil. citrons
 # Magret de canard rôti, beurre de noisettes à la bière, quinoa rouge
 
 ## Catégorie
@@ -31493,7 +30918,7 @@ Recette amusante car malgré son titre, le beurre ne se retrouve que dans le tit
 
 ## Noms ingrédients
 
-magrets de canard. sucre muscovado. citron vert. noisettes. bière. moutarde de Dijon. sirop de datte. huile de tournesol. quinoa rouge. huile d'olive. échalote. ail. champignons shimeji. pleurotes. vinaigre de riz. mirin. sauce soja. ciboulette
+magrets de canard. citrons verts. noisettes. bière. quinoa rouge. échalotes. ail. champignons shimeji. pleurotes. ciboulette
 # Muffins de maïs et salade de betteraves et pommes
 
 ## Catégorie
@@ -31551,7 +30976,7 @@ Ces muffins réussissent le pari d'être à la fois aériens et crémeux. Pour u
 
 ## Noms ingrédients
 
-maïs. échalotes. ail. graines de fenouil. cumin. graines de céleri. estragon. levure. beurre. œufs. farine. feta. yaourt grec. vinaigre de xérès. huile d'olive. citron. persil. betteraves. pomme granny smith. basilic
+maïs. échalotes. ail. feta. yaourt grec. citrons. persil. betteraves. pomme. basilic
 # Onglets grillés, condiment doux aux champignons et pickle au concombre
 
 ## Catégorie
@@ -31610,7 +31035,7 @@ L'onglet est un morceau long très goûteux, correspondant à la partie lombaire
 
 ## Noms ingrédients
 
-onglet de bœuf. miso d'orge. ail. mirin. saké. huile de tournesol. shiitakés. kombu. sucre. sauce soja. beurre. vinaigre de xérès. concombres. huile d'olive. oignons rouges. estragon
+onglet de bœuf. ail. champignons shiitaké. kombu. concombres. oignons rouges
 # Pain de maïs et pêches grillées à la crème d'érable
 
 ## Catégorie
@@ -31665,7 +31090,7 @@ Recette demandée depuis des années par les clients de la boutique Ottolenghi d
 
 ## Noms ingrédients
 
-maïs. farine complète. polenta. levure. sucre. beurre. lait. yaourt grec. œufs. miel. crème double. sirop d'érable. cream cheese. sauternes. gingembre. vanille. pêches blanches. sucre demerara
+maïs. yaourt grec. miel. cream cheese. gingembre. pêches blanches
 # Pain perdu et yaourt à l'orange
 
 ## Catégorie
@@ -31719,7 +31144,7 @@ Plébiscité par les clients de NOPI à l'heure du brunch. Le sucre anisé (anis
 
 ## Noms ingrédients
 
-yaourt grec. orange. sucre glace. fruits rouges. sucre. citron. anis étoilé. œufs. lait. pain brioché. beurre
+yaourt grec. oranges. fruits rouges. citrons. pain brioché
 # Pamplemousse grillé au sucre anisé et yaourt à la fleur de sureau
 
 ## Catégorie
@@ -31760,7 +31185,7 @@ Scully a du mal à concevoir une recette sucrée sans anis étoilé. Yotam pense
 
 ## Noms ingrédients
 
-pamplemousses. anis étoilé. sucre. Grand Marnier. cordial de fleur de sureau. yaourt nature
+pamplemousse. yaourt nature
 # Pancakes de patates douces, yaourt et sirop de datte
 
 ## Catégorie
@@ -31806,7 +31231,7 @@ Un classique du brunch NOPI, mais aussi excellent avec des tranches de lard gril
 
 ## Noms ingrédients
 
-patates douces. farine complète. levure. muscade. cannelle. œufs. lait. beurre. vanille. miel. yaourt grec. sirop de datte. sucre glace
+patate douce. miel. yaourt grec
 # Pastilla de poulet
 
 ## Catégorie
@@ -31870,7 +31295,7 @@ Plat exigeant mais spectaculaire, idéal pour une grande tablée. À l'origine s
 
 ## Noms ingrédients
 
-poulet. huile de tournesol. oignons. ail. tomates. cannelle. poivre rose. piments chipotle. cognac. vin blanc. bouillon de volaille. chocolat noir. vinaigre de xérès. groseilles. pignons de pin. huile d'olive. paprika fumé. échalotes. crème double. épinards. ghee. pâte filo. sucre glace
+poulet. oignons. ail. tomates en conserve. piment chipotle. chocolat noir. groseilles. pistaches. échalotes. épinards
 # Poêlons de fromage bleu au four et pickle de betterave
 
 ## Catégorie
@@ -31930,7 +31355,7 @@ L'un des rares plats que les clients de NOPI ne laisseront jamais enlever de la 
 
 ## Noms ingrédients
 
-betteraves. ail. laurier. thym. poivre. sucre. vinaigre de vin rouge. beurre. graines de potiron. digestive biscuits. parmesan. poireau. cream cheese. crème fraîche. crème double. ciboulette. basilic. stilton. œufs. miel. noisettes
+betteraves. ail. parmesan. poireau. cream cheese. ciboulette. basilic. roquefort. miel. noisettes
 # Poitrine de porc rôtie, écrasée de butternut et salsa pomme-noix
 
 ## Catégorie
@@ -31987,7 +31412,7 @@ Le secret d'une couenne parfaitement croustillante tient à un geste simple : fr
 
 ## Noms ingrédients
 
-thym. ail. citronnelle. gingembre. poitrine de porc. citron. sel. vin blanc. butternut. huile d'olive. beurre. vinaigre de riz. miso blanc. pomme granny smith. noix. noix marinées. yuzu. mirin. estragon
+ail. citronnelle. gingembre. poitrine de porc. citrons. butternut. pomme. noix. yuzu
 # Pudding de farro aux oranges caramélisées, tahini et pistaches
 
 ## Catégorie
@@ -32041,7 +31466,7 @@ Ce pudding est présenté dans des ramequins individuels, mais vous pouvez le la
 
 ## Noms ingrédients
 
-beurre. crème épaisse. eau de fleur d'oranger. farro. lait entier. orange. pistaches. sucre. tahini. vanille. zeste de citron
+oranges. pistaches. tahin. citrons
 # Purée de lentilles indiennes et aubergines piquantes
 
 ## Catégorie
@@ -32092,7 +31517,7 @@ Ottolenghi. Nopi. Pas testé. Végé
 
 ## Noms ingrédients
 
-tamarin. huile de tournesol. aubergines. ghee. ail. gingembre. lentilles urid dhal. citron. oignons. anis vert. piment rouge. feuilles de curry. curry. curcuma. cassonade. cannelle. cardamome. clous de girofle. coriandre. yaourt grec
+tamarin. aubergines. ail. gingembre. lentilles urid dhal. citrons. oignons. anis vert. piment rouge. feuilles de curry. coriandre. yaourt grec
 # Ris d'agneau en croûte de poivre, purée de petits pois, sauce au miso
 
 ## Catégorie
@@ -32149,7 +31574,7 @@ Les ris d'agneau (thymus) ont une texture incroyablement fondante, d'autant plus
 
 ## Noms ingrédients
 
-ris d'agneau. lait. farine de maïs. farine. poivre blanc. huile de tournesol. beurre. petits pois. menthe. citron. huile d'olive. miso blanc. vinaigre de riz. mirin. huile de sésame. graines germées
+ris d'agneau. petits pois. menthe. citrons
 # Risotto d'orge au cresson et salade d'asperges vertes au pecorino
 
 ## Catégorie
@@ -32202,7 +31627,7 @@ Le mot « risotto » mérite ses guillemets ici — l'orge perlé confère une t
 
 ## Noms ingrédients
 
-orge perlé. bouillon de légumes. épinards. cresson. huile d'olive. beurre. échalote. ail. thym. laurier. champignons bruns. poireau. citron. asperges. pecorino
+épinards. cresson. échalotes. ail. champignons bruns. poireau. citrons. asperges. pecorino
 # Riz à l'iranienne et tzatziki au beurre brûlé
 
 ## Catégorie
@@ -32269,7 +31694,7 @@ Appelés « nids d'amour » chez NOPI — longs à réaliser mais récompensants
 
 ## Noms ingrédients
 
-courgettes. yaourt grec. citron. ciboulette. menthe. beurre. pétales de rose. coriandre. cardamome. muscade. cannelle. mulberries. épine-vinette. feuilles de vigne. huile d'olive. oignon. ail. gingembre. safran. riz basmati. bouillon de légumes. carotte. amandes. pistaches
+courgettes. yaourt grec. citrons. ciboulette. menthe. pétales de rose. coriandre. mulberries. feuilles de vigne. oignons. ail. gingembre. carottes. amandes. pistaches
 # Riz noir gluant, mangue, banane et crème de coco
 
 ## Catégorie
@@ -32305,7 +31730,7 @@ Le riz noir gluant a bercé toute l'enfance de Scully — Yotam en est le plus a
 
 ## Noms ingrédients
 
-riz noir gluant. feuilles de pandanus. mangue. banane. crème de coco. sucre d'érable
+feuilles de pandanus. mangue. bananes. noix de coco
 # Selle d'agneau rôtie, endives braisées à la vanille, pesto d'oseille
 
 ## Catégorie
@@ -32361,7 +31786,7 @@ La vanille, qu'on n'associe pas spontanément aux plats salés, fonctionne très
 
 ## Noms ingrédients
 
-agneau. romarin. thym. ail. huile d'olive. beurre. vanille. endives. sucre. graines de coriandre. bouillon de volaille. vin blanc. oseille. menthe. citron. câpres. anchois. piment rouge
+agneau. ail. endives. oseille. menthe. citrons. câpres. anchois. piment rouge
 # Suprêmes de poulet rôtis, pudding à l'ail et à l'estragon
 
 ## Catégorie
@@ -32421,7 +31846,7 @@ Le pudding peut aussi se servir avec une simple salade verte au citron. Chez NOP
 
 ## Noms ingrédients
 
-ail. huile d'olive. œufs. crème double. noix de cajou. cannelle. estragon. beurre. pain brioché. bouillon de volaille. petits pois. poulet. thym. citron
+ail. noix de cajou. pain brioché. petits pois. poulet. citrons
 # Tapioca à la marmelade de noix de coco et bananes flambées au rhum
 
 ## Catégorie
@@ -32485,7 +31910,7 @@ Le tapioca peut être préparé à l'avance — jusqu'à l'ajout de la crème de
 
 ## Noms ingrédients
 
-bananes. beurre. crème de noix de coco. feuilles de kaffir. lait de coco. noix de coco. rhum. sucre brun. sucre de palme. tapioca. vanille
+bananes. noix de coco. feuilles de kaffir. tapioca
 # Tofu frit au cinq-épices, aubergines vapeur et passata à la cardamome
 
 ## Catégorie
@@ -32550,7 +31975,7 @@ Les trois éléments qui composent ce plat peuvent être servis séparément : l
 
 ## Noms ingrédients
 
-aubergines. huile de tournesol. huile de sésame. gingembre. ail. sauce soja. vin Shaoxing. vinaigre de riz. mirin. sucre. échalotes. citronnelle. piment rouge. cardamome. concentré de tomates. tomates. farine de blé. farine de maïs. poivre. cinq-épices. tofu. sésame. oignons verts
+aubergines. gingembre. ail. échalotes. citronnelle. piment rouge. concentré de tomate. tomates en conserve. tofu. oignons verts
 # Tourte de bœuf en feuilles de vigne
 
 ## Catégorie
@@ -32599,7 +32024,7 @@ La moelle n'est pas obligatoire, mais elle apporte un crémeux inégalable et de
 
 ## Noms ingrédients
 
-huile d'olive. céleri-rave. oignon. ail. bœuf haché. cannelle. quatre-épices. riz arborio. tomate. pignons de pin. épine-vinette. menthe séchée. menthe. feuilles de vigne. moelle de bœuf. bouillon de bœuf. yaourt grec. citron
+céleri-rave. oignons. ail. bœuf haché. tomate. pistaches. menthe. feuilles de vigne. moelle de bœuf. yaourt grec. citrons
 # Travers de porc caramélisés au bourbon et salade de maïs fumé
 
 ## Catégorie
@@ -32670,8 +32095,7 @@ La moitié seulement du bouillon réduit est utilisée — congeler le reste pou
 
 ## Noms ingrédients
 
-travers de porc. gingembre. oignon. ail. anis étoilé. cannelle. poivre. bouillon de volaille. vin Shaoxing. vinaigre de riz. échalotes. bourbon. sirop d'érable. poivre du Sichuan. citron. huile de sésame. ketchup. piments. maïs. thym citron. citron vert. huile d'olive. coriandre. menthe. persil. oignons verts
-
+travers de porc. gingembre. oignons. ail. échalotes. citrons. piment rouge. maïs. citrons verts. coriandre. menthe. persil. oignons verts
 ---
 
 # Japonais Sauce - Sauce au gingembre
@@ -32703,8 +32127,7 @@ Dans un bol, mélangez tous les ingrédients. Cette sauce peut se conserver 2 se
 
 ## Noms ingrédients
 
-gingembre. huile d'olive. sauce soja. sucre. vinaigre de riz
-
+gingembre
 ---
 
 # Japonais Sauce - Sauce yakitori
@@ -32736,7 +32159,6 @@ Versez tous les ingrédients dans une casserole. Portez à ébullition en remuan
 
 ## Noms ingrédients
 
-bouillon de poulet. mirin. saké. sauce soja. sucre
 
 ---
 
@@ -32767,7 +32189,6 @@ Versez tous les ingrédients dans une casserole. Portez à ébullition, puis bai
 
 ## Noms ingrédients
 
-mirin. sauce soja. sucre
 
 ---
 
@@ -32802,8 +32223,7 @@ Dans un bol, mélangez tous les ingrédients. Cette sauce peut se conserver 2 se
 
 ## Noms ingrédients
 
-ail. huile de sésame. oignons verts. poire. purée de piment. sauce soja. sucre
-
+ail. oignons verts. poire. purée de piment
 ---
 
 # Japonais Sauce - Marinade au sésame
@@ -32834,7 +32254,6 @@ Dans un bol, mélangez tous les ingrédients. Cette marinade peut se conserver 2
 
 ## Noms ingrédients
 
-gomashio. huile de sésame. sauce soja. sucre
 
 ---
 
@@ -32866,8 +32285,7 @@ Dans un bol, délayez la purée de sésame avec un quart du bouillon. Versez le 
 
 ## Noms ingrédients
 
-ail. bouillon dashi. sauce soja. tahin
-
+ail. tahin
 ---
 
 # Japonais Sauce - Sauce yakisoba
@@ -32898,7 +32316,6 @@ Versez tous les ingrédients dans une casserole. Faites chauffer sur feu moyen j
 
 ## Noms ingrédients
 
-ketchup. sauce d'huître. sauce soja. sauce Worcestershire
 
 ---
 
@@ -32929,8 +32346,7 @@ Dans un bol, mélangez le miso avec le reste des ingrédients. Cette sauce peut 
 
 ## Noms ingrédients
 
-citron vert. jus de citron vert. miso blanc
-
+citrons verts
 ---
 
 # Japonais Sauce - Sauce soja sucrée
@@ -32960,7 +32376,6 @@ Versez tous les ingrédients dans une casserole. Portez à ébullition, puis bai
 
 ## Noms ingrédients
 
-mirin. sauce soja. sucre
 
 ---
 
@@ -32992,9 +32407,7 @@ Versez la sauce soja dans une casserole, ajoutez le reste des ingrédients, mél
 
 ## Noms ingrédients
 
-bonite séchée. mirin. sauce soja
-
-
+bonite séchée
 ---
 
 # Japonais Sauce - Mayo-wasabi
@@ -33027,8 +32440,7 @@ Dans un saladier, fouettez le jaune d'œuf avec la moutarde, le vinaigre de riz,
 
 ## Noms ingrédients
 
-huile de tournesol. jaunes d'œufs. moutarde de dijon. vinaigre de riz. wasabi
-
+jaunes d'œuf
 ---
 
 # Japonais Sauce - Sauce ponzu
@@ -33061,8 +32473,7 @@ La veille, mettez le shiitaké et le kombu dans un bocal, versez la sauce soja, 
 
 ## Noms ingrédients
 
-champignons shiitaké. citron. jus de citron. kombu. mandarine. mirin. sauce soja
-
+champignons shiitaké. citrons. kombu. mandarine
 ---
 
 # Tempura de légumes
@@ -33123,8 +32534,7 @@ Versez la sauce tempura dans un bol et ajoutez également un peu de daïkon râp
 
 ## Noms ingrédients
 
-bouillon dashi. carottes. daïkon. farine. haricots verts. huile de tournesol. jaunes d'œufs. levure chimique. mirin. sauce soja. sucre
-
+carottes. daïkon. haricots verts. jaunes d'œuf
 ---
 
 # Japonais Tofu - Tofu au umeboshi
@@ -33156,8 +32566,7 @@ Japonais. Non testé. Végé
 
 ## Noms ingrédients
 
-huile d'olive. tofu soyeux. umeboshi
-
+tofu soyeux. umeboshi
 ---
 
 # Japonais Tofu - Tofu au daïkon et gingembre
@@ -33191,8 +32600,7 @@ Japonais. Non testé. Végé
 
 ## Noms ingrédients
 
-ciboulette. daïkon. gingembre. sauce soja. tofu soyeux
-
+ciboulette. daïkon. gingembre. tofu soyeux
 ---
 
 # Japonais Tofu - Tofu au concombre et miso
@@ -33227,8 +32635,7 @@ Japonais. Non testé. Végé
 
 ## Noms ingrédients
 
-concombre. miso doux. tofu soyeux. vinaigre de riz
-
+concombres. tofu soyeux
 ---
 
 # Japonais Tofu - Tofu à la tomate
@@ -33262,8 +32669,7 @@ Japonais. Non testé. Végé
 
 ## Noms ingrédients
 
-huile d'olive. roquette. sauce soja. tofu soyeux. tomates
-
+roquette. tofu soyeux. tomates en conserve
 ---
 
 # Japonais Tofu - Tofu au wakamé
@@ -33296,8 +32702,7 @@ Trempez le wakamé séché dans un bol d'eau froide pour le réhydrater, puis es
 
 ## Noms ingrédients
 
-sauce soja. tofu soyeux. vinaigre de riz. wakamé
-
+tofu soyeux
 ---
 
 # Japonais Tofu - Tofu à la coriandre
@@ -33331,8 +32736,7 @@ Japonais. Non testé. Végé
 
 ## Noms ingrédients
 
-coriandre. graines de sésame. huile de sésame. sauce soja. tofu soyeux
-
+coriandre. tofu soyeux
 ---
 
 # Japonais Tofu - Tofu au crabe
@@ -33365,9 +32769,7 @@ Japonais. Non testé. Poisson
 
 ## Noms ingrédients
 
-chair de crabe. sauce soja. tofu soyeux. wasabi
-
-
+chair de crabe. tofu soyeux
 ---
 
 # Japonais Tofu - Tofu à l'avocat
@@ -33400,8 +32802,7 @@ Japonais. Non testé. Végé
 
 ## Noms ingrédients
 
-avocat. citron. jus de citron. sauce soja. tofu soyeux
-
+avocats. citrons. tofu soyeux
 ---
 
 # Agedashi dofu
@@ -33451,8 +32852,7 @@ Déposez le tofu frit dans un bol de service. Arrosez de sauce et décorez de da
 
 ## Noms ingrédients
 
-bouillon dashi. daïkon. fécule de pomme de terre. gingembre. huile de tournesol. mirin. oignons verts. sauce soja. tofu soyeux
-
+daïkon. gingembre. oignons verts. tofu soyeux
 ---
 
 # Tofu frit
@@ -33496,8 +32896,7 @@ Faites chauffer l'huile puis faites frire les bâtonnets jusqu'à ce qu'ils pren
 
 ## Noms ingrédients
 
-ail. fécule de pomme de terre. gingembre. graines de sésame. huile de tournesol. piment d'espelette. sauce soja. tofu ferme
-
+ail. gingembre. piment d'espelette. tofu ferme
 ---
 
 # Tamago yaki
@@ -33551,8 +32950,7 @@ Déposez l'omelette sur une natte à maki, refermez la natte sur l'omelette et p
 
 ## Noms ingrédients
 
-bouillon dashi. daïkon. mirin. œufs. sauce soja
-
+daïkon
 ---
 
 # Kara age
@@ -33600,8 +32998,7 @@ Servez bien chaud avec les quartiers de citron.
 
 ## Noms ingrédients
 
-ail. citron. cuisses de poulet. fécule de pomme de terre. gingembre. huile de tournesol. saké. sauce soja
-
+ail. citrons. cuisses de poulet. gingembre
 ---
 
 # Shiitaké farcis
@@ -33640,8 +33037,7 @@ Parsemez le dessus des champignons de vert d'oignon finement émincé et servez.
 
 ## Noms ingrédients
 
-champignons shiitaké. citron. gingembre. huile d'olive. oignons verts. saké. sauce soja. volaille
-
+champignons shiitaké. citrons. gingembre. oignons verts. volaille
 ---
 
 # Croquettes
@@ -33692,8 +33088,7 @@ Disposez les boulettes sur un plat avec le chou. Dégustez avec la sauce tonkats
 
 ## Noms ingrédients
 
-bœuf haché. chapelure. chou vert. fécule de pomme de terre. huile d'arachide. jaunes d'œufs. œufs. oignons. panko. pommes de terre. sauce tonkatsu
-
+bœuf haché. chou vert. jaunes d'œuf. oignons. pomme de terre
 ---
 
 # Soupe miso
@@ -33744,8 +33139,7 @@ Prélevez une petite louche de bouillon de la casserole, délayez le miso, puis 
 
 ## Noms ingrédients
 
-bouillon dashi. champignons shiitaké. daïkon. graines de sésame. miso blanc. miso rouge. oignons verts. persil. sauce soja. tofu soyeux. wakamé
-
+champignons shiitaké. daïkon. oignons verts. persil. tofu soyeux
 ---
 
 # Salade de poires et avocats
@@ -33792,8 +33186,7 @@ Servez la salade décorée de betterave et de zestes de citron vert.
 
 ## Noms ingrédients
 
-avocat. betterave. citron vert. huile de sésame. jus de citron vert. mirin. poires. sauce ponzu. sauce soja
-
+avocats. betteraves. citrons verts. poire
 ---
 
 # Soupe de soba aux champignons
@@ -33844,9 +33237,7 @@ Faites cuire les nouilles dans une casserole d'eau bouillante selon les indicati
 
 ## Noms ingrédients
 
-bouillon dashi. champignons énoki. champignons shiitaké. champignons shimeji. daïkon. huile de sésame. mirin. nouilles soba. oignons verts. pleurotes. saké. sauce soja. yuzu
-
-
+champignons enoki. champignons shiitaké. champignons shimeji. daïkon. oignons verts. pleurotes. yuzu
 ---
 
 # Japonais Accompagnement - Édamamé
@@ -33873,8 +33264,7 @@ Dans une casserole d'eau bouillante, faites cuire les fèves de soja avec leur c
 
 ## Noms ingrédients
 
-édamamé. sel
-
+édamamé
 ---
 
 # Japonais Accompagnement - Légumes marinés
@@ -33906,8 +33296,7 @@ Dans une casserole, faites chauffer le vinaigre, l'eau et le sucre jusqu'à ébu
 
 ## Noms ingrédients
 
-betterave. daïkon. gingembre. sucre. vinaigre de riz
-
+betteraves. daïkon. gingembre
 ---
 
 # Japonais Accompagnement - Salade de concombre et algues
@@ -33940,8 +33329,7 @@ Réhydratez les algues séchées dans un bol d'eau froide pendant 10 minutes. É
 
 ## Noms ingrédients
 
-algues séchées. concombre. graines de sésame. huile de sésame. sauce soja. vinaigre de riz
-
+concombres
 ---
 
 # Japonais Accompagnement - Salade japonaise au chou
@@ -33972,8 +33360,7 @@ Déposez le chou dans un saladier. Versez le vinaigre de riz, le sucre, le sel e
 
 ## Noms ingrédients
 
-chou blanc. chou rouge. gomashio. huile de sésame. sucre. vinaigre de riz
-
+chou blanc. chou rouge
 ---
 
 # Salade de harusamé
@@ -34014,8 +33401,7 @@ Rincez la roquette et mettez-la dans un saladier. Ajoutez les crevettes, les ver
 
 ## Noms ingrédients
 
-crevettes. graines de sésame. harusamé. huile de sésame. jus de citron. roquette. sauce soja. wakamé
-
+crevettes. citrons. roquette
 ---
 
 # Salade de soba au crabe
@@ -34056,8 +33442,7 @@ Rincez les nouilles sous l'eau froide et égouttez-les. Dressez les nouilles sur
 
 ## Noms ingrédients
 
-chair de crabe. citron vert. daïkon. nouilles soba. sauce ponzu. wakamé
-
+chair de crabe. citrons verts. daïkon
 ---
 
 # Soupe de palourdes au miso
@@ -34100,8 +33485,7 @@ Répartissez le wakamé et les palourdes dans 4 bols. Recouvrez de bouillon au m
 
 ## Noms ingrédients
 
-miso blanc. oignons verts. palourdes. wakamé
-
+oignons verts. palourdes
 ---
 
 # Salade de wakamé et saumon fumé
@@ -34148,8 +33532,7 @@ Sur un plat, disposez le daïkon avec le wakamé et le saumon fumé. Arrosez de 
 
 ## Noms ingrédients
 
-daïkon. huile de sésame. saumon fumé. sauce soja. vinaigre de riz. wakamé
-
+daïkon. saumon fumé
 ---
 
 # Soupe kenchin
@@ -34199,8 +33582,7 @@ Répartissez la soupe bien chaude dans des bols et décorez d'oignon émincé.
 
 ## Noms ingrédients
 
-bouillon dashi. carottes. daïkon. huile de sésame. miso rouge. oignons verts. patates douces. poireau. poitrine de porc. sauce soja. tofu ferme
-
+carottes. daïkon. oignons verts. patate douce. poireau. poitrine de porc. tofu ferme
 ---
 
 # Japonais Onigiri - Onigiri grillé au soja
@@ -34243,8 +33625,6 @@ Enveloppez chaque onigiri d'une bande de nori.
 
 ## Noms ingrédients
 
-algues en paillettes. gomashio. nori. riz. sauce soja
-
 
 ---
 
@@ -34277,8 +33657,7 @@ Avec vos mains mouillées, formez un triangle en suivant les indications de l'on
 
 ## Noms ingrédients
 
-miso doux. oignons verts. riz
-
+oignons verts
 ---
 
 # Japonais Onigiri - Onigiri à l'œuf brouillé
@@ -34312,8 +33691,7 @@ Battez l'œuf dans un bol. Ajoutez l'oignon et le sel. Dans une poêle, faites c
 
 ## Noms ingrédients
 
-huile d'olive. œufs. oignons verts. riz
-
+oignons verts
 ---
 
 # Japonais Onigiri - Onigiri tout rouge
@@ -34345,8 +33723,7 @@ Mélangez les anchois, la ciboulette et le riz. Avec vos mains mouillées, forme
 
 ## Noms ingrédients
 
-anchois. ciboulette. riz
-
+anchois. ciboulette
 ---
 
 # Japonais Onigiri - Onigiri au thon
@@ -34379,8 +33756,7 @@ Mélangez le thon et la ciboulette avec le riz vinaigré. Avec vos mains mouill�
 
 ## Noms ingrédients
 
-ciboulette. nori. riz. thon en boîte
-
+ciboulette. thon en boîte
 ---
 
 # Japonais Onigiri - Onigiri au umeboshi
@@ -34412,8 +33788,7 @@ Saupoudrez le riz de graines de sésame, puis mélangez délicatement afin de ne
 
 ## Noms ingrédients
 
-graines de sésame. riz. umeboshi
-
+umeboshi
 ---
 
 # Japonais Onigiri - Onigiri à la laitue de mer
@@ -34445,8 +33820,7 @@ Mélangez délicatement le gomashio et la laitue de mer avec le riz. Avec vos ma
 
 ## Noms ingrédients
 
-gomashio. laitue de mer. riz
-
+laitue de mer
 ---
 
 # Japonais Onigiri - Onigiri à l'italienne
@@ -34478,8 +33852,7 @@ Ciselez 8 feuilles de roquette et mélangez-les au riz. Avec vos mains mouillée
 
 ## Noms ingrédients
 
-jambon de Parme. riz. roquette
-
+jambon de Parme. roquette
 ---
 
 # Japonais Sushi - Nigiri sushi au saumon
@@ -34526,8 +33899,7 @@ Renouvelez l'opération jusqu'à obtenir 8 nigiri sushi. Déposez-les sur un pla
 
 ## Noms ingrédients
 
-gingembre mariné. riz. saumon. sauce soja. wasabi
-
+gingembre mariné. saumon
 ---
 
 # Japonais Sushi - Nigiri sushi à la daurade
@@ -34562,8 +33934,7 @@ Réalisez 1 boulette de riz ovale et garnissez-la d'une tranche de daurade, en s
 
 ## Noms ingrédients
 
-daurade. gingembre. oignons verts. riz
-
+daurade. gingembre. oignons verts
 ---
 
 # Japonais Sushi - Nigiri sushi au maquereau
@@ -34597,9 +33968,7 @@ Réalisez 1 boulette de riz ovale et garnissez-la d'une tranche de maquereau, en
 
 ## Noms ingrédients
 
-gingembre. maquereau. riz
-
-
+gingembre. maquereau
 ---
 
 # Japonais Sushi - Nigiri sushi aux noix de saint-jacques
@@ -34633,8 +34002,7 @@ Réalisez 1 boulette de riz ovale et garnissez-la de 2 tranches de noix de saint
 
 ## Noms ingrédients
 
-citron vert. noix de saint-jacques. riz
-
+citrons verts. noix de saint-jacques
 ---
 
 # Japonais Sushi - Gunkan aux œufs de saumon
@@ -34668,8 +34036,7 @@ Réalisez 1 boulette de riz ovale, en suivant les indications du nigiri sushi au
 
 ## Noms ingrédients
 
-nori. œufs de saumon. riz
-
+œufs de saumon
 ---
 
 # Japonais Sushi - Sushi au tamago yaki
@@ -34703,8 +34070,7 @@ Réalisez 1 boulette de riz ovale et garnissez-la d'une tranche de tamago yaki, 
 
 ## Noms ingrédients
 
-nori. œufs. oignons verts. riz. tamago yaki
-
+oignons verts
 ---
 
 # Japonais Sushi - Sushi teriyaki
@@ -34742,8 +34108,7 @@ Réalisez 1 boulette de riz ovale et garnissez-la d'une tranche de carrelet teri
 
 ## Noms ingrédients
 
-carrelet. riz. sauce teriyaki
-
+carrelet
 ---
 
 # Oshi sushi au maquereau
@@ -34789,8 +34154,7 @@ Disposez les oshi sushi sur un plat de service. Dégustez-les avec la sauce soja
 
 ## Noms ingrédients
 
-maquereau. riz. sauce soja. sucre. vinaigre de riz. wasabi
-
+maquereau
 ---
 
 # Japonais Sushi - Inari sushi
@@ -34822,8 +34186,7 @@ Mélangez délicatement le riz et les graines de sésame. Réalisez 6 boulettes 
 
 ## Noms ingrédients
 
-graines de sésame. inari. riz
-
+inari
 ---
 
 # Japonais Sushi - Gunkan au saumon
@@ -34856,8 +34219,7 @@ Lavez la courgette puis coupez-la en 6 très fines lamelles dans la longueur à 
 
 ## Noms ingrédients
 
-courgettes. oignons verts. riz. saumon
-
+courgettes. oignons verts. saumon
 ---
 
 # Japonais Sushi - Nigiri sushi de sardine
@@ -34890,8 +34252,7 @@ Réalisez 6 boulettes de riz ovales. Déposez 1 filet de sardine sur chaque boul
 
 ## Noms ingrédients
 
-ciboulette. gingembre. riz. sardines
-
+ciboulette. gingembre. sardines
 ---
 
 # Japonais Sushi - Gunkan au corail d'oursin
@@ -34923,8 +34284,7 @@ Réalisez 6 boulettes de riz ovales. Coupez 6 bandes de nori plus larges que la 
 
 ## Noms ingrédients
 
-corail d'oursin. nori. riz
-
+corail d'oursin
 ---
 
 # Japonais Sushi - Nigiri sushi aux crevettes
@@ -34957,9 +34317,7 @@ Japonais. Non testé. Poisson
 
 ## Noms ingrédients
 
-coriandre. crevettes. riz
-
-
+coriandre. crevettes
 ---
 
 # Japonais Chirashi - Chirashi traditionnel
@@ -35008,8 +34366,7 @@ Mélangez un peu de sauce soja et une pointe de wasabi dans des coupelles, puis 
 
 ## Noms ingrédients
 
-concombre. crevettes. graines de sésame. maquereau. noix de saint-jacques. persil. riz. saumon. sauce soja. tamago yaki. wasabi
-
+concombres. crevettes. maquereau. noix de saint-jacques. persil. saumon
 ---
 
 # Japonais Chirashi - Chirashi au thon et aux œufs de saumon
@@ -35046,8 +34403,7 @@ Coupez le thon en rectangles de la taille d'une bouchée. Garnissez chaque bol d
 
 ## Noms ingrédients
 
-mesclun. œufs de saumon. riz. sauce soja. thon. wasabi
-
+mesclun. œufs de saumon. thon
 ---
 
 # Japonais Chirashi - Chirashi au poulet
@@ -35088,8 +34444,7 @@ Coupez la chair de poulet en gros dés. Déposez-les dans un grand bol, arrosez-
 
 ## Noms ingrédients
 
-carottes. concombre. coriandre. cuisses de poulet. graines de sésame. huile d'arachide. riz. sauce yakiniku
-
+carottes. concombres. coriandre. cuisses de poulet
 ---
 
 # Japonais Chirashi - Chirashi au tamago yaki
@@ -35128,8 +34483,7 @@ Coupez le tamago yaki en tranches, puis coupez chaque tranche en deux. Garnissez
 
 ## Noms ingrédients
 
-betterave. concombre. graines de sésame. riz. roquette. sauce soja. tamago yaki. wasabi
-
+betteraves. concombres. roquette
 ---
 
 # Japonais Chirashi - Chirashi au bar et aux groseilles
@@ -35170,8 +34524,7 @@ Retirez la peau et les arêtes du bar. Coupez-le en fines tranches. Garnissez ch
 
 ## Noms ingrédients
 
-algues en paillettes. avocat. bar. citron. groseilles. oignons verts. riz. sauce soja. shiso. wasabi
-
+avocats. bar. citrons. groseilles. oignons verts
 ---
 
 # Japonais Chirashi - Chirashi au riz rouge
@@ -35209,8 +34562,7 @@ Pelez et dénoyautez l'avocat. Taillez sa chair en lamelles. Coupez les lamelles
 
 ## Noms ingrédients
 
-avocat. graines germées. riz. sauce soja. shiso. takuan. wasabi
-
+avocats. takuan
 ---
 
 # Japonais Riz sauté - Riz sauté au crabe
@@ -35255,8 +34607,7 @@ Incorporez le riz cuit, mélangez et faites sauter 2 ou 3 minutes. Ajoutez le cr
 
 ## Noms ingrédients
 
-ail. chair de crabe. ciboulette. gingembre. huile de sésame. œufs. oignons verts. riz. sauce soja
-
+ail. chair de crabe. ciboulette. gingembre. oignons verts
 ---
 
 # Japonais Riz sauté - Shiitaké et maïs
@@ -35290,8 +34641,7 @@ Nettoyez les shiitaké et émincez-les. Équeutez les haricots verts et coupez-l
 
 ## Noms ingrédients
 
-champignons shiitaké. gingembre. grains de maïs. haricots verts. huile de sésame. jus de citron. riz. sauce soja
-
+champignons shiitaké. gingembre. maïs. haricots verts. citrons
 ---
 
 # Japonais Riz sauté - Jambon, œuf et brocoli
@@ -35323,8 +34673,7 @@ Dans un saladier, battez les œufs avec 1 pincée de sel. Séparez le brocoli en
 
 ## Noms ingrédients
 
-ail. brocoli. huile d'olive. jambon blanc. œufs. riz
-
+ail. brocoli. jambon blanc
 ---
 
 # Japonais Riz sauté - Crevette et pois mange-tout
@@ -35356,9 +34705,7 @@ Coupez les crevettes en dés. Détaillez les pois mange-tout en lamelles. Dans u
 
 ## Noms ingrédients
 
-crevettes. gingembre. huile de tournesol. jus de citron vert. pois mange-tout. riz
-
-
+crevettes. gingembre. citrons verts. pois mange-tout
 ---
 
 # Japonais Riz sauté - Wakamé et œuf
@@ -35390,8 +34737,7 @@ Dans un saladier, battez les œufs avec 1 pincée de sel. Dans un wok, faites ch
 
 ## Noms ingrédients
 
-gingembre. huile de sésame. huile de tournesol. œufs. riz. wakamé
-
+gingembre
 ---
 
 # Japonais Riz sauté - Maquereau et pack choï
@@ -35424,8 +34770,7 @@ Japonais. Non testé. Poisson
 
 ## Noms ingrédients
 
-citron. huile de tournesol. jus de citron. maquereau. oignons verts. pack choï. riz. saké
-
+citrons. maquereau. oignons verts. pak choï
 ---
 
 # Japonais Riz sauté - Shiitaké et petits pois
@@ -35457,8 +34802,7 @@ Faites tremper les shiitaké dans un bol d'eau froide pendant 30 minutes. Égout
 
 ## Noms ingrédients
 
-champignons shiitaké. huile de sésame. oignons verts. petits pois. riz. saké. sauce soja
-
+champignons shiitaké. oignons verts. petits pois
 ---
 
 # Riz au konjac
@@ -35512,8 +34856,7 @@ Hors du feu, incorporez le riz cuit. Rectifiez l'assaisonnement en sel et poivre
 
 ## Noms ingrédients
 
-ail. carottes. champignons shiitaké. gingembre. gomashio. huile de sésame. huile de tournesol. konjac. pois mange-tout. riz. saké. sauce soja
-
+ail. carottes. champignons shiitaké. gingembre. konjac. pois mange-tout
 ---
 
 # Sakana-meshi
@@ -35562,8 +34905,7 @@ Hors du feu, incorporez le riz cuit et saupoudrez de graines de sésame. Servez 
 
 ## Noms ingrédients
 
-chou chinois. gingembre. graines de sésame. huile de sésame. huile de tournesol. œufs. poireau. pousses de soja. riz. sauce soja. truites
-
+chou chinois. gingembre. poireau. pousses de soja. truite
 ---
 
 # Hiyashi somen
@@ -35600,8 +34942,7 @@ Faites cuire les nouilles somen dans un grand volume d'eau bouillante selon les 
 
 ## Noms ingrédients
 
-gingembre. graines de sésame. nori. oignons verts. somen. sauce tsuyu
-
+gingembre. oignons verts. somen
 ---
 
 # Somen champuru
@@ -35649,8 +34990,7 @@ Hors du feu, ajoutez l'omelette. Salez, poivrez et mélangez. Disposez la prépa
 
 ## Noms ingrédients
 
-courgettes. gingembre. graines de sésame. huile de sésame. huile de tournesol. œufs. oignons verts. sauce soja. somen. tofu ferme
-
+courgettes. gingembre. oignons verts. somen. tofu ferme
 ---
 
 # Karé udon
@@ -35697,8 +35037,7 @@ Faites cuire les nouilles dans une casserole d'eau bouillante selon les indicati
 
 ## Noms ingrédients
 
-ail. carottes. champignons de paris. curry japonais. cuisses de poulet. huile de tournesol. nouilles udon. poireau
-
+ail. carottes. champignons de Paris. cuisses de poulet. poireau
 ---
 
 # Nabé udon au canard
@@ -35740,9 +35079,7 @@ Saupoudrez de poivre sansho et servez dans des assiettes creuses.
 
 ## Noms ingrédients
 
-bouillon dashi. champignons énoki. champignons shiitaké. épinards. magret de canard. mirin. nouilles udon. poivre sansho. sauce soja
-
-
+champignons enoki. champignons shiitaké. épinards. magrets de canard
 ---
 
 # Soba au poulet namban
@@ -35789,8 +35126,7 @@ Faites cuire les nouilles dans une casserole d'eau bouillante selon les indicati
 
 ## Noms ingrédients
 
-bouillon dashi. cuisses de poulet. épinards. huile de tournesol. mirin. nouilles soba. poireau. poivre sansho. saké. sauce soja. sucre
-
+cuisses de poulet. épinards. poireau
 ---
 
 # Sashimi soba au thé vert
@@ -35829,8 +35165,7 @@ Servez accompagné du reste de sauce tsuyu répartie dans 4 petits bols.
 
 ## Noms ingrédients
 
-gingembre. maquereau. nouilles soba. oignons verts. sauce tsuyu. shiso
-
+gingembre. maquereau. oignons verts
 ---
 
 # Champon ramen
@@ -35881,8 +35216,7 @@ Versez le bouillon dans le wok, mélangez et portez à ébullition. Faites cuire
 
 ## Noms ingrédients
 
-bouillon ramen. calamars. carottes. chou vert. crevettes. gingembre mariné. huile de tournesol. nouilles ramen. oignons verts. poitrine de porc. pousses de soja. sauce d'huître
-
+calamars. carottes. chou vert. crevettes. gingembre mariné. oignons verts. poitrine de porc. pousses de soja
 ---
 
 # Shoyu ramen
@@ -35935,8 +35269,7 @@ Faites cuire les nouilles dans une casserole d'eau bouillante selon les indicati
 
 ## Noms ingrédients
 
-bouillon de poulet. épinards. épis de maïs. huile de tournesol. mirin. nori. nouilles ramen. œufs. oignons verts. rôti de porc. sauce soja
-
+épinards. épis de maïs. oignons verts. rôti de porc
 ---
 
 # Hiyashi chuka
@@ -35992,8 +35325,7 @@ Juste avant de servir, parsemez de graines de sésame, assaisonnez de sauce et d
 
 ## Noms ingrédients
 
-bouillon de poulet. concombre. gingembre. graines de sésame. grains de maïs. jambon blanc. moutarde karashi. nori. nouilles ramen. œufs. sauce soja. sucre. tomates. vinaigre de riz
-
+concombres. gingembre. maïs. jambon blanc. tomates en conserve
 ---
 
 # Plateau de sashimi
@@ -36046,8 +35378,7 @@ Dans des coupelles, mélangez un peu de sauce soja avec une pointe de wasabi. D�
 
 ## Noms ingrédients
 
-daïkon. daurade. gingembre mariné. maquereau. riz. saumon. sauce soja. seiche. shiso. thon. wasabi
-
+daïkon. daurade. gingembre mariné. maquereau. saumon. seiche. thon
 ---
 
 # Gyoza
@@ -36113,8 +35444,7 @@ Déposez les gyoza sur un plat en les retournant de façon à voir le côté dor
 
 ## Noms ingrédients
 
-ail. chou vert. farine. farine de riz. gingembre. huile de sésame. oignons verts. porc haché. sauce soja. vinaigre de riz
-
+ail. chou vert. gingembre. oignons verts. porc haché
 ---
 
 # Harumaki
@@ -36177,8 +35507,7 @@ Dégustez les harumaki avec de la sauce soja et de la moutarde karashi.
 
 ## Noms ingrédients
 
-carottes. champignons shiitaké. chou vert. fécule de pomme de terre. huile de sésame. huile de tournesol. moutarde karashi. oignons. porc haché. pousses de soja. sauce soja
-
+carottes. champignons shiitaké. chou vert. oignons. porc haché. pousses de soja
 ---
 
 # Yakitori de poulet et poireaux
@@ -36225,9 +35554,7 @@ Trempez une dernière fois les brochettes dans la sauce et servez-les aussitôt 
 
 ## Noms ingrédients
 
-cuisses de poulet. poireau. riz. sauce yakitori. shichimi togarashi
-
-
+cuisses de poulet. poireau. nanami togarashi
 ---
 
 # Brochettes de shiitaké
@@ -36272,8 +35599,7 @@ Faites chauffer le barbecue. À l'aide d'un pinceau, badigeonnez les brochettes 
 
 ## Noms ingrédients
 
-bouillon de légumes. champignons shiitaké. mirin. saké. sauce soja. shichimi togarashi. sucre
-
+champignons shiitaké. nanami togarashi
 ---
 
 # Yakitori de tofu, sauce au sésame
@@ -36320,8 +35646,7 @@ Trempez une dernière fois les brochettes dans la sauce et servez-les avec le ri
 
 ## Noms ingrédients
 
-courgettes. gomashio. huile de sésame. riz. sauce soja. shichimi togarashi. sucre. tofu ferme
-
+courgettes. nanami togarashi. tofu ferme
 ---
 
 # Piques de crevettes au sansho
@@ -36361,8 +35686,7 @@ Faites chauffer le barbecue. Égouttez les brochettes, puis faites-les griller 3
 
 ## Noms ingrédients
 
-crevettes. huile d'olive. jus de citron vert. poivre sansho. sauce soja
-
+crevettes. citrons verts
 ---
 
 # Brochettes de sardines grillées
@@ -36405,8 +35729,7 @@ Faites chauffer le barbecue. Égouttez les brochettes, puis faites-les griller 3
 
 ## Noms ingrédients
 
-coriandre. gomashio. huile d'olive. jus de citron. persil. sardines. sauce soja. vinaigre de riz
-
+coriandre. citrons. persil. sardines
 ---
 
 # Teppanyaki de champignons, sauce citron et wasabi
@@ -36455,8 +35778,7 @@ Versez la sauce sur la plaque et enrobez-en bien les champignons, toujours à l'
 
 ## Noms ingrédients
 
-champignons énoki. champignons shiitaké. champignons shimeji. citron vert. huile d'olive. jus de citron vert. pleurotes. sauce soja. wasabi
-
+champignons enoki. champignons shiitaké. champignons shimeji. citrons verts. pleurotes
 ---
 
 # Tataki de bonite, sauce au wasabi
@@ -36505,8 +35827,7 @@ Coupez la bonite en lamelles de 1 cm d'épaisseur. Disposez celles-ci sur un pla
 
 ## Noms ingrédients
 
-bonite. daïkon. gingembre. huile de sésame. huile de tournesol. sauce soja. shiso. vinaigre de riz. wasabi
-
+bonite. daïkon. gingembre
 ---
 
 # Yakiniku
@@ -36561,8 +35882,7 @@ Saisissez la viande sur la plaque à feu vif, pendant quelques secondes de chaqu
 
 ## Noms ingrédients
 
-ail. champignons de paris. faux-filet. graines de sésame. huile de tournesol. mirin. oignons rouges. poivrons verts. potimarron. riz. saké. sauce soja. sucre
-
+ail. champignons de Paris. faux-filet. oignons rouges. poivron vert. potimarron
 ---
 
 # Oyako-don
@@ -36607,8 +35927,7 @@ Répartissez la préparation sur les bols de riz, puis décorez avec du vert de 
 
 ## Noms ingrédients
 
-bouillon dashi. cuisses de poulet. mirin. nori. œufs. oignons verts. riz. sauce soja
-
+cuisses de poulet. oignons verts
 ---
 
 # Okonomiyaki au lard
@@ -36660,8 +35979,7 @@ Servez les crêpes badigeonnées de sauce okonomiyaki et, éventuellement, parse
 
 ## Noms ingrédients
 
-algues en paillettes. bonite séchée. bouillon dashi. chou vert. farine. fécule de pomme de terre. gingembre mariné. huile de tournesol. lard. œufs. oignons verts. sauce okonomiyaki
-
+bonite séchée. chou vert. gingembre mariné. lard. oignons verts
 ---
 
 # Hiroshima okonomiyaki
@@ -36717,9 +36035,7 @@ Servez les crêpes badigeonnées de sauce okonomiyaki et de mayonnaise japonaise
 
 ## Noms ingrédients
 
-bouillon dashi. chou vert. farine. fécule de pomme de terre. huile de tournesol. lard. mayonnaise kewpie. nouilles yakisoba. œufs. oignons verts. pois mange-tout. sauce okonomiyaki
-
-
+chou vert. lard. oignons verts. pois mange-tout
 ---
 
 # Japonais Yakitori - Poulet et oignon rouge
@@ -36751,8 +36067,7 @@ Désossez les cuisses de poulet et coupez la chair en cubes. Pelez l'oignon et t
 
 ## Noms ingrédients
 
-cuisses de poulet. oignons rouges. sauce yakitori
-
+cuisses de poulet. oignons rouges
 ---
 
 # Japonais Yakitori - Foie et shiso
@@ -36785,8 +36100,7 @@ Coupez les feuilles de shiso en deux. Détaillez les foies en 24 cubes. Envelopp
 
 ## Noms ingrédients
 
-foies de volaille. graines de sésame. sauce teriyaki. shiso
-
+foies de volaille
 ---
 
 # Japonais Yakitori - Asperge et lard
@@ -36819,8 +36133,7 @@ Détaillez chaque asperge en 3 tronçons. Coupez les tranches de poitrine en deu
 
 ## Noms ingrédients
 
-asperges vertes. poitrine de porc. sauce yakitori. shichimi togarashi
-
+asperges. poitrine de porc. nanami togarashi
 ---
 
 # Japonais Yakitori - Bœuf et courgette yakiniku
@@ -36852,8 +36165,7 @@ Coupez le filet de bœuf en 24 lamelles. Lavez la courgette et détaillez-la en 
 
 ## Noms ingrédients
 
-courgettes. faux-filet. sauce yakiniku
-
+courgettes. faux-filet
 ---
 
 # Japonais Yakitori - Boulette et poivron
@@ -36885,8 +36197,7 @@ Lavez le poivron et coupez-le en cubes. Avec les mains légèrement huilées, pr
 
 ## Noms ingrédients
 
-poivrons rouges. poulet haché. sauce yakitori
-
+poivron rouge. poulet haché
 ---
 
 # Japonais Yakitori - Chou kale et poitrine de porc
@@ -36918,8 +36229,7 @@ Lavez le chou, retirez les tiges, puis coupez chaque feuille en 6 morceaux. Dét
 
 ## Noms ingrédients
 
-chou kale. poitrine de porc. sauce yakitori
-
+chou kale. poitrine de porc
 ---
 
 # Japonais Yakitori - Poulet et roquette
@@ -36954,8 +36264,7 @@ Coupez les blancs de poulet en 12 fines lamelles, le parmesan en 12 bâtonnets e
 
 ## Noms ingrédients
 
-huile d'olive. parmesan. poulet. roquette. sauce soja. tomates
-
+parmesan. poulet. roquette. tomates en conserve
 ---
 
 # Japonais Yakitori - Poulet au sésame noir
@@ -36987,8 +36296,7 @@ Désossez les cuisses de poulet et coupez la chair en gros cubes. Déposez ceux-
 
 ## Noms ingrédients
 
-cuisses de poulet. graines de sésame. sauce yakitori
-
+cuisses de poulet
 ---
 
 # Japonais Yakitori - Bœuf au fromage
@@ -37029,8 +36337,7 @@ Badigeonnez une dernière fois les brochettes de sauce et servez-les aussitôt s
 
 ## Noms ingrédients
 
-bœuf. comté. graines de sésame. sauce yakitori
-
+bœuf. comté
 ---
 
 # Niku-miso domburi
@@ -37079,8 +36386,7 @@ Répartissez la préparation à la viande sur les bols de riz bien chaud. Garnis
 
 ## Noms ingrédients
 
-ail. concombre. coriandre. fécule de maïs. gingembre. graines de sésame. huile de sésame. huile de tournesol. miso rouge. poireau. porc haché. riz. sauce soja. sucre
-
+ail. concombres. coriandre. gingembre. poireau. porc haché
 ---
 
 # Sukiyaki-don
@@ -37135,8 +36441,7 @@ Garnissez chaque bol de riz bien chaud de légumes et de viande. Cassez 1 œuf a
 
 ## Noms ingrédients
 
-bœuf. carottes. champignons énoki. champignons shiitaké. huile de tournesol. mirin. œufs. oignons verts. pack choï. poireau. riz. saké. sauce soja. sucre
-
+bœuf. carottes. champignons enoki. champignons shiitaké. oignons verts. pak choï. poireau
 ---
 
 # Aubergines grillées à l'ail noir, pignons de pin et basilic
@@ -37182,8 +36487,7 @@ L'ail noir offre une saveur profonde, à mi-chemin entre la crème de balsamique
 
 ## Noms ingrédients
 
-ail noir. aubergines. basilic. cacao en poudre. flocons de piment urfa. harissa. huile d'olive. jus de citron. mélasse de grenade. pignons de pin. sel. yaourt nature
-
+ail noir. aubergines. basilic. piment d'Urfa. citrons. grenade. pistaches. yaourt nature
 ---
 
 # Purée de céleri-rave, chou-fleur aux épices et œufs de caille
@@ -37243,8 +36547,7 @@ Le ras-el-hanout est un mélange d'épices du Maghreb dont la composition varie 
 
 ## Noms ingrédients
 
-ail. amandes. bouillon de légumes. céleri-rave. chou-fleur. citron confit. citron (jus). coriandre en poudre. cumin. huile d'olive. jus de citron. laurier. oignon. œufs de caille. paprika fumé. persil. ras-el-hanout. tahini. yaourt nature
-
+ail. amandes. céleri-rave. chou-fleur. citron confit. citrons. oignons. œufs de caille. persil. ras-el-hanout. tahin. yaourt nature
 ---
 
 # Artichauts poivrade frits et aïoli au poivre rose
@@ -37302,8 +36605,7 @@ Plus les artichauts sont petits, plus leur préparation est facile. Une fois les
 
 ## Noms ingrédients
 
-ail. artichauts poivrade. cinq-épices. farine de maïs. farine de ménage. grains de poivre rose. huile d'olive. huile de tournesol. jaunes d'œuf. jus de citron. moutarde de Dijon. persil. thym. vinaigre de vin blanc
-
+ail. artichauts. jaunes d'œuf. citrons. persil
 ---
 
 # Crème d'oignon vert grillé et chou kale poêlé
@@ -37350,8 +36652,7 @@ La crème d'oignon vert seule est délicieuse tartinée sur du pain grillé ou p
 
 ## Noms ingrédients
 
-ail. chou kale. cream cheese. crème aigre. huile d'olive. huile de tournesol. jus de citron. oignons verts. piments rouges. sel
-
+ail. chou kale. cream cheese. citrons. oignons verts. piment rouge
 ---
 
 # Burrata et oranges sanguines aux graines de coriandre et lavande
@@ -37388,8 +36689,7 @@ Une des salades emblématiques de NOPI — environ mille portions par mois ! La 
 
 ## Noms ingrédients
 
-ail. basilic. burrata. graines de coriandre. huile d'olive. lavande séchée. miel. oranges sanguines. sel
-
+ail. basilic. burrata. miel. oranges sanguines
 ---
 
 # Asperges vertes grillées, sauce romesco et balsamic à la pomme
@@ -37436,8 +36736,7 @@ Une variante de la sauce romesco plus rustique et plus dense que la sauce classi
 
 ## Noms ingrédients
 
-amandes. asperges vertes. huile d'olive. jus de pomme. pain au levain. piment ancho. piment rouge. sel. sucre. tomates. vinaigre balsamique. vinaigre de xérès
-
+amandes. asperges. pomme. pain au levain. piment ancho. piment rouge. tomates en conserve
 ---
 
 # Brocolis à jets violets et skordalia
@@ -37482,8 +36781,7 @@ La skordalia est la version grecque de la purée de pommes de terre, onctueuse e
 
 ## Noms ingrédients
 
-ail. brocolis violets. huile d'olive. jus de citron. piment rouge. pommes de terre. sel. zeste de citron
-
+ail. brocoli. citrons. piment rouge. pomme de terre
 ---
 
 # Courge rôtie, tomates au gingembre et yaourt au citron vert
@@ -37539,8 +36837,7 @@ Les quartiers de courge rôtis figurent de longue date sur les cartes d'Ottoleng
 
 ## Noms ingrédients
 
-ail. cardamome. citron vert. coriandre. courge butternut. gingembre. huile d'olive. noix de cajou. piment rouge. sel. sucre muscovado. tomates. yaourt grec
-
+ail. citrons verts. coriandre. courge butternut. gingembre. noix de cajou. piment rouge. tomates en conserve. yaourt grec
 ---
 
 # Carottes et haricots mungo au labné fumé et pain pita croustillant
@@ -37609,8 +36906,7 @@ Le labné fumé nécessite 24 h d'égouttage au réfrigérateur (réductible à 
 
 ## Noms ingrédients
 
-ail. beurre. carottes. graines de carvi. graines de fenouil. haricots mungo. huile d'olive. lapsang souchong. menthe. oignon rouge. pain pita. poivre rose. sel. sucre. thé oolong. thym. vinaigre de xérès. yaourt grec. zaatar. zeste de citron
-
+ail. carottes. haricots mungo. lapsang souchong. menthe. oignons rouges. pain pita. yaourt grec. zaatar. citrons
 ---
 
 # Frites de polenta
@@ -37660,9 +36956,7 @@ Cette recette peut être préparée à l'avance — il ne reste plus qu'à faire
 
 ## Noms ingrédients
 
-ail. beurre. chutney de tomates. huile de tournesol. huile de truffe. jaunes d'œuf. laurier. moutarde forte. parmesan. polenta. sel. thym. vinaigre de vin blanc
-
-
+ail. tomates en conserve. jaunes d'œuf. parmesan
 ---
 
 # Soupe de pastèque aux épices
@@ -37714,8 +37008,7 @@ Cette recette est née du souhait de Scully de tirer parti de l'écorce d'une pa
 
 ## Noms ingrédients
 
-ail. ajowan (graines). cannelle. cardamome noire. clous de girofle. coriandre. cumin noir. curcuma. fenouil (graines). gingembre. graines de moutarde jaune. huile de tournesol. pastèque. piments thaïs. sel. sucre. vinaigre de cidre. vinaigre de riz
-
+ail. coriandre. gingembre. pastèque. piment rouge
 ---
 
 # Velouté de petits pois et fingers frits au fromage
@@ -37774,8 +37067,7 @@ C'est au Bathers' Pavilion de Sydney que Scully a appris à faire ce velouté �
 
 ## Noms ingrédients
 
-ail. beurre. bouillon de légumes. crème fraîche. échalotes. fromage de chèvre. huile d'olive. huile de tournesol. lait. moutarde forte. œuf. oseille. petits pois. poireau. polenta. pommes de terre. thym citron
-
+ail. échalotes. fromage de chèvre. oseille. petits pois. poireau. pomme de terre
 ---
 
 # Soupe de topinambours, pesto noisettes-épinards
@@ -37828,8 +37120,7 @@ Chez NOPI, cette soupe est garnie de champignons shimeji marinés. La garniture 
 
 ## Noms ingrédients
 
-ail. beurre. bouillon de légumes. ciboulette. échalotes. épinards. estragon. huile d'olive. huile de noisette. lait. noisettes. piment thaï vert. poireau. topinambours. vinaigre blanc. vin blanc. zeste de citron
-
+ail. ciboulette. échalotes. épinards. noisettes. piment vert. poireau. topinambours. citrons
 ---
 
 # Salade d'agrumes au piment vert, salsa croquante au gingembre
@@ -37877,8 +37168,7 @@ L'association des saveurs sucrée et amère, ainsi que le contraste de texture e
 
 ## Noms ingrédients
 
-amandes. cresson. endive. fenouil (graines). gingembre confit. graines de coriandre. graines de pavot. huile d'olive. oranges. pamplemousse. piment vert. pomelo. radicchio. sel. vinaigre de xérès
-
+amandes. cresson. endives. gingembre confit. oranges. pamplemousse. piment vert. pomelo. radicchio
 ---
 
 # Salade de choux de Bruxelles, pleurotes et œufs de caille
@@ -37920,8 +37210,7 @@ Des choux de Bruxelles crus ! Avec sa vinaigrette sucrée, ses champignons charn
 
 ## Noms ingrédients
 
-choux de Bruxelles. huile d'olive. jus de citron. manchego. œufs de caille. persil. pleurotes. sirop d'érable. vinaigre de vin blanc
-
+choux de Bruxelles. citrons. fromage de brebis. œufs de caille. persil. pleurotes
 ---
 
 # Salade de pastèque, feta et olives marinées au citron confit
@@ -37968,8 +37257,7 @@ Deux options pour cette recette : la garnir avec 70 g d'écorce de pastèque en 
 
 ## Noms ingrédients
 
-ail. basilic. citron confit. feta. huile d'olive. menthe. olives de Kalamata. pastèque. piment rouge. romarin. thym
-
+ail. basilic. citron confit. feta. menthe. olives de Kalamata. pastèque. piment rouge
 ---
 
 # Haricots verts au freekeh et au miso
@@ -38032,8 +37320,7 @@ Le freekeh à la saveur fumée est la signature de Yotam ; le miso riche en umam
 
 ## Noms ingrédients
 
-ail. bouillon de légumes. céleri. échalotes. edamame. estragon. fèves. freekeh. graines de nigelle. haricots verts. huile d'olive. jus de citron. laurier. mirin. miso blanc. nanami togarashi. oignon. pousses de mange-tout. saké. sel. shiitakés. sucre. zeste d'orange
-
+ail. céleri. échalotes. édamamé. fèves. haricots verts. citrons. nanami togarashi. oignons. pousses de mange-tout. champignons shiitaké. oranges
 ---
 
 # Salade de tomates aux pignons de pin et mascarpone au wasabi
@@ -38073,8 +37360,7 @@ La vedette ici, c'est la tomate — essayez de dénicher le plus de variétés d
 
 ## Noms ingrédients
 
-basilic. ciboulette. échalotes. estragon. huile d'olive. mascarpone. oignon vert. pignons de pin. sel. tomates. vinaigre de xérès. wasabi
-
+basilic. ciboulette. échalotes. mascarpone. oignons verts. pistaches. tomates en conserve
 ---
 
 # Salade bicolore de chou-fleur, raisins secs, ricotta et câpres
@@ -38123,8 +37409,7 @@ D'une excursion au marché de Berkeley Bowl en Californie, Yotam a rapporté l'i
 
 ## Noms ingrédients
 
-câpres. chou romanesco. chou-fleur. huile d'olive. huile de tournesol. moutarde à l'ancienne. pignons de pin. raisins secs. ricotta. sel. vinaigre moscatel
-
+câpres. chou romanesco. chou-fleur. pistaches. raisins secs. ricotta
 ---
 
 # Salade de lentilles aux échalotes marinées et croûtons au berbéré
@@ -38178,9 +37463,7 @@ Le berbéré est un mélange d'épices éthiopien et érythréen dont les saveur
 
 ## Noms ingrédients
 
-berbéré. betterave. coriandre. échalotes. huile d'olive. jus de citron. lentilles du Puy. miel. moutarde forte. pain au levain. radis noir. radis rouges. roquette. sel. vinaigre de xérès
-
-
+betteraves. coriandre. échalotes. citrons. lentilles du Puy. miel. pain au levain. radis noir. radis rouges. roquette
 ---
 
 # Salade de quinoa rouge et cresson
@@ -38220,8 +37503,7 @@ Chez NOPI, cette salade accompagnait à l'origine une terrine de crabe servie av
 
 ## Noms ingrédients
 
-cresson. échalotes. huile d'olive. jus de citron. moutarde forte. quinoa rouge. sel. sucre. sumac. vinaigre de vin rouge
-
+cresson. échalotes. citrons. quinoa rouge
 ---
 
 # Salade de radis noir, endives rouges et pommes
@@ -38260,8 +37542,7 @@ Fraîche et croquante, avec un mélange de saveurs douces et piquantes, cette sa
 
 ## Noms ingrédients
 
-cannelle. endives rouges. huile d'olive. jus de citron. miel. persil. pommes. radis noir. sel. vinaigre de cidre
-
+endives rouges. citrons. miel. persil. pomme. radis noir
 ---
 
 # Pommes de terre nouvelles aux câpres, au poivre rose et à l'ail rôti
@@ -38305,8 +37586,7 @@ Cet accompagnement mise sur les saveurs marquées — l'ail rôti, les câprons 
 
 ## Noms ingrédients
 
-ail. beurre. câpres. câprons. huile d'olive. jus de citron. laurier. menthe. persil. pommes de terre nouvelles. poivre rose. romarin. sel. thym. zeste de citron
-
+ail. câpres. citrons. menthe. persil. pomme de terre
 ---
 
 # Gratin suédois fondant
@@ -38352,8 +37632,7 @@ Ce gratin très riche peut aussi bien accompagner des plats puissants comme le c
 
 ## Noms ingrédients
 
-beurre. bouillon de légumes. caerphilly. chapelure. chou de Savoie. crème double. estragon. rutabaga. sel. thym. zeste de citron
-
+fromage de brebis. chou de Savoie. rutabaga. citrons
 ---
 
 # Mini-carottes au parmesan, vinaigrette à la truffe
@@ -38394,8 +37673,7 @@ Chez NOPI, ce plat est préparé avec de la boule de Belp, un fromage de vache s
 
 ## Noms ingrédients
 
-carottes. estragon. graines de nigelle. huile d'olive. huile de truffe. jus de citron. moutarde forte. parmesan. persil. sel
-
+carottes. citrons. parmesan. persil
 ---
 
 # Topinambours écrasés à l'estragon
@@ -38429,8 +37707,7 @@ Les topinambours ont des arômes de champignon et de noisette. Leur saison dure 
 
 ## Noms ingrédients
 
-ail. bouillon de légumes. échalotes. estragon. huile d'olive. jus de citron. persil. sel. topinambours. vin blanc
-
+ail. échalotes. citrons. persil. topinambours
 ---
 
 # Riz à la cardamome et aux clous de girofle
@@ -38460,7 +37737,6 @@ Cette recette accompagnera aussi bien des plats de viande ou de poisson que des 
 
 ## Noms ingrédients
 
-cardamome. clous de girofle. huile d'olive. riz basmati. sel
 
 ---
 
@@ -38494,7 +37770,6 @@ D'origine italienne, cette galette de farine de pois chiche est délicieuse. D'u
 
 ## Noms ingrédients
 
-farine de pois chiche. huile d'olive. sel
 
 ---
 
@@ -38528,7 +37803,6 @@ Ce riz est délicieux avec les plats de poisson (daurade, grondin ou maquereau) 
 
 ## Noms ingrédients
 
-huile de sésame. riz gluant thaï. sauce soja. sel. sésame blanc. sésame noir
 
 ---
 
@@ -38562,9 +37836,7 @@ Une alternative très réconfortante à la purée de pommes de terre. Cette rece
 
 ## Noms ingrédients
 
-ail. haricots blancs secs. huile d'olive. romarin. sel
-
-
+ail. haricots blancs
 ---
 
 # Supions sautés, tarator aux amandes et salsa au citron vert
@@ -38628,8 +37900,7 @@ Le tarator est une sauce épaisse à base de pain, d'ail rôti et d'amandes. Les
 
 ## Noms ingrédients
 
-ail. amandes. cardamome. citrons verts. coriandre. cumin. fenouil (graines). gingembre. huile d'olive. huile de tournesol. lait. pain au levain. pâte de tamarin. piment rouge. piment séché. poivre. supions. sucre. vinaigre de xérès
-
+ail. amandes. citrons verts. coriandre. gingembre. pain au levain. tamarin. piment rouge. piment séché. supions
 ---
 
 # Saint-Jacques grillées au daïkon mariné et confiture de piment
@@ -38686,8 +37957,7 @@ La confiture de piment est addictive — la mère de Scully et neuf de ses tante
 
 ## Noms ingrédients
 
-ail. bette rouge. clous de girofle. crevettes séchées. daïkon. eau de tamarin. échalotes thaï. galangal. huile d'olive. huile de tournesol. nam pla. noix de saint-jacques. piment rouge. piment rouge séché. poivre rose. pomme granny smith. radis. sel. sucre de palme. vinaigre de riz
-
+ail. bette rouge. crevettes séchées. daïkon. tamarin. échalotes thaïes. galanga. nam pla. noix de saint-jacques. piment rouge. piment rouge séché. pomme. radis
 ---
 
 # Tartare de truite, salsa de citrons confits et chips de topinambours
@@ -38745,8 +38015,7 @@ Inspiré du kebbé nayé libanais — traditionnellement un tartare de viande cr
 
 ## Noms ingrédients
 
-boulgour. citron confit. citron (jus). coriandre (graines). cumin (graines). échalotes. huile d'olive. huile de tournesol. olives vertes. persil. piment rouge. quatre-épices. sel. topinambours. truite
-
+boulgour. citron confit. citrons. échalotes. olives vertes. persil. piment rouge. topinambours. truite
 ---
 
 # Gambas au pastis, à l'estragon et à la feta
@@ -38791,8 +38060,7 @@ Une variante du classique grec saganaki (crevettes-feta). On peut préparer tout
 
 ## Noms ingrédients
 
-ail. beurre. bouillon de légumes. estragon. fenouil. feta. flocons de piment. gambas. huile d'olive. origan. pastis. sel. sumac. thym. zeste de citron
-
+ail. fenouil. feta. piment rouge séché. gambas. citrons
 ---
 
 # Rasam au bar et aux pommes de terre
@@ -38852,8 +38120,7 @@ Le tamarin, favori de la maison, a une saveur aigre-douce qui apporte une acidit
 
 ## Noms ingrédients
 
-ail. bar. beurre. coriandre. curcuma. feuilles de curry. garam masala. ghee. graines de moutarde jaune. huile de tournesol. jus de citron. oignons. piments rouges séchés. pommes de terre. sel. tamarin. tomates
-
+ail. bar. coriandre. feuilles de curry. citrons. oignons. piment rouge séché. pomme de terre. tamarin. tomates en conserve
 ---
 
 # Filets de daurade et salade mangue-papaye
@@ -38902,8 +38169,7 @@ C'est la salade de mangue-papaye qui tient la vedette ici. Pour que les saveurs 
 
 ## Noms ingrédients
 
-anchois séchés. basilic thaï. beurre. cacahuètes. citron vert. coriandre. daurade. échalotes thaïes. huile de tournesol. mangue verte. nuoc-mâm. papaye verte. piment oiseau. sel. sucre de palme. vinaigre de riz
-
+anchois. basilic. cacahuètes. citrons verts. coriandre. daurade. échalotes thaïes. mangue verte. papaye. piment oiseau
 ---
 
 # Églefin vapeur, bagna cauda au sésame et cavolo nero
@@ -38973,8 +38239,7 @@ La bagna cauda est une spécialité piémontaise — sauce tiède à base d'ail 
 
 ## Noms ingrédients
 
-ail. anchois. beurre. cavolo nero. cinq-épices. échalotes. églefin. farine de maïs. farine de ménage. graines de sésame. huile d'olive. huile de tournesol. jus de citron. piment rouge. sel. sucre brun. tomates. vinaigre de xérès. vin blanc. zeste de citron
-
+ail. anchois. chou kale. échalotes. églefin. citrons. piment rouge. tomates en conserve
 ---
 
 # Cabillaud cuit au babeurre et lentilles à l'indienne
@@ -39032,8 +38297,7 @@ Une recette parfaite pour un dîner, car tout peut être préparé à l'avance :
 
 ## Noms ingrédients
 
-ail. babeurre. cabillaud. cardamome. citron. concentré de tomates. coriandre (graines). cumin (graines). épinards. feuilles de curry. fenouil (graines). ghee. gingembre. graines de moutarde jaune. huile d'olive. lentilles urid dhal. oignons. piment rouge. piment séché. sel. tomates
-
+ail. cabillaud. citrons. concentré de tomate. épinards. feuilles de curry. gingembre. lentilles urid dhal. oignons. piment rouge. piment séché. tomates en conserve
 ---
 
 # Turbots frits, mayonnaise aux huîtres et salsa de concombres
@@ -39087,9 +38351,7 @@ Préparez à l'avance la mayonnaise et la salsa. Juste avant de passer à table,
 
 ## Noms ingrédients
 
-beurre. ciboulette. concombre. huile d'olive. huile de tournesol. huîtres. jaune d'œuf. jus de citron. moutarde forte. oignon rouge. poivre de Cayenne. radis. sel. sucre. turbot. vinaigre de riz. vinaigre de vin blanc
-
-
+ciboulette. concombres. huîtres. jaunes d'œuf. citrons. oignons rouges. piment de Cayenne. radis. turbot
 ---
 
 # Pavés de flétan en croûte, vichyssoise à la roquette sauvage et au persil
@@ -39147,8 +38409,7 @@ Au restaurant, la vichyssoise est préparée avec des orties et de la livèche (
 
 ## Noms ingrédients
 
-ail. beurre. bouillon de volaille. échalotes. épinards. flétan. huile d'olive. jus de citron. persil. pignons de pin. pistaches. poireau. pommes de terre. radis. roquette sauvage. sel. sucre
-
+ail. échalotes. épinards. flétan. citrons. persil. pistaches. poireau. pomme de terre. radis. roquette
 ---
 
 # Filets de grondin en feuille de bananier, sambal d'ananas et piment
@@ -39220,8 +38481,7 @@ Scully a trouvé l'inspiration dans le souvenir du bananier du jardin de son enf
 
 ## Noms ingrédients
 
-ail. ananas. cardamome. citronnelle. citron kaffir. citron vert. concombre. coriandre. crème de coco. cumin. curcuma. échalotes. fenouil (graines). feuilles de bananier. gingembre. graines de pavot. grondin. huile de tournesol. lait de coco. nuoc-mâm. pâte de crevettes. piment oiseau. piment rouge. sel. sucre. zeste de citron vert
-
+ail. ananas. citronnelle. citron kaffir. citrons verts. concombres. coriandre. noix de coco. échalotes. feuilles de bananier. gingembre. grondin. crevettes. piment oiseau. piment rouge
 ---
 
 # Limandes-soles au beurre noisette nori et câpres frites
@@ -39262,8 +38522,7 @@ Scully a beaucoup appris en travaillant au Bathers' Pavilion sur Balmoral Beach 
 
 ## Noms ingrédients
 
-algues nori. beurre. câpres. gingembre. huile d'olive. huile de tournesol. jus de citron. limandes-soles. persil. sel
-
+câpres. gingembre. citrons. limandes-soles. persil
 ---
 
 # Marmite de rougets et coquillages au safran, spätzle aux herbes
@@ -39333,8 +38592,7 @@ Les spätzle sont des petites pâtes très populaires dans le sud de l'Allemagne
 
 ## Noms ingrédients
 
-ail. basilic. bouillon de volaille. céleri. coques. échalotes. épinards. farine. flocons de piment. huile d'olive. lait. moules. noix muscade. œufs. palourdes. persil. rouget. safran. sel. tomates. vermouth. vin blanc. zeste de citron
-
+ail. basilic. céleri. coques. échalotes. épinards. piment rouge séché. moules. palourdes. persil. rouget. tomates en conserve. citrons
 ---
 
 # Noix de pétoncles poêlées, salsa de maïs et merguez, sauce à l'oseille
@@ -39391,8 +38649,7 @@ Chez NOPI, cette recette est toujours accompagnée de sauce à l'oseille, mais c
 
 ## Noms ingrédients
 
-céleri. citron vert. coriandre. crème fraîche. estragon. huile d'olive. maïs. merguez. noix de pétoncles. oignon rouge. oseille. piment rouge. piquillos. sel. sumac. vinaigre de riz. zeste de citron vert
-
+céleri. citrons verts. coriandre. maïs. merguez. noix de pétoncles. oignons rouges. oseille. piment rouge. piquillos
 ---
 
 # Poulpe grillé, chou kale sauté, salsa d'olives noires et raisins secs
@@ -39459,8 +38716,7 @@ Procurez-vous si possible des poulpes congelés que vous ferez décongeler avant
 
 ## Noms ingrédients
 
-ail. beurre. bouillon de légumes. céleri. chou kale. coriandre (graines). eau de rose. fenouil. harissa. huile d'olive. jus de citron. laurier. menthe. olives kalamata. oignon rouge. poireau. poulpe. raisins secs. sel. thym. vinaigre de xérès. vin blanc
-
+ail. céleri. chou kale. fenouil. citrons. menthe. olives de Kalamata. oignons rouges. poireau. poulpe. raisins secs
 ---
 
 # Maquereau poêlé, salade de noix de coco et d'arachides
@@ -39518,8 +38774,7 @@ La salade de noix de coco fraîche avec des herbes fraîches se marie très bien
 
 ## Noms ingrédients
 
-cacahuètes. citron vert. coriandre. gingembre. huile d'olive. maquereau. menthe. mirin. noix de coco. nuoc-mâm. oignons verts. piment rouge. sel. sucre de palme. vinaigre de riz
-
+cacahuètes. citrons verts. coriandre. gingembre. maquereau. menthe. noix de coco. oignons verts. piment rouge
 ---
 
 # Brochettes de thon, mochis et salade de carottes au yuzu
@@ -39592,8 +38847,7 @@ Le yuzu offre une saveur entre citron vert et mandarine — remplaçable par du 
 
 ## Noms ingrédients
 
-beurre. bouillon de volaille. carottes. citronnelle. citron kaffir. crème de coco. farine de riz gluant. gingembre. graines de sésame. huile de tournesol. jus de yuzu. mirin. œufs. oignons verts. pandan. piment rouge. pois mange-tout. saké. sauce soja. shiitakés. sucre. thon. vinaigre de riz
-
+carottes. citronnelle. citron kaffir. noix de coco. gingembre. yuzu. oignons verts. pandan. piment rouge. pois mange-tout. champignons shiitaké. thon
 ---
 
 # Salade de homard au fenouil et au raisin
@@ -39641,9 +38895,7 @@ Une variante d'une salade que Yotam a inventée en Sardaigne pour le tournage de
 
 ## Noms ingrédients
 
-aneth. arak. basilic. dukkah. endive. estragon. fenouil. homard. huile d'olive. huile de tournesol. jus de citron. jus d'orange. radis. raisin. sel
-
-
+aneth. basilic. endives. fenouil. homard. citrons. oranges. radis. raisin
 ---
 
 # Rasam au bar et aux pommes de terre
@@ -39702,8 +38954,7 @@ Le rasam est une soupe originaire de l'Inde du Sud, à la base de tamarin, qui v
 
 ## Noms ingrédients
 
-ail. bar. beurre. coriandre. curcuma. feuilles de curry. garam masala. ghee. gingembre. huile de tournesol. jus de citron. oignon. piment rouge séché. pommes de terre. tamarin. tomate
-
+ail. bar. coriandre. feuilles de curry. gingembre. citrons. oignons. piment rouge séché. pomme de terre. tamarin. tomate
 ---
 
 # Filets de daurade et salade mangue-papaye
@@ -39752,8 +39003,7 @@ C'est la salade de mangue-papaye qui tient la vedette. Pour que les saveurs ress
 
 ## Noms ingrédients
 
-anchois séchés. basilic thaï. beurre. cacahuètes. coriandre. citron vert. daurade. échalotes thaïes. huile de tournesol. jus de citron vert. mangue. nuoc-mâm. papaye. piment oiseau. sucre de palme. vinaigre de riz
-
+anchois. basilic. cacahuètes. coriandre. citrons verts. daurade. échalotes thaïes. mangue. papaye. piment oiseau
 ---
 
 # Églefin vapeur, bagna cauda au sésame et cavolo nero
@@ -39819,8 +39069,7 @@ La bagna cauda est une sauce piémontaise tiède à base d'ail et d'anchois. L'a
 
 ## Noms ingrédients
 
-anchois. ail. beurre. cavolo nero. cinq-épices. citron. échalotes. églefin. farine de maïs. farine de ménage. graines de sésame. huile d'olive. huile de tournesol. piment rouge. sucre brun. tomate. vinaigre de xérès. vin blanc
-
+anchois. ail. chou kale. citrons. échalotes. églefin. piment rouge. tomate
 ---
 
 # Cabillaud cuit au babeurre et lentilles à l'indienne
@@ -39876,8 +39125,7 @@ Cette recette est parfaite pour un dîner : le poisson doit mariner entre 4 et 6
 
 ## Noms ingrédients
 
-ail. babeurre. cabillaud. cardamome. citron. concentré de tomate. épinards. feuilles de curry. ghee. gingembre. graines de coriandre. graines de cumin. graines de fenouil. graines de moutarde jaune. huile d'olive. lentilles urid dhal. oignon. piment rouge. tomate
-
+ail. cabillaud. citrons. concentré de tomate. épinards. feuilles de curry. gingembre. lentilles urid dhal. oignons. piment rouge. tomate
 ---
 
 # Turbots frits, mayonnaise aux huîtres et salsa de concombres
@@ -39930,8 +39178,7 @@ La mayonnaise et la salsa peuvent être préparées à l'avance et conservées a
 
 ## Noms ingrédients
 
-beurre. ciboulette. citron. concombre. huile d'olive. huile de tournesol. huîtres. jus de citron. moutarde forte. oignon rouge. poivre de Cayenne. radis. sucre. turbot. vinaigre de riz. vinaigre de vin blanc
-
+ciboulette. citrons. concombres. huîtres. oignons rouges. piment de Cayenne. radis. turbot
 ---
 
 # Pavés de flétan en croûte, vichyssoise à la roquette sauvage et au persil
@@ -39988,8 +39235,7 @@ Au restaurant, la vichyssoise est préparée avec des orties et de la livèche �
 
 ## Noms ingrédients
 
-ail. beurre. bouillon de volaille. citron. échalotes. épinards. flétan. huile d'olive. jus de citron. persil. pignons de pin. pistaches. poireau. pommes de terre. radis. roquette sauvage. sucre
-
+ail. citrons. échalotes. épinards. flétan. persil. pistaches. poireau. pomme de terre. radis. roquette
 ---
 
 # Filets de grondin en feuille de bananier, sambal d'ananas et piment
@@ -40056,8 +39302,7 @@ Pour la pâte de curry, on peut utiliser une préparation du commerce (la recett
 
 ## Noms ingrédients
 
-ail. ananas. cardamome. citronnelle. citron kaffir. citron vert. concombre. coriandre. crème de coco. cresson. cumin. curcuma. échalotes. feuilles de bananier. gingembre. graines de coriandre. graines de pavot. grondin. huile de tournesol. lait de coco. nuoc-mâm. pâte de crevettes. piment oiseau. piment rouge. sucre
-
+ail. ananas. citronnelle. citron kaffir. citrons verts. concombres. coriandre. noix de coco. cresson. échalotes. feuilles de bananier. gingembre. grondin. crevettes. piment oiseau. piment rouge
 ---
 
 # Limandes-soles au beurre noisette nori et câpres frites
@@ -40098,8 +39343,7 @@ L'ajout d'algues nori séchées apporte un parfum iodé qui rappelle la mer. Scu
 
 ## Noms ingrédients
 
-algues nori. beurre. câpres. citron. gingembre. huile d'olive. huile de tournesol. jus de citron. limandes-soles. persil
-
+câpres. citrons. gingembre. limandes-soles. persil
 ---
 
 # Marmite de rougets et coquillages au safran, spätzle aux herbes
@@ -40166,8 +39410,7 @@ Les spätzle sont des petites pâtes très populaires dans le sud de l'Allemagne
 
 ## Noms ingrédients
 
-ail. basilic. bouillon de volaille. céleri. citron. coques. échalotes. épinards. farine. huile d'olive. lait entier. moules. muscade. œufs. palourdes. persil. piment séché. rouget. safran. tomate. vermouth sec. vin blanc
-
+ail. basilic. céleri. citrons. coques. échalotes. épinards. moules. palourdes. persil. piment séché. rouget. tomate
 ---
 
 # Noix de pétoncles poêlées, salsa de maïs et merguez, sauce à l'oseille
@@ -40223,9 +39466,7 @@ L'oseille a une saveur acidulée mais n'est pas facile à trouver — on peut la
 
 ## Noms ingrédients
 
-céleri. citron vert. coriandre. crème fraîche. estragon. huile d'olive. jus de citron. maïs. merguez. oignon rouge. oseille. pétoncles. piment rouge. piquillos. sumac. vinaigre de riz
-
-
+céleri. citrons verts. coriandre. citrons. maïs. merguez. oignons rouges. oseille. pétoncles. piment rouge. piquillos
 ---
 
 # Poulpe grillé, chou kale sauté, salsa d'olives noires et raisins secs
@@ -40291,8 +39532,7 @@ Pour les poulpes congelés (préférables), le froid extrême attendrit leur cha
 
 ## Noms ingrédients
 
-ail. beurre. bouillon de légumes. céleri. chou kale. fenouil. graines de coriandre. harissa. huile d'olive. jus de citron. laurier. menthe. olives kalamata. oignon rouge. poireau. poulpe. raisins secs. thym. vinaigre de xérès. vin blanc
-
+ail. céleri. chou kale. fenouil. citrons. menthe. olives de Kalamata. oignons rouges. poireau. poulpe. raisins secs
 ---
 
 # Maquereau poêlé, salade de noix de coco et d'arachides
@@ -40349,8 +39589,7 @@ La salade de noix de coco fraîche avec des herbes fraîches se marie très bien
 
 ## Noms ingrédients
 
-cacahuètes. citron vert. coriandre. gingembre. huile d'olive. jus de citron vert. maquereau. menthe. mirin. noix de coco fraîche. nuoc-mâm. oignons verts. piment rouge. sucre de palme. sucre en poudre. vinaigre de riz
-
+cacahuètes. citrons verts. coriandre. gingembre. maquereau. menthe. noix de coco. oignons verts. piment rouge
 ---
 
 # Brochettes de thon, mochis et salade de carottes au yuzu
@@ -40418,8 +39657,7 @@ Le yuzu offre une saveur entre citron vert et mandarine — on le trouve en jus 
 
 ## Noms ingrédients
 
-beurre. bouillon de volaille. carottes. citronnelle. citron kaffir. crème de coco. farine de riz gluant. gingembre. graines de sésame. huile de tournesol. jus de yuzu. mange-tout. mirin. œufs. oignons verts. pandan. piment rouge. saké. sauce soja. shiitaké. sucre. thon. vinaigre de riz
-
+carottes. citronnelle. citron kaffir. noix de coco. gingembre. yuzu. oignons verts. pandan. piment rouge. champignons shiitaké. thon
 ---
 
 # Crabes mous, sauce au poivre noir, gombos et pickle de concombre
@@ -40493,8 +39731,7 @@ Si on déteste les gombos, la recette fonctionne très bien sans. La sauce et le
 
 ## Noms ingrédients
 
-ail. badiane. beurre. bouillon de volaille. cannelle. concombre. coriandre. crabes mous. crevettes séchées. échalotes. farine de maïs. feuilles de curry. gombos. huile de tournesol. mirin. miso blanc. pancetta. piment rouge. poivre noir. saké. sauce d'huître. sauce soja. sucre. vinaigre de riz
-
+ail. concombres. coriandre. crabes mous. crevettes séchées. échalotes. feuilles de curry. gombos. pancetta. piment rouge
 ---
 
 # Salade de verdure à l'oignon rouge mariné
@@ -40529,8 +39766,7 @@ La saveur sucrée de la vinaigrette et le mélange de verdure font de cette sala
 
 ## Noms ingrédients
 
-cresson. huile d'olive. oignon rouge. quatre-épices. roquette. sucre. sumac. vinaigre de xérès
-
+cresson. oignons rouges. roquette
 ---
 
 # Poêlée de choux chinois
@@ -40563,8 +39799,7 @@ Ces légumes peuvent accompagner un large éventail de recettes (coquelet, ongle
 
 ## Noms ingrédients
 
-ail. bok choy. brocoli à jets. citron vert. échalotes frites. gingembre. huile d'arachide. piment rouge
-
+ail. pak choï. brocoli. citrons verts. échalotes frites. gingembre. piment rouge
 ---
 
 # Frites au paprika cuites au four
@@ -40595,8 +39830,7 @@ Rares sont les plats qui ne s'accordent pas avec la note croquante de frites cui
 
 ## Noms ingrédients
 
-ail. huile de tournesol. paprika. paprika fumé. pommes de terre désirée. semoule fine
-
+ail. pomme de terre. semoule
 ---
 
 # Carottes rôties aux graines de coriandre et à l'ail
@@ -40627,8 +39861,7 @@ Miel, ail, thym et coriandre : ces ingrédients se marient très bien aux carott
 
 ## Noms ingrédients
 
-ail. carottes. graines de coriandre. huile d'olive. miel. thym
-
+ail. carottes. miel
 ---
 
 # Gratin de pommes de terre et céleri-rave
@@ -40664,8 +39897,7 @@ La crème est remplacée ici par du bouillon de légumes pour un gratin plus lé
 
 ## Noms ingrédients
 
-ail. beurre. bouillon de légumes. céleri-rave. crème double. pommes de terre. sauge
-
+ail. céleri-rave. pomme de terre. sauge
 ---
 
 # Chou kale aux piments et à l'ail frits
@@ -40698,8 +39930,7 @@ Ces feuilles de kale juste flétries sont l'accompagnement idéal de bon nombre 
 
 ## Noms ingrédients
 
-ail. chou kale. huile d'olive. piment rouge
-
+ail. chou kale. piment rouge
 ---
 
 # Tête de céleri-rave rôtie
@@ -40728,7 +39959,4 @@ Cette tête de céleri en étonnera plus d'un, avec sa peau croquante et son cœ
 
 ## Noms ingrédients
 
-céleri-rave. huile d'olive. sel
-
-
-```
+céleri-rave
