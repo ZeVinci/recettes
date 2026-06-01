@@ -168,7 +168,8 @@ def _extrait_ingredients_cures(sections: dict) -> list[str] | None:
             lignes = [l.strip() for l in contenu.splitlines()
                       if l.strip() and not l.startswith("##")]
             if lignes:
-                return [t.strip() for t in lignes[0].split(".") if t.strip()]
+                # tolère les listes séparées par des points OU des virgules
+                return [t.strip() for t in re.split(r"[.,]", lignes[0]) if t.strip()]
     return None
 
 
@@ -256,6 +257,40 @@ def _reordonne(sections: dict) -> str:
     return "\n".join(morceaux)
 
 
+# ── Découpe robuste en recettes ────────────────────────────────────────────────
+
+# Un titre de recette = une ligne de niveau 1 ("# ..."), jamais "##" ni "###".
+# (Les "###" servent de sous-titres internes : Sauce, Marinade, etc.)
+_RE_TITRE_RECETTE = re.compile(r"^#(?!#)\s+(\S.*)$")
+
+# Lignes de séparation Markdown ("---", "***", "___") à neutraliser.
+_RE_SEPARATEUR = re.compile(r"(?m)^\s*([-*_])\1{2,}\s*$")
+
+
+def _decouper_en_blocs(texte: str) -> list[tuple[str, str]]:
+    """Découpe le texte en (titre, corps) sur CHAQUE titre de niveau 1.
+
+    Ne dépend ni des séparateurs "---", ni de l'espacement autour des titres :
+    un simple "# Titre" en début de ligne suffit à démarrer une nouvelle recette.
+    Le préambule éventuel avant le premier titre est ignoré.
+    """
+    blocs = []
+    titre_courant = None
+    corps_courant: list[str] = []
+    for ligne in texte.split("\n"):
+        m = _RE_TITRE_RECETTE.match(ligne)
+        if m:
+            if titre_courant is not None:
+                blocs.append((titre_courant, "\n".join(corps_courant)))
+            titre_courant = m.group(1).strip()
+            corps_courant = []
+        elif titre_courant is not None:
+            corps_courant.append(ligne)
+    if titre_courant is not None:
+        blocs.append((titre_courant, "\n".join(corps_courant)))
+    return blocs
+
+
 # ── Point d'entrée public ──────────────────────────────────────────────────────
 
 def charger_recettes(chemin_md: str | Path) -> list[dict]:
@@ -270,22 +305,21 @@ def charger_recettes(chemin_md: str | Path) -> list[dict]:
       ingredients_qte : list[dict]  — [{nom, qte, unite, ligne_brute}]
       source_ing      : str         — "cure" | "auto"
       contenu_md      : str
+
+    Découpe robuste : indépendante des séparateurs "---" et de l'espacement.
+    Un bloc au corps vide (après retrait des "---") est considéré comme un
+    intertitre de section (ex. « Recettes — Poisson & Desserts ») et ignoré.
     """
     texte = Path(chemin_md).read_text(encoding="utf-8")
-    blocs = re.split(r"\n---\n(?=\n?#\s)", texte)
 
     recettes = []
     titres_vus = set()
 
-    for bloc in blocs:
-        bloc = bloc.strip()
-        if not bloc:
-            continue
-        match = re.match(r"^#\s+(.+?)\n(.*)", bloc, re.DOTALL)
-        if not match:
-            continue
-        titre = match.group(1).strip()
-        corps = match.group(2).strip()
+    for titre, corps in _decouper_en_blocs(texte):
+        # Retire les lignes de séparation Markdown (anciens séparateurs / règles).
+        corps = _RE_SEPARATEUR.sub("", corps).strip()
+
+        # Corps vide => intertitre de section, pas une recette.
         if not corps or titre in titres_vus:
             continue
         titres_vus.add(titre)
