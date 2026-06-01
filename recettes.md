@@ -39959,4 +39959,3238 @@ Cette tête de céleri en étonnera plus d'un, avec sa peau croquante et son cœ
 
 ## Noms ingrédients
 
-céleri-rave
+céleri-rave---
+
+# Soupe aux haricots blancs de Paimpol
+
+## Catégorie
+
+Breton. Non testé. Végé
+
+## Commentaire
+
+Le haricot Coco de Paimpol aurait été rapporté d'Amérique latine en 1928 par un marin nommé Alban. Depuis 1998, il est protégé par une AOC qui impose une aire géographique autour de Paimpol et une récolte exclusivement manuelle. Une fois écossé, il peut se congeler pour être cuisiné toute l'année.
+
+**Nevez :** Deux variantes à partir de la recette de base (sans oseille) : (1) servir froide avec quelques tomates cerises en quartiers, un trait d'huile d'olive et du basilic ciselé ; (2) servir chaude avec des langoustines décortiquées sautées à l'huile d'olive et assaisonnées d'une pointe de kari Gosse.
+
+**Yec'hed mat :** Inutile de chercher un vin sur ce potage — préférer l'eau de Plancoët ou un bon verre de cidre du Pays.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 400 g de haricots demi-secs
+- 300 g de pommes de terre (type Charlotte)
+- 14 cl de crème fraîche
+- 2 bottes d'oseille
+- 10 g de beurre
+- 1 bouquet garni
+- Gros sel, sel, poivre
+
+## Déroulé de la recette
+
+1. **Écossage :** Écosser les haricots et les laver.
+
+2. **Cuisson des haricots :** Dans une cocotte, verser les haricots égouttés, les pommes de terre épluchées et le bouquet garni ; recouvrir d'eau froide. Démarrer sur feu vif jusqu'à ébullition, puis cuire à feu doux à couvert 45 min (les haricots doivent être fondants) ; saler en fin de cuisson. Passer au moulin à légumes et mouiller la purée avec le jus de cuisson jusqu'à obtenir un velouté onctueux. Verser dans la cocotte, rectifier l'assaisonnement, crémer et réserver au chaud.
+
+3. **Préparation de l'oseille :** Équeuter les feuilles, les laver et les égoutter. Les faire fondre dans un peu de beurre à feu moyen 3 min. Ajouter la fondue d'oseille à la soupe et bien mélanger.
+
+4. **Dressage :** Servir dans des assiettes creuses bien chaudes.
+
+## Noms ingrédients
+
+haricots blancs. pommes de terre. crème fraîche. oseille. beurre. bouquet garni
+
+---
+
+# Crème d'artichaut
+
+## Catégorie
+
+Breton. Non testé. Végé
+
+## Commentaire
+
+L'artichaut Camus débarque au XVIIe siècle en Bretagne. Traditionnellement, les Bretons le cuisent à l'eau et le dégustent avec une vinaigrette ou une sauce béchamel. Une fois cuit et égoutté, il ne se conserve pas plus de 48 heures car il s'oxyde très rapidement.
+
+**Nevez :** Deux variantes : (1) ajouter de la chair d'araignée ou de tourteau dans la crème versée dans les assiettes ; (2) dresser une belle cuillerée de sauce tomate épaisse au centre de chaque assiette.
+
+**Yec'hed mat :** Toujours difficile d'accorder un vin avec un potage. Préférer l'eau de Plancoët, ou profiter du vin choisi pour le plat suivant.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 4 beaux artichauts « Camus »
+- 100 g d'oignons
+- 20 g de beurre
+- 8 cl de crème fraîche
+- Gros sel, sel, poivre
+
+## Déroulé de la recette
+
+1. **Cuisson des artichauts :** Arracher les queues à la main (pour retirer les fibres des cœurs). Laver les artichauts et les cuire dans l'eau bouillante légèrement salée 40 min après la reprise de l'ébullition. Égoutter et conserver le jus de cuisson.
+
+2. **Cuisson de la crème :** Retirer les feuilles en conservant les plus belles de côté. Jeter le foin et tailler les cœurs en dés. Éplucher, laver et ciseler finement les oignons. Dans une cocotte, faire fondre le beurre, ajouter les oignons et les faire suer 5 min à feu moyen. Ajouter les dés de cœurs, mouiller avec le jus de cuisson à hauteur. Porter à ébullition, saler, poivrer et laisser frémir à couvert à feu doux 30 min. Mixer avec un mixeur plongeant ; ajuster la consistance avec un peu de jus de cuisson si nécessaire, rectifier l'assaisonnement et crémer.
+
+3. **Dressage :** Verser la soupe dans des assiettes creuses et disposer quelques feuilles sur le bord. Servir bien chaud.
+
+## Noms ingrédients
+
+artichauts. oignons. beurre. crème fraîche
+
+---
+
+# Soupe aux oignons de Roscoff
+
+## Catégorie
+
+Breton. Non testé. Végé
+
+## Commentaire
+
+Au XVIIe siècle, les Roscovites découvrent l'oignon et l'apprécient pour son goût et sa bonne conservation. À la fin du XIXe siècle, les producteurs commencent à l'exporter en Angleterre, vendus en tresses par des groupes de cinq ou six hommes surnommés les « Johnnies ». L'oignon rosé de Roscoff reste aujourd'hui l'oignon préféré des Bretons : doux, juteux, fondant et sucré une fois cuit.
+
+**Nevez :** Trois idées d'accompagnement : (1) saucisses de Molène fumées aux algues cuites 30 min et émincées en rondelles ; (2) dés d'andouille chauffés à la poêle versés sur la soupe au dernier moment ; (3) tranches de lard rôti de la même façon.
+
+**Yec'hed mat :** Pourquoi vouloir accorder un vin sur un potage aussi fin ? À défaut, l'eau de Plancoët rafraîchira le palais.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 600 g d'oignons
+- 400 g de pommes de terre
+- 25 g de beurre
+- 20 cl de vin blanc (type Muscadet)
+- 1 litre d'eau
+- 10 cl de crème fraîche
+- 1 botte de persil
+- Gros sel, sel, poivre
+
+## Déroulé de la recette
+
+1. **Préparation des légumes :** Éplucher, laver et ciseler finement les oignons. Éplucher, laver et tailler les pommes de terre en dés.
+
+2. **Cuisson de la soupe :** Dans une cocotte, faire suer les oignons dans le beurre à feu moyen. Quand ils commencent à colorer, ajouter les dés de pommes de terre et mouiller avec le vin blanc. Laisser cuire à découvert 7 min à feu moyen, puis mouiller avec l'eau. Saler, poivrer, porter à ébullition et prolonger la cuisson à feu doux à couvert 40 min. Passer au moulin à légumes, remettre dans la cocotte, porter à ébullition, ajouter la crème, bien mélanger et vérifier l'assaisonnement.
+
+3. **Dressage :** Ciseler le persil. Verser la soupe dans une soupière et parsemer de persil. Servir bien chaud.
+
+## Noms ingrédients
+
+oignons. pommes de terre. beurre. vin blanc. crème fraîche. persil
+
+---
+
+# Crème de chou-fleur
+
+## Catégorie
+
+Breton. Non testé. Végé
+
+## Commentaire
+
+Les meilleurs choux-fleurs dégustés en France sont bretons, principalement cultivés sur la zone maraîchère du côté de Roscoff. Grâce à son climat océanique doux et à la qualité de ses sols, la Bretagne se fait toujours nommer « la ceinture dorée » et le chou-fleur est l'un de ses produits phares.
+
+**Nevez :** Cuire 1 kg de moules de bouchot dans une casserole avec 7 cl de Muscadet. Les décortiquer une fois cuites et conserver le jus. Remplacer l'eau pour mouiller la soupe par ce jus (attention à ne pas trop saler). Ajouter les moules dans la crème juste avant le dressage. Déguster bien chaud.
+
+**Yec'hed mat :** Plutôt qu'un vin avec un potage, mieux vaut attendre le plat suivant pour apprécier chaque liquide séparément — et se réserver un mariage heureux pour la suite.
+
+## Ingrédients
+
+*Pour 8 personnes*
+
+- 1 chou-fleur moyen
+- 120 g d'oignons
+- 50 g de beurre
+- 85 cl de lait
+- 1 feuille de laurier
+- 1 pincée de noix de muscade moulue
+- Gros sel, sel, poivre
+
+## Déroulé de la recette
+
+1. **Préparation des légumes :** Partager le chou-fleur en bouquets et les laver. Faire bouillir une grande casserole d'eau salée et cuire les bouquets dans l'eau bouillante 10 min. Les égoutter et réserver. Éplucher, laver et ciseler finement les oignons.
+
+2. **Mise en cuisson de la soupe :** Dans une cocotte, faire fondre le beurre et ajouter les oignons. Les faire suer à feu moyen 5 min, puis mouiller avec le lait. Ajouter les bouquets de chou-fleur, le laurier et de l'eau afin de couvrir tous les légumes. Assaisonner et monter à ébullition. Poursuivre la cuisson à feu doux à couvert 30 min.
+
+3. **Finition :** Retirer la feuille de laurier et mixer la soupe avec un mixeur plongeant. Ajouter un peu d'eau si elle semble trop épaisse et rectifier l'assaisonnement.
+
+4. **Dressage :** Servir la crème bien chaude, accompagnée de croûtons de pain.
+
+## Noms ingrédients
+
+chou-fleur. oignons. beurre. lait. laurier. noix de muscade
+
+---
+
+# Soupe de la godaille
+
+## Catégorie
+
+Breton. Non testé. Poisson
+
+## Commentaire
+
+La godaille est la part de pêche que reçoit le pêcheur en plus de son salaire, souvent composée de plusieurs variétés de poissons. Chaque port de pêche a sa recette de soupe de poissons ; celle-ci est à la mode lorientaise. Peut aussi se cuisiner uniquement avec des sardines de première fraîcheur, servie alors avec des croûtons grattés à l'ail et à la tomate.
+
+**Nevez :** Battre 12 cl de crème fraîche avec le zeste d'un citron râpé, sel et poivre jusqu'à consistance chantilly. Beurrer 3 crêpes de sarrasin sur toute la surface, les rouler et les découper en fines lamelles. Étaler sur la plaque du four et cuire jusqu'à légère coloration (environ 1 min, four très chaud 250 °C). Verser la soupe bien chaude (non crémée) dans des assiettes creuses, disposer une quenelle de chantilly au citron au centre et accompagner de « tagliatelles de crêpes croustillantes ».
+
+**Yec'hed mat :** Même si l'on consomme peu de vin avec un potage déjà assez liquide, on pourrait privilégier un vin blanc sec fruité avec une belle fraîcheur — un Muscadet par exemple, selon la suite du repas.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 1 kg de poissons à soupe (congres, rougets, grondins, tacauds, maquereaux, vieilles…)
+- 200 g d'oignons
+- 200 g de pommes de terre
+- 6 gousses d'ail
+- 50 g de beurre
+- 15 cl de vin blanc
+- 1 bouquet garni (thym, laurier, céleri, queues de persil, vert de poireau)
+- 10 cl de crème fraîche
+- Sel, poivre, piment
+
+## Déroulé de la recette
+
+1. **Préparation des poissons et légumes :** Écailler, ébarber et vider les poissons. Les tailler en morceaux d'environ 100 g en gardant les têtes sans les branchies. Faire dégorger dans de l'eau très fraîche 15 min. Éplucher les pommes de terre, les oignons et l'ail ; couper les pommes de terre en gros cubes, écraser l'ail et émincer les oignons.
+
+2. **Confection de la soupe :** Dans une cocotte, faire fondre 50 g de beurre, y faire revenir les oignons et l'ail assez vivement. Ajouter les poissons égouttés et faire suer 5 min. Déglacer au vin blanc, laisser réduire doucement 10 min. Ajouter le bouquet garni et les pommes de terre, recouvrir d'eau à bonne hauteur. Assaisonner (sel, poivre, piment), porter à ébullition et laisser frémir à feu doux 1 heure.
+
+3. **Finition :** Passer la soupe au moulin à légumes à grille fine, jeter les déchets et mixer légèrement avec le mixeur plongeant. Remettre dans la cocotte, porter à ébullition, ajouter un peu d'eau si trop épaisse. Verser la crème fraîche et rectifier l'assaisonnement.
+
+4. **Dressage :** Servir en soupière avec des croûtons aillés et du gruyère râpé.
+
+## Noms ingrédients
+
+poissons à soupe. oignons. pommes de terre. ail. beurre. vin blanc. bouquet garni. crème fraîche. piment
+
+---
+
+# Soupe aux moules
+
+## Catégorie
+
+Breton. Non testé. Poisson
+
+## Commentaire
+
+Il y a toujours eu des gisements naturels de moules en Bretagne, mais l'élevage organisé de moules de bouchot n'existe pas depuis longtemps. Les premières expérimentations datent des années 50 dans la baie du Mont-Saint-Michel. Aujourd'hui, plus de 20 000 tonnes sont récoltées en Bretagne chaque année et les moules de la baie du Mont-Saint-Michel ont obtenu une AOC en 2006.
+
+**Nevez :** Les fines herbes ne sont pas obligatoires mais parfument à merveille cette soupe. On peut les remplacer par une belle pincée de curry parfumé mais pas trop relevé.
+
+**Yec'hed mat :** Sans nécessairement marier une soupe avec un vin, la connotation maritime avec les moules oriente vers un vin blanc du littoral — les Fiefs Vendéens de Brem-sur-Mer avec les cépages Chenin et Chardonnay, par exemple.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 1 kg de moules de bouchot
+- 7 cl de vin blanc
+- 150 g d'oignons
+- 300 g de poireaux
+- 500 g de pommes de terre
+- 30 g de beurre
+- 15 cl de crème fraîche
+- 1 botte de fines herbes mélangées (ciboulette, persil, cerfeuil, coriandre)
+- Sel, poivre
+
+## Déroulé de la recette
+
+1. **Cuisson des moules :** Ébarber les moules et les laver rapidement sous l'eau froide. Les verser dans une casserole, mouiller avec le vin blanc et cuire à couvert sur feu vif jusqu'à ce qu'elles s'ouvrent (environ 7 min). Les décortiquer et réserver séparément les moules et le jus.
+
+2. **Préparation de la soupe :** Éplucher, laver et émincer finement les oignons. Éplucher, laver et tailler les pommes de terre en dés (2 cm). Nettoyer les poireaux en retirant les parties les plus vertes et les émincer finement. Faire fondre le beurre dans une cocotte, ajouter les poireaux et les oignons, laisser suer 5 min à feu doux. Verser les dés de pommes de terre et mouiller avec le jus de moules filtré et de l'eau jusqu'à couvrir les légumes. Assaisonner légèrement en sel (le jus est déjà salé) et en poivre. Porter à ébullition et laisser frémir à couvert à feu doux 30 min. Mixer en fin de cuisson, rectifier l'assaisonnement et la consistance. Réserver au chaud.
+
+3. **Finition et dressage :** Ajouter la crème fraîche et les moules dans la soupe. Mélanger délicatement. Répartir dans des assiettes creuses et parsemer de fines herbes effeuillées ou ciselées. Déguster aussitôt.
+
+## Noms ingrédients
+
+moules. vin blanc. oignons. poireaux. pommes de terre. beurre. crème fraîche. ciboulette. persil. cerfeuil. coriandre
+
+---
+
+# Crème d'étrilles au kari Gosse
+
+## Catégorie
+
+Breton. Non testé. Poisson
+
+## Commentaire
+
+L'étrille est un crustacé très vivace. Pour ne pas se faire pincer, il faut l'attraper par les pattes arrière. Elle disparaît dans les années 90 à cause d'une maladie, puis est de nouveau pêchée au casier de mi-juillet à fin mars. Le kari Gosse est un mélange d'épices fabriqué par un pharmacien lorientais, M. Gosse, à la fin du XIXe siècle, et continue d'être vendu presque exclusivement dans les pharmacies de la région de Lorient ou d'Auray.
+
+**Nevez :** Trois idées : (1) épaissir la crème avec une poêlée de champignons de Paris sautés et mixer ; (2) servir avec une quenelle de purée de chou-fleur crémé ; (3) en saison, servir les asperges cuites à point, émincées finement, disposées dans une assiette creuse et recouvertes de crème d'étrilles.
+
+**Yec'hed mat :** Un vin blanc plutôt floral, ample et éventuellement épicé : Saint-Joseph, Cairanne, Crozes-Hermitage. Les Côtes du Rhône blancs sont à découvrir. Les blancs de Provence sont surprenants.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 1,5 kg d'étrilles
+- 500 g d'oignons
+- 100 g de carottes
+- 100 g de poireaux
+- 1 bouquet garni
+- 300 g de tomates
+- 3 gousses d'ail
+- 5 cl d'huile d'olive
+- 30 g de farine
+- 1 cuil. à café de kari Gosse (ou autre curry assez relevé)
+- 10 cl de Muscadet (ou vin blanc sec)
+- 10 cl de crème fraîche
+- Gros sel, sel, poivre
+
+## Déroulé de la recette
+
+1. **Préparation des étrilles :** Cuire les étrilles dans une grande quantité d'eau bouillante salée. Les retirer dès la reprise de l'ébullition. Retirer la carapace en grattant bien l'intérieur. Conserver tout l'ensemble du crustacé sauf la carapace.
+
+2. **Préparation de la crème :** Éplucher, nettoyer et émincer les oignons, carottes, poireaux et ail. Faire suer cette garniture dans l'huile d'olive. Ajouter les étrilles et bien écraser le tout dans la casserole à l'aide d'un pilon. Ajouter le bouquet garni, les tomates coupées en quatre et la farine. Déglacer avec le Muscadet, laisser réduire à feu doux 5 min, mouiller à hauteur avec de l'eau. Assaisonner (sel, poivre, kari Gosse). Laisser cuire doucement à mi-couvert 1 heure. Passer la soupe une fois cuite en foulant fortement. Crémer juste avant de servir.
+
+3. **Service :** Servir la crème d'étrilles avec des petits croûtons et du gruyère râpé.
+
+## Noms ingrédients
+
+étrilles. oignons. carottes. poireaux. bouquet garni. tomates. ail. huile d'olive. farine. kari Gosse. vin blanc. crème fraîche
+
+---
+
+# Coquille Saint-Jacques à la bretonne
+
+## Catégorie
+
+Breton. Non testé. Poisson
+
+## Commentaire
+
+Au XVIIIe siècle, la coquille Saint-Jacques n'était consommée qu'en cas de disette. Aujourd'hui de nombreux gisements sont présents en Bretagne (Brest, Morlaix, Belle-Île, Saint-Brieuc), mais la réglementation est très stricte : on ne trouve de coquilles vivantes que d'octobre à avril. Dans cette recette, les échalotes, la mie de pain et le beurre ont autant d'importance que les noix de Saint-Jacques.
+
+**Nevez :** Une fois les coquilles cuites, verser la préparation délicatement au centre d'une assiette et l'entourer d'un trait de jus d'épinards (120 g d'épinards équeutés mixés avec 10 à 12 cl d'eau et des fines herbes ciselées, réchauffé légèrement avant de servir).
+
+**Yec'hed mat :** Un vin blanc sec avec le cépage Chardonnay, avec une touche minérale : AOC Mâcon ou Saint-Véran par exemple.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 300 g de noix de Saint-Jacques (environ 3 kg de coquilles ; garder 6 coquilles côté creux pour la cuisson)
+- 250 g d'échalotes
+- 100 g de beurre + 60 g de beurre pour la finition
+- 10 cl de vin blanc (type Muscadet)
+- 70 g de mie de pain de campagne
+- 10 cl de lait
+- 1 gousse d'ail
+- Chapelure
+- 1 botte de persil plat
+- Sel, poivre
+
+## Déroulé de la recette
+
+1. **Préparation de la farce :** Éplucher et ciseler finement les échalotes. Éplucher et hacher l'ail. Dans une sauteuse, faire suer les échalotes et l'ail dans 100 g de beurre à feu moyen 10 min. Tailler les noix en 4 ou 6 morceaux, les ajouter, saler, poivrer et cuire 5 min. Mouiller avec le vin blanc et laisser cuire 20 min à feu doux à découvert en mélangeant régulièrement. Tremper la mie de pain dans le lait, l'essorer entre les mains et l'écraser ; l'ajouter avec le persil ciselé et poursuivre la cuisson 5 min à feu doux. Goûter et rectifier l'assaisonnement.
+
+2. **Finition et cuisson :** Préchauffer le four à 220 °C. Répartir la préparation dans les 6 coquilles. Parsemer de chapelure et de petites noisettes de beurre. Poser sur la plaque du four et cuire 10 à 15 min jusqu'à ce que les coquilles soient bien dorées.
+
+3. **Dressage :** Déguster chaud.
+
+## Noms ingrédients
+
+noix de Saint-Jacques. échalotes. beurre. vin blanc. mie de pain. lait. ail. chapelure. persil
+
+---
+
+# Grosses langoustines en cocotte au kari Gosse
+
+## Catégorie
+
+Breton. Non testé. Poisson
+
+## Commentaire
+
+Les langoustines au kari Gosse font partie des recettes préférées de l'auteure, liées à ses meilleurs souvenirs de table : sa grand-mère réunissait la famille à Pâques pour ces fameuses langoustines, suivies d'un gigot d'agneau rôti et flageolets, d'un plateau de fromages et d'une charlotte aux fraises. Le repas se terminait vers 17 h, suivi d'une promenade digestive, puis d'un retour à table vers 19 h pour une soupe et un quatre-quarts. Pour les explications sur le kari Gosse, voir la recette n° 7.
+
+**Nevez :** Impossible de revisiter une telle recette !
+
+**Yec'hed mat :** Un vin blanc plutôt racé et assez gras pour s'équilibrer avec la générosité de ce plat relevé au kari Gosse : grands vins blancs du Rhône (Saint-Joseph, Cairanne, Crozes-Hermitage, Châteauneuf-du-Pape), mais aussi ceux du Languedoc-Roussillon.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 2,5 kg de grosses langoustines (environ 6 par personne)
+- 1 carotte
+- 4 échalotes
+- 1 petit poireau
+- 1 branche de céleri
+- 3 gousses d'ail
+- 1 kg de tomates
+- 1 bouquet garni
+- 1 cuil. à soupe rase de farine
+- 1 cuil. à soupe de kari Gosse
+- 10 cl de vin blanc (type Muscadet)
+- 10 cl de crème fraîche
+- 5 cl d'huile d'olive
+- Sel
+
+## Déroulé de la recette
+
+1. **Préparation de la garniture aromatique :** Éplucher les échalotes, la carotte, le poireau, la branche de céleri et l'ail. Laver et émincer le plus finement possible (ou hacher au robot). Réserver.
+
+2. **Préparation des tomates :** Faire bouillir une casserole d'eau. Retirer les pédoncules des tomates, les passer 20 secondes dans l'eau bouillante, les égoutter, les peler, les couper en 2, les épépiner et les hacher grossièrement. Réserver.
+
+3. **Cuisson des langoustines :** Verser l'huile d'olive dans une cocotte et faire saisir les langoustines de chaque côté (en plusieurs fois si nécessaire). Débarrasser les langoustines dorées sur un plat. Verser la garniture aromatique et le bouquet garni dans la cocotte, laisser étuver 5 min à feu doux à couvert. Séparer les têtes des queues et pinces ; réserver queues et pinces. Ajouter les têtes dans la cocotte, bien mélanger, piler à l'aide d'un pilon, fariner, déglacer avec le vin blanc, ajouter les tomates et le kari Gosse. Cuire 5 min à découvert à feu doux. Mouiller avec de l'eau jusqu'à hauteur de la préparation, saler, porter à ébullition et laisser cuire à feu doux la cocotte à demi couverte 30 min.
+
+4. **Finition :** Passer la préparation en pressant bien sur les têtes et la garniture. Verser la sauce dans la cocotte, porter à ébullition et y jeter les queues et pinces. Cuire 7 min à feu moyen à demi couvert. En fin de cuisson, crémer et rectifier l'assaisonnement.
+
+5. **Dressage :** Servir les langoustines en sauce dans des assiettes creuses. Mettre des casse-noix et des rince-doigts sur la table.
+
+## Noms ingrédients
+
+langoustines. carottes. échalotes. poireaux. céleri. ail. tomates. bouquet garni. farine. kari Gosse. vin blanc. crème fraîche. huile d'olive
+
+---
+
+# Moules à la marinière
+
+## Catégorie
+
+Breton. Non testé. Poisson
+
+## Commentaire
+
+Parmi les préparations possibles de moules, la plus commune est celle des « moules marinières »… accompagnées de frites ! Si les moules n'ont pas toutes été mangées, les décortiquer et les servir avec une fondue de courgettes aux épices (recette ci-dessous).
+
+**Nevez — Fondue de courgettes aux épices et aux moules (pour 8 personnes) :** Faire suer 150 g d'oignons ciselés avec 1 gousse d'ail et un peu de gingembre dans 7 cl d'huile d'olive 5 min. Ajouter 1 kg de courgettes émincées en rondelles et 300 g de pommes en petits dés, assaisonner avec sel, poivre et 1 c. à café de raz el hanout. Cuire à feu doux à couvert 30 à 40 min jusqu'à consistance compote. Vérifier l'assaisonnement, ajouter des feuilles de menthe ciselées. Laisser refroidir, parsemer de 1,2 kg de moules cuites et décortiquées. Servir bien frais.
+
+**Yec'hed mat :** Un vin blanc sec, proche de la mer : un Gros-Plant, un Muscadet… ou pourquoi pas un vin de Picpoul de Pinet dans le Languedoc pour changer ?
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 2 kg de moules de bouchot
+- 1 oignon
+- 1 échalote
+- 1 gousse d'ail
+- 1 bouquet garni
+- 20 cl de vin blanc
+- Poivre
+
+## Déroulé de la recette
+
+1. **Préparation de la garniture aromatique :** Éplucher, laver et émincer le plus finement possible l'oignon, l'échalote et l'ail. Verser dans une grande casserole la garniture, le bouquet garni, un peu de poivre moulu et le vin blanc. Porter à ébullition et laisser frémir à découvert 5 min.
+
+2. **Préparation des moules :** Ébarber les moules, les laver rapidement sous l'eau et bien les égoutter.
+
+3. **Cuisson des moules :** Verser les moules dans la casserole avec la réduction. Cuire sur feu vif à couvert 5 à 10 min en remuant de temps en temps. Les moules sont cuites quand elles sont complètement ouvertes.
+
+4. **Dressage :** Répartir les moules dans de grands bols et les mouiller avec le jus de cuisson. Servir immédiatement, accompagné de pain, de beurre… et bien sûr, de frites !
+
+## Noms ingrédients
+
+moules. oignons. échalotes. ail. bouquet garni. vin blanc
+
+
+---
+
+# Encornets fricassés en persillade
+
+## Catégorie
+
+Breton. Non testé. Poisson
+
+## Commentaire
+
+La persillade, c'est du beurre, du persil et de l'ail ajoutés souvent en fin de recette. Si le beurre est salé et bon, le résultat est vraiment « Trop Mad » ! Les Bretons sont de grands consommateurs de beurre salé depuis le Moyen Âge, exemptés de gabelle grâce à leurs marais salants.
+
+**Nevez :** On peut rajouter un peu d'épices en même temps que le sel — comme du curry ou du paprika — et servir cette fricassée de coquillages sur une galette de blé noir et de pomme de terre.
+
+**Yec'hed mat :** Un vin blanc sec, assez parfumé, avec une belle acidité pour s'équilibrer avec la persillade : un cépage Chenin en Anjou/Saumur ou en Touraine, un cépage Riesling en Grand Cru d'Alsace, ou un vin du sud de la France un peu plus ensoleillé.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 1,2 kg d'encornets blancs (plutôt des petits)
+- 5 cl d'huile d'olive
+- 1 botte de persil plat
+- 1 ou 2 gousses d'ail épluchées (sans le germe)
+- 50 g de beurre
+- Sel
+
+## Déroulé de la recette
+
+1. **Préparation des encornets :** Ouvrir les encornets sur leur longueur avec un couteau et jeter tous les intérieurs ainsi que la tête et les tentacules. Séparer les ailerons du corps, leur retirer la peau brune et les parties dures sur les côtés. Retirer la peau des corps et rincer sous l'eau froide corps et ailerons jusqu'à ce qu'ils soient bien blancs. Émincer en fines lamelles (3 mm) et réserver au frais.
+
+2. **Cuisson :** Hacher l'ail très finement et ciseler les feuilles de persil. Réserver. Faire chauffer une grande poêle et saisir les encornets dans un filet d'huile d'olive sur feu vif. Saler. Dès qu'ils commencent à caraméliser légèrement et à ramollir (5 à 7 min), ajouter l'ail, le persil, le beurre et mélanger en retirant la poêle du feu.
+
+3. **Dressage :** Servir la fricassée bien chaude accompagnée d'un quartier de citron et de pommes de terre cuites à la vapeur ou à l'eau.
+
+## Noms ingrédients
+
+encornets. huile d'olive. persil. ail. beurre
+
+---
+
+# Saint-Jacques fricassées en persillade
+
+## Catégorie
+
+Breton. Non testé. Poisson
+
+## Commentaire
+
+Même principe que la fricassée en persillade, appliqué aux noix de Saint-Jacques. Sur le marché, on ne trouve de coquilles Saint-Jacques bretonnes et vivantes que d'octobre à avril.
+
+**Nevez :** On peut rajouter un peu d'épices en même temps que le sel — comme du curry ou du paprika — et servir cette fricassée sur une galette de blé noir et de pomme de terre.
+
+**Yec'hed mat :** Un vin blanc sec, assez parfumé, avec une belle acidité : Chenin en Anjou/Saumur, Riesling Grand Cru d'Alsace, ou un vin du sud de la France.
+
+## Ingrédients
+
+*Pour 6 personnes (plat de résistance)*
+
+- 5 kg de coquilles Saint-Jacques (environ 36 coquilles)
+- 5 cl d'huile d'olive
+- 1 botte de persil plat
+- 1 ou 2 gousses d'ail épluchées (sans le germe)
+- 50 g de beurre
+- Sel
+
+## Déroulé de la recette
+
+1. **Préparation des coquilles :** Décortiquer, laver et bien égoutter les noix de Saint-Jacques. Réserver au frais.
+
+2. **Cuisson :** Hacher l'ail très finement et ciseler les feuilles de persil. Réserver. Dans une grande poêle chaude, verser un filet d'huile d'olive et les noix de Saint-Jacques en faisant attention de ne pas les superposer afin qu'elles soient toutes bien dorées. Saler et laisser cuire sur feu vif 2 à 5 min de chaque côté (selon la grosseur de la noix), ajouter l'ail, le persil, le beurre et mélanger en retirant la poêle du feu.
+
+3. **Dressage :** Servir accompagné d'un quartier de citron et de pommes de terre cuites à la vapeur ou à l'eau.
+
+## Noms ingrédients
+
+noix de Saint-Jacques. huile d'olive. persil. ail. beurre
+
+---
+
+# Ormeaux fricassés en persillade
+
+## Catégorie
+
+Breton. Non testé. Poisson
+
+## Commentaire
+
+Même principe que la fricassée en persillade, appliqué aux ormeaux. Pour la cuisson des ormeaux, on procède comme pour les coquilles Saint-Jacques, en remplaçant simplement l'ail haché par l'échalote ciselée.
+
+**Yec'hed mat :** Un vin blanc sec, assez parfumé, avec une belle acidité : Chenin en Anjou/Saumur, Riesling Grand Cru d'Alsace, ou un vin du sud de la France.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 18 ormeaux moyens
+- 5 cl d'huile d'olive
+- 1 botte de persil plat
+- 1 échalote
+- 50 g de beurre
+- Sel
+
+## Déroulé de la recette
+
+1. **Préparation des ormeaux :** Laisser les ormeaux entiers au réfrigérateur une journée avant de les travailler. Les retirer de leurs coquilles à l'aide d'un petit couteau afin de couper le muscle de fixation. Toujours au couteau, retirer les bardes, les foies et rincer sous l'eau froide les « noix » des ormeaux. Les sécher avec du papier absorbant et les battre légèrement à l'aide du fond d'une petite casserole recouverte d'un torchon propre. Laisser reposer encore une journée au réfrigérateur.
+
+2. **Cuisson :** Éplucher et ciseler finement l'échalote. Ciseler finement les feuilles de persil. Réserver. Masser légèrement chaque ormeau avec la paume de la main sur une planche afin de les attendrir. Procéder comme pour les coquilles Saint-Jacques, en remplaçant l'ail haché par l'échalote ciselée.
+
+3. **Dressage :** Servir accompagné d'un quartier de citron et de pommes de terre cuites à la vapeur ou à l'eau.
+
+## Noms ingrédients
+
+ormeaux. huile d'olive. persil. échalotes. beurre
+
+---
+
+# Le plateau de fruits de mer
+
+## Catégorie
+
+Breton. Non testé. Poisson
+
+## Commentaire
+
+Plat incontournable des repas de famille bretons, préparé surtout à l'occasion de fêtes religieuses. Les coquillages et crustacés voient leurs prix à la hausse du fait de la baisse quantitative des pêches. Conseil : élaborer le plateau en fonction des goûts et de la saison, en favorisant la fraîcheur et la diversité avant la quantité.
+
+**Yec'hed mat :** On ira volontiers vers un vin blanc sec, proche de la mer : Gros-Plant, Muscadet, Fiefs Vendéens. Pourquoi pas aussi un vin blanc fruité aux notes citronnées avec une pointe d'amertume rafraîchissante, à base de Sauvignon, comme certains de la Vallée de la Loire ou du Bordelais.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 1 kg de langoustines cuites
+- 6 étrilles cuites
+- 3 araignées ou tourteaux cuits (environ 1 kg chacun)
+- 18 crevettes « bouquets » cuites
+- 1 poignée de crevettes grises cuites
+- 12 bulots cuits
+- 1 petit bol de bigorneaux cuits
+- 1 douzaine de pouces-pieds cuits
+- 18 huîtres creuses vivantes
+- 18 huîtres plates vivantes
+- 18 palourdes vivantes
+
+*Accompagnement :*
+- 2 citrons coupés en quartiers
+- 2 échalotes ciselées finement mouillées avec du vinaigre de vin
+- Du beurre de baratte demi-sel
+- 1 bol de mayonnaise
+- Du pain de seigle
+
+## Déroulé de la recette
+
+1. **Cuisson des langoustines :** Acheter des langoustines vivantes. Faire bouillir une grande casserole d'eau bouillante bien salée. Dès l'ébullition, jeter les langoustines et laisser remonter l'eau en ébullition. Les retirer et laisser refroidir sur un plat avant de dresser sur le plateau.
+
+2. **Cuisson des tourteaux ou araignées :** Les acheter vivants. Cuire dans une casserole d'eau bouillante salée, 20 min après la reprise de l'ébullition à couvert sur feu moyen. Une fois cuits, retirer les pattes, la grosse carapace, récupérer les corps blanchâtres, les couper en 2 ou 4 morceaux chacun et conserver dans un bol le corail et la crème marron. Disposer les pattes légèrement cassées au marteau et les corps dans la carapace. Mélanger le corail et la crème marron avec une partie de la mayonnaise et une échalote ciselée très finement.
+
+3. **Cuisson des étrilles :** Les acheter vivantes et les cuire comme les araignées ou tourteaux, 7 à 10 min au lieu de 20 min. Les poser juste refroidies sur le plateau.
+
+4. **Cuisson des crevettes :** Les acheter vivantes. Procéder comme pour les langoustines mais saler à nouveau généreusement les crustacés juste après cuisson.
+
+5. **Cuisson des bulots et bigorneaux :** Les acheter vivants. Laver à plusieurs eaux. Les mettre dans une casserole, recouvrir d'eau, saler, poivrer généreusement, ajouter un bouquet garni. Porter à ébullition et cuire à feu doux à couvert : 10 min pour les bigorneaux, 30 min pour les bulots. Égoutter une fois refroidis et dresser sur le plateau.
+
+6. **Cuisson des pouces-pieds :** Les acheter vivants. Laver sous l'eau et cuire comme des langoustines. Pour les déguster, sucer le jus à l'intérieur de la partie molle et tirer sur la partie molle pour en déguster l'intérieur.
+
+7. **Préparation des palourdes et huîtres :** Les acheter vivantes (elles doivent être bien fermées). Disposer sur le plateau les huîtres ouvertes au couteau à huîtres, et les palourdes juste lavées rapidement sous l'eau. Chaque convive ouvre ses palourdes avec son couteau de table.
+
+## Noms ingrédients
+
+langoustines. étrilles. tourteaux. crevettes. bulots. bigorneaux. pouces-pieds. huîtres. palourdes. mayonnaise. pain de seigle. échalotes. beurre. citron
+
+---
+
+# Le plateau de charcuterie bretonne
+
+## Catégorie
+
+Breton. Non testé. Viande
+
+## Commentaire
+
+« Depuis un temps immémorial, le cochon est en Bretagne le trésor des chaumières et la richesse du pauvre » (Alexandre Bouet, 1835). Pour un « vrai » plateau de charcuteries bretonnes, il est indispensable de présenter au moins : de l'andouille de Guémené-sur-Scorff, du lard rôti, du lard bouilli, du pâté de campagne, du saucisson à l'ail, du pâté de tête et des rillettes de porc.
+
+**Yec'hed mat :** Un vin rouge fruité avec de la fraîcheur à base de Gamay et/ou Pinot Noir pour alléger le gras de la charcuterie. On peut aussi profiter de vins rosés fruités de l'été, ou de certains vins blancs secs ensoleillés un peu plus racés (vallée du Rhône, Provence ou Languedoc).
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- Andouille de Guémené-sur-Scorff (artisanale)
+- Lard rôti
+- Lard bouilli
+- Pâté de campagne
+- Saucisson à l'ail
+- Pâté de tête
+- Rillettes de porc
+- Pain de seigle
+- Cornichons
+
+## Déroulé de la recette
+
+1. **Andouille de Guémené-sur-Scorff :** L'andouille artisanale de qualité est composée d'une superposition de boyaux de porc assaisonnés, dégraissés un par un à la main. Elle est ensuite cuite dans un bouillon et fumée. Servir en tranches fines.
+
+2. **Lard rôti :** Le lard est d'abord légèrement salé (pompé ou en saumure pendant une nuit) et rôti dans un four doux pendant plusieurs heures. Sa peau de dessus est cloquée et croustillante, sa chair marbrée de gras et de viande. En bouche, le lard est fondant, moelleux et très fin en goût.
+
+3. **Lard bouilli :** Le lard est cuit dans un bouillon et refroidi. Servir en tranches.
+
+4. **Pâté de campagne :** Composé d'abats de porc, de gorge de porc, de sel, de poivre, d'un peu d'oignon et d'œuf. Cuit dans une terrine, recouvert de crépine. Délicieux avec du pain de seigle et quelques cornichons.
+
+5. **Saucisson à l'ail :** Saucisson très moelleux parfumé à l'ail, à trancher et servir.
+
+6. **Rillettes de porc :** Servir sur du pain de seigle légèrement toasté.
+
+7. **Dressage :** Disposer harmonieusement les différentes charcuteries sur un grand plateau ou une planche. Servir avec du pain de seigle et des cornichons.
+
+## Noms ingrédients
+
+andouille. lard. pâté de campagne. saucisson. rillettes de porc. pain de seigle. cornichons
+
+---
+
+# Palourdes farcies
+
+## Catégorie
+
+Breton. Non testé. Poisson
+
+## Commentaire
+
+La palourde peut être rose (la palourde des Glénan) ou grise. La rose est souvent plus grosse et plus fragile que la grise, plus fine en goût — on la mange plutôt crue. Traditionnellement, c'est la rose qui est plutôt farcie. Les coquillages sont récoltés à l'état sauvage ou dans des parcs, et la pêche à pied est très réglementée.
+
+**Nevez :** Deux petites idées gourmandes : (1) ajouter un peu de poudre de noisette dans la chapelure ; (2) farcir les moules, les grosses coques, les praires, les pétoncles et les huîtres de la même façon.
+
+**Yec'hed mat :** Un vin blanc sec fruité, voire un peu minéral : « Chenin de la Loire » en Anjou (Savennières par exemple), « Menu Pineau » en Touraine, « Sauvignon » en Cheverny, « Rolle » en Provence, « Mauzac vert » en Gaillac.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 36 palourdes roses ou grises
+- 150 g de beurre demi-sel
+- 1 cuillerée à café de moutarde forte
+- 1 échalote très finement ciselée
+- 1 belle branche d'estragon
+- 1 cuillerée à soupe de persil plat ciselé
+- 1 cuillerée à soupe de ciboulette ciselée
+- 5 cl de vin blanc
+- Chapelure
+
+## Déroulé de la recette
+
+1. **Première cuisson des palourdes :** Laver les palourdes dans l'eau et les égoutter. Les verser dans une casserole avec le vin blanc et cuire sur feu vif à couvert. Stopper la cuisson quand elles commencent à s'ouvrir. Retirer une des deux coquilles et disposer les palourdes dans leurs coquilles dans un plat allant au four. Conserver le jus de cuisson.
+
+2. **Confection du beurre :** Dans le bol d'un mixeur électrique, disposer l'échalote, les herbes, la moutarde, 1 cuillerée à soupe de jus de cuisson et le beurre en pommade. Mixer jusqu'à ce que le beurre soit homogène.
+
+3. **Finition des palourdes :** Préchauffer le four à 250 °C (th. 8). Étaler le beurre sur chaque palourde. Parsemer de chapelure. Glisser le plat dans le four et cuire jusqu'à ce que le dessus commence à dorer (environ 5 min).
+
+4. **Dressage :** Servir les palourdes dans leur plat de cuisson et déguster sans attendre.
+
+## Noms ingrédients
+
+palourdes. beurre. moutarde. échalotes. estragon. persil. ciboulette. vin blanc. chapelure
+
+---
+
+# Rillettes de maquereaux au curry
+
+## Catégorie
+
+Breton. Non testé. Poisson
+
+## Commentaire
+
+Au XIXe siècle, les conserveries bretonnes connaissent un bel essor grâce avant tout à la sardine à l'huile, mais aussi au thon cuit au naturel et au maquereau au vin blanc. Aujourd'hui, les rillettes remportent un vif succès. On peut remplacer les maquereaux par beaucoup d'autres poissons, du moment qu'ils s'effeuillent à la cuisson (la lotte ou l'encornet ne conviennent pas). Pour une entrée plus raffinée, dresser les rillettes sur une purée de chou-fleur légèrement crémée et citronnée dans des raviers individuels, décorer de dés de tomates.
+
+**Yec'hed mat :** Un vin blanc sec, un peu racé, fruité, avec une belle acidité. On peut découvrir certains Languedoc blancs à base de Roussanne, Marsanne et Grenache.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 1 kg de maquereaux bien frais
+- 150 g d'échalotes
+- ¼ de bouteille de vin blanc (type Muscadet)
+- 500 g de crème fraîche
+- 1 c. à soupe de curry
+- 2 tomates
+- ¼ de botte de ciboulette
+- ¼ de botte de persil
+- ¼ de botte d'estragon
+- Sel
+
+## Déroulé de la recette
+
+1. **Préparation des rillettes :** Vider et nettoyer les maquereaux. Cuire à la vapeur (dans un couscoussier) ou en papillotes à four chaud 10 à 15 min. Enlever les arêtes et réserver la chair. Monder les tomates (20 secondes dans l'eau bouillante, puis éplucher). Couper la chair en petits dés sans le jus ni les pépins. Réserver. Ciseler les échalotes et les mettre dans une cocotte avec le vin blanc. Laisser réduire jusqu'à ce qu'il ne reste qu'une cuillère à soupe de vin réduit. Ajouter la crème, le curry, le sel, les dés de tomates et la chair du poisson. Bien mélanger et laisser cuire doucement à découvert 20 min, en remuant souvent pour éviter que les rillettes n'attachent.
+
+2. **Finition :** Retirer du feu, ajouter les fines herbes ciselées et assaisonner de nouveau si nécessaire.
+
+3. **Dressage :** Débarrasser dans une belle terrine et laisser rafraîchir au moins deux heures. Servir à l'apéritif ou en entrée avec du pain de campagne grillé.
+
+## Noms ingrédients
+
+maquereaux. échalotes. vin blanc. crème fraîche. curry. tomates. ciboulette. persil. estragon
+
+---
+
+# Pain de poisson
+
+## Catégorie
+
+Breton. Non testé. Poisson
+
+## Commentaire
+
+Traditionnellement, les terrines en Bretagne sont plutôt à base de porc que de poissons, mais les temps changent. Cette recette est simple et légère. Du pain grillé et une mayonnaise maison accompagnent idéalement cette terrine.
+
+**Nevez :** Pour réchauffer la terrine, vous pouvez l'entourer de lard de poitrine fumée ou de saumon. Le pain de poisson peut aussi être utilisé chaud, dans ce cas poursuivre la cuisson au four.
+
+**Yec'hed mat :** Un vin blanc assez léger avec une belle fraîcheur. Un Muscadet Sèvre-et-Maine ou un Gros-Plant. Mais aussi un Chablis ou un Cheverny. Pour les amateurs, un vin blanc vinifié sur lies avec de la texture.
+
+## Ingrédients
+
+*Pour une terrine*
+
+- 1,2 kg de filets de poisson (type merlu, lieu jaune, lotte ou maquereau)
+- 6 œufs
+- 40 cl de crème fraîche
+- 1 botte de ciboulette
+- Beurre pour le moule
+- Sel, poivre
+
+## Déroulé de la recette
+
+1. **Préparation et cuisson du poisson :** Vérifier qu'il n'y a plus aucune arête dans les filets. Les disposer dans le panier d'un couscoussier ou dans un plat, assaisonner et les cuire à la vapeur environ 15 min. Laisser refroidir.
+
+2. **Préparation du pain :** Préchauffer le four à 170 °C. Ciseler la ciboulette. Mixer les chairs cuites du poisson dans un robot électrique et les verser dans une jatte. Ajouter les œufs, mélanger, incorporer la crème et la ciboulette. Bien fouetter l'ensemble, rectifier l'assaisonnement et verser le tout dans un moule à cake bien beurré. Cuire le pain dans le four à 170 °C pendant 35 min.
+
+3. **Dressage du pain :** Démouler le pain de poisson sur une assiette, le laisser légèrement refroidir et le déguster frais avec une mayonnaise et des toasts chauds.
+
+## Noms ingrédients
+
+filets de poisson. œufs. crème fraîche. ciboulette. beurre
+
+---
+
+# Œufs « mimosa » aux sardines
+
+## Catégorie
+
+Breton. Non testé. Poisson
+
+## Commentaire
+
+En Bretagne, l'œuf est parfois le symbole de forces magiques : « Dans la Vallée de la Rance, le premier œuf d'une poulette servait de remède contre les maladies et contre la stérilité des femmes ! » (H.F. Buffet, *En Haute Bretagne*, 1954).
+
+**Nevez :** On peut remplacer les sardines par une belle cuillerée à soupe de tartare d'algues (au rayon frais des produits de la mer) et procéder de la même façon.
+
+**Yec'hed mat :** Un vin blanc sec et fruité comme avec le cépage Melon de Bourgogne, au Sud-Ouest du Pays Nantais, en Muscadet Côtes de Grandlieu par exemple, ou bien en Touraine avec le cépage Sauvignon.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 6 œufs
+- 1 boîte de sardines à l'huile d'olive (115 g)
+- 1 botte de persil
+- 1 jaune d'œuf
+- 25 cl d'huile de tournesol
+- 1 cuillerée à café bombée de moutarde de Dijon
+- 1 cuillerée à soupe de vinaigre de cidre
+- 1 laitue
+- Sel, poivre
+
+## Déroulé de la recette
+
+1. **Cuisson des œufs :** Faire bouillir de l'eau dans une casserole, plonger les œufs et les cuire 9 min à légers frémissements. Les égoutter, les refroidir sous l'eau froide, les écaler et les couper en deux dans le sens de la longueur. Retirer les jaunes et les débarrasser dans un saladier. Étaler les blancs sur une assiette.
+
+2. **Préparation de la mayonnaise :** Dans un saladier, verser le jaune d'œuf cru, la moutarde, le vinaigre, le sel et le poivre. Mélanger au fouet et ajouter l'huile tout doucement (surtout au début) tout en fouettant. Dès que la mayonnaise commence à prendre, rajouter plus rapidement le reste de l'huile. Vérifier l'assaisonnement. Réserver.
+
+3. **Préparation de la garniture :** Effeuiller et laver le persil. Le ciseler le plus finement possible. Ajouter dans la mayonnaise le persil, les sardines égouttées et émiettées ainsi que les jaunes durs. Bien mélanger au fouet et rectifier l'assaisonnement si nécessaire.
+
+4. **Finition :** À l'aide d'une cuillère, farcir chaque blanc d'œuf avec la mayonnaise aux sardines. Réserver au frais. Effeuiller, laver et essorer la laitue, l'émincer finement. Dans un joli plat, dresser un lit de laitue et déposer par-dessus les œufs « mimosa ». Servir aussitôt.
+
+## Noms ingrédients
+
+œufs. sardines à l'huile. persil. huile de tournesol. moutarde. vinaigre de cidre. laitue
+
+---
+
+# Omelette aux artichauts et lard rôti
+
+## Catégorie
+
+Breton. Non testé. Viande
+
+## Commentaire
+
+Une recette simple et généreuse qui marie les saveurs de l'artichaut Camus breton et du lard rôti. La sauge apporte une note aromatique raffinée à la fricassée d'artichauts.
+
+**Yec'hed mat :** De façon générale, un vin n'est pas très facile à marier avec les œufs. Les garnitures et la suite du repas conditionnent l'envie. Des vins blancs plutôt parfumés comme en Alsace, avec les cépages Pinot Gris ou Muscat, iront aussi bien avec l'artichaut et le lard rôti qu'avec la saucisse de Molène.
+
+## Ingrédients
+
+*Pour 2 ou 3 personnes*
+
+- 6 œufs
+- 1 cuillerée à soupe de lait
+- 2 cœurs d'artichauts camus
+- 3 feuilles de sauge
+- 6 fines tranches de lard rôti
+- 30 g de beurre
+- Gros sel, sel, poivre
+
+## Déroulé de la recette
+
+1. **Cuisson des artichauts :** Faire bouillir une grande casserole d'eau salée. Arracher les queues des artichauts. Les laver et les cuire dans l'eau bouillante 40 à 45 min. Les égoutter, les effeuiller et garder les plus belles feuilles pour la décoration. Retirer le foin des cœurs et couper les cœurs en 6 triangles. Réserver.
+
+2. **Fricassée d'artichauts :** Dans une poêle chaude (environ 24 cm), verser les morceaux d'artichauts avec 15 g de beurre et les cuire à feu moyen jusqu'à ce qu'ils dorent. Ciseler les feuilles de sauge et les ajouter à la fricassée. Réserver.
+
+3. **Préparation des œufs :** Battre les œufs entiers dans un saladier avec le lait, 6 pincées de sel, 3 tours de moulin à poivre jusqu'à ce que le mélange soit homogène.
+
+4. **Préparation du lard :** Chauffer le lard dans une poêle tiède le temps de la cuisson de l'omelette.
+
+5. **Cuisson de l'omelette :** Chauffer la poêle avec les artichauts sur feu vif, ajouter 15 g de beurre, bien mélanger et verser les œufs. Laisser cuire 5 secondes sans toucher, puis avec le côté d'une fourchette ou d'une spatule, ramener les bords vers le centre. Remuer continuellement et délicatement jusqu'à ce que les œufs soient cuits selon votre goût. Débarrasser l'omelette en la faisant glisser (sans la rouler) sur une grande assiette plate.
+
+6. **Dressage :** Disposer les tranches de lard tièdes sur l'omelette et décorer l'assiette avec les jolies feuilles d'artichauts mises de côté. Déguster dès que possible.
+
+## Noms ingrédients
+
+œufs. lait. artichauts. sauge. lard. beurre
+
+
+---
+
+# Omelette aux pommes de terre et saucisse fumée de Molène
+
+## Catégorie
+
+Breton. Non testé. Viande
+
+## Commentaire
+
+La saucisse de Molène est fumée aux algues, ce qui lui confère un goût iodé et fumé unique. Cette omelette est une entrée ou un plat de résistance généreux et réconfortant.
+
+**Yec'hed mat :** De façon générale, un vin n'est pas très facile à marier avec les œufs. Des vins blancs plutôt parfumés comme en Alsace, avec les cépages Pinot Gris ou Muscat — leurs notes florales de roses et litchis adouciront le fumage de la saucisse de Molène tout en s'accordant avec délicatesse à l'artichaut et au lard rôti dans l'autre recette.
+
+## Ingrédients
+
+*Pour 2 ou 3 personnes*
+
+- 6 œufs
+- 1 cuillerée à soupe de lait
+- 500 g de pommes de terre
+- 1 saucisse de Molène fumée aux algues
+- 1 petite botte de persil
+- 50 g de beurre
+- Gros sel, sel, poivre
+
+## Déroulé de la recette
+
+1. **Préparation de la saucisse :** Disposer la saucisse dans une casserole recouverte d'eau froide légèrement salée. Porter à ébullition et cuire 30 min à feu moyen. L'égoutter et la tailler en fines rondelles.
+
+2. **Cuisson des pommes de terre :** Éplucher, laver et cuire les pommes de terre dans l'eau légèrement salée, 30 min après ébullition à feu moyen. Les égoutter une fois cuites et les laisser légèrement refroidir. Les couper en tranches et les faire sauter à la poêle avec 30 g de beurre jusqu'à ce qu'elles soient bien dorées.
+
+3. **Finition de la garniture :** Ajouter les rondelles de saucisse aux pommes de terre sautées, prolonger la cuisson 5 min et verser dans la poêle le persil ciselé. Réserver.
+
+4. **Préparation des œufs et cuisson de l'omelette :** Battre les œufs entiers dans un saladier avec le lait, sel et poivre jusqu'à ce que le mélange soit homogène. Chauffer la poêle avec la garniture sur feu vif, ajouter 20 g de beurre, bien mélanger et verser les œufs. Laisser cuire 5 secondes sans toucher, puis ramener les bords vers le centre avec une fourchette ou spatule. Remuer continuellement et délicatement jusqu'à cuisson souhaitée. Faire glisser l'omelette sur une grande assiette plate.
+
+5. **Dressage :** Déguster l'omelette chaude accompagnée d'une belle salade verte.
+
+## Noms ingrédients
+
+œufs. lait. pommes de terre. saucisse fumée. persil. beurre
+
+---
+
+# Maquereaux marinés au vin blanc
+
+## Catégorie
+
+Breton. Non testé. Poisson
+
+## Commentaire
+
+La recette des maquereaux au vin blanc est une des recettes phares des conserveries bretonnes artisanales. Elle nécessite une main-d'œuvre importante et se prépare en hiver. Chaque conserverie possède sa propre recette de marinade, mais dans tous les cas les poissons sont désarêtés et conservent leur peau. Les maquereaux se dégustent froids une journée après leur cuisson et se conservent dans la marinade au frais au moins 3 jours.
+
+**Nevez :** Servir accompagnés d'une salade de concombre à la crème et à la menthe : éplucher 1 concombre une fois sur deux dans la longueur, le laver, le couper en deux, l'épépiner et l'émincer en fines lamelles. Saler généreusement et laisser dégorger 1 heure au réfrigérateur. Égoutter en pressant entre les mains, verser dans une jatte avec de la crème fraîche, des feuilles de menthe ciselées, un peu de poivre et 7 cl de jus de la marinade pour acidifier légèrement. Servir bien froid.
+
+**Yec'hed mat :** Un vin blanc sec, bien sûr, un Muscadet ! Une règle de base : on prend le même vin qui a servi à la recette.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 6 maquereaux moyens ou 12 lisettes (maquereaux de la taille d'une belle sardine)
+- 1 bouteille de vin blanc sec (type Muscadet)
+- 100 g d'oignons
+- 100 g de carottes
+- 1 branche de thym
+- 1 branche de laurier
+- 1 citron
+- Sel, poivre
+
+## Déroulé de la recette
+
+1. **Préparation de la marinade :** Éplucher l'oignon et la carotte, les laver et les émincer en rondelles les plus fines possibles. Dans une casserole, verser le vin blanc, la carotte, l'oignon, saler et poivrer. Ajouter 25 cl d'eau et porter à ébullition. Laisser cuire la marinade à feu doux 30 min.
+
+2. **Préparation des maquereaux :** Étêter les maquereaux, les vider et les rincer rapidement sous l'eau. Les disposer dans une casserole en évitant de trop les superposer. Ajouter le thym, le laurier, les rondelles de citron et les mouiller avec la marinade. Cuire les poissons à feu doux 5 à 10 min selon leur grosseur. Débarrasser délicatement dans un plat creux et laisser refroidir les poissons dans la marinade.
+
+3. **Dégustation :** Déguster les maquereaux bien froids une journée après leur cuisson.
+
+## Noms ingrédients
+
+maquereaux. vin blanc. oignons. carottes. thym. laurier. citron
+
+---
+
+# Émincé de pommes de terre chaudes au lieu fumé
+
+## Catégorie
+
+Breton. Non testé. Poisson
+
+## Commentaire
+
+Le salage et le fumage sont deux moyens de conservation du poisson très courants en Bretagne depuis des siècles. Ce plat simple met en valeur le lieu fumé avec une sauce crémée légèrement citronnée et moutardée.
+
+**Nevez :** Deux suggestions autour du tartare d'algues : (1) remplacer la moutarde par une belle cuillerée à soupe de tartare d'algues et procéder de la même façon ; (2) conserver la recette initiale mais dresser une cuillerée à café de tartare d'algues sur le côté de la préparation.
+
+**Yec'hed mat :** Le côté puissant du fumage, bien qu'adouci par la préparation crémée, donne envie d'un vin blanc assez racé alliant matière en bouche et belle fraîcheur : vins de Provence, Languedoc-Roussillon, Corse (Rolle, Clairette, Ugni blanc, Grenache, Bourboulenc…) ou le Limoux sec avec ses Chardonnay, Chenin et Mauzac.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 350 g de lieu fumé taillé en fines tranches
+- 900 g de pommes de terre à chair ferme (type Charlotte)
+- 30 cl de crème
+- 1 cuillerée à soupe rase de moutarde
+- 1 citron
+- 1 cuillerée à soupe de ciboulette ciselée (facultatif)
+- Gros sel, poivre
+
+## Déroulé de la recette
+
+1. **Préparation des pommes de terre :** Laver les pommes de terre sans les éplucher. Les mettre dans une grande casserole, recouvrir d'eau froide, saler, couvrir et porter à ébullition. Laisser cuire à faible ébullition 30 min. Les égoutter, les éplucher et les couper en rondelles. Réserver au chaud.
+
+2. **Confection de la sauce :** Verser la crème dans une casserole, porter à ébullition et ajouter la moutarde et le jus du citron. Bien fouetter et retirer du feu.
+
+3. **Dressage :** Étaler les rondelles de pommes de terre dans les assiettes et les napper de crème citronnée et moutardée. Les recouvrir de fines tranches de lieu fumé, parsemer de ciboulette ciselée (facultatif) et donner un tour de moulin à poivre sur chaque assiette. Déguster sans attendre.
+
+## Noms ingrédients
+
+lieu fumé. pommes de terre. crème fraîche. moutarde. citron. ciboulette
+
+---
+
+# Bouillie de sarrasin
+
+## Catégorie
+
+Breton. Non testé. Végé
+
+## Commentaire
+
+Le sarrasin apparaît en Bretagne aux alentours du XVIe siècle et s'adapte parfaitement au climat et aux terres bretonnes. La bouillie de sarrasin constitue rapidement la nourriture de base des Bretons peu aisés. Aujourd'hui, la bouillie est surtout appréciée par la vieille génération bretonne, mais les plus jeunes apprécient ou découvrent avec gourmandise la fricassée de bouillie de blé noir croustillante.
+
+**Nevez :** Une chiffonnade de salade crémée et citronnée au saumon fumé se marie à merveille avec ces croustillants de blé noir. Pour 6 personnes : 300 g de saumon fumé, 1 salade verte type laitue, 20 cl de crème fraîche, 1 citron pressé. Émincer la salade en fines lanières, ajouter la crème, le jus de citron et mélanger délicatement. Dresser un dôme de salade dans chaque assiette, disposer un peu de saumon fumé à côté et accompagner des croustillants de blé noir bien chauds.
+
+**Yec'hed mat :** Plutôt que de chercher un vin à marier sur la bouillie de blé noir, une bolée de cidre et du lait ribot s'imposent !
+
+## Ingrédients
+
+*Pour 6 personnes (soit une vingtaine de croustillants)*
+
+- 200 g de farine de blé noir
+- 1 cuillerée à café rase de sel fin
+- 1 litre d'eau (voire plus pour une bouillie moins épaisse)
+- 120 g de beurre
+
+## Déroulé de la recette
+
+1. **Préparation de la bouillie :** Verser la farine et le sel dans un saladier. Délayer avec l'eau et battre au fouet pendant 15 min (un robot électrique est possible). Verser la pâte dans une grande casserole et cuire à feu doux en mélangeant tout au long de la cuisson avec un fouet et une spatule pour éviter que la bouillie ne colle. Au bout de 15 min, la bouillie doit être épaisse. On peut la déguster bien chaude avec des noisettes de beurre.
+
+2. **Préparation des croustillants :** Débarrasser la bouillie après sa cuisson dans une terrine ou un moule à cake et la laisser refroidir complètement (3 à 4 heures). Démouler sur une planche et tailler en tranches (environ 7 mm d'épaisseur). Disposer ces tranches dans une poêle chaude avec quelques noisettes de beurre et les laisser cuire de chaque côté jusqu'à ce qu'elles deviennent croustillantes. Réserver au chaud et renouveler l'opération jusqu'à épuisement. Déguster bien chauds.
+
+## Noms ingrédients
+
+farine de sarrasin. beurre
+
+---
+
+# Bouillie d'avoine
+
+## Catégorie
+
+Breton. Non testé. Végé
+
+## Commentaire
+
+Avant l'apparition du sarrasin, l'avoine était la céréale nourricière par excellence et la bouillie était, comme dans la plupart des pays celtes, obligatoirement à base d'avoine. Ce plat rustique et roboratif est loin d'être tombé dans les oubliettes : la bouillie d'avoine précuite s'achète en barquette plastique sous vide dans les supermarchés bretons et est très appréciée, surtout rissolée dans le beurre, à tous les âges et pour toutes les bourses.
+
+**Nevez :** Tout comme avec les croustillants de blé noir, une chiffonnade de salade crémée et citronnée au saumon fumé se marie très bien avec ces croustillants d'avoine (même recette que pour la bouillie de sarrasin).
+
+**Yec'hed mat :** Comme pour la bouillie de blé noir, plutôt choisir une bonne bolée de cidre et du lait ribot !
+
+## Ingrédients
+
+*Pour 6 personnes (soit une vingtaine de croustillants)*
+
+- 250 g de farine d'avoine précuite (ou crème d'avoine)
+- 1 cuillerée à café rase de sel fin
+- 50 cl de lait
+- 50 cl d'eau (voire plus pour une bouillie moins épaisse)
+- 120 g de beurre
+
+## Déroulé de la recette
+
+1. **Préparation de la bouillie :** Verser la crème d'avoine et le sel dans une jatte, délayer avec le lait. Laisser reposer au réfrigérateur 12 heures. Une fois reposée, ajouter l'eau et verser le tout dans une casserole à fond épais. Monter à ébullition en remuant constamment au fouet pour éviter les grumeaux. Poursuivre la cuisson à feu doux en mélangeant avec un fouet et une spatule pour éviter que la bouillie ne colle. Stopper la cuisson au bout de 30 min.
+
+2. **Préparation des croustillants :** Procéder exactement comme pour la bouillie de sarrasin : débarrasser dans une terrine ou un moule à cake, laisser refroidir complètement (3 à 4 heures), démouler, tailler en tranches d'environ 7 mm et faire cuire dans une poêle chaude avec des noisettes de beurre jusqu'à ce que les tranches soient croustillantes de chaque côté. Déguster bien chauds.
+
+## Noms ingrédients
+
+farine d'avoine. lait. beurre
+
+---
+
+# Kig-ha-farz
+
+## Catégorie
+
+Breton. Non testé. Viande
+
+## Commentaire
+
+Le kig-ha-farz (littéralement « la viande et le far ») est le pot-au-feu breton originaire de la région du Léon. Les recettes sont multiples (autant que de chapelles en Bretagne) mais certaines règles sont à respecter : les viandes et légumes doivent cuire longtemps dans le bouillon, les fars (à base de blé noir ou de froment) sont enveloppés dans une chaussette de coton et cuits au moins 1 h 30 dans le bouillon, et la viande, les légumes et les fars sont accompagnés du lipig (fondue d'oignons ou d'échalotes cuits dans une grande quantité de beurre demi-sel). Ce plat succulent mais roboratif est aujourd'hui préparé principalement à l'occasion de grands repas conviviaux ou au restaurant, sur réservation.
+
+**Nevez :** Préparer un fumet de poisson (cf. recette de la cotriade) et cuire le far noir pendant 2 heures à feu doux dans le fumet. Servir le far noir avec un poisson (tronçon de lieu, cabillaud, merlu, bar, congre…) et des légumes cuits dans le fumet, accompagné d'un beurre blanc plutôt qu'un lipig : c'est le *pesked ha farz*.
+
+**Yec'hed mat :** Un cidre AOC de Cornouaille avec une pointe d'astringence, ou une bière bretonne. En vin : des rouges fruités aux notes de cassis/mûre avec un peu de structure — Cabernet franc en Touraine (Saint-Nicolas-de-Bourgueil, Bourgueil, Chinon…), Cabernet Sauvignon en Anjou et Saumur. Un Graves, un Pauillac ou un Saint-Émilion ne sera pas en reste non plus.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+**Pot-au-feu**
+- Viande de pot-au-feu (bœuf)
+- Carottes
+- Navets
+- Oignons
+- 1 chou
+- Poireaux
+- Pommes de terre
+
+**Jarret, lard et saucisses**
+- Jarrets de porc
+- Lard demi-sel
+- 2 saucisses
+
+**Far noir**
+- Farine de blé noir
+- 1 œuf
+- 40 cl de bouillon du pot-au-feu
+- 50 g de beurre
+- Sel
+
+**Far blanc**
+- Farine de froment
+- Sucre
+- 2 œufs
+- Lait
+
+**Lipig**
+- Échalotes
+- Beurre demi-sel
+
+## Déroulé de la recette
+
+1. **Préparation des légumes :** Éplucher et laver les carottes, navets et oignons. Tailler les carottes en tronçons de 10 cm, couper les navets en 2 ou 4, émincer grossièrement les oignons. Couper le chou en quatre, retirer les feuilles trop vertes et laver. Retirer les parties hautes des poireaux, les laver et les ficeler en une botte. Éplucher et laver les pommes de terre.
+
+2. **Mise en cuisson du pot-au-feu :** Dans une grande marmite, déposer la viande de pot-au-feu, remplir d'eau froide, saler et porter à ébullition. Prolonger la cuisson à feu doux à couvert 2 heures. Écumer et ajouter les légumes sauf le chou, porter à ébullition et poursuivre 1 heure. Ajouter le chou et prolonger 30 min. Réserver au chaud.
+
+3. **Mise en cuisson du jarret, du lard et des saucisses :** Dans une deuxième grande marmite, mettre les jarrets dans l'eau froide salée, porter à ébullition et cuire 1 h 30. Plonger les deux sacs de fars dans le bouillon ainsi que le lard demi-sel et prolonger 1 h 30. Ajouter les saucisses et poursuivre 30 min. Réserver au chaud.
+
+4. **Préparation du far blanc :** Dans une jatte, verser la farine avec le sucre. Faire une fontaine, ajouter les œufs au centre. Mélanger doucement en ajoutant le lait petit à petit. Verser la pâte dans le deuxième sac (pas plus des 2/3) et le ficeler. Plonger dans le bouillon du jarret.
+
+5. **Préparation du far noir :** Prélever 40 cl de bouillon du pot-au-feu et y verser 50 g de beurre. Dans une jatte, verser la farine de blé noir avec le sel, faire une fontaine, y déposer l'œuf, mélanger délicatement en ajoutant petit à petit le bouillon au beurre fondu légèrement tiédi. Verser la pâte dans un sac (pas plus des 2/3 car la pâte va gonfler) et le ficeler. Plonger dans le bouillon du jarret.
+
+6. **Préparation du lipig :** Éplucher, laver et émincer les échalotes. Les faire fondre dans le beurre à feu doux 20 à 30 min.
+
+7. **Dressage :** Une fois les fars cuits, les laisser refroidir. Débarrasser des sacs : présenter le far blanc coupé en tranches et le far noir émietté avec les mains (bruzhunek) sur un joli plat. Disposer les légumes dans un plat creux, les viandes sur une grande planche à découper. Servir à côté dans une saucière le lipig. Le bouillon peut se déguster en début de repas en soupe ou servir à arroser la viande, les fars et les légumes lors de la dégustation.
+
+## Noms ingrédients
+
+bœuf. porc. lard. saucisse. carottes. navets. oignons. chou. poireaux. pommes de terre. farine de sarrasin. farine de froment. œufs. lait. beurre. échalotes
+
+---
+
+# Galettes ou crêpes de blé noir
+
+## Catégorie
+
+Breton. Non testé. Végé
+
+## Commentaire
+
+Sarrasin et blé noir sont synonymes. En Haute-Bretagne, les galettes sont des crêpes à base de sarrasin plutôt épaisses ; en Basse-Bretagne, elles sont souvent étirées plus finement. Les galettes se dégustent moelleuses et la galette-saucisse est à ne pas manquer sur les marchés. Les crêpes de sarrasin se dégustent « kras » — croustillantes et beurrées sur les bords, moelleuses au centre. La cuisson peut se faire sur une billig, mais quelques heures de pratique sont indispensables avant d'obtenir un bon résultat.
+
+**Yec'hed mat :** Un bol de lait ribot s'impose, mais n'oublions pas le choix de cidres fermiers qui nous tend les bras ! Léger en alcool et vraiment « trop mad ».
+
+## Ingrédients
+
+*Pour une bonne vingtaine de galettes*
+
+- 500 g de farine de blé noir
+- 60 g de farine de froment
+- 1 œuf
+- 10 g de gros sel gris de Guérande
+- 1,2 litre d'eau (plus si la pâte est trop épaisse)
+- Beurre
+
+## Déroulé de la recette
+
+1. **Fabrication de la pâte :** Dans un saladier, verser les farines et le sel. Mélanger et former une fontaine. Casser l'œuf au centre. Mélanger doucement au fouet en ajoutant l'eau petit à petit. Mélanger la pâte jusqu'à ce qu'elle soit onctueuse. La battre ensuite avec une spatule pendant 10 min pour qu'elle devienne plus légère. Laisser reposer la pâte 1 heure.
+
+2. **Cuisson des galettes :** Dans une poêle anti-adhésive chaude, verser une noisette de beurre et une petite louche de pâte. Étaler la pâte le plus rapidement et le plus finement possible. Retourner la galette dès que ses bords commencent à colorer et la laisser cuire jusqu'à ce qu'elle soit légèrement dorée des deux côtés.
+
+## Noms ingrédients
+
+farine de sarrasin. farine de froment. œufs. beurre
+
+---
+
+# Rouleaux de sarrasin à la sardine
+
+## Catégorie
+
+Breton. Non testé. Poisson
+
+## Commentaire
+
+Une idée simple et savoureuse pour l'apéritif : une crème de sardine onctueuse roulée dans des galettes de sarrasin, découpée en petits tronçons. À réserver au frais jusqu'à la dégustation.
+
+## Ingrédients
+
+*Pour 6 personnes (à servir en apéritif)*
+
+- 2 à 3 galettes de sarrasin (selon la taille)
+- 1 boîte de 115 g de sardines à l'huile d'olive ou d'arachide
+- 7 cl de crème fraîche
+- 1 c. à s. de jus de citron
+- 1 c. à s. de persil haché
+- 1 c. à s. de ciboulette ciselée
+- Sel, poivre
+
+## Déroulé de la recette
+
+1. **Préparation de la crème à la sardine :** Retirer la queue des sardines et verser tout le reste de la boîte dans un mixeur. Ajouter la crème, le jus de citron, la ciboulette ciselée, le persil haché et assaisonner. Mixer jusqu'à ce que la crème devienne onctueuse.
+
+2. **Confection des rouleaux :** Étaler la crème de sardine sur toute la surface des galettes et rouler les galettes sur elles-mêmes. Couper en tronçons de 1 à 2 cm chaque galette. Réserver au frais jusqu'à la dégustation.
+
+## Noms ingrédients
+
+sardines à l'huile. crème fraîche. citron. persil. ciboulette
+
+---
+
+# Galette au fromage de chèvre et à la confiture de courgette
+
+## Catégorie
+
+Breton. Non testé. Végé
+
+## Commentaire
+
+Une galette simple et originale qui marie le fondant du fromage de chèvre demi-sec avec la douceur légèrement épicée d'une confiture de courgette maison. La confiture peut se préparer à l'avance et se conserve plusieurs semaines.
+
+**Confiture de courgettes (pour 4 pots) :** Éplucher 1 fois sur 2 les courgettes, les laver et les émincer en fines rondelles. Éplucher et épépiner 250 g de pommes, les émincer en fines tranches. Mélanger dans une jatte 1 kg de courgettes, les pommes, 500 g de sucre, le jus d'un demi-citron et 1 c. à café de graines de coriandre concassées légèrement grillées. Couvrir et laisser mariner une nuit. Le lendemain, verser dans une casserole et cuire doucement à couvert. Quand le mélange commence à bouillir, continuer la cuisson à découvert à feu moyen jusqu'à consistance sirupeuse (environ 30 min). Mixer légèrement. Verser bouillant dans des pots stérilisés, fermer et retourner jusqu'à refroidissement total.
+
+## Ingrédients
+
+*Par personne*
+
+- 1 galette de sarrasin
+- 3 tranches de fromage de chèvre demi-sec
+- 1 c. à soupe de confiture de courgette
+- 30 g de beurre
+
+## Déroulé de la recette
+
+1. **Confection de la galette :** Glisser le fromage de chèvre dans la galette avec un peu de confiture. Réchauffer dans une poêle avec un peu de beurre. Dresser la galette dans une assiette et l'accompagner avec un petit supplément de confiture.
+
+## Noms ingrédients
+
+fromage de chèvre. courgettes. pommes. sucre. citron. coriandre. beurre
+
+---
+
+# Galette à l'andouille de Guémené-sur-Scorff et sa fricassée de poire
+
+## Catégorie
+
+Breton. Non testé. Viande
+
+## Commentaire
+
+Une galette gourmande qui marie l'andouille de Guémené-sur-Scorff — charcuterie emblématique de Bretagne — avec une fricassée de poire caramélisée et un filet de crème. Un accord sucré-salé tout en finesse.
+
+## Ingrédients
+
+*Par personne*
+
+- 1 galette de sarrasin
+- 4 fines tranches d'andouille de Guémené-sur-Scorff
+- ½ poire style « conférence »
+- 1 pincée de sucre
+- 50 g de beurre
+- 1 cuillerée à soupe de crème liquide
+
+## Déroulé de la recette
+
+1. **Préparation de la poire :** Éplucher la demi-poire, l'épépiner et la couper en 4 ou 6 quartiers selon la taille. Faire sauter à la poêle dans un peu de beurre avec une pincée de sucre. Stopper la cuisson quand la poire est fondante et légèrement caramélisée. Réserver au chaud.
+
+2. **Confection de la galette :** Glisser l'andouille dans la galette et la réchauffer dans la poêle avec un peu de beurre. Dresser la galette dans l'assiette, disposer dessus les morceaux de poire et verser sur le tout un trait de crème.
+
+## Noms ingrédients
+
+andouille. poires. sucre. beurre. crème fraîche
+
+
+---
+
+# Galette au saumon fumé et sa crème au concombre à la menthe
+
+## Catégorie
+
+Breton. Non testé. Poisson
+
+## Commentaire
+
+Une galette élégante et fraîche, idéale en entrée ou en plat léger. La crème au concombre à la menthe apporte une note rafraîchissante qui s'accorde parfaitement avec le saumon fumé.
+
+## Ingrédients
+
+*Par personne*
+
+- 1 galette de sarrasin
+- 50 g de saumon fumé coupé en fines tranches
+- 30 g de beurre
+- 7 cl de crème fraîche liquide
+- 1 trait de jus de citron
+- 2 feuilles de menthe ciselées
+- 50 g de concombre
+- Sel, poivre
+
+## Déroulé de la recette
+
+1. **Confection de la crème de concombre :** Éplucher le concombre 1 fois sur 2, le laver, le couper en deux dans la longueur, l'épépiner et l'émincer en lamelles. Saler les lamelles et les laisser dégorger au frais 30 min. Égoutter le concombre, le verser dans le bol d'un mixeur, poivrer légèrement, ajouter la menthe, le jus de citron et la crème fraîche bien froide. Mixer jusqu'à la formation d'une crème onctueuse. Réserver au frais.
+
+2. **Confection de la galette :** Glisser le saumon fumé dans la galette et la réchauffer dans une poêle avec un peu de beurre. Dresser la galette dans une assiette et l'accompagner de la crème au concombre et à la menthe.
+
+## Noms ingrédients
+
+saumon fumé. crème fraîche. citron. menthe. concombre. beurre
+
+---
+
+# Pièce de bœuf rôtie au sarrasin
+
+## Catégorie
+
+Breton. Non testé. Viande
+
+## Commentaire
+
+Cette recette était considérée par Curnonsky comme « une des merveilles culinaires bretonnes ». Curnonsky (1878-1956), écrivain, journaliste et critique gastronomique d'origine angevine, découvrit Mélanie Rouat, formidable cuisinière qui tenait un hôtel-restaurant à Riec-sur-Belon, dont il fit la renommée en y séjournant et en y écrivant beaucoup pendant la seconde guerre mondiale.
+
+**Nevez :** C'est impossible — je ne touche pas à la merveille culinaire bretonne !
+
+**Yec'hed mat :** Une viande de bœuf rôtie avec cette subtile association du sarrasin dans la purée donne envie d'aller sur un vin rouge légèrement structuré par le travail du fût de chêne, qui se fondera avec une pointe vanillée et des notes de fruits rouges. On peut aller vers plusieurs appellations communales du Bordelais par exemple.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 3 × 400 g de faux-filet paré (ou 3 côtes de bœuf de 500 g)
+- 100 g de beurre
+- Sel, poivre
+
+*La purée :*
+- 1 kg de pommes de terre (type Charlotte)
+- 70 g de farine de blé noir
+- 30 cl d'eau
+- 150 g de beurre mou
+- 40 cl de crème fraîche
+- Un peu de lait si la purée est trop épaisse
+- Gros sel, sel et poivre
+
+## Déroulé de la recette
+
+1. **Préparation de la purée de pommes de terre :** Éplucher et laver les pommes de terre, les cuire dans une casserole d'eau froide légèrement salée. Dès les petits frémissements, compter 30 à 40 min de cuisson à feu doux à couvert. Les égoutter et les écraser au presse-purée. Ajouter 100 g de beurre et délayer la purée avec la crème chaude en mélangeant délicatement. Ajouter un peu de lait chaud si la purée semble trop épaisse.
+
+2. **Préparation de la bouillie de sarrasin :** Pendant la cuisson des pommes de terre, porter à ébullition 30 cl d'eau avec un peu de sel. Verser la farine de sarrasin en pluie et mélanger énergiquement au fouet à feu doux pendant 10 min. Ajouter 50 g de beurre, poivrer et réserver au chaud. Ajouter la bouillie à la purée, mélanger délicatement à la spatule et réserver au bain-marie jusqu'à la dégustation.
+
+3. **Cuisson du faux-filet :** Préchauffer le four à 270 °C (th. 9) en laissant la plaque creuse du four chauffer à l'intérieur. Faire chauffer une grande poêle sur feu vif. Saler de chaque côté la viande et la faire saisir sur toutes les faces dans la poêle bien chaude. Disposer ensuite la viande saisie sur la plaque du four et laisser cuire 5 min dans le four très chaud (pour une cuisson saignante). Retirer la viande du four et disposer une noisette de beurre frais dessus.
+
+4. **Dressage :** Trancher la viande, disposer les tranches sur des assiettes chaudes et déguster avec la purée de pommes de terre et sarrasin. Il est possible de parfumer la viande avec un peu de thym, du persil ou de la ciboulette.
+
+## Noms ingrédients
+
+bœuf. beurre. pommes de terre. farine de sarrasin. crème fraîche. lait
+
+---
+
+# Galettes de pommes de terre
+
+## Catégorie
+
+Breton. Non testé. Végé
+
+## Commentaire
+
+La galette de pommes de terre est originaire de la région de Pontivy et du centre de la Bretagne. Il existe plusieurs recettes dans lesquelles les pommes de terre sont plus ou moins écrasées et dont la taille peut aller du blinis à un joli pancake. Elle peut même remplacer la pâte à pain dans une pizza !
+
+**Nevez :** Elle peut remplacer la pâte à pain dans une pizza — libre dans le choix des garnitures.
+
+**Yec'hed mat :** Devinez… un bon cidre fermier, bien sûr ! Autrement on préférera un vin blanc ou rouge (suivant la garniture choisie) assez léger pour ne pas masquer les notes florales du blé noir adoucies par la pomme de terre.
+
+## Ingrédients
+
+*Pour une bonne vingtaine de galettes*
+
+- 250 g de farine de blé noir
+- 50 g de farine de froment
+- 700 g de pommes de terre
+- 1 œuf
+- 65 cl d'eau
+- 50 g de beurre
+- Gros sel, sel
+
+## Déroulé de la recette
+
+1. **Préparation de la pâte :** Éplucher, laver les pommes de terre et les cuire dans une casserole d'eau légèrement salée à feu doux et à couvert dès la montée en ébullition. Les cuire 30 à 40 min, les égoutter et les écraser à la fourchette. Laisser refroidir. Dans un grand saladier, faire une fontaine avec les farines et un peu de sel. Casser l'œuf au centre et le mélanger aux farines en ajoutant l'eau petit à petit. Mélanger et battre la pâte pendant une dizaine de minutes jusqu'à l'obtention d'une pâte lisse et souple. Ajouter l'écrasée de pommes de terre refroidie en continuant à bien mélanger. Rajouter un peu d'eau si la pâte est trop épaisse. Laisser reposer 1 heure.
+
+2. **Cuisson des galettes :** Dans une poêle en téflon chaude légèrement beurrée, verser une petite louche de pâte. Étaler légèrement afin que la galette ait une épaisseur de 2 mm. Laisser cuire doucement d'un côté puis la retourner délicatement avec la spatule et continuer la cuisson jusqu'à ce que la galette soit bien dorée des deux côtés. Continuer jusqu'à épuisement de la pâte.
+
+3. **Dégustation :** Réchauffer les galettes dans du beurre (à la poêle ou au four) et les déguster seules ou en accompagnement de charcuteries, de légumes ou de fromages.
+
+## Noms ingrédients
+
+farine de sarrasin. farine de froment. pommes de terre. œufs. beurre
+
+---
+
+# Gâteau aux trois farines
+
+## Catégorie
+
+Breton. Non testé. Dessert
+
+## Commentaire
+
+Les Bretons ont toujours été de grands voyageurs gourmands et c'est pour cette raison que des produits exotiques comme les fruits secs, les épices, le café, le rhum sont cuisinés et dégustés traditionnellement en Bretagne depuis des siècles. Cette recette est inspirée d'un souvenir d'Alsace cuisiné à la version bretonne, confiée par Christine Ferber, pâtissière renommée d'Alsace. Le beurre doux est remplacé par un beurre de baratte demi-sel et la farine de froment par de la crème d'avoine ou de la farine de blé noir.
+
+**Nevez :** Accompagner d'une glace, d'un coulis de fruits, d'un caramel au beurre salé ou déguster avec un café, un thé ou un chocolat chaud.
+
+**Yec'hed mat :** À quel moment de la journée allez-vous craquer pour ce gâteau ? Une boisson chaude, une flûte de Royal Guillevic, un cidre doux, un poiré… ou un bon jus de pomme tout simplement !
+
+## Ingrédients
+
+*Pour 8 personnes*
+
+- 125 g de beurre demi-sel + du beurre mou pour le moule
+- 125 g de sucre
+- 140 g de crème d'avoine (ou 70 g de farine de froment + 70 g de farine de blé noir)
+- 125 g de sucre glace + du sucre glace pour la finition
+- 20 g d'amandes effilées
+- 190 g de blancs d'œufs (environ 6 à 7 blancs d'œufs)
+
+## Déroulé de la recette
+
+1. **Préparation :** Préchauffer le four à 170 °C (th. 6). Beurrer le moule grassement et étaler une fine couche d'amandes effilées sur le fond et les bords. Réserver au frais. Verser dans le bol d'un mixeur les blancs d'œufs et le sucre, puis les fouetter en neige. Tamiser la farine avec le sucre glace et verser ce mélange sur les blancs en neige en mélangeant délicatement à la spatule. Ramollir le beurre (à la limite du beurre fondu) et l'ajouter à la pâte toujours délicatement. Verser la préparation dans le moule et cuire le gâteau 40 min à 170 °C (th. 6).
+
+2. **Dressage :** Démouler le gâteau une fois cuit en laissant la partie gonflée (la partie croustillante) dessus. Laisser refroidir et saupoudrer de sucre glace avant de déguster.
+
+## Noms ingrédients
+
+beurre. sucre. farine d'avoine. farine de sarrasin. sucre glace. amandes effilées. œufs
+
+---
+
+# Flan d'avoine
+
+## Catégorie
+
+Breton. Non testé. Dessert
+
+## Commentaire
+
+Quelle différence entre la bouillie, la crème et le gruau d'avoine ? La bouillie est la préparation bretonne à base de crème d'avoine. La crème d'avoine est une farine d'avoine précuite de couleur beige. Le gruau, c'est la partie plus dure du grain d'avoine qui permet de faire la farine, et donc la crème. Ce flan délicat se déguste nature ou avec une compote de poires.
+
+**Nevez :** Ce flan, comme une crème caramel, peut être caramélisé : verser le caramel dans le fond du moule avant de verser l'appareil à flan. La cannelle, les raisins secs et la vanille se marient aussi très bien avec l'avoine.
+
+**Yec'hed mat :** Devinez… une bolée de cidre doux ! À moins que vous ayez la chance de trouver un cidre Royal Guillevic ou un bon Poiré.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 100 g de gruau d'avoine (graines)
+- 50 cl de lait
+- 90 g de sucre roux
+- 8 jaunes d'œufs
+- 25 cl de crème fleurette
+
+## Déroulé de la recette
+
+1. **Préparation du lait à l'avoine :** Préchauffer le four à 250 °C (th. 8). Verser les graines d'avoine dans la plaque du four et les faire torréfier jusqu'à ce qu'elles colorent légèrement. Réserver. Porter le lait à ébullition et y verser l'avoine. Retirer du feu et laisser infuser 3 heures.
+
+2. **Préparation de la crème :** Préchauffer le four à 170 °C (th. 6). Fouetter les jaunes d'œufs avec le sucre jusqu'à ce qu'ils blanchissent. Y verser le lait d'avoine filtré et la crème fleurette tout en fouettant. Verser l'appareil dans un plat en porcelaine ou en terre cuite (épaisseur ne dépassant pas 2 cm). Disposer ce plat au bain-marie dans la plaque du four et glisser dans le four. Laisser cuire environ 30 min. Retirer du four et laisser refroidir à température ambiante.
+
+3. **Dégustation :** Déguster cette crème nature ou avec une compote de poires.
+
+## Noms ingrédients
+
+gruau d'avoine. lait. sucre. œufs. crème fraîche
+
+---
+
+# Filet de dorade braisé et sa sauce Saint-Malo
+
+## Catégorie
+
+Breton. Non testé. Poisson
+
+## Commentaire
+
+Saint-Malo comme Lorient sont des villes portuaires qui étaient très actives dans le commerce des épices. Dès le Moyen Âge et dans la haute société, l'habitude était déjà prise d'assaisonner les plats avec des épices exotiques. La moutarde arrive à Saint-Malo par la mer et les Malouins l'adoptent rapidement en cuisine.
+
+**Nevez :** La moutarde peut être remplacée par d'autres épices comme du curry, du safran, du paprika, et le jus de citron par un autre élément acide selon l'inspiration et le légume d'accompagnement. Par exemple, si la dorade est accompagnée d'une fondue d'endives, on peut imaginer remplacer le jus de citron par un jus d'orange et ajouter une pointe de cumin ou de coriandre à la place de la moutarde.
+
+**Yec'hed mat :** Un vin blanc sec, un peu floral avec une belle acidité, comme par exemple dans la région de Bandol avec les cépages Bourboulenc, Clairette et Ugni blanc.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 900 g de filet de dorade grise (ou daurade royale), avec la peau mais écaillée
+- 15 cl de crème fraîche
+- 150 g de beurre pour la sauce + 50 g de beurre pour le poisson
+- 1 citron
+- 1 cuillerée à soupe rase de moutarde à l'ancienne
+- 1 cuillerée à café de moutarde forte
+- Sel, poivre
+
+## Déroulé de la recette
+
+1. **Préparation du poisson :** Préchauffer le four à 250 °C (th. 8). Partager les filets désarêtés en 6 portions. Dans la plaque du four légèrement beurrée, disposer le poisson, saler, poivrer et parsemer quelques noisettes de beurre sur chaque portion. Mouiller avec un peu d'eau (jusqu'à mi-hauteur des filets) et glisser dans le four très chaud pendant 5 à 10 min selon l'épaisseur des filets.
+
+2. **Préparation de la sauce (pendant la cuisson du poisson) :** Dans une casserole, verser la crème fraîche. Faire bouillir et ajouter aussitôt le beurre mou en petits morceaux sur feu moyen tout en fouettant la crème. Presser le citron et verser son jus avec les moutardes dans le beurre monté. Rectifier l'assaisonnement si nécessaire. Rajouter un peu de jus de cuisson du poisson si la sauce est trop épaisse et réserver au chaud.
+
+3. **Dressage :** Partager la sauce Saint-Malo dans chaque assiette et dresser le poisson. Retirer la peau avec les doigts et servir avec des haricots verts, des épinards, des pommes de terre…
+
+## Noms ingrédients
+
+dorade. crème fraîche. beurre. citron. moutarde
+
+---
+
+# Filet de bar à la sauce Cancalaise
+
+## Catégorie
+
+Breton. Non testé. Poisson
+
+## Commentaire
+
+Bien que les huîtres existent et se consomment depuis des lustres en Bretagne, Cancale est le premier port breton à se distinguer dès le XVIIe siècle pour sa pêche aux huîtres. C'est à partir du XVIIIe siècle que les huîtres sauvages sont affinées dans des parcs. Comme le vin, il existe plusieurs « crus » d'huîtres en fonction de leur élevage et de leur lieu de production et d'affinage.
+
+**Nevez :** Le poisson peut être cuit à la vapeur à la place d'être cuit au four. On peut rajouter quelques dés de lard rôti ou d'andouille dans la sauce au dernier moment — ils se marient très bien avec les huîtres comme avec le bar.
+
+**Yec'hed mat :** Un vin blanc sec et fruité avec une touche maritime — un bon Muscadet de Sèvre-et-Maine sur lie, avec ce côté « perlant » conféré par la vinification sur ses lies fines qui lui permet de garder un peu de gaz carbonique résiduel donnant cette pointe de fraîcheur.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 900 g de filet de bar avec la peau écaillée
+- 18 huîtres creuses N°2
+- 1 citron
+- 20 cl de crème fraîche
+- 150 g de beurre + 50 g de beurre pour la cuisson du poisson
+- Sel, poivre
+
+## Déroulé de la recette
+
+1. **Préparation des huîtres :** Ouvrir les huîtres, les retirer des coquilles. Mettre les huîtres dans une petite casserole et le jus dans une autre. Réserver.
+
+2. **Préparation du poisson :** Préchauffer le four à 250 °C (th. 8). Partager les filets désarêtés en 6 portions. Dans la plaque du four légèrement beurrée, disposer le poisson (la peau au-dessus), saler, poivrer et parsemer quelques noisettes de beurre à la surface. Mouiller avec un peu d'eau (au tiers de la hauteur des filets) et glisser dans le four très chaud pendant 5 à 10 min selon l'épaisseur des filets.
+
+3. **Mise en cuisson de la sauce aux huîtres :** Ajouter la crème fraîche dans le jus des huîtres et le jus du citron. Porter à ébullition et incorporer en fouettant 150 g de beurre en petits morceaux. Vérifier l'assaisonnement et réserver au chaud.
+
+4. **Dressage :** Tiédir les huîtres sur un feu doux (ne surtout pas les faire bouillir, elles perdraient tout leur goût iodé). Disposer au centre de l'assiette le filet de bar, dresser autour les huîtres tièdes et napper le tout de sauce aux huîtres. Retirer la peau du poisson délicatement et servir accompagné de pommes de terre cuites à l'eau ou à la vapeur.
+
+## Noms ingrédients
+
+bar. huîtres. citron. crème fraîche. beurre. pommes de terre
+
+---
+
+# Filet de merlu au beurre blanc
+
+## Catégorie
+
+Breton. Non testé. Poisson
+
+## Commentaire
+
+Le beurre blanc a été inventé en 1890 par Clémence Lefeuvre, cuisinière du Marquis de Goulaine, qui exerçait son métier sur les bords de la Loire. Depuis, cette sauce est restée un grand classique. L'ajout de crème n'est pas une obligation mais elle facilite l'émulsion de la sauce et de plus, elle adoucit et allège le beurre blanc.
+
+**Nevez :** On peut remplacer le vinaigre de vin par du vinaigre de cidre et le vin blanc par un cidre brut fermier, en ajoutant juste une goutte de cidre avant de le déguster. Ce beurre blanc se marie très bien avec des brochettes de noix de coquilles Saint-Jacques dans lesquelles on glisse des quartiers de pommes légèrement cuits entre les noix.
+
+**Yec'hed mat :** Le cépage Sauvignon que l'on retrouve notamment dans les vins du Centre de la Vallée de la Loire (Sancerre, Pouilly-Fumé, Ménetou-Salon, Quincy, Reuilly) — vin blanc sec et fruité avec une belle acidité généralement citronnée qui se marie très bien avec les poissons cuits à la vapeur et le beurre blanc. Ou bien un Muscadet, le même rentrant dans la composition de la sauce.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 900 g de filet de merlu
+- 300 g de beurre demi-sel
+- 10 cl de vin blanc (type Muscadet)
+- 15 cl de vinaigre de vin
+- 4 échalotes
+- 5 cl de crème fraîche
+- 1,5 kg de pommes de terre (type Charlotte)
+- Gros sel, sel et poivre
+
+## Déroulé de la recette
+
+1. **Préparation du beurre blanc :** Éplucher, nettoyer et ciseler très finement les échalotes. Les mettre dans une casserole avec le vin et le vinaigre. Laisser réduire à feu doux jusqu'à ce qu'il ne reste que l'équivalent d'une cuillerée à soupe de liquide dans le fond. Verser la crème fraîche, augmenter légèrement l'intensité du feu et incorporer le beurre coupé en petits morceaux petit à petit à l'aide du fouet. Lorsque le beurre est bien incorporé, continuer de fouetter encore quelques secondes. Réserver au chaud.
+
+2. **Cuisson du merlu :** Verser de l'eau au quart de la hauteur de la partie inférieure du couscoussier. Porter à ébullition. Disposer le poisson dans la partie perforée, le saler et le poivrer légèrement. Poser cette partie au-dessus et couvrir. Laisser cuire pendant 5 à 7 min. Les doigts doivent légèrement pénétrer dans la chair quand il est cuit.
+
+3. **Dressage :** Au centre de chaque assiette, dresser le filet de merlu, le napper de beurre blanc et servir à part des pommes de terre cuites en robe des champs.
+
+## Noms ingrédients
+
+merlu. beurre. vin blanc. vinaigre de vin. échalotes. crème fraîche. pommes de terre
+
+---
+
+# Filet de lieu jaune cuisiné à la mode de Belle-Île
+
+## Catégorie
+
+Breton. Non testé. Poisson
+
+## Commentaire
+
+Une recette très simple et surtout délicieuse qui utilise un minimum de place et de casseroles : c'est la recette idéale à préparer dans une « cuisine » de bateau, de pêcheurs de Belle-Île ! Aujourd'hui, elle peut aussi dépanner plus d'un étudiant qui manque d'inspiration dans sa cuisinette.
+
+**Nevez :** Remplacer le beurre par de l'huile d'olive, mais on quitte alors les côtes de l'Atlantique pour celles de la Méditerranée !
+
+**Yec'hed mat :** Avec la simplicité et la finesse de ce plat, il faut un vin blanc fruité tout en fraîcheur. Des vins « océaniques » tels les Muscadets ou les Fiefs Vendéens de Brem-sur-Mer seraient parfaits, mais on peut préférer le cépage Sauvignon d'un Quincy ou d'un Entre-deux-Mers avec un peu de Sémillon et de Muscadelle.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 600 g de filet de lieu jaune
+- 800 g de pommes de terre
+- 80 g de beurre demi-sel
+- ½ botte de persil
+- ½ botte de ciboulette
+- 1 branche d'estragon
+- 1 citron
+- Sel et poivre
+
+## Déroulé de la recette
+
+1. **Préparation des pommes de terre et des herbes :** Éplucher les pommes de terre, les laver et les verser dans une casserole d'eau froide légèrement salée. Ciseler les herbes avec un couteau bien aiguisé ou une paire de ciseaux. Les mélanger dans un bol.
+
+2. **Préparation du poisson :** Partager les filets de poisson en 4 portions. Les disposer dans une grande assiette creuse ou un plat creux assez grand pour servir de couvercle à la casserole des pommes de terre. Assaisonner le poisson, le parsemer avec les herbes ciselées et le beurre coupé en petits morceaux. Recouvrir le plat de poisson avec le couvercle de la casserole et mettre le tout en cuisson sur feu vif jusqu'à ce que l'eau arrive à ébullition. Maintenir la cuisson à feu moyen pendant 30 min.
+
+3. **Dégustation :** Retirer délicatement l'assiette de poisson de la casserole en laissant le couvercle sur l'assiette (le poisson reste ainsi chaud). Égoutter les pommes de terre et les présenter au centre de la table ainsi que l'assiette couverte avec le poisson. Au moment du service, découvrir l'assiette de poisson et chacun se sert en pommes de terre et en poisson, le tout accompagné d'un quartier de citron.
+
+## Noms ingrédients
+
+lieu jaune. pommes de terre. beurre. persil. ciboulette. estragon. citron
+
+
+---
+
+# Filets de maquereaux braisés à la moutarde et à la tomate
+
+## Catégorie
+
+Breton. Non testé. Poisson
+
+## Commentaire
+
+La pêche au maquereau en Bretagne connut un grand essor à partir du XVIIe siècle. Les meilleurs maquereaux sont sans nul doute les maquereaux de ligne pêchés à la fin du printemps et au début de l'été.
+
+**Nevez :** On peut rajouter des poivrons rouges ou verts en plus des oignons et des tomates. De cette façon, ils prennent un petit air « basque » !
+
+**Yec'hed mat :** La préparation est assez douce malgré la moutarde. Un vin blanc floral assez léger avec le cépage Chardonnay, ou un Anjou ou un Saumur sec avec le cépage Chenin. À moins qu'un vin rosé fruité délicat ne tente si le beau temps est au rendez-vous.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 6 maquereaux de 300 g
+- 1 kg de tomates
+- 200 g d'oignons
+- 10 cl d'huile d'olive
+- 15 cl de crème fraîche
+- 1 cuillerée à soupe de moutarde forte
+- Quelques brins de thym
+- Sel, poivre
+
+## Déroulé de la recette
+
+1. **Préparation du poisson :** Lever les maquereaux en filets et désarêter chaque filet. Étaler de la moutarde en fine couche sur les filets, côté chair, les saler et les superposer deux par deux (côté chair vers l'intérieur) de façon à reformer le maquereau. Réserver au frais.
+
+2. **Préparation de la garniture :** Préchauffer le four à 220 °C (th. 7). Éplucher, laver et émincer finement les oignons. Laver et retirer les pédoncules des tomates, les émincer en fines tranches. Dans un plat à gratin, verser un filet d'huile d'olive, parsemer le fond avec les oignons et étaler les tranches de tomates légèrement superposées par-dessus. Assaisonner, napper avec un peu d'huile d'olive et parsemer de brins de thym. Glisser le plat dans le four à 220 °C et cuire la garniture 15 min.
+
+3. **Mise en cuisson :** Après 15 min, sortir le plat du four, disposer le poisson et napper le tout de crème. Poursuivre la cuisson dans le four à 220 °C pendant 15 min.
+
+4. **Dégustation :** Déguster les maquereaux accompagnés de pommes de terre cuites à la vapeur, d'une céréale ou de haricots verts par exemple.
+
+## Noms ingrédients
+
+maquereaux. tomates. oignons. huile d'olive. crème fraîche. moutarde. thym
+
+---
+
+# Filets de maquereaux braisés au cidre fermier
+
+## Catégorie
+
+Breton. Non testé. Poisson
+
+## Commentaire
+
+Au IXe siècle, la mention de jus de pomme fermenté apparaît dans un écrit, mais c'est seulement à la fin du Moyen Âge que commence en Bretagne la culture du pommier et la fabrication du cidre. Le cidre connaît son apogée pendant la première moitié du XXe siècle — la boisson de table la plus courante. Depuis une trentaine d'années, grâce au travail qualitatif des cidriers et des crêpiers, le cidre est en vogue et de plus en plus présent dans les recettes de cuisine.
+
+**Nevez :** Cette recette peut se faire avec un filet mignon de porc à la place des maquereaux — le faire rissoler sur tous les côtés dans une poêle avec un peu d'huile et finir la cuisson au four comme les filets de maquereaux.
+
+**Yec'hed mat :** Le cidre fermier de la recette, bien sûr ! En vin blanc, opter pour un vin blanc assez rond et plutôt floral : côte Chalonnaise (Montagny, Givry, Rully) avec un cépage Chardonnay, un cépage Chenin (Pineau de la Loire) en Vouvray, ou pourquoi pas oser un cépage Pinot Gris en Alsace pour ses notes très parfumées.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 6 maquereaux de 300 g la pièce (filets levés par le poissonnier)
+- 30 cl de cidre fermier
+- 6 échalotes
+- 300 g de crème fraîche
+- Sel et poivre
+
+## Déroulé de la recette
+
+1. **Préparation et cuisson du poisson :** Préchauffer le four à 250 °C (th. 8). Retirer avec un petit couteau les arêtes restant au centre des filets. Éplucher, laver et ciseler les échalotes. Disposer les filets de maquereaux dans un grand plat à gratin. Parsemer d'échalotes ciselées, saler, poivrer généreusement. Mouiller avec 25 cl de cidre puis la crème fraîche. Glisser le plat dans le four très chaud (250 °C, th. 8) pendant 15 min.
+
+2. **Finition de la sauce au cidre :** Sortir le plat du four. Verser le jus de cuisson dans une casserole et réserver le poisson au chaud. Laisser réduire le jus de cuisson sur feu plutôt vif si la sauce est trop liquide. Quand la sauce devient onctueuse, y rajouter 5 cl de cidre pour renforcer le goût en cidre et rectifier l'assaisonnement.
+
+3. **Dressage :** Dresser les filets de maquereaux dans l'assiette et les napper de sauce au cidre. Servir du riz cuit à la créole ou des pommes de terre cuites à l'anglaise à côté.
+
+## Noms ingrédients
+
+maquereaux. cidre. échalotes. crème fraîche
+
+---
+
+# Fricassée de morue aux pommes de terre
+
+## Catégorie
+
+Breton. Non testé. Poisson
+
+## Commentaire
+
+La morue désigne le cabillaud, poisson de mer frais, mis au sel et très souvent séché. La morue est connue en Bretagne depuis le XVe siècle. Au milieu du XIXe siècle, c'est la grande pêche, le grand départ vers Terre-Neuve et l'Islande, dans des conditions très éprouvantes. Aujourd'hui, la morue est plutôt un poisson cher et il existe une multitude de recettes pour la cuisiner. À préparer la veille pour le dessalage.
+
+**Nevez :** Cette recette est-elle vraiment bretonne ? Sûrement ! Car en Bretagne, la morue est la plupart du temps accompagnée de pommes de terre. Et vu la quantité de beurre utilisé, on n'imagine pas une autre région !
+
+**Yec'hed mat :** Avec ce plat en relief, il faut un vin blanc sec, aromatique et un peu capiteux qui se tienne — un vin ensoleillé dans la vallée du Rhône ou le Languedoc par exemple.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 1 kg de morue salée avec la peau
+- 1,5 kg de pommes de terre (type Charlotte)
+- 500 g d'oignons
+- 150 g de beurre
+- 3 gousses d'ail
+- 1 botte de persil plat
+- Gros sel, sel et poivre
+
+## Déroulé de la recette
+
+1. **Préparation de la morue (la veille) :** Faire dessaler la morue 24 heures avant dans une bassine d'eau froide. Renouveler l'eau de trempage 2 ou 3 fois.
+
+2. **Préparation des pommes de terre et des oignons :** Éplucher les pommes de terre, les laver et les cuire dans une casserole d'eau froide légèrement salée 30 à 40 min. Les égoutter et les laisser légèrement refroidir. Éplucher les oignons, les laver et les émincer finement. Verser dans une casserole 30 g de beurre avec les oignons. Les laisser étuver à feu doux à couvert 20 min jusqu'à ce qu'ils soient fondants. Si besoin, poursuivre la cuisson à découvert jusqu'à légère coloration. Réserver.
+
+3. **Cuisson de la morue :** Couper la morue en 4 ou 6 morceaux et la mettre dans une casserole en la recouvrant complètement d'eau froide. Mettre sur feu doux et dès que l'eau commence à frissonner, retirer la casserole du feu et laisser pocher 5 à 6 min. L'égoutter, lui retirer la peau et les arêtes et effeuiller rapidement la chair avec les mains.
+
+4. **Cuisson de la fricassée :** Dans une grande poêle, verser un bon morceau de beurre et faire rissoler les pommes de terre coupées en rondelles jusqu'à ce qu'elles soient dorées et croustillantes. Rajouter du beurre en cours de cuisson si elles semblent trop sèches. Ajouter les oignons et la morue effeuillée tout en continuant la cuisson à feu vif en mélangeant bien le tout. Retirer du feu puis parsemer le tout d'ail et de persil. Bien mélanger et couvrir 2 à 3 min pour que les différents ingrédients s'imprègnent.
+
+5. **Dégustation :** Servir dans des assiettes chaudes avec un quartier de citron.
+
+## Noms ingrédients
+
+morue. pommes de terre. oignons. beurre. ail. persil
+
+---
+
+# Sardines rôties, au gros sel et au vinaigre de cidre
+
+## Catégorie
+
+Breton. Non testé. Poisson
+
+## Commentaire
+
+La sardine est une grande voyageuse ! Née dans le Golfe de Gascogne, elle remonte vers la Manche et inversement. Elle tirerait son nom de la Sardaigne où les Grecs la pêchaient en abondance. En Bretagne, dès le XVIe siècle, elle est très consommée et au siècle suivant donne naissance à une véritable industrie de salaison. La sardine reste en Bretagne la vedette des barbecues en été. Trois préparations sont proposées ici.
+
+**Nevez :** Une fois cuite et levée en filets, la sardine peut être cuisinée en tarte ou en rillettes. La sardine marinée au gros sel ou au vinaigre de cidre peut être servie avec une salade verte, nappée d'un trait d'huile d'olive et relevée avec un peu de poivre, de piment d'Espelette ou de baies roses.
+
+**Yec'hed mat :** La sardine est un poisson qui a du goût. Un vin blanc floral avec le cépage Chardonnay et le cépage Chenin comme en Vallée de la Loire pourrait être bien placé, à moins qu'un vin rosé fruité un peu vif ne déplaise pas pour les beaux jours !
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 18 sardines
+- Huile d'olive
+- Vinaigre de cidre
+- Gros sel, sel, poivre
+
+## Déroulé de la recette
+
+**Sardines rôties (à défaut de barbecue) :** Préchauffer le four à 220 °C (th. 7). Écailler les sardines sous un filet d'eau bien froide, les étêter et les vider avec un petit couteau. Disposer les sardines sur la plaque du four légèrement huilée, les assaisonner et les glisser dans le four chaud. Les cuire 10 à 15 min selon leur grosseur. Elles doivent être légèrement colorées. Déguster avec des pommes de terre cuites en robe des champs.
+
+**Sardines marinées au gros sel :** Bien écailler les sardines sous l'eau. Retirer délicatement avec les doigts les arêtes, les entrailles et la tête en partant de la tête vers la queue (les sardines doivent être plutôt petites, sinon les arêtes restent collées à la chair). Reformer les corps des sardines, les saler légèrement de gros sel et les laisser mariner au frais au moins 1 heure. Rincer sous l'eau froide pour retirer le sel, sécher et déguster avec du pain et du beurre.
+
+**Sardines marinées au vinaigre :** Procéder comme pour les sardines marinées au gros sel mais remplacer le sel par du vinaigre. Déguster au bout d'une demi-heure sans les rincer. Accompagner de pain grillé et de beurre.
+
+## Noms ingrédients
+
+sardines. huile d'olive. vinaigre de cidre. beurre
+
+---
+
+# Sole meunière
+
+## Catégorie
+
+Breton. Non testé. Poisson
+
+## Commentaire
+
+Un superbe poisson pêché sur les côtes bretonnes cuisiné au beurre : cette recette est très logiquement une des recettes préférées des Bretons de tous âges. Malheureusement pour les gourmands, la sole reste chère. Mais si vous voulez la savourer à moindre coût, profitez-en de janvier à mars.
+
+**Nevez :** Traditionnellement, la sole meunière est servie avec des pommes de terre. On peut aussi l'accompagner de pâtes fraîches cuisinées dans un peu de crème et parfumées avec quelques dés de saumon fumé. Quand à la sole, ajouter une belle pincée de curry de chaque côté pendant sa cuisson.
+
+**Yec'hed mat :** Rien de tel qu'un vin blanc sec, floral avec une belle acidité pour se marier avec ce bon goût de beurre noisette ! Un vin blanc de l'Auxerrois : Côte d'Auxerre, Bourgogne Coulanges-la-Vineuse, Chablis ou Petit Chablis. Mais on peut aussi découvrir la particularité du village de Saint-Bris avec ses cuvées issues du cépage Sauvignon blanc, voire le Sauvignon rose que l'on retrouve aussi dans la Vallée de la Loire.
+
+## Ingrédients
+
+*Pour 1 personne*
+
+- 1 sole de 300 g
+- 1 cuillerée à soupe de farine
+- 1 beau quartier de citron
+- 1 cuillerée à soupe d'huile (de pépins de raisin ou d'olive)
+- 50 g de beurre
+- Sel, poivre
+
+## Déroulé de la recette
+
+1. **Préparation de la sole :** Ébarber la sole (découper avec des ciseaux les arêtes sur les côtés), la vider, retirer la peau noire en l'arrachant avec les doigts de la queue vers la tête et écailler la peau blanche en la grattant avec la lame d'un couteau. Rincer sous l'eau froide et sécher avec du papier absorbant. Verser la farine dans un plat et fariner la sole des deux côtés. La secouer légèrement pour faire tomber l'excédent de farine. La saler des deux côtés.
+
+2. **Cuisson de la sole :** Dans une poêle de la taille de la sole, verser une cuillerée à soupe d'huile, la chauffer et saisir la sole côté peau sur feu vif pendant 2 min, puis prolonger la cuisson à feu moyen pendant 3 min. Ajouter 20 g de beurre et retourner délicatement la sole. Procéder de la même façon de l'autre côté.
+
+3. **Finition :** Débarrasser la sole sur une jolie assiette. Jeter le jus de cuisson de la poêle et le remplacer par une belle noisette de beurre. Le cuire sur feu vif jusqu'à ce qu'il commence à colorer très légèrement. Ajouter le jus du quartier de citron, mélanger et verser le beurre mousseux sur la sole. Servir aussitôt.
+
+## Noms ingrédients
+
+sole. farine. citron. huile d'olive. beurre
+
+---
+
+# Darne de thon germon aux petits pois et au basilic
+
+## Catégorie
+
+Breton. Non testé. Poisson
+
+## Commentaire
+
+Pendant des siècles, la pêche et la préparation du thon furent considérées comme des spécialités méditerranéennes. C'est au XIXe siècle que la pêche au thon germon se développe sur les côtes morbihannaises. Le clocher de l'île de Groix n'est pas surmonté d'un coq mais d'un superbe thon ! Aujourd'hui, les principaux ports de pêche au thon restent Étel et Saint-Guénolé, la saison s'étalant de juin à septembre.
+
+**Nevez :** Remplacer les petits pois par des poivrons et pourquoi pas des courgettes et des aubergines. Le thon prendra un parfum de ratatouille !
+
+**Yec'hed mat :** Avec la douceur des petits pois dans la préparation de ce poisson, un vin blanc, rosé ou rouge léger et fruité avec de la fraîcheur sera parfait. Plusieurs régions : un vin blanc des Côtes de Provence, un rosé de Marsannay, un Pinot Blanc ou un Pinot Noir d'Alsace…
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 1 kg de thon germon coupé en deux ou trois belles darnes
+- 1,2 kg de petits pois
+- 300 g d'oignons
+- 1,2 kg de tomates mûres
+- 3 gousses d'ail
+- 5 cl d'huile d'olive
+- 50 g de beurre
+- 1 bouquet garni (thym, céleri, laurier, queues de persil)
+- 1 botte de basilic
+- Gros sel, sel, poivre
+
+## Déroulé de la recette
+
+1. **Préparation de la sauce tomate :** Éplucher, laver et émincer finement les oignons. Retirer le pédoncule des tomates. Faire bouillir une grande casserole d'eau. Passer les tomates 20 secondes dans l'eau bouillante, les égoutter, les monder, les couper en deux, les épépiner en les pressant entre les mains et les hacher grossièrement au couteau. Faire suer les oignons dans l'huile d'olive 5 min, ajouter les tomates avec le bouquet garni, l'assaisonnement et laisser cuire doucement à découvert 30 min.
+
+2. **Préparation des petits pois :** Verser les petits pois écossés dans la sauce tomate avec les gousses d'ail épluchées et hachées. Mouiller le tout avec 30 cl d'eau, assaisonner et monter à ébullition. Prolonger la cuisson à couvert à feu doux 30 min. Quand les petits pois commencent à être fondants, déposer dessus les darnes de thon assaisonnées et poursuivre la cuisson 10 à 15 min à feu doux à couvert.
+
+3. **Finition :** Débarrasser les darnes sur un plat et retirer la peau noire et les arêtes. Réserver au chaud. Verser dans la cocotte de petits pois le basilic ciselé et le beurre coupé en morceaux. Bien mélanger et verser dans un joli plat creux. Disposer dessus les morceaux de thon et servir aussitôt.
+
+## Noms ingrédients
+
+thon. petits pois. oignons. tomates. ail. huile d'olive. beurre. bouquet garni. basilic
+
+---
+
+# Bar en croûte de sel
+
+## Catégorie
+
+Breton. Non testé. Poisson
+
+## Commentaire
+
+Cette cuisson est réservée aux poissons à grosses écailles comme la dorade ou le mulet. Le poisson est protégé par ses écailles et ne reste pas spécialement salé en fin de cuisson. Il cuit dans son propre jus et sa chair conserve toute sa saveur. Le gros sel de Guérande est bien sûr le sel qui convient le mieux à cette recette ancestrale.
+
+**Nevez :** À la place du fenouil, on peut rajouter un peu d'algues dans le ventre — le poisson en sera encore plus iodé. La sauce peut être remplacée par une vinaigrette à base d'huile d'olive et de citron (1 dose de citron pour 3 doses d'huile d'olive). Des courgettes, des aubergines ou des tomates grillées au four se marieront très bien avec le poisson comme avec la sauce.
+
+**Yec'hed mat :** Avec la finesse de ce poisson, il faut un vin blanc fruité avec de la fraîcheur. Muscadet ou un cépage Sauvignon : Cheverny, Quincy, Reuilly, Ménetou-Salon, Sancerre, Pouilly-Fumé. On peut aussi descendre dans le Bordelais (Graves, Entre-deux-Mers, Côtes de Blaye).
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 1 bar de 1 kg
+- 2 kg de gros sel gris de Guérande
+- 1 cuillerée à café de graines de fenouil
+- 10 cl de crème fraîche
+- 100 g de beurre
+- 1 citron
+- Sel, poivre
+
+## Déroulé de la recette
+
+1. **Préparation et cuisson du bar :** Préchauffer le four à 200 °C (th. 7). Vider le bar en ouvrant son ventre, retirer les branchies avec une paire de ciseaux et surtout ne pas l'écailler, mais le rincer sous l'eau froide. Dans la plaque du four ou un plat à gratin, disposer une couche de gros sel sur une surface légèrement plus grande que celle du bar, y poser le poisson, lui incorporer les graines de fenouil dans le ventre, le recouvrir totalement avec le reste du gros sel. Glisser au four et cuire à 200 °C pendant 30 min (prévoir 30 min de cuisson par kilo de poisson, toujours à 200 °C).
+
+2. **Préparation du beurre citronné :** Dans une casserole, verser 1 cuillerée à soupe d'eau et la crème fraîche. Faire bouillir. Y ajouter ensuite le beurre mou en petits morceaux à feu moyen tout en fouettant la crème. Presser le citron et verser son jus dans le beurre monté. Rectifier l'assaisonnement si nécessaire. Réserver au chaud.
+
+3. **Dressage :** Sortir le plat du four et laisser reposer le bar 5 min dans sa croûte de sel. Casser cette croûte au couteau et disposer à l'aide de spatules le poisson sur le plat de service. Le présenter entier aux convives. La peau se retire sans problème à l'aide d'un couteau et d'une fourchette. Partager les filets entre chaque convive et servir le poisson avec le beurre citronné.
+
+## Noms ingrédients
+
+bar. gros sel. fenouil. crème fraîche. beurre. citron
+
+---
+
+# Lotte à l'armoricaine
+
+## Catégorie
+
+Breton. Non testé. Poisson
+
+## Commentaire
+
+Lotte à l'armoricaine ou à l'américaine ? Un combat de chefs qui perdure ! En tant que cuisinière, l'auteure tient à dire que cette préparation convient tout à fait à la lotte bretonne — ce poisson est le seul qu'elle connaisse à prendre autant le goût et le parfum des sauces pendant sa cuisson. Le homard peut être aussi cuisiné à l'armoricaine.
+
+**Nevez :** Remplacer la moitié de l'eau, du vin blanc et du cognac par 25 cl de lait de coco. Utiliser un curry indien à la place du kari Gosse et parsemer de la coriandre ciselée à la place du persil. Notre lotte voyage vers des contrées exotiques !
+
+**Yec'hed mat :** On peut retrouver les suggestions de vins identiques à celles de la recette du homard au kari Gosse, compte tenu des similitudes retrouvées dans cette recette.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 1,5 kg de queue de lotte
+- 250 g d'oignons
+- 3 gousses d'ail
+- 100 g de carottes
+- 400 g de tomates
+- 1 c. à soupe de concentré de tomate
+- 5 cl d'huile d'olive
+- 4 cl de cognac
+- 16 cl de vin blanc (type Muscadet)
+- 1 c. à café de kari Gosse (ou curry)
+- 50 cl d'eau
+- 1 bouquet garni
+- 1 botte de persil plat
+- 10 cl de crème fraîche
+- Gros sel, sel, poivre
+
+## Déroulé de la recette
+
+1. **Préparation de la lotte :** Retirer les peaux autour de la queue de lotte et séparer la queue en deux morceaux en passant un coup de couteau de chaque côté de l'arête. Tailler chaque morceau en tranches d'environ 1 cm d'épaisseur. Réserver.
+
+2. **Préparation des légumes :** Éplucher les oignons, l'ail et la carotte. Les laver et les tailler en petits dés (3 à 5 mm). Monder les tomates, les épépiner et les tailler en petits dés.
+
+3. **Mise en cuisson de la lotte :** Dans une cocotte, saisir juste d'un côté les morceaux de lotte dans un filet d'huile d'olive à feu vif jusqu'à ce qu'ils commencent à colorer. Les débarrasser de la cocotte et verser à la place les dés d'oignons, d'ail et de carottes. Les mélanger dans les sucs de cuisson et les faire étuver 5 min à feu doux. Ajouter les tomates, le concentré de tomate, déglacer avec le cognac et le vin blanc et laisser réduire à feu moyen à découvert 10 min. Verser les morceaux de lotte, le bouquet garni, le kari Gosse, saler et mouiller avec l'eau. Porter à ébullition et prolonger la cuisson à feu doux à couvert 20 min. Retirer les morceaux de lotte et les réserver au chaud. Faire réduire la sauce si elle est trop liquide. Rectifier l'assaisonnement et ajouter la crème en finition avec le persil ciselé.
+
+4. **Dégustation :** Servir la lotte dans la sauce à l'armoricaine et l'accompagner de riz ou de pommes de terre.
+
+## Noms ingrédients
+
+lotte. oignons. ail. carottes. tomates. concentré de tomate. huile d'olive. cognac. vin blanc. kari Gosse. bouquet garni. persil. crème fraîche
+
+---
+
+# Filet de merlan en papillote de sarrasin, sa sauce à la bretonne
+
+## Catégorie
+
+Breton. Non testé. Poisson
+
+## Commentaire
+
+La recette de la papillote de poisson ne fait pas partie des grands classiques de la cuisine bretonne, mais elle en est issue — née au restaurant Gourmand à Lorient. La sauce bretonne, elle, fait partie du répertoire des recettes de la cuisine bourgeoise bretonne de la fin du XIXe siècle ou du début du XXe siècle. Et ça marche toujours !
+
+**Nevez :** Pour un repas du soir, ne crémer que très légèrement la fondue de légumes de la sauce et la laisser légèrement réduire à feu doux. Étaler cette préparation sur une belle tartine de pain de campagne grillée, parsemer de copeaux de parmesan et déguster aussitôt, accompagnée d'une salade verte.
+
+**Yec'hed mat :** Plutôt sur un vin blanc sec, floral, avec de la fraîcheur. Les cuvées à base du cépage Chenin en Anjou, Saumur et en Touraine apportent une palette aromatique intéressante suivant les différents sols, mais aussi de très beaux vieillissements.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+**La sauce**
+- 1 poireau
+- 1 branche de céleri
+- 200 g d'oignons
+- 250 g de champignons
+- 30 g de beurre
+- 20 cl de Muscadet
+- 30 cl de crème fraîche
+- Sel, poivre
+
+**Le poisson**
+- 600 g de filets de merlan (ou merlu, lieu jaune, cabillaud)
+- 6 crêpes de sarrasin
+- 70 g de beurre
+- Sel, poivre
+
+## Déroulé de la recette
+
+1. **Préparation de la sauce :** Laver le poireau, les champignons, la branche de céleri. Éplucher les oignons. Émincer le plus finement possible tous les légumes. Dans une casserole, faire fondre le beurre et ajouter les légumes. Laisser suer à feu moyen 15 min. Ajouter le Muscadet et laisser réduire à feu moyen 5 min. Ajouter la crème et l'assaisonnement. Porter à ébullition et réserver au chaud.
+
+2. **Préparation des papillotes :** Préchauffer le four à 250 °C. Beurrer les crêpes sur toute la surface avec du beurre mou. Disposer au centre des crêpes les morceaux de merlan (100 g de poisson d'une épaisseur identique sur toute la surface). Assaisonner avec le sel, le poivre et replier les crêpes de façon à former un rectangle. Faire cuire les crêpes à four très chaud (250 °C) pendant 8 min.
+
+3. **Dressage :** Napper le fond de chaque assiette avec la sauce à la bretonne. Disposer la crêpe au centre de l'assiette, décorer avec des feuilles de persil et servir sans attendre. Proposer une belle salade verte ou une fondue d'épinards.
+
+## Noms ingrédients
+
+merlan. poireaux. céleri. oignons. champignons. beurre. vin blanc. crème fraîche
+
+
+---
+
+# Rôti de lotte au pâté Hénaff
+
+## Catégorie
+
+Breton. Non testé. Poisson
+
+## Commentaire
+
+Au XVIIIe siècle, la lotte avait mauvaise réputation. Il faudra attendre le XXe siècle pour que ce poisson, nommé aussi « baudroie », rivalise sur l'étal avec la barbue, le bar et même le turbot. Cette recette appartient au répertoire de cuisine des marins pêcheurs. Traditionnellement, un marin ne quitte pas le port sans sa boîte de pâté Hénaff. Une fois la lotte pêchée et étêtée, elle est suspendue au vent au moins 24 heures afin de la sécher, puis transformée en superbe rôti farci au pâté Hénaff.
+
+**Nevez :** Si vous n'êtes pas trop « pâté Hénaff », remplacez-le par des pruneaux. Ne mettez pas de moutarde sur le poisson et enveloppez le rôti de lotte de fines tranches de lard fumé. Ficelez et procédez ensuite de la même façon.
+
+**Yec'hed mat :** Le mariage de la lotte avec le pâté et la moutarde amènerait volontiers vers un vin blanc plutôt racé en descendant vers le sud de la France : Cassis et Bandol (cépages Clairette et Ugni blanc), ou les vins blancs de Bellet (côté de Nice) composés de Chardonnay, Roussanne et en particulier le cépage Rolle appelé aussi Vermentino ou Malvoisie en Corse.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 1,6 kg de lotte
+- 2 boîtes de 78 g de pâté Hénaff
+- 1,2 kg de tomates
+- 100 g de beurre
+- 2 cuillerées à soupe de moutarde forte
+- 1 gousse d'ail
+- 1 belle pincée de thym ou origan séché
+- Sel, poivre
+
+## Déroulé de la recette
+
+1. **Préparation de la lotte :** Retirer la peau et l'arête centrale des lottes. Assaisonner chaque filet. Couper le pâté en tranches et les disposer à la place de l'arête centrale. Refermer la lotte et la ficeler afin qu'elle ne se défasse pas à la cuisson. Réserver au frais.
+
+2. **Préparation des tomates :** Préchauffer le four à 220 °C (th. 7). Frotter un plat à gratin avec une gousse d'ail épluchée, étaler les tranches de tomates dans le fond, les assaisonner et les parsemer de thym. Étaler la moutarde sur toute la surface du rôti de lotte et le poser sur les tomates. Le recouvrir de noisettes de beurre. Glisser le plat dans le four. Laisser cuire 15 min d'un côté et 15 min de l'autre (selon la grosseur du rôti).
+
+3. **Dressage :** Débarrasser le rôti sur une planche, retirer les ficelles et le couper en tranches. Verser dans chaque assiette un peu de tomates, disposer dessus une tranche de lotte et napper le tout avec le jus de cuisson. Servir en accompagnement des pommes de terre cuites en robe des champs ou des frites.
+
+## Noms ingrédients
+
+lotte. pâté. tomates. beurre. moutarde. ail. thym
+
+---
+
+# La cotriade
+
+## Catégorie
+
+Breton. Non testé. Poisson
+
+## Commentaire
+
+À l'origine, la cotriade est la soupe de poissons que se préparaient les pêcheurs à bord des bateaux. Les recettes varient en fonction des lieux de pêche, des saisons et du cuisinier. Ce plat doit son nom au chaudron ou « kaoter » dans lequel la « kaoteriad » était préparée. Dans cette recette, on cuisine un fumet de poisson pour mouiller les pommes de terre et les poissons — mais à bord, la soupe était mouillée à l'eau de mer ! Pour ne pas se compliquer la vie, on peut cuisiner la cotriade avec un seul poisson — le maquereau ou la dorade grise sont conseillés.
+
+**Yec'hed mat :** Bien que le fumet rappelle quelque peu une soupe, on associerait bien un vin blanc sec plutôt floral avec une belle acidité avec ces poissons, les pommes de terre et la vinaigrette.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+**Au moins 3 variétés de poisson :**
+- 400 g de filets de maquereaux
+- 600 g de lotte
+- 400 g de filet de lieu jaune
+- 750 g de langoustines
+
+- 150 g de graisse salée (ou beurre demi-sel)
+- 2 kg de pommes de terre (type Charlotte)
+- 1 kg d'oignons
+- 8 gousses d'ail
+- 1 bouquet garni
+- 1 c. à café de kari Gosse (ou 1 pointe de piment)
+- ½ botte de persil
+- Sel, poivre
+- 1 tasse de vinaigrette classique (facultatif)
+
+**Le fumet de poisson :**
+- 1 kg d'arêtes de poisson (sole, bar, rouget)
+- 100 g d'oignons
+- 1 bouquet garni
+- 10 cl de vin blanc
+- 2 cl d'huile d'olive
+- Sel, poivre
+
+## Déroulé de la recette
+
+1. **Préparation du fumet de poisson :** Étêter les langoustines. Réserver les corps au frais. Bien rincer les arêtes dans l'eau froide et les égoutter. Éplucher, laver et émincer les oignons. Les faire revenir dans l'huile d'olive 5 min. Ajouter les arêtes et les têtes de langoustines. Bien mélanger. Déglacer au vin blanc, laisser frémir 5 min et mouiller à hauteur des arêtes avec de l'eau. Ajouter le bouquet garni, sel et poivre. Porter à ébullition et laisser frémir doucement à mi-couvert 30 min. Passer le fumet et réserver.
+
+2. **Préparation des poissons :** Partager le filet de lieu en 6 portions. Retirer la peau de la lotte et tailler dans le sens de la largeur six tronçons. Réserver au frais.
+
+3. **Préparation des légumes :** Éplucher, nettoyer et tailler en 2 ou 3 morceaux les pommes de terre. Éplucher et nettoyer les gousses d'ail. Éplucher, nettoyer et émincer finement les oignons. Faire fondre la graisse salée dans une grande cocotte. Ajouter les oignons et les faire revenir assez vivement 15 min jusqu'à légère caramélisation. Ajouter les pommes de terre et les gousses d'ail. Bien mélanger, mouiller à hauteur avec le fumet de poisson. Ajouter le bouquet garni, poivrer et parfumer avec le kari Gosse. Laisser cuire à couvert doucement 40 min (les pommes de terre doivent être fondantes).
+
+4. **Finition de la cotriade :** Saisir juste d'un côté dans une poêle anti-adhésive les filets de maquereaux avec un filet d'huile d'olive. Réserver. Ajouter les morceaux de lotte dans la cotriade. Au bout de 5 min de cuisson à feu doux à couvert, ajouter les corps des langoustines. Prolonger la cuisson 5 min. Disposer ensuite à la surface les morceaux de lieu jaune et cuire à nouveau 5 min toujours à couvert et à feu doux. Finir en rajoutant les filets de maquereaux juste pour les réchauffer.
+
+5. **Dressage :** Sur un joli plat chaud, dresser les différents morceaux de poissons et les corps des langoustines. Verser les pommes de terre légèrement égouttées dans un plat creux et le bouillon dans une soupière. Proposer une vinaigrette pour accompagner le poisson et les pommes de terre. Ou dresser en assiette creuse : pommes de terre, puis poisson et langoustines, napper de bouillon et parsemer de persil ciselé.
+
+## Noms ingrédients
+
+maquereaux. lotte. lieu jaune. langoustines. pommes de terre. oignons. ail. bouquet garni. kari Gosse. persil. beurre. vin blanc. huile d'olive
+
+---
+
+# Homard rôti et sa sauce au kari Gosse
+
+## Catégorie
+
+Breton. Non testé. Poisson
+
+## Commentaire
+
+Depuis des siècles le homard aime le littoral breton. Au XVIIIe siècle, les Bretons le pêchaient à l'aide de crochets à marée basse entre les rochers. L'espèce se raréfie et la pêche est peu abondante. Il se pêche surtout de fin mai à début septembre. La saison du homard est à l'opposé de celle des huîtres : les mois en R sont réservés aux huîtres et ceux sans R aux homards.
+
+**Nevez :** Je vous livre une recette de famille qui me renvoie à de trop bons souvenirs — je me sens incapable de la revisiter. À vous de jouer si vous le souhaitez.
+
+**Yec'hed mat :** Le kari Gosse apporte un beau relief au homard qui nécessite donc un vin blanc plutôt riche, aux notes épicées — comme un Gewurztraminer d'Alsace. Sinon, faites-vous plaisir avec un Savennières Roches-aux-Moines ou un Vouvray demi-sec d'une dizaine d'années. Si vous privilégiez un vin rouge, tentez un Pinot Noir en Bourgogne ou en Alsace avec un beau travail du fût de chêne pour bien retrouver la griotte avec des notes légèrement poivrées.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 6 homards de 700 g la pièce
+- 5 cl d'huile d'olive
+- 60 g de beurre
+- 100 g d'échalotes
+- 100 g de carottes
+- 3 gousses d'ail
+- 1 bouquet garni
+- 300 g de tomates
+- 30 g de farine
+- 1 cuillerée à café de kari Gosse (ou autre curry assez relevé)
+- 10 cl de Muscadet
+- 10 cl de crème fraîche
+- 5 cl de Fine Bretagne (ou Calvados)
+- Gros sel, sel
+
+## Déroulé de la recette
+
+1. **Préparation des homards :** Faire bouillir une grande casserole d'eau bien salée. Plonger les homards chacun leur tour en les y laissant 20 secondes après la reprise d'ébullition. Les égoutter. Détacher les pinces et couper le corps et la tête en deux dans le sens de la longueur. Récupérer le jus qui s'écoule ainsi que les parties crémeuses et le corail qui se trouvent dans la tête. Retirer la poche de sable. Casser légèrement les pinces avec un gros couteau. Extraire les chairs délicatement et placer la chair des pinces dans les têtes à la place des parties crémeuses et du corail. Disposer les homards coupés en deux dans un grand plat à gratin ou une plaque de four. Parsemer le beurre coupé en petits morceaux et verser la Fine Bretagne sur les homards. Réserver au frais.
+
+2. **Confection de la sauce :** Éplucher, laver et émincer très finement les échalotes, la carotte et l'ail. Faire suer cette garniture dans l'huile d'olive. Ajouter les intérieurs des têtes (corail et parties crémeuses) avec le jus récupéré. Bien écraser le tout dans la casserole en mélangeant et ajouter le bouquet garni, les tomates coupées en quatre et la farine. Mélanger et déglacer avec le Muscadet. Laisser réduire à feu doux 5 min. Mouiller à hauteur avec de l'eau. Assaisonner avec le sel et le kari Gosse. Laisser cuire doucement à mi-couvert 1 heure. Passer la sauce une fois cuite en pressant bien. Rectifier l'assaisonnement. Crémer la sauce et laisser réduire à nouveau si elle n'est pas assez onctueuse. Réserver au chaud.
+
+3. **Cuisson des homards :** Préchauffer le four à 210 °C (th. 7). Napper les homards avec une petite louche de sauce et glisser dans un four chaud (210 °C, th. 7) pendant 10 min.
+
+4. **Dressage :** Sortir les demi-homards du four et les dresser par 2 sur chaque assiette. Récupérer le jus de cuisson du plat en le transvasant dans la casserole du jus au kari Gosse. Bien fouetter cette sauce et en napper généreusement les demi-homards. Servir aussitôt avec une saucière de jus au kari Gosse.
+
+## Noms ingrédients
+
+homard. huile d'olive. beurre. échalotes. carottes. ail. bouquet garni. tomates. farine. kari Gosse. vin blanc. crème fraîche. cognac
+
+---
+
+# Gigot d'agneau rôti et ses haricots à la bretonne
+
+## Catégorie
+
+Breton. Non testé. Viande
+
+## Commentaire
+
+La Bretagne est reconnue pour sa viande d'agneau de pré-salé. Ceux de la baie du Mont-Saint-Michel et des îles bretonnes (Belle-Île et Ouessant) sont très recherchés — les animaux passent 5 à 7 mois dans des pâturages côtiers à brouter des herbes salées qui procurent un parfum incomparable à leur chair.
+
+**Nevez :** S'il vous reste du gigot et des haricots, cuisinez la viande coupée en dés en fricassée avec un peu d'échalotes et des épices comme un peu de cumin. Étalez cette fricassée dans le fond d'un plat à gratin, recouvrez avec les haricots à la bretonne et nappez de crème fraîche. Laissez gratiner à four très chaud et dégustez avec une salade verte.
+
+**Yec'hed mat :** Ce n'est pas un agneau de Pauillac, mais on appréciera un bon Bordeaux sur le fruit et plutôt assez souple. On peut aller aussi vers des cuvées de la rive droite : Lalande-de-Pomerol, Montagne-Saint-Émilion, Côtes de Castillon… et même dans le prolongement avec un Bergerac.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 1 gigot d'agneau aux alentours de 1,5 kg
+- 600 g de haricots blancs secs
+- 300 g d'oignons
+- 300 g de tomates
+- 3 gousses d'ail
+- 1 bouquet garni
+- 100 g de beurre
+- Gros sel, sel, poivre
+
+## Déroulé de la recette
+
+1. **Préparation des haricots :** Faire tremper les haricots dans une bassine d'eau froide pendant 24 heures. Éplucher les oignons et l'ail, les laver et ne pas les couper. Retirer les pédoncules des tomates, les plonger 10 sec dans l'eau bouillante, les refroidir et les monder. Ne pas les hacher. Égoutter les haricots et les verser dans une casserole. Les recouvrir d'eau et ajouter les oignons, 2 gousses d'ail, les tomates et le bouquet garni. Porter à ébullition et cuire à feu doux à couvert 40 min à 1 heure (les haricots doivent être fondants mais pas écrasés). Saler en fin de cuisson. Réserver au chaud.
+
+2. **Préparation du gigot :** Préchauffer le four à 220 °C. Mettre le gigot dans un plat à gratin, l'enduire de beurre (50 g) sur le dessus et le saler. Glisser le plat dans le four chaud et laisser cuire le gigot 40 à 50 min (environ 15 min de cuisson par livre de gigot). L'arroser de son jus de temps en temps pendant la cuisson.
+
+3. **Finition :** Prélever dans la casserole des haricots les oignons, les tomates et les gousses d'ail. Hacher au couteau ou au presse-ail la dernière gousse crue. Verser cette garniture dans le fond d'un plat creux et chaud, ajouter le restant de beurre (50 g) et écraser le tout à la fourchette. Ajouter les haricots blancs égouttés et bien mélanger. Réserver au chaud. Débarrasser le gigot sur une planche. Verser un petit verre d'eau dans le plat de cuisson, gratter les sucs de cuisson et verser dans une petite casserole pour réchauffer le jus.
+
+4. **Dressage :** Découper le gigot en tranches et les servir nappées avec un peu de jus de cuisson, accompagnées des haricots à la bretonne.
+
+## Noms ingrédients
+
+agneau. haricots blancs. oignons. tomates. ail. bouquet garni. beurre
+
+---
+
+# Sauté d'épaule d'agneau et sa fricassée de navets
+
+## Catégorie
+
+Breton. Non testé. Viande
+
+## Commentaire
+
+Dès le XVIe siècle, l'agneau breton est élevé à la fois pour sa laine et pour sa viande. Le gigot d'agneau rôti aux haricots à la bretonne reste un grand classique préparé à l'occasion d'un repas de fête, mais il existe beaucoup d'autres recettes bretonnes où l'agneau et le mouton sont cuisinés en ragoût.
+
+**Nevez :** L'asperge blanche n'est pas spécialement un légume cultivé en Bretagne mais elle peut avantageusement remplacer le navet dans cette recette. Après avoir épluché les asperges, les cuire à l'eau salée, les égoutter et couper les « pieds » en dés puis laisser les têtes entières. Sauter le tout dans un peu de beurre et dresser avec le sauté d'agneau comme les navets.
+
+**Yec'hed mat :** On pourrait profiter d'un bon cidre brut ou d'une bière blonde voire ambrée de chez nous ! En vin : souple, fruité avec une certaine fraîcheur. Les Fiefs Vendéens et certaines cuvées du Haut-Poitou avec le mariage des cépages Pinot Noir, Gamay et Cabernet-Franc seront à découvrir ! Mais bien sûr, on peut aussi descendre un peu plus au sud sur les Bergerac et les Côtes du Fronton.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 1,5 kg d'épaule d'agneau coupée en morceaux de 50 g
+- 200 g d'oignons
+- 5 cl d'huile de pépins de raisin
+- 30 g de farine
+- 1 bouquet garni
+- 1 gousse d'ail
+- 15 cl de vin blanc
+- 15 cl de crème fraîche
+- Sel, poivre
+
+*Les navets :*
+- 1 kg de navets nouveaux
+- 50 g de beurre
+- Sel, poivre
+
+## Déroulé de la recette
+
+1. **Préparation et cuisson de l'épaule d'agneau :** Éplucher, laver et émincer finement les oignons et l'ail. Dans une casserole, faire revenir les cubes de viande avec l'huile jusqu'à une légère coloration. Débarrasser la viande de la casserole, la dégraisser et ajouter la garniture aromatique (ail, oignons et bouquet garni). Couvrir et laisser cuire doucement à couvert 5 min. Rajouter les cubes de viande, saupoudrer de farine et verser le vin blanc. Mélanger le tout et laisser frémir doucement 10 min. Recouvrir ensuite d'eau juste à hauteur de la viande, assaisonner et laisser cuire doucement à couvert 1 heure. Passer le jus de cuisson au chinois. Remettre la viande et le jus de cuisson dans la casserole et ajouter la crème. Réserver au chaud.
+
+2. **Préparation des navets :** Éplucher, laver et cuire les navets dans de l'eau bouillante salée jusqu'à ce qu'ils soient juste fondants (environ 30 min). Les égoutter et les couper en deux ou quatre morceaux s'ils sont un peu gros. Dans une poêle, les faire sauter dans le beurre jusqu'à ce qu'ils commencent à prendre de la couleur. Saler, poivrer et sucrer légèrement s'ils sont un peu amers.
+
+3. **Dressage :** Répartir la viande dans chaque assiette. Napper avec la sauce, disposer les navets autour et sur le dessus de la viande, et parsemer le tout de ciboulette. Servir bien chaud.
+
+## Noms ingrédients
+
+agneau. oignons. farine. bouquet garni. ail. vin blanc. crème fraîche. navets. beurre
+
+---
+
+# Pintade braisée au vinaigre de cidre et au chou
+
+## Catégorie
+
+Breton. Non testé. Viande
+
+## Commentaire
+
+Depuis le XIXe siècle, la basse-cour bretonne est réputée. Elle propose des volailles goûteuses comme le canard de Dol, le poulet de Janzé ou bien le Coucou de Rennes, superbe poulet avec une chair ferme et corsée. La recette de la pintade braisée au chou et au vinaigre de cidre a été confiée par Charlotte Gourong, très bonne cuisinière et femme du fameux et gourmand conteur de Groix.
+
+**Nevez :** Vous pouvez remplacer le chou par de la choucroute crue. La cuisiner de la même façon mais au lieu de mouiller la préparation avec de l'eau, arroser la choucroute avec du cidre et ajouter en même temps que la garniture aromatique quelques lardons de porc fumés.
+
+**Yec'hed mat :** On pourrait profiter d'un bon cidre brut ou d'une bière blonde voire ambrée… mais bretonne, bien sûr ! En vin : blanc, rosé ou rouge, pourvu qu'il soit plutôt léger sans trop d'astringence et sur le fruit, ou floral pour un vin blanc.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 1 pintade d'environ 1,2 kg
+- 1 belle carotte
+- 1 oignon
+- 1 chou de Lorient de 1 à 1,5 kg (ou un chou de Milan)
+- 4 baies de genièvre
+- 1 feuille de laurier
+- 1 cuillerée à soupe de sucre
+- 10 cl de vinaigre de cidre
+- 5 cl d'huile de pépins de raisin
+- ½ botte de persil
+- 30 g de beurre
+- Gros sel, sel, poivre
+
+## Déroulé de la recette
+
+1. **Préparation du chou :** Faire bouillir une grande casserole d'eau salée. Couper le chou en quatre, retirer le trognon et laver les feuilles. Les blanchir dans l'eau bouillante 3 min après la reprise de l'ébullition. Les égoutter et réserver.
+
+2. **Préparation de la pintade :** Séparer les cuisses et les flancs de la carcasse, puis couper en deux chaque morceau.
+
+3. **Mise en cuisson de la pintade :** Éplucher la carotte et l'oignon, les laver et les émincer finement. Dans une cocotte, saisir les morceaux de pintade dans un peu d'huile. Laisser colorer doucement côté peau d'abord, puis côté chair. Débarrasser les morceaux de pintade bien dorés, dégraisser la cocotte et faire étuver à couvert la garniture aromatique (carotte et oignon avec le sucre et le beurre dans les sucs de cuisson). Laisser légèrement caraméliser, puis déglacer avec le vinaigre. Ajouter le chou, les baies de genièvre, la feuille de laurier, sel et poivre et bien mélanger. Disposer les morceaux de pintade sur le dessus, mouiller à mi-hauteur du chou avec de l'eau et laisser cuire doucement à couvert pendant 1 heure (voire plus si la pintade reste ferme).
+
+4. **Dressage :** Dresser un lit de chou dans chaque assiette. Disposer dessus un morceau de cuisse et un morceau de flanc, napper avec le jus de cuisson et parsemer le tout de persil ciselé.
+
+## Noms ingrédients
+
+pintade. carottes. oignons. chou. genièvre. laurier. sucre. vinaigre de cidre. persil. beurre
+
+---
+
+# Cuisses de poulet braisées au cidre et leur fricassée d'artichauts à la sauge
+
+## Catégorie
+
+Breton. Non testé. Viande
+
+## Commentaire
+
+Le secret de fabrication du cidre aurait été découvert par les Espagnols et rapporté en Normandie par un négociant. L'attrait pour ce breuvage gagna rapidement l'ouest de la France et, dès le XIIIe siècle, le cidre continue à couler dans les bolées… et les marmites !
+
+**Nevez :** Vous pouvez cuisiner un lapin de la même façon : c'est délicieux !
+
+**Yec'hed mat :** Le cidre choisi pour la recette serait à privilégier, mais un vin blanc pourrait aussi tout à fait bien s'exprimer avec cette volaille et la sauge. Si vous choisissez un vin rouge d'Anjou, du Saumurois ou de Touraine, il vous apportera une structure souple avec du fruité et une bonne acidité pour s'harmoniser au mieux avec le mariage rustique et délicat du terroir (cidre, artichaut, pomme, sauge).
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 6 cuisses de poulet
+- 1 c. à soupe d'huile de pépins de raisin
+- 200 g d'oignons
+- 200 g de carottes
+- 1 bouquet garni
+- 1 bouteille et demie de cidre
+- 1 c. à soupe de farine
+- Sel, poivre
+
+*Les légumes :*
+- 6 artichauts bretons (les Camus)
+- 3 pommes (par exemple reine des reinettes)
+- 100 g de beurre
+- 10 feuilles de sauge fraîche
+- Gros sel
+
+## Déroulé de la recette
+
+1. **Préparation et cuisson du poulet :** Saisir les cuisses de poulet dans l'huile. Laisser colorer doucement côté peau d'abord, puis côté chair. Pendant ce temps, préparer la garniture aromatique : éplucher les oignons, les carottes, les nettoyer et les émincer grossièrement. Débarrasser les cuisses de poulet bien dorées, dégraisser la casserole de cuisson. Faire étuver à couvert la garniture aromatique dans les sucs de cuisson. Ajouter les cuisses de poulet et le bouquet garni, fariner, bien mélanger, mouiller avec le cidre et assaisonner. Laisser cuire doucement pendant 1 heure. En fin de cuisson, dégraisser le jus de cuisson avec une petite louche. Rectifier l'assaisonnement et réserver.
+
+2. **Préparation et cuisson des artichauts :** Équeuter les artichauts en arrachant les queues (pour retirer les fils dans le cœur), puis les faire tremper 5 min dans l'eau vinaigrée. Cuire les artichauts dans une grande casserole d'eau bouillante salée à couvert 40 min. Les égoutter, les effeuiller et leur retirer le foin. Ne conserver que les cœurs, les tailler en 6 morceaux et les faire rissoler dans une poêle anti-adhésive avec 50 g de beurre. Réserver au chaud.
+
+3. **Préparation et cuisson des pommes :** Éplucher et couper en deux les pommes, les épépiner et tailler chaque moitié en trois. Faire rissoler dans 50 g de beurre dans une poêle anti-adhésive jusqu'à ce qu'elles caramélisent. Réserver au chaud.
+
+4. **Dressage :** Ciseler la sauge très finement. Mélanger les pommes et les artichauts avec la sauge. Dresser dans l'assiette une cuisse de poulet nappée de jus de cuisson passé et disposer la garniture sur le dessus.
+
+## Noms ingrédients
+
+poulet. oignons. carottes. bouquet garni. cidre. farine. artichauts. pommes. beurre. sauge
+
+---
+
+# Saucisses au chou de Lorient
+
+## Catégorie
+
+Breton. Non testé. Viande
+
+## Commentaire
+
+Originaire de Lombardie, le chou de Lorient est une variété de chou de Milan cultivé du côté de Lorient depuis les années 1890. Jusqu'aux années 30, il partait par wagons entiers en Alsace et en Allemagne pour être transformé en choucroute. Grâce à quelques passionnés, le chou de Lorient reprend vie aujourd'hui.
+
+**Nevez :** Remplacez le chou par six belles tomates mondées et hachées, les baies de genièvre par une moitié de piment. Ajoutez un peu d'ail haché aux oignons et ainsi, de notre potée bretonne, nous nous rapprochons du « rougail saucisse » de la Réunion !
+
+**Yec'hed mat :** On pourrait rester régional en sélectionnant un bon cidre brut avec de la matière et une pointe d'astringence comme on en retrouve parfois dans les cidres AOC Cornouailles. En vin : un rouge souple de la Vallée de la Loire (Bourgueil, Saint-Nicolas, Saumur-Champigny), un vin léger du Bordelais ou du Bergerac, ou alors plutôt un Cairanne dans la Vallée du Rhône qui serait un peu plus chaleureux.
+
+## Ingrédients
+
+*Pour 8 personnes*
+
+- 8 grosses saucisses
+- 3 kg de chou de Lorient (ou chou de Milan)
+- 200 g d'oignons
+- 200 g de carottes
+- 8 baies de genièvre (facultatif)
+- 100 g de beurre
+- Gros sel, sel, poivre
+
+## Déroulé de la recette
+
+1. **Préparation des choux :** Faire bouillir une grande casserole d'eau salée. Couper les choux en quatre, retirer les trognons, laver les feuilles. Les blanchir dans l'eau bouillante 3 min après la reprise d'ébullition. Les égoutter et réserver.
+
+2. **Préparation de la potée :** Éplucher les carottes et les oignons, les laver et les émincer finement. Réserver. Piquer les saucisses avec les pointes d'une fourchette. Faire chauffer une cocotte et y disposer les saucisses sans les superposer. Les faire revenir doucement en les retournant de temps en temps. Une fois les saucisses bien dorées, les retirer de la cocotte. Verser alors dans la cocotte les oignons et les carottes. Laisser étuver doucement à couvert 10 min. Ajouter alors les choux, le beurre, les baies de genièvre, le sel et le poivre. Bien mélanger. Disposer alors les saucisses sur le chou et mouiller avec de l'eau à mi-hauteur du chou. Laisser cuire ainsi doucement à couvert pendant 1 heure.
+
+3. **Dressage :** Amener la saucisse au chou dans sa cocotte sur la table et servir dans des assiettes creuses, accompagné d'une moutarde à l'ancienne.
+
+## Noms ingrédients
+
+saucisse. chou. oignons. carottes. genièvre. beurre. moutarde
+
+---
+
+# Marmite de saucisses et petits pois
+
+## Catégorie
+
+Breton. Non testé. Viande
+
+## Commentaire
+
+La culture des légumes en primeur est pratiquée en Bretagne dès le XVIe siècle. Curnonsky, célèbre critique gastronomique du début du XXe siècle, écrivait : « la Bretagne est encore le paradis des végétariens… des amateurs de légumes et de primeurs dont elle alimente la France ». Quelle chance de pouvoir profiter au printemps de ses superbes petits pois, carottes et pommes de terre nouvelles !
+
+**Nevez :** Vous pouvez remplacer les saucisses par un caneton. Le faire dorer comme les saucisses dans un peu de beurre et le laisser cuire en même temps que les petits pois. Découper le caneton une fois cuit.
+
+**Yec'hed mat :** On peut trouver agréable d'associer la saucisse et la douceur « sucrée » des petits pois avec un vin rouge léger et fruité. Un assemblage des cépages Pinot Noir, Gamay, Cabernet-Franc et Côt comme dans certaines cuvées de l'appellation Cheverny sont à redécouvrir !
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 12 chipolatas ou 6 grosses saucisses
+- 1 kg de petits pois (soit 500 g de petits pois écossés)
+- 150 g d'oignons
+- 200 g de carottes nouvelles
+- 500 g de pommes de terre nouvelles
+- 1 gousse d'ail
+- Quelques feuilles de laitue (facultatif)
+- 50 g de beurre
+- Gros sel, sel, poivre
+
+## Déroulé de la recette
+
+1. **Préparation des légumes :** Éplucher les carottes et les oignons, les laver et les émincer. Éplucher l'ail et le hacher. Éplucher les pommes de terre et les couper en gros dés ou les laisser entières si elles sont petites. Laver et essorer les feuilles de laitue. Écosser les petits pois.
+
+2. **Mise en cuisson de la marmite :** Dans une cocotte, verser 15 g de beurre et faire rissoler les saucisses de tous les côtés à feu moyen. Une fois dorées, les débarrasser sur un plat et verser les carottes, les oignons et l'ail dans la cocotte ainsi que le reste du beurre. Faire étuver à feu doux à couvert 5 min. Ajouter les petits pois et les pommes de terre, mouiller avec de l'eau à mi-hauteur des légumes, assaisonner, faire bouillir le tout et prolonger la cuisson à feu doux à couvert 30 à 45 min (les légumes doivent être fondants).
+
+3. **Finition :** 10 min avant la fin de cuisson, ajouter les saucisses et les feuilles de salade dans la cocotte. Servir dans des assiettes creuses bien chaudes.
+
+## Noms ingrédients
+
+saucisse. petits pois. oignons. carottes. pommes de terre. ail. laitue. beurre
+
+
+---
+
+# « Patates » au lard
+
+## Catégorie
+
+Breton. Non testé. Viande
+
+## Commentaire
+
+En Bretagne, la plupart du temps, les pommes de terre sont appelées « patates ». Elles commencent à se développer en Bretagne au XVIIIe siècle grâce à des plants importés d'Irlande ou d'Angleterre, mais c'est vraiment qu'au milieu du XIXe siècle que la production bretonne décolle. Traditionnellement, ce plat est servi avec du lait ribot — chaque convive trempe sa cuillère de pommes de terre au lard dans son bol de lait ribot.
+
+**Nevez :** Vous servez vos « patates au lard » dans un plat à gratin et vous étalez dessus de belles lamelles de tomme de vache bretonne type « raclette ». Glisser le plat dans un four chaud et laisser cuire jusqu'à ce que le fromage soit fondu. Sinon, pour mettre plus particulièrement le lard en valeur, disposez sur les pommes de terre au lard des fines tranches de lard rôti et réchauffez le tout dans un four chaud.
+
+**Yec'hed mat :** On peut rechercher un peu de légèreté avec un vin rouge fruité pour trancher avec la « richesse » de ce plat. Dans la Vallée de la Loire, le cépage Grolleau, comme les cépages Gamay et Pinot Noir, donne des vins fruités très plaisants sur la fraîcheur.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 1 kg de pommes de terre
+- 200 g d'oignons
+- 50 g de beurre
+- 200 g de lard cuit (rôti ou bouilli)
+- 1 bouquet garni
+- Sel, poivre
+
+## Déroulé de la recette
+
+1. **Mise en cuisson des patates au lard :** Éplucher les pommes de terre, les laver et les couper en rondelles. Tailler le lard en dés. Éplucher les oignons, les laver et les émincer finement. Dans une cocotte, mettre le beurre et faire suer les oignons jusqu'à une légère coloration. Ajouter les dés de lard, bien mélanger et verser les rondelles de pommes de terre. Assaisonner, mouiller à hauteur avec de l'eau (30 à 35 cl), mettre le bouquet garni et porter à ébullition. Prolonger la cuisson à feu doux à couvert jusqu'à ce que les pommes de terre soient fondantes (environ 30 min).
+
+2. **Dressage :** Servir bien chaud. Traditionnellement accompagné de lait ribot.
+
+## Noms ingrédients
+
+pommes de terre. oignons. beurre. lard. bouquet garni
+
+---
+
+# Côtes de porc au cidre, sa fricassée de pommes et châtaignes
+
+## Catégorie
+
+Breton. Non testé. Viande
+
+## Commentaire
+
+La châtaigneraie bretonne était assez étendue au XIXe siècle et c'est dans le département de l'Ille-et-Vilaine, surtout du côté de Redon, que leur réputation qualitative comme quantitative était la meilleure. Aujourd'hui, des variétés locales tentent d'être remises en valeur.
+
+**Nevez :** Vous pouvez ne garder que la fricassée de pommes et châtaignes et la servir avec une belle salade verte et des fines tranches de magret de canard fumé. En entrée, c'est un délice !
+
+**Yec'hed mat :** Pourquoi se compliquer ? Un bon cidre fermier sera parfait — prenez le même que celui de la recette ! Mais le top du top c'est le « Kystin » — un cidre de fermentation naturelle dans lequel des châtaignes fraîches broyées ont été mises à macérer durant quelques mois. On retrouve agréablement en bouche le goût et les tanins duveteux de la châtaigne qui se marient avec la pomme à merveille.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 6 côtes de porc dans l'échine (150 à 200 g chacune)
+- 7 cl d'huile de pépins de raisin
+- 35 cl de cidre brut fermier
+- 35 cl de crème fraîche
+- 50 g de beurre
+- 500 g de châtaignes décortiquées et cuites
+- 1 kg de pommes (type reine des reinettes)
+- 1 c. à soupe rase de sucre
+- Sel, poivre
+
+## Déroulé de la recette
+
+1. **Préparation de la fricassée de pommes et châtaignes :** Éplucher les pommes, les couper en deux, les épépiner et les tailler en tranches (1 à 1,5 cm d'épaisseur). Dans une grande poêle chaude, verser les tranches de pommes avec le beurre et le sucre. Les faire rissoler à feu moyen jusqu'à ce qu'elles commencent à dorer et à se ramollir (environ 20 min), ajouter les châtaignes cuites et prolonger la cuisson jusqu'à ce que le tout soit bien chaud. Réserver au chaud.
+
+2. **Cuisson des côtes de porc au cidre :** Faire chauffer une grande poêle avec un filet d'huile, saisir les côtes de porc et les cuire sur le premier côté à feu moyen jusqu'à ce qu'elles soient dorées (environ 7 min). Les assaisonner et les retourner. Prolonger la cuisson de 5 min et les mouiller avec le cidre et la crème fraîche. Assaisonner et cuire le tout à feu plutôt vif pendant 5 min. Vérifier l'assaisonnement.
+
+3. **Dressage :** Débarrasser les côtes de porc sur un plat et les napper avec la sauce au cidre. Si la sauce est trop liquide, la laisser réduire sur feu vif quelques minutes en maintenant les côtes de porc au chaud. Servir en accompagnement la fricassée de pommes aux châtaignes.
+
+## Noms ingrédients
+
+porc. cidre. crème fraîche. beurre. châtaignes. pommes. sucre
+
+---
+
+# Andouille de Guémené-sur-Scorff et sa purée de pommes de terre à l'ancienne
+
+## Catégorie
+
+Breton. Non testé. Viande
+
+## Commentaire
+
+L'andouille bretonne est réputée depuis le XVIIIe siècle mais c'est à Guémené-sur-Scorff qu'elle a acquis ses lettres de noblesse depuis le XIXe siècle. Aujourd'hui, très peu de charcutiers continuent à la produire de façon artisanale, mais elle a pourtant une confrérie et elle est fêtée tous les ans le dernier week-end du mois d'août à Guémené-sur-Scorff.
+
+**Nevez :** Ce plat est d'une simplicité déconcertante mais reste très apprécié. Rajouter quelques morceaux de châtaignes dans la purée — c'est très bon mais ça reste très roboratif !
+
+**Yec'hed mat :** Les épices de l'andouille seront en phase avec des vins apportant une contrepartie aromatique sur des notes épicées et une bonne structure en bouche, sans négliger les arômes de fruits rouges. On peut penser aux Madirans et aux Cahors, mais aussi aux vins du Rhône, de Provence et du Languedoc-Roussillon.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 600 g d'andouille de Guémené-sur-Scorff
+- 30 cl de crème fraîche
+- 30 cl de lait
+- 250 g de beurre
+- 1,5 kg de pommes de terre (type Charlotte)
+- Noix de muscade
+- Sel, poivre
+
+## Déroulé de la recette
+
+1. **Préparation et cuisson de la purée :** Cuire les pommes de terre en robe des champs (à l'eau salée avec la peau). Les éplucher une fois cuites et les écraser dans le lait et la crème bien chaude à l'aide d'un presse-purée (ou à défaut d'une fourchette). Parfumer avec de la noix de muscade râpée. Ajouter le beurre mou en petits morceaux, bien mélanger en soulevant la purée et rectifier l'assaisonnement. Rajouter un peu de lait chaud si la purée n'est pas assez moelleuse et la réserver au chaud.
+
+2. **Préparation de l'andouille :** Émincer l'andouille en tranches fines. Retirer la première peau noire et passer quelques secondes à four très chaud.
+
+3. **Dressage :** Dresser la purée dans des assiettes creuses et la recouvrir d'andouille chaude.
+
+## Noms ingrédients
+
+andouille. crème fraîche. lait. beurre. pommes de terre. noix de muscade
+
+---
+
+# Lard rôti aux pommes de terre
+
+## Catégorie
+
+Breton. Non testé. Viande
+
+## Commentaire
+
+« Adorable cochon, animal roi, cher ange ! » voilà comment est décrit cet animal par le gastronome nantais Charles Monselet (1888). Alexandre Bouet, écrivain breton du même siècle, le considère comme « le trésor des chaumières et la richesse du pauvre ». Les Bretons sont des grands amateurs de cochonnailles depuis des siècles.
+
+**Nevez :** S'il vous reste du lard rôti, c'est délicieux froid avec du pain, du beurre et quelques cornichons. Vous pouvez remplacer les pommes de terre par des châtaignes — les cuire à l'eau, les éplucher et les ajouter autour du lard juste une demi-heure avant la fin de cuisson du lard.
+
+**Yec'hed mat :** On peut se faire plaisir avec un vin rouge fruité plutôt souple. Des cuvées avec les cépages Pinot Noir et Gamay dans les Côtes d'Auvergne, ou bien en Savoie, associés avec le cépage Mondeuse vous apporteront les notes de fruits rouges, d'épices et la vivacité souhaitée pour ce lard rôti.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 1,2 kg de lard cru (mis en saumure la veille par le charcutier ou pompé quelques heures avant sa cuisson)
+- 50 g de beurre
+- 1,2 kg de pommes de terre
+- Sel, poivre
+
+## Déroulé de la recette
+
+1. **Mise en cuisson du rôti :** Préchauffer le four à 160 °C (th. 5-6). Éplucher les pommes de terre, les laver et les couper en gros morceaux (environ 3 cm). Dans un plat en terre cuite, mettre le lard côté peau dessus et le parsemer de noisettes de beurre à la surface. Verser un verre d'eau dans le fond du plat. Glisser le plat dans le four doux (160 °C) et laisser cuire pendant 30 min. Ajouter les pommes de terre autour du lard, les saler et remettre le plat au four à la même température pendant 2 heures. Mélanger deux ou trois fois les pommes de terre en cours de cuisson pour bien les imbiber du gras du lard et du beurre. Rajouter un peu d'eau si les pommes de terre ont absorbé tout le jus.
+
+2. **Dressage :** Disposer le plat au centre de la table, couper le lard en tranches et le servir avec les pommes de terre qui sont à la fois moelleuses au centre et croustillantes à la surface.
+
+## Noms ingrédients
+
+lard. beurre. pommes de terre
+
+---
+
+# Civet de lapin au Muscadet
+
+## Catégorie
+
+Breton. Non testé. Viande
+
+## Commentaire
+
+Au Moyen Âge, les vignes s'étendaient en Bretagne jusqu'à la péninsule de Rhuys et la région de Vannes. Ce n'est qu'au XVIIe siècle que le Melon de Bourgogne, cépage du Muscadet, s'implante dans le Pays Nantais. Le Muscadet remporte un vif succès en Bretagne où il est bu mais aussi cuisiné dans des plats, des sauces, des marinades.
+
+**Nevez :** Le lapin à la moutarde se cuisine un peu de la même façon : diminuer la quantité de Muscadet (15 cl au lieu de 50 cl) et une fois que le Muscadet a réduit 10 min à découvert, mouiller avec un peu d'eau (à peine à la hauteur du lapin). Rajouter une belle cuillerée à soupe de moutarde en fin de cuisson en même temps que la crème fraîche.
+
+**Yec'hed mat :** Un bon Muscadet, non ? Et pourquoi pas, puisqu'il est cuisiné avec ce même vin et que la viande blanche peut très bien se marier avec des vins blancs. Bien sûr un vin rouge léger et fruité sera aussi très bien adapté.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 1 jeune lapin coupé en 4 morceaux
+- 400 g d'oignons (de Roscoff si possible)
+- 300 g de champignons de Paris
+- 5 cl d'huile de pépins de raisin
+- 1 bouquet garni
+- 50 cl de Muscadet
+- 15 cl de crème fraîche
+- Gros sel, sel, poivre
+
+## Déroulé de la recette
+
+1. **Préparation des légumes :** Éplucher les oignons, les laver et les émincer finement. Laver et couper finement les champignons.
+
+2. **Mise en cuisson du civet :** Dans une cocotte, faire revenir les morceaux de lapin de tous les côtés à feu moyen dans un filet d'huile. Lorsqu'ils sont dorés, les retirer de la cocotte et y verser les légumes. Les faire étuver à couvert à feu doux 5 min afin de décoller les sucs de cuisson collés au fond. Rajouter le lapin avec le bouquet garni et mouiller le tout avec le Muscadet. Assaisonner, monter la préparation à ébullition et prolonger la cuisson à feu doux à couvert pendant 1 heure (plus ou moins selon la grosseur des morceaux).
+
+3. **Finition du civet :** Retirer le bouquet garni en fin de cuisson, incorporer la crème fraîche et vérifier l'assaisonnement. Servir le civet bien chaud accompagné de pommes de terre cuites en robe des champs.
+
+## Noms ingrédients
+
+lapin. oignons. champignons. vin blanc. crème fraîche. bouquet garni
+
+---
+
+# Quasi de veau braisé aux carottes et aux pruneaux (ou raisins secs)
+
+## Catégorie
+
+Breton. Non testé. Viande
+
+## Commentaire
+
+Grâce aux activités commerciales des ports comme ceux de Nantes, Lorient et Saint-Malo vers l'Europe du Sud, les pruneaux et les raisins secs de Malaga font leur apparition en Bretagne dès le XVIIe siècle et parfument rapidement nos plats sucrés comme salés. Le quasi de veau correspond au muscle fessier (entre la cuisse et la région lombaire).
+
+**Nevez :** Cuisez les carottes sans les os et le quasi de veau pendant 30 min de la même façon que dans cette recette. Versez cette préparation dans un plat à gratin en ajoutant les pruneaux lavés et disposez dessus des filets de mulets avec leurs peaux écaillées ou des filets de maquereaux. Parsemez de noisettes de beurre et cuire dans un four chaud pendant 10 min. Servir ce plat bien chaud au milieu de la table.
+
+**Yec'hed mat :** Avec cette préparation un peu sucrée sur une viande blanche assez moelleuse, vous apprécierez sans aucun doute un vin rouge fruité ? Et pourquoi pas un cépage Gamay des Coteaux du Lyonnais avec ses parfums de fraises et sa fraîcheur ?
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 1 kg de quasi de veau + un ou deux os de veau
+- 900 g de carottes
+- 3 gousses d'ail
+- 250 g d'oignons
+- 250 g de tomates
+- 1 bouquet garni
+- 18 pruneaux (ou 1 belle poignée de raisins secs)
+- 5 cl d'huile de pépins de raisin
+- Gros sel, sel, poivre
+
+## Déroulé de la recette
+
+1. **Préparation des légumes :** Retirer les pédoncules des tomates, les plonger 10 secondes dans l'eau bouillante, les refroidir, les monder, les couper en 2, les épépiner et les couper grossièrement. Éplucher les carottes, les laver et les émincer en rondelles plutôt épaisses. Éplucher les oignons et l'ail, les laver et les émincer finement.
+
+2. **Mise en cuisson du quasi :** Dans une cocotte chaude, verser un filet d'huile et y faire dorer le quasi et les os de tous les côtés à feu moyen. Les retirer de la cocotte une fois dorés, dégraisser légèrement la cocotte et y verser les oignons et l'ail. Les laisser étuver à feu doux à couvert 5 min. Ajouter les carottes et les tomates puis bien mélanger. Remettre le quasi avec les os et le bouquet garni dans la cocotte, assaisonner et mouiller le tout avec un peu d'eau (environ 50 cl). Porter à ébullition et prolonger la cuisson à feu doux à couvert 1 h 30. Ajouter les pruneaux lavés et prolonger la cuisson d'au moins 30 min toujours à couvert et à feu doux. Le quasi doit être fondant.
+
+3. **Dressage :** Débarrasser le quasi de la cocotte et le dresser sur une planche. Le découper en tranches. Jeter les os de veau et le bouquet garni. Verser les légumes dans un plat creux avec le jus de cuisson et déposer le tout au centre de la table.
+
+## Noms ingrédients
+
+veau. carottes. ail. oignons. tomates. bouquet garni. pruneaux. raisins secs
+
+---
+
+# Galettes bretonnes
+
+## Catégorie
+
+Breton. Non testé. Dessert
+
+## Commentaire
+
+La galette bretonne commence à faire parler d'elle à la fin du XIXe siècle, mais la recette comportait alors moins de beurre. C'est à cette époque que la biscuiterie LU (pour Lefèbre-Utile) à Nantes connaît une forte expansion, et il n'est pas étonnant qu'un peu plus au nord-ouest, du côté de Pont-Aven ou Pleyben, des Bretons fassent fortune grâce à ces fameuses galettes.
+
+**Nevez :** Aussi bien pour les galettes que pour les palets, remplacer un peu de farine de froment par de la farine de blé noir (20 % du poids de la farine de froment). L'odeur comme le goût nous rapprochent encore plus du terroir breton !
+
+**Yec'hed mat :** Un bon cidre plutôt doux pour le goûter et si vous avez la chance de trouver notre « champagne » breton, le « Royal Guillevic » — c'est l'équilibre parfait car vous aurez cette touche acidulée rafraîchissante qui « allègera » vos papilles entre deux gourmandises beurrées à souhait !
+
+## Ingrédients
+
+*Pour une trentaine de galettes*
+
+- 100 g de sucre glace
+- 180 g de beurre demi-sel
+- 1 jaune d'œuf + 1 jaune pour la dorure
+- 250 g de farine
+- De la farine pour étaler la pâte
+
+## Déroulé de la recette
+
+1. **Préparation de la pâte :** Dans une jatte, verser le sucre avec le beurre mou, mélanger à la spatule, ajouter le jaune d'œuf, continuer à mélanger et incorporer la farine en travaillant rapidement la pâte à la main de façon à former une boule. Laisser reposer la pâte 1 heure au réfrigérateur.
+
+2. **Cuisson des galettes :** Préchauffer le four à 200 °C (th. 7). Sur un plan bien fariné, étaler la pâte sur une épaisseur de 2 à 3 mm à l'aide d'un rouleau lui-même bien fariné. Découper les galettes à l'aide d'un emporte-pièce (ou d'un verre). Les disposer à l'aide d'une spatule en inox sur la plaque du four, les dorer avec le jaune d'œuf battu, les décorer avec les pointes d'une fourchette et les cuire à four chaud 10 à 15 min (jusqu'à ce qu'elles soient bien dorées). Laisser légèrement refroidir et débarrasser sur une assiette. Conserver dans une boîte en fer.
+
+## Noms ingrédients
+
+sucre glace. beurre. œufs. farine
+
+---
+
+# Palets bretons
+
+## Catégorie
+
+Breton. Non testé. Dessert
+
+## Commentaire
+
+Les palets, plus difficiles à être produits à une échelle industrielle, connaissent leur essor au début du XXe siècle quand la biscuiterie Traou Mad (littéralement « bonne chose » en breton) se consacra exclusivement à leur fabrication — les fameux Traou Mad mondialement connus. Aujourd'hui, pour éviter que les palets soient fabriqués n'importe où et n'importe comment, les biscuiteries bretonnes s'associent pour obtenir une IGP (Indication Géographique Protégée).
+
+**Yec'hed mat :** Un bon cidre plutôt doux pour le goûter et si vous avez la chance de trouver notre « champagne » breton, le « Royal Guillevic » — c'est l'équilibre parfait car vous aurez cette touche acidulée rafraîchissante qui « allègera » vos papilles entre deux gourmandises beurrées à souhait !
+
+## Ingrédients
+
+*Pour 25 palets*
+
+- 80 g de jaunes d'œufs (2 ou 3 jaunes)
+- 160 g de sucre
+- 160 g de beurre mou demi-sel
+- ½ paquet de levure
+- 225 g de farine
+
+## Déroulé de la recette
+
+1. **Préparation de la pâte :** Préchauffer le four à 200 °C (th. 7). Dans une jatte, verser les jaunes avec le sucre, bien fouetter et ajouter le beurre tout en continuant à fouetter. Incorporer la farine et la levure puis travailler la pâte à la spatule jusqu'à obtenir une pâte bien homogène.
+
+2. **Cuisson des palets :** Verser la pâte dans de petits moules ronds (5 à 6 cm de diamètre) sur une épaisseur de 8 mm à 1 cm. Glisser les moules dans le four chaud et cuire les palets 15 min (jusqu'à ce qu'ils soient bien dorés). Les démouler et les laisser refroidir. Les conserver dans une boîte en fer.
+
+## Noms ingrédients
+
+œufs. sucre. beurre. farine. levure
+
+---
+
+# Gâteau breton
+
+## Catégorie
+
+Breton. Non testé. Dessert
+
+## Commentaire
+
+Vous avez de la chance que cette recette soit partagée car, en Bretagne, c'est souvent un secret de famille. Les ingrédients sont à quelque chose près toujours les mêmes mais les pesées et surtout le tour de main du pâtissier sont primordiaux pour la réussite de cette merveille ! Ce gâteau se conserve très bien dans un torchon propre et il est souvent préféré un peu rassis. La découpe se fait traditionnellement en losanges plutôt qu'en parts triangulaires.
+
+**Nevez :** Certains pâtissiers ajoutent de la confiture ou une crème de pruneaux au milieu du gâteau : c'est bon, mais on préfère l'original !
+
+**Yec'hed mat :** La boisson régionale bien sûr ! Et pour ceux qui ne veulent pas de cidre, il y a le bon jus de pomme fermier breton !
+
+## Ingrédients
+
+*Pour 10 personnes*
+
+- Un moule de 22 cm en acier
+- 300 g de farine
+- 300 g de beurre demi-sel
+- 6 jaunes d'œuf + 1 jaune pour la dorure
+- 240 g de sucre
+- 1 goutte d'huile essentielle de bergamote (facultative)
+
+## Déroulé de la recette
+
+1. **Préparation :** Préchauffer le four à 200 °C (th. 7). Dans un saladier, verser la farine et le sucre. Mélanger et ajouter le beurre tempéré coupé en petits morceaux. Travailler la pâte avec les doigts jusqu'à l'obtention d'un sable grossier. Ajouter les jaunes d'œufs avec la bergamote, mélanger le tout à la main rapidement jusqu'à obtenir une pâte homogène. Beurrer le moule et verser la pâte. L'aplatir avec la main humide, dorer avec un jaune d'œuf et à l'aide d'une fourchette, strier le dessus du gâteau.
+
+2. **Cuisson :** Glisser le gâteau dans le four à 200 °C pendant 15 min et le cuire ensuite 30 min à 180 °C. Déguster le gâteau une fois refroidi.
+
+## Noms ingrédients
+
+farine. beurre. œufs. sucre
+
+---
+
+# Kouign-amann
+
+## Catégorie
+
+Breton. Non testé. Dessert
+
+## Commentaire
+
+En Bretagne, on dit que le meilleur kouign-amann (gâteau beurre) se fait à Douarnenez où il est né en 1865. Les histoires sur sa naissance sont nombreuses et souvent amusantes : une pâte à pain transformée en gâteau pour fêter Noël, une pâte à pain ratée transformée pour ne pas la jeter, un gâteau inspiré d'un pain sucré norvégien… Quoi qu'il en soit, ce gâteau continue à faire le bonheur des gourmands en Bretagne mais aussi dans le monde entier — c'est aujourd'hui la pâtisserie à la mode à New York City !
+
+**Nevez :** Ne pas toucher à la recette d'un tel gâteau, mais on peut l'accompagner d'un sorbet au lait ribot ou d'un granité au lait ribot.
+
+**Yec'hed mat :** J'aime le déguster avec un bon jus de pomme ou un cidre fermier. Mais bien sûr, le cidre « Royal Guillevic » sera aussi très bien accordé pour donner l'impression d'alléger cette gourmandise beurrée et sucrée à souhait !
+
+## Ingrédients
+
+*Pour 8 personnes*
+
+- 250 g de farine + 50 g pour le plan de travail
+- 8 g de levure fraîche de boulanger
+- 1 belle pincée de sel
+- 250 g de beurre demi-sel à température ambiante + 30 g pour le moule
+- 225 g de sucre semoule
+
+## Déroulé de la recette
+
+1. **Préparation de la pâte :** Dans un bol, émietter la levure. Verser 15 cl d'eau tiède et 15 g de beurre fondu en mélangeant au fouet. Dans une jatte, disposer 250 g de farine avec le sel en fontaine et y verser au centre le mélange avec la levure. Travailler la pâte de façon à former une boule et la laisser lever pendant 30 min à température ambiante. Étaler la pâte à pain en forme de cercle (environ 32 cm de diamètre). Poser 235 g de beurre (même consistance que la pâte à pain et d'une épaisseur de 1,5 cm) et 175 g de sucre au centre de la pâte. Rabattre la pâte sur le dessus du beurre et du sucre et ensuite l'étaler en longueur. La plier en trois comme pour une pâte feuilletée et la mettre au frais pendant 1 heure. Étaler à nouveau la pâte en longueur, la saupoudrer avec 25 g de sucre, la plier en trois et l'étaler en cercle (environ 30 cm). Disposer cette pâte dans un moule à manqué (22 cm de diamètre) généreusement beurré et légèrement sucré. Rabattre les côtés vers le centre, saupoudrer le gâteau avec le restant du sucre et le mettre au frais pendant 40 min.
+
+2. **Cuisson du kouign-amann :** Préchauffer le four à 200 °C (th. 7). Glisser le gâteau dans le four à 200 °C et le cuire pendant 20 min. Le démouler sur un plat et le remettre dans son moule de façon à intervertir le dessous et le dessus du gâteau. Poursuivre la cuisson pendant 20 min à 170 °C (th. 6).
+
+3. **Dégustation :** Sortir le gâteau du four une fois bien doré, le laisser légèrement tiédir, le démouler et le déguster tiède.
+
+## Noms ingrédients
+
+farine. levure. beurre. sucre
+
+
+---
+
+# Far breton aux pruneaux
+
+## Catégorie
+
+Breton. Non testé. Dessert
+
+## Commentaire
+
+Les fars en Bretagne sont multiples. Ils peuvent être cuisinés avec du sarrasin, du froment, ou mouillés avec de l'eau, du lait, du sang de cochon, ou agrémentés avec des fruits secs, du goémon, et parfumés avec du rhum ou de l'eau-de-vie de pomme. Mais si vous parlez du far sans préciser la recette, tous les Bretons comprendront que vous parlez du fameux far breton aux pruneaux.
+
+**Nevez :** Trois autres propositions gourmandes : (1) remplacer le lait par un litre de jus de pomme et les pruneaux par trois belles pommes coupées en tranches et sautées dans du beurre avec un peu de sucre — ce far restera plus léger que le far traditionnel ; (2) éplucher une botte de rhubarbe, la laisser mariner dans un peu de sucre pendant 12 heures, l'égoutter et l'étaler dans le fond du plat beurré, puis procéder comme pour le far traditionnel sans les pruneaux ; (3) pour les adolescents en pleine croissance, remplacer les pruneaux par des palets bretons !
+
+**Yec'hed mat :** Le far tempéré accompagné d'une bolée de cidre ou d'un bon jus de pomme fermier, c'est « trop mad » !
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 400 g de pruneaux
+- 250 g de farine
+- 250 g de sucre
+- 4 gros œufs
+- 1 litre de lait cru entier
+- 30 g de beurre demi-sel
+- 1 pincée de sel
+- 1 bouchon de rhum
+
+## Déroulé de la recette
+
+1. **Préparation des pruneaux :** Laver les pruneaux et les tremper dans une eau tiède le temps de la préparation du far.
+
+2. **Préparation du far breton :** Mélanger la farine tamisée, le sucre et le sel. Faire une fontaine, y déposer les œufs entiers et les mélanger petit à petit au fouet. Incorporer ensuite le lait en plusieurs fois et fouetter bien le tout. Parfumer avec le rhum. Beurrer un plat à gratin et disposer les pruneaux lavés dans le fond.
+
+3. **Cuisson :** Verser la pâte dans le plat à gratin. Cuire à four chaud pendant 20 min à 220 °C (th. 7), baisser la température à 180 °C (th. 6) et laisser cuire 30 min. Sortir du four et laisser refroidir dans le moule.
+
+4. **Dressage :** Servir le far tempéré — c'est moelleux… hummm !
+
+## Noms ingrédients
+
+pruneaux. farine. sucre. œufs. lait. beurre. rhum
+
+---
+
+# Gâteau nantais
+
+## Catégorie
+
+Breton. Non testé. Dessert
+
+## Commentaire
+
+Ce gâteau serait né à Nantes en 1820, inventé par un certain Rouleau, maître fouacier, sans doute inspiré par le rhum et le sucre amenés des Antilles et débarqués sur les quais de Nantes. Traditionnellement, le gâteau doit être recouvert d'un glaçage ; l'auteure préfère utiliser du sucre glace qui rend la pâtisserie un peu moins sucrée.
+
+**Nevez :** Décorer le gâteau avec des fraises et l'accompagner d'un coulis de fraise.
+
+**Yec'hed mat :** Un cidre doux ou un poiré pour changer ! Mais si vous voulez vous réchauffer, optez alors pour un thé assez léger ou, pourquoi pas, parfumé aux écorces d'oranges !
+
+## Ingrédients
+
+*Pour 8 personnes*
+
+- 3 œufs
+- 100 g de beurre
+- 100 g de sucre
+- 110 g d'amandes en poudre
+- 100 g de farine
+- ½ sachet de levure
+- 1 bouchon de rhum
+- Le zeste d'une orange non traitée
+- Sucre glace
+
+*Le sirop :*
+- 100 g d'eau
+- 100 g de sucre
+- 1 jus d'une orange
+
+## Déroulé de la recette
+
+1. **Préparation du gâteau :** Préchauffer le four à 180 °C (th. 6). Dans un saladier, verser le beurre mou avec le sucre et le zeste d'une orange. Fouetter vigoureusement et ajouter les œufs. Mélanger en incorporant petit à petit la farine, le rhum et les amandes en poudre. Verser la pâte dans un moule à manqué beurré et légèrement fariné. Glisser le moule dans le four et cuire 30 à 40 min. Le gâteau doit être doré et la pointe d'un petit couteau plantée dans le gâteau doit ressortir sans trace de pâte. Démouler le gâteau sur un joli plat.
+
+2. **Préparation du sirop :** Verser dans une petite casserole l'eau, le sucre et le jus d'orange. Porter à ébullition, bien fouetter jusqu'à ce que le sucre soit complètement dissout.
+
+3. **Finition du gâteau :** Verser doucement le sirop sur le gâteau, ajouter le sirop au fur et à mesure que le gâteau l'absorbe. Déguster le gâteau tempéré, saupoudré de sucre glace.
+
+## Noms ingrédients
+
+œufs. beurre. sucre. amandes. farine. levure. rhum. orange. sucre glace
+
+---
+
+# Le gâteau d'Hélène Jégado
+
+## Catégorie
+
+Breton. Non testé. Dessert
+
+## Commentaire
+
+Née à Plouhinec dans le Morbihan en 1803 et guillotinée à Rennes sur le Champs de Mars en 1852, Hélène Jégado reste sûrement l'une des plus grandes tueuses en série du XIXe siècle (au moins 36 morts à son actif). Sa technique : verser un peu d'arsenic dans la soupe et le gâteau ! Et pourtant, son gâteau est délicieux et idéal pour accompagner le thé ou le café.
+
+**Nevez :** Pour oublier l'histoire de sa créatrice, ajoutez-lui une goutte de « potion d'amour »… Un peu plus sérieux : remplacez les fruits confits par des pépites de chocolat, c'est très bon aussi !
+
+**Yec'hed mat :** Un thé sera parfait pour le déguster au goûter, à moins que vous ne préfériez un bon jus de pomme fermier.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 250 g de farine
+- 100 g de beurre mou demi-sel
+- 100 g de sucre
+- 75 g de fruits confits en macédoine
+- 1 c. à soupe de raisins de Corinthe macérés dans le rhum
+- 30 amandes entières
+- 2 œufs
+- 1 jaune d'œuf pour dorer
+- 1 pincée de cannelle
+
+## Déroulé de la recette
+
+1. **Préparation et cuisson du gâteau :** Préchauffer le four à 200 °C (th. 7). Dans une casserole d'eau, verser les amandes et les faire bouillir 2 min. Les égoutter, les monder et les hacher grossièrement au couteau. Dans un saladier, verser les œufs et le sucre. Bien fouetter, ajouter le beurre mou et mélanger le tout à la spatule. Ajouter la farine et la cannelle puis pétrir la pâte avec les mains jusqu'à ce qu'elle soit lisse. Verser les fruits confits, les amandes et les raisins secs égouttés et travailler la pâte avec les mains jusqu'à ce que tout soit bien mélangé.
+
+2. **Cuisson :** Beurrer un moule à manqué (22 cm de diamètre). Verser la pâte et la tasser avec la main humide. Dorer le gâteau avec le jaune d'œuf battu et le décorer avec les pointes d'une fourchette. Glisser le gâteau dans le four à 200 °C et le cuire 40 à 45 min. Il doit être bien doré. Le laisser refroidir avant de déguster.
+
+## Noms ingrédients
+
+farine. beurre. sucre. fruits confits. raisins secs. amandes. œufs. cannelle. rhum
+
+---
+
+# Gâteau de châtaignes au chocolat
+
+## Catégorie
+
+Breton. Non testé. Dessert
+
+## Commentaire
+
+Qu'il pleuve ou qu'il vente, les Bretons aiment aller ramasser les châtaignes dans les bois en automne. Une fois cueillies, elles sont grillées et dégustées avec un peu de lait ribot, du pain et du beurre. Ce gâteau est à préparer la veille et demande de la patience pour éplucher les châtaignes fraîches — mais le résultat en vaut vraiment la chandelle ! À défaut, on peut utiliser des châtaignes cuites sous vide.
+
+**Nevez :** Ce gâteau est vraiment très long à confectionner quand vous utilisez des châtaignes fraîches cueillies par vos soins. Mais à défaut, les châtaignes cuites sous vide achetées en magasin feront très bien l'affaire — procédez de la même façon.
+
+**Yec'hed mat :** Un vin doux naturel ambré de Maury, Banyuls ou Rivesaltes exprimerait des notes confites ou torréfiées avec une belle richesse en bouche. Mais le top à découvrir, c'est le « Kystin » (« kistin » en breton signifiant châtaigne) — un cidre brut de fermentation naturelle parfumé par des châtaignes laissées plusieurs mois en macération dans le moût de pommes.
+
+## Ingrédients
+
+*Pour 10 personnes (à préparer la veille)*
+
+- 1,5 à 2 kg de châtaignes (pour obtenir 1 kg de chair de châtaignes cuites)
+- 400 g de chocolat à cuire
+- 200 g de beurre
+- 300 g de sucre
+- 1 bol de chantilly
+
+## Déroulé de la recette
+
+1. **Préparation des châtaignes :** Faire tremper les châtaignes dans l'évier rempli d'eau. Jeter celles qui flottent (elles sont véreuses) et égoutter le reste. Inciser les châtaignes une par une sur toute leur hauteur assez profondément pour entailler les deux peaux. Les cuire dans une casserole d'eau (portée à ébullition) pendant 30 min à couvert à feu doux. Éplucher alors les châtaignes en les égouttant au fur et à mesure — les deux enveloppes se retirent plus facilement quand elles sont humides. Passer les châtaignes épluchées au moulin à légumes. Peser la chair obtenue et calculer le poids du beurre, chocolat et sucre en fonction du poids de la chair (base 1 kg de chair).
+
+2. **Confection du gâteau :** Dans un saladier résistant à la chaleur, verser le chocolat et le beurre coupés en petits morceaux ainsi que le sucre. Mettre le saladier sur une casserole contenant un fond d'eau frémissante. Faire fondre au bain-marie jusqu'à ce que le chocolat soit bien lisse et fondu. Retirer le saladier et mélanger à la spatule la purée de châtaignes au chocolat. Verser cette pâte dans une terrine recouverte à l'intérieur de papier film (pour faciliter le démoulage) et laisser au frais jusqu'au lendemain.
+
+3. **Dressage :** Démouler le gâteau aux châtaignes de la terrine. Le couper en fines tranches et le servir avec une chantilly.
+
+## Noms ingrédients
+
+châtaignes. chocolat. beurre. sucre. crème fraîche
+
+---
+
+# Riz au lait
+
+## Catégorie
+
+Breton. Non testé. Dessert
+
+## Commentaire
+
+La Bretagne, au climat doux et humide, fournit une herbe abondante qui nourrissait jadis nos vaches traditionnelles : la bretonne pie noire, la froment du Léon, la « nantaise », l'armoricaine. Ces races rustiques fournissent un lait riche, à la fois gouté et très crémeux, qui permet de faire du beurre et des laitages exceptionnels. Grâce à des éleveurs motivés travaillant en respectant l'environnement, ces vaches réapparaissent aujourd'hui et votre riz au lait sera vraiment « trop mad ».
+
+**Nevez :** Remplacer la vanille par 6 ou 8 tours de moulin rempli avec des graines de cardamome (sans les cosses) et ajouter 4 g d'agar-agar dans le riz trois minutes avant la fin de cuisson. Débarrasser dans une terrine et laisser refroidir au moins 4 heures. Servir ce riz à la cardamome avec une tombée de cerises (500 g de cerises dénoyautées cuites 3 min dans un sirop de 100 g de sucre, 20 cl d'eau, 1 citron et 2 branches de menthe, puis laissées infuser 5 min).
+
+**Yec'hed mat :** On pourrait apprécier une liqueur de vanille, un verre de pommeau de Bretagne. Un champagne demi-sec ou un crémant brut pour contraster et alléger le palais. En rappel avec la région, un cidre Royal Guillevic ou le Poiré Kystin Pur.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 100 g de riz rond ½ complet
+- 1 litre de lait cru entier crémeux
+- ½ gousse de vanille
+- 80 g de sucre semoule
+
+## Déroulé de la recette
+
+1. **Confection du riz au lait :** Rincer le riz sous l'eau froide et le mettre dans une casserole à fond épais avec ¼ litre de lait et la ½ gousse de vanille (ouverte en deux dans le sens de la longueur). Laisser cuire à feu doux à découvert jusqu'à ce que le lait soit presque entièrement absorbé. Ajouter ensuite le lait petit à petit tout en mélangeant de temps en temps. Quand le riz devient compact (environ 1 heure de cuisson), ajouter le sucre et laisser cuire doucement pendant 10 min.
+
+2. **Dressage :** Débarrasser alors le riz au lait dans un récipient et le laisser légèrement refroidir avant de déguster.
+
+## Noms ingrédients
+
+riz. lait. vanille. sucre
+
+---
+
+# Crêpes de froment
+
+## Catégorie
+
+Breton. Non testé. Dessert
+
+## Commentaire
+
+Les crêpes de froment comme les crêpes ou galettes de blé noir se cuisent traditionnellement sur la billig (la galettière), mais il faut avoir à la fois la billig et le tour de main ! En Bretagne, ces crêpes sont souvent le goûter préféré des enfants qui rentrent de l'école. De nombreuses garnitures sont possibles (confiture d'orange avec mousse au chocolat, caramel au beurre salé avec coulis au chocolat, pommes caramélisées avec chantilly au romarin, confiture de fraise avec fromage blanc vanillé…).
+
+**Yec'hed mat :** L'accord sera à adapter en fonction de l'accompagnement mais si vous voulez « manger Breizh », une bolée de cidre ou un bon jus de pomme fermier, sera toujours « trop bon, trop mad » !
+
+## Ingrédients
+
+*Pour une vingtaine de crêpes (poêle de 20 cm de diamètre)*
+
+- 250 g de farine de froment
+- 4 œufs
+- 100 g de beurre + un peu de beurre pour la cuisson
+- 30 g de sucre + un peu de sucre pour saupoudrer chaque crêpe après cuisson
+- ½ litre de lait (plus si la pâte est trop épaisse)
+
+## Déroulé de la recette
+
+1. **Confection de la pâte :** Dans un saladier, verser la farine et le sucre. Mélanger et former une fontaine. Casser les œufs entiers au centre en les incorporant bien au fouet petit à petit, en ajoutant ensuite le lait. Fouetter vigoureusement le tout afin d'obtenir une pâte bien lisse. Mettre le beurre à fondre dans une petite casserole et le cuire jusqu'à ce qu'il commence juste à dorer. L'incorporer doucement dans la pâte tout en fouettant. Laisser reposer la pâte 1 heure.
+
+2. **Cuisson des crêpes :** Dans une poêle anti-adhésive chaude et légèrement beurrée, verser une petite louche de pâte. Étaler la pâte le plus rapidement et le plus finement possible. Retourner la crêpe dès que ses bords commencent à colorer et la laisser cuire jusqu'à ce qu'elle soit légèrement dorée des deux côtés. La débarrasser sur une assiette, la sucrer très légèrement et procéder ainsi jusqu'à l'épuisement de la pâte.
+
+## Noms ingrédients
+
+farine de froment. œufs. beurre. sucre. lait
+
+---
+
+# Quatre-quarts
+
+## Catégorie
+
+Breton. Non testé. Dessert
+
+## Commentaire
+
+Dans ses écrits, Curnonsky (journaliste et célèbre critique gastronomique) n'oublie pas de citer « les douceurs de la pâtisserie bretonne » et le quatre-quarts en fait partie ! Ce gâteau est pourtant d'une simplicité déconcertante (autant de beurre, de sucre, de farine et d'œufs) mais l'utilisation du beurre demi-sel le magnifie et le gâteau préféré des « petits Bretons » reste le plus souvent l'incontournable quatre-quarts.
+
+**Nevez :** À partir de la recette du quatre-quarts, tout est possible : des madeleines (versez la pâte dans un moule à madeleine, cuire 10 à 15 min à 180 °C) ; un quatre-quarts aux pommes (faire sauter des quartiers de pommes dans du beurre, les disposer à la surface de la pâte) ; un quatre-quarts à l'avoine (remplacer la farine de froment par de la crème d'avoine) ; un quatre-quarts aux galettes caramélisées (disposer des galettes dans le fond d'un moule à manqué, verser un caramel au beurre salé sur les galettes, puis ajouter la pâte à quatre-quarts, démouler aussitôt après cuisson).
+
+**Yec'hed mat :** Un bon jus de pomme fermier, à moins que vous ne préfériez une boisson chaude : un thé sera parfait pour le goûter ou un chocolat chaud !
+
+## Ingrédients
+
+*Pour 8 personnes*
+
+- 220 g de farine de froment
+- 220 g de sucre
+- 220 g de beurre demi-sel
+- 4 œufs
+- ½ sachet de levure chimique
+
+## Déroulé de la recette
+
+1. **Préparation du gâteau :** Préchauffer le four à 180 °C (th. 6). Dans une grande jatte, verser la farine, le sucre et la levure. Bien mélanger et former une fontaine. Casser les œufs dans la fontaine et les mélanger au fouet en y incorporant petit à petit le mélange farine-sucre-levure. Faire fondre le beurre et l'incorporer à la pâte tout en continuant à bien fouetter. La pâte doit être bien homogène.
+
+2. **Cuisson :** Beurrer et fariner un moule à cake ou à manqué, verser la pâte dans le moule et le glisser dans le four à 180 °C. Laisser cuire 40 min et le démouler une fois légèrement refroidi.
+
+## Noms ingrédients
+
+farine de froment. sucre. beurre. œufs. levure
+
+---
+
+# Fine tarte aux pommes et au beurre salé
+
+## Catégorie
+
+Breton. Non testé. Dessert
+
+## Commentaire
+
+Dès le XVIIe siècle, la Bretagne est reconnue pour ses vergers de pommes à cidre ou à couteau. Les pommes sont excellentes et il existe de nombreuses variétés locales. Quant au beurre salé, il fait toute la différence entre une tarte classique et la tarte aux pommes version Breizh !
+
+**Nevez :** Vous pouvez aussi cuisiner cette tarte avec du beurre doux mais elle perdra son caractère breton. Vous pouvez l'épicer en ajoutant une petite pincée de cannelle en même temps que le sucre, ou la parfumer avec quelques fleurs de romarin ou un peu de feuilles d'estragon ciselées.
+
+**Yec'hed mat :** Une boisson effervescente allégera ce dessert gourmand. Mais si vous avez un bon cidre fermier à la cave, n'hésitez pas ! Le « Royal Guillevic » est au cidre ce que le champagne est à la grande famille des vins effervescents — un fruité acidulé qui éveille le palais !
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+*La pâte :*
+- 125 g de beurre demi-sel
+- 250 g de farine
+- 12 cl d'eau
+
+*La garniture :*
+- 1 kg de pommes (la Reinette d'Armorique)
+- 150 g de beurre demi-sel
+- 120 g de sucre
+
+## Déroulé de la recette
+
+1. **Préparation de la pâte :** Faire la pâte au moins 1 heure avant, voire la veille. Couper le beurre froid en petits morceaux. Faire une fontaine avec la farine. Mettre le beurre au centre et mélanger le beurre et la farine avec les doigts de façon à ce que tous les grains de farine soient enrobés de beurre (il doit rester des petits morceaux de beurre dans la farine). Incorporer l'eau froide en travaillant la pâte le plus rapidement possible jusqu'à l'obtention d'une boule. Laisser reposer au frais. Après le repos, étaler la pâte au rouleau et la déposer dans un plat à tarte en formant des bords plutôt hauts. Préchauffer le four à 200 °C (th. 7). Précuire la pâte à four chaud pendant 20 min en la recouvrant de papier aluminium lui-même recouvert de graines (riz, lentilles, haricots…) afin qu'elle ne gonfle pas à la cuisson.
+
+2. **Préparation de la garniture :** Éplucher les pommes, les couper en deux et les épépiner. Les émincer le plus finement possible. Les déposer sur la pâte précuite, les recouvrir de sucre et de beurre coupé en petits morceaux. Mettre à cuire à four moyen (175 °C, th. 6) pendant 45 min.
+
+3. **Dressage :** Servir la tarte sur un joli plat et proposer en accompagnement de la glace à la vanille ou une crème fouettée.
+
+## Noms ingrédients
+
+pommes. beurre. farine. sucre
+
+---
+
+# Caramel au beurre salé
+
+## Catégorie
+
+Breton. Non testé. Dessert
+
+## Commentaire
+
+Dans les années 1970, Henri Le Roux, chocolatier réputé à Quiberon, crée un caramel au beurre salé si délicieux que même les curistes de la Thalasso d'à côté craquent littéralement ! Ce fameux bonbon déclenche une petite folie gourmande, si bien qu'aujourd'hui le caramel au beurre salé est vendu dans toutes les épiceries bretonnes.
+
+**Yec'hed mat :** Un bon cidre, plutôt doux, ou un poiré pour le goûter ! Ou encore, si vous aimez les douceurs : un pommeau de Bretagne.
+
+## Ingrédients
+
+*Pour remplir un pot de confiture*
+
+- 125 g de sucre
+- 20 cl de crème fraîche liquide
+- 50 g de beurre demi-sel
+
+## Déroulé de la recette
+
+1. **Confection du caramel :** Dans une casserole, verser le sucre et suffisamment d'eau pour l'humidifier. Cuire le sucre mouillé à feu moyen jusqu'à ce qu'il caramélise. Retirer la casserole du feu dès que le caramel est ni trop foncé ni trop clair et ajouter doucement le beurre mou et la crème.
+
+2. **Finition :** Cuire la crème caramélisée à feu doux en la mélangeant régulièrement jusqu'à ce qu'elle devienne homogène. Verser dans un pot à confiture et conserver au réfrigérateur, ou déguster aussitôt avec des crêpes, du pain perdu, du quatre-quarts, une glace à la vanille, etc.
+
+## Noms ingrédients
+
+sucre. crème fraîche. beurre
+
+---
+
+# Mousse glacée au caramel au beurre salé
+
+## Catégorie
+
+Breton. Non testé. Dessert
+
+## Commentaire
+
+Une mousse glacée gourmande à préparer la veille, servie avec un caramel onctueux au beurre salé. L'accord sucré-salé signature de la Bretagne dans une version festive et rafraîchissante.
+
+**Yec'hed mat :** Un bon cidre, plutôt doux, ou un poiré pour le goûter ! Ou encore, si vous aimez les douceurs : un pommeau de Bretagne.
+
+## Ingrédients
+
+*Pour 10 personnes (à préparer la veille)*
+
+- 5 œufs
+- 250 g de sucre semoule
+- 60 cl de crème fraîche
+- 100 g de beurre demi-sel
+
+## Déroulé de la recette
+
+1. **Confection du caramel :** Dans une casserole, verser 100 g de sucre et le mouiller avec 3 cuillerées à soupe d'eau. Cuire à feu moyen jusqu'à ce qu'il prenne une belle couleur de caramel. Retirer du feu et ajouter 10 cl de crème avec 100 g de beurre dans le caramel. Remettre à chauffer jusqu'à ce que le caramel devienne homogène. Réserver.
+
+2. **Montage de la mousse :** Dans un saladier bien froid, battre 50 cl de crème fraîche en chantilly. Réserver au réfrigérateur. Dans un autre saladier, battre 5 blancs d'œufs en neige avec 50 g de sucre. Réserver. Dans un troisième saladier, fouetter 5 jaunes d'œufs avec 100 g de sucre jusqu'à ce que le mélange blanchisse et ajouter le caramel au beurre salé légèrement refroidi. Bien mélanger et incorporer délicatement la crème chantilly puis les blancs battus en neige. Quand la préparation est bien homogène, la verser dans un moule à cake ou une terrine et la mettre au congélateur pendant au moins 12 heures.
+
+3. **Dressage :** Démouler la mousse glacée (passer le moule rapidement sous l'eau chaude pour faciliter le démoulage), la couper en tranches et la servir accompagnée d'un caramel onctueux au beurre salé (voir recette).
+
+## Noms ingrédients
+
+sucre. crème fraîche. beurre. œufs
+
+---
+
+# Mousse glacée à la fraise et son coulis de fraises
+
+## Catégorie
+
+Breton. Non testé. Dessert
+
+## Commentaire
+
+Les fraises en Bretagne sont le plus souvent consommées fraîches, voire avec un peu de sucre en dessert. Ce n'est qu'au XVIIe siècle qu'une nouvelle espèce venue d'Amérique du Sud apparaît en Bretagne. Grâce au climat doux et à la terre, elle s'y plaît et continue encore aujourd'hui à se développer. La Bretagne (surtout la région de Plougastel) est une région de référence qualitative en ce qui concerne la fraise.
+
+**Nevez :** Servir la mousse glacée avec un coulis de rhubarbe ou bien remplacer les fraises de la mousse par des bananes et procéder exactement de la même façon.
+
+**Yec'hed mat :** Un Champagne ou un Crémant, de préférence rosé pour associer la vinosité et les notes de petits fruits rouges avec la fraise. Mais restons régional et si vous avez la chance de trouver notre « champagne breton », le cidre « Royal Guillevic », c'est l'harmonie réussie à coup sûr !
+
+## Ingrédients
+
+*Pour 8 personnes*
+
+*La mousse glacée :*
+- 1 kg de fraises + 8 fraises pour la décoration
+- 500 g de sucre
+- 500 g de crème fraîche
+- 1 citron
+
+*Le coulis de fraises :*
+- 500 g de fraises
+- 150 g de sucre
+- 1 citron
+
+## Déroulé de la recette
+
+1. **Confection de la mousse glacée :** Laver, égoutter et équeuter les fraises. Les mixer avec le jus du citron et le sucre. Réserver. Battre la crème en chantilly dans un grand saladier. Incorporer alors délicatement la purée de fraises à la chantilly. Verser le tout dans un moule à cake et mettre au congélateur pendant 24 heures.
+
+2. **Préparation du coulis de fraises :** Laver les fraises sous l'eau avec les queues. Les équeuter. Mettre les fraises avec le sucre et le jus d'un citron dans le bol d'un mixeur. Mixer jusqu'à l'obtention d'un coulis bien lisse. Réserver au frais.
+
+3. **Dressage :** Démouler la mousse glacée, la couper en tranches et la servir avec le coulis de fraises. Utiliser une jolie fraise pour la décoration.
+
+## Noms ingrédients
+
+fraises. sucre. crème fraîche. citron
+
+

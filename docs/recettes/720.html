@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Supions sautés, tarator aux amandes et salsa au citron vert</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="manifest" href="../manifest.json">
+    <meta name="theme-color" content="#1b3a5c">
+    <style>
+        body { background: #f0f4f8; }
+        header { background: #1b3a5c; }
+        .bouton-retour { color: rgba(232,240,248,.85) !important; }
+        .bouton-retour:hover { color: #fff !important; }
+    </style>
+
+<style>
+  html.verrouille body > *:not(#porte) { display: none !important; }
+  #porte { display: none; }
+  html.verrouille #porte {
+    display: flex; position: fixed; inset: 0; z-index: 99999;
+    align-items: center; justify-content: center; background: #faf8f5;
+    font-family: -apple-system, system-ui, sans-serif;
+  }
+  #porte .boite { width: 100%; max-width: 300px; padding: 24px; text-align: center; }
+  #porte h2 { margin: 0 0 16px; font-size: 18px; color: #5a3a1a; font-weight: 600; }
+  #porte input { width: 100%; padding: 12px; font-size: 16px; box-sizing: border-box;
+    border: 1px solid #d8cfc4; border-radius: 8px; background: #fff; margin-bottom: 10px; }
+  #porte button { width: 100%; padding: 12px; font-size: 15px; border: none;
+    border-radius: 8px; background: #1b3a5c; color: #fff; cursor: pointer; }
+  #porte .err { color: #c0392b; font-size: 13px; height: 16px; margin-bottom: 8px; }
+</style>
+<script>
+(function () {
+  var HASH = "0721ba9a209534aa3dba860230dc45ed3099223621973dd6f941df4386ab862c";
+  var CLE = "recettes_acces";
+  if (localStorage.getItem(CLE) === HASH) return;        // déjà entré : on laisse passer
+  document.documentElement.classList.add("verrouille");  // sinon on masque tout de suite
+
+  async function sha256(txt) {
+    var buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(txt));
+    return Array.from(new Uint8Array(buf))
+      .map(function (b) { return b.toString(16).padStart(2, "0"); }).join("");
+  }
+
+  function poser() {
+    var d = document.createElement("div");
+    d.id = "porte";
+    d.innerHTML =
+      '<div class="boite">' +
+      '<h2>\uD83D\uDD12 Mes recettes</h2>' +
+      '<div class="err" id="porte-err"></div>' +
+      '<input type="password" id="porte-mdp" placeholder="Mot de passe" autocomplete="current-password">' +
+      '<button id="porte-ok">Entrer</button></div>';
+    document.body.appendChild(d);
+    var inp = document.getElementById("porte-mdp");
+    var err = document.getElementById("porte-err");
+    inp.focus();
+    async function verifier() {
+      var h = await sha256(inp.value);
+      if (h === HASH) {
+        localStorage.setItem(CLE, HASH);
+        document.documentElement.classList.remove("verrouille");
+        d.remove();
+      } else {
+        err.textContent = "Mot de passe incorrect";
+        inp.value = ""; inp.focus();
+      }
+    }
+    document.getElementById("porte-ok").addEventListener("click", verifier);
+    inp.addEventListener("keydown", function (e) { if (e.key === "Enter") verifier(); });
+  }
+  if (document.body) poser();
+  else document.addEventListener("DOMContentLoaded", poser);
+})();
+</script>
+</head>
+<body>
+    <header class="header-recette">
+        <a href="../index.html" class="bouton-retour">← Retour</a>
+    </header>
+    <article class="recette">
+        <h1>Supions sautés, tarator aux amandes et salsa au citron vert</h1>
+<h2>Ingrédients</h2>
+<p><em>Pour 6 personnes</em></p>
+<ul>
+<li>600 g de supions (petits calamars), nettoyés</li>
+<li>2 cuil. à soupe d'huile d'olive</li>
+<li>Sel de mer</li>
+</ul>
+<p><strong>Tarator</strong></p>
+<ul>
+<li>75 g de pain au levain sans croûte, en morceaux</li>
+<li>12 cl de lait entier</li>
+<li>1 belle tête d'ail</li>
+<li>7,5 cl d'huile d'olive</li>
+<li>90 g d'amandes mondées, grillées</li>
+<li>2 cuil. à soupe de vinaigre de xérès</li>
+</ul>
+<p><strong>Pâte épicée</strong></p>
+<ul>
+<li>¼ de cuil. à café de chacune de ces épices : graines de cumin, graines de coriandre, graines de fenouil, flocons de piments séchés, poivre noir, cardamome moulue</li>
+<li>1 ½ cuil. à café de sucre en poudre</li>
+<li>1 belle gousse d'ail, écrasée</li>
+<li>1 morceau de gingembre de 3 cm, pelé et haché (20 g)</li>
+<li>2 cuil. à café de pâte de tamarin</li>
+<li>2 cuil. à café d'huile de tournesol</li>
+</ul>
+<p><strong>Salsa au citron vert</strong></p>
+<ul>
+<li>3 citrons verts</li>
+<li>1 cuil. à soupe d'huile d'olive</li>
+<li>1 piment rouge, épépiné et haché</li>
+<li>10 g de feuilles de coriandre, hachées</li>
+</ul>
+<h2>Commentaire</h2>
+<p>Le tarator est une sauce épaisse à base de pain, d'ail rôti et d'amandes. Les supions (petits calamars) peuvent être remplacés par de plus grands calamars découpés en anneaux. La pâte épicée qui enrobe les supions après cuisson est très parfumée — laissez-les infuser quelques minutes dedans pendant que vous poursuivez la cuisson.</p>
+<h2>Déroulé de la recette</h2>
+<ol>
+<li>
+<p>Préchauffez le four à 180 °C.</p>
+</li>
+<li>
+<p>Pour préparer le tarator, mettez le pain avec le lait dans un récipient et réservez 30 min. Coupez et éliminez le sommet de la tête d'ail, puis placez cette dernière sur une feuille de papier d'aluminium, arrosez-la avec 1 cuil. à soupe d'huile d'olive, assaisonnez avec ¼ de cuil. à café de sel, puis enveloppez-la bien et faites-la rôtir 50 min au four, jusqu'à ce que la chair soit fondante. Pressez sur les gousses pour récupérer la chair, mettez-la dans le bol du robot avec la panade (pain et lait), le reste d'huile d'olive, les amandes, le vinaigre et 1 cuil. à café de sel. Mixez en pâte grossière, en versant progressivement 10 cl d'eau. Transférez le tarator dans une petite casserole (vous le réchaufferez juste avant de servir).</p>
+</li>
+<li>
+<p>Confectionnez la pâte épicée : faites griller à sec, dans une petite poêle, le cumin, la coriandre, les graines de fenouil, les piments séchés et le poivre, jusqu'à ce que les arômes se développent. Mettez-les dans un moulin à épices ou dans un mortier, ajoutez la cardamome, ¼ de cuil. à café de sel et le sucre, puis réduisez le tout en poudre. Incorporez progressivement l'ail, le gingembre, le tamarin et un peu d'huile, jusqu'à obtenir la consistance d'une pâte. Transférez dans un grand bol et réservez.</p>
+</li>
+<li>
+<p>Pour préparer la salsa, coupez les extrémités des citrons verts, puis pelez les fruits à vif pour éliminer l'écorce et le mésocarpe blanc. En travaillant au-dessus d'un bol, coupez entre les membranes pour dégager les quartiers. Faites ensuite égoutter ces derniers dans un tamis, puis transférez-les dans un bol, avec ½ cuil. à soupe de leur jus et le reste des ingrédients. Mélangez bien et réservez.</p>
+</li>
+<li>
+<p>Peu avant de servir, mettez les encornets dans un bol avec l'huile d'olive et ¾ de cuil. à café de sel. Mélangez bien.</p>
+</li>
+<li>
+<p>Préchauffez un gril en fonte à feu vif et saisissez les supions (procédez en quatre fois) pendant 2 à 3 min, en les retournant une fois, jusqu'à ce qu'ils soient à point. Quand ils sont cuits, mettez-les dans le bol contenant la pâte d'épices et mélangez. Laissez infuser pendant que vous poursuivez la cuisson des supions.</p>
+</li>
+<li>
+<p>Réchauffez le tarator, puis répartissez-le dans des assiettes creuses. Garnissez de supions sautés et de salsa de citron vert.</p>
+</li>
+</ol>
+    </article>
+</body>
+</html>

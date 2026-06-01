@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Toasts aux haricots verts braisés</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="manifest" href="../manifest.json">
+    <meta name="theme-color" content="#1b3a5c">
+    <style>
+        body { background: #f0f4f8; }
+        header { background: #1b3a5c; }
+        .bouton-retour { color: rgba(232,240,248,.85) !important; }
+        .bouton-retour:hover { color: #fff !important; }
+    </style>
+
+<style>
+  html.verrouille body > *:not(#porte) { display: none !important; }
+  #porte { display: none; }
+  html.verrouille #porte {
+    display: flex; position: fixed; inset: 0; z-index: 99999;
+    align-items: center; justify-content: center; background: #faf8f5;
+    font-family: -apple-system, system-ui, sans-serif;
+  }
+  #porte .boite { width: 100%; max-width: 300px; padding: 24px; text-align: center; }
+  #porte h2 { margin: 0 0 16px; font-size: 18px; color: #5a3a1a; font-weight: 600; }
+  #porte input { width: 100%; padding: 12px; font-size: 16px; box-sizing: border-box;
+    border: 1px solid #d8cfc4; border-radius: 8px; background: #fff; margin-bottom: 10px; }
+  #porte button { width: 100%; padding: 12px; font-size: 15px; border: none;
+    border-radius: 8px; background: #1b3a5c; color: #fff; cursor: pointer; }
+  #porte .err { color: #c0392b; font-size: 13px; height: 16px; margin-bottom: 8px; }
+</style>
+<script>
+(function () {
+  var HASH = "0721ba9a209534aa3dba860230dc45ed3099223621973dd6f941df4386ab862c";
+  var CLE = "recettes_acces";
+  if (localStorage.getItem(CLE) === HASH) return;        // déjà entré : on laisse passer
+  document.documentElement.classList.add("verrouille");  // sinon on masque tout de suite
+
+  async function sha256(txt) {
+    var buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(txt));
+    return Array.from(new Uint8Array(buf))
+      .map(function (b) { return b.toString(16).padStart(2, "0"); }).join("");
+  }
+
+  function poser() {
+    var d = document.createElement("div");
+    d.id = "porte";
+    d.innerHTML =
+      '<div class="boite">' +
+      '<h2>\uD83D\uDD12 Mes recettes</h2>' +
+      '<div class="err" id="porte-err"></div>' +
+      '<input type="password" id="porte-mdp" placeholder="Mot de passe" autocomplete="current-password">' +
+      '<button id="porte-ok">Entrer</button></div>';
+    document.body.appendChild(d);
+    var inp = document.getElementById("porte-mdp");
+    var err = document.getElementById("porte-err");
+    inp.focus();
+    async function verifier() {
+      var h = await sha256(inp.value);
+      if (h === HASH) {
+        localStorage.setItem(CLE, HASH);
+        document.documentElement.classList.remove("verrouille");
+        d.remove();
+      } else {
+        err.textContent = "Mot de passe incorrect";
+        inp.value = ""; inp.focus();
+      }
+    }
+    document.getElementById("porte-ok").addEventListener("click", verifier);
+    inp.addEventListener("keydown", function (e) { if (e.key === "Enter") verifier(); });
+  }
+  if (document.body) poser();
+  else document.addEventListener("DOMContentLoaded", poser);
+})();
+</script>
+</head>
+<body>
+    <header class="header-recette">
+        <a href="../index.html" class="bouton-retour">← Retour</a>
+    </header>
+    <article class="recette">
+        <h1>Toasts aux haricots verts braisés</h1>
+<h2>Ingrédients</h2>
+<p><em>Pour 4 personnes</em></p>
+<ul>
+<li>10 cl d'huile d'olive</li>
+<li>2 petites échalotes bananes, émincées (75 g)</li>
+<li>4 gousses d'ail, finement tranchées</li>
+<li>300 g de haricots verts, équeutés</li>
+<li>300 g de haricots d'Espagne, équeutés et coupés en tranches biseautées de 2 cm</li>
+<li>100 g de tomates cerises, coupées en deux</li>
+<li>1 ½ c. à c. d'origan séché</li>
+<li>½ c. à c. de flocons de piment chipotle</li>
+<li>1 ½ c. à s. de jus de citron</li>
+<li>1 ½ c. à s. d'origan frais, grossièrement haché + quelques feuilles pour décorer</li>
+<li>10 g de feuilles de basilic, grossièrement déchiquetées + quelques feuilles pour décorer</li>
+<li>100 g de feta, grossièrement émiettée</li>
+<li>100 g de mascarpone</li>
+<li>4 tranches épaisses de pain au levain, grillées (200-225 g)</li>
+<li>Sel et poivre noir</li>
+</ul>
+<h2>Commentaire</h2>
+<p>Cette façon d'accommoder les haricots verts, en les laissant confire assez longtemps dans l'huile d'olive, les rend très fondants et sucrés. Le mariage avec la feta et le mascarpone sur un toast grillé donne un résultat très réconfortant.</p>
+<h2>Déroulé de la recette</h2>
+<p>Versez l'huile dans une grande sauteuse et faites-la chauffer à feu moyen. Ajoutez les échalotes, l'ail, les haricots, les tomates, l'origan séché, les flocons de piment, 1 cuillerée à soupe de jus de citron, ¾ de cuillerée à café de sel et du poivre. Couvrez et laissez cuire 35-40 min, en remuant de temps en temps. Retirez du feu pour incorporer l'origan frais, le basilic et le reste du jus de citron. Réservez jusqu'au moment de servir.</p>
+<p>Mélangez la feta et le mascarpone dans un bol, écrasez-les à la fourchette : la texture doit rester irrégulière.</p>
+<p>Répartissez le mélange feta-mascarpone sur les tranches de pain grillé. Disposez les haricots dessus avec leur jus de cuisson. Parsemez de feuilles d'origan et de basilic avant de servir.</p>
+    </article>
+</body>
+</html>

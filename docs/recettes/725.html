@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tagliatelles au safran et au beurre épicé</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="manifest" href="../manifest.json">
+    <meta name="theme-color" content="#1b3a5c">
+    <style>
+        body { background: #f0f4f8; }
+        header { background: #1b3a5c; }
+        .bouton-retour { color: rgba(232,240,248,.85) !important; }
+        .bouton-retour:hover { color: #fff !important; }
+    </style>
+
+<style>
+  html.verrouille body > *:not(#porte) { display: none !important; }
+  #porte { display: none; }
+  html.verrouille #porte {
+    display: flex; position: fixed; inset: 0; z-index: 99999;
+    align-items: center; justify-content: center; background: #faf8f5;
+    font-family: -apple-system, system-ui, sans-serif;
+  }
+  #porte .boite { width: 100%; max-width: 300px; padding: 24px; text-align: center; }
+  #porte h2 { margin: 0 0 16px; font-size: 18px; color: #5a3a1a; font-weight: 600; }
+  #porte input { width: 100%; padding: 12px; font-size: 16px; box-sizing: border-box;
+    border: 1px solid #d8cfc4; border-radius: 8px; background: #fff; margin-bottom: 10px; }
+  #porte button { width: 100%; padding: 12px; font-size: 15px; border: none;
+    border-radius: 8px; background: #1b3a5c; color: #fff; cursor: pointer; }
+  #porte .err { color: #c0392b; font-size: 13px; height: 16px; margin-bottom: 8px; }
+</style>
+<script>
+(function () {
+  var HASH = "0721ba9a209534aa3dba860230dc45ed3099223621973dd6f941df4386ab862c";
+  var CLE = "recettes_acces";
+  if (localStorage.getItem(CLE) === HASH) return;        // déjà entré : on laisse passer
+  document.documentElement.classList.add("verrouille");  // sinon on masque tout de suite
+
+  async function sha256(txt) {
+    var buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(txt));
+    return Array.from(new Uint8Array(buf))
+      .map(function (b) { return b.toString(16).padStart(2, "0"); }).join("");
+  }
+
+  function poser() {
+    var d = document.createElement("div");
+    d.id = "porte";
+    d.innerHTML =
+      '<div class="boite">' +
+      '<h2>\uD83D\uDD12 Mes recettes</h2>' +
+      '<div class="err" id="porte-err"></div>' +
+      '<input type="password" id="porte-mdp" placeholder="Mot de passe" autocomplete="current-password">' +
+      '<button id="porte-ok">Entrer</button></div>';
+    document.body.appendChild(d);
+    var inp = document.getElementById("porte-mdp");
+    var err = document.getElementById("porte-err");
+    inp.focus();
+    async function verifier() {
+      var h = await sha256(inp.value);
+      if (h === HASH) {
+        localStorage.setItem(CLE, HASH);
+        document.documentElement.classList.remove("verrouille");
+        d.remove();
+      } else {
+        err.textContent = "Mot de passe incorrect";
+        inp.value = ""; inp.focus();
+      }
+    }
+    document.getElementById("porte-ok").addEventListener("click", verifier);
+    inp.addEventListener("keydown", function (e) { if (e.key === "Enter") verifier(); });
+  }
+  if (document.body) poser();
+  else document.addEventListener("DOMContentLoaded", poser);
+})();
+</script>
+</head>
+<body>
+    <header class="header-recette">
+        <a href="../index.html" class="bouton-retour">← Retour</a>
+    </header>
+    <article class="recette">
+        <h1>Tagliatelles au safran et au beurre épicé</h1>
+<p><em>Pâtes, couscous et polenta — Pour 4 personnes</em></p>
+<p>Le mariage des pâtes et d'un beurre aux arômes du Maroc peut sembler paradoxal, mais le résultat est délicieux. Je suis sûr que vous y reviendrez quand vous l'aurez goûté une fois. Au lieu de faire vous-même les pâtes, vous pouvez les acheter toutes prêtes et les faire cuire dans une eau généreusement parfumée au safran.</p>
+<h2>Ingrédients</h2>
+<ul>
+<li>2 cuil. à café de stigmates de safran</li>
+<li>4 œufs fermiers moyens</li>
+<li>440 g de farine de type 55 (+ un peu pour fariner la pâte et le plan de travail)</li>
+<li>1 cuil. à café de curcuma moulu</li>
+<li>80 g de pignons de pin grillés et grossièrement hachés</li>
+<li>4 cuil. à soupe de menthe ciselée grossièrement</li>
+<li>4 cuil. à soupe de persil ciselé grossièrement</li>
+<li>Huile d'olive</li>
+</ul>
+<p><strong>Beurre épicé</strong></p>
+<ul>
+<li>200 g de beurre</li>
+<li>4 cuil. à soupe d'huile d'olive</li>
+<li>8 échalotes finement hachées</li>
+<li>1 cuil. à café de gingembre moulu</li>
+<li>1 cuil. à café de paprika doux</li>
+<li>1 cuil. à café de coriandre moulue</li>
+<li>1 cuil. à café de cannelle moulue</li>
+<li>1 cuil. à café de poivre de Cayenne</li>
+<li>½ cuil. à café de flocons de piment</li>
+<li>½ cuil. à café de curcuma moulu</li>
+<li>1 cuil. à café de sel</li>
+<li>Huile d'olive</li>
+<li>Poivre noir</li>
+</ul>
+<h2>Déroulé</h2>
+<p>Mettez le safran dans un bol avec 4 cuil. à soupe d'eau bouillante et laissez infuser pendant au moins 10 min. Ajoutez les œufs et 4 cuil. à soupe d'huile d'olive, puis fouettez énergiquement.</p>
+<p>Mettez la farine et le curcuma dans le bol d'un robot ménager, puis versez le mélange au safran. Mélangez jusqu'à obtenir une pâte friable. Vous devrez peut-être ajouter un peu d'huile ou de farine pour lui donner la consistance voulue : ni trop collante ni trop sèche.</p>
+<p>Farinez le plan de travail et pétrissez-y la pâte pour former une boule. Ensuite, travaillez-la pendant quelques minutes à la main en la farinant au besoin, pour obtenir une consistance soyeuse. Enveloppez la pâte avec du film alimentaire et réfrigérez-la pendant au moins 30 min (et jusqu'à 1 jour).</p>
+<p>Divisez la pâte en 2 pâtons. Couvrez-en 1. Avec un rouleau à pâtisserie, abaissez l'autre en un rectangle mince. Réglez votre machine à pâtes au plus large et glissez la feuille de pâte dedans. Recommencez plusieurs fois, en réduisant chaque fois d'un cran l'écartement des rouleaux pour obtenir une pâte bien fine.</p>
+<p>Repliez la feuille de pâte deux fois dans sa longueur en la saupoudrant de farine à chaque fois. Avec un grand couteau, découpez de longues bandes de 2 cm de largeur. Suspendez-les sur le dossier d'une chaise et laissez-les sécher pendant 10 min. Répétez l'opération avec le reste de la pâte.</p>
+<p>Préparez maintenant le beurre épicé. Laissez fondre le beurre dans une poêle avec 4 cuil. à soupe d'huile d'olive et faites revenir les échalotes sur feu doux pendant 10 min : elles doivent devenir fondantes tandis que le beurre va légèrement dorer. Ajoutez les épices, puis salez et poivrez. Retirez du feu et réservez au chaud.</p>
+<p>Faites cuire les tagliatelles de 2 à 3 min dans un grand volume d'eau bouillante salée. Quand elles sont al dente, égouttez-les et remettez-les aussitôt dans la casserole. Versez le beurre épicé sur les pâtes et mélangez bien. Répartissez les pâtes sur des assiettes de service, parsemez de pignons de pin et d'herbes ciselées, puis servez aussitôt.</p>
+<h2>Notes personnelles</h2>
+<p>Testé et sélectionné.</p>
+    </article>
+</body>
+</html>

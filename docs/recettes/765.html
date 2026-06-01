@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Turbots frits, mayonnaise aux huîtres et salsa de concombres</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="manifest" href="../manifest.json">
+    <meta name="theme-color" content="#1b3a5c">
+    <style>
+        body { background: #f0f4f8; }
+        header { background: #1b3a5c; }
+        .bouton-retour { color: rgba(232,240,248,.85) !important; }
+        .bouton-retour:hover { color: #fff !important; }
+    </style>
+
+<style>
+  html.verrouille body > *:not(#porte) { display: none !important; }
+  #porte { display: none; }
+  html.verrouille #porte {
+    display: flex; position: fixed; inset: 0; z-index: 99999;
+    align-items: center; justify-content: center; background: #faf8f5;
+    font-family: -apple-system, system-ui, sans-serif;
+  }
+  #porte .boite { width: 100%; max-width: 300px; padding: 24px; text-align: center; }
+  #porte h2 { margin: 0 0 16px; font-size: 18px; color: #5a3a1a; font-weight: 600; }
+  #porte input { width: 100%; padding: 12px; font-size: 16px; box-sizing: border-box;
+    border: 1px solid #d8cfc4; border-radius: 8px; background: #fff; margin-bottom: 10px; }
+  #porte button { width: 100%; padding: 12px; font-size: 15px; border: none;
+    border-radius: 8px; background: #1b3a5c; color: #fff; cursor: pointer; }
+  #porte .err { color: #c0392b; font-size: 13px; height: 16px; margin-bottom: 8px; }
+</style>
+<script>
+(function () {
+  var HASH = "0721ba9a209534aa3dba860230dc45ed3099223621973dd6f941df4386ab862c";
+  var CLE = "recettes_acces";
+  if (localStorage.getItem(CLE) === HASH) return;        // déjà entré : on laisse passer
+  document.documentElement.classList.add("verrouille");  // sinon on masque tout de suite
+
+  async function sha256(txt) {
+    var buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(txt));
+    return Array.from(new Uint8Array(buf))
+      .map(function (b) { return b.toString(16).padStart(2, "0"); }).join("");
+  }
+
+  function poser() {
+    var d = document.createElement("div");
+    d.id = "porte";
+    d.innerHTML =
+      '<div class="boite">' +
+      '<h2>\uD83D\uDD12 Mes recettes</h2>' +
+      '<div class="err" id="porte-err"></div>' +
+      '<input type="password" id="porte-mdp" placeholder="Mot de passe" autocomplete="current-password">' +
+      '<button id="porte-ok">Entrer</button></div>';
+    document.body.appendChild(d);
+    var inp = document.getElementById("porte-mdp");
+    var err = document.getElementById("porte-err");
+    inp.focus();
+    async function verifier() {
+      var h = await sha256(inp.value);
+      if (h === HASH) {
+        localStorage.setItem(CLE, HASH);
+        document.documentElement.classList.remove("verrouille");
+        d.remove();
+      } else {
+        err.textContent = "Mot de passe incorrect";
+        inp.value = ""; inp.focus();
+      }
+    }
+    document.getElementById("porte-ok").addEventListener("click", verifier);
+    inp.addEventListener("keydown", function (e) { if (e.key === "Enter") verifier(); });
+  }
+  if (document.body) poser();
+  else document.addEventListener("DOMContentLoaded", poser);
+})();
+</script>
+</head>
+<body>
+    <header class="header-recette">
+        <a href="../index.html" class="bouton-retour">← Retour</a>
+    </header>
+    <article class="recette">
+        <h1>Turbots frits, mayonnaise aux huîtres et salsa de concombres</h1>
+<h2>Ingrédients</h2>
+<p><em>Pour 6 personnes</em></p>
+<ul>
+<li>2 cuil. à soupe d'huile d'olive + un peu pour servir</li>
+<li>6 petits turbots en filets, avec la peau (800 g)</li>
+<li>10 g de beurre doux</li>
+<li>2 cuil. à café de jus de citron</li>
+<li>Sel de mer et poivre noir</li>
+</ul>
+<p><strong>Mayonnaise aux huîtres</strong></p>
+<ul>
+<li>1 jaune d'œuf</li>
+<li>1 cuil. à soupe de moutarde forte</li>
+<li>1 cuil. à soupe de vinaigre de vin blanc</li>
+<li>1 pincée de poivre de Cayenne</li>
+<li>15 cl d'huile de tournesol</li>
+<li>3 grosses huîtres, ouvertes (conservez 1 cuil. à café de leur eau)</li>
+</ul>
+<p><strong>Salsa de concombre</strong></p>
+<ul>
+<li>1 cuil. à café de sucre en poudre</li>
+<li>2 cuil. à soupe de vinaigre de riz</li>
+<li>1 cuil. à café d'huile d'olive</li>
+<li>2 petits concombres, épluchés, épépinés et coupés en petits dés (150 g)</li>
+<li>20 radis blanc et rouge (ou 12 radis rouges ronds), en petits dés (100 g)</li>
+<li>½ oignon rouge moyen, en petits dés (80 g)</li>
+<li>10 g de ciboulette, ciselée</li>
+</ul>
+<h2>Commentaire</h2>
+<p>Préparez à l'avance la mayonnaise et la salsa. Juste avant de passer à table, il vous faudra seulement quelques minutes pour finaliser le plat. En France, les radis se mangent traditionnellement avec du beurre et du sel — ne jetez pas les feuilles, leur goût poivré boostera vos préparations. On peut partir d'une bonne mayonnaise du commerce complétée avec de la moutarde, du poivre de Cayenne, les huîtres et leur eau.</p>
+<h2>Déroulé de la recette</h2>
+<ol>
+<li>
+<p>Commencez par la mayonnaise. Mettez le jaune d'œuf, la moutarde, le vinaigre, le poivre de Cayenne et ¼ de cuil. à café de sel dans le bol d'un robot. Faites tourner le moteur et incorporez progressivement l'huile, puis les huîtres, l'eau des huîtres et 1 cuil. à soupe d'eau. Continuez de mélanger pour obtenir une consistance épaisse. Réservez au réfrigérateur.</p>
+</li>
+<li>
+<p>Mélangez dans un bol le sucre et le vinaigre de la salsa, fouettez pour faire dissoudre le sucre, puis ajoutez le reste des ingrédients de la salsa et ½ cuil. à café de sel. Mélangez et réservez au réfrigérateur. Sortez-la un peu avant de servir.</p>
+</li>
+<li>
+<p>Faites chauffer l'huile d'olive dans une grande poêle. Salez et poivrez les filets, puis déposez 3 filets dans la poêle, côté peau vers le haut. Faites-les frire 3 min, pour qu'ils se colorent, puis retournez-les. Ajoutez aussitôt la moitié du beurre, que vous laissez mousser avant d'en arroser les filets. Quand ces derniers sont cuits, sortez-les de la poêle, arrosez-les de jus de citron et réservez-les au chaud pendant que vous faites cuire les autres filets de la même manière.</p>
+</li>
+<li>
+<p>Étalez un peu de mayonnaise dans les assiettes de service, posez un filet dessus et garnissez de salsa. Arrosez d'un trait d'huile et servez.</p>
+</li>
+</ol>
+    </article>
+</body>
+</html>

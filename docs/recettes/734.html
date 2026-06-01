@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tarte aux feuilles de vigne, aux herbes et au yaourt</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="manifest" href="../manifest.json">
+    <meta name="theme-color" content="#1b3a5c">
+    <style>
+        body { background: #f0f4f8; }
+        header { background: #1b3a5c; }
+        .bouton-retour { color: rgba(232,240,248,.85) !important; }
+        .bouton-retour:hover { color: #fff !important; }
+    </style>
+
+<style>
+  html.verrouille body > *:not(#porte) { display: none !important; }
+  #porte { display: none; }
+  html.verrouille #porte {
+    display: flex; position: fixed; inset: 0; z-index: 99999;
+    align-items: center; justify-content: center; background: #faf8f5;
+    font-family: -apple-system, system-ui, sans-serif;
+  }
+  #porte .boite { width: 100%; max-width: 300px; padding: 24px; text-align: center; }
+  #porte h2 { margin: 0 0 16px; font-size: 18px; color: #5a3a1a; font-weight: 600; }
+  #porte input { width: 100%; padding: 12px; font-size: 16px; box-sizing: border-box;
+    border: 1px solid #d8cfc4; border-radius: 8px; background: #fff; margin-bottom: 10px; }
+  #porte button { width: 100%; padding: 12px; font-size: 15px; border: none;
+    border-radius: 8px; background: #1b3a5c; color: #fff; cursor: pointer; }
+  #porte .err { color: #c0392b; font-size: 13px; height: 16px; margin-bottom: 8px; }
+</style>
+<script>
+(function () {
+  var HASH = "0721ba9a209534aa3dba860230dc45ed3099223621973dd6f941df4386ab862c";
+  var CLE = "recettes_acces";
+  if (localStorage.getItem(CLE) === HASH) return;        // déjà entré : on laisse passer
+  document.documentElement.classList.add("verrouille");  // sinon on masque tout de suite
+
+  async function sha256(txt) {
+    var buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(txt));
+    return Array.from(new Uint8Array(buf))
+      .map(function (b) { return b.toString(16).padStart(2, "0"); }).join("");
+  }
+
+  function poser() {
+    var d = document.createElement("div");
+    d.id = "porte";
+    d.innerHTML =
+      '<div class="boite">' +
+      '<h2>\uD83D\uDD12 Mes recettes</h2>' +
+      '<div class="err" id="porte-err"></div>' +
+      '<input type="password" id="porte-mdp" placeholder="Mot de passe" autocomplete="current-password">' +
+      '<button id="porte-ok">Entrer</button></div>';
+    document.body.appendChild(d);
+    var inp = document.getElementById("porte-mdp");
+    var err = document.getElementById("porte-err");
+    inp.focus();
+    async function verifier() {
+      var h = await sha256(inp.value);
+      if (h === HASH) {
+        localStorage.setItem(CLE, HASH);
+        document.documentElement.classList.remove("verrouille");
+        d.remove();
+      } else {
+        err.textContent = "Mot de passe incorrect";
+        inp.value = ""; inp.focus();
+      }
+    }
+    document.getElementById("porte-ok").addEventListener("click", verifier);
+    inp.addEventListener("keydown", function (e) { if (e.key === "Enter") verifier(); });
+  }
+  if (document.body) poser();
+  else document.addEventListener("DOMContentLoaded", poser);
+})();
+</script>
+</head>
+<body>
+    <header class="header-recette">
+        <a href="../index.html" class="bouton-retour">← Retour</a>
+    </header>
+    <article class="recette">
+        <h1>Tarte aux feuilles de vigne, aux herbes et au yaourt</h1>
+<h2>Ingrédients</h2>
+<p><em>Pour 4 personnes</em></p>
+<ul>
+<li>20 à 25 feuilles de vigne (fraîches ou en conserve)</li>
+<li>4 échalotes finement hachées</li>
+<li>20 g de beurre doux fondu</li>
+<li>200 g de yaourt à la grecque (+ un supplément pour servir)</li>
+<li>25 g de pignons de pin légèrement grillés</li>
+<li>½ cuil. à soupe d'estragon haché</li>
+<li>2 cuil. à soupe de persil haché</li>
+<li>3 cuil. à soupe d'aneth haché</li>
+<li>4 cuil. à soupe de menthe hachée</li>
+<li>1 citron pour le zeste (râpé)</li>
+<li>1 cuil. à soupe de jus de citron</li>
+<li>70 g de farine de riz</li>
+<li>3 cuil. à soupe de chapelure (de préférence panko)</li>
+<li>Huile d'olive</li>
+<li>Sel et poivre noir</li>
+</ul>
+<h2>Commentaire</h2>
+<p>Recette originaire de la partie turque de Chypre, découverte dans le Classic Turkish Cookery de Ghillie Başan. Peut faire une entrée légère ou un en-cas rassasiant. Servir avec une aubergine grillée au tahini.</p>
+<h2>Déroulé de la recette</h2>
+<ol>
+<li>Préchauffer le four à 190 °C. Mettre les feuilles de vigne dans un plat peu profond, couvrir d'eau bouillante et laisser reposer 10 min. Les sortir délicatement, sécher avec un torchon. Couper avec des ciseaux le morceau de tige dur à la base de chaque feuille.</li>
+<li>Faire revenir les échalotes 8 min dans 1 cuil. à soupe d'huile jusqu'à ce qu'elles colorent. Laisser refroidir.</li>
+<li>Prendre un plat de cuisson rond et peu profond d'environ 20 cm de diamètre. Couvrir le fond et la paroi latérale avec une grande partie des feuilles de vigne en les faisant se chevaucher légèrement et déborder du plat. Mélanger le beurre fondu avec 2 cuil. à soupe d'huile d'olive ; utiliser les deux tiers pour graisser généreusement les feuilles.</li>
+<li>Dans un saladier, mélanger les échalotes, le yaourt, les pignons de pin, les herbes hachées, le zeste et le jus de citron. Saler et poivrer. Incorporer la farine de riz en mélangeant bien pour obtenir une pâte homogène. Étaler cette farce uniformément dans le plat.</li>
+<li>Rabattre les feuilles de vigne sur la farce, puis terminer avec les feuilles restantes. Badigeonner avec le reste du mélange beurre-huile. Saupoudrer de chapelure et arroser de 1 cuil. à soupe d'huile. Enfourner 40 min jusqu'à ce que les feuilles soient croquantes et la chapelure dorée. Laisser reposer au moins 10 min. Couper des parts et servir tiède ou à température ambiante avec du yaourt.</li>
+</ol>
+    </article>
+</body>
+</html>

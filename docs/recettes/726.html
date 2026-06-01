@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tagliatelles au safran, ricotta et échalotes frites au piment chipotle</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="manifest" href="../manifest.json">
+    <meta name="theme-color" content="#1b3a5c">
+    <style>
+        body { background: #f0f4f8; }
+        header { background: #1b3a5c; }
+        .bouton-retour { color: rgba(232,240,248,.85) !important; }
+        .bouton-retour:hover { color: #fff !important; }
+    </style>
+
+<style>
+  html.verrouille body > *:not(#porte) { display: none !important; }
+  #porte { display: none; }
+  html.verrouille #porte {
+    display: flex; position: fixed; inset: 0; z-index: 99999;
+    align-items: center; justify-content: center; background: #faf8f5;
+    font-family: -apple-system, system-ui, sans-serif;
+  }
+  #porte .boite { width: 100%; max-width: 300px; padding: 24px; text-align: center; }
+  #porte h2 { margin: 0 0 16px; font-size: 18px; color: #5a3a1a; font-weight: 600; }
+  #porte input { width: 100%; padding: 12px; font-size: 16px; box-sizing: border-box;
+    border: 1px solid #d8cfc4; border-radius: 8px; background: #fff; margin-bottom: 10px; }
+  #porte button { width: 100%; padding: 12px; font-size: 15px; border: none;
+    border-radius: 8px; background: #1b3a5c; color: #fff; cursor: pointer; }
+  #porte .err { color: #c0392b; font-size: 13px; height: 16px; margin-bottom: 8px; }
+</style>
+<script>
+(function () {
+  var HASH = "0721ba9a209534aa3dba860230dc45ed3099223621973dd6f941df4386ab862c";
+  var CLE = "recettes_acces";
+  if (localStorage.getItem(CLE) === HASH) return;        // déjà entré : on laisse passer
+  document.documentElement.classList.add("verrouille");  // sinon on masque tout de suite
+
+  async function sha256(txt) {
+    var buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(txt));
+    return Array.from(new Uint8Array(buf))
+      .map(function (b) { return b.toString(16).padStart(2, "0"); }).join("");
+  }
+
+  function poser() {
+    var d = document.createElement("div");
+    d.id = "porte";
+    d.innerHTML =
+      '<div class="boite">' +
+      '<h2>\uD83D\uDD12 Mes recettes</h2>' +
+      '<div class="err" id="porte-err"></div>' +
+      '<input type="password" id="porte-mdp" placeholder="Mot de passe" autocomplete="current-password">' +
+      '<button id="porte-ok">Entrer</button></div>';
+    document.body.appendChild(d);
+    var inp = document.getElementById("porte-mdp");
+    var err = document.getElementById("porte-err");
+    inp.focus();
+    async function verifier() {
+      var h = await sha256(inp.value);
+      if (h === HASH) {
+        localStorage.setItem(CLE, HASH);
+        document.documentElement.classList.remove("verrouille");
+        d.remove();
+      } else {
+        err.textContent = "Mot de passe incorrect";
+        inp.value = ""; inp.focus();
+      }
+    }
+    document.getElementById("porte-ok").addEventListener("click", verifier);
+    inp.addEventListener("keydown", function (e) { if (e.key === "Enter") verifier(); });
+  }
+  if (document.body) poser();
+  else document.addEventListener("DOMContentLoaded", poser);
+})();
+</script>
+</head>
+<body>
+    <header class="header-recette">
+        <a href="../index.html" class="bouton-retour">← Retour</a>
+    </header>
+    <article class="recette">
+        <h1>Tagliatelles au safran, ricotta et échalotes frites au piment chipotle</h1>
+<p><em>Pimenté — Pour 4 personnes (plat principal)</em></p>
+<p>Vous pouvez utiliser des pâtes fraîches ou sèches du commerce, ou faire des tagliatelles au safran (voir ci-contre). Quoi qu'il en soit, il y a tellement de saveurs dans cette recette — de la sauce au parmesan aux piments marinés et aux échalotes frites au piment chipotle — que vous êtes assurés de surprendre et de ravir ses heureux destinataires.</p>
+<p>Si vous confectionnez des pâtes fraîches, préparez-les au dernier moment — elles cuisent en 1 min environ. <em>(Illustration en double page suivante.)</em></p>
+<h2>Ingrédients</h2>
+<ul>
+<li>Sel et poivre noir</li>
+<li>4 cuil. à soupe d'huile d'olive + 2 cuil. à soupe pour servir</li>
+<li>2 gousses d'ail, écrasées</li>
+<li>400 g de tagliatelles (fraîches ou sèches — si vous n'utilisez pas de tagliatelles ou doubler la quantité pendant au moins 30 min dans une soupe d'eau bouillante dans 2½ cuil. stigmates de safran)</li>
+<li>¾ de cuil. à café de ricotta finement râpé</li>
+<li>45 g de parmesan, + ½ cuil. à soupe finement haché + ½ cuil. à soupe pour servir</li>
+<li>15 g de persil finement haché (maison)</li>
+</ul>
+<p><strong>Échalotes frites au chipotle</strong></p>
+<ul>
+<li>1 cuil. à soupe d'huile d'olive</li>
+<li>3-4 échalotes, coupées en fines tranches, à la mandoline si possible, la moitié des échalotes séparées (150 g)</li>
+<li>2 cuil. à soupe de sirop d'érable</li>
+<li>½ de cuil. à café de coriandre graines de</li>
+<li>½ de cuil. à café de graines de cumin</li>
+<li>½ cuil. à café de flocons de chipotle</li>
+<li>1 cuil. à café de flocons de chipotle</li>
+</ul>
+<p><strong>Piments verts marinés</strong></p>
+<ul>
+<li>2 gros piments verts, en fines rondelles (30 g)</li>
+<li>2 cuil. à soupe de vinaigre de riz</li>
+<li>½ cuil. à café de sucre en poudre</li>
+</ul>
+<h2>Déroulé</h2>
+<ol>
+<li>
+<p>Pour les échalotes frites, faites chauffer l'huile à feu vif dans une grande poêle antiadhésive. Ajoutez les échalotes, le sirop d'érable, les graines de coriandre et de cumin, les flocons de chipotle et ¼ de cuil. à café de sel. Laissez revenir pendant 7 min, en séparant les échalotes à la spatule pour les empêcher de coller entre elles, jusqu'à ce qu'elles soient bien croquantes. Réduisez à feu doux et prolongez la cuisson de 6 min, jusqu'à ce qu'elles soient caramélisées et d'un brun profond. Avec 2 fourchettes, transférez-les sur une assiette tapissée de papier sulfurisé en les étalant bien — elles sont un peu collantes, mais vont gagner en croquant en refroidissant. Réservez.</p>
+</li>
+<li>
+<p>Pour les piments marinés, placez les piments verts dans un bol avec le vinaigre, le sucre et ¼ de cuil. à café de sel. Réservez.</p>
+</li>
+<li>
+<p>Pour la sauce des pâtes, mettez 5 cl d'huile, l'ail et ¼ de cuil. à café de sel dans une grande sauteuse à feu moyen-vif. Laissez frémir doucement pendant 2 min. Réservez.</p>
+</li>
+<li>
+<p>Faites bouillir un grand volume d'eau salée (la casserole doit être très large pour que les pâtes ne collent pas). Si vous avez préparé des tagliatelles fraîches au safran, faites-les cuire 1 min en remuant avec une fourchette pour les séparer. Sinon, respectez les quantités du fabricant pour obtenir des pâtes al dente. Égouttez-les en réservant 14 cl d'eau de cuisson.</p>
+</li>
+<li>
+<p>Ajoutez les pâtes cuites dans la sauteuse qui contient la sauce à l'ail et faites chauffer à feu vif. Versez l'eau des pâtes, le safran et son eau de trempage, le persil, une généreuse quantité de poivre, puis mélangez. Incorporez en plusieurs fois le parmesan, en remuant les pâtes et en le laissant fondre avant d'en rajouter — comptez environ 2-3 min.</p>
+</li>
+<li>
+<p>Transférez les pâtes dans un plat creux et parsemez-les de cuillerées de ricotta. Garnissez avec les échalotes, les piments marinés et ½ cuil. à soupe de marinade et le reste du persil. Poivrez généreusement et servez sans attendre.</p>
+</li>
+</ol>
+<h2>Notes personnelles</h2>
+<p>Testé et sélectionné.</p>
+    </article>
+</body>
+</html>
