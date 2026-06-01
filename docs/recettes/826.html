@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tranches de potiron croustillantes et crème aigre</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="manifest" href="../manifest.json">
+    <meta name="theme-color" content="#1b3a5c">
+    <style>
+        body { background: #f0f4f8; }
+        header { background: #1b3a5c; }
+        .bouton-retour { color: rgba(232,240,248,.85) !important; }
+        .bouton-retour:hover { color: #fff !important; }
+    </style>
+
+<style>
+  html.verrouille body > *:not(#porte) { display: none !important; }
+  #porte { display: none; }
+  html.verrouille #porte {
+    display: flex; position: fixed; inset: 0; z-index: 99999;
+    align-items: center; justify-content: center; background: #faf8f5;
+    font-family: -apple-system, system-ui, sans-serif;
+  }
+  #porte .boite { width: 100%; max-width: 300px; padding: 24px; text-align: center; }
+  #porte h2 { margin: 0 0 16px; font-size: 18px; color: #5a3a1a; font-weight: 600; }
+  #porte input { width: 100%; padding: 12px; font-size: 16px; box-sizing: border-box;
+    border: 1px solid #d8cfc4; border-radius: 8px; background: #fff; margin-bottom: 10px; }
+  #porte button { width: 100%; padding: 12px; font-size: 15px; border: none;
+    border-radius: 8px; background: #1b3a5c; color: #fff; cursor: pointer; }
+  #porte .err { color: #c0392b; font-size: 13px; height: 16px; margin-bottom: 8px; }
+</style>
+<script>
+(function () {
+  var HASH = "0721ba9a209534aa3dba860230dc45ed3099223621973dd6f941df4386ab862c";
+  var CLE = "recettes_acces";
+  if (localStorage.getItem(CLE) === HASH) return;        // déjà entré : on laisse passer
+  document.documentElement.classList.add("verrouille");  // sinon on masque tout de suite
+
+  async function sha256(txt) {
+    var buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(txt));
+    return Array.from(new Uint8Array(buf))
+      .map(function (b) { return b.toString(16).padStart(2, "0"); }).join("");
+  }
+
+  function poser() {
+    var d = document.createElement("div");
+    d.id = "porte";
+    d.innerHTML =
+      '<div class="boite">' +
+      '<h2>\uD83D\uDD12 Mes recettes</h2>' +
+      '<div class="err" id="porte-err"></div>' +
+      '<input type="password" id="porte-mdp" placeholder="Mot de passe" autocomplete="current-password">' +
+      '<button id="porte-ok">Entrer</button></div>';
+    document.body.appendChild(d);
+    var inp = document.getElementById("porte-mdp");
+    var err = document.getElementById("porte-err");
+    inp.focus();
+    async function verifier() {
+      var h = await sha256(inp.value);
+      if (h === HASH) {
+        localStorage.setItem(CLE, HASH);
+        document.documentElement.classList.remove("verrouille");
+        d.remove();
+      } else {
+        err.textContent = "Mot de passe incorrect";
+        inp.value = ""; inp.focus();
+      }
+    }
+    document.getElementById("porte-ok").addEventListener("click", verifier);
+    inp.addEventListener("keydown", function (e) { if (e.key === "Enter") verifier(); });
+  }
+  if (document.body) poser();
+  else document.addEventListener("DOMContentLoaded", poser);
+})();
+</script>
+</head>
+<body>
+    <header class="header-recette">
+        <a href="../index.html" class="bouton-retour">← Retour</a>
+    </header>
+    <article class="recette">
+        <h1>Tranches de potiron croustillantes et crème aigre</h1>
+<p><em>Courgettes et autres courges — Pour 4 personnes</em></p>
+<p>La plupart des courges conviennent pour cette recette. Servez avec un gaspacho vert (page 180) pour un dîner complet. Ces tranches croustillantes pourront faire un joli plat végétarien pour un repas de fête, à Noël, par exemple, car la croûte qui les enveloppe rappelle un peu la farce traditionnelle.</p>
+<h2>Ingrédients</h2>
+<ul>
+<li>700 g de potiron (avec la peau)</li>
+<li>50 g de parmesan râpé</li>
+<li>20 g de chapelure sèche</li>
+<li>6 cuil. à soupe de persil finement haché</li>
+<li>2½ cuil. à café de thym finement haché</li>
+<li>2 gros citrons pour le zeste (râpé)</li>
+<li>2 gousses d'ail écrasées</li>
+<li>120 g de crème aigre</li>
+<li>1 cuil. à soupe d'aneth haché</li>
+<li>Huile d'olive</li>
+<li>Sel et poivre blanc</li>
+</ul>
+<h2>Déroulé</h2>
+<p>Préchauffez le four à 190 °C (th. 6-7). Découpez le potiron en tranches de 1 cm d'épaisseur, disposez-les à plat sur une plaque de cuisson recouverte de papier sulfurisé.</p>
+<p>Pour confectionner la croûte, mélangez, dans un bol, le parmesan, la chapelure, le persil, le thym, la moitié du zeste de citron et l'ail. Salez légèrement (attention, le parmesan est salé) et poivrez.</p>
+<p>Badigeonnez généreusement les tranches de potiron d'huile d'olive et saupoudrez-les de mélange croustillant, en vous assurant que ce dernier les recouvre sur quelques millimètres d'épaisseur. Tapotez doucement sur le mélange pour le faire adhérer à la chair du potiron.</p>
+<p>Enfournez et laissez cuire pendant environ 30 min, jusqu'à ce que le potiron soit tendre (vérifiez la cuisson avec la pointe d'un couteau). Si la croûte noircit, protégez-la avec une feuille de papier d'aluminium.</p>
+<p>Mélangez la crème aigre avec l'aneth, puis salez et poivrez. Servez les tranches de potiron chaudes, parsemées du zeste de citron restant. Proposez la crème aigre à part.</p>
+<h2>Notes personnelles</h2>
+<p>Testé et sélectionné.</p>
+    </article>
+</body>
+</html>

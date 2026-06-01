@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tacos aux croquettes de poisson et à la mangue</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="manifest" href="../manifest.json">
+    <meta name="theme-color" content="#1b3a5c">
+    <style>
+        body { background: #f0f4f8; }
+        header { background: #1b3a5c; }
+        .bouton-retour { color: rgba(232,240,248,.85) !important; }
+        .bouton-retour:hover { color: #fff !important; }
+    </style>
+
+<style>
+  html.verrouille body > *:not(#porte) { display: none !important; }
+  #porte { display: none; }
+  html.verrouille #porte {
+    display: flex; position: fixed; inset: 0; z-index: 99999;
+    align-items: center; justify-content: center; background: #faf8f5;
+    font-family: -apple-system, system-ui, sans-serif;
+  }
+  #porte .boite { width: 100%; max-width: 300px; padding: 24px; text-align: center; }
+  #porte h2 { margin: 0 0 16px; font-size: 18px; color: #5a3a1a; font-weight: 600; }
+  #porte input { width: 100%; padding: 12px; font-size: 16px; box-sizing: border-box;
+    border: 1px solid #d8cfc4; border-radius: 8px; background: #fff; margin-bottom: 10px; }
+  #porte button { width: 100%; padding: 12px; font-size: 15px; border: none;
+    border-radius: 8px; background: #1b3a5c; color: #fff; cursor: pointer; }
+  #porte .err { color: #c0392b; font-size: 13px; height: 16px; margin-bottom: 8px; }
+</style>
+<script>
+(function () {
+  var HASH = "0721ba9a209534aa3dba860230dc45ed3099223621973dd6f941df4386ab862c";
+  var CLE = "recettes_acces";
+  if (localStorage.getItem(CLE) === HASH) return;        // déjà entré : on laisse passer
+  document.documentElement.classList.add("verrouille");  // sinon on masque tout de suite
+
+  async function sha256(txt) {
+    var buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(txt));
+    return Array.from(new Uint8Array(buf))
+      .map(function (b) { return b.toString(16).padStart(2, "0"); }).join("");
+  }
+
+  function poser() {
+    var d = document.createElement("div");
+    d.id = "porte";
+    d.innerHTML =
+      '<div class="boite">' +
+      '<h2>\uD83D\uDD12 Mes recettes</h2>' +
+      '<div class="err" id="porte-err"></div>' +
+      '<input type="password" id="porte-mdp" placeholder="Mot de passe" autocomplete="current-password">' +
+      '<button id="porte-ok">Entrer</button></div>';
+    document.body.appendChild(d);
+    var inp = document.getElementById("porte-mdp");
+    var err = document.getElementById("porte-err");
+    inp.focus();
+    async function verifier() {
+      var h = await sha256(inp.value);
+      if (h === HASH) {
+        localStorage.setItem(CLE, HASH);
+        document.documentElement.classList.remove("verrouille");
+        d.remove();
+      } else {
+        err.textContent = "Mot de passe incorrect";
+        inp.value = ""; inp.focus();
+      }
+    }
+    document.getElementById("porte-ok").addEventListener("click", verifier);
+    inp.addEventListener("keydown", function (e) { if (e.key === "Enter") verifier(); });
+  }
+  if (document.body) poser();
+  else document.addEventListener("DOMContentLoaded", poser);
+})();
+</script>
+</head>
+<body>
+    <header class="header-recette">
+        <a href="../index.html" class="bouton-retour">← Retour</a>
+    </header>
+    <article class="recette">
+        <h1>Tacos aux croquettes de poisson et à la mangue</h1>
+<p><em>Pour 4 personnes (soit 12 tacos)</em></p>
+<h2>Noms ingrédients</h2>
+<p>ail. œufs. graines de cumin. citron vert. coriandre. yaourt grec. oignons rouges. mangue. piment rouge frais. sel</p>
+<h2>Déroulé de la recette</h2>
+<ol>
+<li>Dans le bol d'un robot, mixez brièvement la chair de poisson avec l'ail, l'œuf, 1 cuillère à café de graines de cumin, les trois quarts des zestes de citron vert et ¾ de cuillère à café de sel, jusqu'à obtenir une farce grossière. Transvasez dans un cul-de-poule, ajoutez la moitié de la coriandre et mélangez. Façonnez ensuite 12 boules de farce de 45 g chacune. Laissez les croquettes figer au moins 15 minutes (ou une nuit au maximum) au réfrigérateur.</li>
+<li>Dans une jatte, versez le yaourt, le reste de graines de cumin, les zestes de citron vert et 1 grosse pincée de sel. Mélangez et réservez.</li>
+<li>Dans un bol, mélangez l'émincé d'oignon, la julienne de mangue, de piment et réservez.</li>
+<li>Mettez l'huile à chauffer dans une grande poêle antiadhésive sur feu moyen-vif, et faites dorer les croquettes six par six jusqu'à ce qu'elles soient cuites à cœur, soit 2 à 3 minutes de chaque côté. Débarrassez sur une assiette recouverte de papier absorbant.</li>
+<li>Servez chaud, avec une croquette coupée en deux par tacos, 1 cuillère de yaourt et la garniture oignon-mangue. Parsemez du reste de coriandre, ajoutez un filet de jus de citron vert et… à table !</li>
+</ol>
+<h2>Ingrédients</h2>
+<ul>
+<li>450 g de filets de plie, sans peau ni arêtes, détaillés en morceaux de 2 à 3 cm</li>
+<li>1 gousse d'ail, écrasée au presse-ail</li>
+<li>1 œuf de gros calibre</li>
+<li>1,5 cuil. à café de graines de cumin, torréfiées puis pilées</li>
+<li>4 citrons verts : l'intégralité du zeste et des quartiers pour le dressage</li>
+<li>20 g de feuilles de coriandre, ciselées</li>
+<li>120 g de yaourt grec</li>
+<li>½ oignon rouge, émincé (40 g)</li>
+<li>⅓ de mangue, pelée et taillée en julienne (100 g)</li>
+<li>1 piment rouge, épépiné et taillé en julienne (10 g)</li>
+<li>3 cuil. à soupe d'huile végétale</li>
+<li>12 tortillas de blé ou de maïs de 15 cm de diamètre, réchauffées</li>
+<li>Sel</li>
+</ul>
+    </article>
+</body>
+</html>

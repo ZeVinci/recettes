@@ -5670,6 +5670,8 @@ Ottolenghi. Végé. Dessert
 ## Noms ingrédients
 
 citrons. fraises. menthe. yaourt grec
+---
+
 # Omelettes gratinées à la harissa et au manchego
 
 ## Catégorie
@@ -7090,6 +7092,8 @@ Voici l'un des plats que mon mari Karl cuisine souvent le dimanche à la maison.
 ## Noms ingrédients
 
 amandes. aneth. asperges. câpres
+---
+
 # Chou palmier Noir de Toscane au chorizo et au citron confit
 
 ## Catégorie
@@ -9297,21 +9301,25 @@ La réussite d'un bon tartare repose exclusivement sur la qualité et la fraîch
 
 ## Noms ingrédients
 échalotes. citrons. truite. pistaches
+---
+
 # Recettes — Poisson & Desserts
 
 ---
 
-
-### Filet de maquereau, sauce vierge pistache et cardamome
+# Filet de maquereau, sauce vierge pistache et cardamome
 *Pour 4 personnes en entrée, ou pour 2 en plat principal*
 
-**Classification**
+## Catégorie
+
 Ottolenghi. Simple. Non testé. Poisson
 
-**Noms ingrédients**
-maquereau, cardamome, gingembre, crème liquide, crème aigre, coriandre, basilic, pistaches, citron vert, piment vert, huile de tournesol, sel
+## Noms ingrédients
 
-**Ingrédients**
+maquereau. cardamome. gingembre. crème liquide. crème aigre. coriandre. basilic. pistaches. citron vert. piment vert. huile de tournesol. sel
+
+## Ingrédients
+
 - 8 capsules de cardamome (ou ½ cuil. à café de cardamome en poudre)
 - 4 filets de maquereau avec la peau, désarêtés (260 g)
 - 25 g de gingembre (env. 3 cm), pelé
@@ -9325,7 +9333,8 @@ maquereau, cardamome, gingembre, crème liquide, crème aigre, coriandre, basili
 - 50 ml d'huile de tournesol
 - Sel
 
-**Préparation**
+## Déroulé de la recette
+
 1. Avec le plat d'un couteau, écrasez les capsules de cardamome pour libérer les graines. Jetez les capsules, puis pilez les graines dans un mortier pour obtenir ½ cuillère à café de poudre. Si vous démarrez avec de la cardamome en poudre, passez directement à l'étape suivante.
 2. Mélangez une grosse pincée de cardamome (environ ¼ de ce que vous avez moulu) avec une pincée de sel et frottez le poisson avec ce mélange sur les deux faces. Réservez jusqu'au moment de passer à la poêle.
 3. Râpez finement le gingembre, puis foulez-le dans une passoire fine pour récupérer 1 cuillère à café de jus. Jetez la pulpe et réservez le jus.
@@ -9336,16 +9345,19 @@ maquereau, cardamome, gingembre, crème liquide, crème aigre, coriandre, basili
 
 ---
 
-### Le saumon grillé, sauce aux pignons de Bridget Jones
+# Le saumon grillé, sauce aux pignons de Bridget Jones
 *Pour 4 personnes (divisez les quantités par deux pour un rendez-vous amoureux)*
 
-**Classification**
+## Catégorie
+
 Ottolenghi. Simple. Non testé. Poisson
 
-**Noms ingrédients**
-saumon, huile d'olive, céleri en branches, pignons de pin, câpres, olives vertes, safran, persil, citron, raisins secs, sel, poivre noir
+## Noms ingrédients
 
-**Ingrédients**
+saumon. huile d'olive. céleri en branches. pignons de pin. câpres. olives vertes. safran. persil. citron. raisins secs. sel. poivre noir
+
+## Ingrédients
+
 - 100 g de raisins de Corinthe
 - 4 pavés de saumon avec la peau, désarêtés (500 g)
 - 100 ml d'huile d'olive
@@ -9358,7 +9370,8 @@ saumon, huile d'olive, céleri en branches, pignons de pin, câpres, olives vert
 - 1 citron : 1 cuil. à café de zeste et 1 cuil. à café de jus
 - Sel et poivre noir
 
-**Préparation**
+## Déroulé de la recette
+
 1. Réhydratez les raisins de Corinthe en les mouillant à hauteur avec de l'eau bouillante et laissez gonfler 20 minutes pendant que vous poursuivez la recette.
 2. Enrobez les pavés de saumon de 2 cuillères à café d'huile d'olive, ⅓ de cuillère à café de sel et quelques tours de moulin à poivre. Réservez le temps de préparer la sauce.
 3. Mettez 75 ml d'huile d'olive à chauffer dans une grande sauteuse à feu vif et faites revenir les dés de céleri et les pignons 4 à 5 minutes, en remuant régulièrement. Stoppez la cuisson dès que les pignons commencent à colorer. Hors du feu, incorporez les câpres et leur jus, les dés d'olives, le safran et son eau, et une pincée de sel. Égouttez les raisins, puis ajoutez-les également, ainsi que le persil, les zestes et le jus de citron. Réservez.
@@ -9367,16 +9380,19 @@ saumon, huile d'olive, céleri en branches, pignons de pin, câpres, olives vert
 
 ---
 
-### Truite rôtie, tomates, orange et baies d'épine-vinette
+# Truite rôtie, tomates, orange et baies d'épine-vinette
 *Pour 2 personnes*
 
-**Classification**
+## Catégorie
+
 Ottolenghi. Simple. Non testé. Poisson
 
-**Noms ingrédients**
-truites, tomates cerise, orange, citron vert, sirop d'érable, baies d'épine-vinette, graines de fenouil, huile d'olive, beurre, ail, coriandre, sel, poivre noir
+## Noms ingrédients
 
-**Ingrédients**
+truites. tomates cerise. orange. citron vert. sirop d'érable. baies d'épine-vinette. graines de fenouil. huile d'olive. beurre. ail. coriandre. sel. poivre noir
+
+## Ingrédients
+
 - 150 g de tomates cerise, coupées en quatre
 - 1 orange : 1 cuil. à café de zeste et 1 cuil. à soupe de jus
 - 2 citrons verts : 1 cuil. à soupe de jus et des quartiers pour le dressage
@@ -9390,7 +9406,8 @@ truites, tomates cerise, orange, citron vert, sirop d'érable, baies d'épine-vi
 - 10 g de feuilles de coriandre, ciselées
 - Sel et poivre noir
 
-**Préparation**
+## Déroulé de la recette
+
 1. Préchauffez le four à 230 °C (chaleur tournante).
 2. Pour la sauce, versez les tomates cerise dans un cul-de-poule avec les zestes et les jus d'orange et de citron vert, le sirop d'érable, les baies d'épine-vinette, les graines de fenouil, l'huile d'olive, 1 grosse pincée de sel et quelques tours de moulin à poivre. Mélangez et réservez.
 3. Dans une petite poêle, faites fondre gentiment le beurre avec l'ail sur feu moyen. Déposez les truites sur une plaque à four en les espaçant suffisamment pour qu'elles ne se touchent pas. Salez sur les deux faces, ainsi qu'à l'intérieur (¼ de cuillère à café de sel). Versez ensuite le beurre à l'ail sur les poissons, en prenant soin de bien le répartir. Enfournez jusqu'à ce que les truites soient juste cuites (18 à 20 min), en arrosant une fois à mi-cuisson.
@@ -9398,16 +9415,19 @@ truites, tomates cerise, orange, citron vert, sirop d'érable, baies d'épine-vi
 
 ---
 
-### Flétan à la tomate et au piment, sauce sésame
+# Flétan à la tomate et au piment, sauce sésame
 *Pour 4 personnes*
 
-**Classification**
+## Catégorie
+
 Ottolenghi. Simple. Non testé. Poisson
 
-**Noms ingrédients**
-flétan, huile d'olive, piment rouge frais, ail, graines de carvi, paprika fumé, tomates, concentré de tomates, coriandre, tahin, jus de citron, sel, sucre
+## Noms ingrédients
 
-**Ingrédients**
+flétan. huile d'olive. piment rouge frais. ail. graines de carvi. paprika fumé. tomates. concentré de tomates. coriandre. tahin. jus de citron. sel. sucre
+
+## Ingrédients
+
 - 800 g de flétan (ou autre poisson blanc à chair ferme) : soit 4 darnes, soit 4 filets, sans peau ni arêtes
 - 60 ml d'huile d'olive
 - 1 à 2 piments rouges, coupés en tronçons de 2 cm
@@ -9425,7 +9445,8 @@ flétan, huile d'olive, piment rouge frais, ail, graines de carvi, paprika fumé
 - 1 cuil. à soupe de jus de citron
 - 60 ml d'eau
 
-**Préparation**
+## Déroulé de la recette
+
 1. Assaisonnez le poisson avec ⅓ de cuillère à café de sel et réservez.
 2. Mettez l'huile à chauffer à feu moyen-vif dans une grande sauteuse avec couvercle. Faites revenir les piments 2 minutes. Ajoutez l'ail, les graines de carvi, le piment ancho et laissez cuire encore 1 minute. Ajoutez les tomates, le double concentré, le sucre et ½ cuillère à café de sel. Portez à ébullition, puis baissez le feu et laissez épaissir 15 minutes. Déposez le poisson dans la sauce et laissez mijoter 10 minutes à couvert.
 3. Pour la sauce sésame, mélangez le tahin avec le jus de citron, 60 ml d'eau et 1 grosse pincée de sel.
@@ -9434,16 +9455,19 @@ flétan, huile d'olive, piment rouge frais, ail, graines de carvi, paprika fumé
 
 ---
 
-### Bâtonnets de poisson à la noix de coco
+# Bâtonnets de poisson à la noix de coco
 *Pour 4 personnes*
 
-**Classification**
+## Catégorie
+
 Ottolenghi. Simple. Non testé. Poisson
 
-**Noms ingrédients**
-églefin, crème de coco, citron vert, noix de coco déshydratée, panko, flocons de piment, beurre, sel
+## Noms ingrédients
 
-**Ingrédients**
+églefin. crème de coco. citron vert. noix de coco déshydratée. panko. flocons de piment. beurre. sel
+
+## Ingrédients
+
 - 2 cuil. à soupe de jus de citron vert
 - 60 ml de crème de coco
 - 500 g d'églefin (ou autre poisson blanc à chair ferme), sans peau ni arêtes, détaillé en environ 12 bâtonnets de 3 × 10 cm
@@ -9454,7 +9478,8 @@ Ottolenghi. Simple. Non testé. Poisson
 - 1 citron vert, coupé en quatre, pour le dressage
 - Sel
 
-**Préparation**
+## Déroulé de la recette
+
 1. Dans un cul-de-poule, mélangez le jus de citron vert, la crème de coco et ¼ de cuillère à café de sel, puis plongez les bâtonnets de poisson dans cette marinade et réservez au réfrigérateur environ 1 heure. Retirez un maximum de crème en raclant les bâtonnets, puis réservez.
 2. Mettez une grande poêle à chauffer sur feu moyen-vif, puis faites blondir la noix de coco fraîche 6 à 7 minutes (ou 2 à 3 minutes pour de la noix de coco en sachet), en remuant. Versez dans un saladier peu profond et laissez tiédir. Ajoutez le panko, le piment en flocons, ½ cuillère à café de sel et mélangez.
 3. Réglez votre gril à température maximale.
@@ -9463,16 +9488,19 @@ Ottolenghi. Simple. Non testé. Poisson
 
 ---
 
-### Tacos aux croquettes de poisson et à la mangue
+# Tacos aux croquettes de poisson et à la mangue
 *Pour 4 personnes (soit 12 tacos)*
 
-**Classification**
+## Catégorie
+
 Ottolenghi. Simple. Non testé. Poisson
 
-**Noms ingrédients**
-ail, œufs, graines de cumin, citron vert, coriandre, yaourt grec, oignons rouges, mangue, piment rouge frais, sel
+## Noms ingrédients
 
-**Ingrédients**
+ail. œufs. graines de cumin. citron vert. coriandre. yaourt grec. oignons rouges. mangue. piment rouge frais. sel
+
+## Ingrédients
+
 - 450 g de filets de plie, sans peau ni arêtes, détaillés en morceaux de 2 à 3 cm
 - 1 gousse d'ail, écrasée au presse-ail
 - 1 œuf de gros calibre
@@ -9487,7 +9515,8 @@ ail, œufs, graines de cumin, citron vert, coriandre, yaourt grec, oignons rouge
 - 12 tortillas de blé ou de maïs de 15 cm de diamètre, réchauffées
 - Sel
 
-**Préparation**
+## Déroulé de la recette
+
 1. Dans le bol d'un robot, mixez brièvement la chair de poisson avec l'ail, l'œuf, 1 cuillère à café de graines de cumin, les trois quarts des zestes de citron vert et ¾ de cuillère à café de sel, jusqu'à obtenir une farce grossière. Transvasez dans un cul-de-poule, ajoutez la moitié de la coriandre et mélangez. Façonnez ensuite 12 boules de farce de 45 g chacune. Laissez les croquettes figer au moins 15 minutes (ou une nuit au maximum) au réfrigérateur.
 2. Dans une jatte, versez le yaourt, le reste de graines de cumin, les zestes de citron vert et 1 grosse pincée de sel. Mélangez et réservez.
 3. Dans un bol, mélangez l'émincé d'oignon, la julienne de mangue, de piment et réservez.
@@ -9496,16 +9525,19 @@ ail, œufs, graines de cumin, citron vert, coriandre, yaourt grec, oignons rouge
 
 ---
 
-### Croquettes de poisson fumé au panais
+# Croquettes de poisson fumé au panais
 *Pour 6 personnes (soit 12 croquettes)*
 
-**Classification**
+## Catégorie
+
 Ottolenghi. Simple. Non testé. Poisson
 
-**Noms ingrédients**
-haddock, panais, huile d'olive, aneth, ciboulette, ail, citron, œufs, beurre, sel, poivre noir
+## Noms ingrédients
 
-**Ingrédients**
+haddock. panais. huile d'olive. aneth. ciboulette. ail. citron. œufs. beurre. sel. poivre noir
+
+## Ingrédients
+
 - 8 panais, pelés et coupés en cubes de 4 cm (600 g)
 - 120 ml d'huile d'olive
 - 560 g de haddock (sans colorant), sans peau ni arêtes, détaillé en morceaux de 4 cm
@@ -9517,7 +9549,8 @@ haddock, panais, huile d'olive, aneth, ciboulette, ail, citron, œufs, beurre, s
 - 40 g de beurre doux
 - Sel et poivre noir
 
-**Préparation**
+## Déroulé de la recette
+
 1. Préchauffez le four à 190 °C (chaleur tournante).
 2. Dans un cul-de-poule, mélangez les cubes de panais avec 3 cuillères à soupe d'huile et ¼ de cuillère à café de sel, puis étalez-les sur une plaque tapissée de papier sulfurisé. Enfournez pour 30 minutes, jusqu'à ce qu'ils soient dorés à l'extérieur et tendres à l'intérieur. Versez dans le bol d'un robot et mixez jusqu'à obtenir une purée. Si besoin, ajoutez 1 à 2 cuillères à soupe d'eau. Débarrassez dans un saladier et réservez.
 3. Versez le haddock dans le bol du robot et mixez par à-coups pour le hacher grossièrement, puis débarrassez dans le saladier contenant le panais. Ajoutez l'aneth, la ciboulette, l'ail, le zeste de citron, les œufs, 1 cuillère à café de sel, une bonne dose de poivre et mélangez. Façonnez ensuite 12 croquettes d'environ 8 cm de diamètre sur 2 à 3 cm d'épaisseur. Couvrez de film alimentaire et réservez au frais (24 h max.).
@@ -9525,16 +9558,19 @@ haddock, panais, huile d'olive, aneth, ciboulette, ail, citron, œufs, beurre, s
 
 ---
 
-### Salade de légumes et de gambas grillés
+# Salade de légumes et de gambas grillés
 *Pour 4 personnes en entrée, ou pour 2 en plat principal*
 
-**Classification**
+## Catégorie
+
 Ottolenghi. Simple. Non testé. Poisson
 
-**Noms ingrédients**
-gambas, oignons rouges, tomates cerise, marjolaine, gingembre, sriracha, huile d'olive, citron vert, sel
+## Noms ingrédients
 
-**Ingrédients**
+gambas. oignons rouges. tomates cerise. marjolaine. gingembre. sriracha. huile d'olive. citron vert. sel
+
+## Ingrédients
+
 - 440 g de gambas, décortiquées (en laissant la queue) et châtrées (240 g)
 - 1 cuil. à café d'huile d'olive
 - 1 petit oignon rouge, coupé en quartiers de 1,5 cm de large (120 g)
@@ -9550,23 +9586,27 @@ gambas, oignons rouges, tomates cerise, marjolaine, gingembre, sriracha, huile d
 - 1 citron vert : 1 cuil. à café de zeste et 1,5 cuil. à soupe de jus
 - ¼ de cuil. à café de sucre semoule
 
-**Préparation**
+## Déroulé de la recette
+
 1. Dans un bol, mélangez tous les ingrédients prévus pour la vinaigrette, ajoutez 1 pincée de sel et réservez.
 2. Mettez une poêle gril à chauffer sur feu vif. Pendant que la poêle chauffe, enrobez les gambas d'huile d'olive, salez (1 pincée) et réservez. Saisissez les quartiers d'oignon 5 minutes dans la poêle en les retournant de temps en temps. Débarrassez dans un saladier, puis faites griller les grains de maïs 2 minutes dans la poêle.
 3. Répétez l'opération avec les tomates (3 minutes), en les retournant régulièrement pour qu'elles soient bien marquées. Débarrassez dans le saladier. Pour les crevettes, comptez 4 minutes de cuisson en les retournant une fois à mi-cuisson : elles doivent être bien grillées à l'extérieur, mais également cuites à cœur. Débarrassez dans le saladier de légumes, ajoutez la marjolaine, la vinaigrette et mélangez délicatement avant de servir.
 
 ---
 
-### Ragoût d'encornets au poivron rouge
+# Ragoût d'encornets au poivron rouge
 *Pour 2 personnes en plat principal, ou pour 4 à l'apéritif*
 
-**Classification**
+## Catégorie
+
 Ottolenghi. Simple. Non testé. Poisson
 
-**Noms ingrédients**
-encornets, huile d'olive, oignons, poivrons rouges, ail, graines de carvi, mélange quatre-épices, concentré de tomates, laurier, thym, orange, sel, poivre noir
+## Noms ingrédients
 
-**Ingrédients**
+encornets. huile d'olive. oignons. poivrons rouges. ail. graines de carvi. mélange quatre-épices. concentré de tomates. laurier. thym. orange. sel. poivre noir
+
+## Ingrédients
+
 - 70 ml d'huile d'olive
 - 1 oignon, coupé en rondelles de 1 à 1,5 cm d'épaisseur (160 g)
 - 1 gros poivron rouge, coupé en deux, évidé et épépiné, coupé en lanières de 1 cm de large (150 g)
@@ -9581,22 +9621,26 @@ encornets, huile d'olive, oignons, poivrons rouges, ail, graines de carvi, méla
 - 1 petite orange : ¼ de cuil. à café de zeste (facultatif)
 - Sel et poivre noir
 
-**Préparation**
+## Déroulé de la recette
+
 1. Mettez l'huile à chauffer dans une grande sauteuse (avec couvercle) à feu moyen-vif. Faites revenir l'oignon et le poivron rouge 5 minutes avec ⅓ de cuillère à café de sel en remuant de temps en temps. Ajoutez l'ail, les graines de carvi, le quatre-épices et quelques tours de moulin à poivre noir. Poursuivez la cuisson encore 5 minutes, jusqu'à ce que les légumes soient tendres.
 2. Ajoutez les tagliatelles d'encornet, laissez cuire 5 minutes, puis ajoutez le double concentré de tomate, les feuilles de laurier et le thym. Poursuivez la cuisson 2 à 3 minutes, puis arrosez de vin. Passez à feu doux et laissez mijoter environ 30 minutes à couvert, en remuant une ou deux fois, jusqu'à ce que l'encornet soit bien tendre. Si la sauce réduit un peu trop en fin de cuisson, ajoutez 1 ou 2 cuillères à soupe d'eau. Ajoutez les zestes d'orange juste avant de passer à table, mélangez et servez.
 
 ---
 
-### Bar rôti au soja et au gingembre
+# Bar rôti au soja et au gingembre
 *Pour 4 personnes*
 
-**Classification**
+## Catégorie
+
 Ottolenghi. Simple. Non testé. Poisson
 
-**Noms ingrédients**
-bar, chou blanc, cébettes, gingembre, piment rouge frais, huile d'arachide, coriandre, fleur de sel, bouillon de volaille, huile de sésame, vin shaoxing, sauce soja, sucre
+## Noms ingrédients
 
-**Ingrédients**
+bar. chou blanc. cébettes. gingembre. piment rouge frais. huile d'arachide. coriandre. fleur de sel. bouillon de volaille. huile de sésame. vin shaoxing. sauce soja. sucre
+
+## Ingrédients
+
 - 1 bar entier d'env. 45 cm de long, écaillé, vidé et rincé (1 kg)
 - 10 cébettes, parées (160 g)
 - 1 chou blanc, coupé en deux, effeuillé (750 g)
@@ -9613,7 +9657,8 @@ bar, chou blanc, cébettes, gingembre, piment rouge frais, huile d'arachide, cor
 - 3,5 cuil. à soupe de sauce soja claire
 - 1 cuil. à soupe de sucre semoule
 
-**Préparation**
+## Déroulé de la recette
+
 1. Préchauffez le four à 200 °C (chaleur tournante).
 2. Versez tous les ingrédients prévus pour la sauce dans une petite casserole. Portez à ébullition sur feu vif, puis laissez cuire 1 minute, en jouant du poignet pour aider le sucre à se dissoudre. Retirez du feu et réservez.
 3. Sur chaque face du bar, réalisez 5 incisions en diagonale d'environ 8 cm de long sur 0,5 cm de profondeur. Massez la première face avec 1 cuillère à café de fleur de sel, puis faites de même avec la seconde et saupoudrez également l'intérieur de ½ cuillère à café de sel. Émincez 2 cébettes et détaillez les 8 autres en tronçons de 5 cm. Réservez dans deux bols différents.
@@ -9622,16 +9667,19 @@ bar, chou blanc, cébettes, gingembre, piment rouge frais, huile d'arachide, cor
 
 ---
 
-### Pétales de cabillaud, pois chiches et harissa à la rose
+# Pétales de cabillaud, pois chiches et harissa à la rose
 *Pour 4 personnes en tapas ou en accompagnement*
 
-**Classification**
+## Catégorie
+
 Ottolenghi. Simple. Non testé. Poisson
 
-**Noms ingrédients**
-cabillaud, huile d'olive, cumin, ail, oignons, cardamome, harissa, concentré de tomates, citron, pois chiches, bouillon de légumes, coriandre, sel
+## Noms ingrédients
 
-**Ingrédients**
+cabillaud. huile d'olive. cumin. ail. oignons. cardamome. harissa. concentré de tomates. citron. pois chiches. bouillon de légumes. coriandre. sel
+
+## Ingrédients
+
 - 200 g de cabillaud, sans peau ni arêtes, détaillé en tronçons de 3 cm
 - 2,5 cuil. à soupe d'huile d'olive
 - ⅓ de cuil. à café de cumin en poudre
@@ -9646,23 +9694,27 @@ cabillaud, huile d'olive, cumin, ail, oignons, cardamome, harissa, concentré de
 - 5 g de coriandre, hachée
 - Sel
 
-**Préparation**
+## Déroulé de la recette
+
 1. Mélangez les morceaux de cabillaud avec 1,5 cuil. à café d'huile d'olive, le cumin, l'ail écrasé et 1 pincée de sel. Laissez mariner 15 minutes.
 2. Dans une grande sauteuse, mettez les 2 cuillères à soupe d'huile d'olive restantes à chauffer sur feu moyen et faites revenir l'oignon 4 à 5 minutes, jusqu'à ce qu'il soit tendre et bien coloré. Baissez le feu et ajoutez l'ail émincé. Poursuivez la cuisson 1 minute en remuant constamment, puis ajoutez la cardamome, la harissa, le double concentré de tomate, la peau de citron confit, les pois chiches et ¼ de cuillère à café de sel. Laissez cuire encore 1 minute, puis mouillez avec le bouillon. Laissez épaissir 3 à 4 minutes, en écrasant une partie des pois chiches avec le dos d'une cuillère pour apporter de la texture.
 3. Versez les morceaux de poisson dans la sauce et laissez cuire 3 à 4 minutes, en remuant doucement. Retournez le poisson à mi-cuisson et retirez du feu dès que la chair se détache en pétales. Retirez les capsules de cardamome, parsemez de coriandre et dressez dans des assiettes creuses.
 
 ---
 
-### Croquettes de crevettes au maïs
+# Croquettes de crevettes au maïs
 *Pour 6 personnes (soit 12 croquettes) en entrée, ou pour 12 personnes (soit 36 mini-croquettes) à l'apéritif*
 
-**Classification**
+## Catégorie
+
 Ottolenghi. Simple. Non testé. Poisson
 
-**Noms ingrédients**
-crevettes, graines de cumin, coriandre, paprika fumé, flocons de piment, œufs, citron vert, sel
+## Noms ingrédients
 
-**Ingrédients**
+crevettes. graines de cumin. coriandre. paprika fumé. flocons de piment. œufs. citron vert. sel
+
+## Ingrédients
+
 - 350 g de crevettes roses crues, décortiquées
 - 140 g de maïs en boîte, égoutté
 - ¼ de cuil. à café de cumin en poudre
@@ -9675,7 +9727,8 @@ crevettes, graines de cumin, coriandre, paprika fumé, flocons de piment, œufs,
 - 3 cuil. à soupe d'huile végétale
 - Sel
 
-**Préparation**
+## Déroulé de la recette
+
 1. Versez les crevettes et le maïs dans le bol d'un robot et mixez quelques secondes pour obtenir une farce grossière. Ajoutez les trois épices en poudre, le piment en flocons, la coriandre, l'œuf, les zestes de citron vert et ⅓ de cuillère à café de sel. Mixez quelques secondes supplémentaires jusqu'à ce que tous les ingrédients soient bien mélangés et que les morceaux de crevettes ne soient pas trop épais. Débarrassez dans un cul-de-poule et réservez.
 2. Mettez l'huile à chauffer à feu moyen-vif dans une poêle de taille moyenne. En vous aidant de deux cuillères à soupe, formez 6 croquettes en utilisant la moitié de la farce. Déposez les croquettes dans l'huile chaude et aplatissez-les légèrement de manière à ce qu'elles fassent environ 2 cm d'épaisseur. Laissez frire 2 minutes de chaque côté (1 minute pour les amuse-bouches), puis débarrassez sur une assiette tapissée de papier absorbant.
 3. Répétez l'opération avec le reste de la farce et servez chaud avec une pincée de sel et des quartiers de citron vert.
@@ -9686,16 +9739,19 @@ crevettes, graines de cumin, coriandre, paprika fumé, flocons de piment, œufs,
 
 ---
 
-### Verrines de fraises rôties au sumac et yaourt égoutté
+# Verrines de fraises rôties au sumac et yaourt égoutté
 *Pour 6 personnes*
 
-**Classification**
+## Catégorie
+
 Ottolenghi. Simple. Non testé. Dessert
 
-**Noms ingrédients**
-yaourt grec, sucre glace, crème liquide, citron, fraises, sumac, menthe, vanille, sel
+## Noms ingrédients
 
-**Ingrédients**
+yaourt grec. sucre glace. crème liquide. citron. fraises. sumac. menthe. vanille. sel
+
+## Ingrédients
+
 - 900 g de yaourt à la grecque
 - 140 g de sucre glace
 - 120 ml de crème entière liquide
@@ -9706,7 +9762,8 @@ yaourt grec, sucre glace, crème liquide, citron, fraises, sumac, menthe, vanill
 - 1 gousse de vanille, grattée
 - Sel
 
-**Préparation**
+## Déroulé de la recette
+
 1. Dans un cul-de-poule, mélangez le yaourt avec la moitié du sucre glace et ¼ de cuillère à café de sel. Au-dessus d'un saladier, tapissez une passoire d'une étamine et versez-y le yaourt. Refermez avec un morceau de ficelle de cuisine et laissez le yaourt s'égoutter 30 minutes au réfrigérateur en ayant pris soin de déposer votre saladier le plus lourd sur le dessus. Extrayez ensuite un maximum de liquide de manière à récupérer env. 550 g de yaourt égoutté. Retirez l'étamine et transvasez le yaourt dans un cul-de-poule. Incorporez la crème liquide, les zestes de citron et réservez au frais jusqu'au moment de dresser.
 2. Préchauffez le four à 200 °C (chaleur tournante).
 3. Dans une jatte, mélangez les fraises avec le sumac, les brins de menthe, la vanille (grains et gousse), le jus de citron, le restant de sucre glace et 80 ml d'eau. Étalez dans un plat à four de 30 × 20 cm et enfournez pour 20 minutes, en retournant les fruits à mi-cuisson. Laissez revenir à température ambiante, puis retirez les brins de menthe et la gousse de vanille. Versez le jus de cuisson dans un petit pichet, puis prélevez-en 3 cuillères à soupe, que vous incorporerez délicatement au yaourt pour réaliser des marbrures. Réservez 3 autres cuillères à soupe de jus pour le dressage et conservez le reste au réfrigérateur.
@@ -9714,16 +9771,19 @@ yaourt grec, sucre glace, crème liquide, citron, fraises, sumac, menthe, vanill
 
 ---
 
-### Financier mûre-prune au laurier
+# Financier mûre-prune au laurier
 *Pour 6 gourmands*
 
-**Classification**
+## Catégorie
+
 Ottolenghi. Simple. Non testé. Dessert
 
-**Noms ingrédients**
-mûres, prunes, extrait de vanille, sucre, laurier, cannelle, farine, sucre glace, poudre d'amande, blancs d'œufs, beurre, sel
+## Noms ingrédients
 
-**Ingrédients**
+mûres. prunes. extrait de vanille. sucre. laurier. cannelle. farine. sucre glace. poudre d'amande. blancs d'œufs. beurre. sel
+
+## Ingrédients
+
 - 200 g de mûres
 - 4 prunes mûres à point, dénoyautées, coupées en quartiers de 1 cm de large (360 g)
 - 1 cuil. à café d'extrait de vanille
@@ -9737,7 +9797,8 @@ mûres, prunes, extrait de vanille, sucre, laurier, cannelle, farine, sucre glac
 - 150 g de blancs d'œufs (soit 4 à 5 œufs de gros calibre)
 - 180 g de beurre doux, fondu puis ramené à température ambiante
 
-**Préparation**
+## Déroulé de la recette
+
 1. Dans une jatte, versez les mûres, les prunes, l'extrait de vanille, le sucre, les feuilles de laurier et ½ cuillère à café de cannelle. Laissez mariner 30 minutes au maximum.
 2. Préchauffez le four à 190 °C (chaleur tournante).
 3. Dans un saladier, mélangez la farine, le sucre glace, la poudre d'amande, la cannelle restante et le sel. Réservez.
@@ -9746,16 +9807,19 @@ mûres, prunes, extrait de vanille, sucre, laurier, cannelle, farine, sucre glac
 
 ---
 
-### Cake aux myrtilles, citron et amandes
+# Cake aux myrtilles, citron et amandes
 *Pour 8 personnes*
 
-**Classification**
+## Catégorie
+
 Ottolenghi. Simple. Non testé. Dessert
 
-**Noms ingrédients**
-beurre, sucre, citron, extrait de vanille, œufs, farine, poudre d'amande, myrtilles, sucre glace, sel
+## Noms ingrédients
 
-**Ingrédients**
+beurre. sucre. citron. extrait de vanille. œufs. farine. poudre d'amande. myrtilles. sucre glace. sel
+
+## Ingrédients
+
 - 150 g de beurre doux, à température ambiante, plus une noisette pour le moule
 - 190 g de sucre semoule
 - 2 citrons : 2 cuil. à café de zeste et 2 cuil. à soupe de jus
@@ -9767,7 +9831,8 @@ beurre, sucre, citron, extrait de vanille, œufs, farine, poudre d'amande, myrti
 - 200 g de myrtilles
 - 70 g de sucre glace
 
-**Préparation**
+## Déroulé de la recette
+
 1. Préchauffez le four à 180 °C (chaleur tournante). Beurrez et chemisez un moule à cake de 11 × 21 cm et réservez.
 2. Dans la cuve d'un robot pâtissier équipé d'une feuille, crémez le beurre 3 à 4 minutes à vitesse rapide avec le sucre, les zestes de citron, 1 cuillère à soupe de jus de citron et l'extrait de vanille. Passez à vitesse moyenne, puis ajoutez les œufs, petit à petit, en raclant régulièrement les bords de la cuve. Ajoutez la farine, le sel et la poudre d'amande en trois fois, puis stoppez le robot et incorporez 150 g de myrtilles à la spatule avant de verser la pâte dans le moule chemisé.
 3. Enfournez pour 15 minutes, puis parsemez les myrtilles restantes (50 g). Poursuivez la cuisson 15 minutes, jusqu'à ce que le cake soit doré à l'extérieur mais encore cru à l'intérieur. Recouvrez d'une feuille de papier d'aluminium et laissez cuire 25 à 30 minutes, jusqu'à ce que le gâteau soit bien gonflé. Vérifiez la cuisson en insérant une lame de couteau au centre : si elle ressort sèche, c'est qu'il est cuit ! Sortez du four et laissez tiédir 10 minutes avant de démouler sur une grille. Réservez ensuite jusqu'à complet refroidissement.
@@ -9775,16 +9840,19 @@ beurre, sucre, citron, extrait de vanille, œufs, farine, poudre d'amande, myrti
 
 ---
 
-### Clafoutis aux figues et au thym
+# Clafoutis aux figues et au thym
 *Pour 4 personnes*
 
-**Classification**
+## Catégorie
+
 Ottolenghi. Simple. Non testé. Dessert
 
-**Noms ingrédients**
-sucre muscovado, figues, thym, citron, œufs, farine, extrait de vanille, crème liquide, sel
+## Noms ingrédients
 
-**Ingrédients**
+sucre muscovado. figues. thym. citron. œufs. farine. extrait de vanille. crème liquide. sel
+
+## Ingrédients
+
 - 90 g de muscovado
 - 2 cuil. à soupe de vin rouge
 - 1 cuil. à soupe de thym
@@ -9797,7 +9865,8 @@ sucre muscovado, figues, thym, citron, œufs, farine, extrait de vanille, crème
 - 1 bonne pincée de sel
 - Crème glacée à la vanille ou crème fraîche
 
-**Préparation**
+## Déroulé de la recette
+
 1. Préchauffez le four à 170 °C (chaleur tournante).
 2. Dans une sauteuse de 18 cm de diamètre passant au four, faites fondre 50 g de muscovado 3 à 4 minutes à feu moyen-vif dans 1 cuillère à soupe d'eau. Quand de grosses bulles apparaissent, ajoutez le vin, le thym et laissez épaissir 1 minute en remuant continuellement. Ajoutez ensuite le jus de citron et les figues hors du feu et mélangez bien pour enrober les fruits. Laissez tiédir 20 minutes au minimum.
 3. Dans un saladier, fouettez les jaunes d'œufs avec le muscovado restant, la farine, l'extrait de vanille, la crème liquide, le zeste de citron et le sel pendant 2 à 3 minutes à la main, ou 1 minute au batteur électrique. Dans un cul-de-poule, battez les blancs d'œufs au bec d'oiseau, puis incorporez-les délicatement à la pâte.
@@ -9805,16 +9874,19 @@ sucre muscovado, figues, thym, citron, œufs, farine, extrait de vanille, crème
 
 ---
 
-### Cheesecake sans cuisson au miel et au yaourt
+# Cheesecake sans cuisson au miel et au yaourt
 *Pour 8 personnes*
 
-**Classification**
+## Catégorie
+
 Ottolenghi. Simple. Non testé. Dessert
 
-**Noms ingrédients**
-yaourt grec, fromage frais, sucre glace, citron, chocolat blanc, beurre, thym, miel
+## Noms ingrédients
 
-**Ingrédients**
+yaourt grec. fromage frais. sucre glace. citron. chocolat blanc. beurre. thym. miel
+
+## Ingrédients
+
 - 500 g de yaourt à la grecque
 - 400 g de fromage frais type Philadelphia (non allégé)
 - 40 g de sucre glace, tamisé
@@ -9826,7 +9898,8 @@ yaourt grec, fromage frais, sucre glace, citron, chocolat blanc, beurre, thym, m
 - 60 g de miel
 - 340 g de yaourt égoutté
 
-**Préparation**
+## Déroulé de la recette
+
 1. Chemisez un moule à charnière de 23 cm de diamètre avec du papier sulfurisé et réservez.
 2. Placez une passoire au-dessus d'un saladier et tapissez-la d'une étamine ou d'un torchon en coton bien propre. Versez le yaourt sur l'étamine, relevez les bords et formez une boule. Pressez fermement les bords et récupérez un maximum de liquide pour extraire environ 340 g de yaourt égoutté, jetez le liquide et réservez jusqu'au moment voulu.
 3. Versez les Hobnobs dans un sac de congélation et réduisez-les en poudre fine à l'aide d'un rouleau à pâtisserie. Versez les miettes obtenues dans un cul-de-poule et incorporez le beurre fondu et 1 cuillère à soupe de thym. Tassez ce mélange au fond du moule chemisé en égalisant la surface et réservez au frais.
@@ -9838,16 +9911,19 @@ yaourt grec, fromage frais, sucre glace, citron, chocolat blanc, beurre, thym, m
 
 ---
 
-### Gâteau pêche-framboise aux noisettes
+# Gâteau pêche-framboise aux noisettes
 *Pour 10 personnes*
 
-**Classification**
+## Catégorie
+
 Ottolenghi. Simple. Non testé. Dessert
 
-**Noms ingrédients**
-pêches, framboises, sucre, noisettes, beurre, œufs, farine, huile de tournesol, sel
+## Noms ingrédients
 
-**Ingrédients**
+pêches. framboises. sucre. noisettes. beurre. œufs. farine. huile de tournesol. sel
+
+## Ingrédients
+
 - 2 cuil. à café d'huile de tournesol
 - 2 belles pêches, dénoyautées, détaillées en lamelles de 1,5 cm de large (340 g)
 - 200 g de framboises
@@ -9859,7 +9935,8 @@ pêches, framboises, sucre, noisettes, beurre, œufs, farine, huile de tournesol
 - 1,5 cuil. à café de levure chimique
 - 1 bonne pincée de sel
 
-**Préparation**
+## Déroulé de la recette
+
 1. Préchauffez le four à 170 °C (chaleur tournante). Chemisez un moule à charnière de 24 cm de diamètre avec du papier sulfurisé que vous badigeonnerez d'huile.
 2. Dans un cul-de-poule, mélangez les pêches avec 150 g de framboises et 1 cuillère à soupe de sucre, puis réservez.
 3. Mixez les noisettes au robot pendant un peu moins d'une minute pour obtenir une poudre grossière. Réservez.
@@ -9868,16 +9945,19 @@ pêches, framboises, sucre, noisettes, beurre, œufs, farine, huile de tournesol
 
 ---
 
-### Gâteau aux pommes et aux épices
+# Gâteau aux pommes et aux épices
 *Pour 10 personnes*
 
-**Classification**
+## Catégorie
+
 Ottolenghi. Simple. Non testé. Dessert
 
-**Noms ingrédients**
-beurre, sucre, œufs, extrait de vanille, farine, crème aigre, cassonade, mélange quatre-épices, pommes, sel
+## Noms ingrédients
 
-**Ingrédients**
+beurre. sucre. œufs. extrait de vanille. farine. crème aigre. cassonade. mélange quatre-épices. pommes. sel
+
+## Ingrédients
+
 - 130 g de beurre doux, à température ambiante et coupé en cubes, plus une noix pour le moule
 - 150 g de sucre semoule
 - 3 œufs de gros calibre, légèrement battus
@@ -9892,7 +9972,8 @@ beurre, sucre, œufs, extrait de vanille, farine, crème aigre, cassonade, méla
 - 2 grosses pommes Bramley ou Reine des Reinettes, pelées, évidées et détaillées en quartiers de 1,5 cm de large (460 g)
 - 1 pomme Granny Smith, pelée, évidée et détaillée en quartiers de 1,5 cm de large (125 g)
 
-**Préparation**
+## Déroulé de la recette
+
 1. Préchauffez le four à 160 °C (chaleur tournante). Beurrez et chemisez un moule de 23 cm de diamètre.
 2. Dans la cuve d'un robot pâtissier équipé d'une feuille, crémez le beurre avec le sucre à vitesse moyenne. Ajoutez l'extrait de vanille puis les œufs, en plusieurs fois et en mélangeant bien entre chaque ajout. Versez la farine et le sel dans un tamis et incorporez-les progressivement à la préparation, en alternant avec la crème aigre ou fraîche. Dès que vous obtenez un appareil homogène, éteignez le robot, puis versez votre pâte dans le moule et réservez.
 3. Dans un petit bol, mélangez la cassonade et le quatre-épices, puis versez sur les quartiers de pomme, dans un cul-de-poule. Mélangez, puis déposez les fruits sur la pâte. Enfournez pour 60 à 65 minutes, jusqu'à ce que le gâteau soit doré, ferme et croustillant sur le dessus. Vous pouvez secouer légèrement le moule et stopper la cuisson dès que le gâteau cesse de trembloter en surface.
@@ -9901,16 +9982,19 @@ beurre, sucre, œufs, extrait de vanille, farine, crème aigre, cassonade, méla
 
 ---
 
-### Roulés noisette, sésame et Nutella®
+# Roulés noisette, sésame et Nutella®
 *Pour 10 roulés*
 
-**Classification**
+## Catégorie
+
 Ottolenghi. Simple. Non testé. Dessert
 
-**Noms ingrédients**
-farine, huile d'olive, noisettes, graines de sésame, Nutella, orange, sucre glace, sucre
+## Noms ingrédients
 
-**Ingrédients**
+farine. huile d'olive. noisettes. graines de sésame. Nutella. orange. sucre glace. sucre
+
+## Ingrédients
+
 - 150 g de farine de force, plus une poignée pour le plan de travail
 - ¾ de cuil. à café de levure de boulanger sèche instantanée
 - 1,5 cuil. à café de sucre semoule
@@ -9923,7 +10007,8 @@ farine, huile d'olive, noisettes, graines de sésame, Nutella, orange, sucre gla
 - 1 petite orange : 1 cuil. à café de zeste
 - 2 cuil. à café de sucre glace
 
-**Préparation**
+## Déroulé de la recette
+
 1. Versez la farine, la levure, le sucre et 2 cuillères à soupe d'huile dans un saladier et mélangez. Ajoutez le sel, mélangez à nouveau, puis travaillez la pâte à la spatule en versant l'eau en filet. Huilez légèrement votre plan de travail et vos mains, puis pétrissez la pâte manuellement jusqu'à obtenir une pâte souple et élastique (env. 3 min). Déposez ensuite la pâte dans un cul-de-poule légèrement graissé et couvrez avec un torchon humidifié. Laissez pousser 40 minutes près d'une source de chaleur et à l'abri des courants d'air jusqu'à ce que la pâte ait doublé de volume.
 2. Préchauffez le four à 220 °C (chaleur tournante).
 3. Dans un bol, mélangez les noisettes hachées et les graines de sésame, puis isolez 1 cuillère à soupe.
@@ -9932,16 +10017,19 @@ farine, huile d'olive, noisettes, graines de sésame, Nutella, orange, sucre gla
 
 ---
 
-### Barres chocolatées à la menthe et à la pistache
+# Barres chocolatées à la menthe et à la pistache
 *Pour 24 barres*
 
-**Classification**
+## Catégorie
+
 Ottolenghi. Simple. Non testé. Dessert
 
-**Noms ingrédients**
-chocolat noir, beurre, raisins secs, pistaches, rhum brun, sel
+## Noms ingrédients
 
-**Ingrédients**
+chocolat noir. beurre. raisins secs. pistaches. rhum brun. sel
+
+## Ingrédients
+
 - 100 g de chocolat noir aromatisé à la menthe, détaillé en morceaux de 3 cm
 - 200 g de chocolat noir à 70 % de cacao, détaillé en morceaux de 3 cm
 - 120 g de beurre doux, coupé en cubes de 2 cm
@@ -9951,7 +10039,8 @@ chocolat noir, beurre, raisins secs, pistaches, rhum brun, sel
 - 170 g de gâteaux secs (au choix), détaillés en morceaux d'env. 2 cm
 - 100 g de pistaches, hachées
 
-**Préparation**
+## Déroulé de la recette
+
 1. Chemisez une plaque à four ou un plat en Pyrex de 28 × 18 cm avec du papier sulfurisé et réservez.
 2. Versez les deux chocolats, le beurre, le golden syrup et le sel dans un cul-de-poule supportant la chaleur et faites chauffer 2 à 3 minutes au bain-marie. Remuez régulièrement jusqu'à obtenir un mélange lisse et homogène.
 3. Ajoutez les raisins secs et leur jus de macération, les biscuits et les trois quarts des pistaches. Mélangez à la spatule jusqu'à ce que les biscuits et les pistaches soient bien enrobés, puis versez sur la plaque chemisée. Lissez la surface, saupoudrez du reste de pistaches, puis laissez tiédir 10 minutes avant de filmer la plaque et de laisser prendre 2 à 3 heures au frais.
@@ -9959,16 +10048,19 @@ chocolat noir, beurre, raisins secs, pistaches, rhum brun, sel
 
 ---
 
-### Bruns de Bâle
+# Bruns de Bâle
 *Pour 18 bruns (avec un emporte-pièce de 7 cm de diamètre)*
 
-**Classification**
+## Catégorie
+
 Ottolenghi. Simple. Non testé. Dessert
 
-**Noms ingrédients**
-poudre d'amande, sucre glace, cacao, orange, mélange quatre-épices, blancs d'œufs, extrait de vanille, sel
+## Noms ingrédients
 
-**Ingrédients**
+poudre d'amande. sucre glace. cacao. orange. mélange quatre-épices. blancs d'œufs. extrait de vanille. sel
+
+## Ingrédients
+
 - 270 g de poudre d'amande
 - 250 g de sucre cristal, plus 10 g pour saupoudrer les biscuits
 - 40 g de sucre glace, tamisé
@@ -9979,7 +10071,8 @@ poudre d'amande, sucre glace, cacao, orange, mélange quatre-épices, blancs d'�
 - 2 gros blancs d'œufs
 - 1 cuil. à café d'extrait de vanille
 
-**Préparation**
+## Déroulé de la recette
+
 1. Préchauffez le four à 170 °C (chaleur tournante).
 2. Dans la cuve d'un robot pâtissier équipé d'un crochet, versez la poudre d'amande, le sucre cristal, le sucre glace, le cacao amer, les zestes d'orange, le mélange cinq-épices et le sel. Pétrissez à vitesse moyenne jusqu'à ce que les poudres soient bien mélangées, puis ajoutez les blancs d'œufs et l'extrait de vanille en laissant tourner le robot encore 1 à 2 minutes, jusqu'à obtenir une boule de pâte. Déposez celle-ci sur votre plan de travail propre et, en utilisant vos mains, formez un disque d'env. 3 cm d'épaisseur. Enveloppez le pâton dans du film alimentaire et laissez reposer env. 1 h au frais.
 3. Découpez deux feuilles de papier sulfurisé de 40 × 40 cm. Sortez le pâton du réfrigérateur, ôtez-lui son film et déposez-le au centre des deux feuilles. À l'aide d'un rouleau, étalez la pâte pour obtenir une abaisse d'env. 22 cm de diamètre et 1,5 cm d'épaisseur. Munissez-vous d'un emporte-pièce de 7 cm de large et détaillez autant d'étoiles que possible. Déposez-les sur une grande plaque à four chemisée, puis reformez un pâton avec les chutes et répétez l'opération jusqu'à avoir utilisé toute la pâte.
@@ -9987,16 +10080,19 @@ poudre d'amande, sucre glace, cacao, orange, mélange quatre-épices, blancs d'�
 
 ---
 
-### Semifreddo à la framboise
+# Semifreddo à la framboise
 *Pour 6 personnes*
 
-**Classification**
+## Catégorie
+
 Ottolenghi. Simple. Non testé. Dessert
 
-**Noms ingrédients**
-framboises, sucre glace, crème liquide, œufs, jaunes d'œufs, jus de citron, sucre, vanille, sel
+## Noms ingrédients
 
-**Ingrédients**
+framboises. sucre glace. crème liquide. œufs. jaunes d'œufs. jus de citron. sucre. vanille. sel
+
+## Ingrédients
+
 - 600 g de framboises fraîches (ou surgelées et décongelées)
 - 2 cuil. à soupe de sucre glace
 - 200 ml de crème fleurette
@@ -10006,7 +10102,8 @@ framboises, sucre glace, crème liquide, œufs, jaunes d'œufs, jus de citron, s
 - 180 g de sucre semoule
 - ⅛ de cuil. à café de sel
 
-**Préparation**
+## Déroulé de la recette
+
 1. Mixez les framboises jusqu'à obtenir un coulis que vous passerez au tamis pour ôter les grains. Procédez par petites quantités, en vous aidant d'une grosse cuillère pour fouler le coulis à travers le tamis. Isolez 260 g de coulis et réservez. Tamisez le sucre glace dans le reste de coulis (soit environ 100 g), mélangez et transvasez dans un récipient muni d'un bec verseur. Réservez au frais jusqu'au moment de servir.
 2. Dans la cuve d'un robot pâtissier, versez la crème fleurette, le sucre glace vanillé et montez au bec d'oiseau. Transvasez la chantilly dans un cul-de-poule et réservez au frais jusqu'au moment de dresser.
 3. Choisissez une casserole suffisamment grande pour faire un bain-marie avec la cuve de votre robot et remplissez-la de 2 cm d'eau. Portez à ébullition, puis ramenez à frémissement.
@@ -14994,7 +15091,6 @@ Juste avant de servir, incorporez le concombre aux pommes de terre, puis transf�
 ail. ciboulette. concombres. oignons. pancetta. pomme de terre
 ---
 
-
 # Baked custard servie en affogato
 
 ## Commentaire
@@ -15829,6 +15925,7 @@ Laissez reposer 5 min avant d'étaler un peu de crème fraîche à la cuillère.
 
 amandes effilées. amandes moulues. chocolat noir. figues sèches
 ---
+
 # Pêches et haricots d'Espagne grillés, par Calvin
 
 ## Commentaire
@@ -16344,6 +16441,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ail. basilic. céleri-rave. ciboulette. citrons verts. oignons verts. piment rouge
 ---
+
 # 2. « Tacos » de chou au céleri-rave et sauce barbecue aux dattes
 
 ## Commentaire
@@ -19847,6 +19945,7 @@ Ottolenghi. Flavour. Non testé. Végé
 
 ail. cèpes séchés. champignons de Paris. concentré de tomate. piment rouge séché. lasagnes. oignons. parmesan. persil. pleurotes. tomates en conserve
 ---
+
 # Salade de nouilles et laab aux champignons et aux cacahuètes
 
 ## Commentaire
@@ -20429,6 +20528,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ail. citrons verts. oignons. oignons verts. piment rouge
 ---
+
 # Poireaux et salsa au miso et à la ciboulette
 
 ## Commentaire
@@ -20982,6 +21082,7 @@ Ottolenghi. Flavour. Pas testé. Végé
 
 ail. ciboulette. pomme de terre. tahin
 ---
+
 # Flan de mandarine et piment ancho
 
 ## Commentaire
@@ -29424,6 +29525,8 @@ L'achar est la version malaisienne du pickle — il a bercé toute l'enfance de 
 ## Noms ingrédients
 
 chou pointu. oignons. céleri. piment rouge. feuilles de curry. haricots verts. cacahuètes
+---
+
 # Ananas rôti au tamarin et au piment, glace à la noix de coco
 
 ## Catégorie
@@ -29482,6 +29585,8 @@ Vous pouvez acheter de la pâte de tamarin prête à l'emploi, mais il est recom
 ## Noms ingrédients
 
 ananas. basilic. citrons verts. noix de coco. feuilles de kaffir. gingembre. piment rouge. tamarin
+---
+
 # Beignets de courgettes et manouri
 
 ## Catégorie
@@ -29526,6 +29631,8 @@ Créés par Sarit Packer et John Meechan lors de l'ouverture de NOPI — d'abord
 ## Noms ingrédients
 
 courgettes. échalotes. ail. citrons verts. coriandre. fromage de brebis
+---
+
 # Beignets de ricotta, sauce aux mûres et sablé chocolaté
 
 ## Catégorie
@@ -29596,6 +29703,8 @@ Vous aurez plus de sablé que la quantité nécessaire pour la recette. Il se co
 ## Noms ingrédients
 
 mûres. oranges. ricotta
+---
+
 # Bœuf en croûte de poivre et salade de fenouil au pecorino et à la truffe
 
 ## Catégorie
@@ -29646,6 +29755,8 @@ Dans le monde singulier des plats NOPI, voici enfin une recette dont la prépara
 ## Noms ingrédients
 
 aloyau de bœuf. citrons. céleri. fenouil. persil. pecorino
+---
+
 # Bœuf mariné rôti, kimchi au concombre et aux prunes
 
 ## Catégorie
@@ -29699,6 +29810,8 @@ Plat né de l'amour commun de Scully et Yotam pour tout ce qui est fermenté. Le
 ## Noms ingrédients
 
 ail. gingembre. aloyau de bœuf. nanami togarashi. concombres. carottes. oignons verts. coriandre. prunes
+---
+
 # Boulettes d'agneau, sauce au yaourt et aux bettes
 
 ## Catégorie
@@ -29750,6 +29863,8 @@ Simple à réaliser, ce plat peut se préparer la veille — il est même meille
 ## Noms ingrédients
 
 agneau haché. oignons. ail. coriandre. piment de la Jamaïque. persil. bettes. yaourt grec
+---
+
 # Cailles caramélisées au miso et salsa de grenade et noix
 
 ## Catégorie
@@ -29800,6 +29915,8 @@ Inspirée par une recette de Christina Tosi dans Lucky Peach — elle avait util
 ## Noms ingrédients
 
 cailles. grenade. noix. persil
+---
+
 # Coings pochés, gelée de framboise et coing, sabayon au mascarpone
 
 ## Catégorie
@@ -29858,6 +29975,8 @@ Pour le coulis de framboises, il suffit d'écraser des framboises fraîches ou s
 ## Noms ingrédients
 
 citrons. coings. framboises. mascarpone. pistaches
+---
+
 # Coquelets cuits deux fois, sauce piment-gingembre, sel aux feuilles de kaffir
 
 ## Catégorie
@@ -29907,6 +30026,8 @@ Plat signature de NOPI — les clients ne le laissent pas retirer du menu. La cu
 ## Noms ingrédients
 
 coquelets. ail. gingembre. piment rouge. feuilles de kaffir. citrons verts
+---
+
 # Côtes d'agneau fumées, purée d'aubergines, sauce jalapeño et pickle de chou-rave
 
 ## Catégorie
@@ -29972,6 +30093,8 @@ Recette technique mais très impressionnante. Le fumage maison ne nécessite pas
 ## Noms ingrédients
 
 agneau. coriandre. ail. gingembre. oignons rouges. chou-rave. aubergines. citrons. tahin. piment jalapeño. câpres
+---
+
 # Crème glacée caramel-cacahuètes, sauce au chocolat et croquant aux cacahuètes
 
 ## Catégorie
@@ -30039,6 +30162,8 @@ Doublez les quantités pour la sauce au chocolat et le croquant. Ils se conserve
 ## Noms ingrédients
 
 cacahuètes. chocolat noir. jaunes d'œuf
+---
+
 # Crème à la ricotta, compote de cassis et rhubarbe
 
 ## Catégorie
@@ -30090,6 +30215,8 @@ Si vous ne trouvez pas de cassis, des mûres, des framboises, des prunes ou des 
 ## Noms ingrédients
 
 cassis. rhubarbe. ricotta
+---
+
 # Croquettes de bœuf et coleslaw à l'asiatique
 
 ## Catégorie
@@ -30151,6 +30278,8 @@ Plat signature de NOPI dès l'ouverture — les clients ont protesté quand il a
 ## Noms ingrédients
 
 poitrine de bœuf. carottes. échalotes. céleri. citrons verts. chou rouge. piment rouge. coriandre. menthe
+---
+
 # Cuisses de canard confites, moutarde aux cerises et salade de chou-rave
 
 ## Catégorie
@@ -30217,6 +30346,8 @@ Au restaurant, les cerises séchées sont trempées dans du thé Earl Grey (la b
 ## Noms ingrédients
 
 coriandre. cuisses de canard. ail. cerises séchées. cerises. chou-rave. pomme. radis. persil. citrons
+---
+
 # Échine de porc aux épices et condiment aux physalis
 
 ## Catégorie
@@ -30276,6 +30407,8 @@ Les graines de rocou (annatto ou achiote) sont disponibles en épiceries asiatiq
 ## Noms ingrédients
 
 piment chipotle. oignons. ail. oranges. citrons verts. échine de porc. échalotes. gingembre. piment jalapeño. piment rouge. physalis. coriandre
+---
+
 # Eton mess aux fraises et à la rose
 
 ## Catégorie
@@ -30332,6 +30465,8 @@ S'il vous reste du sorbet, vous pourrez le conserver plusieurs semaines au réfr
 ## Noms ingrédients
 
 fraises. grenade. mascarpone. meringues. pétales de rose
+---
+
 # Filet d'agneau rôti, sauce aux cacahuètes et salsa à l'oignon rouge
 
 ## Catégorie
@@ -30385,6 +30520,8 @@ La viande doit mariner au moins 4 h au réfrigérateur, idéalement toute une nu
 ## Noms ingrédients
 
 agneau. ail. câpres. cacahuètes. piment rouge. anchois. citrons. coriandre. noix de coco. oignons rouges. piquillos. persil
+---
+
 # Filet de chevreuil, labné aux dattes, sauce aux mûres et crumble aux cacahuètes
 
 ## Catégorie
@@ -30451,6 +30588,8 @@ Plat comportant plusieurs préparations, toutes réalisables la veille et assemb
 ## Noms ingrédients
 
 yaourt grec. grenade. mûres. fèves de cacao. cacahuètes. gingembre. chevreuil. ail. basilic
+---
+
 # Financiers et crème café-noix de pécan
 
 ## Catégorie
@@ -30509,6 +30648,8 @@ Ce qui fait le secret d'un bon financier, c'est le beurre noisette. Traditionnel
 ## Noms ingrédients
 
 noix. amandes moulues
+---
+
 # Foies de volaille au bacon, réduction de vin rouge et cerises glacées
 
 ## Catégorie
@@ -30569,6 +30710,8 @@ La recette la plus classique du livre — inspirée de la gastronomie française
 ## Noms ingrédients
 
 foies de volaille. bacon. persil. oignons rouges. ail. cerises. radicchio
+---
+
 # Galettes de pois chiches, purée de noix de coco et lentilles aux feuilles de curry
 
 ## Catégorie
@@ -30638,6 +30781,8 @@ Chez NOPI, cette recette est accompagnée d'une salade de tomates cerises parfum
 ## Noms ingrédients
 
 pois chiches. oignons. ail. lentilles moong dhal. feuilles de curry. coriandre. piment rouge. tomates en conserve. citrons verts. noix de coco. gingembre. tamarin. lentilles urid dhal. yaourt grec
+---
+
 # Ganache au chocolat, noisettes aux épices et huile à l'orange
 
 ## Catégorie
@@ -30695,6 +30840,8 @@ Chocolat, orange et crème : un mariage classique auquel s'ajoutent noisettes, c
 ## Noms ingrédients
 
 chocolat noir. coriandre. noisettes. oranges
+---
+
 # Glace au pop-corn et maïs caramélisé
 
 ## Catégorie
@@ -30741,6 +30888,8 @@ Commencez cette recette la veille pour que la crème infuse et prenne le goût d
 ## Noms ingrédients
 
 maïs
+---
+
 # Jambon et haricots au four, œuf au plat et toasts au levain
 
 ## Catégorie
@@ -30799,6 +30948,8 @@ Une recette à la NOPI pour le week-end. Les saveurs du jambon et des haricots s
 ## Noms ingrédients
 
 haricots secs. jarret de porc. ail. oignons. carottes. céleri. piment. concentré de tomate. tomates en conserve. oranges. pain au levain. persil
+---
+
 # Joues de porc braisées et salade de céleri-rave
 
 ## Catégorie
@@ -30865,6 +31016,8 @@ Les baies d'épine-vinette sont un ingrédient de base chez Ottolenghi et NOPI �
 ## Noms ingrédients
 
 joues de porc. carottes. oignons. poireau. céleri. ail. céleri-rave. persil. citrons
+---
+
 # Magret de canard rôti, beurre de noisettes à la bière, quinoa rouge
 
 ## Catégorie
@@ -30919,6 +31072,8 @@ Recette amusante car malgré son titre, le beurre ne se retrouve que dans le tit
 ## Noms ingrédients
 
 magrets de canard. citrons verts. noisettes. bière. quinoa rouge. échalotes. ail. champignons shimeji. pleurotes. ciboulette
+---
+
 # Muffins de maïs et salade de betteraves et pommes
 
 ## Catégorie
@@ -30977,6 +31132,8 @@ Ces muffins réussissent le pari d'être à la fois aériens et crémeux. Pour u
 ## Noms ingrédients
 
 maïs. échalotes. ail. feta. yaourt grec. citrons. persil. betteraves. pomme. basilic
+---
+
 # Onglets grillés, condiment doux aux champignons et pickle au concombre
 
 ## Catégorie
@@ -31036,6 +31193,8 @@ L'onglet est un morceau long très goûteux, correspondant à la partie lombaire
 ## Noms ingrédients
 
 onglet de bœuf. ail. champignons shiitaké. kombu. concombres. oignons rouges
+---
+
 # Pain de maïs et pêches grillées à la crème d'érable
 
 ## Catégorie
@@ -31091,6 +31250,8 @@ Recette demandée depuis des années par les clients de la boutique Ottolenghi d
 ## Noms ingrédients
 
 maïs. yaourt grec. miel. cream cheese. gingembre. pêches blanches
+---
+
 # Pain perdu et yaourt à l'orange
 
 ## Catégorie
@@ -31145,6 +31306,8 @@ Plébiscité par les clients de NOPI à l'heure du brunch. Le sucre anisé (anis
 ## Noms ingrédients
 
 yaourt grec. oranges. fruits rouges. citrons. pain brioché
+---
+
 # Pamplemousse grillé au sucre anisé et yaourt à la fleur de sureau
 
 ## Catégorie
@@ -31186,6 +31349,8 @@ Scully a du mal à concevoir une recette sucrée sans anis étoilé. Yotam pense
 ## Noms ingrédients
 
 pamplemousse. yaourt nature
+---
+
 # Pancakes de patates douces, yaourt et sirop de datte
 
 ## Catégorie
@@ -31232,6 +31397,8 @@ Un classique du brunch NOPI, mais aussi excellent avec des tranches de lard gril
 ## Noms ingrédients
 
 patate douce. miel. yaourt grec
+---
+
 # Pastilla de poulet
 
 ## Catégorie
@@ -31296,6 +31463,8 @@ Plat exigeant mais spectaculaire, idéal pour une grande tablée. À l'origine s
 ## Noms ingrédients
 
 poulet. oignons. ail. tomates en conserve. piment chipotle. chocolat noir. groseilles. pistaches. échalotes. épinards
+---
+
 # Poêlons de fromage bleu au four et pickle de betterave
 
 ## Catégorie
@@ -31356,6 +31525,8 @@ L'un des rares plats que les clients de NOPI ne laisseront jamais enlever de la 
 ## Noms ingrédients
 
 betteraves. ail. parmesan. poireau. cream cheese. ciboulette. basilic. roquefort. miel. noisettes
+---
+
 # Poitrine de porc rôtie, écrasée de butternut et salsa pomme-noix
 
 ## Catégorie
@@ -31413,6 +31584,8 @@ Le secret d'une couenne parfaitement croustillante tient à un geste simple : fr
 ## Noms ingrédients
 
 ail. citronnelle. gingembre. poitrine de porc. citrons. butternut. pomme. noix. yuzu
+---
+
 # Pudding de farro aux oranges caramélisées, tahini et pistaches
 
 ## Catégorie
@@ -31467,6 +31640,8 @@ Ce pudding est présenté dans des ramequins individuels, mais vous pouvez le la
 ## Noms ingrédients
 
 oranges. pistaches. tahin. citrons
+---
+
 # Purée de lentilles indiennes et aubergines piquantes
 
 ## Catégorie
@@ -31518,6 +31693,8 @@ Ottolenghi. Nopi. Pas testé. Végé
 ## Noms ingrédients
 
 tamarin. aubergines. ail. gingembre. lentilles urid dhal. citrons. oignons. anis vert. piment rouge. feuilles de curry. coriandre. yaourt grec
+---
+
 # Ris d'agneau en croûte de poivre, purée de petits pois, sauce au miso
 
 ## Catégorie
@@ -31575,6 +31752,8 @@ Les ris d'agneau (thymus) ont une texture incroyablement fondante, d'autant plus
 ## Noms ingrédients
 
 ris d'agneau. petits pois. menthe. citrons
+---
+
 # Risotto d'orge au cresson et salade d'asperges vertes au pecorino
 
 ## Catégorie
@@ -31628,6 +31807,8 @@ Le mot « risotto » mérite ses guillemets ici — l'orge perlé confère une t
 ## Noms ingrédients
 
 épinards. cresson. échalotes. ail. champignons bruns. poireau. citrons. asperges. pecorino
+---
+
 # Riz à l'iranienne et tzatziki au beurre brûlé
 
 ## Catégorie
@@ -31695,6 +31876,8 @@ Appelés « nids d'amour » chez NOPI — longs à réaliser mais récompensants
 ## Noms ingrédients
 
 courgettes. yaourt grec. citrons. ciboulette. menthe. pétales de rose. coriandre. mulberries. feuilles de vigne. oignons. ail. gingembre. carottes. amandes. pistaches
+---
+
 # Riz noir gluant, mangue, banane et crème de coco
 
 ## Catégorie
@@ -31731,6 +31914,8 @@ Le riz noir gluant a bercé toute l'enfance de Scully — Yotam en est le plus a
 ## Noms ingrédients
 
 feuilles de pandanus. mangue. bananes. noix de coco
+---
+
 # Selle d'agneau rôtie, endives braisées à la vanille, pesto d'oseille
 
 ## Catégorie
@@ -31787,6 +31972,8 @@ La vanille, qu'on n'associe pas spontanément aux plats salés, fonctionne très
 ## Noms ingrédients
 
 agneau. ail. endives. oseille. menthe. citrons. câpres. anchois. piment rouge
+---
+
 # Suprêmes de poulet rôtis, pudding à l'ail et à l'estragon
 
 ## Catégorie
@@ -31847,6 +32034,8 @@ Le pudding peut aussi se servir avec une simple salade verte au citron. Chez NOP
 ## Noms ingrédients
 
 ail. noix de cajou. pain brioché. petits pois. poulet. citrons
+---
+
 # Tapioca à la marmelade de noix de coco et bananes flambées au rhum
 
 ## Catégorie
@@ -31911,6 +32100,8 @@ Le tapioca peut être préparé à l'avance — jusqu'à l'ajout de la crème de
 ## Noms ingrédients
 
 bananes. noix de coco. feuilles de kaffir. tapioca
+---
+
 # Tofu frit au cinq-épices, aubergines vapeur et passata à la cardamome
 
 ## Catégorie
@@ -31976,6 +32167,8 @@ Les trois éléments qui composent ce plat peuvent être servis séparément : l
 ## Noms ingrédients
 
 aubergines. gingembre. ail. échalotes. citronnelle. piment rouge. concentré de tomate. tomates en conserve. tofu. oignons verts
+---
+
 # Tourte de bœuf en feuilles de vigne
 
 ## Catégorie
@@ -32025,6 +32218,8 @@ La moelle n'est pas obligatoire, mais elle apporte un crémeux inégalable et de
 ## Noms ingrédients
 
 céleri-rave. oignons. ail. bœuf haché. tomate. pistaches. menthe. feuilles de vigne. moelle de bœuf. yaourt grec. citrons
+---
+
 # Travers de porc caramélisés au bourbon et salade de maïs fumé
 
 ## Catégorie
@@ -39960,6 +40155,7 @@ Cette tête de céleri en étonnera plus d'un, avec sa peau croquante et son cœ
 ## Noms ingrédients
 
 céleri-rave---
+---
 
 # Soupe aux haricots blancs de Paimpol
 

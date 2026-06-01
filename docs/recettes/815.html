@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tofu frit au cinq-épices, aubergines vapeur et passata à la cardamome</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="manifest" href="../manifest.json">
+    <meta name="theme-color" content="#1b3a5c">
+    <style>
+        body { background: #f0f4f8; }
+        header { background: #1b3a5c; }
+        .bouton-retour { color: rgba(232,240,248,.85) !important; }
+        .bouton-retour:hover { color: #fff !important; }
+    </style>
+
+<style>
+  html.verrouille body > *:not(#porte) { display: none !important; }
+  #porte { display: none; }
+  html.verrouille #porte {
+    display: flex; position: fixed; inset: 0; z-index: 99999;
+    align-items: center; justify-content: center; background: #faf8f5;
+    font-family: -apple-system, system-ui, sans-serif;
+  }
+  #porte .boite { width: 100%; max-width: 300px; padding: 24px; text-align: center; }
+  #porte h2 { margin: 0 0 16px; font-size: 18px; color: #5a3a1a; font-weight: 600; }
+  #porte input { width: 100%; padding: 12px; font-size: 16px; box-sizing: border-box;
+    border: 1px solid #d8cfc4; border-radius: 8px; background: #fff; margin-bottom: 10px; }
+  #porte button { width: 100%; padding: 12px; font-size: 15px; border: none;
+    border-radius: 8px; background: #1b3a5c; color: #fff; cursor: pointer; }
+  #porte .err { color: #c0392b; font-size: 13px; height: 16px; margin-bottom: 8px; }
+</style>
+<script>
+(function () {
+  var HASH = "0721ba9a209534aa3dba860230dc45ed3099223621973dd6f941df4386ab862c";
+  var CLE = "recettes_acces";
+  if (localStorage.getItem(CLE) === HASH) return;        // déjà entré : on laisse passer
+  document.documentElement.classList.add("verrouille");  // sinon on masque tout de suite
+
+  async function sha256(txt) {
+    var buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(txt));
+    return Array.from(new Uint8Array(buf))
+      .map(function (b) { return b.toString(16).padStart(2, "0"); }).join("");
+  }
+
+  function poser() {
+    var d = document.createElement("div");
+    d.id = "porte";
+    d.innerHTML =
+      '<div class="boite">' +
+      '<h2>\uD83D\uDD12 Mes recettes</h2>' +
+      '<div class="err" id="porte-err"></div>' +
+      '<input type="password" id="porte-mdp" placeholder="Mot de passe" autocomplete="current-password">' +
+      '<button id="porte-ok">Entrer</button></div>';
+    document.body.appendChild(d);
+    var inp = document.getElementById("porte-mdp");
+    var err = document.getElementById("porte-err");
+    inp.focus();
+    async function verifier() {
+      var h = await sha256(inp.value);
+      if (h === HASH) {
+        localStorage.setItem(CLE, HASH);
+        document.documentElement.classList.remove("verrouille");
+        d.remove();
+      } else {
+        err.textContent = "Mot de passe incorrect";
+        inp.value = ""; inp.focus();
+      }
+    }
+    document.getElementById("porte-ok").addEventListener("click", verifier);
+    inp.addEventListener("keydown", function (e) { if (e.key === "Enter") verifier(); });
+  }
+  if (document.body) poser();
+  else document.addEventListener("DOMContentLoaded", poser);
+})();
+</script>
+</head>
+<body>
+    <header class="header-recette">
+        <a href="../index.html" class="bouton-retour">← Retour</a>
+    </header>
+    <article class="recette">
+        <h1>Tofu frit au cinq-épices, aubergines vapeur et passata à la cardamome</h1>
+<h2>Ingrédients</h2>
+<p><em>Pour 4 personnes</em></p>
+<p><strong>Aubergines vapeur</strong>
+- 2 grosses aubergines (1 kg), coupées en deux dans la longueur puis en tranches de 3 cm
+- 1½ cuil. à café d'huile de tournesol
+- 1 cuil. à soupe d'huile de sésame
+- 5 cm de gingembre, épluché et râpé (40 g)
+- 5 gousses d'ail, en tranches fines
+- 10 cl de sauce soja légère
+- 6 cl de vin Shaoxing (vin de riz)
+- 8 cl de vinaigre de riz
+- 5 cl de mirin
+- 1 cuil. à café de sucre en poudre
+- Sel de mer</p>
+<p><strong>Passata à la cardamome</strong>
+- 1 cuil. à soupe d'huile de tournesol
+- 3 échalotes thaïes (ou ordinaires), pelées et hachées (35 g)
+- 4 gousses d'ail, écrasées
+- 4 cm de gingembre, épluché et finement râpé (30 g)
+- Le blanc de 2 bâtons de citronnelle, finement hachés
+- 2 piments rouges, épépinés et finement hachés
+- 2 cuil. à café de cardamome moulue
+- 1 cuil. à soupe de concentré de tomates
+- 600 g de pulpe de tomates
+- 1 cuil. à soupe de sucre en poudre</p>
+<p><strong>Tofu frit</strong>
+- 60 g de farine de blé
+- 60 g de farine de maïs
+- 1½ cuil. à café de poivre noir moulu
+- 1½ cuil. à café de poivre blanc moulu
+- 1 cuil. à soupe de cinq-épices chinois
+- 400 g de tofu ferme, coupé en cubes de 2,5 cm
+- Huile de tournesol, pour la friture</p>
+<p><strong>Pour servir</strong>
+- 2 cuil. à soupe de graines de sésame noir (ou blanc grillé — facultatif)
+- 2 petits oignons verts, émincés</p>
+<h2>Commentaire</h2>
+<p>Les trois éléments qui composent ce plat peuvent être servis séparément : le tofu et les aubergines se marient très bien avec un riz gluant ou un riz à la cardamome et aux clous de girofle. La passata est délicieuse pour napper un rôti de bœuf. Mais le mariage des trois est très percutant — prévoir du riz en accompagnement. Si on n'a pas de panier vapeur, une passoire en métal dans une grande casserole d'eau bouillante fonctionne très bien (couvrir hermétiquement avec papier aluminium). Bonne mise en place avant de commencer : échalotes, gingembre, citronnelle et piments émincés à l'avance.</p>
+<h2>Déroulé de la recette</h2>
+<ol>
+<li>
+<p><strong>Aubergines :</strong> Mettre les aubergines dans une passoire avec 1 cuil. à café de sel. Mélanger et laisser égoutter 1 h. Secouer, sécher, cuire 10 à 15 min dans un cuit-vapeur. Chauffer à feu moyen une casserole avec les huiles de tournesol et de sésame. Faire revenir gingembre et ail 1 à 2 min. Verser sauce soja, vin de riz, vinaigre de riz, mirin, sucre et 10 cl d'eau. Porter à ébullition, réduire à feu moyen et laisser mijoter 10 à 12 min pour réduire de moitié. Incorporer les aubergines avec ¼ de cuil. à café de sel et laisser mijoter encore 8 à 10 min jusqu'à sauce brillante. Réserver au chaud.</p>
+</li>
+<li>
+<p><strong>Passata :</strong> Chauffer l'huile de tournesol à feu moyen dans une casserole. Faire revenir échalotes, ail et gingembre 2 à 3 min. Ajouter citronnelle et piment, cuire 2 à 3 min, incorporer cardamome et concentré de tomates. Cuire 2 min. Verser la pulpe de tomates, mélanger et porter à ébullition. Réduire au minimum, couvrir et laisser mijoter 12 min pour épaissir. Ajouter le sucre et ½ cuil. à café de sel. Cuire encore 2 à 3 min. Réserver au chaud.</p>
+</li>
+<li>
+<p><strong>Tofu :</strong> Piler 1 cuil. à soupe de sel dans un mortier, mettre dans un saladier avec farines, poivres et cinq-épices. Mélanger. Quelques minutes avant de servir, enrober le tofu de ce mélange. Verser 2 cm d'huile dans une sauteuse et chauffer à feu vif. Faire frire les cubes de tofu 2 à 3 min (en plusieurs tournées) jusqu'à bien colorés sur toutes les faces. Égoutter dans une passoire tapissée de papier absorbant. Saler légèrement.</p>
+</li>
+<li>
+<p>Disposer l'aubergine dans un saladier peu profond, déposer le tofu par-dessus, napper de passata. Saupoudrer de graines de sésame (facultatif) et d'oignons verts. Servir aussitôt.</p>
+</li>
+</ol>
+    </article>
+</body>
+</html>
