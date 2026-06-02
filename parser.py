@@ -163,6 +163,15 @@ def _extrait_approuvee(categories: list[str]) -> bool:
 # ── Extraction des ingrédients curés ──────────────────────────────────────────
 
 def _extrait_ingredients_cures(sections: dict) -> list[str] | None:
+    """Renvoie les mots-clés curés de la section « Noms ingrédients ».
+
+    - liste non vide : la section existe et contient des ingrédients ;
+    - liste vide []   : la section existe mais ne liste aucun ingrédient
+                        (volontairement vide → la recette ne doit apparaître
+                        dans AUCUN filtre par ingrédient) ;
+    - None            : la section est absente (on pourra retomber sur
+                        l'auto-extraction depuis « Ingrédients »).
+    """
     for cle, contenu in sections.items():
         if "noms ingredients" in cle or "noms ingr" in cle:
             lignes = [l.strip() for l in contenu.splitlines()
@@ -170,7 +179,8 @@ def _extrait_ingredients_cures(sections: dict) -> list[str] | None:
             if lignes:
                 # tolère les listes séparées par des points OU des virgules
                 return [t.strip() for t in re.split(r"[.,]", lignes[0]) if t.strip()]
-    return None
+            return []          # section présente mais vide
+    return None                # section absente
 
 
 # ── Extraction des ingrédients avec quantités ─────────────────────────────────
@@ -303,7 +313,7 @@ def charger_recettes(chemin_md: str | Path) -> list[dict]:
       personnes       : int
       ingredients     : list[str]   — mots-clés pour le filtre frigo
       ingredients_qte : list[dict]  — [{nom, qte, unite, ligne_brute}]
-      source_ing      : str         — "cure" | "auto"
+      source_ing      : str         — "cure" | "vide" | "auto"
       contenu_md      : str
 
     Découpe robuste : indépendante des séparateurs "---" et de l'espacement.
@@ -331,12 +341,20 @@ def charger_recettes(chemin_md: str | Path) -> list[dict]:
 
         # Ingrédients curés (filtre frigo)
         ingredients_cures = _extrait_ingredients_cures(sections)
-        if ingredients_cures is not None:
-            ingredients = ingredients_cures
-            source_ing  = "cure"
-        else:
+        if ingredients_cures is None:
+            # Pas de section « Noms ingrédients » : on extrait automatiquement
+            # les mots-clés depuis la liste « Ingrédients ».
             ingredients = _extrait_ingredients_auto(sections)
             source_ing  = "auto"
+        elif not ingredients_cures:
+            # Section présente mais volontairement vide : aucun mot-clé.
+            # La recette restera visible sans filtre, mais n'apparaîtra dans
+            # aucun filtre par ingrédient (pas de repli sur l'auto-extraction).
+            ingredients = []
+            source_ing  = "vide"
+        else:
+            ingredients = ingredients_cures
+            source_ing  = "cure"
 
         # Ingrédients avec quantités (liste de courses)
         ingredients_qte = _extrait_ingredients_avec_qtes(sections)
@@ -372,7 +390,10 @@ if __name__ == "__main__":
     nb_app = sum(1 for r in recettes if r["approuvee"])
     nb_bib = sum(1 for r in recettes if not r["approuvee"])
     nb_cures = sum(1 for r in recettes if r["source_ing"] == "cure")
-    print(f"{len(recettes)} recettes — {nb_app} approuvées, {nb_bib} bibliothèque, {nb_cures} curées")
+    nb_vide  = sum(1 for r in recettes if r["source_ing"] == "vide")
+    nb_auto  = sum(1 for r in recettes if r["source_ing"] == "auto")
+    print(f"{len(recettes)} recettes — {nb_app} approuvées, {nb_bib} bibliothèque, "
+          f"{nb_cures} curées, {nb_vide} sans filtre ingrédient, {nb_auto} auto")
     print()
     for r in recettes[:3]:
         print(f"  [{'✓' if r['approuvee'] else '📚'}] {r['titre']}")

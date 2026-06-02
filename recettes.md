@@ -2160,7 +2160,7 @@ Breton. Végé
 ## Noms ingrédients
 
 
----
+
 
 # Crêpes de froment
 
@@ -2201,7 +2201,7 @@ Breton. Végé
 ## Noms ingrédients
 
 
----
+
 
 # Galettes de patates douces
 
@@ -9316,7 +9316,7 @@ Ottolenghi. Simple. Non testé. Poisson
 
 ## Noms ingrédients
 
-maquereau. cardamome. gingembre. crème liquide. crème aigre. coriandre. basilic. pistaches. citron vert. piment vert. huile de tournesol. sel
+maquereau. gingembre. coriandre. basilic. pistaches. citrons verts. piment vert
 
 ## Ingrédients
 
@@ -9354,7 +9354,7 @@ Ottolenghi. Simple. Non testé. Poisson
 
 ## Noms ingrédients
 
-saumon. huile d'olive. céleri en branches. pignons de pin. câpres. olives vertes. safran. persil. citron. raisins secs. sel. poivre noir
+saumon. céleri. câpres. olives vertes. persil. citrons. raisins secs
 
 ## Ingrédients
 
@@ -9389,7 +9389,7 @@ Ottolenghi. Simple. Non testé. Poisson
 
 ## Noms ingrédients
 
-truites. tomates cerise. orange. citron vert. sirop d'érable. baies d'épine-vinette. graines de fenouil. huile d'olive. beurre. ail. coriandre. sel. poivre noir
+truite. tomates cerise. oranges. citrons verts. ail. coriandre
 
 ## Ingrédients
 
@@ -9424,7 +9424,7 @@ Ottolenghi. Simple. Non testé. Poisson
 
 ## Noms ingrédients
 
-flétan. huile d'olive. piment rouge frais. ail. graines de carvi. paprika fumé. tomates. concentré de tomates. coriandre. tahin. jus de citron. sel. sucre
+flétan. piment rouge frais. ail. tomate. concentré de tomate. coriandre. tahin. citron (jus)
 
 ## Ingrédients
 
@@ -9464,7 +9464,7 @@ Ottolenghi. Simple. Non testé. Poisson
 
 ## Noms ingrédients
 
-églefin. crème de coco. citron vert. noix de coco déshydratée. panko. flocons de piment. beurre. sel
+églefin. citrons verts. noix de coco déshydratée
 
 ## Ingrédients
 
@@ -9497,7 +9497,7 @@ Ottolenghi. Simple. Non testé. Poisson
 
 ## Noms ingrédients
 
-ail. œufs. graines de cumin. citron vert. coriandre. yaourt grec. oignons rouges. mangue. piment rouge frais. sel
+ail. œuf. citrons verts. coriandre. yaourt grec. oignons rouges. mangue. piment rouge frais
 
 ## Ingrédients
 
@@ -9534,7 +9534,7 @@ Ottolenghi. Simple. Non testé. Poisson
 
 ## Noms ingrédients
 
-haddock. panais. huile d'olive. aneth. ciboulette. ail. citron. œufs. beurre. sel. poivre noir
+panais. aneth. ciboulette. ail. citrons. œuf. églefin
 
 ## Ingrédients
 
@@ -9567,7 +9567,7 @@ Ottolenghi. Simple. Non testé. Poisson
 
 ## Noms ingrédients
 
-gambas. oignons rouges. tomates cerise. marjolaine. gingembre. sriracha. huile d'olive. citron vert. sel
+gambas. oignons rouges. tomates cerise. gingembre. citrons verts
 
 ## Ingrédients
 
@@ -9603,7 +9603,7 @@ Ottolenghi. Simple. Non testé. Poisson
 
 ## Noms ingrédients
 
-encornets. huile d'olive. oignons. poivrons rouges. ail. graines de carvi. mélange quatre-épices. concentré de tomates. laurier. thym. orange. sel. poivre noir
+oignons. poivron rouge. ail. concentré de tomate. oranges. calamars
 
 ## Ingrédients
 
@@ -9637,7 +9637,7 @@ Ottolenghi. Simple. Non testé. Poisson
 
 ## Noms ingrédients
 
-bar. chou blanc. cébettes. gingembre. piment rouge frais. huile d'arachide. coriandre. fleur de sel. bouillon de volaille. huile de sésame. vin shaoxing. sauce soja. sucre
+bar. chou blanc. gingembre. piment rouge frais. coriandre
 
 ## Ingrédients
 
@@ -9676,7 +9676,7 @@ Ottolenghi. Simple. Non testé. Poisson
 
 ## Noms ingrédients
 
-cabillaud. huile d'olive. cumin. ail. oignons. cardamome. harissa. concentré de tomates. citron. pois chiches. bouillon de légumes. coriandre. sel
+cabillaud. ail. oignons. concentré de tomate. citrons. pois chiches. coriandre
 
 ## Ingrédients
 
@@ -9711,7 +9711,7 @@ Ottolenghi. Simple. Non testé. Poisson
 
 ## Noms ingrédients
 
-crevettes. graines de cumin. coriandre. paprika fumé. flocons de piment. œufs. citron vert. sel
+crevettes. coriandre. œuf. citrons verts
 
 ## Ingrédients
 
@@ -9748,7 +9748,7 @@ Ottolenghi. Simple. Non testé. Dessert
 
 ## Noms ingrédients
 
-yaourt grec. sucre glace. crème liquide. citron. fraises. sumac. menthe. vanille. sel
+yaourt grec. citrons. fraises. menthe
 
 ## Ingrédients
 
@@ -9780,7 +9780,7 @@ Ottolenghi. Simple. Non testé. Dessert
 
 ## Noms ingrédients
 
-mûres. prunes. extrait de vanille. sucre. laurier. cannelle. farine. sucre glace. poudre d'amande. blancs d'œufs. beurre. sel
+mûres. prunes. amandes moulues. œuf
 
 ## Ingrédients
 
@@ -9816,7 +9816,7 @@ Ottolenghi. Simple. Non testé. Dessert
 
 ## Noms ingrédients
 
-beurre. sucre. citron. extrait de vanille. œufs. farine. poudre d'amande. myrtilles. sucre glace. sel
+citrons. œuf. amandes moulues. myrtilles
 
 ## Ingrédients
 
@@ -9849,7 +9849,7 @@ Ottolenghi. Simple. Non testé. Dessert
 
 ## Noms ingrédients
 
-sucre muscovado. figues. thym. citron. œufs. farine. extrait de vanille. crème liquide. sel
+figues. citrons. œuf
 
 ## Ingrédients
 
@@ -9883,7 +9883,7 @@ Ottolenghi. Simple. Non testé. Dessert
 
 ## Noms ingrédients
 
-yaourt grec. fromage frais. sucre glace. citron. chocolat blanc. beurre. thym. miel
+yaourt grec. fromage frais. citrons. chocolat blanc. miel
 
 ## Ingrédients
 
@@ -9920,7 +9920,7 @@ Ottolenghi. Simple. Non testé. Dessert
 
 ## Noms ingrédients
 
-pêches. framboises. sucre. noisettes. beurre. œufs. farine. huile de tournesol. sel
+pêches. framboises. noisettes. œuf
 
 ## Ingrédients
 
@@ -9954,7 +9954,7 @@ Ottolenghi. Simple. Non testé. Dessert
 
 ## Noms ingrédients
 
-beurre. sucre. œufs. extrait de vanille. farine. crème aigre. cassonade. mélange quatre-épices. pommes. sel
+œuf. pomme
 
 ## Ingrédients
 
@@ -9991,7 +9991,7 @@ Ottolenghi. Simple. Non testé. Dessert
 
 ## Noms ingrédients
 
-farine. huile d'olive. noisettes. graines de sésame. Nutella. orange. sucre glace. sucre
+noisettes. oranges
 
 ## Ingrédients
 
@@ -10026,7 +10026,7 @@ Ottolenghi. Simple. Non testé. Dessert
 
 ## Noms ingrédients
 
-chocolat noir. beurre. raisins secs. pistaches. rhum brun. sel
+chocolat noir. raisins secs. pistaches
 
 ## Ingrédients
 
@@ -10057,7 +10057,7 @@ Ottolenghi. Simple. Non testé. Dessert
 
 ## Noms ingrédients
 
-poudre d'amande. sucre glace. cacao. orange. mélange quatre-épices. blancs d'œufs. extrait de vanille. sel
+amandes moulues. oranges. œuf
 
 ## Ingrédients
 
@@ -10089,7 +10089,7 @@ Ottolenghi. Simple. Non testé. Dessert
 
 ## Noms ingrédients
 
-framboises. sucre glace. crème liquide. œufs. jaunes d'œufs. jus de citron. sucre. vanille. sel
+framboises. œuf. jaunes d'œuf. citron (jus)
 
 ## Ingrédients
 
@@ -10500,7 +10500,7 @@ Faites chauffer à feu moyen une crêpière ou une poêle antiadhésive (environ
 ## Noms ingrédients
 
 
----
+
 
 # Crêpes et pâte à tartiner sésame-noisettes
 
@@ -14489,7 +14489,7 @@ Sortez-le de la poêle et déposez-le sur le torchon, puis repliez un côté du 
 ## Noms ingrédients
 
 
----
+
 
 # Roulés à la saucisse et sauce moutarde au miel
 
@@ -32355,7 +32355,7 @@ Versez tous les ingrédients dans une casserole. Portez à ébullition en remuan
 ## Noms ingrédients
 
 
----
+
 
 # Japonais Sauce - Sauce teriyaki
 
@@ -32385,7 +32385,7 @@ Versez tous les ingrédients dans une casserole. Portez à ébullition, puis bai
 ## Noms ingrédients
 
 
----
+
 
 # Japonais Sauce - Marinade ail et piment
 
@@ -32450,7 +32450,7 @@ Dans un bol, mélangez tous les ingrédients. Cette marinade peut se conserver 2
 ## Noms ingrédients
 
 
----
+
 
 # Japonais Sauce - Sauce goma daré
 
@@ -32512,7 +32512,7 @@ Versez tous les ingrédients dans une casserole. Faites chauffer sur feu moyen j
 ## Noms ingrédients
 
 
----
+
 
 # Japonais Sauce - Sauce miso au citron
 
@@ -32572,7 +32572,7 @@ Versez tous les ingrédients dans une casserole. Portez à ébullition, puis bai
 ## Noms ingrédients
 
 
----
+
 
 # Japonais Sauce - Sauce tsuyu
 
@@ -33821,7 +33821,7 @@ Enveloppez chaque onigiri d'une bande de nori.
 ## Noms ingrédients
 
 
----
+
 
 # Japonais Onigiri - Onigiri grillé au miso
 
@@ -37933,7 +37933,7 @@ Cette recette accompagnera aussi bien des plats de viande ou de poisson que des 
 ## Noms ingrédients
 
 
----
+
 
 # Farinata
 
@@ -37966,7 +37966,7 @@ D'origine italienne, cette galette de farine de pois chiche est délicieuse. D'u
 ## Noms ingrédients
 
 
----
+
 
 # Riz gluant au sésame
 
@@ -37999,7 +37999,7 @@ Ce riz est délicieux avec les plats de poisson (daurade, grondin ou maquereau) 
 ## Noms ingrédients
 
 
----
+
 
 # Purée de haricots blancs au romarin et à l'ail
 
@@ -40154,7 +40154,7 @@ Cette tête de céleri en étonnera plus d'un, avec sa peau croquante et son cœ
 
 ## Noms ingrédients
 
-céleri-rave---
+céleri-rave
 ---
 
 # Soupe aux haricots blancs de Paimpol
@@ -40195,7 +40195,7 @@ Le haricot Coco de Paimpol aurait été rapporté d'Amérique latine en 1928 par
 
 ## Noms ingrédients
 
-haricots blancs. pommes de terre. crème fraîche. oseille. beurre. bouquet garni
+haricots blancs. pomme de terre. oseille
 
 ---
 
@@ -40233,7 +40233,7 @@ L'artichaut Camus débarque au XVIIe siècle en Bretagne. Traditionnellement, le
 
 ## Noms ingrédients
 
-artichauts. oignons. beurre. crème fraîche
+artichauts. oignons
 
 ---
 
@@ -40274,7 +40274,7 @@ Au XVIIe siècle, les Roscovites découvrent l'oignon et l'apprécient pour son 
 
 ## Noms ingrédients
 
-oignons. pommes de terre. beurre. vin blanc. crème fraîche. persil
+oignons. pomme de terre. persil
 
 ---
 
@@ -40316,7 +40316,7 @@ Les meilleurs choux-fleurs dégustés en France sont bretons, principalement cul
 
 ## Noms ingrédients
 
-chou-fleur. oignons. beurre. lait. laurier. noix de muscade
+chou-fleur. oignons
 
 ---
 
@@ -40360,7 +40360,7 @@ La godaille est la part de pêche que reçoit le pêcheur en plus de son salaire
 
 ## Noms ingrédients
 
-poissons à soupe. oignons. pommes de terre. ail. beurre. vin blanc. bouquet garni. crème fraîche. piment
+oignons. pomme de terre. ail. piment
 
 ---
 
@@ -40402,7 +40402,7 @@ Il y a toujours eu des gisements naturels de moules en Bretagne, mais l'élevage
 
 ## Noms ingrédients
 
-moules. vin blanc. oignons. poireaux. pommes de terre. beurre. crème fraîche. ciboulette. persil. cerfeuil. coriandre
+moules. oignons. poireau. pomme de terre. ciboulette. persil. coriandre
 
 ---
 
@@ -40448,7 +40448,7 @@ L'étrille est un crustacé très vivace. Pour ne pas se faire pincer, il faut l
 
 ## Noms ingrédients
 
-étrilles. oignons. carottes. poireaux. bouquet garni. tomates. ail. huile d'olive. farine. kari Gosse. vin blanc. crème fraîche
+oignons. carottes. poireau. tomate. ail
 
 ---
 
@@ -40491,7 +40491,7 @@ Au XVIIIe siècle, la coquille Saint-Jacques n'était consommée qu'en cas de di
 
 ## Noms ingrédients
 
-noix de Saint-Jacques. échalotes. beurre. vin blanc. mie de pain. lait. ail. chapelure. persil
+noix de saint-jacques. échalotes. ail. persil
 
 ---
 
@@ -40542,7 +40542,7 @@ Les langoustines au kari Gosse font partie des recettes préférées de l'auteur
 
 ## Noms ingrédients
 
-langoustines. carottes. échalotes. poireaux. céleri. ail. tomates. bouquet garni. farine. kari Gosse. vin blanc. crème fraîche. huile d'olive
+carottes. échalotes. poireau. céleri. ail. tomate
 
 ---
 
@@ -40584,7 +40584,7 @@ Parmi les préparations possibles de moules, la plus commune est celle des « mo
 
 ## Noms ingrédients
 
-moules. oignons. échalotes. ail. bouquet garni. vin blanc
+moules. oignons. échalotes. ail
 
 
 ---
@@ -40624,7 +40624,7 @@ La persillade, c'est du beurre, du persil et de l'ail ajoutés souvent en fin de
 
 ## Noms ingrédients
 
-encornets. huile d'olive. persil. ail. beurre
+persil. ail. calamars
 
 ---
 
@@ -40663,7 +40663,7 @@ Même principe que la fricassée en persillade, appliqué aux noix de Saint-Jacq
 
 ## Noms ingrédients
 
-noix de Saint-Jacques. huile d'olive. persil. ail. beurre
+noix de saint-jacques. persil. ail
 
 ---
 
@@ -40700,7 +40700,7 @@ Même principe que la fricassée en persillade, appliqué aux ormeaux. Pour la c
 
 ## Noms ingrédients
 
-ormeaux. huile d'olive. persil. échalotes. beurre
+persil. échalotes
 
 ---
 
@@ -40757,7 +40757,7 @@ Plat incontournable des repas de famille bretons, préparé surtout à l'occasio
 
 ## Noms ingrédients
 
-langoustines. étrilles. tourteaux. crevettes. bulots. bigorneaux. pouces-pieds. huîtres. palourdes. mayonnaise. pain de seigle. échalotes. beurre. citron
+crevettes. huîtres. palourdes. échalotes. citrons
 
 ---
 
@@ -40805,7 +40805,7 @@ Breton. Non testé. Viande
 
 ## Noms ingrédients
 
-andouille. lard. pâté de campagne. saucisson. rillettes de porc. pain de seigle. cornichons
+lard
 
 ---
 
@@ -40849,7 +40849,7 @@ La palourde peut être rose (la palourde des Glénan) ou grise. La rose est souv
 
 ## Noms ingrédients
 
-palourdes. beurre. moutarde. échalotes. estragon. persil. ciboulette. vin blanc. chapelure
+palourdes. échalotes. persil. ciboulette
 
 ---
 
@@ -40890,7 +40890,7 @@ Au XIXe siècle, les conserveries bretonnes connaissent un bel essor grâce avan
 
 ## Noms ingrédients
 
-maquereaux. échalotes. vin blanc. crème fraîche. curry. tomates. ciboulette. persil. estragon
+maquereau. échalotes. tomate. ciboulette. persil
 
 ---
 
@@ -40929,7 +40929,7 @@ Traditionnellement, les terrines en Bretagne sont plutôt à base de porc que de
 
 ## Noms ingrédients
 
-filets de poisson. œufs. crème fraîche. ciboulette. beurre
+œuf. ciboulette
 
 ---
 
@@ -40973,7 +40973,7 @@ En Bretagne, l'œuf est parfois le symbole de forces magiques : « Dans la Vall�
 
 ## Noms ingrédients
 
-œufs. sardines à l'huile. persil. huile de tournesol. moutarde. vinaigre de cidre. laitue
+œuf. sardines. persil
 
 ---
 
@@ -41017,7 +41017,7 @@ Une recette simple et généreuse qui marie les saveurs de l'artichaut Camus bre
 
 ## Noms ingrédients
 
-œufs. lait. artichauts. sauge. lard. beurre
+œuf. artichauts. sauge. lard
 
 
 ---
@@ -41060,7 +41060,7 @@ La saucisse de Molène est fumée aux algues, ce qui lui confère un goût iodé
 
 ## Noms ingrédients
 
-œufs. lait. pommes de terre. saucisse fumée. persil. beurre
+œuf. pomme de terre. saucisses fumées. persil
 
 ---
 
@@ -41101,7 +41101,7 @@ La recette des maquereaux au vin blanc est une des recettes phares des conserver
 
 ## Noms ingrédients
 
-maquereaux. vin blanc. oignons. carottes. thym. laurier. citron
+maquereau. oignons. carottes. citrons
 
 ---
 
@@ -41141,7 +41141,7 @@ Le salage et le fumage sont deux moyens de conservation du poisson très courant
 
 ## Noms ingrédients
 
-lieu fumé. pommes de terre. crème fraîche. moutarde. citron. ciboulette
+pomme de terre. citrons. ciboulette
 
 ---
 
@@ -41176,7 +41176,7 @@ Le sarrasin apparaît en Bretagne aux alentours du XVIe siècle et s'adapte parf
 
 ## Noms ingrédients
 
-farine de sarrasin. beurre
+
 
 ---
 
@@ -41212,7 +41212,7 @@ Avant l'apparition du sarrasin, l'avoine était la céréale nourricière par ex
 
 ## Noms ingrédients
 
-farine d'avoine. lait. beurre
+
 
 ---
 
@@ -41283,7 +41283,7 @@ Le kig-ha-farz (littéralement « la viande et le far ») est le pot-au-feu bret
 
 ## Noms ingrédients
 
-bœuf. porc. lard. saucisse. carottes. navets. oignons. chou. poireaux. pommes de terre. farine de sarrasin. farine de froment. œufs. lait. beurre. échalotes
+bœuf. lard. saucisses. carottes. navets. oignons. chou. poireau. pomme de terre. œuf. échalotes
 
 ---
 
@@ -41318,7 +41318,7 @@ Sarrasin et blé noir sont synonymes. En Haute-Bretagne, les galettes sont des c
 
 ## Noms ingrédients
 
-farine de sarrasin. farine de froment. œufs. beurre
+œuf
 
 ---
 
@@ -41352,7 +41352,7 @@ Une idée simple et savoureuse pour l'apéritif : une crème de sardine onctueus
 
 ## Noms ingrédients
 
-sardines à l'huile. crème fraîche. citron. persil. ciboulette
+sardines. citrons. persil. ciboulette
 
 ---
 
@@ -41383,7 +41383,7 @@ Une galette simple et originale qui marie le fondant du fromage de chèvre demi-
 
 ## Noms ingrédients
 
-fromage de chèvre. courgettes. pommes. sucre. citron. coriandre. beurre
+fromage de chèvre. courgettes. pomme. citrons. coriandre
 
 ---
 
@@ -41416,7 +41416,7 @@ Une galette gourmande qui marie l'andouille de Guémené-sur-Scorff — charcute
 
 ## Noms ingrédients
 
-andouille. poires. sucre. beurre. crème fraîche
+poire
 
 
 ---
@@ -41452,7 +41452,7 @@ Une galette élégante et fraîche, idéale en entrée ou en plat léger. La cr�
 
 ## Noms ingrédients
 
-saumon fumé. crème fraîche. citron. menthe. concombre. beurre
+saumon fumé. citrons. menthe. concombres
 
 ---
 
@@ -41499,7 +41499,7 @@ Cette recette était considérée par Curnonsky comme « une des merveilles culi
 
 ## Noms ingrédients
 
-bœuf. beurre. pommes de terre. farine de sarrasin. crème fraîche. lait
+bœuf. pomme de terre
 
 ---
 
@@ -41539,7 +41539,7 @@ La galette de pommes de terre est originaire de la région de Pontivy et du cent
 
 ## Noms ingrédients
 
-farine de sarrasin. farine de froment. pommes de terre. œufs. beurre
+pomme de terre. œuf
 
 ---
 
@@ -41576,7 +41576,7 @@ Les Bretons ont toujours été de grands voyageurs gourmands et c'est pour cette
 
 ## Noms ingrédients
 
-beurre. sucre. farine d'avoine. farine de sarrasin. sucre glace. amandes effilées. œufs
+amandes effilées. œuf
 
 ---
 
@@ -41614,7 +41614,7 @@ Quelle différence entre la bouillie, la crème et le gruau d'avoine ? La bouill
 
 ## Noms ingrédients
 
-gruau d'avoine. lait. sucre. œufs. crème fraîche
+œuf
 
 ---
 
@@ -41654,7 +41654,7 @@ Saint-Malo comme Lorient sont des villes portuaires qui étaient très actives d
 
 ## Noms ingrédients
 
-dorade. crème fraîche. beurre. citron. moutarde
+daurade. citrons
 
 ---
 
@@ -41695,7 +41695,7 @@ Bien que les huîtres existent et se consomment depuis des lustres en Bretagne, 
 
 ## Noms ingrédients
 
-bar. huîtres. citron. crème fraîche. beurre. pommes de terre
+bar. huîtres. citrons. pomme de terre
 
 ---
 
@@ -41736,7 +41736,7 @@ Le beurre blanc a été inventé en 1890 par Clémence Lefeuvre, cuisinière du 
 
 ## Noms ingrédients
 
-merlu. beurre. vin blanc. vinaigre de vin. échalotes. crème fraîche. pommes de terre
+échalotes. pomme de terre
 
 ---
 
@@ -41777,7 +41777,7 @@ Une recette très simple et surtout délicieuse qui utilise un minimum de place 
 
 ## Noms ingrédients
 
-lieu jaune. pommes de terre. beurre. persil. ciboulette. estragon. citron
+pomme de terre. persil. ciboulette. citrons
 
 
 ---
@@ -41821,7 +41821,7 @@ La pêche au maquereau en Bretagne connut un grand essor à partir du XVIIe siè
 
 ## Noms ingrédients
 
-maquereaux. tomates. oignons. huile d'olive. crème fraîche. moutarde. thym
+maquereau. tomate. oignons
 
 ---
 
@@ -41859,7 +41859,7 @@ Au IXe siècle, la mention de jus de pomme fermenté apparaît dans un écrit, m
 
 ## Noms ingrédients
 
-maquereaux. cidre. échalotes. crème fraîche
+maquereau. échalotes
 
 ---
 
@@ -41903,7 +41903,7 @@ La morue désigne le cabillaud, poisson de mer frais, mis au sel et très souven
 
 ## Noms ingrédients
 
-morue. pommes de terre. oignons. beurre. ail. persil
+pomme de terre. oignons. ail. persil. cabillaud
 
 ---
 
@@ -41940,7 +41940,7 @@ La sardine est une grande voyageuse ! Née dans le Golfe de Gascogne, elle remon
 
 ## Noms ingrédients
 
-sardines. huile d'olive. vinaigre de cidre. beurre
+sardines
 
 ---
 
@@ -41979,7 +41979,7 @@ Un superbe poisson pêché sur les côtes bretonnes cuisiné au beurre : cette r
 
 ## Noms ingrédients
 
-sole. farine. citron. huile d'olive. beurre
+citrons
 
 ---
 
@@ -42022,7 +42022,7 @@ Pendant des siècles, la pêche et la préparation du thon furent considérées 
 
 ## Noms ingrédients
 
-thon. petits pois. oignons. tomates. ail. huile d'olive. beurre. bouquet garni. basilic
+thon. petits pois. oignons. tomate. ail. basilic
 
 ---
 
@@ -42062,7 +42062,7 @@ Cette cuisson est réservée aux poissons à grosses écailles comme la dorade o
 
 ## Noms ingrédients
 
-bar. gros sel. fenouil. crème fraîche. beurre. citron
+bar. fenouil. citrons
 
 ---
 
@@ -42112,7 +42112,7 @@ Lotte à l'armoricaine ou à l'américaine ? Un combat de chefs qui perdure ! En
 
 ## Noms ingrédients
 
-lotte. oignons. ail. carottes. tomates. concentré de tomate. huile d'olive. cognac. vin blanc. kari Gosse. bouquet garni. persil. crème fraîche
+oignons. ail. carottes. tomate. concentré de tomate. persil
 
 ---
 
@@ -42160,7 +42160,7 @@ La recette de la papillote de poisson ne fait pas partie des grands classiques d
 
 ## Noms ingrédients
 
-merlan. poireaux. céleri. oignons. champignons. beurre. vin blanc. crème fraîche
+merlans. poireau. céleri. oignons. champignons
 
 
 ---
@@ -42202,7 +42202,7 @@ Au XVIIIe siècle, la lotte avait mauvaise réputation. Il faudra attendre le XX
 
 ## Noms ingrédients
 
-lotte. pâté. tomates. beurre. moutarde. ail. thym
+tomate. ail
 
 ---
 
@@ -42260,7 +42260,7 @@ Breton. Non testé. Poisson
 
 ## Noms ingrédients
 
-maquereaux. lotte. lieu jaune. langoustines. pommes de terre. oignons. ail. bouquet garni. kari Gosse. persil. beurre. vin blanc. huile d'olive
+maquereau. pomme de terre. oignons. ail. persil
 
 ---
 
@@ -42309,7 +42309,7 @@ Depuis des siècles le homard aime le littoral breton. Au XVIIIe siècle, les Br
 
 ## Noms ingrédients
 
-homard. huile d'olive. beurre. échalotes. carottes. ail. bouquet garni. tomates. farine. kari Gosse. vin blanc. crème fraîche. cognac
+homard. échalotes. carottes. ail. tomate
 
 ---
 
@@ -42352,7 +42352,7 @@ La Bretagne est reconnue pour sa viande d'agneau de pré-salé. Ceux de la baie 
 
 ## Noms ingrédients
 
-agneau. haricots blancs. oignons. tomates. ail. bouquet garni. beurre
+agneau. haricots blancs. oignons. tomate. ail
 
 ---
 
@@ -42399,7 +42399,7 @@ Dès le XVIe siècle, l'agneau breton est élevé à la fois pour sa laine et po
 
 ## Noms ingrédients
 
-agneau. oignons. farine. bouquet garni. ail. vin blanc. crème fraîche. navets. beurre
+agneau. oignons. ail. navets
 
 ---
 
@@ -42446,7 +42446,7 @@ Depuis le XIXe siècle, la basse-cour bretonne est réputée. Elle propose des v
 
 ## Noms ingrédients
 
-pintade. carottes. oignons. chou. genièvre. laurier. sucre. vinaigre de cidre. persil. beurre
+carottes. oignons. chou. persil. volaille
 
 ---
 
@@ -42496,7 +42496,7 @@ Le secret de fabrication du cidre aurait été découvert par les Espagnols et r
 
 ## Noms ingrédients
 
-poulet. oignons. carottes. bouquet garni. cidre. farine. artichauts. pommes. beurre. sauge
+poulet. oignons. carottes. artichauts. pomme. sauge
 
 ---
 
@@ -42536,7 +42536,7 @@ Originaire de Lombardie, le chou de Lorient est une variété de chou de Milan c
 
 ## Noms ingrédients
 
-saucisse. chou. oignons. carottes. genièvre. beurre. moutarde
+saucisses. chou. oignons. carottes
 
 ---
 
@@ -42578,7 +42578,7 @@ La culture des légumes en primeur est pratiquée en Bretagne dès le XVIe sièc
 
 ## Noms ingrédients
 
-saucisse. petits pois. oignons. carottes. pommes de terre. ail. laitue. beurre
+saucisses. petits pois. oignons. carottes. pomme de terre. ail
 
 
 ---
@@ -42616,7 +42616,7 @@ En Bretagne, la plupart du temps, les pommes de terre sont appelées « patates 
 
 ## Noms ingrédients
 
-pommes de terre. oignons. beurre. lard. bouquet garni
+pomme de terre. oignons. lard
 
 ---
 
@@ -42658,7 +42658,7 @@ La châtaigneraie bretonne était assez étendue au XIXe siècle et c'est dans l
 
 ## Noms ingrédients
 
-porc. cidre. crème fraîche. beurre. châtaignes. pommes. sucre
+châtaignes. pomme
 
 ---
 
@@ -42698,7 +42698,7 @@ L'andouille bretonne est réputée depuis le XVIIIe siècle mais c'est à Guéme
 
 ## Noms ingrédients
 
-andouille. crème fraîche. lait. beurre. pommes de terre. noix de muscade
+pomme de terre
 
 ---
 
@@ -42733,7 +42733,7 @@ Breton. Non testé. Viande
 
 ## Noms ingrédients
 
-lard. beurre. pommes de terre
+lard. pomme de terre
 
 ---
 
@@ -42774,7 +42774,7 @@ Au Moyen Âge, les vignes s'étendaient en Bretagne jusqu'à la péninsule de Rh
 
 ## Noms ingrédients
 
-lapin. oignons. champignons. vin blanc. crème fraîche. bouquet garni
+oignons. champignons
 
 ---
 
@@ -42816,7 +42816,7 @@ Grâce aux activités commerciales des ports comme ceux de Nantes, Lorient et Sa
 
 ## Noms ingrédients
 
-veau. carottes. ail. oignons. tomates. bouquet garni. pruneaux. raisins secs
+carottes. ail. oignons. tomate. pruneaux. raisins secs
 
 ---
 
@@ -42852,7 +42852,7 @@ La galette bretonne commence à faire parler d'elle à la fin du XIXe siècle, m
 
 ## Noms ingrédients
 
-sucre glace. beurre. œufs. farine
+œuf
 
 ---
 
@@ -42886,7 +42886,7 @@ Les palets, plus difficiles à être produits à une échelle industrielle, conn
 
 ## Noms ingrédients
 
-œufs. sucre. beurre. farine. levure
+œuf
 
 ---
 
@@ -42923,7 +42923,7 @@ Vous avez de la chance que cette recette soit partagée car, en Bretagne, c'est 
 
 ## Noms ingrédients
 
-farine. beurre. œufs. sucre
+œuf
 
 ---
 
@@ -42961,7 +42961,7 @@ En Bretagne, on dit que le meilleur kouign-amann (gâteau beurre) se fait à Dou
 
 ## Noms ingrédients
 
-farine. levure. beurre. sucre
+
 
 
 ---
@@ -43005,7 +43005,7 @@ Les fars en Bretagne sont multiples. Ils peuvent être cuisinés avec du sarrasi
 
 ## Noms ingrédients
 
-pruneaux. farine. sucre. œufs. lait. beurre. rhum
+pruneaux. œuf
 
 ---
 
@@ -43052,7 +43052,7 @@ Ce gâteau serait né à Nantes en 1820, inventé par un certain Rouleau, maîtr
 
 ## Noms ingrédients
 
-œufs. beurre. sucre. amandes. farine. levure. rhum. orange. sucre glace
+œuf. amandes. oranges
 
 ---
 
@@ -43092,7 +43092,7 @@ Née à Plouhinec dans le Morbihan en 1803 et guillotinée à Rennes sur le Cham
 
 ## Noms ingrédients
 
-farine. beurre. sucre. fruits confits. raisins secs. amandes. œufs. cannelle. rhum
+raisins secs. amandes. œuf
 
 ---
 
@@ -43130,7 +43130,7 @@ Qu'il pleuve ou qu'il vente, les Bretons aiment aller ramasser les châtaignes d
 
 ## Noms ingrédients
 
-châtaignes. chocolat. beurre. sucre. crème fraîche
+châtaignes
 
 ---
 
@@ -43165,7 +43165,7 @@ La Bretagne, au climat doux et humide, fournit une herbe abondante qui nourrissa
 
 ## Noms ingrédients
 
-riz. lait. vanille. sucre
+
 
 ---
 
@@ -43199,7 +43199,7 @@ Les crêpes de froment comme les crêpes ou galettes de blé noir se cuisent tra
 
 ## Noms ingrédients
 
-farine de froment. œufs. beurre. sucre. lait
+œuf
 
 ---
 
@@ -43235,7 +43235,7 @@ Dans ses écrits, Curnonsky (journaliste et célèbre critique gastronomique) n'
 
 ## Noms ingrédients
 
-farine de froment. sucre. beurre. œufs. levure
+œuf
 
 ---
 
@@ -43277,7 +43277,7 @@ Dès le XVIIe siècle, la Bretagne est reconnue pour ses vergers de pommes à ci
 
 ## Noms ingrédients
 
-pommes. beurre. farine. sucre
+pomme
 
 ---
 
@@ -43309,7 +43309,7 @@ Dans les années 1970, Henri Le Roux, chocolatier réputé à Quiberon, crée un
 
 ## Noms ingrédients
 
-sucre. crème fraîche. beurre
+
 
 ---
 
@@ -43344,7 +43344,7 @@ Une mousse glacée gourmande à préparer la veille, servie avec un caramel onct
 
 ## Noms ingrédients
 
-sucre. crème fraîche. beurre. œufs
+œuf
 
 ---
 
@@ -43387,6 +43387,6 @@ Les fraises en Bretagne sont le plus souvent consommées fraîches, voire avec u
 
 ## Noms ingrédients
 
-fraises. sucre. crème fraîche. citron
+fraises. citrons
 
 
