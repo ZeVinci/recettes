@@ -23,6 +23,16 @@ TYPES    = ["Végé", "Viande", "Poisson", "Dessert"]
 MOT_DE_PASSE = "miam"
 
 
+# Identifiant stable d'une recette, dérivé du titre (sert de clé pour les avis
+# Supabase). Insensible aux accents et à la casse ; ne change pas quand l'ordre
+# ou le numéro (id) des recettes évolue d'un build à l'autre.
+def _slug(titre):
+    import re, unicodedata
+    s = unicodedata.normalize("NFD", titre.lower())
+    s = "".join(c for c in s if unicodedata.category(c) != "Mn")
+    return re.sub(r"[^a-z0-9]+", "-", s).strip("-")
+
+
 # ── Template index.html ────────────────────────────────────────────────────────
 
 TMPL_LISTE = """<!DOCTYPE html>
@@ -104,6 +114,9 @@ TMPL_LISTE = """<!DOCTYPE html>
         .tag-type    { background: #fdeee8; color: #8b3018; }
         .tag-bib     { background: #fdeee8; color: #8b3018; }
         .score-badge { font-size: 10px; padding: 1px 6px; border-radius: 99px; }
+        .avis-badge  { font-size: 10px; padding: 1px 7px; border-radius: 99px;
+                       background: #fdeee8; color: #c05a35; font-weight: 600; }
+        .avis-badge:empty { display: none; }
 
         /* ── Mode sélection ── */
         .sel-btn { padding: 6px 10px; font-size: 12px; border-radius: 6px;
@@ -188,6 +201,7 @@ TMPL_LISTE = """<!DOCTYPE html>
     <ul id="liste-recettes">
         {% for r in recettes %}
         <li data-id="{{ r.id }}"
+            data-slug="{{ r.slug }}"
             data-approuvee="{{ 'true' if r.approuvee else 'false' }}"
             data-tags="{{ r.tags | join(',') }}"
             data-ingredients="{{ r.ingredients | join('|||') }}">
@@ -205,6 +219,7 @@ TMPL_LISTE = """<!DOCTYPE html>
                     {% if not r.approuvee %}
                     <span class="tag tag-bib">À tester</span>
                     {% endif %}
+                    <span class="avis-badge" data-badge="{{ r.slug }}"></span>
                 </div>
             </a>
         </li>
@@ -435,6 +450,8 @@ TMPL_LISTE = """<!DOCTYPE html>
     if ("serviceWorker" in navigator)
         navigator.serviceWorker.register("service-worker.js");
     </script>
+    <script src="avis.js"></script>
+    <script>remplirBadgesAvis();</script>
 </body>
 </html>"""
 
@@ -895,6 +912,9 @@ TMPL_RECETTE = """<!DOCTYPE html>
     <article class="recette">
         {{ contenu_html }}
     </article>
+    <section id="avis-zone"></section>
+    <script src="../avis.js"></script>
+    <script>initAvisRecette("{{ recette_slug }}");</script>
 </body>
 </html>"""
 
@@ -1033,6 +1053,10 @@ def build():
     env = Environment(loader=BaseLoader())
     env.filters["tojson"] = json.dumps
 
+    # Slug stable par recette (clé des avis Supabase).
+    for r in recettes:
+        r["slug"] = _slug(r["titre"])
+
     # 6. index.html
     tmpl = env.from_string(TMPL_LISTE)
     (DOCS / "index.html").write_text(
@@ -1060,7 +1084,8 @@ def build():
     for r in recettes:
         html = md_lib.markdown(r["contenu_md"], extensions=["extra", "sane_lists"])
         (DOCS / "recettes" / f"{r['id']}.html").write_text(
-            tmpl.render(titre=r["titre"], contenu_html=html), encoding="utf-8")
+            tmpl.render(titre=r["titre"], contenu_html=html,
+                        recette_slug=r["slug"]), encoding="utf-8")
 
     # 10b. Injection du portail mot de passe sur toutes les pages HTML
     hash_mdp = hashlib.sha256(MOT_DE_PASSE.encode("utf-8")).hexdigest()
@@ -1075,7 +1100,7 @@ def build():
 
     # 11. Service worker v7
     fichiers = (
-        ["./index.html", "./style.css", "./menu.html",
+        ["./index.html", "./style.css", "./avis.js", "./menu.html",
          "./ingredients.html", "./courses.html"]
         + [f"./recettes/{r['id']}.html" for r in recettes]
     )
@@ -1087,7 +1112,7 @@ def build():
 
 def _genere_sw(fichiers):
     liste = ",\n    ".join(f'"{f}"' for f in fichiers)
-    return f"""const CACHE = "recettes-v7";
+    return f"""const CACHE = "recettes-v8";
 const PRECACHE = [
     {liste}
 ];

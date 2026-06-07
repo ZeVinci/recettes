@@ -7,6 +7,12 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
     <link rel="manifest" href="/manifest.json">
     <meta name="theme-color" content="#8b4513">
+    <style>
+        .avis-badge { font-size: 10px; padding: 1px 7px; border-radius: 99px;
+                      background: #fdeee8; color: #c05a35; font-weight: 600;
+                      margin-left: 6px; }
+        .avis-badge:empty { display: none; }
+    </style>
 </head>
 <body>
     <header>
@@ -16,7 +22,9 @@
 
     <ul id="liste-recettes">
         {% for r in recettes %}
-            <li><a href="{{ url_for('recette', recette_id=r.id) }}">{{ r.titre }}</a></li>
+            <li data-title="{{ r.titre }}">
+                <a href="{{ url_for('recette', recette_id=r.id) }}">{{ r.titre }}<span class="avis-badge" data-badge=""></span></a>
+            </li>
         {% endfor %}
     </ul>
 
@@ -38,6 +46,24 @@
         if ('serviceWorker' in navigator) {
             navigator.serviceWorker.register('/service-worker.js');
         }
+    </script>
+
+    <!-- ── Avis (Supabase) : note moyenne par recette ────────────────────── -->
+    <script src="{{ url_for('static', filename='avis.js') }}"></script>
+    <script>
+        function slugify(s) {
+            return String(s).toLowerCase().normalize("NFD")
+                .replace(/[\u0300-\u036f]/g, "")
+                .replace(/[^a-z0-9]+/g, "-")
+                .replace(/^-+|-+$/g, "");
+        }
+        // Chaque <li> connaît son titre ; on en déduit le slug et on le pose
+        // sur le badge, puis avis.js remplit les moyennes en une requête.
+        document.querySelectorAll('#liste-recettes li').forEach(li => {
+            const badge = li.querySelector('[data-badge]');
+            if (badge) badge.dataset.badge = slugify(li.dataset.title);
+        });
+        remplirBadgesAvis();
     </script>
 </body>
 </html>

@@ -16,5 +16,21 @@
     <article class="recette">
         {{ contenu_html|safe }}
     </article>
+
+    <!-- ── Avis (Supabase) ───────────────────────────────────────────────── -->
+    <section id="avis-zone"></section>
+    <script src="{{ url_for('static', filename='avis.js') }}"></script>
+    <script>
+        // Le slug doit être identique à celui calculé par build.py (_slug),
+        // afin que la prévisualisation locale et le site en ligne partagent
+        // les mêmes avis pour une recette donnée.
+        function slugify(s) {
+            return String(s).toLowerCase().normalize("NFD")
+                .replace(/[\u0300-\u036f]/g, "")
+                .replace(/[^a-z0-9]+/g, "-")
+                .replace(/^-+|-+$/g, "");
+        }
+        initAvisRecette(slugify({{ titre|tojson }}));
+    </script>
 </body>
 </html>
