@@ -17,20 +17,24 @@
         {{ contenu_html|safe }}
     </article>
 
-    <!-- ── Avis (Supabase) ───────────────────────────────────────────────── -->
+    <!-- ── Photos + Avis (Supabase) ─────────────────────────────────────── -->
+    <section id="photos-zone"></section>
     <section id="avis-zone"></section>
     <script src="{{ url_for('static', filename='avis.js') }}"></script>
+    <script src="{{ url_for('static', filename='photos.js') }}"></script>
     <script>
         // Le slug doit être identique à celui calculé par build.py (_slug),
         // afin que la prévisualisation locale et le site en ligne partagent
-        // les mêmes avis pour une recette donnée.
+        // les mêmes avis et photos pour une recette donnée.
         function slugify(s) {
             return String(s).toLowerCase().normalize("NFD")
                 .replace(/[\u0300-\u036f]/g, "")
                 .replace(/[^a-z0-9]+/g, "-")
                 .replace(/^-+|-+$/g, "");
         }
-        initAvisRecette(slugify({{ titre|tojson }}));
+        const _slug = slugify({{ titre|tojson }});
+        initAvisRecette(_slug);
+        initPhotosRecette(_slug);
     </script>
 </body>
 </html>

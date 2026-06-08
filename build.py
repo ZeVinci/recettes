@@ -912,9 +912,14 @@ TMPL_RECETTE = """<!DOCTYPE html>
     <article class="recette">
         {{ contenu_html }}
     </article>
+    <section id="photos-zone"></section>
     <section id="avis-zone"></section>
     <script src="../avis.js"></script>
-    <script>initAvisRecette("{{ recette_slug }}");</script>
+    <script src="../photos.js"></script>
+    <script>
+        initAvisRecette("{{ recette_slug }}");
+        initPhotosRecette("{{ recette_slug }}");
+    </script>
 </body>
 </html>"""
 
@@ -1100,7 +1105,7 @@ def build():
 
     # 11. Service worker v7
     fichiers = (
-        ["./index.html", "./style.css", "./avis.js", "./menu.html",
+        ["./index.html", "./style.css", "./avis.js", "./photos.js", "./menu.html",
          "./ingredients.html", "./courses.html"]
         + [f"./recettes/{r['id']}.html" for r in recettes]
     )
@@ -1112,7 +1117,7 @@ def build():
 
 def _genere_sw(fichiers):
     liste = ",\n    ".join(f'"{f}"' for f in fichiers)
-    return f"""const CACHE = "recettes-v8";
+    return f"""const CACHE = "recettes-v9";
 const PRECACHE = [
     {liste}
 ];
