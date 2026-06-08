@@ -1,0 +1,32 @@
+name: Supabase heartbeat
+
+# Maintient le projet Supabase (palier gratuit) actif.
+# Un projet gratuit se met en pause après 7 jours sans activité ; une requête
+# quotidienne suffit largement à réinitialiser ce compteur.
+
+on:
+  schedule:
+    # Tous les jours à 06:17 UTC. (On évite pile l'heure ronde : les crons
+    # planifiés à :00 sont souvent retardés par la charge de GitHub.)
+    - cron: "17 6 * * *"
+  workflow_dispatch:   # permet aussi de le lancer à la main depuis l'onglet Actions
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Requête de maintien vers Supabase
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+        run: |
+          code=$(curl -s -o /dev/null -w "%{http_code}" \
+            "${SUPABASE_URL}/rest/v1/avis?select=id&limit=1" \
+            -H "apikey: ${SUPABASE_KEY}" \
+            -H "Authorization: Bearer ${SUPABASE_KEY}")
+          echo "Code HTTP renvoyé : $code"
+          if [ "$code" != "200" ]; then
+            echo "::error::Réponse inattendue ($code) — le heartbeat a peut-être échoué."
+            exit 1
+          fi
+          echo "Supabase a répondu : projet maintenu actif."
