@@ -8,8 +8,8 @@
        publiques, c'est normal qu'elles soient dans le code du site.)
    ============================================================================ */
 
-const SUPABASE_URL = "https://knocsfkgsobpfuddoghx.supabase.co";
-const SUPABASE_KEY = "sb_publishable__25rgJincAQ4e7WkPFeXRg_ck6Uo9kZ";
+const SUPABASE_URL_PHOTOS = "https://knocsfkgsobpfuddoghx.supabase.co";
+const SUPABASE_KEY_PHOTOS = "sb_publishable__25rgJincAQ4e7WkPFeXRg_ck6Uo9kZ";
 
 // --- Réglages internes ------------------------------------------------------
 const _BUCKET   = "photos";
