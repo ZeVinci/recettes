@@ -1077,7 +1077,7 @@ def build():
                             encoding="utf-8")
     print(f"Mot de passe ajouté sur {len(pages)} pages.")
 
-    # 11. Service worker v11
+    # 11. Service worker v12
     fichiers = (
         ["./index.html", "./style.css", "./avis.js", "./favoris.js", "./photos.js", "./menu.html",
          "./ingredients.html", "./courses.html"]
@@ -1091,7 +1091,7 @@ def build():
 
 def _genere_sw(fichiers):
     liste = ",\n    ".join(f'"{f}"' for f in fichiers)
-    return f"""const CACHE = "recettes-v11";
+    return f"""const CACHE = "recettes-v12";
 const PRECACHE = [
     {liste}
 ];
@@ -1105,7 +1105,23 @@ self.addEventListener("activate", e => {{
     self.clients.claim();
 }});
 self.addEventListener("fetch", e => {{
-    e.respondWith(caches.match(e.request).then(cached => cached || fetch(e.request)));
+    const req = e.request;
+    const accepteHtml = req.headers.get("accept") &&
+                        req.headers.get("accept").includes("text/html");
+    // Pages HTML : réseau d'abord (les changements de structure se propagent
+    // dès qu'on est en ligne), repli sur le cache si hors-ligne.
+    if (req.method === "GET" && (req.mode === "navigate" || accepteHtml)) {{
+        e.respondWith(
+            fetch(req).then(resp => {{
+                const copie = resp.clone();
+                caches.open(CACHE).then(c => c.put(req, copie));
+                return resp;
+            }}).catch(() => caches.match(req).then(c => c || caches.match("./index.html")))
+        );
+        return;
+    }}
+    // CSS / JS / images / JSON : cache d'abord (rapide, hors-ligne).
+    e.respondWith(caches.match(req).then(cached => cached || fetch(req)));
 }});
 """
 

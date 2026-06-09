@@ -1,4 +1,4 @@
-const CACHE = "recettes-v11";
+const CACHE = "recettes-v12";
 const PRECACHE = [
     "./index.html",
     "./style.css",
@@ -868,5 +868,21 @@ self.addEventListener("activate", e => {
     self.clients.claim();
 });
 self.addEventListener("fetch", e => {
-    e.respondWith(caches.match(e.request).then(cached => cached || fetch(e.request)));
+    const req = e.request;
+    const accepteHtml = req.headers.get("accept") &&
+                        req.headers.get("accept").includes("text/html");
+    // Pages HTML : réseau d'abord (les changements de structure se propagent
+    // dès qu'on est en ligne), repli sur le cache si hors-ligne.
+    if (req.method === "GET" && (req.mode === "navigate" || accepteHtml)) {
+        e.respondWith(
+            fetch(req).then(resp => {
+                const copie = resp.clone();
+                caches.open(CACHE).then(c => c.put(req, copie));
+                return resp;
+            }).catch(() => caches.match(req).then(c => c || caches.match("./index.html")))
+        );
+        return;
+    }
+    // CSS / JS / images / JSON : cache d'abord (rapide, hors-ligne).
+    e.respondWith(caches.match(req).then(cached => cached || fetch(req)));
 });
