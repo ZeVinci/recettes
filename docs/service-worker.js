@@ -855,8 +855,7 @@ const PRECACHE = [
     "./recettes/844.html",
     "./recettes/845.html",
     "./recettes/846.html",
-    "./recettes/847.html",
-    "./recettes/848.html"
+    "./recettes/847.html"
 ];
 self.addEventListener("install", e => {
     e.waitUntil(caches.open(CACHE).then(c => c.addAll(PRECACHE)));
