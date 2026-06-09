@@ -97,6 +97,26 @@
                     justify-content: center; padding: 0 4px; }
 
         .compteur { text-align: center; color: #7a95b0; font-size: .9rem; margin-top: 1.5rem; }
+
+        /* ── Favoris (inline : indépendant de style.css mis en cache) ── */
+        #liste-recettes li { position: relative; }
+        #liste-recettes li > a { padding-right: 44px; }
+        .fav-star { position: absolute; top: 0; right: 0; width: 44px; height: 100%;
+                    padding: 0; border: none; background: none; cursor: pointer;
+                    font-size: 22px; line-height: 1; color: #cdd8e4; z-index: 2;
+                    display: flex; align-items: center; justify-content: center; }
+        .fav-star.on { color: #c05a35; }
+        #fav-controls { display: flex; align-items: center; flex-wrap: wrap;
+                        gap: 8px; margin-top: 10px; }
+        .fav-only { display: inline-flex; align-items: center; gap: 6px;
+                    font-size: 13px; color: rgba(232,240,248,.9); cursor: pointer; }
+        .fav-only input { accent-color: #c05a35; }
+        .fav-actions { display: inline-flex; gap: 6px; margin-left: auto; }
+        .fav-btn { padding: 4px 10px; font-size: 12px; border-radius: 6px;
+                   border: 0.5px solid rgba(255,255,255,.28);
+                   background: rgba(255,255,255,.12); color: rgba(232,240,248,.9);
+                   cursor: pointer; }
+        .fav-btn:active { background: rgba(255,255,255,.25); }
     </style>
 
 <style>
@@ -171,8 +191,6 @@
             </button>
         </div>
 
-        <div id="fav-controls"></div>
-
         <div class="filter-label">Origine</div>
         <div class="filter-row">
             
@@ -226,6 +244,8 @@
             </div>
             <div class="ing-tags" id="ing-tags"></div>
         </div>
+
+        <div id="fav-controls"></div>
     </header>
 
     <ul id="liste-recettes">

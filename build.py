@@ -134,6 +134,26 @@ TMPL_LISTE = """<!DOCTYPE html>
                     justify-content: center; padding: 0 4px; }
 
         .compteur { text-align: center; color: #7a95b0; font-size: .9rem; margin-top: 1.5rem; }
+
+        /* ── Favoris (inline : indépendant de style.css mis en cache) ── */
+        #liste-recettes li { position: relative; }
+        #liste-recettes li > a { padding-right: 44px; }
+        .fav-star { position: absolute; top: 0; right: 0; width: 44px; height: 100%;
+                    padding: 0; border: none; background: none; cursor: pointer;
+                    font-size: 22px; line-height: 1; color: #cdd8e4; z-index: 2;
+                    display: flex; align-items: center; justify-content: center; }
+        .fav-star.on { color: #c05a35; }
+        #fav-controls { display: flex; align-items: center; flex-wrap: wrap;
+                        gap: 8px; margin-top: 10px; }
+        .fav-only { display: inline-flex; align-items: center; gap: 6px;
+                    font-size: 13px; color: rgba(232,240,248,.9); cursor: pointer; }
+        .fav-only input { accent-color: #c05a35; }
+        .fav-actions { display: inline-flex; gap: 6px; margin-left: auto; }
+        .fav-btn { padding: 4px 10px; font-size: 12px; border-radius: 6px;
+                   border: 0.5px solid rgba(255,255,255,.28);
+                   background: rgba(255,255,255,.12); color: rgba(232,240,248,.9);
+                   cursor: pointer; }
+        .fav-btn:active { background: rgba(255,255,255,.25); }
     </style>
 </head>
 <body>
@@ -146,8 +166,6 @@ TMPL_LISTE = """<!DOCTYPE html>
                 ☑ Sélection
             </button>
         </div>
-
-        <div id="fav-controls"></div>
 
         <div class="filter-label">Origine</div>
         <div class="filter-row">
@@ -174,6 +192,8 @@ TMPL_LISTE = """<!DOCTYPE html>
             </div>
             <div class="ing-tags" id="ing-tags"></div>
         </div>
+
+        <div id="fav-controls"></div>
     </header>
 
     <ul id="liste-recettes">
@@ -1057,7 +1077,7 @@ def build():
                             encoding="utf-8")
     print(f"Mot de passe ajouté sur {len(pages)} pages.")
 
-    # 11. Service worker v10
+    # 11. Service worker v11
     fichiers = (
         ["./index.html", "./style.css", "./avis.js", "./favoris.js", "./photos.js", "./menu.html",
          "./ingredients.html", "./courses.html"]
@@ -1071,7 +1091,7 @@ def build():
 
 def _genere_sw(fichiers):
     liste = ",\n    ".join(f'"{f}"' for f in fichiers)
-    return f"""const CACHE = "recettes-v10";
+    return f"""const CACHE = "recettes-v11";
 const PRECACHE = [
     {liste}
 ];

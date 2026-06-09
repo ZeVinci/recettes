@@ -79,7 +79,7 @@
       b.type = "button";
       b.className = "fav-star";
       b.setAttribute("aria-label", "Favori");
-      b.textContent = "\u2605";            // ★
+      b.textContent = "\u2606";            // ☆ (mis à jour par majEtoiles)
       b.addEventListener("click", function (e) {
         e.preventDefault();
         e.stopPropagation();               // ne pas déclencher le mode sélection
@@ -94,6 +94,7 @@
       var b = li.querySelector(".fav-star");
       if (!b) return;
       var on = favoris.has(li.dataset.slug);
+      b.textContent = on ? "\u2605" : "\u2606";   // ★ plein / ☆ vide
       b.classList.toggle("on", on);
       b.title = on ? "Retirer des favoris" : "Ajouter aux favoris";
     });
