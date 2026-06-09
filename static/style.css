@@ -42,15 +42,38 @@ h1 { color: #e8f0f8; margin: 0 0 0.5rem 0; }
     border-radius: 10px;
     border: 0.5px solid #d4dde8;
     margin-bottom: 6px;
+    position: relative;
 }
 
 #liste-recettes a {
     display: block;
-    padding: 0.9rem 0.75rem;
+    padding: 0.9rem 2.8rem 0.9rem 0.75rem;
     color: #1b3a5c;
     text-decoration: none;
     font-size: 1.05rem;
 }
+
+/* ── Favoris : étoile par recette ── */
+.fav-star {
+    position: absolute; top: 50%; right: 6px; transform: translateY(-50%);
+    width: 36px; height: 36px; padding: 0; border: none; background: none;
+    cursor: pointer; font-size: 20px; line-height: 1; color: #cdd8e4;
+    display: flex; align-items: center; justify-content: center; z-index: 2;
+}
+.fav-star.on { color: #c05a35; }
+
+/* ── Favoris : barre de contrôle (dans le header marine) ── */
+#fav-controls { display: flex; align-items: center; flex-wrap: wrap;
+                gap: 8px; margin-top: 8px; }
+.fav-only { display: inline-flex; align-items: center; gap: 6px;
+            font-size: 13px; color: rgba(232,240,248,.9); cursor: pointer; }
+.fav-only input { accent-color: #c05a35; }
+.fav-actions { display: inline-flex; gap: 6px; margin-left: auto; }
+.fav-btn { padding: 4px 10px; font-size: 12px; border-radius: 6px;
+           border: 0.5px solid rgba(255,255,255,.28);
+           background: rgba(255,255,255,.12); color: rgba(232,240,248,.9);
+           cursor: pointer; }
+.fav-btn:active { background: rgba(255,255,255,.25); }
 
 #liste-recettes a:active { background: #e8f0f8; border-radius: 10px; }
 

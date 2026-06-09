@@ -93,20 +93,6 @@ TMPL_LISTE = """<!DOCTYPE html>
         .ing-tag button { background: none; border: none; cursor: pointer; color: #fde8dc;
                           font-size: 15px; line-height: 1; padding: 0; }
 
-        /* ── Onglets ── */
-        .tabs { display: flex; border-bottom: 0.5px solid #d4dde8;
-                background: #f0f4f8; position: sticky; top: 0; z-index: 10; }
-        .tab-btn { flex: 1; padding: 11px 8px; font-size: 13px; cursor: pointer;
-                   text-align: center; color: #7a95b0; background: #f0f4f8;
-                   border: none; position: relative; }
-        .tab-btn.active { color: #1b3a5c; font-weight: 500; }
-        .tab-btn.active::after { content: ''; position: absolute; bottom: -0.5px;
-                                  left: 0; right: 0; height: 2px; background: #1b3a5c; }
-        .tab-count { display: inline-block; font-size: 11px; padding: 1px 6px;
-                     border-radius: 99px; margin-left: 4px;
-                     background: #d4dde8; color: #7a95b0; }
-        .tab-btn.active .tab-count { background: #e8f0f8; color: #0c2e4f; }
-
         /* ── Tags recettes ── */
         .item-tags { display: flex; gap: 4px; flex-wrap: wrap; margin-top: 4px; }
         .tag { font-size: 11px; padding: 2px 7px; border-radius: 99px; }
@@ -161,6 +147,8 @@ TMPL_LISTE = """<!DOCTYPE html>
             </button>
         </div>
 
+        <div id="fav-controls"></div>
+
         <div class="filter-label">Origine</div>
         <div class="filter-row">
             {% for o in origines %}
@@ -188,16 +176,6 @@ TMPL_LISTE = """<!DOCTYPE html>
         </div>
     </header>
 
-    <!-- Onglets -->
-    <div class="tabs">
-        <button class="tab-btn active" id="tab-approuvees" onclick="switchTab('approuvees')">
-            Mes recettes <span class="tab-count" id="cnt-approuvees">0</span>
-        </button>
-        <button class="tab-btn" id="tab-bibliotheque" onclick="switchTab('bibliotheque')">
-            Bibliothèque <span class="tab-count" id="cnt-bibliotheque">0</span>
-        </button>
-    </div>
-
     <ul id="liste-recettes">
         {% for r in recettes %}
         <li data-id="{{ r.id }}"
@@ -216,9 +194,6 @@ TMPL_LISTE = """<!DOCTYPE html>
                     </span>
                     {% endif %}
                     {% endfor %}
-                    {% if not r.approuvee %}
-                    <span class="tag tag-bib">À tester</span>
-                    {% endif %}
                     <span class="avis-badge" data-badge="{{ r.slug }}"></span>
                 </div>
             </a>
@@ -237,6 +212,7 @@ TMPL_LISTE = """<!DOCTYPE html>
         </a>
     </div>
 
+    <script src="favoris.js"></script>
     <script>
     const ORIGINES    = {{ origines | tojson }};
     const TOUS_INGR   = {{ tous_ingredients | tojson }};
@@ -244,7 +220,6 @@ TMPL_LISTE = """<!DOCTYPE html>
     const ingActifs   = new Set();
     let texteRecherche = "";
     let modeSel = false;
-    let onglet  = "approuvees";   // "approuvees" | "bibliotheque"
 
     const items    = Array.from(document.querySelectorAll("#liste-recettes li"));
     const compteur = document.getElementById("compteur");
@@ -273,16 +248,6 @@ TMPL_LISTE = """<!DOCTYPE html>
         document.body.classList.toggle("sel-mode", modeSel);
     }
 
-    /* ── Onglets ─────────────────────────────────────────────────────────── */
-    function switchTab(t) {
-        onglet = t;
-        document.getElementById("tab-approuvees").className =
-            "tab-btn" + (t === "approuvees" ? " active" : "");
-        document.getElementById("tab-bibliotheque").className =
-            "tab-btn" + (t === "bibliotheque" ? " active" : "");
-        filtrer();
-    }
-
     /* ── Score ingrédients ───────────────────────────────────────────────── */
     function scoreIng(li) {
         if (!ingActifs.size) return 1;
@@ -299,13 +264,13 @@ TMPL_LISTE = """<!DOCTYPE html>
         const filtresType    = [...actifs].filter(v => !ORIGINES.includes(v));
         const liste = document.getElementById("liste-recettes");
 
-        let cntApp = 0, cntBib = 0;
+        let cnt = 0;
         const visibles = [];
+        const favSeul = window.Favoris && Favoris.seulement();
 
         items.forEach(li => {
             const tags      = li.dataset.tags ? li.dataset.tags.split(",") : [];
             const titre     = li.textContent.toLowerCase();
-            const approuvee = li.dataset.approuvee === "true";
 
             const okTexte   = !texteRecherche || titre.includes(texteRecherche);
             const okOrigine = !filtresOrigine.length ||
@@ -314,25 +279,14 @@ TMPL_LISTE = """<!DOCTYPE html>
                               filtresType.every(f => tags.includes(f));
             const s         = scoreIng(li);
             const okIng     = !ingActifs.size || s > 0;
+            const okFav     = !favSeul || Favoris.estFavori(li.dataset.slug);
 
-            const passeFiltres = okTexte && okOrigine && okType && okIng;
+            const passeFiltres = okTexte && okOrigine && okType && okIng && okFav;
 
-            // Compteurs dynamiques (toutes recettes passant les filtres)
-            if (passeFiltres) {
-                if (approuvee)  cntApp++;
-                else            cntBib++;
-            }
+            li.style.display = passeFiltres ? "" : "none";
 
-            // Visibilité selon onglet actif
-            const dansOnglet = (onglet === "approuvees") === approuvee;
-            li.style.display = (passeFiltres && dansOnglet) ? "" : "none";
-
-            if (passeFiltres && dansOnglet) visibles.push({ li, s });
+            if (passeFiltres) { cnt++; visibles.push({ li, s }); }
         });
-
-        // Mise à jour des compteurs d'onglets
-        document.getElementById("cnt-approuvees").textContent = cntApp;
-        document.getElementById("cnt-bibliotheque").textContent = cntBib;
 
         // Tri par score ingrédients décroissant + badges
         if (ingActifs.size > 0 && visibles.length > 0) {
@@ -353,9 +307,7 @@ TMPL_LISTE = """<!DOCTYPE html>
             });
         }
 
-        // Compteur global de l'onglet actif
-        const total = onglet === "approuvees" ? cntApp : cntBib;
-        compteur.textContent = total + " recette" + (total > 1 ? "s" : "");
+        compteur.textContent = cnt + " recette" + (cnt > 1 ? "s" : "");
     }
 
     /* ── Clic sur une recette ─────────────────────────────────────────────── */
@@ -445,6 +397,8 @@ TMPL_LISTE = """<!DOCTYPE html>
         setTimeout(() => { sugBox.innerHTML = ""; }, 150));
 
     /* ── Init ─────────────────────────────────────────────────────────────── */
+    if (window.Favoris) Favoris.init();
+    document.addEventListener("favoris:change", filtrer);
     filtrer();
 
     if ("serviceWorker" in navigator)
@@ -1103,9 +1057,9 @@ def build():
                             encoding="utf-8")
     print(f"Mot de passe ajouté sur {len(pages)} pages.")
 
-    # 11. Service worker v7
+    # 11. Service worker v10
     fichiers = (
-        ["./index.html", "./style.css", "./avis.js", "./photos.js", "./menu.html",
+        ["./index.html", "./style.css", "./avis.js", "./favoris.js", "./photos.js", "./menu.html",
          "./ingredients.html", "./courses.html"]
         + [f"./recettes/{r['id']}.html" for r in recettes]
     )
@@ -1117,7 +1071,7 @@ def build():
 
 def _genere_sw(fichiers):
     liste = ",\n    ".join(f'"{f}"' for f in fichiers)
-    return f"""const CACHE = "recettes-v9";
+    return f"""const CACHE = "recettes-v10";
 const PRECACHE = [
     {liste}
 ];

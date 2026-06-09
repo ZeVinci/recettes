@@ -18,11 +18,12 @@
     <header>
         <h1>Mes recettes</h1>
         <input type="text" id="recherche" placeholder="Rechercher…" autocomplete="off">
+        <div id="fav-controls"></div>
     </header>
 
     <ul id="liste-recettes">
         {% for r in recettes %}
-            <li data-title="{{ r.titre }}">
+            <li data-title="{{ r.titre }}" data-approuvee="{{ 'true' if r.approuvee else 'false' }}">
                 <a href="{{ url_for('recette', recette_id=r.id) }}">{{ r.titre }}<span class="avis-badge" data-badge=""></span></a>
             </li>
         {% endfor %}
@@ -31,16 +32,35 @@
     <p class="compteur">{{ recettes|length }} recettes</p>
 
     <script>
-        // Filtrage en temps réel côté client. Pas besoin de serveur.
         const champ = document.getElementById('recherche');
         const items = document.querySelectorAll('#liste-recettes li');
-        champ.addEventListener('input', () => {
+
+        function slugify(s) {
+            return String(s).toLowerCase().normalize("NFD")
+                .replace(/[\u0300-\u036f]/g, "")
+                .replace(/[^a-z0-9]+/g, "-")
+                .replace(/^-+|-+$/g, "");
+        }
+        // Slug stable par recette (même calcul que Python _slug) — sert aux
+        // favoris et au badge d'avis.
+        items.forEach(li => { li.dataset.slug = slugify(li.dataset.title); });
+
+        function filtrer() {
             const q = champ.value.toLowerCase().trim();
+            const favSeul = window.Favoris && Favoris.seulement();
+            let n = 0;
             items.forEach(li => {
-                const txt = li.textContent.toLowerCase();
-                li.style.display = txt.includes(q) ? '' : 'none';
+                const okTexte = li.textContent.toLowerCase().includes(q);
+                const okFav   = !favSeul || Favoris.estFavori(li.dataset.slug);
+                const ok = okTexte && okFav;
+                li.style.display = ok ? '' : 'none';
+                if (ok) n++;
             });
-        });
+            const c = document.querySelector('.compteur');
+            if (c) c.textContent = n + ' recette' + (n > 1 ? 's' : '');
+        }
+        champ.addEventListener('input', filtrer);
+        document.addEventListener('favoris:change', filtrer);
 
         // Enregistrement du service worker pour la PWA.
         if ('serviceWorker' in navigator) {
@@ -48,20 +68,20 @@
         }
     </script>
 
+    <!-- ── Favoris ──────────────────────────────────────────────────────── -->
+    <script src="{{ url_for('static', filename='favoris.js') }}"></script>
+    <script>
+        if (window.Favoris) Favoris.init();
+        filtrer();
+    </script>
+
     <!-- ── Avis (Supabase) : note moyenne par recette ────────────────────── -->
     <script src="{{ url_for('static', filename='avis.js') }}"></script>
     <script>
-        function slugify(s) {
-            return String(s).toLowerCase().normalize("NFD")
-                .replace(/[\u0300-\u036f]/g, "")
-                .replace(/[^a-z0-9]+/g, "-")
-                .replace(/^-+|-+$/g, "");
-        }
-        // Chaque <li> connaît son titre ; on en déduit le slug et on le pose
-        // sur le badge, puis avis.js remplit les moyennes en une requête.
+        // Le slug est déjà posé sur chaque <li> ; on le reporte sur le badge.
         document.querySelectorAll('#liste-recettes li').forEach(li => {
             const badge = li.querySelector('[data-badge]');
-            if (badge) badge.dataset.badge = slugify(li.dataset.title);
+            if (badge) badge.dataset.badge = li.dataset.slug;
         });
         remplirBadgesAvis();
     </script>
