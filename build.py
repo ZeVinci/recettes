@@ -138,10 +138,10 @@ TMPL_LISTE = """<!DOCTYPE html>
         /* ── Favoris (inline : indépendant de style.css mis en cache) ── */
         #liste-recettes li { position: relative; }
         #liste-recettes li > a { padding-right: 44px; }
-        .fav-star { position: absolute; top: 0; right: 0; width: 44px; height: 100%;
-                    padding: 0; border: none; background: none; cursor: pointer;
-                    font-size: 22px; line-height: 1; color: #cdd8e4; z-index: 2;
-                    display: flex; align-items: center; justify-content: center; }
+        .fav-star { position: absolute; top: 50%; right: 6px; transform: translateY(-50%);
+                    width: 40px; height: 40px; padding: 0; border: none; background: none;
+                    cursor: pointer; font-size: 22px; line-height: 1; color: #cdd8e4;
+                    z-index: 2; display: flex; align-items: center; justify-content: center; }
         .fav-star.on { color: #c05a35; }
         #fav-controls { display: flex; align-items: center; flex-wrap: wrap;
                         gap: 8px; margin-top: 10px; }
