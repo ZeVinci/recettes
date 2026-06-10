@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tarte aux légumes grillés</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="manifest" href="../manifest.json">
+    <meta name="theme-color" content="#1b3a5c">
+    <style>
+        body { background: #f0f4f8; }
+        header { background: #1b3a5c; }
+        .bouton-retour { color: rgba(232,240,248,.85) !important; }
+        .bouton-retour:hover { color: #fff !important; }
+    </style>
+
+<style>
+  html.verrouille body > *:not(#porte) { display: none !important; }
+  #porte { display: none; }
+  html.verrouille #porte {
+    display: flex; position: fixed; inset: 0; z-index: 99999;
+    align-items: center; justify-content: center; background: #faf8f5;
+    font-family: -apple-system, system-ui, sans-serif;
+  }
+  #porte .boite { width: 100%; max-width: 300px; padding: 24px; text-align: center; }
+  #porte h2 { margin: 0 0 16px; font-size: 18px; color: #5a3a1a; font-weight: 600; }
+  #porte input { width: 100%; padding: 12px; font-size: 16px; box-sizing: border-box;
+    border: 1px solid #d8cfc4; border-radius: 8px; background: #fff; margin-bottom: 10px; }
+  #porte button { width: 100%; padding: 12px; font-size: 15px; border: none;
+    border-radius: 8px; background: #1b3a5c; color: #fff; cursor: pointer; }
+  #porte .err { color: #c0392b; font-size: 13px; height: 16px; margin-bottom: 8px; }
+</style>
+<script>
+(function () {
+  var HASH = "0721ba9a209534aa3dba860230dc45ed3099223621973dd6f941df4386ab862c";
+  var CLE = "recettes_acces";
+  if (localStorage.getItem(CLE) === HASH) return;        // déjà entré : on laisse passer
+  document.documentElement.classList.add("verrouille");  // sinon on masque tout de suite
+
+  async function sha256(txt) {
+    var buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(txt));
+    return Array.from(new Uint8Array(buf))
+      .map(function (b) { return b.toString(16).padStart(2, "0"); }).join("");
+  }
+
+  function poser() {
+    var d = document.createElement("div");
+    d.id = "porte";
+    d.innerHTML =
+      '<div class="boite">' +
+      '<h2>\uD83D\uDD12 Mes recettes</h2>' +
+      '<div class="err" id="porte-err"></div>' +
+      '<input type="password" id="porte-mdp" placeholder="Mot de passe" autocomplete="current-password">' +
+      '<button id="porte-ok">Entrer</button></div>';
+    document.body.appendChild(d);
+    var inp = document.getElementById("porte-mdp");
+    var err = document.getElementById("porte-err");
+    inp.focus();
+    async function verifier() {
+      var h = await sha256(inp.value);
+      if (h === HASH) {
+        localStorage.setItem(CLE, HASH);
+        document.documentElement.classList.remove("verrouille");
+        d.remove();
+      } else {
+        err.textContent = "Mot de passe incorrect";
+        inp.value = ""; inp.focus();
+      }
+    }
+    document.getElementById("porte-ok").addEventListener("click", verifier);
+    inp.addEventListener("keydown", function (e) { if (e.key === "Enter") verifier(); });
+  }
+  if (document.body) poser();
+  else document.addEventListener("DOMContentLoaded", poser);
+})();
+</script>
+</head>
+<body>
+    <header class="header-recette">
+        <a href="../index.html" class="bouton-retour">← Retour</a>
+    </header>
+    <article class="recette">
+        <h1>Tarte aux légumes grillés</h1>
+<h2>Ingrédients</h2>
+<p><em>Pour 4 à 6 personnes</em></p>
+<ul>
+<li>1 poivron rouge et 1 poivron jaune</li>
+<li>1 aubergine moyenne coupée en morceaux de 4 cm</li>
+<li>1 petite patate douce épluchée et coupée en cubes de 3 cm</li>
+<li>1 petite courgette en cubes de 3 cm</li>
+<li>2 oignons moyens émincés</li>
+<li>2 feuilles de laurier</li>
+<li>300 g de pâte brisée</li>
+<li>8 brins de thym</li>
+<li>120 g de ricotta</li>
+<li>120 g de feta</li>
+<li>7 tomates cerise coupées en deux</li>
+<li>2 œufs fermiers moyens</li>
+<li>20 cl de crème double ou crème d'Isigny (40 % MG)</li>
+<li>Huile d'olive</li>
+<li>Sel et poivre noir</li>
+</ul>
+<h2>Commentaire</h2>
+<p>Cette tarte, qui regorge de légumes grillés, est un vrai festival de saveurs méditerranéennes.</p>
+<h2>Déroulé de la recette</h2>
+<ol>
+<li>Préchauffer le four à 230 °C. Retirer le pédoncule des poivrons et les graines. Mettre les poivrons dans un plat allant au four, arroser d'huile et glisser sur une grille en haut du four. Mélanger les aubergines avec 4 cuil. à soupe d'huile d'olive, sel et poivre. Étaler dans un grand plat et enfourner sur une grille en dessous des poivrons. Au bout de 12 min, ajouter les morceaux de patate douce et remuer. Faire de même avec la courgette 12 min plus tard. À ce stade, les poivrons doivent être bien grillés et les autres légumes cuits à point. Sortir les deux plats du four et baisser à 160 °C. Couvrir les poivrons d'alu et laisser refroidir, puis peler et couper en lanières.</li>
+<li>Pendant que les légumes rôtissent, faire chauffer 2 cuil. à soupe d'huile dans une poêle sur feu moyen et faire revenir les oignons avec le laurier et un peu de sel pendant 25 min. Quand ils sont fondants et colorés, retirer du feu et jeter le laurier.</li>
+<li>Graisser un moule à tarte à fond amovible de 22 cm. Étaler la pâte sur 3 mm et former un disque assez grand pour déborder un peu du haut du moule. Mettre en place, poser un disque de papier sulfurisé et couvrir de haricots secs. Cuire à blanc 30 min. Retirer les haricots et le papier, remettre 10 à 15 min pour dorer. Laisser refroidir.</li>
+<li>Répartir sur le fond de tarte les oignons, puis les légumes grillés. Parsemer avec la moitié du thym effeuillé, garnir avec la feta et la ricotta avant de disposer les tomates face coupée vers le haut.</li>
+<li>Fouetter les œufs et la crème avec sel et poivre. Verser délicatement sur les légumes sans recouvrir complètement les tomates et le fromage. Saupoudrer du reste du thym. Enfourner 35 à 45 min jusqu'à ce que l'ensemble soit cuit et doré. Laisser reposer au moins 10 min avant de casser l'excédent de pâte, démouler et servir.</li>
+</ol>
+    </article>
+    <section id="photos-zone"></section>
+    <section id="avis-zone"></section>
+    <script src="../avis.js"></script>
+    <script src="../photos.js"></script>
+    <script>
+        initAvisRecette("tarte-aux-legumes-grilles");
+        initPhotosRecette("tarte-aux-legumes-grilles");
+    </script>
+</body>
+</html>

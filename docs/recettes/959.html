@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trois délices de la terre</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="manifest" href="../manifest.json">
+    <meta name="theme-color" content="#1b3a5c">
+    <style>
+        body { background: #f0f4f8; }
+        header { background: #1b3a5c; }
+        .bouton-retour { color: rgba(232,240,248,.85) !important; }
+        .bouton-retour:hover { color: #fff !important; }
+    </style>
+
+<style>
+  html.verrouille body > *:not(#porte) { display: none !important; }
+  #porte { display: none; }
+  html.verrouille #porte {
+    display: flex; position: fixed; inset: 0; z-index: 99999;
+    align-items: center; justify-content: center; background: #faf8f5;
+    font-family: -apple-system, system-ui, sans-serif;
+  }
+  #porte .boite { width: 100%; max-width: 300px; padding: 24px; text-align: center; }
+  #porte h2 { margin: 0 0 16px; font-size: 18px; color: #5a3a1a; font-weight: 600; }
+  #porte input { width: 100%; padding: 12px; font-size: 16px; box-sizing: border-box;
+    border: 1px solid #d8cfc4; border-radius: 8px; background: #fff; margin-bottom: 10px; }
+  #porte button { width: 100%; padding: 12px; font-size: 15px; border: none;
+    border-radius: 8px; background: #1b3a5c; color: #fff; cursor: pointer; }
+  #porte .err { color: #c0392b; font-size: 13px; height: 16px; margin-bottom: 8px; }
+</style>
+<script>
+(function () {
+  var HASH = "0721ba9a209534aa3dba860230dc45ed3099223621973dd6f941df4386ab862c";
+  var CLE = "recettes_acces";
+  if (localStorage.getItem(CLE) === HASH) return;        // déjà entré : on laisse passer
+  document.documentElement.classList.add("verrouille");  // sinon on masque tout de suite
+
+  async function sha256(txt) {
+    var buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(txt));
+    return Array.from(new Uint8Array(buf))
+      .map(function (b) { return b.toString(16).padStart(2, "0"); }).join("");
+  }
+
+  function poser() {
+    var d = document.createElement("div");
+    d.id = "porte";
+    d.innerHTML =
+      '<div class="boite">' +
+      '<h2>\uD83D\uDD12 Mes recettes</h2>' +
+      '<div class="err" id="porte-err"></div>' +
+      '<input type="password" id="porte-mdp" placeholder="Mot de passe" autocomplete="current-password">' +
+      '<button id="porte-ok">Entrer</button></div>';
+    document.body.appendChild(d);
+    var inp = document.getElementById("porte-mdp");
+    var err = document.getElementById("porte-err");
+    inp.focus();
+    async function verifier() {
+      var h = await sha256(inp.value);
+      if (h === HASH) {
+        localStorage.setItem(CLE, HASH);
+        document.documentElement.classList.remove("verrouille");
+        d.remove();
+      } else {
+        err.textContent = "Mot de passe incorrect";
+        inp.value = ""; inp.focus();
+      }
+    }
+    document.getElementById("porte-ok").addEventListener("click", verifier);
+    inp.addEventListener("keydown", function (e) { if (e.key === "Enter") verifier(); });
+  }
+  if (document.body) poser();
+  else document.addEventListener("DOMContentLoaded", poser);
+})();
+</script>
+</head>
+<body>
+    <header class="header-recette">
+        <a href="../index.html" class="bouton-retour">← Retour</a>
+    </header>
+    <article class="recette">
+        <h1>Trois délices de la terre</h1>
+<h2>Ingrédients</h2>
+<p><em>Pour 4 petites portions</em></p>
+<ul>
+<li>400 g d'aubergines chinoises</li>
+<li>2 petites pommes de terre</li>
+<li>1 poivron vert</li>
+<li>2 gousses d'ail</li>
+<li>1 ciboule ou oignon nouveau</li>
+<li>½ cuil. à café de fécule de pomme de terre</li>
+<li>2 ½ cuil. à soupe de sauce soja claire</li>
+<li>8 cl d'eau</li>
+<li>3 cuil. à soupe d'huile végétale</li>
+<li>1 cuil. à café de sucre semoule</li>
+<li>Sel</li>
+</ul>
+<h2>Commentaire</h2>
+<p>Recette chinoise.</p>
+<p>Préparation : 20 min | Repos : 1 heure | Cuisson : 35 min</p>
+<h2>Déroulé de la recette</h2>
+<ol>
+<li>Lavez les aubergines et coupez-les en lamelles (sans les éplucher). Faites-les dégorger dans une grande passoire, saupoudrées de sel, pendant 1 heure.</li>
+<li>Épluchez les pommes de terre. Coupez-les ainsi que le poivron en lamelles de la même taille que les aubergines. Rincez les pommes de terre sous l'eau claire.</li>
+<li>Pelez et hachez l'ail. Lavez et hachez la ciboule.</li>
+<li>Pressez les aubergines avec les mains pour extraire le maximum de jus.</li>
+<li>Faites chauffer 1 cuil. à soupe d'huile dans un wok à feu moyen. Ajoutez les pommes de terre et faites-les dorer doucement pendant 5 minutes environ. Déposez le poivron et continuez la cuisson 2 minutes. Débarrassez le tout sur une assiette.</li>
+<li>Faites chauffer le reste d'huile dans le wok puis faites cuire les aubergines 20 minutes environ à feu moyen jusqu'à ce qu'elles soient tendres, en remuant de temps en temps. Ajoutez 1 cuil. à soupe de sauce soja, les pommes de terre et le poivron, l'ail et la ciboule. Mélangez le tout. Versez ensuite le reste de sauce soja et le sucre. Mélangez à nouveau et laissez cuire 3 minutes.</li>
+<li>Dans un bol, diluez la fécule avec l'eau. Augmentez le feu au maximum sous le wok. Versez la fécule délayée et remuez vivement : la sauce épaissit en quelques secondes. Arrêtez la cuisson et servez.</li>
+</ol>
+    </article>
+    <section id="photos-zone"></section>
+    <section id="avis-zone"></section>
+    <script src="../avis.js"></script>
+    <script src="../photos.js"></script>
+    <script>
+        initAvisRecette("trois-delices-de-la-terre");
+        initPhotosRecette("trois-delices-de-la-terre");
+    </script>
+</body>
+</html>

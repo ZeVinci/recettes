@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soupe de la godaille</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="manifest" href="../manifest.json">
+    <meta name="theme-color" content="#1b3a5c">
+    <style>
+        body { background: #f0f4f8; }
+        header { background: #1b3a5c; }
+        .bouton-retour { color: rgba(232,240,248,.85) !important; }
+        .bouton-retour:hover { color: #fff !important; }
+    </style>
+
+<style>
+  html.verrouille body > *:not(#porte) { display: none !important; }
+  #porte { display: none; }
+  html.verrouille #porte {
+    display: flex; position: fixed; inset: 0; z-index: 99999;
+    align-items: center; justify-content: center; background: #faf8f5;
+    font-family: -apple-system, system-ui, sans-serif;
+  }
+  #porte .boite { width: 100%; max-width: 300px; padding: 24px; text-align: center; }
+  #porte h2 { margin: 0 0 16px; font-size: 18px; color: #5a3a1a; font-weight: 600; }
+  #porte input { width: 100%; padding: 12px; font-size: 16px; box-sizing: border-box;
+    border: 1px solid #d8cfc4; border-radius: 8px; background: #fff; margin-bottom: 10px; }
+  #porte button { width: 100%; padding: 12px; font-size: 15px; border: none;
+    border-radius: 8px; background: #1b3a5c; color: #fff; cursor: pointer; }
+  #porte .err { color: #c0392b; font-size: 13px; height: 16px; margin-bottom: 8px; }
+</style>
+<script>
+(function () {
+  var HASH = "0721ba9a209534aa3dba860230dc45ed3099223621973dd6f941df4386ab862c";
+  var CLE = "recettes_acces";
+  if (localStorage.getItem(CLE) === HASH) return;        // déjà entré : on laisse passer
+  document.documentElement.classList.add("verrouille");  // sinon on masque tout de suite
+
+  async function sha256(txt) {
+    var buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(txt));
+    return Array.from(new Uint8Array(buf))
+      .map(function (b) { return b.toString(16).padStart(2, "0"); }).join("");
+  }
+
+  function poser() {
+    var d = document.createElement("div");
+    d.id = "porte";
+    d.innerHTML =
+      '<div class="boite">' +
+      '<h2>\uD83D\uDD12 Mes recettes</h2>' +
+      '<div class="err" id="porte-err"></div>' +
+      '<input type="password" id="porte-mdp" placeholder="Mot de passe" autocomplete="current-password">' +
+      '<button id="porte-ok">Entrer</button></div>';
+    document.body.appendChild(d);
+    var inp = document.getElementById("porte-mdp");
+    var err = document.getElementById("porte-err");
+    inp.focus();
+    async function verifier() {
+      var h = await sha256(inp.value);
+      if (h === HASH) {
+        localStorage.setItem(CLE, HASH);
+        document.documentElement.classList.remove("verrouille");
+        d.remove();
+      } else {
+        err.textContent = "Mot de passe incorrect";
+        inp.value = ""; inp.focus();
+      }
+    }
+    document.getElementById("porte-ok").addEventListener("click", verifier);
+    inp.addEventListener("keydown", function (e) { if (e.key === "Enter") verifier(); });
+  }
+  if (document.body) poser();
+  else document.addEventListener("DOMContentLoaded", poser);
+})();
+</script>
+</head>
+<body>
+    <header class="header-recette">
+        <a href="../index.html" class="bouton-retour">← Retour</a>
+    </header>
+    <article class="recette">
+        <h1>Soupe de la godaille</h1>
+<h2>Ingrédients</h2>
+<p><em>Pour 6 personnes</em></p>
+<ul>
+<li>1 kg de poissons à soupe (congres, rougets, grondins, tacauds, maquereaux, vieilles…)</li>
+<li>200 g d'oignons</li>
+<li>200 g de pommes de terre</li>
+<li>6 gousses d'ail</li>
+<li>50 g de beurre</li>
+<li>15 cl de vin blanc</li>
+<li>1 bouquet garni (thym, laurier, céleri, queues de persil, vert de poireau)</li>
+<li>10 cl de crème fraîche</li>
+<li>Sel, poivre, piment</li>
+</ul>
+<h2>Commentaire</h2>
+<p>La godaille est la part de pêche que reçoit le pêcheur en plus de son salaire, souvent composée de plusieurs variétés de poissons. Chaque port de pêche a sa recette de soupe de poissons ; celle-ci est à la mode lorientaise. Peut aussi se cuisiner uniquement avec des sardines de première fraîcheur, servie alors avec des croûtons grattés à l'ail et à la tomate.</p>
+<p><strong>Nevez :</strong> Battre 12 cl de crème fraîche avec le zeste d'un citron râpé, sel et poivre jusqu'à consistance chantilly. Beurrer 3 crêpes de sarrasin sur toute la surface, les rouler et les découper en fines lamelles. Étaler sur la plaque du four et cuire jusqu'à légère coloration (environ 1 min, four très chaud 250 °C). Verser la soupe bien chaude (non crémée) dans des assiettes creuses, disposer une quenelle de chantilly au citron au centre et accompagner de « tagliatelles de crêpes croustillantes ».</p>
+<p><strong>Yec'hed mat :</strong> Même si l'on consomme peu de vin avec un potage déjà assez liquide, on pourrait privilégier un vin blanc sec fruité avec une belle fraîcheur — un Muscadet par exemple, selon la suite du repas.</p>
+<h2>Déroulé de la recette</h2>
+<ol>
+<li>
+<p><strong>Préparation des poissons et légumes :</strong> Écailler, ébarber et vider les poissons. Les tailler en morceaux d'environ 100 g en gardant les têtes sans les branchies. Faire dégorger dans de l'eau très fraîche 15 min. Éplucher les pommes de terre, les oignons et l'ail ; couper les pommes de terre en gros cubes, écraser l'ail et émincer les oignons.</p>
+</li>
+<li>
+<p><strong>Confection de la soupe :</strong> Dans une cocotte, faire fondre 50 g de beurre, y faire revenir les oignons et l'ail assez vivement. Ajouter les poissons égouttés et faire suer 5 min. Déglacer au vin blanc, laisser réduire doucement 10 min. Ajouter le bouquet garni et les pommes de terre, recouvrir d'eau à bonne hauteur. Assaisonner (sel, poivre, piment), porter à ébullition et laisser frémir à feu doux 1 heure.</p>
+</li>
+<li>
+<p><strong>Finition :</strong> Passer la soupe au moulin à légumes à grille fine, jeter les déchets et mixer légèrement avec le mixeur plongeant. Remettre dans la cocotte, porter à ébullition, ajouter un peu d'eau si trop épaisse. Verser la crème fraîche et rectifier l'assaisonnement.</p>
+</li>
+<li>
+<p><strong>Dressage :</strong> Servir en soupière avec des croûtons aillés et du gruyère râpé.</p>
+</li>
+</ol>
+    </article>
+    <section id="photos-zone"></section>
+    <section id="avis-zone"></section>
+    <script src="../avis.js"></script>
+    <script src="../photos.js"></script>
+    <script>
+        initAvisRecette("soupe-de-la-godaille");
+        initPhotosRecette("soupe-de-la-godaille");
+    </script>
+</body>
+</html>

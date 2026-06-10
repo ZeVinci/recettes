@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tagliatelles au safran</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="manifest" href="../manifest.json">
+    <meta name="theme-color" content="#1b3a5c">
+    <style>
+        body { background: #f0f4f8; }
+        header { background: #1b3a5c; }
+        .bouton-retour { color: rgba(232,240,248,.85) !important; }
+        .bouton-retour:hover { color: #fff !important; }
+    </style>
+
+<style>
+  html.verrouille body > *:not(#porte) { display: none !important; }
+  #porte { display: none; }
+  html.verrouille #porte {
+    display: flex; position: fixed; inset: 0; z-index: 99999;
+    align-items: center; justify-content: center; background: #faf8f5;
+    font-family: -apple-system, system-ui, sans-serif;
+  }
+  #porte .boite { width: 100%; max-width: 300px; padding: 24px; text-align: center; }
+  #porte h2 { margin: 0 0 16px; font-size: 18px; color: #5a3a1a; font-weight: 600; }
+  #porte input { width: 100%; padding: 12px; font-size: 16px; box-sizing: border-box;
+    border: 1px solid #d8cfc4; border-radius: 8px; background: #fff; margin-bottom: 10px; }
+  #porte button { width: 100%; padding: 12px; font-size: 15px; border: none;
+    border-radius: 8px; background: #1b3a5c; color: #fff; cursor: pointer; }
+  #porte .err { color: #c0392b; font-size: 13px; height: 16px; margin-bottom: 8px; }
+</style>
+<script>
+(function () {
+  var HASH = "0721ba9a209534aa3dba860230dc45ed3099223621973dd6f941df4386ab862c";
+  var CLE = "recettes_acces";
+  if (localStorage.getItem(CLE) === HASH) return;        // déjà entré : on laisse passer
+  document.documentElement.classList.add("verrouille");  // sinon on masque tout de suite
+
+  async function sha256(txt) {
+    var buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(txt));
+    return Array.from(new Uint8Array(buf))
+      .map(function (b) { return b.toString(16).padStart(2, "0"); }).join("");
+  }
+
+  function poser() {
+    var d = document.createElement("div");
+    d.id = "porte";
+    d.innerHTML =
+      '<div class="boite">' +
+      '<h2>\uD83D\uDD12 Mes recettes</h2>' +
+      '<div class="err" id="porte-err"></div>' +
+      '<input type="password" id="porte-mdp" placeholder="Mot de passe" autocomplete="current-password">' +
+      '<button id="porte-ok">Entrer</button></div>';
+    document.body.appendChild(d);
+    var inp = document.getElementById("porte-mdp");
+    var err = document.getElementById("porte-err");
+    inp.focus();
+    async function verifier() {
+      var h = await sha256(inp.value);
+      if (h === HASH) {
+        localStorage.setItem(CLE, HASH);
+        document.documentElement.classList.remove("verrouille");
+        d.remove();
+      } else {
+        err.textContent = "Mot de passe incorrect";
+        inp.value = ""; inp.focus();
+      }
+    }
+    document.getElementById("porte-ok").addEventListener("click", verifier);
+    inp.addEventListener("keydown", function (e) { if (e.key === "Enter") verifier(); });
+  }
+  if (document.body) poser();
+  else document.addEventListener("DOMContentLoaded", poser);
+})();
+</script>
+</head>
+<body>
+    <header class="header-recette">
+        <a href="../index.html" class="bouton-retour">← Retour</a>
+    </header>
+    <article class="recette">
+        <h1>Tagliatelles au safran</h1>
+<p><em>Pimenté — Pour 4 personnes</em></p>
+<p>Ces pâtes ont vu le jour grâce à la recette de la page ci-contre (tagliatelles au safran avec ricotta et échalotes frites au piment chipotle). Mais elles sont également délicieuses avec notre ragù ultime cuit sur une plaque (voir p. 101) ou celui de nos lasagnes aux champignons épicés (voir p. 228), voire une sauce tomate nature, du parmesan et un filet d'huile d'olive. <em>(Illustration en double page suivante.)</em></p>
+<h2>Ingrédients</h2>
+<ul>
+<li>¼ de cuil. à café de stigmates de safran, infusés au moins 20 min dans 2½ cuil. à soupe d'eau bouillante</li>
+<li>225 g de farine T45 (pour les pâtes fraîches) + un peu pour saupoudrer</li>
+<li>70 g de semoule fine</li>
+<li>2 œufs entiers + 2 jaunes</li>
+</ul>
+<h2>Déroulé</h2>
+<ol>
+<li>
+<p>Pour confectionner les pâtes, mettez tous les ingrédients (y compris l'eau de trempage du safran) dans le bol d'un robot de cuisine et battez-les pendant environ 30 s pour obtenir la texture d'une chapelure collante. Déposez la pâte sur une surface légèrement farinée et pétrissez-la vigoureusement pendant 7 min, jusqu'à ce qu'elle devienne lisse et souple. Façonnez un disque, enveloppez d'un film alimentaire et laissez reposer 30 min.</p>
+</li>
+<li>
+<p>Fixez la machine à pâtes sur votre plan de travail. Divisez la pâte en quatre pâtons que vous gardez bien couverts. Prenez un pâton, formez un rectangle avec la pâte, puis faites-le passer deux fois dans la machine dont le laminoir est réglé sur l'épaisseur maximale, en le farinant légèrement à mesure que la feuille se forme. Rabattez les côtés irréguliers au centre, puis retournez la bande avant de la faire passer deux fois dans la machine, en la farinant régulièrement : vous devez obtenir des bords bien droits. Descendez d'un cran le niveau d'épaisseur et faites passer la pâte deux fois dans la machine, toujours en la farinant. Continuez ainsi jusqu'à arriver à l'avant-dernier cran, pour que les pâtes ne soient pas trop fines.</p>
+</li>
+<li>
+<p>Pliez la feuille de pâtes en quatre dans la longueur, en farinant chaque couche pour qu'elles ne collent pas. Coupez des pâtes de 2 cm de large avec un couteau bien aiguisé pour obtenir des tagliatelles bien larges. Placez-les sur le dos d'une chaise pour les faire sécher, pendant que vous travaillez les 3 autres pâtons. Formez les tagliatelles en nids, en les farinant, puis placez-les sur un plateau fariné. Pour les tagliatelles aux échalotes frites (page ci-contre), réservez la quantité de pâtes nécessaire à couvert, prêtes à être cuites.</p>
+</li>
+<li>
+<p>Si vous ne réalisez pas cette recette, faites cuire les tagliatelles 1 min dans un grand volume d'eau bouillante salée, dans une grande casserole (pour que les pâtes ne se collent pas entre elles), en remuant à la fourchette pour les séparer. Égouttez-les, assaisonnez-les avec la sauce de votre choix et servez sans attendre.</p>
+</li>
+</ol>
+<h2>Notes personnelles</h2>
+<p>Testé et sélectionné.</p>
+    </article>
+    <section id="photos-zone"></section>
+    <section id="avis-zone"></section>
+    <script src="../avis.js"></script>
+    <script src="../photos.js"></script>
+    <script>
+        initAvisRecette("tagliatelles-au-safran");
+        initPhotosRecette("tagliatelles-au-safran");
+    </script>
+</body>
+</html>

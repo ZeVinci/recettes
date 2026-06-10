@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tartare de truite au beurre noisette et aux pistaches</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="manifest" href="../manifest.json">
+    <meta name="theme-color" content="#1b3a5c">
+    <style>
+        body { background: #f0f4f8; }
+        header { background: #1b3a5c; }
+        .bouton-retour { color: rgba(232,240,248,.85) !important; }
+        .bouton-retour:hover { color: #fff !important; }
+    </style>
+
+<style>
+  html.verrouille body > *:not(#porte) { display: none !important; }
+  #porte { display: none; }
+  html.verrouille #porte {
+    display: flex; position: fixed; inset: 0; z-index: 99999;
+    align-items: center; justify-content: center; background: #faf8f5;
+    font-family: -apple-system, system-ui, sans-serif;
+  }
+  #porte .boite { width: 100%; max-width: 300px; padding: 24px; text-align: center; }
+  #porte h2 { margin: 0 0 16px; font-size: 18px; color: #5a3a1a; font-weight: 600; }
+  #porte input { width: 100%; padding: 12px; font-size: 16px; box-sizing: border-box;
+    border: 1px solid #d8cfc4; border-radius: 8px; background: #fff; margin-bottom: 10px; }
+  #porte button { width: 100%; padding: 12px; font-size: 15px; border: none;
+    border-radius: 8px; background: #1b3a5c; color: #fff; cursor: pointer; }
+  #porte .err { color: #c0392b; font-size: 13px; height: 16px; margin-bottom: 8px; }
+</style>
+<script>
+(function () {
+  var HASH = "0721ba9a209534aa3dba860230dc45ed3099223621973dd6f941df4386ab862c";
+  var CLE = "recettes_acces";
+  if (localStorage.getItem(CLE) === HASH) return;        // déjà entré : on laisse passer
+  document.documentElement.classList.add("verrouille");  // sinon on masque tout de suite
+
+  async function sha256(txt) {
+    var buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(txt));
+    return Array.from(new Uint8Array(buf))
+      .map(function (b) { return b.toString(16).padStart(2, "0"); }).join("");
+  }
+
+  function poser() {
+    var d = document.createElement("div");
+    d.id = "porte";
+    d.innerHTML =
+      '<div class="boite">' +
+      '<h2>\uD83D\uDD12 Mes recettes</h2>' +
+      '<div class="err" id="porte-err"></div>' +
+      '<input type="password" id="porte-mdp" placeholder="Mot de passe" autocomplete="current-password">' +
+      '<button id="porte-ok">Entrer</button></div>';
+    document.body.appendChild(d);
+    var inp = document.getElementById("porte-mdp");
+    var err = document.getElementById("porte-err");
+    inp.focus();
+    async function verifier() {
+      var h = await sha256(inp.value);
+      if (h === HASH) {
+        localStorage.setItem(CLE, HASH);
+        document.documentElement.classList.remove("verrouille");
+        d.remove();
+      } else {
+        err.textContent = "Mot de passe incorrect";
+        inp.value = ""; inp.focus();
+      }
+    }
+    document.getElementById("porte-ok").addEventListener("click", verifier);
+    inp.addEventListener("keydown", function (e) { if (e.key === "Enter") verifier(); });
+  }
+  if (document.body) poser();
+  else document.addEventListener("DOMContentLoaded", poser);
+})();
+</script>
+</head>
+<body>
+    <header class="header-recette">
+        <a href="../index.html" class="bouton-retour">← Retour</a>
+    </header>
+    <article class="recette">
+        <h1>Tartare de truite au beurre noisette et aux pistaches</h1>
+<h2>Ingrédients</h2>
+<p><em>Pour 4 personnes en entrée</em>
+- 1 échalote, émincée (30 g)
+- ½ cuil. à café de sucre semoule
+- 2 citrons : 2 cuil. à café de zeste et 40 ml de jus
+- 4 filets de truite, sans la peau, désarêtés et détaillés en cubes de 1,5 cm (360 g)
+- 1 cuil. à café d'huile d'olive
+- 25 g de beurre doux
+- ½ cuil. à café de graines de cumin
+- 20 g de pistaches décortiquées, hachées et torréfiées
+- 5 g de feuilles d'estragon, ciselées
+- Fleur de sel et poivre noir</p>
+<h2>Commentaire</h2>
+<p>La réussite d'un bon tartare repose exclusivement sur la qualité et la fraîcheur des produits utilisés. Choisir une truite aussi fraîche que possible et des pistaches de première qualité.</p>
+<h2>Déroulé de la recette</h2>
+<ol>
+<li>Dans un bol, masser l'échalote avec le sucre, 2 cuillères à soupe de jus de citron, ½ cuillère à café de fleur de sel et du poivre, puis réserver.</li>
+<li>Dans un cul-de-poule, mélanger les cubes de truite avec l'huile d'olive, le zeste de citron, les 2 dernières cuillères à café de jus de citron, 1,5 cuillère à café de fleur de sel et du poivre. Laisser mariner 30 minutes – pas plus, sinon l'acidité du citron risque de surcuire le poisson.</li>
+<li>Juste avant de dresser, verser le beurre et les graines de cumin dans une petite casserole sur feu moyen. Laisser fondre gentiment pendant env. 5 minutes, en faisant circuler le beurre dans la casserole. Quand il commence à mousser, prendre une belle couleur ambrée et exhaler des parfums de noisettes et de caramel, retirer du feu.</li>
+<li>Dresser les cubes de truite dans quatre assiettes et ajouter les échalotes (sans leur liquide résiduel) sur le dessus. Parsemer de pistaches, d'estragon et arroser de beurre noisette au cumin. Ajouter une pincée de fleur de sel et servir aussitôt.</li>
+</ol>
+    </article>
+    <section id="photos-zone"></section>
+    <section id="avis-zone"></section>
+    <script src="../avis.js"></script>
+    <script src="../photos.js"></script>
+    <script>
+        initAvisRecette("tartare-de-truite-au-beurre-noisette-et-aux-pistaches");
+        initPhotosRecette("tartare-de-truite-au-beurre-noisette-et-aux-pistaches");
+    </script>
+</body>
+</html>

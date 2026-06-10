@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soupe au sésame noir (Heukimja-juk)</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="manifest" href="../manifest.json">
+    <meta name="theme-color" content="#1b3a5c">
+    <style>
+        body { background: #f0f4f8; }
+        header { background: #1b3a5c; }
+        .bouton-retour { color: rgba(232,240,248,.85) !important; }
+        .bouton-retour:hover { color: #fff !important; }
+    </style>
+
+<style>
+  html.verrouille body > *:not(#porte) { display: none !important; }
+  #porte { display: none; }
+  html.verrouille #porte {
+    display: flex; position: fixed; inset: 0; z-index: 99999;
+    align-items: center; justify-content: center; background: #faf8f5;
+    font-family: -apple-system, system-ui, sans-serif;
+  }
+  #porte .boite { width: 100%; max-width: 300px; padding: 24px; text-align: center; }
+  #porte h2 { margin: 0 0 16px; font-size: 18px; color: #5a3a1a; font-weight: 600; }
+  #porte input { width: 100%; padding: 12px; font-size: 16px; box-sizing: border-box;
+    border: 1px solid #d8cfc4; border-radius: 8px; background: #fff; margin-bottom: 10px; }
+  #porte button { width: 100%; padding: 12px; font-size: 15px; border: none;
+    border-radius: 8px; background: #1b3a5c; color: #fff; cursor: pointer; }
+  #porte .err { color: #c0392b; font-size: 13px; height: 16px; margin-bottom: 8px; }
+</style>
+<script>
+(function () {
+  var HASH = "0721ba9a209534aa3dba860230dc45ed3099223621973dd6f941df4386ab862c";
+  var CLE = "recettes_acces";
+  if (localStorage.getItem(CLE) === HASH) return;        // déjà entré : on laisse passer
+  document.documentElement.classList.add("verrouille");  // sinon on masque tout de suite
+
+  async function sha256(txt) {
+    var buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(txt));
+    return Array.from(new Uint8Array(buf))
+      .map(function (b) { return b.toString(16).padStart(2, "0"); }).join("");
+  }
+
+  function poser() {
+    var d = document.createElement("div");
+    d.id = "porte";
+    d.innerHTML =
+      '<div class="boite">' +
+      '<h2>\uD83D\uDD12 Mes recettes</h2>' +
+      '<div class="err" id="porte-err"></div>' +
+      '<input type="password" id="porte-mdp" placeholder="Mot de passe" autocomplete="current-password">' +
+      '<button id="porte-ok">Entrer</button></div>';
+    document.body.appendChild(d);
+    var inp = document.getElementById("porte-mdp");
+    var err = document.getElementById("porte-err");
+    inp.focus();
+    async function verifier() {
+      var h = await sha256(inp.value);
+      if (h === HASH) {
+        localStorage.setItem(CLE, HASH);
+        document.documentElement.classList.remove("verrouille");
+        d.remove();
+      } else {
+        err.textContent = "Mot de passe incorrect";
+        inp.value = ""; inp.focus();
+      }
+    }
+    document.getElementById("porte-ok").addEventListener("click", verifier);
+    inp.addEventListener("keydown", function (e) { if (e.key === "Enter") verifier(); });
+  }
+  if (document.body) poser();
+  else document.addEventListener("DOMContentLoaded", poser);
+})();
+</script>
+</head>
+<body>
+    <header class="header-recette">
+        <a href="../index.html" class="bouton-retour">← Retour</a>
+    </header>
+    <article class="recette">
+        <h1>Soupe au sésame noir (Heukimja-juk)</h1>
+<h2>Ingrédients</h2>
+<p><em>Pour 4 bols</em></p>
+<ul>
+<li>160 g de riz rond</li>
+<li>80 g de sésame noir</li>
+<li>Sel</li>
+</ul>
+<p><strong>Décoration (facultative)</strong>
+- Quelques pignons de pin
+- Jujube séché</p>
+<h2>Commentaire</h2>
+<p>Cette soupe est aussi belle que bonne pour la santé. Après avoir passé le sésame et le riz au mixeur, filtrez-les (séparément) à travers un tamis pour ne garder que le liquide soyeux. La soupe sera plus veloutée et aura une présentation plus soignée. Préparation : 10 min. Trempage : 2 heures. Cuisson : 30 min.</p>
+<h2>Déroulé de la recette</h2>
+<p>Lavez le riz et faites-le tremper dans 600 ml d'eau pendant 2 heures minimum.</p>
+<p>Lavez le sésame dans un tamis pour filtrer les impuretés, égouttez-le, puis épongez-le dans un linge propre en appuyant dessus.</p>
+<p>Faites griller le sésame noir dans une poêle à feu vif pendant 2 minutes en remuant sans cesse avec une spatule en bois. Poursuivez la cuisson en baissant progressivement le feu jusqu'à feu très doux encore une dizaine de minutes. Les graines de sésame commencent à éclater, et dès que vous sentez une bonne odeur qui ressemble à celle de la noisette grillée, sortez-les immédiatement. Réservez-les sur une assiette et laissez-les refroidir. Mixez finement le sésame avec 350 ml d'eau et réservez.</p>
+<p>Égouttez le riz et mixez-le très finement avec 200 ml d'eau. Dans une casserole, versez 900 ml d'eau et le riz mixé. Portez le mélange à l'ébullition sur feu vif en remuant sans cesse, puis baissez le feu à feu doux et laissez cuire à couvert 20 minutes en remuant souvent. Ajoutez le sésame mixé et poursuivez la cuisson quelques minutes de plus. Salez.</p>
+<p>Servez la soupe chaude, éventuellement décorée de pignons et de lamelles de jujube séché.</p>
+    </article>
+    <section id="photos-zone"></section>
+    <section id="avis-zone"></section>
+    <script src="../avis.js"></script>
+    <script src="../photos.js"></script>
+    <script>
+        initAvisRecette("soupe-au-sesame-noir-heukimja-juk");
+        initPhotosRecette("soupe-au-sesame-noir-heukimja-juk");
+    </script>
+</body>
+</html>

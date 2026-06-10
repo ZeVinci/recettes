@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soupe à l'ail et à la harissa</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="manifest" href="../manifest.json">
+    <meta name="theme-color" content="#1b3a5c">
+    <style>
+        body { background: #f0f4f8; }
+        header { background: #1b3a5c; }
+        .bouton-retour { color: rgba(232,240,248,.85) !important; }
+        .bouton-retour:hover { color: #fff !important; }
+    </style>
+
+<style>
+  html.verrouille body > *:not(#porte) { display: none !important; }
+  #porte { display: none; }
+  html.verrouille #porte {
+    display: flex; position: fixed; inset: 0; z-index: 99999;
+    align-items: center; justify-content: center; background: #faf8f5;
+    font-family: -apple-system, system-ui, sans-serif;
+  }
+  #porte .boite { width: 100%; max-width: 300px; padding: 24px; text-align: center; }
+  #porte h2 { margin: 0 0 16px; font-size: 18px; color: #5a3a1a; font-weight: 600; }
+  #porte input { width: 100%; padding: 12px; font-size: 16px; box-sizing: border-box;
+    border: 1px solid #d8cfc4; border-radius: 8px; background: #fff; margin-bottom: 10px; }
+  #porte button { width: 100%; padding: 12px; font-size: 15px; border: none;
+    border-radius: 8px; background: #1b3a5c; color: #fff; cursor: pointer; }
+  #porte .err { color: #c0392b; font-size: 13px; height: 16px; margin-bottom: 8px; }
+</style>
+<script>
+(function () {
+  var HASH = "0721ba9a209534aa3dba860230dc45ed3099223621973dd6f941df4386ab862c";
+  var CLE = "recettes_acces";
+  if (localStorage.getItem(CLE) === HASH) return;        // déjà entré : on laisse passer
+  document.documentElement.classList.add("verrouille");  // sinon on masque tout de suite
+
+  async function sha256(txt) {
+    var buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(txt));
+    return Array.from(new Uint8Array(buf))
+      .map(function (b) { return b.toString(16).padStart(2, "0"); }).join("");
+  }
+
+  function poser() {
+    var d = document.createElement("div");
+    d.id = "porte";
+    d.innerHTML =
+      '<div class="boite">' +
+      '<h2>\uD83D\uDD12 Mes recettes</h2>' +
+      '<div class="err" id="porte-err"></div>' +
+      '<input type="password" id="porte-mdp" placeholder="Mot de passe" autocomplete="current-password">' +
+      '<button id="porte-ok">Entrer</button></div>';
+    document.body.appendChild(d);
+    var inp = document.getElementById("porte-mdp");
+    var err = document.getElementById("porte-err");
+    inp.focus();
+    async function verifier() {
+      var h = await sha256(inp.value);
+      if (h === HASH) {
+        localStorage.setItem(CLE, HASH);
+        document.documentElement.classList.remove("verrouille");
+        d.remove();
+      } else {
+        err.textContent = "Mot de passe incorrect";
+        inp.value = ""; inp.focus();
+      }
+    }
+    document.getElementById("porte-ok").addEventListener("click", verifier);
+    inp.addEventListener("keydown", function (e) { if (e.key === "Enter") verifier(); });
+  }
+  if (document.body) poser();
+  else document.addEventListener("DOMContentLoaded", poser);
+})();
+</script>
+</head>
+<body>
+    <header class="header-recette">
+        <a href="../index.html" class="bouton-retour">← Retour</a>
+    </header>
+    <article class="recette">
+        <h1>Soupe à l'ail et à la harissa</h1>
+<h2>Ingrédients</h2>
+<p><em>Pour 4 personnes</em></p>
+<ul>
+<li>4 échalotes moyennes finement hachées</li>
+<li>3 branches de céleri en petits dés</li>
+<li>40 g de beurre</li>
+<li>25 gousses d'ail moyennes émincées</li>
+<li>2 cuil. à café de gingembre frais haché</li>
+<li>1 cuil. à café de thym finement haché</li>
+<li>20 cl de vin blanc</li>
+<li>1 généreuse pincée de stigmates de safran</li>
+<li>4 feuilles de laurier</li>
+<li>1 l de bon bouillon de légumes</li>
+<li>4 cuil. à soupe de persil haché</li>
+<li>Coriandre grossièrement hachée</li>
+<li>Yaourt à la grecque (facultatif)</li>
+<li>Huile d'olive</li>
+<li>Gros sel de mer</li>
+</ul>
+<p><strong>Harissa</strong>
+- 1 poivron rouge
+- ¼ cuil. à café de graines de coriandre
+- ¼ cuil. à café de graines de cumin
+- ¼ cuil. à café de graines de carvi
+- 1 petit oignon rouge haché
+- 3 gousses d'ail hachées
+- 2 piments rouges frais (pas trop forts), épépinés et grossièrement hachés
+- ½ cuil. à soupe de concentré de tomate
+- 2 cuil. à soupe de jus de citron
+- Huile d'olive
+- Gros sel de mer</p>
+<h2>Commentaire</h2>
+<p>Cette soupe a une saveur délicieusement douce. La harissa maison prend du temps mais vaut le coup de l'avoir en réserve au réfrigérateur pour accompagner des aubergines grillées, des ragoûts de légumes, du riz et du couscous. On peut l'acheter toute prête en choisissant un produit de qualité.</p>
+<h2>Déroulé de la recette</h2>
+<ol>
+<li>Préparer la harissa : faire rôtir le poivron sous le gril 15 à 20 min jusqu'à ce qu'il soit noir sur toutes les faces. Le transférer dans un bol, couvrir de film alimentaire et laisser refroidir. Peler et jeter les graines. Dans une poêle, griller à sec 2 min sur feu doux la coriandre, le cumin et les graines de carvi. Piler en poudre fine. Faire chauffer ½ cuil. à soupe d'huile et faire frire l'oignon, l'ail et les piments 6 à 8 min jusqu'à ce qu'ils soient bien colorés. Mixer avec le poivron grillé, les épices moulues, le concentré de tomate, le jus de citron et 2 cuil. à café de gros sel. Réserver.</li>
+<li>Pour la soupe : faire chauffer 2 cuil. à soupe d'huile dans une poêle, ajouter le beurre, puis faire revenir les échalotes et le céleri 10 min. Quand ils commencent à fondre, ajouter l'ail et prolonger 5 min. Incorporer le gingembre et le thym. Verser le vin et laisser frémir quelques minutes, puis ajouter le safran, le laurier, le bouillon et ½ cuil. à café de gros sel. Laisser mijoter 10 min. Retirer le laurier et ajouter le persil.</li>
+<li>Mixer grossièrement en gardant quelques morceaux. Verser dans des bols peu profonds, incorporer un peu de harissa et parsemer de coriandre hachée. Terminer avec 1 cuil. de yaourt (facultatif).</li>
+</ol>
+    </article>
+    <section id="photos-zone"></section>
+    <section id="avis-zone"></section>
+    <script src="../avis.js"></script>
+    <script src="../photos.js"></script>
+    <script>
+        initAvisRecette("soupe-a-l-ail-et-a-la-harissa");
+        initPhotosRecette("soupe-a-l-ail-et-a-la-harissa");
+    </script>
+</body>
+</html>

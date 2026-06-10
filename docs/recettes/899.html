@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Suprêmes de poulet rôtis, pudding à l'ail et à l'estragon</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="manifest" href="../manifest.json">
+    <meta name="theme-color" content="#1b3a5c">
+    <style>
+        body { background: #f0f4f8; }
+        header { background: #1b3a5c; }
+        .bouton-retour { color: rgba(232,240,248,.85) !important; }
+        .bouton-retour:hover { color: #fff !important; }
+    </style>
+
+<style>
+  html.verrouille body > *:not(#porte) { display: none !important; }
+  #porte { display: none; }
+  html.verrouille #porte {
+    display: flex; position: fixed; inset: 0; z-index: 99999;
+    align-items: center; justify-content: center; background: #faf8f5;
+    font-family: -apple-system, system-ui, sans-serif;
+  }
+  #porte .boite { width: 100%; max-width: 300px; padding: 24px; text-align: center; }
+  #porte h2 { margin: 0 0 16px; font-size: 18px; color: #5a3a1a; font-weight: 600; }
+  #porte input { width: 100%; padding: 12px; font-size: 16px; box-sizing: border-box;
+    border: 1px solid #d8cfc4; border-radius: 8px; background: #fff; margin-bottom: 10px; }
+  #porte button { width: 100%; padding: 12px; font-size: 15px; border: none;
+    border-radius: 8px; background: #1b3a5c; color: #fff; cursor: pointer; }
+  #porte .err { color: #c0392b; font-size: 13px; height: 16px; margin-bottom: 8px; }
+</style>
+<script>
+(function () {
+  var HASH = "0721ba9a209534aa3dba860230dc45ed3099223621973dd6f941df4386ab862c";
+  var CLE = "recettes_acces";
+  if (localStorage.getItem(CLE) === HASH) return;        // déjà entré : on laisse passer
+  document.documentElement.classList.add("verrouille");  // sinon on masque tout de suite
+
+  async function sha256(txt) {
+    var buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(txt));
+    return Array.from(new Uint8Array(buf))
+      .map(function (b) { return b.toString(16).padStart(2, "0"); }).join("");
+  }
+
+  function poser() {
+    var d = document.createElement("div");
+    d.id = "porte";
+    d.innerHTML =
+      '<div class="boite">' +
+      '<h2>\uD83D\uDD12 Mes recettes</h2>' +
+      '<div class="err" id="porte-err"></div>' +
+      '<input type="password" id="porte-mdp" placeholder="Mot de passe" autocomplete="current-password">' +
+      '<button id="porte-ok">Entrer</button></div>';
+    document.body.appendChild(d);
+    var inp = document.getElementById("porte-mdp");
+    var err = document.getElementById("porte-err");
+    inp.focus();
+    async function verifier() {
+      var h = await sha256(inp.value);
+      if (h === HASH) {
+        localStorage.setItem(CLE, HASH);
+        document.documentElement.classList.remove("verrouille");
+        d.remove();
+      } else {
+        err.textContent = "Mot de passe incorrect";
+        inp.value = ""; inp.focus();
+      }
+    }
+    document.getElementById("porte-ok").addEventListener("click", verifier);
+    inp.addEventListener("keydown", function (e) { if (e.key === "Enter") verifier(); });
+  }
+  if (document.body) poser();
+  else document.addEventListener("DOMContentLoaded", poser);
+})();
+</script>
+</head>
+<body>
+    <header class="header-recette">
+        <a href="../index.html" class="bouton-retour">← Retour</a>
+    </header>
+    <article class="recette">
+        <h1>Suprêmes de poulet rôtis, pudding à l'ail et à l'estragon</h1>
+<h2>Ingrédients</h2>
+<p><em>Pour 6 personnes</em></p>
+<p><strong>Pudding</strong>
+- 2 têtes d'ail
+- 6 cl d'huile d'olive
+- 4 œufs
+- 30 cl de crème double
+- ½ cuil. à café de noix de cajou, râpée
+- ¼ de cuil. à café de cannelle moulue
+- 15 g d'estragon, ciselé
+- 10 g de beurre doux, fondu
+- 400 g de pain brioché sans la croûte, coupé en trois dans l'épaisseur
+- Sel de mer et poivre noir</p>
+<p><strong>Petits pois à l'estragon</strong>
+- 50 cl de bouillon de volaille sans sel
+- 75 g de beurre doux, réfrigéré et coupé en dés de 2 cm
+- 180 g de petits pois frais ou surgelés, blanchis 1 min et égouttés
+- 15 g de feuilles d'estragon</p>
+<p><strong>Suprêmes de poulet rôtis</strong>
+- 2 cuil. à soupe d'huile d'olive
+- 6 suprêmes de poulet (1,5 kg)
+- 10 g de brins de thym
+- 100 g de beurre doux, coupé en dés de 2 cm
+- 1 cuil. à soupe de jus de citron</p>
+<h2>Commentaire</h2>
+<p>Le pudding peut aussi se servir avec une simple salade verte au citron. Chez NOPI, on utilise des filets de faisan (saison : octobre-février) à la place du poulet — 6 filets de faisan (1 kg) avec la peau, cuisson plus courte : 2 min à la sauteuse puis 3 à 4 min au four. Le pudding peut être préparé à l'avance et réchauffé. Les petits pois à l'estragon sont préparés pendant la cuisson du pudding.</p>
+<h2>Déroulé de la recette</h2>
+<ol>
+<li>
+<p>Préchauffer le four à 210 °C.</p>
+</li>
+<li>
+<p><strong>Pudding :</strong> Éliminer le sommet des têtes d'ail, envelopper séparément dans du papier aluminium avec 2 cuil. à soupe d'huile et du sel. Rôtir 35 min, laisser reposer 10 min. Presser les gousses pour récupérer la chair, écraser en pâte fine avec l'huile de cuisson.</p>
+</li>
+<li>
+<p>Fouetter les œufs dans un saladier. Ajouter la crème double, la noix de cajou, la cannelle, l'estragon, 1 cuil. à café de sel et du poivre.</p>
+</li>
+<li>
+<p>Graisser un moule à cake (24 x 10 cm) avec le beurre fondu, tapisser de papier sulfurisé. Disposer une tranche de brioche, étaler la moitié de la purée d'ail, un tiers du mélange crème. Répéter avec la deuxième tranche de brioche, le reste de purée d'ail, un tiers de crème. Terminer avec la dernière brioche et le reste de crème. Presser délicatement et laisser reposer 30 min. Enfourner 25 à 30 min jusqu'à doré et cuit à cœur. Laisser reposer 15 min avant de démouler. Refroidir complètement, retirer le papier, couper en 6 tranches de 3,5 cm.</p>
+</li>
+<li>
+<p><strong>Petits pois :</strong> Verser le bouillon dans une casserole, porter à ébullition, réduire de moitié (~12 min). Hors du feu, incorporer le beurre au fouet avec ½ cuil. à café de sel. Ajouter les petits pois et l'estragon. Réchauffer doucement avant de servir.</p>
+</li>
+<li>
+<p><strong>Poulet :</strong> Assaisonner les suprêmes avec 1 cuil. à soupe de sel et du poivre. Chauffer l'huile à feu vif dans une grande sauteuse. Faire dorer les suprêmes côté peau 2 à 3 min en les retournant à mi-cuisson. Ajouter thym et beurre, arroser 1 min. Enfourner 12 à 15 min. Sortir, arroser de jus de citron et laisser reposer 1 min. Découper chaque suprême en deux.</p>
+</li>
+<li>
+<p><strong>5 min avant de sortir le poulet :</strong> Chauffer 2 cuil. à soupe d'huile dans une poêle, saisir les tranches de pudding 2 à 3 min en retournant à mi-cuisson.</p>
+</li>
+<li>
+<p>Disposer tranches de pudding et suprêmes dans les assiettes, déposer les petits pois en sauce à côté.</p>
+</li>
+</ol>
+    </article>
+    <section id="photos-zone"></section>
+    <section id="avis-zone"></section>
+    <script src="../avis.js"></script>
+    <script src="../photos.js"></script>
+    <script>
+        initAvisRecette("supremes-de-poulet-rotis-pudding-a-l-ail-et-a-l-estragon");
+        initPhotosRecette("supremes-de-poulet-rotis-pudding-a-l-ail-et-a-l-estragon");
+    </script>
+</body>
+</html>

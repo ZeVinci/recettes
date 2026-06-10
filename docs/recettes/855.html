@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soupe au pain, fromage et chou vert</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="manifest" href="../manifest.json">
+    <meta name="theme-color" content="#1b3a5c">
+    <style>
+        body { background: #f0f4f8; }
+        header { background: #1b3a5c; }
+        .bouton-retour { color: rgba(232,240,248,.85) !important; }
+        .bouton-retour:hover { color: #fff !important; }
+    </style>
+
+<style>
+  html.verrouille body > *:not(#porte) { display: none !important; }
+  #porte { display: none; }
+  html.verrouille #porte {
+    display: flex; position: fixed; inset: 0; z-index: 99999;
+    align-items: center; justify-content: center; background: #faf8f5;
+    font-family: -apple-system, system-ui, sans-serif;
+  }
+  #porte .boite { width: 100%; max-width: 300px; padding: 24px; text-align: center; }
+  #porte h2 { margin: 0 0 16px; font-size: 18px; color: #5a3a1a; font-weight: 600; }
+  #porte input { width: 100%; padding: 12px; font-size: 16px; box-sizing: border-box;
+    border: 1px solid #d8cfc4; border-radius: 8px; background: #fff; margin-bottom: 10px; }
+  #porte button { width: 100%; padding: 12px; font-size: 15px; border: none;
+    border-radius: 8px; background: #1b3a5c; color: #fff; cursor: pointer; }
+  #porte .err { color: #c0392b; font-size: 13px; height: 16px; margin-bottom: 8px; }
+</style>
+<script>
+(function () {
+  var HASH = "0721ba9a209534aa3dba860230dc45ed3099223621973dd6f941df4386ab862c";
+  var CLE = "recettes_acces";
+  if (localStorage.getItem(CLE) === HASH) return;        // déjà entré : on laisse passer
+  document.documentElement.classList.add("verrouille");  // sinon on masque tout de suite
+
+  async function sha256(txt) {
+    var buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(txt));
+    return Array.from(new Uint8Array(buf))
+      .map(function (b) { return b.toString(16).padStart(2, "0"); }).join("");
+  }
+
+  function poser() {
+    var d = document.createElement("div");
+    d.id = "porte";
+    d.innerHTML =
+      '<div class="boite">' +
+      '<h2>\uD83D\uDD12 Mes recettes</h2>' +
+      '<div class="err" id="porte-err"></div>' +
+      '<input type="password" id="porte-mdp" placeholder="Mot de passe" autocomplete="current-password">' +
+      '<button id="porte-ok">Entrer</button></div>';
+    document.body.appendChild(d);
+    var inp = document.getElementById("porte-mdp");
+    var err = document.getElementById("porte-err");
+    inp.focus();
+    async function verifier() {
+      var h = await sha256(inp.value);
+      if (h === HASH) {
+        localStorage.setItem(CLE, HASH);
+        document.documentElement.classList.remove("verrouille");
+        d.remove();
+      } else {
+        err.textContent = "Mot de passe incorrect";
+        inp.value = ""; inp.focus();
+      }
+    }
+    document.getElementById("porte-ok").addEventListener("click", verifier);
+    inp.addEventListener("keydown", function (e) { if (e.key === "Enter") verifier(); });
+  }
+  if (document.body) poser();
+  else document.addEventListener("DOMContentLoaded", poser);
+})();
+</script>
+</head>
+<body>
+    <header class="header-recette">
+        <a href="../index.html" class="bouton-retour">← Retour</a>
+    </header>
+    <article class="recette">
+        <h1>Soupe au pain, fromage et chou vert</h1>
+<h2>Ingrédients</h2>
+<p><em>Pour 6-8 personnes</em></p>
+<ul>
+<li>7,5 cl d'huile d'olive</li>
+<li>30 g de beurre doux</li>
+<li>3 oignons, émincés (450 g)</li>
+<li>4 gousses d'ail : 2 entières + 2 émincées</li>
+<li>7 anchois, finement hachés</li>
+<li>3 c. à s. de feuilles de thym, finement hachées (10 g)</li>
+<li>1 feuille de laurier</li>
+<li>20 cl de vin blanc sec</li>
+<li>1 chou vert, les feuilles seulement, grossièrement déchirées (250 g)</li>
+<li>1 bouquet de cavolo nero, les feuilles seulement, grossièrement déchirées (150 g)</li>
+<li>¼ de c. à c. de noix de muscade moulue</li>
+<li>25 g de persil, grossièrement haché</li>
+<li>9 tranches de pain au levain ou de seigle, de 1 cm d'épaisseur (450 g)</li>
+<li>250 g de fontina (de gruyère ou de comté), râpée grossièrement</li>
+<li>50 g de parmesan, finement râpé</li>
+<li>2 l de bouillon de volaille (ou de bœuf) chaud, bien assaisonné</li>
+<li>Sel et poivre noir</li>
+</ul>
+<h2>Commentaire</h2>
+<p>C'est un peu comme si une soupe à l'oignon, une fondue au fromage et une raclette avaient décidé de se retrouver après une journée de randonnée dans la neige. Ce mélange de fromage et d'oignons sucrés est le summum du réconfort. À servir directement dans la cocotte, en faisant grincer les cuillères contre le fond doré.</p>
+<h2>Déroulé de la recette</h2>
+<p>Faites chauffer 2 cuillerées à soupe d'huile et 1 cuillerée à soupe de beurre dans une cocotte en fonte, puis ajoutez les oignons et laissez-les confire environ 15 min. Ajoutez l'ail émincé, les anchois, le thym et le laurier. Faites cuire 2 min. Versez le vin et laissez bouillonner 2 min. Ajoutez les feuilles des choux, le reste de beurre, la noix de muscade, 1 cuillerée à café de sel et une bonne mouture de poivre. Laissez cuire 6 min. Transférez dans un récipient et incorporez le persil. Ne lavez pas la cocotte.</p>
+<p>Préchauffez le four à 210 °C (chaleur tournante 190 °C).</p>
+<p>Faites griller 6 tranches de pain, puis frottez-les avec les gousses d'ail entières. Déchirez-les grossièrement et étalez la moitié au fond de la cocotte. Versez la moitié du mélange aux choux, arrosez d'1 cuillerée à soupe d'huile, répartissez un tiers des fromages. Poivrez, puis recouvrez du reste du pain grillé. Ajoutez le reste du mélange aux choux, le reste d'huile d'olive et la moitié du fromage restant. Déchirez les dernières tranches de pain (non grillées) et étalez sur le fromage. Versez délicatement 1,5 l de bouillon chaud, pressez le pain. Répartissez le reste du fromage et enfournez pour 30 min. Laissez reposer 10 min avant de servir. Arrosez du reste de bouillon.</p>
+    </article>
+    <section id="photos-zone"></section>
+    <section id="avis-zone"></section>
+    <script src="../avis.js"></script>
+    <script src="../photos.js"></script>
+    <script>
+        initAvisRecette("soupe-au-pain-fromage-et-chou-vert");
+        initPhotosRecette("soupe-au-pain-fromage-et-chou-vert");
+    </script>
+</body>
+</html>

@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Steaks de céleri-rave et sauce café de Paris</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="manifest" href="../manifest.json">
+    <meta name="theme-color" content="#1b3a5c">
+    <style>
+        body { background: #f0f4f8; }
+        header { background: #1b3a5c; }
+        .bouton-retour { color: rgba(232,240,248,.85) !important; }
+        .bouton-retour:hover { color: #fff !important; }
+    </style>
+
+<style>
+  html.verrouille body > *:not(#porte) { display: none !important; }
+  #porte { display: none; }
+  html.verrouille #porte {
+    display: flex; position: fixed; inset: 0; z-index: 99999;
+    align-items: center; justify-content: center; background: #faf8f5;
+    font-family: -apple-system, system-ui, sans-serif;
+  }
+  #porte .boite { width: 100%; max-width: 300px; padding: 24px; text-align: center; }
+  #porte h2 { margin: 0 0 16px; font-size: 18px; color: #5a3a1a; font-weight: 600; }
+  #porte input { width: 100%; padding: 12px; font-size: 16px; box-sizing: border-box;
+    border: 1px solid #d8cfc4; border-radius: 8px; background: #fff; margin-bottom: 10px; }
+  #porte button { width: 100%; padding: 12px; font-size: 15px; border: none;
+    border-radius: 8px; background: #1b3a5c; color: #fff; cursor: pointer; }
+  #porte .err { color: #c0392b; font-size: 13px; height: 16px; margin-bottom: 8px; }
+</style>
+<script>
+(function () {
+  var HASH = "0721ba9a209534aa3dba860230dc45ed3099223621973dd6f941df4386ab862c";
+  var CLE = "recettes_acces";
+  if (localStorage.getItem(CLE) === HASH) return;        // déjà entré : on laisse passer
+  document.documentElement.classList.add("verrouille");  // sinon on masque tout de suite
+
+  async function sha256(txt) {
+    var buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(txt));
+    return Array.from(new Uint8Array(buf))
+      .map(function (b) { return b.toString(16).padStart(2, "0"); }).join("");
+  }
+
+  function poser() {
+    var d = document.createElement("div");
+    d.id = "porte";
+    d.innerHTML =
+      '<div class="boite">' +
+      '<h2>\uD83D\uDD12 Mes recettes</h2>' +
+      '<div class="err" id="porte-err"></div>' +
+      '<input type="password" id="porte-mdp" placeholder="Mot de passe" autocomplete="current-password">' +
+      '<button id="porte-ok">Entrer</button></div>';
+    document.body.appendChild(d);
+    var inp = document.getElementById("porte-mdp");
+    var err = document.getElementById("porte-err");
+    inp.focus();
+    async function verifier() {
+      var h = await sha256(inp.value);
+      if (h === HASH) {
+        localStorage.setItem(CLE, HASH);
+        document.documentElement.classList.remove("verrouille");
+        d.remove();
+      } else {
+        err.textContent = "Mot de passe incorrect";
+        inp.value = ""; inp.focus();
+      }
+    }
+    document.getElementById("porte-ok").addEventListener("click", verifier);
+    inp.addEventListener("keydown", function (e) { if (e.key === "Enter") verifier(); });
+  }
+  if (document.body) poser();
+  else document.addEventListener("DOMContentLoaded", poser);
+})();
+</script>
+</head>
+<body>
+    <header class="header-recette">
+        <a href="../index.html" class="bouton-retour">← Retour</a>
+    </header>
+    <article class="recette">
+        <h1>Steaks de céleri-rave et sauce café de Paris</h1>
+<h2>Ingrédients</h2>
+<p><em>Pour 4 personnes — En plat principal</em></p>
+<ul>
+<li>2 céleris-raves entiers rôtis (le double de la recette), coupés en steaks de 2,5 cm d'épaisseur</li>
+<li>Sel de Maldon et poivre noir</li>
+</ul>
+<h3>Sauce café de Paris</h3>
+<ul>
+<li>110 g de beurre doux, coupé en cubes de 2 cm</li>
+<li>1 petite échalote banane, finement hachée (25 g)</li>
+<li>1 gousse d'ail, écrasée</li>
+<li>3 filets d'anchois à l'huile, égouttés et finement hachés (facultatif ; ajustez l'assaisonnement si vous n'en utilisez pas)</li>
+<li>½ cuil. à café de curry moyen en poudre</li>
+<li>¼ cuil. à café de poivre de Cayenne</li>
+<li>1 cuil. à soupe de moutarde moulue</li>
+<li>1 cuil. à soupe de petites câpres</li>
+<li>2 cuil. à soupe de ciboulette, finement hachée</li>
+<li>2 cuil. à soupe de feuilles d'estragon, finement hachées</li>
+<li>1 cuil. à soupe de persil, finement haché</li>
+<li>2 cuil. à café de feuilles de thym</li>
+<li>11 cl de crème liquide</li>
+<li>2 cuil. à café de jus de citron</li>
+</ul>
+<h2>Commentaire</h2>
+<p>Il y a longtemps, à Paris, Ixta a dégusté un steak à la sauce café de Paris et elle s'est crue transportée au paradis. Ce souvenir, gravé dans son esprit depuis l'enfance, a constitué notre base pour créer ce plat. Nous ne saurons sans doute jamais si notre version se rapproche de l'original, mais ce qui est sûr, c'est qu'elle donne au céleri une dimension très charnue, même sans viande, et en fait une alternative parfaite au rosbif dominical.</p>
+<p>Si la sauce se dissocie, ne vous inquiétez pas : cela peut se produire.</p>
+<h2>Déroulé de la recette</h2>
+<ol>
+<li>
+<p>Mélangez dans une casserole à feu moyen les sept premiers ingrédients de la sauce et ¼ cuil. à café de sel. Laissez cuire environ 6 min en faisant tourner la casserole en tous sens, jusqu'à ce que les échalotes aient ramolli et que le beurre soit fondu en prenant une teinte caramélisée. Ajoutez les câpres et les herbes, poivrez généreusement et poursuivez la cuisson 1 min, puis retirez du feu.</p>
+</li>
+<li>
+<p>Réglez le four en position gril, thermostat au maximum. Étalez les steaks de céleri-rave, en les espaçant, sur une plaque tapissée de papier sulfurisé. À ce stade, les steaks doivent avoir été badigeonnés de leur huile de cuisson et du caramel de céleri-rave. Si ce n'est pas le cas, badigeonnez-les d'un peu d'huile d'olive et d'un peu de sirop d'érable ou de miel. Assurez-vous que le papier ne déborde pas (il pourrait brûler). Glissez les steaks dans le haut du four et laissez-les griller environ 6-8 min, jusqu'à ce qu'ils soient dorés sur le dessus. Éteignez le four, en gardant la plaque dedans jusqu'à ce que vous soyez prêt à servir.</p>
+</li>
+<li>
+<p>Remettez la sauce à feu moyen et réchauffez-la doucement pendant 1 min, puis ajoutez la crème et le jus de citron. Laissez chauffer encore 2 minutes en agitant la casserole, jusqu'à ce que la sauce soit chaude. Ne mélangez pas trop : la sauce ne doit ni se dissocier ni former une émulsion.</p>
+</li>
+<li>
+<p>Versez la sauce dans un grand plat de service creux et disposez les steaks de céleri-rave par-dessus (ou servez-les sur des assiettes avec la sauce à part). Saupoudrez de sel de Maldon et de poivre noir. Servez chaud avec une salade verte croquante.</p>
+</li>
+</ol>
+    </article>
+    <section id="photos-zone"></section>
+    <section id="avis-zone"></section>
+    <script src="../avis.js"></script>
+    <script src="../photos.js"></script>
+    <script>
+        initAvisRecette("steaks-de-celeri-rave-et-sauce-cafe-de-paris");
+        initPhotosRecette("steaks-de-celeri-rave-et-sauce-cafe-de-paris");
+    </script>
+</body>
+</html>

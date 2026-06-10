@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Œufs à la vapeur</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="manifest" href="../manifest.json">
+    <meta name="theme-color" content="#1b3a5c">
+    <style>
+        body { background: #f0f4f8; }
+        header { background: #1b3a5c; }
+        .bouton-retour { color: rgba(232,240,248,.85) !important; }
+        .bouton-retour:hover { color: #fff !important; }
+    </style>
+
+<style>
+  html.verrouille body > *:not(#porte) { display: none !important; }
+  #porte { display: none; }
+  html.verrouille #porte {
+    display: flex; position: fixed; inset: 0; z-index: 99999;
+    align-items: center; justify-content: center; background: #faf8f5;
+    font-family: -apple-system, system-ui, sans-serif;
+  }
+  #porte .boite { width: 100%; max-width: 300px; padding: 24px; text-align: center; }
+  #porte h2 { margin: 0 0 16px; font-size: 18px; color: #5a3a1a; font-weight: 600; }
+  #porte input { width: 100%; padding: 12px; font-size: 16px; box-sizing: border-box;
+    border: 1px solid #d8cfc4; border-radius: 8px; background: #fff; margin-bottom: 10px; }
+  #porte button { width: 100%; padding: 12px; font-size: 15px; border: none;
+    border-radius: 8px; background: #1b3a5c; color: #fff; cursor: pointer; }
+  #porte .err { color: #c0392b; font-size: 13px; height: 16px; margin-bottom: 8px; }
+</style>
+<script>
+(function () {
+  var HASH = "0721ba9a209534aa3dba860230dc45ed3099223621973dd6f941df4386ab862c";
+  var CLE = "recettes_acces";
+  if (localStorage.getItem(CLE) === HASH) return;        // déjà entré : on laisse passer
+  document.documentElement.classList.add("verrouille");  // sinon on masque tout de suite
+
+  async function sha256(txt) {
+    var buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(txt));
+    return Array.from(new Uint8Array(buf))
+      .map(function (b) { return b.toString(16).padStart(2, "0"); }).join("");
+  }
+
+  function poser() {
+    var d = document.createElement("div");
+    d.id = "porte";
+    d.innerHTML =
+      '<div class="boite">' +
+      '<h2>\uD83D\uDD12 Mes recettes</h2>' +
+      '<div class="err" id="porte-err"></div>' +
+      '<input type="password" id="porte-mdp" placeholder="Mot de passe" autocomplete="current-password">' +
+      '<button id="porte-ok">Entrer</button></div>';
+    document.body.appendChild(d);
+    var inp = document.getElementById("porte-mdp");
+    var err = document.getElementById("porte-err");
+    inp.focus();
+    async function verifier() {
+      var h = await sha256(inp.value);
+      if (h === HASH) {
+        localStorage.setItem(CLE, HASH);
+        document.documentElement.classList.remove("verrouille");
+        d.remove();
+      } else {
+        err.textContent = "Mot de passe incorrect";
+        inp.value = ""; inp.focus();
+      }
+    }
+    document.getElementById("porte-ok").addEventListener("click", verifier);
+    inp.addEventListener("keydown", function (e) { if (e.key === "Enter") verifier(); });
+  }
+  if (document.body) poser();
+  else document.addEventListener("DOMContentLoaded", poser);
+})();
+</script>
+</head>
+<body>
+    <header class="header-recette">
+        <a href="../index.html" class="bouton-retour">← Retour</a>
+    </header>
+    <article class="recette">
+        <h1>Œufs à la vapeur</h1>
+<h2>Ingrédients</h2>
+<p><em>Pour 6 personnes</em></p>
+<ul>
+<li>8 œufs</li>
+<li>400 g de porc haché</li>
+<li>50 g de vermicelles de soja</li>
+<li>10 g de champignons noirs séchés</li>
+<li>1 botte de ciboule</li>
+<li>30 g de germes de soja</li>
+<li>2 cuil. à soupe de sauce nuoc-mâm</li>
+<li>Sel, poivre</li>
+</ul>
+<h2>Commentaire</h2>
+<p>Recette vietnamienne (Trứng hấp). Pour tester la cuisson de l'omelette, plantez un couteau dedans : celui-ci doit en ressortir propre. Dégustez l'omelette, chaude ou froide, avec du riz.</p>
+<p>Préparation : 15 min | Trempage : 20 min | Cuisson : 30 min</p>
+<h2>Déroulé de la recette</h2>
+<ol>
+<li>Faites tremper les champignons noirs dans un bol d'eau tiède pendant 20 minutes. Égouttez-les et émincez-les.</li>
+<li>Faites tremper les vermicelles dans de l'eau chaude pendant 5 minutes. Égouttez-les puis coupez-les en tronçons de 2 cm à l'aide de ciseaux.</li>
+<li>Dans un cul-de-poule, mélangez le porc haché, les champignons, les vermicelles, les germes de soja et la sauce nuoc-mâm. Ajoutez les œufs et mélangez pour obtenir une texture homogène. Salez et poivrez.</li>
+<li>Déposez le cul-de-poule contenant la préparation au-dessus d'une grande casserole d'eau bouillante pour faire un bain-marie. Couvrez et laissez cuire 20 minutes.</li>
+<li>Effeuillez la ciboule et parsemez-la sur l'omelette avant de servir.</li>
+</ol>
+    </article>
+    <section id="photos-zone"></section>
+    <section id="avis-zone"></section>
+    <script src="../avis.js"></script>
+    <script src="../photos.js"></script>
+    <script>
+        initAvisRecette("ufs-a-la-vapeur");
+        initPhotosRecette("ufs-a-la-vapeur");
+    </script>
+</body>
+</html>

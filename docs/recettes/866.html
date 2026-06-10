@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soupe d'avocat froide et huile croquante à l'ail</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="manifest" href="../manifest.json">
+    <meta name="theme-color" content="#1b3a5c">
+    <style>
+        body { background: #f0f4f8; }
+        header { background: #1b3a5c; }
+        .bouton-retour { color: rgba(232,240,248,.85) !important; }
+        .bouton-retour:hover { color: #fff !important; }
+    </style>
+
+<style>
+  html.verrouille body > *:not(#porte) { display: none !important; }
+  #porte { display: none; }
+  html.verrouille #porte {
+    display: flex; position: fixed; inset: 0; z-index: 99999;
+    align-items: center; justify-content: center; background: #faf8f5;
+    font-family: -apple-system, system-ui, sans-serif;
+  }
+  #porte .boite { width: 100%; max-width: 300px; padding: 24px; text-align: center; }
+  #porte h2 { margin: 0 0 16px; font-size: 18px; color: #5a3a1a; font-weight: 600; }
+  #porte input { width: 100%; padding: 12px; font-size: 16px; box-sizing: border-box;
+    border: 1px solid #d8cfc4; border-radius: 8px; background: #fff; margin-bottom: 10px; }
+  #porte button { width: 100%; padding: 12px; font-size: 15px; border: none;
+    border-radius: 8px; background: #1b3a5c; color: #fff; cursor: pointer; }
+  #porte .err { color: #c0392b; font-size: 13px; height: 16px; margin-bottom: 8px; }
+</style>
+<script>
+(function () {
+  var HASH = "0721ba9a209534aa3dba860230dc45ed3099223621973dd6f941df4386ab862c";
+  var CLE = "recettes_acces";
+  if (localStorage.getItem(CLE) === HASH) return;        // déjà entré : on laisse passer
+  document.documentElement.classList.add("verrouille");  // sinon on masque tout de suite
+
+  async function sha256(txt) {
+    var buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(txt));
+    return Array.from(new Uint8Array(buf))
+      .map(function (b) { return b.toString(16).padStart(2, "0"); }).join("");
+  }
+
+  function poser() {
+    var d = document.createElement("div");
+    d.id = "porte";
+    d.innerHTML =
+      '<div class="boite">' +
+      '<h2>\uD83D\uDD12 Mes recettes</h2>' +
+      '<div class="err" id="porte-err"></div>' +
+      '<input type="password" id="porte-mdp" placeholder="Mot de passe" autocomplete="current-password">' +
+      '<button id="porte-ok">Entrer</button></div>';
+    document.body.appendChild(d);
+    var inp = document.getElementById("porte-mdp");
+    var err = document.getElementById("porte-err");
+    inp.focus();
+    async function verifier() {
+      var h = await sha256(inp.value);
+      if (h === HASH) {
+        localStorage.setItem(CLE, HASH);
+        document.documentElement.classList.remove("verrouille");
+        d.remove();
+      } else {
+        err.textContent = "Mot de passe incorrect";
+        inp.value = ""; inp.focus();
+      }
+    }
+    document.getElementById("porte-ok").addEventListener("click", verifier);
+    inp.addEventListener("keydown", function (e) { if (e.key === "Enter") verifier(); });
+  }
+  if (document.body) poser();
+  else document.addEventListener("DOMContentLoaded", poser);
+})();
+</script>
+</head>
+<body>
+    <header class="header-recette">
+        <a href="../index.html" class="bouton-retour">← Retour</a>
+    </header>
+    <article class="recette">
+        <h1>Soupe d'avocat froide et huile croquante à l'ail</h1>
+<h2>Ingrédients</h2>
+<p><em>Pour 4 personnes</em></p>
+<ul>
+<li>6 cl d'huile d'olive</li>
+<li>½ cuil. à café de graines de cumin, légèrement écrasées</li>
+<li>½ cuil. à café de graines de coriandre, légèrement écrasées</li>
+<li>2 gousses d'ail, finement hachées</li>
+<li>180 g de petits pois surgelés, décongelés</li>
+<li>2 gros avocats très mûrs, pelés et dénoyautés (260 g)</li>
+<li>⅓ concombre (160 g), pelé et découpé : 120 g en gros morceaux et 40 g en petits dés</li>
+<li>1 citron bio : 1 ½ cuil. à café de zeste finement râpé ; 1 ½ cuil. à soupe de jus</li>
+<li>1 petit piment vert, épépiné et finement haché</li>
+<li>80 g de crème aigre (à défaut, de la crème mélangée à un trait de jus de citron — facultatif)</li>
+<li>1 cuil. à soupe de feuilles d'aneth, finement hachées</li>
+<li>Sel</li>
+</ul>
+<h2>Commentaire</h2>
+<p>Cette soupe est à la fois crémeuse (grâce à l'avocat) et rafraîchissante (grâce au concombre). C'est donc une excellente façon de commencer un repas d'été. Elle se conserve 2 jours au réfrigérateur sans perdre sa couleur vert vif. L'huile parfumée à l'ail peut également être préparée à l'avance et se garde 2 jours dans un bocal hermétique.</p>
+<p>Vous pouvez préparer davantage d'huile aromatique. Elle est délicieuse pour arroser des toasts, des salades ou des pâtes.</p>
+<h2>Déroulé de la recette</h2>
+<ol>
+<li>
+<p>Mettez dans une petite casserole 2 cuil. à soupe d'huile, les graines de cumin, les graines de coriandre, l'ail et une bonne pincée de sel. Placez à feu doux et laissez cuire doucement pendant 8 min en remuant souvent, jusqu'à ce que l'ail soit assez fondant pour s'écraser avec le dos d'une cuillère. Ne faites pas trop chauffer l'huile pour éviter que l'ail brûle : si elle commence à faire des bulles, retirez la casserole du feu. Laissez refroidir.</p>
+</li>
+<li>
+<p>Mettez dans un blender les petits pois, l'avocat, les morceaux de concombre, le zeste de citron, les 2 cuil. à soupe d'huile restantes, ¾ cuil. à café de sel et 40 cl d'eau froide. Mixez pour obtenir une soupe très lisse. Laissez refroidir au réfrigérateur.</p>
+</li>
+<li>
+<p>Mettez les dés de concombre dans un petit bol avec le jus de citron, le piment et une pincée de sel.</p>
+</li>
+<li>
+<p>Pour servir, répartissez la soupe froide dans 2 bols et garnissez chaque bol avec 1 cuil. de crème aigre (facultatif), 1 cuil. de salsa de concombre, un généreux filet d'huile aromatisée à l'ail et l'aneth.</p>
+</li>
+</ol>
+    </article>
+    <section id="photos-zone"></section>
+    <section id="avis-zone"></section>
+    <script src="../avis.js"></script>
+    <script src="../photos.js"></script>
+    <script>
+        initAvisRecette("soupe-d-avocat-froide-et-huile-croquante-a-l-ail");
+        initPhotosRecette("soupe-d-avocat-froide-et-huile-croquante-a-l-ail");
+    </script>
+</body>
+</html>

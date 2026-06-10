@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tartelettes aux œufs de Hong-Kong</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="manifest" href="../manifest.json">
+    <meta name="theme-color" content="#1b3a5c">
+    <style>
+        body { background: #f0f4f8; }
+        header { background: #1b3a5c; }
+        .bouton-retour { color: rgba(232,240,248,.85) !important; }
+        .bouton-retour:hover { color: #fff !important; }
+    </style>
+
+<style>
+  html.verrouille body > *:not(#porte) { display: none !important; }
+  #porte { display: none; }
+  html.verrouille #porte {
+    display: flex; position: fixed; inset: 0; z-index: 99999;
+    align-items: center; justify-content: center; background: #faf8f5;
+    font-family: -apple-system, system-ui, sans-serif;
+  }
+  #porte .boite { width: 100%; max-width: 300px; padding: 24px; text-align: center; }
+  #porte h2 { margin: 0 0 16px; font-size: 18px; color: #5a3a1a; font-weight: 600; }
+  #porte input { width: 100%; padding: 12px; font-size: 16px; box-sizing: border-box;
+    border: 1px solid #d8cfc4; border-radius: 8px; background: #fff; margin-bottom: 10px; }
+  #porte button { width: 100%; padding: 12px; font-size: 15px; border: none;
+    border-radius: 8px; background: #1b3a5c; color: #fff; cursor: pointer; }
+  #porte .err { color: #c0392b; font-size: 13px; height: 16px; margin-bottom: 8px; }
+</style>
+<script>
+(function () {
+  var HASH = "0721ba9a209534aa3dba860230dc45ed3099223621973dd6f941df4386ab862c";
+  var CLE = "recettes_acces";
+  if (localStorage.getItem(CLE) === HASH) return;        // déjà entré : on laisse passer
+  document.documentElement.classList.add("verrouille");  // sinon on masque tout de suite
+
+  async function sha256(txt) {
+    var buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(txt));
+    return Array.from(new Uint8Array(buf))
+      .map(function (b) { return b.toString(16).padStart(2, "0"); }).join("");
+  }
+
+  function poser() {
+    var d = document.createElement("div");
+    d.id = "porte";
+    d.innerHTML =
+      '<div class="boite">' +
+      '<h2>\uD83D\uDD12 Mes recettes</h2>' +
+      '<div class="err" id="porte-err"></div>' +
+      '<input type="password" id="porte-mdp" placeholder="Mot de passe" autocomplete="current-password">' +
+      '<button id="porte-ok">Entrer</button></div>';
+    document.body.appendChild(d);
+    var inp = document.getElementById("porte-mdp");
+    var err = document.getElementById("porte-err");
+    inp.focus();
+    async function verifier() {
+      var h = await sha256(inp.value);
+      if (h === HASH) {
+        localStorage.setItem(CLE, HASH);
+        document.documentElement.classList.remove("verrouille");
+        d.remove();
+      } else {
+        err.textContent = "Mot de passe incorrect";
+        inp.value = ""; inp.focus();
+      }
+    }
+    document.getElementById("porte-ok").addEventListener("click", verifier);
+    inp.addEventListener("keydown", function (e) { if (e.key === "Enter") verifier(); });
+  }
+  if (document.body) poser();
+  else document.addEventListener("DOMContentLoaded", poser);
+})();
+</script>
+</head>
+<body>
+    <header class="header-recette">
+        <a href="../index.html" class="bouton-retour">← Retour</a>
+    </header>
+    <article class="recette">
+        <h1>Tartelettes aux œufs de Hong-Kong</h1>
+<h2>Ingrédients</h2>
+<p><em>Pour 30 tartelettes</em></p>
+<p><strong>Pour la pâte sablée</strong>
+- 200 g de farine
+- 1 œuf battu
+- 140 g de beurre à température ambiante
+- 1 cuil. à soupe de sucre semoule
+- 1 pincée de sel</p>
+<p><strong>Pour la pâte à l'eau</strong>
+- 1 jaune d'œuf
+- 200 g de farine
+- 80 ml d'eau
+- 1 pincée de sel</p>
+<p><strong>Pour la crème aux œufs</strong>
+- 3 œufs
+- 25 cl de lait
+- Quelques gouttes d'extrait de vanille
+- 100 g de sucre semoule</p>
+<h2>Commentaire</h2>
+<p>Chine. Petites tartes à la crème aux œufs, spécialité emblématique de Hong-Kong.</p>
+<p>Préparation : 30 min | Cuisson : 20 min | Repos : 50 min</p>
+<h2>Déroulé de la recette</h2>
+<ol>
+<li>Préparez la pâte sablée. Dans un saladier, mélangez la farine, le sucre et le sel. Coupez le beurre en dés. Incorporez-les au mélange en vous aidant d'une spatule. Ajoutez l'œuf battu. Mélangez et formez une boule. Enveloppez-la d'un film alimentaire. Réservez au réfrigérateur pendant 20 minutes.</li>
+<li>Préparez la pâte à l'eau en disposant tous les ingrédients dans le bol d'un mixeur. Mixez afin d'obtenir une pâte. Étalez-la entre deux films alimentaires. Déposez dessus la pâte sablée retirée de son film et étalez-la grossièrement avec la paume de la main. Rabattez les 2 côtés vers le centre et aplatissez la pâte à l'aide d'un rouleau à pâtisserie afin d'obtenir un rectangle. Tournez la pâte obtenue de 90° puis rabattez à nouveau les deux côtés vers le centre et aplatissez. Tournez encore la pâte de 90° et procédez de même en répétant 3 fois ce procédé. Enveloppez le rectangle de pâte obtenu dans un film alimentaire et réservez 30 minutes au réfrigérateur. Préchauffez le four à 200 °C (th. 6-7).</li>
+<li>Pendant ce temps, préparez la crème aux œufs. Versez le lait dans une casserole avec le sucre. Faites chauffer à feu doux pour dissoudre le sucre. Dans un saladier, battez les œufs. Versez le lait chaud en fouettant sans cesse. Filtrez la crème dans une passoire fine.</li>
+<li>Sortez la pâte du réfrigérateur. Étalez-la légèrement entre 2 films alimentaires. Découpez des cercles de 10 cm de diamètre et déposez-les dans des moules à tartelettes de 8 cm de diamètre beurrés (sauf s'ils sont en silicone). Répartissez la crème aux œufs dans les moules.</li>
+<li>Enfournez les tartelettes pour 20 minutes. À mi-cuisson, abaissez la température du four à 160 °C (th. 5-6) afin d'éviter que la crème ne gonfle. Dégustez tiède.</li>
+</ol>
+    </article>
+    <section id="photos-zone"></section>
+    <section id="avis-zone"></section>
+    <script src="../avis.js"></script>
+    <script src="../photos.js"></script>
+    <script>
+        initAvisRecette("tartelettes-aux-ufs-de-hong-kong");
+        initPhotosRecette("tartelettes-aux-ufs-de-hong-kong");
+    </script>
+</body>
+</html>

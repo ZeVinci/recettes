@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tapioca à la marmelade de noix de coco et bananes flambées au rhum</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="manifest" href="../manifest.json">
+    <meta name="theme-color" content="#1b3a5c">
+    <style>
+        body { background: #f0f4f8; }
+        header { background: #1b3a5c; }
+        .bouton-retour { color: rgba(232,240,248,.85) !important; }
+        .bouton-retour:hover { color: #fff !important; }
+    </style>
+
+<style>
+  html.verrouille body > *:not(#porte) { display: none !important; }
+  #porte { display: none; }
+  html.verrouille #porte {
+    display: flex; position: fixed; inset: 0; z-index: 99999;
+    align-items: center; justify-content: center; background: #faf8f5;
+    font-family: -apple-system, system-ui, sans-serif;
+  }
+  #porte .boite { width: 100%; max-width: 300px; padding: 24px; text-align: center; }
+  #porte h2 { margin: 0 0 16px; font-size: 18px; color: #5a3a1a; font-weight: 600; }
+  #porte input { width: 100%; padding: 12px; font-size: 16px; box-sizing: border-box;
+    border: 1px solid #d8cfc4; border-radius: 8px; background: #fff; margin-bottom: 10px; }
+  #porte button { width: 100%; padding: 12px; font-size: 15px; border: none;
+    border-radius: 8px; background: #1b3a5c; color: #fff; cursor: pointer; }
+  #porte .err { color: #c0392b; font-size: 13px; height: 16px; margin-bottom: 8px; }
+</style>
+<script>
+(function () {
+  var HASH = "0721ba9a209534aa3dba860230dc45ed3099223621973dd6f941df4386ab862c";
+  var CLE = "recettes_acces";
+  if (localStorage.getItem(CLE) === HASH) return;        // déjà entré : on laisse passer
+  document.documentElement.classList.add("verrouille");  // sinon on masque tout de suite
+
+  async function sha256(txt) {
+    var buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(txt));
+    return Array.from(new Uint8Array(buf))
+      .map(function (b) { return b.toString(16).padStart(2, "0"); }).join("");
+  }
+
+  function poser() {
+    var d = document.createElement("div");
+    d.id = "porte";
+    d.innerHTML =
+      '<div class="boite">' +
+      '<h2>\uD83D\uDD12 Mes recettes</h2>' +
+      '<div class="err" id="porte-err"></div>' +
+      '<input type="password" id="porte-mdp" placeholder="Mot de passe" autocomplete="current-password">' +
+      '<button id="porte-ok">Entrer</button></div>';
+    document.body.appendChild(d);
+    var inp = document.getElementById("porte-mdp");
+    var err = document.getElementById("porte-err");
+    inp.focus();
+    async function verifier() {
+      var h = await sha256(inp.value);
+      if (h === HASH) {
+        localStorage.setItem(CLE, HASH);
+        document.documentElement.classList.remove("verrouille");
+        d.remove();
+      } else {
+        err.textContent = "Mot de passe incorrect";
+        inp.value = ""; inp.focus();
+      }
+    }
+    document.getElementById("porte-ok").addEventListener("click", verifier);
+    inp.addEventListener("keydown", function (e) { if (e.key === "Enter") verifier(); });
+  }
+  if (document.body) poser();
+  else document.addEventListener("DOMContentLoaded", poser);
+})();
+</script>
+</head>
+<body>
+    <header class="header-recette">
+        <a href="../index.html" class="bouton-retour">← Retour</a>
+    </header>
+    <article class="recette">
+        <h1>Tapioca à la marmelade de noix de coco et bananes flambées au rhum</h1>
+<h2>Ingrédients</h2>
+<p><em>Pour 8 personnes</em></p>
+<h3>Tapioca</h3>
+<ul>
+<li>200 g de tapioca</li>
+<li>2 gousses de vanille, coupées en deux dans la longueur, graines grattées et réservées</li>
+<li>Sel de mer</li>
+</ul>
+<h3>Crème de kaffir</h3>
+<ul>
+<li>40 cl de crème de noix de coco</li>
+<li>50 g de sucre de palme, grossièrement râpé</li>
+<li>10 feuilles de kaffir fraîches</li>
+</ul>
+<h3>Marmelade de noix de coco</h3>
+<ul>
+<li>100 g de sucre de palme, grossièrement râpé</li>
+<li>200 g de chair de noix de coco, grossièrement râpée (soit 1 noix moyenne)</li>
+<li>Sel de mer</li>
+</ul>
+<h3>Bananes caramélisées</h3>
+<ul>
+<li>2 grosses bananes, sans la peau (260 g)</li>
+<li>1 cuil. à soupe de sucre brun</li>
+<li>40 g de beurre doux</li>
+<li>6 cl de rhum</li>
+</ul>
+<h3>Pour servir</h3>
+<ul>
+<li>8 cl de lait de coco</li>
+</ul>
+<h2>Commentaire</h2>
+<p>Un voyage de l'ananas rôti des années 1980 cher à Scully aux bananes flambées dont Yotam se délectait dans les années 1970. Pour une version simplifiée et plus contemporaine, il suffit de supprimer la banane ou de la servir crue. Dans ce cas, versez plus de lait de coco sur le tapioca, en le relevant d'un trait de jus de citron vert.</p>
+<p>Ceux qui ont fréquenté les cantines scolaires dans les années 1970 et 1980 seront peut-être réticents à manger du tapioca. Pourtant, c'est sa consistance et sa texture qui plaît tant à Scully et Yotam. Même si vous hésitez, il est vivement recommandé de réessayer au moins une fois.</p>
+<p>Le tapioca peut être préparé à l'avance — jusqu'à l'ajout de la crème de coco — et réchauffé au dernier moment. La confiture de noix de coco, la crème de kaffir et les bananes pourront aussi accompagner des crêpes.</p>
+<h2>Déroulé de la recette</h2>
+<ol>
+<li>
+<p>Commencez par préparer la crème de kaffir. Mélangez dans une petite casserole la crème de coco, le sucre de palme et les feuilles de kaffir, portez à ébullition, puis baissez le feu et laissez frémir 5 min. Retirez la casserole du feu et laissez refroidir.</p>
+</li>
+<li>
+<p>Mettez le tapioca dans une casserole avec la gousse et les graines de vanille, ajoutez ½ cuil. à café de sel, puis 1 l d'eau au moins et portez à ébullition. Baissez le feu et laissez mijoter 12 à 14 min, en remuant constamment, jusqu'à ce que le tapioca soit transparent (il doit rester un peu ferme). Incorporez alors la crème de coco infusée (retirez au préalable les feuilles de kaffir), mélangez encore 1 min sur le feu, puis réservez au chaud. Le tapioca doit avoir la consistance d'un porridge épais : vous devrez peut-être y ajouter 2 ou 3 cuil. à soupe d'eau avant de servir.</p>
+</li>
+<li>
+<p>Préparez la marmelade pendant la cuisson du tapioca. Mettez dans une casserole le sucre de palme et 15 cl d'eau. Portez à ébullition, puis réduisez le feu. Ajoutez la noix de coco et ½ cuil. à café de sel, remuez bien, puis faites cuire 15 min en remuant de temps en temps pour obtenir une marmelade épaisse. Réservez.</p>
+</li>
+<li>
+<p>Coupez les bananes en deux dans la longueur, puis en deux dans la largeur. Saupoudrez la face coupée avec le sucre. Faites fondre le beurre dans une grande poêle à feu moyen. Quand il commence à mousser, ajoutez les quartiers de bananes, face coupée en bas. Baissez le feu et laissez cuire 4 à 5 min, jusqu'à ce que les bananes commencent à caraméliser. Retournez-les délicatement, versez le rhum et faites flamber aussitôt (comme il y a beaucoup de rhum, les flammes vont être fortes, donc ne vous en approchez pas trop et gardez un couvercle à portée de main pour étouffer au besoin le feu). Laissez flamber pendant 1 min, puis retirez la poêle du feu.</p>
+</li>
+<li>
+<p>Pour servir, répartissez le tapioca dans 8 verres, puis ajoutez un morceau de banane dans chaque verre. Ajoutez 2 cuil. à soupe de marmelade de noix de coco, nappez avec 2 cuil. à café de lait de coco et servez tiède ou à température ambiante.</p>
+</li>
+</ol>
+    </article>
+    <section id="photos-zone"></section>
+    <section id="avis-zone"></section>
+    <script src="../avis.js"></script>
+    <script src="../photos.js"></script>
+    <script>
+        initAvisRecette("tapioca-a-la-marmelade-de-noix-de-coco-et-bananes-flambees-au-rhum");
+        initPhotosRecette("tapioca-a-la-marmelade-de-noix-de-coco-et-bananes-flambees-au-rhum");
+    </script>
+</body>
+</html>

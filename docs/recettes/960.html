@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Truite rôtie, tomates, orange et baies d'épine-vinette</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="manifest" href="../manifest.json">
+    <meta name="theme-color" content="#1b3a5c">
+    <style>
+        body { background: #f0f4f8; }
+        header { background: #1b3a5c; }
+        .bouton-retour { color: rgba(232,240,248,.85) !important; }
+        .bouton-retour:hover { color: #fff !important; }
+    </style>
+
+<style>
+  html.verrouille body > *:not(#porte) { display: none !important; }
+  #porte { display: none; }
+  html.verrouille #porte {
+    display: flex; position: fixed; inset: 0; z-index: 99999;
+    align-items: center; justify-content: center; background: #faf8f5;
+    font-family: -apple-system, system-ui, sans-serif;
+  }
+  #porte .boite { width: 100%; max-width: 300px; padding: 24px; text-align: center; }
+  #porte h2 { margin: 0 0 16px; font-size: 18px; color: #5a3a1a; font-weight: 600; }
+  #porte input { width: 100%; padding: 12px; font-size: 16px; box-sizing: border-box;
+    border: 1px solid #d8cfc4; border-radius: 8px; background: #fff; margin-bottom: 10px; }
+  #porte button { width: 100%; padding: 12px; font-size: 15px; border: none;
+    border-radius: 8px; background: #1b3a5c; color: #fff; cursor: pointer; }
+  #porte .err { color: #c0392b; font-size: 13px; height: 16px; margin-bottom: 8px; }
+</style>
+<script>
+(function () {
+  var HASH = "0721ba9a209534aa3dba860230dc45ed3099223621973dd6f941df4386ab862c";
+  var CLE = "recettes_acces";
+  if (localStorage.getItem(CLE) === HASH) return;        // déjà entré : on laisse passer
+  document.documentElement.classList.add("verrouille");  // sinon on masque tout de suite
+
+  async function sha256(txt) {
+    var buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(txt));
+    return Array.from(new Uint8Array(buf))
+      .map(function (b) { return b.toString(16).padStart(2, "0"); }).join("");
+  }
+
+  function poser() {
+    var d = document.createElement("div");
+    d.id = "porte";
+    d.innerHTML =
+      '<div class="boite">' +
+      '<h2>\uD83D\uDD12 Mes recettes</h2>' +
+      '<div class="err" id="porte-err"></div>' +
+      '<input type="password" id="porte-mdp" placeholder="Mot de passe" autocomplete="current-password">' +
+      '<button id="porte-ok">Entrer</button></div>';
+    document.body.appendChild(d);
+    var inp = document.getElementById("porte-mdp");
+    var err = document.getElementById("porte-err");
+    inp.focus();
+    async function verifier() {
+      var h = await sha256(inp.value);
+      if (h === HASH) {
+        localStorage.setItem(CLE, HASH);
+        document.documentElement.classList.remove("verrouille");
+        d.remove();
+      } else {
+        err.textContent = "Mot de passe incorrect";
+        inp.value = ""; inp.focus();
+      }
+    }
+    document.getElementById("porte-ok").addEventListener("click", verifier);
+    inp.addEventListener("keydown", function (e) { if (e.key === "Enter") verifier(); });
+  }
+  if (document.body) poser();
+  else document.addEventListener("DOMContentLoaded", poser);
+})();
+</script>
+</head>
+<body>
+    <header class="header-recette">
+        <a href="../index.html" class="bouton-retour">← Retour</a>
+    </header>
+    <article class="recette">
+        <h1>Truite rôtie, tomates, orange et baies d'épine-vinette</h1>
+<p><em>Poisson — Pour 2 personnes</em></p>
+<p>Simple et rapide à réaliser, ce plat peut aisément se préparer les soirs de semaine, mais il peut aussi faire forte impression le week-end, quand vous voulez régaler vos amis. Les proportions étant très faciles à doubler ou tripler, ce plat est particulièrement adapté aux grandes tablées. Si vous voulez prendre de l'avance, préparez la sauce la veille et conservez-la au réfrigérateur jusqu'au moment de servir. Côté garniture, inutile d'aller chercher trop loin : une simple salade de pommes de terre ou quelques cuillères de riz suffiront amplement à sublimer ce plat déjà très riche en saveurs.</p>
+<h2>Ingrédients</h2>
+<ul>
+<li>150 g de tomates cerise, coupées en quatre</li>
+<li>1 orange : 1 cuil. à café de zeste et 1 cuil. à soupe de jus</li>
+<li>2 citrons verts : 1 cuil. à soupe de jus et des quartiers pour le dressage</li>
+<li>1,5 cuil. à café de sirop d'érable (ou de miel)</li>
+<li>1,5 cuil. à soupe de baies d'épine-vinette (ou de raisins de Corinthe macérés dans 1 cuil. à soupe de jus de citron)</li>
+<li>1 cuil. à café de graines de fenouil, torréfiées et concassées</li>
+<li>1 cuil. à soupe d'huile d'olive</li>
+<li>70 g de beurre doux</li>
+<li>1 petite gousse d'ail, hachée</li>
+<li>2 truites, entières, vidées et écaillées (n'hésitez pas à mettre votre poissonnier à contribution !) (700 g)</li>
+<li>10 g de feuilles de coriandre, ciselées</li>
+<li>Sel et poivre noir</li>
+</ul>
+<h2>Déroulé</h2>
+<ol>
+<li>
+<p>Préchauffez le four à 230 °C (chaleur tournante).</p>
+</li>
+<li>
+<p>Pour la sauce, versez les tomates cerise dans un cul-de-poule avec les zestes et les jus d'orange et de citron vert, le sirop d'érable, les baies d'épine-vinette, les graines de fenouil, l'huile d'olive, 1 grosse pincée de sel et quelques tours de moulin à poivre. Mélangez et réservez.</p>
+</li>
+<li>
+<p>Dans une petite poêle, faites fondre gentiment le beurre avec l'ail sur feu moyen. Déposez les truites sur une plaque à four en les espaçant suffisamment pour qu'elles ne se touchent pas. Salez sur les deux faces, ainsi qu'à l'intérieur (¼ de cuillère à café de sel). Versez ensuite le beurre à l'ail sur les poissons, en prenant soin de bien le répartir. Enfournez jusqu'à ce que les truites soient juste cuites (18 à 20 min), en arrosant une fois à mi-cuisson.</p>
+</li>
+<li>
+<p>Servez directement dans le plat de cuisson ou dressez dans des assiettes, arrosées de jus de cuisson. Incorporez la coriandre dans la sauce et nappez les poissons. Servez aussitôt avec des quartiers de citron vert.</p>
+</li>
+</ol>
+<h2>Notes personnelles</h2>
+<p>Testé et sélectionné.</p>
+    </article>
+    <section id="photos-zone"></section>
+    <section id="avis-zone"></section>
+    <script src="../avis.js"></script>
+    <script src="../photos.js"></script>
+    <script>
+        initAvisRecette("truite-rotie-tomates-orange-et-baies-d-epine-vinette");
+        initPhotosRecette("truite-rotie-tomates-orange-et-baies-d-epine-vinette");
+    </script>
+</body>
+</html>

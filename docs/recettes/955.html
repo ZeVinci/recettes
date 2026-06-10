@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tourte de bœuf en feuilles de vigne</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="manifest" href="../manifest.json">
+    <meta name="theme-color" content="#1b3a5c">
+    <style>
+        body { background: #f0f4f8; }
+        header { background: #1b3a5c; }
+        .bouton-retour { color: rgba(232,240,248,.85) !important; }
+        .bouton-retour:hover { color: #fff !important; }
+    </style>
+
+<style>
+  html.verrouille body > *:not(#porte) { display: none !important; }
+  #porte { display: none; }
+  html.verrouille #porte {
+    display: flex; position: fixed; inset: 0; z-index: 99999;
+    align-items: center; justify-content: center; background: #faf8f5;
+    font-family: -apple-system, system-ui, sans-serif;
+  }
+  #porte .boite { width: 100%; max-width: 300px; padding: 24px; text-align: center; }
+  #porte h2 { margin: 0 0 16px; font-size: 18px; color: #5a3a1a; font-weight: 600; }
+  #porte input { width: 100%; padding: 12px; font-size: 16px; box-sizing: border-box;
+    border: 1px solid #d8cfc4; border-radius: 8px; background: #fff; margin-bottom: 10px; }
+  #porte button { width: 100%; padding: 12px; font-size: 15px; border: none;
+    border-radius: 8px; background: #1b3a5c; color: #fff; cursor: pointer; }
+  #porte .err { color: #c0392b; font-size: 13px; height: 16px; margin-bottom: 8px; }
+</style>
+<script>
+(function () {
+  var HASH = "0721ba9a209534aa3dba860230dc45ed3099223621973dd6f941df4386ab862c";
+  var CLE = "recettes_acces";
+  if (localStorage.getItem(CLE) === HASH) return;        // déjà entré : on laisse passer
+  document.documentElement.classList.add("verrouille");  // sinon on masque tout de suite
+
+  async function sha256(txt) {
+    var buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(txt));
+    return Array.from(new Uint8Array(buf))
+      .map(function (b) { return b.toString(16).padStart(2, "0"); }).join("");
+  }
+
+  function poser() {
+    var d = document.createElement("div");
+    d.id = "porte";
+    d.innerHTML =
+      '<div class="boite">' +
+      '<h2>\uD83D\uDD12 Mes recettes</h2>' +
+      '<div class="err" id="porte-err"></div>' +
+      '<input type="password" id="porte-mdp" placeholder="Mot de passe" autocomplete="current-password">' +
+      '<button id="porte-ok">Entrer</button></div>';
+    document.body.appendChild(d);
+    var inp = document.getElementById("porte-mdp");
+    var err = document.getElementById("porte-err");
+    inp.focus();
+    async function verifier() {
+      var h = await sha256(inp.value);
+      if (h === HASH) {
+        localStorage.setItem(CLE, HASH);
+        document.documentElement.classList.remove("verrouille");
+        d.remove();
+      } else {
+        err.textContent = "Mot de passe incorrect";
+        inp.value = ""; inp.focus();
+      }
+    }
+    document.getElementById("porte-ok").addEventListener("click", verifier);
+    inp.addEventListener("keydown", function (e) { if (e.key === "Enter") verifier(); });
+  }
+  if (document.body) poser();
+  else document.addEventListener("DOMContentLoaded", poser);
+})();
+</script>
+</head>
+<body>
+    <header class="header-recette">
+        <a href="../index.html" class="bouton-retour">← Retour</a>
+    </header>
+    <article class="recette">
+        <h1>Tourte de bœuf en feuilles de vigne</h1>
+<h2>Ingrédients</h2>
+<p><em>Pour 8 personnes</em></p>
+<ul>
+<li>3 cuil. à soupe d'huile d'olive</li>
+<li>1 céleri-rave moyen (550 g), épluché et coupé en dés de 1 cm (460 g)</li>
+<li>1 oignon moyen, coupé en dés de 1 cm (150 g)</li>
+<li>2 gousses d'ail, écrasées</li>
+<li>400 g de viande de bœuf hachée</li>
+<li>1 cuil. à café de cannelle moulue</li>
+<li>1 cuil. à café de quatre-épices moulu</li>
+<li>130 g de riz arborio</li>
+<li>1 tomate, en petits dés (100 g)</li>
+<li>30 g de pignons de pin, grillés</li>
+<li>30 g d'épine-vinette</li>
+<li>1 cuil. à café de menthe séchée</li>
+<li>5 g de feuilles de menthe, déchiquetées</li>
+<li>200 g de feuilles de vigne (environ 36), bien rincées et séchées</li>
+<li>50 g de moelle de bœuf (facultatif)</li>
+<li>50 cl de bouillon de bœuf</li>
+<li>250 g de yaourt grec, pour servir</li>
+<li>1 citron, coupé en 8 quartiers, pour servir</li>
+<li>Sel de mer et poivre noir</li>
+</ul>
+<h2>Commentaire</h2>
+<p>La moelle n'est pas obligatoire, mais elle apporte un crémeux inégalable et des saveurs très riches. Pour l'extraire facilement : faire tremper les os 1 h dans de l'eau salée, puis presser avec le pouce. L'épine-vinette (berberis) apporte une note aigre-doux qui manque aux raisins secs. À servir avec du yaourt grec et des quartiers de citron.</p>
+<h2>Déroulé de la recette</h2>
+<ol>
+<li>
+<p>Chauffer l'huile à feu vif dans une grande sauteuse allant au four. Faire revenir le céleri-rave 5 à 6 min en remuant de temps en temps jusqu'à ce qu'il commence à colorer. Ajouter l'oignon, l'ail et 1 cuil. à café de sel, laisser cuire encore 2 min. Transférer dans un bol et nettoyer la sauteuse.</p>
+</li>
+<li>
+<p>Mélanger dans un récipient la viande hachée, la cannelle, le quatre-épices, le riz, la tomate, les pignons de pin, l'épine-vinette et la menthe fraîche, saler et poivrer. Mélanger à la main, puis ajouter le céleri-rave, l'oignon et l'ail. Remuer et réserver.</p>
+</li>
+<li>
+<p>Tapisser le fond de la sauteuse avec un disque de papier sulfurisé, puis étaler une à une les deux tiers des feuilles de vigne côté brillant vers le bas, en les faisant se chevaucher et remonter légèrement sur les côtés. Étaler uniformément le mélange à la viande, en pressant délicatement. Faire 5 à 6 trous si on utilise la moelle et y déposer 1 cuil. de moelle. Rabattre les bords des feuilles sur la viande, tapisser le dessus avec le reste des feuilles de vigne côté brillant vers le haut.</p>
+</li>
+<li>
+<p>Préchauffer le four à 200 °C.</p>
+</li>
+<li>
+<p>Verser le bouillon sur la tourte, poser un couvercle plat dessus pour maintenir la tourte immergée. Porter à ébullition avant de réduire le feu, puis laisser frémir doucement 15 min. Sans retirer le couvercle, glisser la tourte dans le four et cuire 45 min (viande bien cuite et la plus grande partie du bouillon absorbée). Sortir du four, enlever le couvercle et laisser reposer 10 min jusqu'à absorption totale du bouillon. Démouler délicatement en retournant sur un plat de service, retirer le papier sulfurisé et servir aussitôt avec le yaourt et les quartiers de citron.</p>
+</li>
+</ol>
+    </article>
+    <section id="photos-zone"></section>
+    <section id="avis-zone"></section>
+    <script src="../avis.js"></script>
+    <script src="../photos.js"></script>
+    <script>
+        initAvisRecette("tourte-de-b-uf-en-feuilles-de-vigne");
+        initPhotosRecette("tourte-de-b-uf-en-feuilles-de-vigne");
+    </script>
+</body>
+</html>

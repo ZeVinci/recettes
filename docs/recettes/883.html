@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soupe de topinambours, pesto noisettes-épinards</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="manifest" href="../manifest.json">
+    <meta name="theme-color" content="#1b3a5c">
+    <style>
+        body { background: #f0f4f8; }
+        header { background: #1b3a5c; }
+        .bouton-retour { color: rgba(232,240,248,.85) !important; }
+        .bouton-retour:hover { color: #fff !important; }
+    </style>
+
+<style>
+  html.verrouille body > *:not(#porte) { display: none !important; }
+  #porte { display: none; }
+  html.verrouille #porte {
+    display: flex; position: fixed; inset: 0; z-index: 99999;
+    align-items: center; justify-content: center; background: #faf8f5;
+    font-family: -apple-system, system-ui, sans-serif;
+  }
+  #porte .boite { width: 100%; max-width: 300px; padding: 24px; text-align: center; }
+  #porte h2 { margin: 0 0 16px; font-size: 18px; color: #5a3a1a; font-weight: 600; }
+  #porte input { width: 100%; padding: 12px; font-size: 16px; box-sizing: border-box;
+    border: 1px solid #d8cfc4; border-radius: 8px; background: #fff; margin-bottom: 10px; }
+  #porte button { width: 100%; padding: 12px; font-size: 15px; border: none;
+    border-radius: 8px; background: #1b3a5c; color: #fff; cursor: pointer; }
+  #porte .err { color: #c0392b; font-size: 13px; height: 16px; margin-bottom: 8px; }
+</style>
+<script>
+(function () {
+  var HASH = "0721ba9a209534aa3dba860230dc45ed3099223621973dd6f941df4386ab862c";
+  var CLE = "recettes_acces";
+  if (localStorage.getItem(CLE) === HASH) return;        // déjà entré : on laisse passer
+  document.documentElement.classList.add("verrouille");  // sinon on masque tout de suite
+
+  async function sha256(txt) {
+    var buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(txt));
+    return Array.from(new Uint8Array(buf))
+      .map(function (b) { return b.toString(16).padStart(2, "0"); }).join("");
+  }
+
+  function poser() {
+    var d = document.createElement("div");
+    d.id = "porte";
+    d.innerHTML =
+      '<div class="boite">' +
+      '<h2>\uD83D\uDD12 Mes recettes</h2>' +
+      '<div class="err" id="porte-err"></div>' +
+      '<input type="password" id="porte-mdp" placeholder="Mot de passe" autocomplete="current-password">' +
+      '<button id="porte-ok">Entrer</button></div>';
+    document.body.appendChild(d);
+    var inp = document.getElementById("porte-mdp");
+    var err = document.getElementById("porte-err");
+    inp.focus();
+    async function verifier() {
+      var h = await sha256(inp.value);
+      if (h === HASH) {
+        localStorage.setItem(CLE, HASH);
+        document.documentElement.classList.remove("verrouille");
+        d.remove();
+      } else {
+        err.textContent = "Mot de passe incorrect";
+        inp.value = ""; inp.focus();
+      }
+    }
+    document.getElementById("porte-ok").addEventListener("click", verifier);
+    inp.addEventListener("keydown", function (e) { if (e.key === "Enter") verifier(); });
+  }
+  if (document.body) poser();
+  else document.addEventListener("DOMContentLoaded", poser);
+})();
+</script>
+</head>
+<body>
+    <header class="header-recette">
+        <a href="../index.html" class="bouton-retour">← Retour</a>
+    </header>
+    <article class="recette">
+        <h1>Soupe de topinambours, pesto noisettes-épinards</h1>
+<h2>Ingrédients</h2>
+<p><em>Pour 6 personnes</em></p>
+<ul>
+<li>1 cuil. à soupe d'huile d'olive</li>
+<li>30 g de beurre doux</li>
+<li>2 échalotes, émincées (100 g)</li>
+<li>1 blanc de poireau, paré et émincé (120 g)</li>
+<li>2 gousses d'ail, écrasées</li>
+<li>1,2 kg de topinambours, pelés et coupés en fines tranches (950 g)</li>
+<li>25 cl de vin blanc sec</li>
+<li>50 cl de lait entier</li>
+<li>70 cl de bouillon de légumes</li>
+<li>10 g de ciboulette, finement hachée, pour servir</li>
+<li>Sel de mer et poivre noir</li>
+</ul>
+<p><strong>Pesto noisettes-épinards</strong></p>
+<ul>
+<li>50 g de noisettes mondées</li>
+<li>1 cuil. à soupe d'huile de noisette</li>
+<li>2 cuil. à soupe d'huile d'olive + un peu pour servir</li>
+<li>30 g de pousses d'épinards</li>
+<li>10 g d'estragon</li>
+<li>Le zeste finement râpé de 1 citron</li>
+<li>1 cuil. à café de vinaigre blanc</li>
+<li>1 petite gousse d'ail, écrasée</li>
+<li>1 à 2 piments thaïs verts, épépinés</li>
+</ul>
+<h2>Commentaire</h2>
+<p>Chez NOPI, cette soupe est garnie de champignons shimeji marinés. La garniture proposée ici au pesto noisettes-épinards est très parfumée. Pour les champignons marinés : mélangez 15 cl de vinaigre de riz, 2 étoiles de badiane, 1 petit bâton de cannelle, 1 cuil. à café de poivre rose, ½ cuil. à café de clous de girofle, 2 cuil. à soupe de sucre, 10 cl d'eau et 1 cuil. à café de sel. Portez à ébullition, laissez frémir 5 min, laissez refroidir, puis ajoutez 200 g de shimeji.</p>
+<h2>Déroulé de la recette</h2>
+<ol>
+<li>
+<p>Préchauffez le four à 150 °C.</p>
+</li>
+<li>
+<p>Commencez par préparer le pesto : étalez les noisettes sur une plaque de cuisson et enfournez pour 15 min. Sortez-les du four, laissez-les refroidir, puis hachez-les grossièrement. Réservez 30 g pour servir et mettez les 20 g restants dans le bol d'un robot de cuisine avec le reste des ingrédients du pesto et ¼ de cuil. à café de sel. Ajoutez 2 ½ cuil. à café d'eau et mixez pour obtenir une pâte lisse. Réservez.</p>
+</li>
+<li>
+<p>Dans une casserole, faites chauffer à feu vif l'huile d'olive et le beurre pour y faire revenir les échalotes pendant 3 min. Ajoutez les poireaux et l'ail, puis ½ cuil. à café de sel et du poivre. Laissez cuire 3 min, en veillant à ce que le mélange ne se colore pas. Ajoutez les topinambours et laissez-les dorer 12 min. Mouillez avec le vin, portez à frémissement, puis laissez cuire 3 à 4 min pour que le liquide réduise d'un quart. Versez alors le lait et le bouillon, portez à ébullition, écumez la surface, puis réduisez à feu moyen. Laissez mijoter 50 min, en remuant de temps en temps, jusqu'à ce que les topinambours soient fondants. Mixez la soupe pour obtenir une texture lisse.</p>
+</li>
+<li>
+<p>Répartissez la soupe dans des bols et garnissez de pesto, de ciboulette ciselée et de noisettes concassées. Ajoutez un filet d'huile et servez aussitôt.</p>
+</li>
+</ol>
+    </article>
+    <section id="photos-zone"></section>
+    <section id="avis-zone"></section>
+    <script src="../avis.js"></script>
+    <script src="../photos.js"></script>
+    <script>
+        initAvisRecette("soupe-de-topinambours-pesto-noisettes-epinards");
+        initPhotosRecette("soupe-de-topinambours-pesto-noisettes-epinards");
+    </script>
+</body>
+</html>

@@ -1082,9 +1082,8 @@ Ottolenghi. Végé
 
 ---
 
-## Les trois déclinaisons
-
-### 1. Céleri-rave rôti et mariné avec une vinaigrette au piment doux
+### Les trois déclinaisons
+### Céleri-rave rôti et mariné avec une vinaigrette au piment doux
 
 *Pour 2 personnes (ou en accompagnement 4 personnes)*
 
@@ -1131,7 +1130,7 @@ Ajoutez le piment et l'ail frits dans la vinaigrette en évitant de mettre le li
 
 ---
 
-### 2. « Tacos » de chou au céleri-rave et sauce barbecue aux dattes
+### « Tacos » de chou au céleri-rave et sauce barbecue aux dattes
 
 *Pour 16 tacos (pour 4 à 6 personnes)*
 
@@ -1174,7 +1173,7 @@ Pour assembler, placez un quartier de céleri-rave sur chaque feuille de chou. B
 
 ---
 
-### 3. Steaks de céleri-rave et sauce café de Paris
+### Steaks de céleri-rave et sauce café de Paris
 
 *Pour 4 personnes en plat principal*
 
@@ -2106,9 +2105,6 @@ Breton. Végé
 
 ## Noms ingrédients
 
-
-
-
 # Crêpes de froment
 
 *recette n°71 desserts*
@@ -2146,9 +2142,6 @@ Testé et sélectionné. Breton.
 Breton. Végé
 
 ## Noms ingrédients
-
-
-
 
 # Galettes de patates douces
 
@@ -4450,7 +4443,7 @@ Japonais. Végé
 
 ---
 
-## Sauce au gingembre
+### Sauce au gingembre
 *しょうがだれ — Pour 25 cl de sauce*
 
 **Ingrédients**
@@ -4469,7 +4462,7 @@ Dans un bol, mélangez tous les ingrédients. Cette sauce peut se conserver 2 se
 
 ---
 
-## Sauce teriyaki
+### Sauce teriyaki
 *てりやきソース — Pour 30 cl de sauce*
 
 **Ingrédients**
@@ -4486,7 +4479,7 @@ Versez tous les ingrédients dans une casserole. Portez à ébullition, puis bai
 
 ---
 
-## Sauce yakitori
+### Sauce yakitori
 *焼き鳥のたれ — Pour 20 cl de sauce*
 
 **Ingrédients**
@@ -4505,7 +4498,7 @@ Versez tous les ingrédients dans une casserole. Portez à ébullition en remuan
 
 ---
 
-## Marinade ail et piment
+### Marinade ail et piment
 *にんにくとうがらしソース — Pour 20 cl de sauce*
 
 **Ingrédients**
@@ -4526,7 +4519,7 @@ Dans un bol, mélangez tous les ingrédients. Cette sauce peut se conserver 2 se
 
 ---
 
-## Sauce goma daré
+### Sauce goma daré
 *ごまだれ — Pour 25 cl de sauce*
 
 **Ingrédients**
@@ -4544,7 +4537,7 @@ Dans un bol, délayez la purée de sésame avec un quart du bouillon. Versez le 
 
 ---
 
-## Sauce yakisoba
+### Sauce yakisoba
 *ソース — Pour 12 cl de sauce*
 
 **Ingrédients**
@@ -4562,7 +4555,7 @@ Versez tous les ingrédients dans une casserole. Faites chauffer sur feu moyen j
 
 ---
 
-## Sauce ponzu
+### Sauce ponzu
 *ポン酢 — Pour 25 cl de sauce*
 
 **Ingrédients**
@@ -4582,7 +4575,7 @@ La veille, mettez le shiitaké et le kombu dans un bocal, versez la sauce soja, 
 
 ---
 
-## Marinade au sésame
+### Marinade au sésame
 *ごま — Pour 24 cl de sauce*
 
 **Ingrédients**
@@ -4600,7 +4593,7 @@ Dans un bol, mélangez tous les ingrédients. Cette marinade peut se conserver 2
 
 ---
 
-## Sauce miso au citron
+### Sauce miso au citron
 *みそレモンソース — Pour 5 cuillerées à soupe de sauce*
 
 **Ingrédients**
@@ -4617,7 +4610,7 @@ Dans un bol, mélangez le miso avec le reste des ingrédients. Cette sauce peut 
 
 ---
 
-## Sauce soja sucrée
+### Sauce soja sucrée
 *甘口しょうゆ — Pour 20 cl de sauce*
 
 **Ingrédients**
@@ -4634,7 +4627,7 @@ Versez tous les ingrédients dans une casserole. Portez à ébullition, puis bai
 
 ---
 
-## Sauce tsuyu
+### Sauce tsuyu
 *つゆ — Pour 30 cl de sauce*
 
 **Ingrédients**
@@ -4652,7 +4645,7 @@ Versez la sauce soja dans une casserole, ajoutez le reste des ingrédients, mél
 
 ---
 
-## Mayo-wasabi
+### Mayo-wasabi
 *わさびマヨネーズ — Pour 12 cl de mayonnaise*
 
 **Ingrédients**
@@ -6992,6 +6985,7 @@ Servir tel quel en mezze ou en accompagnement de viandes rôties ou grillées.
 3. Remettre le chorizo et l'ail dans la sauteuse avec le chou, ainsi que le citron confit et le jus de citron. Mélanger, puis hors du feu incorporer la crème aigre. Dresser dans un grand plat de service.
 
 ## Noms ingrédients
+
 ail. citron confit. citrons
 ---
 
@@ -7023,6 +7017,7 @@ Les gombos sont cuits entiers et très brièvement pour rester croquants et évi
 4. Dresser dans un saladier de service, parsemer de cacahuètes grillées et servir.
 
 ## Noms ingrédients
+
 ail. piment rouge frais. citrons verts. coriandre. cacahuètes
 ---
 
@@ -7049,6 +7044,7 @@ Trois fondamentaux pour réussir ce wok : une bonne dose de piment, une bonne do
 2. Ajouter le chou en plusieurs fois et faire sauter 5 minutes avec ¾ de cuillère à café de sel. Le chou doit être cuit mais encore légèrement croquant. Retirer du feu, laisser tiédir 5 minutes, puis servir avec des quartiers de citron vert.
 
 ## Noms ingrédients
+
 ail. piment rouge frais. chou pointu. citrons verts
 ---
 
@@ -7080,6 +7076,7 @@ Association de chou-fleur cuit et cru dans un même plat. Les feuilles rôties s
 3. Verser les légumes dans un saladier avec 50 ml d'huile d'olive, la semoule de chou-fleur et tous les ingrédients restants. Assaisonner avec ¼ de cuillère à café de sel et mélanger délicatement. Dresser et déguster.
 
 ## Noms ingrédients
+
 oignons. persil. menthe. grenade. arilles de grenade. pistaches. citrons. chou-fleur
 ---
 
@@ -7114,6 +7111,7 @@ Plat gourmand par excellence, délicieux avec du poulet rôti, des saucisses ou 
 4. Verser les 20 g de cheddar restants dans un cul-de-poule avec le pain de mie haché et le persil. Mélanger, puis répartir cette chapelure sur le gratin. Nettoyez les parois de la cocotte avec un torchon ou une spatule souple. Enfourner pour 8 minutes. Passer en mode gril (puissance maximale) et faire gratiner 4 minutes, en surveillant régulièrement. Sortir la cocotte du four et laisser tiédir 5 minutes avant de servir.
 
 ## Noms ingrédients
+
 oignons. piment vert. cheddar. persil. chou-fleur
 ---
 
@@ -7147,6 +7145,7 @@ Version végétarienne du poulet à la reine. Peut aussi se servir en garniture 
 4. Dans un cul-de-poule, mélanger le yaourt, la mayonnaise, 1 cuillère à café de curry, la moitié du piment d'Alep, le cumin, le jus de citron et ¼ de cuillère à café de sel. Verser cette sauce sur les œufs, puis ajouter l'estragon, ainsi que le chou-fleur et l'oignon rôtis. Mélanger bien, puis dresser sur un plat de service, parsemer du reste de piment et servir avec des quartiers de citron.
 
 ## Noms ingrédients
+
 yaourt grec. piment d'Alep. citrons. chou-fleur. oignons
 ---
 
@@ -7179,6 +7178,7 @@ Plat généreux et réconfortant, servi avec du riz blanc. Peut se préparer à 
 4. Incorporer le jus de citron hors du feu, puis dresser dans les assiettes avec une belle cuillère de yaourt et un quartier de citron. Parsemer de coriandre, arroser d'un filet d'huile d'olive.
 
 ## Noms ingrédients
+
 carottes. oignons. blettes. pois chiches. citrons. yaourt grec. coriandre
 ---
 
@@ -7210,6 +7210,7 @@ Servi avec du riz complet, ce plat estival et léger se bonifie avec le temps : 
 2. Retirer le couvercle et laisser épaissir 30 minutes, en remuant de temps en temps, jusqu'à ce que les haricots ne montrent plus aucune résistance. Incorporer la coriandre. Servir chaud ou à température ambiante.
 
 ## Noms ingrédients
+
 oignons. ail. concentré de tomate. haricots verts. tomates en conserve. coriandre
 ---
 
@@ -7247,6 +7248,7 @@ D'inspiration libyenne, la sauce rouge aux épices peut se conserver au moins 1 
 4. Hors du feu, incorporer délicatement le tofu et la coriandre, puis dresser dans quatre assiettes creuses. Servir avec un quartier de citron vert.
 
 ## Noms ingrédients
+
 haricots verts. ail. concentré de tomate. citrons verts. coriandre
 ---
 
@@ -7273,6 +7275,7 @@ Guacamole plus frais et léger que la version traditionnelle grâce aux fèves. 
 3. Dresser le guacamole en cratère dans une assiette creuse et, juste avant de servir, verser le mélange de fèves, de cébettes et de citron au centre.
 
 ## Noms ingrédients
+
 fèves. citrons
 ---
 
@@ -7304,6 +7307,7 @@ Les deux premières étapes peuvent s'effectuer jusqu'à 6 h à l'avance. Si vou
 3. Une fois les haricots et les edamames bien égouttés, les verser dans un plat de service et les arroser avec la sauce et le jus de citron vert. Mélanger bien, puis parsemer de graines de sésame, de coriandre et servir aussitôt.
 
 ## Noms ingrédients
+
 citrons verts. menthe. ail. piment vert. coriandre. haricots verts
 ---
 
@@ -7334,6 +7338,7 @@ Garniture idéale pour les repas d'automne ou de fêtes. Peut aussi se servir au
 3. Verser le contenu de la plaque dans un saladier et assaisonner avec l'estragon, le zaatar, le jus de citron et 2 cuillères à café d'huile d'olive. Mélanger, puis dresser dans un grand plat de service et servir.
 
 ## Noms ingrédients
+
 champignons de Paris. échalotes. ail. sauge. zaatar. citrons
 ---
 
@@ -7365,6 +7370,7 @@ L'ail noir, avec son goût balsamique et ses notes de réglisse, permet de donne
 4. Réaliser un beurre noisette en laissant le beurre colorer 3 minutes dans une grande sauteuse sur feu moyen-vif. Ajouter la pâte à base d'ail noir, de thym et de carvi, les choux, les graines de courge et 1 pincée de sel. Laisser cuire 30 secondes en remuant continuellement, puis retirer du feu. Incorporer le jus de citron et dresser dans un saladier de service ou directement dans les assiettes. Arroser d'un filet de tahin et servir aussitôt.
 
 ## Noms ingrédients
+
 citrons. tahin
 ---
 
@@ -7396,6 +7402,7 @@ Les carottes nouvelles fines apportent une certaine élégance. La sauce peut se
 3. Dans un cul-de-poule, mélanger le yaourt avec la crème fraîche et ¼ de cuillère à café de sel. Verser sur les carottes, ajouter les herbes fraîches et donner un ou deux coups de cuillères en bois – pas plus ! Soulever délicatement les carottes avec des couverts à salade pour les transvaser dans un saladier de service et déguster.
 
 ## Noms ingrédients
+
 carottes. miel. ail. yaourt grec. aneth. coriandre
 ---
 
@@ -7429,6 +7436,7 @@ Servir avec la courge et les lentilles encore chaudes pour que le gorgonzola fon
 4. Verser les tranches de butternut et les oignons dans les lentilles et mélanger délicatement. Débarrasser dans un saladier de service, parsemer de morceaux de dolcelatte, arroser d'un filet d'huile d'olive et servir.
 
 ## Noms ingrédients
+
 oignons rouges. sauge. lentilles du Puy. citrons. ail. persil. menthe. gorgonzola
 ---
 
@@ -7460,6 +7468,7 @@ Si vous aimez votre maïs grillé bien croquant, démarrez avec des épis frais.
 4. Dresser les tranches de butternut dans un grand plat de service ou directement dans les assiettes, puis arroser du mélange maïs/huile/herbes. Parsemer de graines de courge, de morceaux de feta et servir avec un filet d'huile d'olive supplémentaire.
 
 ## Noms ingrédients
+
 piment rouge frais. citrons verts. coriandre. menthe. feta. épis de maïs
 ---
 
@@ -7491,6 +7500,7 @@ Cette salade s'accorde divinement avec les poissons gras : maquereau fumé, file
 4. Incorporer le tahin dans le yaourt et déposer quatre ou cinq points de ce mélange sur les betteraves. Donner un coup de cuillère en bois sans chercher à vraiment incorporer le yaourt, parsemer du reste d'aneth et servir.
 
 ## Noms ingrédients
+
 oignons rouges. citron confit. citrons. aneth. tahin. yaourt grec
 ---
 
@@ -7520,6 +7530,7 @@ Cette purée se marie avec tout : côtelettes grillées, saucisses au barbecue, 
 5. Dresser la purée dans un plat de service, créer quelques aspérités sur la surface et verser la sauce dans les creux. Servir aussitôt.
 
 ## Noms ingrédients
+
 patate douce. basilic. coriandre. ail. citrons verts
 ---
 
@@ -7548,6 +7559,7 @@ Le goût puissant du bleu apporte un vrai plus, mais on peut le remplacer par to
 4. Remplir une casserole d'eau salée à mi-hauteur et porter à ébullition. Blanchir les épinards pendant 10 à 15 secondes, puis égoutter en pressant les feuilles pour extraire un maximum de liquide. Incorporer les épinards dans la purée, puis garnir généreusement les peaux de pommes de terre. Enfourner pour 15 minutes, jusqu'à ce que la purée soit gratinée en surface. Sortir du four, parsemer de brisures de noix et servir.
 
 ## Noms ingrédients
+
 pomme de terre. gorgonzola. épinards. noix
 ---
 
@@ -7583,6 +7595,7 @@ Cette recette combine les pommes de terre au four et les œufs mollets. La sauce
 4. Au moment de servir, inciser profondément les pommes de terre dans le sens de la longueur. Pincer légèrement la peau pour aider la chair à se détacher. Saupoudrer d'une pincée de fleur de sel. Garnir de sauce au thon. Déposer un œuf mollet sur le dessus en le coupant en deux juste avant pour que le jaune coule sur la sauce. Parsemer du reste de persil et de câpres, arroser d'un filet d'huile d'olive et servir.
 
 ## Noms ingrédients
+
 pomme de terre. citrons. anchois. ail. persil. câpres
 ---
 
@@ -7611,6 +7624,7 @@ Ces frites s'inspirent de celles goûtées à Melbourne au restaurant de George 
 4. Cinq minutes avant que les frites ne soient bien dorées et croustillantes, faire chauffer l'huile d'olive avec les gousses d'ail dans une petite casserole sur feu moyen-vif. Laisser colorer 3 à 4 minutes, puis sortir les frites du four, les arroser de cette huile aillée et remettre au four (avec les gousses d'ail) pour 4 minutes supplémentaires. Parsemer les frites d'origan et de feta, et servir aussitôt.
 
 ## Noms ingrédients
+
 pomme de terre. ail. feta
 ---
 
@@ -7637,6 +7651,7 @@ Le sumac, avec sa belle robe pourpre et son goût légèrement astringent, perme
 2. Égoutter les pommes de terre avec une écumoire et déposer dans un saladier de service. Parsemer de sumac, mélanger et servir.
 
 ## Noms ingrédients
+
 pomme de terre. ail
 ---
 
@@ -7668,6 +7683,7 @@ L'ail confit consiste simplement à faire rôtir l'ail tout doucement jusqu'à c
 5. Verser les pommes de terre dans le cul-de-poule contenant la graisse d'oie et ajouter la semoule, les graines de carvi, la harissa et 2 cuillères à café de fleur de sel. Mélanger bien, puis répartir le tout sur une grande plaque chemisée avec du papier sulfurisé. Faire dorer au four pendant 45 minutes en retournant les pommes de terre une ou deux fois en cours de cuisson. Ajouter l'ail confit et les herbes et poursuivre la cuisson 10 à 15 minutes, jusqu'à ce que les pommes de terre soient croustillantes et bien colorées. Servir.
 
 ## Noms ingrédients
+
 ail. pomme de terre. semoule
 ---
 
@@ -7701,6 +7717,7 @@ Recette anti-gaspi utilisant les peaux de pommes de terre d'une recette précéd
 4. Dans un bol, émulsionner tous les ingrédients prévus pour la sauce avec ¼ de cuillère à café de sel et verser sur la salade. Mélanger et servir.
 
 ## Noms ingrédients
+
 pomme de terre. citron confit. citrons
 ---
 
@@ -7728,6 +7745,7 @@ Cette garniture se marie à merveille avec l'agneau ou tout autre produit printa
 2. Porter un grand volume d'eau salée à ébullition, puis plonger les pommes de terre et laisser cuire environ 15 minutes. Égoutter et débarrasser dans un saladier. Écraser grossièrement les pommes de terre en essayant d'en laisser au moins ⅓ entières. Ajouter les petits pois – mixés et entiers –, ainsi que le jus de citron et les feuilles de coriandre. Mélanger délicatement et servir chaud.
 
 ## Noms ingrédients
+
 piment vert. citron confit. coriandre. citrons. pomme de terre
 ---
 
@@ -7767,6 +7785,7 @@ Garniture blanche à base de mascarpone et de pommes de terre. La pâte peut se 
 5. Badigeonner deux grandes plaques à four d'huile d'olive et fariner légèrement le plan de travail. Abaisser l'un des pâtons en un rectangle de 30 x 20 cm, puis déposer délicatement sur l'une des plaques. Répéter l'opération avec le deuxième pâton et répartir la base mascarpone/anchois sur les deux pâtes, en laissant 2 cm de pâte vierge sur tout le tour. Parsemer de cébettes, puis recouvrir de tranches de pommes de terre. Arroser chaque pizza de 1 cuillère à soupe d'huile d'olive et enfourner pour 9 minutes, jusqu'à ce que la pâte soit bien dorée et croustillante sur les bords. Servir chaud avec un dernier tour de moulin à poivre.
 
 ## Noms ingrédients
+
 pomme de terre. mascarpone. pecorino. anchois. sauge. citrons. oignons verts
 ---
 
@@ -7804,6 +7823,7 @@ Peut aussi se déguster seule ou avec des pavés de saumon poêlés. Simple et r
 5. Au moment de servir, mélanger les oignons, le sarrasin, les haricots, la menthe et l'estragon avec la cuillère à soupe d'huile restante et ½ cuillère à café de sel. Transvaser le tout dans votre plat de service et servir avec la sauce à part. Saupoudrer de piment et déguster !
 
 ## Noms ingrédients
+
 oignons rouges. haricots verts. menthe. piment d'Urfa. yaourt grec. ail. citrons
 ---
 
@@ -7839,6 +7859,7 @@ Compagnon idéal de tous vos barbecues, ce taboulé se marie divinement avec les
 5. Dresser le taboulé dans un plat de service et déposer les tomates sur le dessus avant de servir.
 
 ## Noms ingrédients
+
 semoule. tomates cerise. oignons. amandes. coriandre. menthe. citrons
 ---
 
@@ -7872,6 +7893,7 @@ Ce ragoût supporte 3 jours de réfrigérateur. Pour réchauffer, ajouter une cu
 3. Servir chaud ou à température ambiante, avec une cuillère de crème fraîche, un filet d'huile d'olive, les flocons de piment et les feuilles d'origan.
 
 ## Noms ingrédients
+
 ail. oignons rouges. aubergines. tomates cerise. lentilles du Puy. piment d'Urfa
 ---
 
@@ -7906,6 +7928,7 @@ Si servi en accompagnement, les aubergines et le yaourt citronné ne sont pas in
 5. Répartir le boulgour dans quatre assiettes, dresser une belle cuillère de yaourt sur le dessus, ajouter les aubergines et parsemer du reste de menthe.
 
 ## Noms ingrédients
+
 aubergines. oignons. ail. tomates cerise. concentré de tomate. yaourt grec. citron confit. menthe
 ---
 
@@ -7936,6 +7959,7 @@ Par souci de praticité, les aubergines sont confites au four, mais pour plus de
 4. Pendant que les tomates sont au four, remplir une casserole d'eau et porter à ébullition. Plonger les lentilles sèches dans l'eau bouillante, baisser le feu (moyen) et faire cuire 20 minutes jusqu'à ce qu'elles soient al dente. Verser les lentilles dans une passoire, laisser s'égoutter au maximum, puis transvaser dans un saladier. Ajouter le caviar d'aubergine, les tomates, l'huile d'olive, le jus de citron, l'ail, 2 cuillères à soupe d'origan, ¾ de cuillère à café de sel et du poivre. Mélanger, puis dresser dans un plat de service (creux). Ajouter le yaourt sur le dessus en créant quelques volutes, saupoudrer du reste d'origan, arroser d'un filet d'huile d'olive et servir.
 
 ## Noms ingrédients
+
 aubergines. tomates cerise. lentilles du Puy. citrons. ail. yaourt grec
 ---
 
@@ -7963,6 +7987,7 @@ Ce plat à base de riz se marie admirablement avec la viande d'agneau ou de porc
 2. Verser la cuillère à soupe d'huile restante dans la sauteuse, puis ajouter le riz et ½ cuillère à café de sel. Laisser frire 1 minute sans cesser de remuer, puis mouiller avec 500 ml d'eau. Porter à ébullition, puis baisser le feu (moyen-doux) et laisser mijoter à couvert env. 45 minutes, jusqu'à ce que le riz soit entièrement cuit. Retirer du feu et incorporer les oignons, le jus de citron et l'ail noir. Servir aussitôt, surmonté d'une belle cuillère de yaourt et de persil haché.
 
 ## Noms ingrédients
+
 oignons. citrons. yaourt grec. persil
 ---
 
@@ -7998,6 +8023,7 @@ Opter pour une cuisson au four, c'est choisir une méthode inratable. De plus, c
 4. Sortir le riz du four et retirer le papier d'aluminium. Prélever les feuilles sur les brins de menthe (jeter les tiges) et déposer sur le riz, puis parsemer de feta. Juste avant de servir, incorporer les 10 g de menthe ciselée dans la garniture et verser sur le riz de manière homogène. Servir chaud.
 
 ## Noms ingrédients
+
 menthe. feta. olives de Kalamata. grenade. arilles de grenade. noix. ail
 ---
 
@@ -8027,6 +8053,7 @@ Servi avec un plat à base de viande ou de poisson, le riz gluant est déjà un 
 2. Pendant que le riz cuit, faire chauffer l'huile dans une poêle ou un wok sur feu moyen-vif. Ajouter le gingembre, l'ail et les piments et faire revenir 3 à 4 minutes en remuant régulièrement, jusqu'à obtenir un début de coloration. Ajouter la coriandre, les cacahuètes, les graines de sésame, une belle pincée de sel et laisser dorer encore 1 à 2 minutes. Dresser sur le riz et servir avec des quartiers de citron vert.
 
 ## Noms ingrédients
+
 gingembre. ail. piment rouge frais. coriandre. cacahuètes. citrons verts
 ---
 
@@ -8058,6 +8085,7 @@ Accompagnement parfait pour quasiment toutes les viandes et poissons, mais aussi
 4. Assaisonner le riz avec ½ cuillère à café de sel et quelques tours de moulin à poivre, puis mouiller délicatement le plat avec l'eau bouillante. Couvrir hermétiquement le plat avec une feuille de papier d'aluminium et enfourner pour 25 minutes, jusqu'à ce que le riz ait absorbé tout le liquide. Sortez le plat du four et laissez reposer 10 minutes sans toucher le couvercle. Retirer le papier d'aluminium, parsemer de feuilles de coriandre, mélanger délicatement et servir.
 
 ## Noms ingrédients
+
 tomates cerise. ail. échalotes. coriandre
 ---
 
@@ -8098,6 +8126,7 @@ Cette salade fait aussi des merveilles avec des pavés de saumon poêlés. Tous 
 3. Quand les nouilles sont revenues à température ambiante, verser tous les ingrédients restants dans le saladier, le jus de macération, 2 cuillères à soupe d'huile d'olive et 1 petite cuillère à café de sel. Mélanger bien et servir aussitôt.
 
 ## Noms ingrédients
+
 oignons rouges. gingembre. concombres. piment rouge frais. menthe. yaourt grec. ail. citrons
 ---
 
@@ -8128,6 +8157,7 @@ Recette légère pour déjeuner ou dîner. On peut y ajouter des crevettes ou du
 2. Avec le plat du couteau, ouvrir les capsules de cardamome en les écrasant. Récupérer les graines et jeter les capsules. Dans un mortier, piler les graines jusqu'à obtenir ½ cuillère à café de poudre. Transvaser les sobas dans un saladier et ajouter la poudre de cardamome. Ajouter le basilic, la coriandre, les pistaches, le zeste et le jus de citron vert, l'huile, le piment, les lamelles d'avocat et ½ cuillère à café de sel. Mélanger, puis dresser dans quatre grands bols, en raclant bien le fond du saladier. Parsemer de graines de nigelle ou de piment et servir avec un quartier de citron vert.
 
 ## Noms ingrédients
+
 basilic. coriandre. pistaches. citrons verts. piment vert
 ---
 
@@ -8162,6 +8192,7 @@ Les spaghettis de mer ont une texture proche des nouilles de riz et un goût sub
 2. Verser les spaghettis de mer dans une casserole de taille moyenne et mouiller à hauteur. Porter à ébullition, puis baisser le feu et laisser cuire 15 minutes à feu doux, jusqu'à obtenir une cuisson al dente. Égoutter, puis stopper la cuisson à l'eau froide. Sécher les spaghettis avec du papier absorbant et débarrasser dans un saladier. Ajouter les tagliatelles de concombre, les graines de sésame, la coriandre, la vinaigrette et ½ cuillère à café de sel. Mélanger le tout, puis dresser dans quatre grands bols (ou dans un plat de service creux), saupoudrer de piment et servir aussitôt.
 
 ## Noms ingrédients
+
 concombres. coriandre. piment rouge séché. miel. tahin
 ---
 
@@ -8195,6 +8226,7 @@ Ces pâtes font partie des plats dont on ne se lasse jamais. La sauce tomate peu
 5. Dresser les pâtes dans quatre assiettes creuses, saupoudrer du restant de fromage et de basilic, arroser de 1 cuillère à soupe d'huile d'olive et servir.
 
 ## Noms ingrédients
+
 aubergines. ail. tomates en conserve. pecorino. basilic
 ---
 
@@ -8223,6 +8255,7 @@ Choisir de belles tomates cerise au pic de leur maturité. La sauce peut se pré
 2. Plonger les tagliatelles dans un grand volume d'eau salée portée à ébullition et laisser cuire 10 à 12 minutes à feu vif, ou selon les indications figurant sur le paquet pour obtenir une cuisson al dente. Égoutter et mélanger avec la sauce. Dresser dans quatre assiettes creuses, saupoudrer de parmesan et servir.
 
 ## Noms ingrédients
+
 ail. tomates cerise. basilic. parmesan
 ---
 
@@ -8253,6 +8286,7 @@ La sauce peut se préparer jusqu'à 3 jours à l'avance et se conserver au réfr
 3. Verser la sauce sur les pâtes, ajouter 1 bonne pincée de sel et mélanger. Dresser dans quatre assiettes creuses et servir bien chaud, avec une cuillère de yaourt et quelques feuilles de persil hachées.
 
 ## Noms ingrédients
+
 oignons. tomates cerise. olives de Kalamata. câpres. persil. yaourt grec
 ---
 
@@ -8288,6 +8322,7 @@ En italien, gigli signifie « lys ». Les orecchiette (« oreilles ») et les co
 3. Verser les épinards et le persil sur les pois chiches et mélanger : la chaleur de la sauce devrait suffire à faire tomber les épinards mais, si ce n'est pas le cas, remettre la sauteuse quelques minutes sur feu doux. Verser ensuite les pâtes dans la sauteuse et mélanger. Dresser dans quatre grands bols, saupoudrer de zaatar, arroser d'un filet d'huile d'olive et servir.
 
 ## Noms ingrédients
+
 oignons. ail. anchois. citrons. épinards. persil. zaatar
 ---
 
@@ -8320,6 +8355,7 @@ L'association crevettes/feta/tomates/pâtes est une valeur sûre pour les soirs 
 3. Remettre la sauteuse sur le feu et faire revenir l'ail 1 minute dans les 2 cuillères à soupe d'huile avec ¼ de cuillère à café de piment en flocons, 2 cuillères à café de graines de fenouil, et les écorces d'orange. Quand l'ail commence à colorer, ajouter les tomates, le bouillon de légumes, 200 ml d'eau, ¾ de cuillère à café de sel et du poivre. Laisser cuire jusqu'à ébullition, puis ajouter les risoni frits. Baisser le feu (moyen-doux) et laisser mijoter à couvert pendant 15 minutes, en remuant une fois ou deux. Retirer le couvercle et laisser épaissir 1 à 2 minutes. Ajouter les crevettes, laisser les rosir (2 à 3 min), puis incorporer le basilic et servir aussitôt, parsemé de dés de feta marinée.
 
 ## Noms ingrédients
+
 feta. piment rouge séché. ail. tomates en conserve. basilic
 ---
 
@@ -8350,6 +8386,7 @@ Les trofie sont les pâtes que l'on sert habituellement avec le pesto, les fusil
 3. Égoutter dans une passoire en réservant 2 cuillères à soupe d'eau de cuisson, puis transvaser dans un saladier. Verser le pesto basilic/anchois sur les pâtes et mélanger. Ajouter le pecorino, les pistaches, le zeste de citron, les 20 g de basilic restants, 1 bonne pincée de sel et du poivre. Mélanger délicatement et servir.
 
 ## Noms ingrédients
+
 basilic. ail. anchois. pois mange-tout. pecorino. pistaches. citrons
 ---
 
@@ -8380,6 +8417,7 @@ La salicorne et les anchois, deux produits fortement iodés, permettent de donne
 3. Remettre la sauteuse sur feu moyen-vif, puis ajouter les spaghettis, la salicorne et mélanger. Si besoin, délayer avec un peu d'eau de cuisson. Incorporer le restant de persil, poivrer et dresser dans quatre assiettes. Saupoudrer de quelques flocons de piment et servir avec un quartier de citron.
 
 ## Noms ingrédients
+
 anchois. piment d'Alep. ail. citrons. persil
 ---
 
@@ -8409,6 +8447,7 @@ Servi tel quel ou accompagné d'une salade verte croquante, c'est le plat famili
 4. Enclencher le gril à puissance maximale et faire gratiner 2 à 3 minutes, env. 10 cm sous la source de chaleur. Laisser tiédir 5 minutes et servir.
 
 ## Noms ingrédients
+
 semoule. parmesan. cheddar
 ---
 
@@ -8447,6 +8486,7 @@ Version orientale du hachis Parmentier où la purée de pommes de terre est remp
 5. Sortir la cocotte du four, laisser reposer 5 minutes et servir.
 
 ## Noms ingrédients
+
 oignons. concentré de tomate. viande d'agneau hachée. tomates en conserve. pistaches. persil. tahin. citrons. ail
 ---
 
@@ -8485,6 +8525,7 @@ Ce pain de viande peut se servir chaud en plat principal ou à température ambi
 5. Sortir le moule du bain-marie et laisser tiédir 10 minutes avant de démouler. Recouvrir d'un tiers de sauce sésame et d'un tiers de tomates râpées. Servir chaud avec le reste de sauce et de tomates à part, ou laisser revenir à température ambiante et servir découpé en tranches dans des pains pita.
 
 ## Noms ingrédients
+
 courgettes. carottes. oignons. tomates en conserve. viande d'agneau hachée. ail. pecorino. concentré de tomate. tahin. citrons
 ---
 
@@ -8520,6 +8561,7 @@ Les arayes sont des petits pains plats fourrés à la viande d'agneau très popu
 3. Délayer le sumac dans 2 cuillères à café d'huile. Badigeonner la face visible des arayes de cette huile aromatisée et servir chaud ou à température ambiante.
 
 ## Noms ingrédients
+
 viande d'agneau hachée. oignons. tomates en conserve. tahin. ail. grenade. menthe. cheddar
 ---
 
@@ -8554,6 +8596,7 @@ Servi avec un écrasé de haricots blancs détendu au jus de cuisson de l'agneau
 4. Déposer la pièce de viande dans un grand plat à gratin d'environ 30 x 40 cm avec la marinade et 500 ml d'eau. Couvrir hermétiquement de papier d'aluminium et enfourner pour 1 heure. Baisser la température du four (160 °C), ajouter le céleri-rave, les carottes, les têtes d'ail (partie coupée vers le haut) et laisser confire 5 h, en arrosant la viande et les légumes trois ou quatre fois au cours de la cuisson. Retirer ensuite l'aluminium et laisser dorer encore 30 minutes. En fin de cuisson, les légumes doivent être caramélisés et vous devez pouvoir détacher la viande de l'os sans effort.
 
 ## Noms ingrédients
+
 citrons. ail. menthe. coriandre. carottes. céleri-rave
 ---
 
@@ -8587,6 +8630,7 @@ Ces bouchées sont parfaites en guise de collation salée ou en amuse-bouches lo
 3. Dans une grande poêle antiadhésive, faire chauffer 1 cuillère à soupe d'huile sur feu moyen. Faire revenir les bouchées environ 7 minutes, en les retournant une fois à mi-cuisson. En fin de cuisson, elles doivent être joliment dorées à l'extérieur et cuites à cœur. Garder la première fournée au chaud et répéter l'opération avec les bouchées restantes. Quand toutes vos bouchées sont prêtes, dressez-les sur un grand plat de service, avec la sauce au yaourt et au sumac à proximité.
 
 ## Noms ingrédients
+
 pistaches. roquette. oignons. ail. viande d'agneau hachée. yaourt grec. citrons
 ---
 
@@ -8623,6 +8667,7 @@ Cette recette s'inspire de la cuisine d'Afrique du Nord, avec une purée de hari
 3. Pour la purée, verser les haricots blancs dans un cul-de-poule, ainsi que le tahin, le reste des zestes de citron, 2 cuillères à soupe d'huile d'olive, 3 cuillères à soupe d'eau, ¼ de cuillère à café de sel et un tour de moulin à poivre noir. Mélanger, puis écraser au presse-purée. Étaler la purée sur la couche de viande puis creuser quelques petits puits ici et là à l'aide d'une cuillère. Répartir la cuillère à soupe d'huile restante sur le dessus et faire gratiner 30 minutes au four. Laisser reposer 10 minutes à température ambiante et servir.
 
 ## Noms ingrédients
+
 ail. échalotes. viande d'agneau hachée. citrons. concentré de tomate. abricots secs. olives de Kalamata. tahin
 ---
 
@@ -8658,6 +8703,7 @@ Arnold Rogow est un ami d'Ixta Belfrage, un chef qui a contribué à l'élaborat
 5. Enfourner la volaille pour 70 à 75 minutes, en arrosant environ toutes les 20 minutes. En fin de cuisson, la peau doit être bien dorée et croustillante, et le jus qui s'écoule de la cuisse quand on la pique doit être translucide. Sortir la volaille du four et laisser reposer 10 minutes avant de servir.
 
 ## Noms ingrédients
+
 ail. céleri-rave. oignons. persil
 ---
 
@@ -8692,6 +8738,7 @@ Grâce à la ricotta, ces boulettes sont à la fois légères et moelleuses en b
 4. Glisser la totalité des boulettes dans la sauce et mouiller quasi à hauteur avec le reste du bouillon. Laisser mijoter 30 minutes à couvert sur feu moyen-doux, puis retirer le couvercle et passer à feu moyen jusqu'à obtenir une sauce épaisse comme une sauce bolognaise. Retirer du feu et laisser reposer minimum 10 minutes. Parsemer d'origan et servir.
 
 ## Noms ingrédients
+
 oignons. ail. tomates en conserve. bœuf haché. ricotta. parmesan. persil
 ---
 
@@ -8721,6 +8768,7 @@ Classique indémodable : citron/ail/poulet. La volaille peut être préparée 4 
 5. Sortir la volaille du four et laisser reposer 10 minutes avant de servir.
 
 ## Noms ingrédients
+
 ail. citron confit. citrons
 ---
 
@@ -8754,6 +8802,7 @@ Plat pouvant se réaliser presque entièrement avant l'arrivée des convives : m
 4. Sortir les cuisses du four, dresser sur un grand plat de service avec leur jus de cuisson, parsemer de feuilles d'origan frais et servir.
 
 ## Noms ingrédients
+
 cuisses de poulet. ail. olives de Kalamata. câpres
 ---
 
@@ -8789,6 +8838,7 @@ Ce plat se déguste aussi bien chaud, dès la sortie du four, avec du riz basmat
 5. Au moment de servir, dresser une cuisse de poulet dans chaque assiette et disposer les tiges de coriandre, le piment et les demi-cébettes autour. Arroser de sauce, saupoudrer de cébettes émincées et servir.
 
 ## Noms ingrédients
+
 cuisses de poulet. gingembre. ail. citrons verts. coriandre. piment rouge frais. oignons verts
 ---
 
@@ -8825,6 +8875,7 @@ L'une des recettes préférées quand on n'a pas envie de s'échiner en cuisine.
 3. Pendant que les aubergines cuisent, faire chauffer la moitié de l'huile d'arachide dans une grande sauteuse sur feu vif, puis faire sauter les cébettes, le gingembre, l'ail et le piment pendant 5 minutes, en remuant régulièrement. Débarrasser dans un cul-de-poule dès que l'ail commence à colorer. Verser le restant d'huile dans la sauteuse et faire revenir le porc haché 3 minutes en l'aidant à s'émietter avec une cuillère en bois. Déglacer avec le mirin, la sauce soja, le Keçap Manis, l'huile de sésame et le vinaigre de riz. Ajouter ½ cuillère à café de sel et laisser cuire 2 minutes avant de reverser les cébettes dans la sauteuse. Poursuivre la cuisson encore 1 minute et incorporer 10 g de coriandre et les cacahuètes. Servir avec les aubergines, des graines de sésame et le reste de coriandre parsemé sur le dessus.
 
 ## Noms ingrédients
+
 aubergines. gingembre. ail. piment vert. porc haché. coriandre. cacahuètes
 ---
 
@@ -8861,6 +8912,7 @@ Si vous vous découvrez une passion pour ce plat, doublez les quantités de chap
 6. Verser 0,5 cm d'huile dans une grande poêle que vous ferez chauffer sur feu moyen. Faire frire les aiguillettes quatre par quatre pendant 5 à 6 minutes, en les retournant une fois à mi-cuisson. En fin de cuisson, elles doivent être bien dorées sur les deux faces et cuites à cœur. Débarrasser sur une assiette tapissée de papier absorbant et répéter l'opération avec les aiguillettes restantes. Servir chaud, avec des quartiers de citron.
 
 ## Noms ingrédients
+
 citrons
 ---
 
@@ -8901,6 +8953,7 @@ Parfait quand l'automne arrive. Le poulet peut se préparer bien à l'avance et 
 5. Faire gratiner 35 minutes au four en surveillant la cuisson au bout de 25 minutes. Si le dessus vous semble colorer trop vite, recouvrir d'une feuille de papier d'aluminium pour les 10 dernières minutes. Sortir du four et laisser tiédir 10 minutes avant de servir.
 
 ## Noms ingrédients
+
 oignons rouges. ail. tomates en conserve. chocolat noir. coriandre
 ---
 
@@ -8932,6 +8985,7 @@ La réussite d'un bon tartare repose exclusivement sur la qualité et la fraîch
 4. Dresser les cubes de truite dans quatre assiettes et ajouter les échalotes (sans leur liquide résiduel) sur le dessus. Parsemer de pistaches, d'estragon et arroser de beurre noisette au cumin. Ajouter une pincée de fleur de sel et servir aussitôt.
 
 ## Noms ingrédients
+
 échalotes. citrons. truite. pistaches
 ---
 
@@ -8949,7 +9003,6 @@ Ottolenghi. Simple. Non testé. Poisson
 ## Noms ingrédients
 
 maquereau. gingembre. coriandre. basilic. pistaches. citrons verts. piment vert
-
 ## Ingrédients
 
 - 8 capsules de cardamome (ou ½ cuil. à café de cardamome en poudre)
@@ -8987,7 +9040,6 @@ Ottolenghi. Simple. Non testé. Poisson
 ## Noms ingrédients
 
 saumon. céleri. câpres. olives vertes. persil. citrons. raisins secs
-
 ## Ingrédients
 
 - 100 g de raisins de Corinthe
@@ -9022,7 +9074,6 @@ Ottolenghi. Simple. Non testé. Poisson
 ## Noms ingrédients
 
 flétan. piment rouge frais. ail. tomate. concentré de tomate. coriandre. tahin. citron (jus)
-
 ## Ingrédients
 
 - 800 g de flétan (ou autre poisson blanc à chair ferme) : soit 4 darnes, soit 4 filets, sans peau ni arêtes
@@ -9062,7 +9113,6 @@ Ottolenghi. Simple. Non testé. Poisson
 ## Noms ingrédients
 
 églefin. citrons verts. noix de coco déshydratée
-
 ## Ingrédients
 
 - 2 cuil. à soupe de jus de citron vert
@@ -9095,7 +9145,6 @@ Ottolenghi. Simple. Non testé. Poisson
 ## Noms ingrédients
 
 ail. œuf. citrons verts. coriandre. yaourt grec. oignons rouges. mangue. piment rouge frais
-
 ## Ingrédients
 
 - 450 g de filets de plie, sans peau ni arêtes, détaillés en morceaux de 2 à 3 cm
@@ -9132,7 +9181,6 @@ Ottolenghi. Simple. Non testé. Poisson
 ## Noms ingrédients
 
 panais. aneth. ciboulette. ail. citrons. œuf. églefin
-
 ## Ingrédients
 
 - 8 panais, pelés et coupés en cubes de 4 cm (600 g)
@@ -9165,7 +9213,6 @@ Ottolenghi. Simple. Non testé. Poisson
 ## Noms ingrédients
 
 gambas. oignons rouges. tomates cerise. gingembre. citrons verts
-
 ## Ingrédients
 
 - 440 g de gambas, décortiquées (en laissant la queue) et châtrées (240 g)
@@ -9201,7 +9248,6 @@ Ottolenghi. Simple. Non testé. Poisson
 ## Noms ingrédients
 
 oignons. poivron rouge. ail. concentré de tomate. oranges. calamars
-
 ## Ingrédients
 
 - 70 ml d'huile d'olive
@@ -9235,7 +9281,6 @@ Ottolenghi. Simple. Non testé. Poisson
 ## Noms ingrédients
 
 bar. chou blanc. gingembre. piment rouge frais. coriandre
-
 ## Ingrédients
 
 - 1 bar entier d'env. 45 cm de long, écaillé, vidé et rincé (1 kg)
@@ -9274,7 +9319,6 @@ Ottolenghi. Simple. Non testé. Poisson
 ## Noms ingrédients
 
 cabillaud. ail. oignons. concentré de tomate. citrons. pois chiches. coriandre
-
 ## Ingrédients
 
 - 200 g de cabillaud, sans peau ni arêtes, détaillé en tronçons de 3 cm
@@ -9309,7 +9353,6 @@ Ottolenghi. Simple. Non testé. Poisson
 ## Noms ingrédients
 
 crevettes. coriandre. œuf. citrons verts
-
 ## Ingrédients
 
 - 350 g de crevettes roses crues, décortiquées
@@ -9332,8 +9375,6 @@ crevettes. coriandre. œuf. citrons verts
 
 ---
 
-## 🍮 Desserts
-
 ---
 
 # Financier mûre-prune au laurier
@@ -9346,7 +9387,6 @@ Ottolenghi. Simple. Non testé. Dessert
 ## Noms ingrédients
 
 mûres. prunes. amandes moulues. œuf
-
 ## Ingrédients
 
 - 200 g de mûres
@@ -9382,7 +9422,6 @@ Ottolenghi. Simple. Non testé. Dessert
 ## Noms ingrédients
 
 figues. citrons. œuf
-
 ## Ingrédients
 
 - 90 g de muscovado
@@ -9416,7 +9455,6 @@ Ottolenghi. Simple. Non testé. Dessert
 ## Noms ingrédients
 
 yaourt grec. fromage frais. citrons. chocolat blanc. miel
-
 ## Ingrédients
 
 - 500 g de yaourt à la grecque
@@ -9453,7 +9491,6 @@ Ottolenghi. Simple. Non testé. Dessert
 ## Noms ingrédients
 
 pêches. framboises. noisettes. œuf
-
 ## Ingrédients
 
 - 2 cuil. à café d'huile de tournesol
@@ -9487,7 +9524,6 @@ Ottolenghi. Simple. Non testé. Dessert
 ## Noms ingrédients
 
 noisettes. oranges
-
 ## Ingrédients
 
 - 150 g de farine de force, plus une poignée pour le plan de travail
@@ -9522,7 +9558,6 @@ Ottolenghi. Simple. Non testé. Dessert
 ## Noms ingrédients
 
 chocolat noir. raisins secs. pistaches
-
 ## Ingrédients
 
 - 100 g de chocolat noir aromatisé à la menthe, détaillé en morceaux de 3 cm
@@ -9553,7 +9588,6 @@ Ottolenghi. Simple. Non testé. Dessert
 ## Noms ingrédients
 
 amandes moulues. oranges. œuf
-
 ## Ingrédients
 
 - 270 g de poudre d'amande
@@ -9585,7 +9619,6 @@ Ottolenghi. Simple. Non testé. Dessert
 ## Noms ingrédients
 
 framboises. œuf. jaunes d'œuf. citron (jus)
-
 ## Ingrédients
 
 - 600 g de framboises fraîches (ou surgelées et décongelées)
@@ -9936,9 +9969,6 @@ Mettez tous les ingrédients dans le bol d'un blender ou du robot, et faites tou
 Faites chauffer à feu moyen une crêpière ou une poêle antiadhésive (environ 24 cm). Ajoutez ¼ de cuillerée à café de beurre en l'étalant avec du papier absorbant. Versez 6 cl de pâte au centre de la poêle, inclinez-la en tous sens pour bien étaler, puis laissez cuire environ 2 min, en retournant à mi-cuisson, jusqu'à ce qu'elle soit légèrement dorée. Préparez les autres crêpes en rajoutant à chaque fois un peu de beurre.
 
 ## Noms ingrédients
-
-
-
 
 # Crêpes et pâte à tartiner sésame-noisettes
 
@@ -13562,9 +13592,6 @@ Sortez-le de la poêle et déposez-le sur le torchon, puis repliez un côté du 
 
 ## Noms ingrédients
 
-
-
-
 # Demi-lunes aux pommes de terre, fromage et chermoula
 
 ## Commentaire
@@ -15236,7 +15263,7 @@ Ottolenghi. Flavour. Non testé. Végé
 ail. betteraves. citrons verts. coriandre. feuilles de combava. gingembre. piment vert. yaourt grec
 ---
 
-# 1. Céleri-rave rôti et mariné avec une vinaigrette au piment doux
+# Céleri-rave rôti et mariné avec une vinaigrette au piment doux
 
 ## Commentaire
 
@@ -15300,7 +15327,7 @@ Ottolenghi. Flavour. Non testé. Végé
 ail. basilic. céleri-rave. ciboulette. citrons verts. oignons verts. piment rouge
 ---
 
-# 2. « Tacos » de chou au céleri-rave et sauce barbecue aux dattes
+# « Tacos » de chou au céleri-rave et sauce barbecue aux dattes
 
 ## Commentaire
 
@@ -15363,7 +15390,7 @@ Ottolenghi. Flavour. Non testé. Végé
 ail. ail noir. céleri-rave. chou pointu. ciboulette. citrons verts. dattes. échalotes. fromage de chèvre. piment rouge
 ---
 
-# 3. Steaks de céleri-rave et sauce café de Paris
+# Steaks de céleri-rave et sauce café de Paris
 
 ## Commentaire
 
@@ -18336,48 +18363,6 @@ Ottolenghi. Flavour. Non testé. Végé
 ## Noms ingrédients
 
 ail. champignons portobello. piment chipotle. concentré de tomate. haricots de Lima. citrons. oignons. piment rouge
----
-
-# Chou à la crème de gingembre et huile qui picote (voir recette 68)
-
-*Note : Cette recette est déjà incluse dans le bloc 7 (recette 68).*
-
----
-
-# Salade d'asperges au tamarin et au citron vert (voir recette 55)
-
-*Note : Cette recette est déjà incluse dans le bloc 6 (recette 55).*
-
----
-
-# Pancakes aux asperges et au gochujang (voir recette 33)
-
-*Note : Cette recette est déjà incluse dans le bloc 4 (recette 33).*
-
----
-
-# Ratatouille au berbéré et salsa à la crème de coco (voir recette 74)
-
-*Note : Voir recette 74.*
-
----
-
-# Verdure braisée au yaourt (voir recette 57)
-
-*Note : Voir recette 57.*
-
----
-
-# Salade de concombre, zaatar et citron haché (voir recette 63)
-
-*Note : Voir recette 63.*
-
----
-
-# Chou-fleur rôti au beurre pimenté (voir recette 72)
-
-*Note : Voir recette 72.*
-
 ---
 
 # Houmous au gingembre, sumac et betterave
@@ -22554,6 +22539,7 @@ Peut constituer un plat unique ou un condiment pour accompagner des légumes cru
 5. Prélever les graines de la grenade. Transférer dans un plat peu profond, parsemer de graines de grenade et arroser d'huile.
 
 ## Noms ingrédients
+
 aubergines. tahin. grenade. citrons. ail. persil. concombres. tomates cerise
 ---
 
@@ -22585,6 +22571,7 @@ Plat très italien revisité avec de la coriandre fraîche à la place du basili
 3. Pour servir, disposer les tranches d'aubergines sur un plat en les faisant se chevaucher légèrement. Couper la mozzarella en gros morceaux et les répartir sur les aubergines. Ajouter la salade de poivron par-dessus et terminer avec les feuilles de coriandre.
 
 ## Noms ingrédients
+
 aubergines. poivron jaune. tomates cerise. câpres. mozzarella. coriandre
 ---
 
@@ -22619,6 +22606,7 @@ Faciles à réaliser et réjouissantes. Un moment de suspense quand les convives
 5. Laisser reposer 1 min avant de disposer dans les assiettes. Laisser les convives les ouvrir eux-mêmes.
 
 ## Noms ingrédients
+
 champignons. champignons de Paris. pomme de terre. ail. persil
 ---
 
@@ -22671,6 +22659,7 @@ Adaptation végétarienne d'une galette vietnamienne habituellement garnie de po
 5. Mettre 1 galette dans chaque assiette, répartir les légumes sur une moitié, arroser de sauce et rabattre l'autre partie. Napper de sauce.
 
 ## Noms ingrédients
+
 noix de coco. citrons verts. gingembre. piment. ail. carottes. daïkon. oignons verts. coriandre. basilic. menthe. pousses de soja. champignons enoki
 ---
 
@@ -22716,6 +22705,7 @@ Le secret d'un bouillon végétarien au goût profond : ajouter des pruneaux. Le
 4. Verser le bouillon chaud dans des bols, ajouter les boulettes, parsemer de persil et servir immédiatement.
 
 ## Noms ingrédients
+
 carottes. céleri. oignons. céleri-rave. ail. persil. pruneaux. pomme de terre. panais. semoule
 ---
 
@@ -22752,6 +22742,7 @@ Plat d'Afrique du Nord aux multiples variantes. Une des meilleures recettes pour
 3. Retirer les feuilles de laurier. Répartir dans 4 poêlons. Réchauffer sur feu moyen, faire 2 trous dans la garniture de chaque poêlon et casser délicatement 1 œuf dans chaque trou. Saler, couvrir hermétiquement et laisser cuire à tout petit feu 10 à 12 min. Parsemer de coriandre et servir.
 
 ## Noms ingrédients
+
 oignons. poivron rouge. poivron jaune. persil. coriandre. tomates en conserve
 ---
 
@@ -22790,6 +22781,7 @@ Plat polyvalent : avec quelques feuilles d'endive pour un repas complet, en réc
 4. Mettre les fèves avec les champignons marinés, ajouter les noix et le cumin, mélanger. Goûter et rectifier. Servir dans des bols avec 1 cuil. de sauce au tahini et parsemer d'herbes.
 
 ## Noms ingrédients
+
 citrons. champignons bruns. champignons shimeji. yaourt grec. tahin. ail. fèves. noix. aneth
 ---
 
@@ -22829,6 +22821,7 @@ Plat réconfortant qui marie les traditions culinaires arabe et turque, mélange
 5. Parsemer du reste de parmesan, remettre 10 min au four pour faire fondre et dorer le fromage. Laisser reposer 5 min avant de servir.
 
 ## Noms ingrédients
+
 chou blanc. pistaches. ricotta. parmesan. menthe. persil. ail
 ---
 
@@ -22860,6 +22853,7 @@ Le chou-fleur est un légume merveilleusement polyvalent, beaucoup plus que le b
 3. Sortir du four, retirer le papier d'aluminium et laisser refroidir un peu avant d'incorporer le persil. Goûter et rectifier l'assaisonnement. Servir chaud ou à température ambiante.
 
 ## Noms ingrédients
+
 chou-fleur. oignons rouges. raisins de Smyrne. olives vertes. persil
 ---
 
@@ -22894,6 +22888,7 @@ La scamorza affumicata est un fromage italien proche de la mozzarella qui fond m
 5. Sortir du four, laisser reposer 2 à 3 min avant de découper en portions. Servir immédiatement.
 
 ## Noms ingrédients
+
 chou-fleur. ciboulette. scamorza affumicata. cheddar
 ---
 
@@ -22932,6 +22927,7 @@ Sans doute l'une des meilleures manières d'accommoder le rebarbatif chou de Bru
 5. Retirer la poêle du feu, y transférer le contenu du saladier. Arroser de marinade, ajouter la moitié des feuilles de coriandre. Mélanger et laisser refroidir légèrement. Incorporer le reste d'huile de sésame. Servir chaud, parsemé de graines de sésame et du reste de coriandre.
 
 ## Noms ingrédients
+
 piment vert. tofu ferme. choux de Bruxelles. oignons verts. piment rouge. champignons shiitaké. coriandre
 ---
 
@@ -22968,6 +22964,7 @@ L'une des recettes les plus légères pour commencer un repas. Le sel de Maldon 
 5. Disposer les tranches de courge refroidies sur un plat, arroser de sauce au yaourt. Garnir avec les tranches de citron vert et leur jus, les rondelles de piment et la coriandre. Servir aussitôt.
 
 ## Noms ingrédients
+
 citrons verts. courge butternut. yaourt grec. tahin. piment vert. coriandre
 ---
 
@@ -23005,6 +23002,7 @@ Adaptation libre d'une spécialité turque. Servir froid, juste au-dessus de la 
 4. Laisser refroidir complètement avant de réserver au réfrigérateur. Garnir de persil haché au moment de servir.
 
 ## Noms ingrédients
+
 oignons. groseilles. pistaches. persil. menthe. citrons. courgettes
 ---
 
@@ -23037,6 +23035,7 @@ L'entrée la plus somptueuse de l'été, avec ou sans noisettes. Les noisettes f
 5. Dresser les courgettes sur un plat de service avant de les garnir de parmesan. Arroser d'huile de noisette et servir aussitôt.
 
 ## Noms ingrédients
+
 noisettes. courgettes. basilic. parmesan
 ---
 
@@ -23076,6 +23075,7 @@ Le cascaval est un fromage de Roumanie au lait de brebis à la saveur légèreme
 5. Servir chaud ou à température ambiante avec la sauce à part.
 
 ## Noms ingrédients
+
 blettes. pistaches. fromage de brebis. oseille. yaourt grec. ail
 ---
 
@@ -23107,6 +23107,7 @@ Le gruyère, dont la saveur marquée se marie bien avec l'amertume de l'endive, 
 4. Enfourner 8 à 12 min jusqu'à ce que le fromage commence à bouillonner. Sortir du four, saupoudrer de chapelure et poivrer. Remonter la température à 200 °C et remettre au four 5 à 7 min jusqu'à ce que la chapelure soit bien dorée. Servir chaud.
 
 ## Noms ingrédients
+
 endives. gruyère
 ---
 
@@ -23154,6 +23155,7 @@ Servir avec une salade de roquette et de tomates. Le liquide de trempage des cè
 7. Saupoudrer de parmesan, couvrir de papier d'aluminium (sans le poser directement) et enfourner 40 min. Retirer le papier et prolonger 10 min pour dorer le dessus. Laisser reposer 10 min avant de servir.
 
 ## Noms ingrédients
+
 cèpes séchés. champignons. persil. échalotes. ricotta. feta. gruyère. lasagnes vertes. fromage de chèvre. parmesan
 ---
 
@@ -23202,6 +23204,7 @@ La cuisson pochée revient à la mode, à juste titre. Les légumes ainsi cuisin
 4. Sortir délicatement les légumes avec des pinces et les disposer dans des assiettes creuses. Arroser éventuellement d'un peu de jus de cuisson. Garnir chaque assiette d'une belle cuillerée de mayonnaise et parsemer d'aneth. Le liquide de cuisson peut être conservé au réfrigérateur pour une nouvelle utilisation.
 
 ## Noms ingrédients
+
 carottes. fenouil. asperges. courgettes. poireau. aneth. citrons. oignons. céleri. câpres. ail
 ---
 
@@ -23241,6 +23244,7 @@ Un plat délicieux pour un repas décontracté ou un dîner chic. Penser à piqu
 4. Transférer le mélange rôti sur les lentilles, ajouter les herbes ciselées et remuer délicatement. Goûter et rectifier. Répartir les lentilles dans les assiettes, déposer les aubergines grillées par-dessus et couronner d'1 cuil. de crème fraîche. Terminer avec un filet d'huile.
 
 ## Noms ingrédients
+
 aubergines. lentilles du Puy. carottes. céleri. oignons. tomates cerise. persil. coriandre. aneth
 ---
 
@@ -23277,6 +23281,7 @@ Salade verte pour ménager une pause à mi-repas, nettoyer le palais et éclairc
 3. Juste avant de servir, verser la vinaigrette sur la salade et mélanger délicatement. Ajouter les câpres.
 
 ## Noms ingrédients
+
 laitue romaine. laitue frisée. endives rouges. oignons verts. radis. tomates semi-séchées. câpres. ail. citrons
 ---
 
@@ -23313,6 +23318,7 @@ Les légumes grillés ont presque un goût de viande grâce aux puissants arôme
 5. Verser l'huile au persil sur les légumes chauds et remuer délicatement, puis laisser refroidir complètement. Goûter et rectifier. Pour servir, disposer les légumes et le fromage sur un plat.
 
 ## Noms ingrédients
+
 courgettes. chou-rave. aubergines. fromage de brebis. persil. ail. citrons
 ---
 
@@ -23349,6 +23355,7 @@ Une recette où la farce mène la danse. On peut imaginer une variante en nappan
 5. Enfourner 45 à 50 min jusqu'à ce que la farce bouillonne et que les oignons soient tendres et légèrement dorés (ajouter du bouillon s'ils sèchent avant la fin). Arroser d'un filet d'huile et servir chaud.
 
 ## Noms ingrédients
+
 oignons. tomates en conserve. feta. persil. ail. oignons verts
 ---
 
@@ -23383,6 +23390,7 @@ Les blettes, qui appartiennent à la famille de la betterave, sont vraiment fabu
 4. Disposer les omelettes dans un plat de cuisson légèrement huilé ou sur une plaque (ou garder au réfrigérateur pour servir plus tard). Juste avant de servir, préchauffer le four à 170 °C, enfourner les omelettes 5 à 8 min et servir dès qu'elles sont chaudes.
 
 ## Noms ingrédients
+
 pomme de terre. blettes. citrons. ail. aneth. persil
 ---
 
@@ -23427,6 +23435,7 @@ Utiliser de préférence du riz de Calasparra ou un autre riz à paella. Un bon 
 5. Ôter le papier. Répartir les olives et le persil sur la paella. Servir avec des quartiers de citron.
 
 ## Noms ingrédients
+
 oignons rouges. poivron rouge. poivron jaune. fenouil. ail. fèves. tomates cerise. artichauts. olives de Kalamata. persil. citrons
 ---
 
@@ -23465,6 +23474,7 @@ Cette recette peut servir de base pour de nombreux mélanges de légumes rôtis.
 5. Verser cette vinaigrette sur les légumes dès leur sortie du four. Remuer bien, goûter et rectifier. Parsemer de graines de sésame et servir dans le plat de cuisson.
 
 ## Noms ingrédients
+
 panais. oignons rouges. ail. patate douce. tomates cerise. citrons. câpres
 ---
 
@@ -23501,6 +23511,7 @@ Création de Claudine Boulstridge, bras droit de l'auteur pour ce livre. Les pat
 4. Au moment de servir, placer les morceaux de patates douces sur un grand plat. Parsemer de piment frais et de feuilles de coriandre. Présenter la sauce à part.
 
 ## Noms ingrédients
+
 patate douce. piment rouge. coriandre. citronnelle. citrons verts. gingembre
 ---
 
@@ -23535,6 +23546,7 @@ Inspirée du manakish libanais, un pain plat assaisonné au zaatar et garni de f
 5. Enfourner 12 à 15 min. Quand la croûte commence à dorer, sortir les pizzas et casser 1 œuf dans chaque puits. Étaler le blanc à la fourchette sur toute la surface en conservant le jaune entier. Saupoudrer de fleur de sel et enfourner de nouveau 5 min : les blancs doivent être figés et les jaunes encore liquides. Servir sur-le-champ.
 
 ## Noms ingrédients
+
 épinards. pecorino. zaatar
 ---
 
@@ -23575,6 +23587,7 @@ Recette préférée pour égayer une soirée d'hiver. Peut se simplifier en supp
 5. Réchauffer le bouillon, ajouter tous les champignons, la crème aigre et la plupart des herbes hachées. Saler et poivrer. Répartir les croûtons dans les assiettes, ajouter les champignons. Garnir chaque assiette d'1 œuf poché, d'un peu d'herbes, d'un filet d'huile de truffe et d'un peu de poivre.
 
 ## Noms ingrédients
+
 cèpes séchés. champignons. pain au levain. ail. oignons. carottes. céleri. œufs de cane. persil
 ---
 
@@ -23616,6 +23629,7 @@ Penser à toujours avoir des poivrons marinés dans le réfrigérateur pour parf
 5. Disposer 5 morceaux de poireaux frits dans chaque assiette, napper de sauce à la crème. Ajouter quelques lanières de poivron égouttées et quelques graines de coriandre ou grains de poivre rose de la sauce. Garnir d'oignons verts et servir aussitôt.
 
 ## Noms ingrédients
+
 poivron rouge. coriandre. poireau. câpres. oignons verts. citrons
 ---
 
@@ -23651,6 +23665,7 @@ Le pain de campagne est l'accompagnement indispensable pour « saucer » l'assie
 3. Pour composer la salade : mélanger les herbes, le cresson, les poivrons égouttés, le pecorino et les câpres. Ajouter 1 cuil. à soupe d'huile d'olive et 1 cuil. à soupe (ou plus) de marinade. Goûter et rectifier.
 
 ## Noms ingrédients
+
 poivron rouge. poivron jaune. ail. persil. basilic. cresson. pecorino. câpres
 ---
 
@@ -23697,6 +23712,7 @@ On peut utiliser de la pâte de curry du commerce au lieu de préparer la pâte 
 4. Répartir les nouilles dans de grands bols préchauffés et garnir de brocolis chauds. Verser 3 à 4 cuil. à soupe de sauce sur et autour du brocoli. Terminer avec le basilic ou la coriandre et un trait de jus de citron vert.
 
 ## Noms ingrédients
+
 brocoli. oignons rouges. feuilles de combava. noix de coco. citrons verts. basilic. coriandre. galanga. piment vert. citronnelle. ail. échalotes
 ---
 
@@ -23741,6 +23757,7 @@ Le tamarin et les blettes apportent la pointe de vivacité qui casse la gravité
 7. Répartir le riz dans des bols peu profonds en formant un cratère au milieu. Assaisonner le ragoût avec le jus de citron et verser 1 louche dans chaque bol. Garnir de yaourt (facultatif), arroser d'huile et terminer par les feuilles de coriandre.
 
 ## Noms ingrédients
+
 tamarin. blettes. coriandre. oignons. concentré de tomate. tomates en conserve. pois chiches. citrons. yaourt grec
 ---
 
@@ -23781,6 +23798,7 @@ Recette de Tamara Meitlis, cuisinière émérite. Conseil indispensable : prépa
 4. Préchauffer le four à 200 °C. Avec l'écumoire, sortir délicatement les légumes et les étaler dans un grand plat à gratin sur une épaisseur de 2 à 3 cm. Arroser de liquide de cuisson et enfourner 30 min. À la sortie du four, les légumes doivent être fondants et le liquide presque totalement évaporé. Saupoudrer de coriandre ciselée et servir avec du riz blanc.
 
 ## Noms ingrédients
+
 oignons. ail. piment vert. poivron rouge. courge butternut. panais. haricots verts. courgettes. aubergines. pomme de terre. tomates en conserve. concentré de tomate. coriandre
 ---
 
@@ -23820,6 +23838,7 @@ En été, sur les marchés, on trouve de merveilleuses betteraves avec leurs feu
 4. Avant de servir, disposer les morceaux de betteraves dans un saladier, verser la sauce, ajouter l'aneth et l'oignon rouge. Saler et poivrer. Mélanger bien et rectifier. Ajouter le yaourt au dernier moment sans trop mélanger pour obtenir un effet marbré blanc et rouge.
 
 ## Noms ingrédients
+
 betteraves. aneth. oignons rouges. yaourt grec. poivron jaune. coriandre. tomates en conserve. ail. citron confit. persil
 ---
 
@@ -23853,6 +23872,7 @@ La saveur légèrement sucrée des betteraves s'accorde très bien avec l'acidit
 4. Incorporer le reste des ingrédients et mélanger délicatement. Goûter pour rectifier l'assaisonnement si nécessaire. Servir sans attendre.
 
 ## Noms ingrédients
+
 betteraves. oranges. endives rouges. oignons rouges. persil. olives noires
 ---
 
@@ -23893,6 +23913,7 @@ Inspirée d'une délicieuse spécialité japonaise à base de haricots verts au 
 5. Pour le service : soit mélanger les légumes avec la coriandre et les graines de sésame et de nigelle avant de les arroser de sauce ; soit disposer les légumes et les feuilles de coriandre dans un plat, parsemer de graines et proposer la sauce à part dans un bol.
 
 ## Noms ingrédients
+
 broccolinis. haricots verts. coriandre. tahin. ail. miel
 ---
 
@@ -23933,6 +23954,7 @@ Il existe de très nombreuses variantes de cette salade, mais toutes comportent 
 3. Avant de servir, ajouter la coriandre. Goûter pour rectifier l'assaisonnement si nécessaire. Disposer la salade dans des bols, ajouter 1 cuil. de yaourt bien frais, arroser d'un filet d'huile et parsemer de feuilles de coriandre.
 
 ## Noms ingrédients
+
 carottes. oignons. ail. piment vert. oignons verts. gingembre. coriandre. citron confit. yaourt grec
 ---
 
@@ -23966,6 +23988,7 @@ Le meilleur emploi du chou-rave, le mal-aimé des paniers bio. Cette salade a un
 4. Transférer dans le saladier de service en conservant la plus grande partie du jus. Garnir avec les pousses d'alfalfa restantes et servir aussitôt.
 
 ## Noms ingrédients
+
 chou-rave. chou blanc. aneth. griottes séchées. citrons. ail. pousses d'alfalfa
 ---
 
@@ -23998,6 +24021,7 @@ L'entrée la plus somptueuse de l'été, avec ou sans noisettes. Les noisettes f
 5. Dresser les courgettes sur un plat de service avant de les garnir de parmesan. Arroser d'huile de noisette et servir aussitôt.
 
 ## Noms ingrédients
+
 noisettes. courgettes. basilic. parmesan
 ---
 
@@ -24032,6 +24056,7 @@ Idéale pour commencer ou finir un repas : avec les saveurs robustes ou rafraîc
 3. Juste avant de servir, verser la sauce sur la salade, ajouter les pistaches, remuer délicatement et servir immédiatement.
 
 ## Noms ingrédients
+
 cresson. basilic. coriandre. aneth. pistaches. citrons
 ---
 
@@ -24068,6 +24093,7 @@ Adaptation du classique fattouche libanais avec un pain au levain et du quinoa. 
 4. Remuer délicatement jusqu'à ce que tous les ingrédients soient bien mélangés. Goûter et rectifier l'assaisonnement si nécessaire.
 
 ## Noms ingrédients
+
 quinoa. pain au levain. tomates en conserve. concombres. oignons rouges. coriandre. menthe. persil. citrons. ail
 ---
 
@@ -24107,6 +24133,7 @@ Une salade complexe qui constitue à elle seule un repas. Elle s'articule autour
 5. Juste avant de servir, rincer la poêle, verser de l'huile d'olive sur 5 mm de hauteur et mettre sur feu moyen. Faire frire les tranches de fromage 2 min de chaque côté jusqu'à ce qu'elles soient bien brunes. Égoutter sur du papier absorbant. Disposer des feuilles d'endive dans les assiettes, répartir les topinambours, les tomates et le fromage frit, terminer avec encore quelques feuilles d'endive. Arroser d'huile au basilic et servir aussitôt.
 
 ## Noms ingrédients
+
 topinambours. citrons. tomates cerise. fromage de brebis. endives. basilic. persil. ail
 ---
 
@@ -24147,6 +24174,7 @@ La base de ce soufflé, sauf les blancs en neige, peut être préparée la veill
 5. Remplir les ramequins jusqu'à 1 cm du haut. Enfourner sur la grille préparée et faire cuire 10 à 14 min jusqu'à ce qu'ils soient dorés et bien levés. Mélanger la crème aigre et la ciboulette. Servir les soufflés dès qu'ils sont cuits avec la crème à part.
 
 ## Noms ingrédients
+
 courge. noisettes. piment rouge séché. fromage de chèvre. ciboulette
 ---
 
@@ -24197,6 +24225,7 @@ Cette soupe a une saveur délicieusement douce. La harissa maison prend du temps
 3. Mixer grossièrement en gardant quelques morceaux. Verser dans des bols peu profonds, incorporer un peu de harissa et parsemer de coriandre hachée. Terminer avec 1 cuil. de yaourt (facultatif).
 
 ## Noms ingrédients
+
 échalotes. céleri. ail. gingembre. persil. coriandre. yaourt grec. poivron rouge. oignons rouges. piment rouge. concentré de tomate. citrons
 ---
 
@@ -24232,6 +24261,7 @@ Cette recette permet de recycler les talons de parmesan dont on ne sait que fair
 5. Verser la soupe chaude dans des bols. Ajouter un peu de parmesan râpé si souhaité. Garnir avec les lanières de chou mi-cuit et des graines de carvi.
 
 ## Noms ingrédients
+
 oignons. ail. chou vert. pomme de terre. parmesan. piment rouge
 ---
 
@@ -24267,6 +24297,7 @@ L'emploi de légumes grillés donne à cette soupe une saveur très prononcée. 
 4. Mixer la soupe jusqu'à obtenir une consistance lisse, puis incorporer les haricots. Goûter et rectifier. Servir bien chaude avec le yaourt (ou du citron) et le reste du basilic.
 
 ## Noms ingrédients
+
 aubergines. poivron rouge. tomates en conserve. oignons rouges. basilic. ail. haricots blancs. yaourt grec. citrons
 ---
 
@@ -24304,6 +24335,7 @@ Inspirée d'une recette du chef israélien Rafi Cohen, elle-même inspirée par 
 3. Avant de servir, ajouter de l'eau si la soupe semble trop épaisse. Goûter et ajuster sel, poivre, voire un trait de jus de citron. Verser dans les bols, garnir de yaourt si souhaité et terminer avec le reste de coriandre.
 
 ## Noms ingrédients
+
 oignons. céleri. coriandre. concentré de tomate. tomates en conserve. semoule. citrons. yaourt grec
 ---
 
@@ -24342,6 +24374,7 @@ Claudine, testeuse des recettes du livre, a qualifié celle-ci de « meilleure r
 5. Baisser la température du four à 160 °C et enfourner la tarte. Laisser cuire 35 à 45 min jusqu'à ce que la garniture soit ferme et le dessus doré. Sortir du four et laisser refroidir un peu avant de démouler. Retailler au besoin les bords, parsemer de thym et servir chaud.
 
 ## Noms ingrédients
+
 ail. fromage de chèvre frais. tomme de chèvre
 ---
 
@@ -24381,6 +24414,7 @@ Recette originaire de la partie turque de Chypre, découverte dans le Classic Tu
 5. Rabattre les feuilles de vigne sur la farce, puis terminer avec les feuilles restantes. Badigeonner avec le reste du mélange beurre-huile. Saupoudrer de chapelure et arroser de 1 cuil. à soupe d'huile. Enfourner 40 min jusqu'à ce que les feuilles soient croquantes et la chapelure dorée. Laisser reposer au moins 10 min. Couper des parts et servir tiède ou à température ambiante avec du yaourt.
 
 ## Noms ingrédients
+
 feuilles de vigne. échalotes. yaourt grec. pistaches. persil. aneth. menthe. citrons
 ---
 
@@ -24420,6 +24454,7 @@ Cette tarte, qui regorge de légumes grillés, est un vrai festival de saveurs m
 5. Fouetter les œufs et la crème avec sel et poivre. Verser délicatement sur les légumes sans recouvrir complètement les tomates et le fromage. Saupoudrer du reste du thym. Enfourner 35 à 45 min jusqu'à ce que l'ensemble soit cuit et doré. Laisser reposer au moins 10 min avant de casser l'excédent de pâte, démouler et servir.
 
 ## Noms ingrédients
+
 poivron rouge. poivron jaune. aubergines. patate douce. courgettes. oignons. ricotta. feta. tomates cerise
 ---
 
@@ -24455,6 +24490,7 @@ Une tarte aux pommes de terre est un régal pour les amateurs de ce tubercule. S
 6. Préchauffer le four à 200 °C. Faire d'abord cuire la tarte 25 min, puis réduire la température à 180 °C et prolonger la cuisson 15 min environ pour que la pâte soit bien cuite. Retirer du four et laisser reposer 2 min. Poser un plat sur le moule et retourner la tarte d'un mouvement vif, puis retirer le moule. Servir chaud ou tiède.
 
 ## Noms ingrédients
+
 tomates cerise. pomme de terre. oignons. fromage de chèvre
 ---
 
@@ -24491,49 +24527,8 @@ Idéales pour un brunch, ces tartines reposent sur les chipotles, des piments ja
 5. Disposer les tartines sur des assiettes, garnir avec les œufs brouillés aux piments et parsemer de coriandre. Servir immédiatement avec de la crème aigre dessus ou à part.
 
 ## Noms ingrédients
+
 piment chipotle. pain au levain. ail. oignons verts. tomates en conserve. œufs de cane. coriandre
----
-
-# Tempura de légumes
-
-## Catégorie
-Ottolenghi. Plenty. Pas testé. Végé
-
-## Commentaire
-Une recette idéale pour tous les légumes. Et extraordinairement délicieuse ! Il n'y a pas de règles strictes pour la coupe des légumes : garder de gros morceaux et respecter la forme naturelle du légume. Servir la sauce à part.
-
-## Ingrédients
-*Pour 4 personnes*
-
-- 1,2 kg (net) de légumes de saison préparés : brocoli, topinambours, betteraves, patates douces, pommes de terre, carottes, chou-fleur, céleris-raves, panais, jeunes poireaux, chou-rave, salsifis, navets, etc.
-- 80 g de Maïzena (+ quelques cuillerées pour fariner les légumes)
-- 80 g de farine à levure incorporée
-- 21 cl d'eau pétillante
-- 2 cuil. à café d'huile de colza
-- ¼ cuil. à café de sel
-- Graines de nigelle et flocons de piment à votre goût
-- 70 cl d'huile de tournesol pour la friture
-
-**Sauce**
-- 6 capsules de cardamome
-- 4 citrons verts pour le zeste et le jus (environ 80 cl)
-- 1 piment vert frais
-- 50 g de coriandre (feuilles et tiges)
-- 1 cuil. à soupe de sucre en poudre
-- 4 cuil. à soupe d'huile de tournesol
-- ½ cuil. à café de sel
-- 2 cuil. à soupe d'eau
-
-## Déroulé de la recette
-
-1. Commencer par la sauce : piler les capsules de cardamome dans un mortier et récupérer les graines. Les mettre dans le bol d'un robot avec le reste des ingrédients et mixer pour obtenir une sauce lisse et liquide.
-2. Préparer les légumes selon leurs formes : séparer le chou-fleur et le brocoli en bouquets moyens ; peler les betteraves et couper en quartiers ou en tranches de 5 mm ; couper les pommes de terre et patates douces en tranches de 8 mm sans les peler ; éplucher les topinambours, carottes, panais, salsifis, navets et têtes de céleris-raves, puis couper en bâtonnets irréguliers de 1 cm de côté ; couper juste le vert des jeunes poireaux.
-3. Tapisser une grande plaque de papier absorbant et fariner une autre plaque avec un peu de Maïzena. Mélanger dans un saladier les ingrédients de la pâte (farine, Maïzena, eau pétillante, huile de colza et sel), fouetter pour obtenir une préparation lisse. Ajouter quelques graines de nigelle et des flocons de piment.
-4. Faire chauffer l'huile de tournesol sur feu vif dans une poêle, puis baisser à feu moyen. Faire frire 4 ou 5 morceaux à la fois : rouler chaque morceau dans la Maïzena, secouer pour éliminer le surplus, tremper dans la pâte, secouer de nouveau et glisser délicatement dans l'huile chaude. Retourner les morceaux pour qu'ils soient uniformément colorés. Compter 1 min pour les légumes tendres (poireau) et au moins 2 min pour les plus fermes (betterave). Transférer sur le papier absorbant et garder au chaud. Retirer régulièrement les morceaux de pâte carbonisée qui flottent dans l'huile.
-5. Quand tous les légumes sont cuits, les présenter ensemble et servir la sauce à part.
-
-## Noms ingrédients
-piment rouge séché. citrons verts. piment vert. coriandre
 ---
 
 # Tofu au poivre noir, échalotes et oignons verts
@@ -24570,6 +24565,7 @@ Une recette rapide et facile à préparer, mais tellement délicieuse qu'on la c
 4. Réchauffer les dés de tofu 1 min dans cette sauce, puis ajouter les oignons verts. Servir chaud avec du riz.
 
 ## Noms ingrédients
+
 tofu ferme. échalotes. piment rouge. ail. gingembre. oignons verts
 ---
 
@@ -24607,6 +24603,7 @@ Le principe de cette salade consiste à mélanger le plus de variétés de tomat
 4. Mélanger le couscous et la fregola sarda dans un grand saladier. Ajouter les herbes, l'ail, les tomates cuites avec leur jus, la tomate verte et les tomates cerise rouges. Mélanger très délicatement à la main. Rectifier l'assaisonnement (sel, poivre et huile d'olive si nécessaire).
 
 ## Noms ingrédients
+
 couscous. tomates grappe. tomates cerise. menthe. ail. tomate verte
 ---
 
@@ -24641,6 +24638,7 @@ Entrée inspirée d'une recette provençale, rapide à préparer. Servir avec un
 4. Mettre les tomates dans un plat de cuisson graissé et les arroser légèrement d'un filet d'huile d'olive. Enfourner 35 à 45 min jusqu'à ce que les tomates soient tendres. Servir chaud ou tiède.
 
 ## Noms ingrédients
+
 tomates en conserve. oignons. ail. olives noires. persil. menthe. câpres
 ---
 
@@ -24676,6 +24674,7 @@ Une entrée toute simple et pourtant superbe. La seule difficulté : la qualité
 3. Couper les tomates en quartiers et les disposer dans le plat avec la mozzarella marinée. Arroser d'huile d'olive et servir.
 
 ## Noms ingrédients
+
 mozzarella di bufala. tomates en conserve. citrons. basilic. ail
 ---
 
@@ -24721,6 +24720,7 @@ Cette délicieuse recette peut se préparer en grandes quantités, car elle se g
 4. Retirer le couvercle et laisser épaissir la sauce pendant 10 min. Servir chaud avec du riz et de la menthe ou de la coriandre.
 
 ## Noms ingrédients
+
 coriandre. échalotes. feuilles de curry. gingembre. piment rouge. tomates en conserve. pomme de terre. poivron rouge. patate douce. menthe
 ---
 
@@ -24754,6 +24754,7 @@ Une cuisine réconfortante, idéale pour un brunch dominical. Inspirée du Çilb
 5. Sortir les œufs du four, déposer 1 cuil. de yaourt au centre et napper de beurre pimenté fondu. Servir immédiatement.
 
 ## Noms ingrédients
+
 roquette. yaourt grec. ail. kırmızı biber. sauge
 ---
 
@@ -29772,9 +29773,6 @@ Versez tous les ingrédients dans une casserole. Portez à ébullition en remuan
 
 ## Noms ingrédients
 
-
-
-
 # Japonais Sauce - Sauce teriyaki
 
 
@@ -29801,9 +29799,6 @@ Versez tous les ingrédients dans une casserole. Portez à ébullition, puis bai
 *Idéale pour des marinades de poissons, de volailles et de légumes.*
 
 ## Noms ingrédients
-
-
-
 
 # Japonais Sauce - Marinade ail et piment
 
@@ -29867,9 +29862,6 @@ Dans un bol, mélangez tous les ingrédients. Cette marinade peut se conserver 2
 
 ## Noms ingrédients
 
-
-
-
 # Japonais Sauce - Sauce goma daré
 
 
@@ -29929,9 +29921,6 @@ Versez tous les ingrédients dans une casserole. Faites chauffer sur feu moyen j
 
 ## Noms ingrédients
 
-
-
-
 # Japonais Sauce - Sauce miso au citron
 
 
@@ -29988,9 +29977,6 @@ Versez tous les ingrédients dans une casserole. Portez à ébullition, puis bai
 *Idéale pour accompagner les sushi (à la place de la sauce soja classique).*
 
 ## Noms ingrédients
-
-
-
 
 # Japonais Sauce - Sauce tsuyu
 
@@ -31128,9 +31114,6 @@ Enveloppez chaque onigiri d'une bande de nori.
 **Astuce :** Vous pouvez placer le riz dans un film étirable pour lui donner la forme souhaitée ou bien utiliser un moule à onigiri.
 
 ## Noms ingrédients
-
-
-
 
 # Japonais Onigiri - Onigiri grillé au miso
 
@@ -34720,9 +34703,6 @@ Cette recette accompagnera aussi bien des plats de viande ou de poisson que des 
 
 ## Noms ingrédients
 
-
-
-
 # Farinata
 
 ## Catégorie
@@ -34753,9 +34733,6 @@ D'origine italienne, cette galette de farine de pois chiche est délicieuse. D'u
 
 ## Noms ingrédients
 
-
-
-
 # Riz gluant au sésame
 
 ## Catégorie
@@ -34785,9 +34762,6 @@ Ce riz est délicieux avec les plats de poisson (daurade, grondin ou maquereau) 
 3. Retirez la casserole du feu, ajoutez les graines de sésame et l'huile, puis aérez les grains à la fourchette. Couvrez de nouveau le riz, puis laissez-le reposer 5 min. Arrosez de sauce soja (facultatif) et servez.
 
 ## Noms ingrédients
-
-
-
 
 # Purée de haricots blancs au romarin et à l'ail
 
@@ -36217,7 +36191,6 @@ Le haricot Coco de Paimpol aurait été rapporté d'Amérique latine en 1928 par
 ## Noms ingrédients
 
 haricots blancs. pomme de terre. oseille
-
 ---
 
 # Crème d'artichaut
@@ -36255,7 +36228,6 @@ L'artichaut Camus débarque au XVIIe siècle en Bretagne. Traditionnellement, le
 ## Noms ingrédients
 
 artichauts. oignons
-
 ---
 
 # Soupe aux oignons de Roscoff
@@ -36296,7 +36268,6 @@ Au XVIIe siècle, les Roscovites découvrent l'oignon et l'apprécient pour son 
 ## Noms ingrédients
 
 oignons. pomme de terre. persil
-
 ---
 
 # Crème de chou-fleur
@@ -36338,7 +36309,6 @@ Les meilleurs choux-fleurs dégustés en France sont bretons, principalement cul
 ## Noms ingrédients
 
 chou-fleur. oignons
-
 ---
 
 # Soupe de la godaille
@@ -36382,7 +36352,6 @@ La godaille est la part de pêche que reçoit le pêcheur en plus de son salaire
 ## Noms ingrédients
 
 oignons. pomme de terre. ail. piment
-
 ---
 
 # Soupe aux moules
@@ -36424,7 +36393,6 @@ Il y a toujours eu des gisements naturels de moules en Bretagne, mais l'élevage
 ## Noms ingrédients
 
 moules. oignons. poireau. pomme de terre. ciboulette. persil. coriandre
-
 ---
 
 # Crème d'étrilles au kari Gosse
@@ -36470,7 +36438,6 @@ L'étrille est un crustacé très vivace. Pour ne pas se faire pincer, il faut l
 ## Noms ingrédients
 
 oignons. carottes. poireau. tomate. ail
-
 ---
 
 # Coquille Saint-Jacques à la bretonne
@@ -36513,7 +36480,6 @@ Au XVIIIe siècle, la coquille Saint-Jacques n'était consommée qu'en cas de di
 ## Noms ingrédients
 
 noix de saint-jacques. échalotes. ail. persil
-
 ---
 
 # Grosses langoustines en cocotte au kari Gosse
@@ -36564,7 +36530,6 @@ Les langoustines au kari Gosse font partie des recettes préférées de l'auteur
 ## Noms ingrédients
 
 carottes. échalotes. poireau. céleri. ail. tomate
-
 ---
 
 # Moules à la marinière
@@ -36606,8 +36571,6 @@ Parmi les préparations possibles de moules, la plus commune est celle des « mo
 ## Noms ingrédients
 
 moules. oignons. échalotes. ail
-
-
 ---
 
 # Encornets fricassés en persillade
@@ -36646,7 +36609,6 @@ La persillade, c'est du beurre, du persil et de l'ail ajoutés souvent en fin de
 ## Noms ingrédients
 
 persil. ail. calamars
-
 ---
 
 # Saint-Jacques fricassées en persillade
@@ -36685,7 +36647,6 @@ Même principe que la fricassée en persillade, appliqué aux noix de Saint-Jacq
 ## Noms ingrédients
 
 noix de saint-jacques. persil. ail
-
 ---
 
 # Ormeaux fricassés en persillade
@@ -36722,7 +36683,6 @@ Même principe que la fricassée en persillade, appliqué aux ormeaux. Pour la c
 ## Noms ingrédients
 
 persil. échalotes
-
 ---
 
 # Le plateau de fruits de mer
@@ -36779,7 +36739,6 @@ Plat incontournable des repas de famille bretons, préparé surtout à l'occasio
 ## Noms ingrédients
 
 crevettes. huîtres. palourdes. échalotes. citrons
-
 ---
 
 # Le plateau de charcuterie bretonne
@@ -36827,7 +36786,6 @@ Breton. Non testé. Viande
 ## Noms ingrédients
 
 lard
-
 ---
 
 # Palourdes farcies
@@ -36871,7 +36829,6 @@ La palourde peut être rose (la palourde des Glénan) ou grise. La rose est souv
 ## Noms ingrédients
 
 palourdes. échalotes. persil. ciboulette
-
 ---
 
 # Rillettes de maquereaux au curry
@@ -36912,7 +36869,6 @@ Au XIXe siècle, les conserveries bretonnes connaissent un bel essor grâce avan
 ## Noms ingrédients
 
 maquereau. échalotes. tomate. ciboulette. persil
-
 ---
 
 # Pain de poisson
@@ -36951,7 +36907,6 @@ Traditionnellement, les terrines en Bretagne sont plutôt à base de porc que de
 ## Noms ingrédients
 
 œuf. ciboulette
-
 ---
 
 # Œufs « mimosa » aux sardines
@@ -36995,7 +36950,6 @@ En Bretagne, l'œuf est parfois le symbole de forces magiques : « Dans la Vall�
 ## Noms ingrédients
 
 œuf. sardines. persil
-
 ---
 
 # Omelette aux artichauts et lard rôti
@@ -37039,8 +36993,6 @@ Une recette simple et généreuse qui marie les saveurs de l'artichaut Camus bre
 ## Noms ingrédients
 
 œuf. artichauts. sauge. lard
-
-
 ---
 
 # Omelette aux pommes de terre et saucisse fumée de Molène
@@ -37082,7 +37034,6 @@ La saucisse de Molène est fumée aux algues, ce qui lui confère un goût iodé
 ## Noms ingrédients
 
 œuf. pomme de terre. saucisses fumées. persil
-
 ---
 
 # Maquereaux marinés au vin blanc
@@ -37123,7 +37074,6 @@ La recette des maquereaux au vin blanc est une des recettes phares des conserver
 ## Noms ingrédients
 
 maquereau. oignons. carottes. citrons
-
 ---
 
 # Émincé de pommes de terre chaudes au lieu fumé
@@ -37163,7 +37113,6 @@ Le salage et le fumage sont deux moyens de conservation du poisson très courant
 ## Noms ingrédients
 
 pomme de terre. citrons. ciboulette
-
 ---
 
 # Bouillie de sarrasin
@@ -37196,8 +37145,6 @@ Le sarrasin apparaît en Bretagne aux alentours du XVIe siècle et s'adapte parf
 2. **Préparation des croustillants :** Débarrasser la bouillie après sa cuisson dans une terrine ou un moule à cake et la laisser refroidir complètement (3 à 4 heures). Démouler sur une planche et tailler en tranches (environ 7 mm d'épaisseur). Disposer ces tranches dans une poêle chaude avec quelques noisettes de beurre et les laisser cuire de chaque côté jusqu'à ce qu'elles deviennent croustillantes. Réserver au chaud et renouveler l'opération jusqu'à épuisement. Déguster bien chauds.
 
 ## Noms ingrédients
-
-
 
 ---
 
@@ -37232,8 +37179,6 @@ Avant l'apparition du sarrasin, l'avoine était la céréale nourricière par ex
 2. **Préparation des croustillants :** Procéder exactement comme pour la bouillie de sarrasin : débarrasser dans une terrine ou un moule à cake, laisser refroidir complètement (3 à 4 heures), démouler, tailler en tranches d'environ 7 mm et faire cuire dans une poêle chaude avec des noisettes de beurre jusqu'à ce que les tranches soient croustillantes de chaque côté. Déguster bien chauds.
 
 ## Noms ingrédients
-
-
 
 ---
 
@@ -37305,7 +37250,6 @@ Le kig-ha-farz (littéralement « la viande et le far ») est le pot-au-feu bret
 ## Noms ingrédients
 
 bœuf. lard. saucisses. carottes. navets. oignons. chou. poireau. pomme de terre. œuf. échalotes
-
 ---
 
 # Rouleaux de sarrasin à la sardine
@@ -37339,7 +37283,6 @@ Une idée simple et savoureuse pour l'apéritif : une crème de sardine onctueus
 ## Noms ingrédients
 
 sardines. citrons. persil. ciboulette
-
 ---
 
 # Galette au fromage de chèvre et à la confiture de courgette
@@ -37370,7 +37313,6 @@ Une galette simple et originale qui marie le fondant du fromage de chèvre demi-
 ## Noms ingrédients
 
 fromage de chèvre. courgettes. pomme. citrons. coriandre
-
 ---
 
 # Galette à l'andouille de Guémené-sur-Scorff et sa fricassée de poire
@@ -37403,8 +37345,6 @@ Une galette gourmande qui marie l'andouille de Guémené-sur-Scorff — charcute
 ## Noms ingrédients
 
 poire
-
-
 ---
 
 # Galette au saumon fumé et sa crème au concombre à la menthe
@@ -37439,7 +37379,6 @@ Une galette élégante et fraîche, idéale en entrée ou en plat léger. La cr�
 ## Noms ingrédients
 
 saumon fumé. citrons. menthe. concombres
-
 ---
 
 # Galettes de pommes de terre
@@ -37479,7 +37418,6 @@ La galette de pommes de terre est originaire de la région de Pontivy et du cent
 ## Noms ingrédients
 
 pomme de terre. œuf
-
 ---
 
 # Gâteau aux trois farines
@@ -37516,7 +37454,6 @@ Les Bretons ont toujours été de grands voyageurs gourmands et c'est pour cette
 ## Noms ingrédients
 
 amandes effilées. œuf
-
 ---
 
 # Flan d'avoine
@@ -37554,7 +37491,6 @@ Quelle différence entre la bouillie, la crème et le gruau d'avoine ? La bouill
 ## Noms ingrédients
 
 œuf
-
 ---
 
 # Filet de dorade braisé et sa sauce Saint-Malo
@@ -37594,7 +37530,6 @@ Saint-Malo comme Lorient sont des villes portuaires qui étaient très actives d
 ## Noms ingrédients
 
 daurade. citrons
-
 ---
 
 # Filet de bar à la sauce Cancalaise
@@ -37635,7 +37570,6 @@ Bien que les huîtres existent et se consomment depuis des lustres en Bretagne, 
 ## Noms ingrédients
 
 bar. huîtres. citrons. pomme de terre
-
 ---
 
 # Filet de merlu au beurre blanc
@@ -37676,7 +37610,6 @@ Le beurre blanc a été inventé en 1890 par Clémence Lefeuvre, cuisinière du 
 ## Noms ingrédients
 
 échalotes. pomme de terre
-
 ---
 
 # Filet de lieu jaune cuisiné à la mode de Belle-Île
@@ -37717,8 +37650,6 @@ Une recette très simple et surtout délicieuse qui utilise un minimum de place 
 ## Noms ingrédients
 
 pomme de terre. persil. ciboulette. citrons
-
-
 ---
 
 # Filets de maquereaux braisés à la moutarde et à la tomate
@@ -37761,7 +37692,6 @@ La pêche au maquereau en Bretagne connut un grand essor à partir du XVIIe siè
 ## Noms ingrédients
 
 maquereau. tomate. oignons
-
 ---
 
 # Filets de maquereaux braisés au cidre fermier
@@ -37799,7 +37729,6 @@ Au IXe siècle, la mention de jus de pomme fermenté apparaît dans un écrit, m
 ## Noms ingrédients
 
 maquereau. échalotes
-
 ---
 
 # Fricassée de morue aux pommes de terre
@@ -37843,7 +37772,6 @@ La morue désigne le cabillaud, poisson de mer frais, mis au sel et très souven
 ## Noms ingrédients
 
 pomme de terre. oignons. ail. persil. cabillaud
-
 ---
 
 # Sardines rôties, au gros sel et au vinaigre de cidre
@@ -37880,7 +37808,6 @@ La sardine est une grande voyageuse ! Née dans le Golfe de Gascogne, elle remon
 ## Noms ingrédients
 
 sardines
-
 ---
 
 # Sole meunière
@@ -37919,7 +37846,6 @@ Un superbe poisson pêché sur les côtes bretonnes cuisiné au beurre : cette r
 ## Noms ingrédients
 
 citrons
-
 ---
 
 # Darne de thon germon aux petits pois et au basilic
@@ -37962,7 +37888,6 @@ Pendant des siècles, la pêche et la préparation du thon furent considérées 
 ## Noms ingrédients
 
 thon. petits pois. oignons. tomate. ail. basilic
-
 ---
 
 # Bar en croûte de sel
@@ -38002,7 +37927,6 @@ Cette cuisson est réservée aux poissons à grosses écailles comme la dorade o
 ## Noms ingrédients
 
 bar. fenouil. citrons
-
 ---
 
 # Lotte à l'armoricaine
@@ -38052,7 +37976,6 @@ Lotte à l'armoricaine ou à l'américaine ? Un combat de chefs qui perdure ! En
 ## Noms ingrédients
 
 oignons. ail. carottes. tomate. concentré de tomate. persil
-
 ---
 
 # Filet de merlan en papillote de sarrasin, sa sauce à la bretonne
@@ -38100,8 +38023,6 @@ La recette de la papillote de poisson ne fait pas partie des grands classiques d
 ## Noms ingrédients
 
 merlans. poireau. céleri. oignons. champignons
-
-
 ---
 
 # Rôti de lotte au pâté Hénaff
@@ -38142,7 +38063,6 @@ Au XVIIIe siècle, la lotte avait mauvaise réputation. Il faudra attendre le XX
 ## Noms ingrédients
 
 tomate. ail
-
 ---
 
 # La cotriade
@@ -38200,7 +38120,6 @@ Breton. Non testé. Poisson
 ## Noms ingrédients
 
 maquereau. pomme de terre. oignons. ail. persil
-
 ---
 
 # Homard rôti et sa sauce au kari Gosse
@@ -38249,7 +38168,6 @@ Depuis des siècles le homard aime le littoral breton. Au XVIIIe siècle, les Br
 ## Noms ingrédients
 
 homard. échalotes. carottes. ail. tomate
-
 ---
 
 # Gigot d'agneau rôti et ses haricots à la bretonne
@@ -38292,7 +38210,6 @@ La Bretagne est reconnue pour sa viande d'agneau de pré-salé. Ceux de la baie 
 ## Noms ingrédients
 
 agneau. haricots blancs. oignons. tomate. ail
-
 ---
 
 # Sauté d'épaule d'agneau et sa fricassée de navets
@@ -38339,7 +38256,6 @@ Dès le XVIe siècle, l'agneau breton est élevé à la fois pour sa laine et po
 ## Noms ingrédients
 
 agneau. oignons. ail. navets
-
 ---
 
 # Pintade braisée au vinaigre de cidre et au chou
@@ -38386,7 +38302,6 @@ Depuis le XIXe siècle, la basse-cour bretonne est réputée. Elle propose des v
 ## Noms ingrédients
 
 carottes. oignons. chou. persil. volaille
-
 ---
 
 # Cuisses de poulet braisées au cidre et leur fricassée d'artichauts à la sauge
@@ -38436,7 +38351,6 @@ Le secret de fabrication du cidre aurait été découvert par les Espagnols et r
 ## Noms ingrédients
 
 poulet. oignons. carottes. artichauts. pomme. sauge
-
 ---
 
 # Saucisses au chou de Lorient
@@ -38476,7 +38390,6 @@ Originaire de Lombardie, le chou de Lorient est une variété de chou de Milan c
 ## Noms ingrédients
 
 saucisses. chou. oignons. carottes
-
 ---
 
 # Marmite de saucisses et petits pois
@@ -38518,8 +38431,6 @@ La culture des légumes en primeur est pratiquée en Bretagne dès le XVIe sièc
 ## Noms ingrédients
 
 saucisses. petits pois. oignons. carottes. pomme de terre. ail
-
-
 ---
 
 # « Patates » au lard
@@ -38556,7 +38467,6 @@ En Bretagne, la plupart du temps, les pommes de terre sont appelées « patates 
 ## Noms ingrédients
 
 pomme de terre. oignons. lard
-
 ---
 
 # Côtes de porc au cidre, sa fricassée de pommes et châtaignes
@@ -38598,7 +38508,6 @@ La châtaigneraie bretonne était assez étendue au XIXe siècle et c'est dans l
 ## Noms ingrédients
 
 châtaignes. pomme
-
 ---
 
 # Andouille de Guémené-sur-Scorff et sa purée de pommes de terre à l'ancienne
@@ -38638,7 +38547,6 @@ L'andouille bretonne est réputée depuis le XVIIIe siècle mais c'est à Guéme
 ## Noms ingrédients
 
 pomme de terre
-
 ---
 
 # Lard rôti aux pommes de terre
@@ -38673,7 +38581,6 @@ Breton. Non testé. Viande
 ## Noms ingrédients
 
 lard. pomme de terre
-
 ---
 
 # Civet de lapin au Muscadet
@@ -38714,7 +38621,6 @@ Au Moyen Âge, les vignes s'étendaient en Bretagne jusqu'à la péninsule de Rh
 ## Noms ingrédients
 
 oignons. champignons
-
 ---
 
 # Quasi de veau braisé aux carottes et aux pruneaux (ou raisins secs)
@@ -38756,7 +38662,6 @@ Grâce aux activités commerciales des ports comme ceux de Nantes, Lorient et Sa
 ## Noms ingrédients
 
 carottes. ail. oignons. tomate. pruneaux. raisins secs
-
 ---
 
 # Galettes bretonnes
@@ -38792,7 +38697,6 @@ La galette bretonne commence à faire parler d'elle à la fin du XIXe siècle, m
 ## Noms ingrédients
 
 œuf
-
 ---
 
 # Palets bretons
@@ -38826,7 +38730,6 @@ Les palets, plus difficiles à être produits à une échelle industrielle, conn
 ## Noms ingrédients
 
 œuf
-
 ---
 
 # Gâteau breton
@@ -38863,7 +38766,6 @@ Vous avez de la chance que cette recette soit partagée car, en Bretagne, c'est 
 ## Noms ingrédients
 
 œuf
-
 ---
 
 # Kouign-amann
@@ -38899,9 +38801,6 @@ En Bretagne, on dit que le meilleur kouign-amann (gâteau beurre) se fait à Dou
 3. **Dégustation :** Sortir le gâteau du four une fois bien doré, le laisser légèrement tiédir, le démouler et le déguster tiède.
 
 ## Noms ingrédients
-
-
-
 
 ---
 
@@ -38949,7 +38848,6 @@ Ce gâteau serait né à Nantes en 1820, inventé par un certain Rouleau, maîtr
 ## Noms ingrédients
 
 œuf. amandes. oranges
-
 ---
 
 # Le gâteau d'Hélène Jégado
@@ -38989,7 +38887,6 @@ Née à Plouhinec dans le Morbihan en 1803 et guillotinée à Rennes sur le Cham
 ## Noms ingrédients
 
 raisins secs. amandes. œuf
-
 ---
 
 # Gâteau de châtaignes au chocolat
@@ -39027,7 +38924,6 @@ Qu'il pleuve ou qu'il vente, les Bretons aiment aller ramasser les châtaignes d
 ## Noms ingrédients
 
 châtaignes
-
 ---
 
 # Riz au lait
@@ -39060,8 +38956,6 @@ La Bretagne, au climat doux et humide, fournit une herbe abondante qui nourrissa
 2. **Dressage :** Débarrasser alors le riz au lait dans un récipient et le laisser légèrement refroidir avant de déguster.
 
 ## Noms ingrédients
-
-
 
 ---
 
@@ -39098,7 +38992,6 @@ Dans ses écrits, Curnonsky (journaliste et célèbre critique gastronomique) n'
 ## Noms ingrédients
 
 œuf
-
 ---
 
 # Caramel au beurre salé
@@ -39128,8 +39021,6 @@ Dans les années 1970, Henri Le Roux, chocolatier réputé à Quiberon, crée un
 2. **Finition :** Cuire la crème caramélisée à feu doux en la mélangeant régulièrement jusqu'à ce qu'elle devienne homogène. Verser dans un pot à confiture et conserver au réfrigérateur, ou déguster aussitôt avec des crêpes, du pain perdu, du quatre-quarts, une glace à la vanille, etc.
 
 ## Noms ingrédients
-
-
 
 ---
 
@@ -39165,7 +39056,6 @@ Une mousse glacée gourmande à préparer la veille, servie avec un caramel onct
 ## Noms ingrédients
 
 œuf
-
 ---
 
 # Mousse glacée à la fraise et son coulis de fraises
@@ -39208,5 +39098,5993 @@ Les fraises en Bretagne sont le plus souvent consommées fraîches, voire avec u
 ## Noms ingrédients
 
 fraises. citrons
+---
+
+# Tartare de thon à la mangue
+
+## Catégorie
+
+Asiatique. Non testé. Poisson
+
+## Commentaire
+
+Recette thaïlandaise.
+
+Préparation : 10 min | Réfrigération : 1 heure
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 300 g de thon rouge
+- ½ mangue (soit 150 g)
+- Le jus de 1 citron vert
+- 10 brins de coriandre ciselés
+
+**Pour la marinade thaïe**
+- 1 gousse d'ail
+- 2 citrons verts
+- 2 cuil. à soupe de sauce nuoc-mâm
+- 2 cuil. à soupe de sucre de canne
+
+## Déroulé de la recette
+
+1. Préparez la marinade : pressez l'ail ou hachez-le finement. Pressez le jus des citrons verts. Dans un bol, mélangez le jus de citron et le sucre. Lorsque celui-ci est fondu, ajoutez le nuoc-mâm et l'ail. Mélangez bien.
+2. Taillez le thon rouge en petits dés. Faites de même avec la mangue.
+3. Mélangez-les dans un bol, puis ajoutez la marinade et la coriandre. Mélangez bien le tout et placez au frais 1 heure minimum.
+4. Au moment de servir, arrosez le tartare de jus de citron vert.
+
+## Noms ingrédients
+
+thon. mangue. citrons verts. coriandre. ail
+---
+
+# Tataki de thon au sésame
+
+## Catégorie
+
+Asiatique. Non testé. Poisson
+
+## Commentaire
+
+Recette japonaise.
+
+Préparation : 15 min | Repos : 1 heure | Cuisson : 15 min
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 400 g de thon très frais
+- 1 concombre
+- 50 g de graines de sésame noir
+- 50 g de graines de sésame vert (au wasabi)
+- Un peu de pâte de wasabi
+- 1 cuil. à soupe d'huile de sésame
+
+**Pour la sauce vinaigrette**
+- 1 cuil. à café de fécule de maïs
+- ½ cuil. à soupe de sauce de soja nature
+- 1 ½ cuil. à soupe de saké
+- 1 cuil. à soupe de vinaigre sucré pour sushi
+- 1 cuil. à café de sucre semoule
+
+## Déroulé de la recette
+
+1. Préparez le concombre en cheveux d'ange : épluchez-le finement de façon à obtenir des lamelles très fines. Coupez celles-ci en morceaux de 6 cm de longueur, puis émincez-les finement. Plongez les cheveux d'ange dans un saladier d'eau glacée pendant 1 heure. Égouttez soigneusement.
+2. Réalisez la sauce vinaigrette : mettez tous les ingrédients dans une petite casserole, sauf la fécule de maïs. Portez à ébullition et laissez frémir 5 minutes à feu doux. Ajoutez la fécule de maïs préalablement délayée dans une cuil. à soupe d'eau froide. Augmentez le feu et mélangez jusqu'à ce que la sauce épaississe. Retirez du feu et laissez refroidir complètement.
+3. Coupez le thon en quatre morceaux en forme de triangles, puis séchez-les avec du papier absorbant.
+4. Mélangez les deux sortes de graines de sésame dans une assiette. Badigeonnez le thon d'huile de sésame à l'aide d'un pinceau, puis roulez-le dans les graines de sésame. Appuyez légèrement sur les graines pour les coller au thon.
+5. Faites chauffer le reste d'huile de sésame dans une poêle antiadhésive et faites dorer le thon de chaque côté pendant 2 minutes environ, jusqu'à ce que les graines soient légèrement dorées. Retirez le poisson de la poêle. Enveloppez-le dans du papier d'aluminium et laissez refroidir. Coupez en tranches de 0,7 cm d'épaisseur.
+6. Répartissez les tranches de thon dans des assiettes. Disposez un peu de concombre en cheveux d'ange à côté. Terminez par un trait de sauce vinaigrette et de wasabi.
+
+## Noms ingrédients
+
+thon. concombres
+---
+
+# Poisson à la tomate
+
+## Catégorie
+
+Asiatique. Non testé. Poisson
+
+## Commentaire
+
+Recette vietnamienne (Cá sốt cà chua). Cette recette est aussi excellente avec d'autres poissons : filet de saumon, raie, merlu…
+
+Préparation : 15 min | Cuisson : 15 min
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 1 merlan vidé et nettoyé
+- 500 g de tomates pelées
+- 1 oignon jaune
+- 2 gousses d'ail
+- 1 botte de coriandre
+- 2 cuil. à soupe de sauce nuoc-mâm
+- Huile de tournesol
+- Sel, poivre
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 180 °C (th. 6).
+2. Pelez et hachez l'oignon et les gousses d'ail. Coupez en dés les tomates pelées.
+3. Dans une poêle, faites chauffer à feu vif un filet d'huile de tournesol puis faites dorer l'oignon et l'ail. Ajoutez les tomates, la sauce nuoc-mâm et 10 cl d'eau. Laissez réduire 5 minutes. Salez et poivrez généreusement.
+4. Dans un plat allant au four, déposez le merlan et recouvrez de sauce tomate. Enfournez et faites cuire 15 minutes.
+5. Effeuillez la coriandre et parsemez le plat à la sortie du four.
+
+## Noms ingrédients
+
+merlans. tomate. oignons. ail. coriandre
+---
+
+# Dos de cabillaud aux cinq parfums
+
+## Catégorie
+
+Asiatique. Non testé. Poisson
+
+## Commentaire
+
+Recette chinoise. Vous pouvez remplacer le cabillaud par un autre poisson à chair blanche.
+
+Préparation : 5 min | Marinade : 30 min | Cuisson : 15 min
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 600 g de dos de cabillaud
+- 2 ciboules ou oignons nouveaux
+- 10 g de gingembre frais
+- 1 cuil. à café de cinq-épices en poudre
+- 1 cuil. à café rase de fécule de pomme de terre
+- 4 cuil. à soupe de sauce soja claire
+- 2 cuil. à soupe de vin de riz shaoxing ou vin de Xérès
+- 9 cl d'eau
+- Farine de blé pour la panure
+- 4 cuil. à soupe d'huile végétale
+- Sel
+
+## Déroulé de la recette
+
+1. Coupez le dos de cabillaud en tranches de 2 à 3 cm d'épaisseur. Déposez-les sur un plat. Versez le vin de riz dessus puis salez et ajoutez le cinq-épices. Faites mariner 30 minutes au réfrigérateur.
+2. Hachez les ciboules et le gingembre.
+3. Faites chauffer 3 ½ cuil. à soupe d'huile dans une poêle à feu moyen. Farinez les tranches de cabillaud puis faites-les dorer 6 à 7 minutes de chaque côté. Débarrassez sur une assiette et réservez au chaud.
+4. Dans un bol, mélangez la fécule avec l'eau et la sauce soja.
+5. Versez le reste d'huile dans la poêle puis faites revenir les ciboules et le gingembre à feu moyen. Ajoutez la sauce à base de fécule (après l'avoir bien remuée) et mélangez constamment jusqu'à épaississement. Versez cette sauce sur le poisson et servez aussitôt.
+
+## Noms ingrédients
+
+cabillaud. oignons nouveaux. gingembre
+---
+
+# Curry de poisson
+
+## Catégorie
+
+Asiatique. Non testé. Poisson
+
+## Commentaire
+
+Recette thaïlandaise (Chu chi pla). Ce plat est délicieusement parfumé par le curry rouge ainsi que les feuilles de basilic thaï et de combava. Dégustez en accompagnant de riz blanc nature.
+
+Préparation : 20 min | Cuisson : 40 min
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 4 pavés de sandre sans peau (de 120 g chacun) ou du poisson à chair ferme de votre choix
+- 2 petits piments rouges frais
+- 10 feuilles de basilic thaï
+- 4 feuilles de combava
+- 4 cuil. à soupe de pâte de curry rouge thaï
+- 60 cl de lait de coco
+- 3 cuil. à soupe de sauce de poisson (nuoc-mâm)
+- 2 cuil. à soupe de sucre de palme en poudre
+- Sel
+
+## Déroulé de la recette
+
+1. Coupez 3 feuilles de combava en 3 lamelles et une autre feuille en très fines lanières. Ciselez finement le basilic. Coupez le piment en biais.
+2. Dans un wok, mettez le lait de coco (gardez-en 2 cuil. à soupe pour le nappage), la pâte de curry et les lamelles de feuilles de combava. Portez à ébullition en remuant sans cesse pendant 3 minutes à feu moyen. Ajoutez la sauce de poisson et le sucre de palme, puis mélangez.
+3. Incorporez les pavés de sandre. Laissez frémir à couvert pendant 10 minutes environ sur feu doux à moyen, jusqu'à ce que la sauce de curry devienne crémeuse (prolongez la cuisson quelques minutes à feu vif si vous désirez une sauce plus épaisse). Ajoutez le basilic et mélangez le tout. Salez selon votre goût.
+4. Disposez les pavés dans des assiettes de service. Versez de la sauce de curry autour des pavés, puis un peu de lait de coco réservé. Parsemez les lanières de feuilles de combava et le piment.
+
+## Noms ingrédients
+
+feuilles de combava. basilic. piment rouge. noix de coco
+---
+
+# Amok
+
+## Catégorie
+
+Asiatique. Non testé. Poisson
+
+## Commentaire
+
+Recette thaïlandaise. L'amok est un grand classique de la cuisine khmère. La méthode de préparation varie d'une région à l'autre. Il s'agit toujours d'un plat enveloppé de feuilles (de bananier, en général) et cuit à la vapeur. Traditionnellement, il est fait avec du poisson, mais on peut aussi le réaliser avec du poulet, du bœuf, des légumes ou du tofu. Dégustez aussitôt, accompagné de riz gluant.
+
+Préparation : 20 min | Repos : 1 heure | Cuisson : 25 min
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 4 pavés de cabillaud de 150 g chacun
+- 150 g de pousses d'épinards
+- 2 petits piments rouges frais
+- 4 feuilles de basilic thaï
+- 2 cuil. à soupe de cacahuètes torréfiées hachées
+- 2 feuilles de bananier (à défaut, utilisez du papier sulfurisé)
+
+**Pour la marinade**
+- 1 œuf
+- 2 tiges de citronnelle
+- 1 échalote
+- 1 gousse d'ail
+- 1 petit morceau de galanga rose frais (15 g)
+- 1 petit morceau de curcuma frais (15 g)
+- Le zeste râpé de ⅙ d'un combava
+- 10 cl de lait de coco
+- 4 cuil. à soupe de sauce de poisson (nuoc-mâm)
+- 1 cuil. à café de sucre semoule
+
+## Déroulé de la recette
+
+1. Détaillez les pavés de cabillaud en petits morceaux. Lavez les pousses d'épinards et laissez égoutter. Enlevez les couches extérieures fibreuses de la citronnelle, puis émincez finement la partie blanche des tiges. Pelez l'échalote, l'ail, le galanga et le curcuma. Coupez les piments en biais.
+2. Dans un mortier ou un petit mixeur, hachez finement la citronnelle, l'échalote, l'ail, le galanga, le curcuma et le zeste de combava. Transférez dans un saladier, ajoutez la sauce de poisson, le sucre, l'œuf et le lait de coco. Fouettez bien. Incorporez le cabillaud et mélangez. Laissez mariner pendant 1 heure au réfrigérateur.
+3. Faites tremper les feuilles de bananier 10 minutes dans un saladier d'eau chaude, pour les assouplir et les laver. Laissez égoutter et essuyez avec du papier absorbant. Préparez 4 papillotes de 12 × 20 cm environ. Dans chaque papillote, répartissez par couche, dans cet ordre : épinard, cacahuètes hachées, morceaux de cabillaud, marinade, feuilles de basilic ciselées et piment. Refermez les papillotes hermétiquement avec des cure-dents.
+4. Faites cuire les papillotes à la vapeur pendant 25 minutes environ.
+
+## Noms ingrédients
+
+cabillaud. épinards. piment rouge. basilic. cacahuètes. citronnelle. échalotes. ail. galanga. feuilles de combava
+---
+
+# Poisson grillé à la feuille de bananier
+
+## Catégorie
+
+Asiatique. Non testé. Poisson
+
+## Commentaire
+
+Recette malaisienne (Ikan bakar). Ce plat est un grand classique de la cuisine malaisienne. Il est aussi très populaire à Singapour et en Indonésie.
+
+Préparation : 30 min | Repos : 1 heure | Cuisson : 25 min
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 4 filets de sole de 120 g chacun
+- 3 feuilles de bananier
+- 4 échalotes pelées et émincées finement
+
+**Pour le sambal belacan**
+- 15 piments rouges longs frais
+- 5 gousses d'ail
+- 3 échalotes
+- 1 cuil. à soupe de pâte de crevettes (belacan)
+- 1 cuil. à café de pâte de tamarin
+- 2 cuil. à soupe de jus de citron vert (kalamansi)
+- 6 cl d'huile d'arachide
+- 1 cuil. à soupe de sucre de palme en poudre
+- Sel
+
+**Pour la marinade épicée**
+- 4 piments rouges frais équeutés et épépinés
+- 3 échalotes pelées et coupées en 4
+- 1 gousse d'ail pelée et coupée en 4
+- 2 tiges de citronnelle
+- ½ cuil. à café de curcuma rouge en poudre
+- 1 cuil. à soupe de jus de citron vert (kalamansi)
+- 1 cuil. à soupe de belacan grillé (pâte de crevettes malaisienne)
+- 2 cuil. à soupe de sauce de poisson
+- 2 cuil. à soupe d'huile d'arachide
+- ½ cuil. à café de sucre semoule
+- 1 pincée de sel fin
+
+## Déroulé de la recette
+
+1. Préparez le sambal belacan : épépinez les piments. Pelez les échalotes et l'ail. Émincez finement les piments, les échalotes et l'ail, puis pilez-les dans un mortier ou réduisez en pâte à l'aide d'un mixeur. Faites chauffer l'huile à feu doux dans une petite casserole et faites-y parfumer la pâte de crevettes pendant 30 secondes. Ajoutez la pâte d'échalote-piment-ail et la pâte de tamarin, puis faites revenir 1 minute. Ajoutez le sucre et le jus de citron. Mélangez et laissez frémir 8 minutes sur feu doux à moyen. Assaisonnez et réservez.
+2. Préparez la marinade : ôtez les couches extérieures fibreuses de la citronnelle et hachez les parties blanches. Pilez tous les ingrédients dans un mortier ou passez-les au mixeur jusqu'à l'obtention d'une pâte homogène.
+3. Faites tremper les feuilles de bananier 10 minutes dans un saladier d'eau chaude. Égouttez et essuyez-les. Coupez-les en quatre morceaux d'environ 24 × 28 cm.
+4. Répartissez un peu de marinade sur les feuilles, disposez les filets de sole et ajoutez le reste de la marinade par-dessus. Formez des papillotes d'environ 11 × 24 cm, fixez les extrémités avec un cure-dent. Laissez mariner 1 heure au réfrigérateur.
+5. Faites cuire les papillotes à la vapeur pendant 15 minutes environ, puis faites-les griller au four à 200 °C (th. 6-7) en position gril, ou idéalement au barbecue sur un feu de charbon de bois pendant 8 minutes environ, jusqu'à ce que les feuilles de bananier sentent légèrement le brûlé. Retournez les papillotes à mi-cuisson.
+6. Coupez le reste des feuilles de bananier de façon à obtenir 4 morceaux, puis posez-les dans les assiettes. Glissez l'intérieur des papillotes sur les feuilles de bananier, puis agrémentez d'un peu de sambal belacan et d'un peu d'échalotes émincées.
+
+## Noms ingrédients
+
+feuilles de bananier. piment rouge. ail. échalotes. citronnelle. citrons verts. tamarin
+---
+
+# Fondue aux champignons et au poisson blanc
+
+## Catégorie
+
+Asiatique. Non testé. Poisson
+
+## Commentaire
+
+Recette coréenne (Sengseon beoseot jeongol). Cuisiner ensemble « en direct » à table et partager accentue la convivialité. D'ailleurs, sikgu, qui veut dire « famille » en coréen, signifie littéralement « ceux qui mangent ensemble ». Vous pouvez servir ce plat avec du riz et du kimchi. Nécessite un réchaud à gaz portatif.
+
+Préparation : 10 min | Trempage : 2 à 5 heures | Repos : 1 heure | Cuisson : 7 min
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 500 g de filets de poisson blanc : cabillaud, merlan, colin, dorade, etc.
+- 700 g de champignons divers : eryngii, girolles, shiitakés, enoki, champignons de Paris, etc.
+- 1 grand poivron rouge
+- 150 g de ciboule
+- Quelques tiges de persil plat
+- Sauce soja claire
+- Sel, poivre
+
+**Pour le bouillon marin**
+- 50 g de shiitakés séchés
+- 30 g d'algues dashima (kombu)
+- 30 g de poisson séché (anchois, sardine, etc.) (facultatif)
+- 3,3 litres d'eau
+- 120 à 180 ml de sauce soja claire
+
+## Déroulé de la recette
+
+1. Préparez le bouillon marin : faites tremper les champignons dans l'eau entre 2 et 5 heures, jusqu'à ce qu'ils soient bien réhydratés, puis émincez-les. Essuyez les algues avec un linge propre humide. Gardez-les en grands morceaux. Dans un grand faitout, mettez tous les ingrédients et faites bouillir la préparation à feu vif, à couvert. Dès l'ébullition, éteignez le feu, puis laissez reposer 1 heure, toujours à couvert (jusqu'à la fin de cuisson). Retirez les algues (et le poisson, si vous en avez mis) et ajoutez la sauce soja claire. Rallumez le feu, sur feu moyen, et faites bouillir encore 20 minutes. Laissez refroidir et filtrez le bouillon.
+2. Coupez chaque filet de poisson en deux, salez et poivrez. Réservez. Lavez tous les légumes. Émincez finement les champignons dans le sens de la longueur, coupez le poivron en lamelles de 5 mm de largeur et la ciboule en tronçons de 7 à 8 cm de longueur. Séparez les tiges de persil en petites branches. Divisez tous les ingrédients en deux.
+3. Dans une casserole large et peu profonde, disposez joliment une partie des légumes et des poissons. Versez la moitié du bouillon et parsemez quelques branches de persil. Installez le réchaud au milieu de la table, placez dessus la casserole préparée et faites cuire à feu moyen.
+4. Disposez devant vos convives 1 ou 2 petites louches, des bols individuels, de la sauce soja et du poivre. Dès que le plat est assez cuit, chacun se sert à sa convenance. Au fur et à mesure que la casserole se vide, rechargez-la avec la seconde moitié des ingrédients.
+
+## Noms ingrédients
+
+cabillaud. champignons shiitaké. champignons enoki. champignons de Paris. poivron rouge. oignons nouveaux. persil. kombu
+---
+
+# Brochettes de poisson et de crevettes
+
+## Catégorie
+
+Asiatique. Non testé. Poisson
+
+## Commentaire
+
+Recette indonésienne (Sate lilit). Satay, orthographié aussi sate, saté ou sateh, signifie « brochette » en indonésien. C'est un grand classique de la cuisine indonésienne. Traditionnellement, le satay est un plat de viandes marinées (poulet, mouton, chèvre ou bœuf) ou de poisson, sous forme de brochettes enroulées et cuites au barbecue. Il est souvent servi avec du riz et de la sauce du même nom, ou des piments émincés. Dégustez aussitôt avec du riz blanc nature.
+
+Préparation : 30 min | Cuisson : 15 min
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 250 g de queues de crevettes crues décortiquées
+- 250 g de filets de maquereaux
+- 2 tomates
+- 16 tiges de citronnelle
+- 50 g de noix de coco râpée
+- 50 g de lait de coco
+- 2 cuil. à soupe de fécule de maïs
+- 3 cuil. à soupe de sauce au curry
+- 1 cuil. à soupe de sucre de palme en poudre
+
+**Pour la cuisson et les mains**
+- 2 cuil. à soupe d'huile de tournesol
+
+## Déroulé de la recette
+
+1. Enlevez les couches extérieures fibreuses de la citronnelle. Coupez les tiges en deux afin d'obtenir 16 bâtons de 18 cm de long (à partir de la base, la partie blanche).
+2. Avec un petit couteau, grattez la chair des maquereaux afin d'enlever la peau. Coupez les tomates en quatre.
+3. Mettez tous les ingrédients (sauf la citronnelle) dans un mixeur et réduisez en une pâte épaisse. Laissez reposer 30 minutes au réfrigérateur.
+4. Huilez légèrement vos mains. Prenez une petite poignée de pâte et façonnez une boulette. Enroulez-la au bout du bâton de citronnelle en formant une sucette. Répétez l'opération avec le reste de la pâte.
+5. Huilez légèrement une plancha, un gril électrique ou une poêle antiadhésive. Faites-y griller les sate lilit sur feu doux à moyen pendant 15 minutes environ, en les retournant régulièrement.
+
+## Noms ingrédients
+
+crevettes. maquereau. tomate. citronnelle. noix de coco
+---
+
+# Crevettes mijotées au lait de coco et tamarin
+
+## Catégorie
+
+Asiatique. Non testé. Poisson
+
+## Commentaire
+
+Recette thaïlandaise. Servez cette recette avec du riz gluant.
+
+Préparation : 5 min | Cuisson : 20 min
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 8 crevettes entières, crues
+- 2 cuil. à soupe de pâte de tamarin
+- 50 cl de lait de coco
+- 1 boîte de mini-épis de maïs
+- 1 feuille de combava
+
+## Déroulé de la recette
+
+1. Décortiquez les crevettes, gardez la tête.
+2. Dans une casserole ou une sauteuse, faites revenir la pâte de tamarin 2 minutes, puis ajoutez le lait de coco. Laissez mijoter 3 minutes, ajoutez les crevettes et les maïs, puis la feuille de combava. Laissez mijoter 15 minutes de plus à couvert.
+3. Servez immédiatement.
+
+## Noms ingrédients
+
+crevettes. noix de coco. épis de maïs. tamarin. feuilles de combava
+---
+
+# Crevettes sautées aux noix de cajou
+
+## Catégorie
+
+Asiatique. Non testé. Poisson
+
+## Commentaire
+
+Recette chinoise.
+
+Préparation : 5 min | Repos : 15 min | Cuisson : 15 min
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 400 g de queues de crevettes crues (Black Tiger)
+- 100 g de noix de cajou
+- 2 branches de céleri vert
+- 2 petites carottes (150 g)
+- 60 g de mini-épis de maïs frais
+- 60 g de petits pois frais
+- 1 gousse d'ail
+- 1 cuil. à café de fécule de maïs
+- 2 cuil. à soupe d'huile végétale
+- Sel
+
+**Pour la marinade**
+- 1 cuil. à soupe de fécule de maïs
+- 1 cuil. à soupe de sauce de soja claire
+- 1 cuil. à soupe d'huile végétale
+- 1 cuil. à café de sucre semoule
+- 3 tours de poivre du moulin
+
+## Déroulé de la recette
+
+1. Décortiquez les crevettes, puis coupez-les en deux dans la longueur et déveinez-les soigneusement. Mettez les crevettes et les ingrédients de la marinade dans un saladier. Mélangez et laissez reposer 15 minutes.
+2. Faites torréfier les noix de cajou à sec dans un wok. Laissez refroidir.
+3. Émincez le céleri en biais. Épluchez la carotte et taillez-la en fines rondelles. Coupez les épis de maïs en deux. Hachez l'ail.
+4. Passez les petits pois 20 secondes environ dans l'eau bouillante, puis plongez-les dans de l'eau glacée afin de stopper leur cuisson. Égouttez-les.
+5. Faites chauffer 1 cuil. à soupe d'huile dans un wok. Ajoutez les crevettes et faites revenir à feu vif pendant 2 minutes. Retirez du wok et réservez au chaud.
+6. Versez 1 cuil. à soupe d'huile dans le wok et faites-y parfumer l'ail. Faites revenir le céleri et la carotte 1 minute à feu vif. Incorporez les mini-épis de maïs et remuez 20 secondes.
+7. Toujours à feu vif, ajoutez les crevettes, les noix de cajou et les petits pois. Mélangez 40 secondes. Délayez la fécule de maïs dans 5 cl d'eau froide, puis versez dans le wok. Remuez jusqu'à ce que la sauce épaississe. Assaisonnez et servez aussitôt.
+
+## Noms ingrédients
+
+crevettes. noix de cajou. céleri. carottes. épis de maïs. petits pois. ail
+---
+
+# Crevettes sautées au sambal épicé
+
+## Catégorie
+
+Asiatique. Non testé. Poisson
+
+## Commentaire
+
+Recette malaisienne (Sambal udang). Le sambal udang ou nyonya est un plat malaisien très populaire, à tel point que chaque famille se l'approprie à sa façon, mais les ingrédients de base sont toujours les mêmes. Dégustez aussitôt avec du riz blanc nature.
+
+Préparation : 20 min | Cuisson : 20 min
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 600 g de queues de crevettes crues (Black Tiger)
+- 1 oignon jaune
+- 4 feuilles de combava
+- 3 cuil. à soupe de pâte de tamarin concentrée
+- 150 g de lait de coco (1 petite boîte)
+- 2 cuil. à soupe d'huile d'arachide
+- 1 cuil. à café de sucre de palme en poudre
+- Sel fin
+
+**Pour le sambal**
+- 5 échalotes
+- 6 piments rouges, longs, frais
+- 1 piment oiseau
+- 3 cuil. à soupe de pâte de crevettes malaisienne (belacan)
+
+## Déroulé de la recette
+
+1. Décortiquez les crevettes en gardant les derniers anneaux de la queue. Faites une incision le long du dos pour déveiner : ôtez le filament noir éventuel à l'aide de la pointe d'un couteau. Rincez et égouttez.
+2. Pelez et émincez finement l'oignon. Ciselez les feuilles de combava.
+3. Préparez le sambal : pelez et hachez les échalotes, épépinez les piments. Disposez tous les ingrédients dans un mortier ou un mixeur et réduisez en une pâte homogène.
+4. Faites chauffer l'huile dans un wok et faites-y parfumer le sambal pendant 5 minutes sur feu moyen. Incorporez les crevettes et faites revenir vivement pendant 2 minutes à feu vif. Retirez les crevettes du wok et gardez au chaud.
+5. Dans le wok, ajoutez l'oignon, les feuilles de combava, le tamarin, le lait de coco, le sucre de palme et 20 cl d'eau chaude. Portez à ébullition. Laissez frémir 10 minutes à couvert sur feu doux à moyen. Ajoutez les crevettes et portez à ébullition. Salez selon votre goût.
+6. Répartissez le sambal udang dans des assiettes de service creuses. Dégustez aussitôt avec du riz blanc nature.
+
+## Noms ingrédients
+
+crevettes. oignons. feuilles de combava. tamarin. noix de coco. échalotes. piment rouge. piment oiseau
+---
+
+# Crabe sauté au poivre
+
+## Catégorie
+
+Asiatique. Non testé. Poisson
+
+## Commentaire
+
+Recette singapourienne. Ce plat est un grand classique de Singapour.
+
+Préparation : 25 min | Cuisson : 25 min
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 2 kg de crabes crus frais ou surgelés et décongelés (en morceaux)
+- 20 g de haricots de soja noirs salés (en conserve)
+- 10 brins de ciboulette de 4 cm émincés en fines lanières pour le décor
+- 25 g de grains de poivre noir
+- 10 g de fécule de maïs
+- 20 g de sauce d'huître
+- 30 g de vin de riz chinois
+- 15 g de sauce de soja claire chinoise
+- 15 g de sauce de soja foncée chinoise
+- 10 g de bouillon de volaille en poudre
+- 40 g de beurre
+- 1 litre d'huile pour friture
+- 15 g de sucre de palme en poudre
+
+**Pour le sambal udang kering**
+- 20 g de petites crevettes séchées
+- 3 piments séchés
+- 2 échalotes
+- 10 g d'ail
+- 10 g de gingembre
+- 4 feuilles de curry
+- 1 tige de citronnelle
+
+## Déroulé de la recette
+
+1. Broyez grossièrement les grains de poivre dans un mortier, puis faites-les griller à sec dans un wok pendant quelques minutes jusqu'à ce qu'ils soient parfumés. Réservez.
+2. Préparez le sambal udang kering : dans le wok, faites griller à sec les crevettes pendant 4 minutes environ sur feu doux à moyen. Laissez refroidir. Enlevez les couches extérieures fibreuses de la citronnelle, puis émincez la partie blanche. Ciselez finement les feuilles de curry. Équeutez et épépinez les piments. Pelez les échalotes, l'ail et le gingembre, puis émincez-les. Pilez finement tous les ingrédients du sambal udang kering dans un mortier (ou mixez dans un petit mixeur) afin d'obtenir une pâte.
+3. Rincez les haricots sous l'eau froide et réduisez en purée avec le dos d'une cuillère. Délayez la fécule de maïs dans 50 cl d'eau froide.
+4. Dans un wok, préchauffez l'huile pour friture à 180 °C, puis faites-y frire les morceaux de crabe pendant 4 à 5 minutes jusqu'à ce qu'ils deviennent rouges. Égouttez sur une grille puis placez sur du papier absorbant. Videz l'huile de friture et essuyez le wok avec du papier absorbant. Faites chauffer le beurre dans le wok à feu moyen et faites-y parfumer le sambal udang kering ainsi que le poivre noir pendant 5 minutes environ. Passez sur feu très vif, incorporez les morceaux de crabe et faites revenir 3 minutes. Ajoutez le reste des ingrédients (sauf la ciboulette, l'huile et la fécule). Faites revenir 2 minutes. Portez à ébullition puis laissez frémir 5 minutes à couvert sur feu doux à moyen. Ajoutez la fécule délayée et remuez pour enrober les morceaux de crabe de sauce au poivre noir.
+5. Répartissez les morceaux de crabe dans des assiettes de service, puis garnissez de ciboulette. Dégustez aussitôt.
+
+## Noms ingrédients
+
+ciboulette. citronnelle. échalotes. ail. gingembre. feuilles de curry. crevettes séchées. piment séché
+---
+
+# Saint-Jacques à la vapeur et vermicelles
+
+## Catégorie
+
+Asiatique. Non testé. Poisson
+
+## Commentaire
+
+Recette chinoise. Les vermicelles de haricot mungo sont souvent commercialisés sous l'appellation « vermicelles de soja ».
+
+Préparation : 15 min | Trempage : 30 min | Cuisson : 5 min
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 8 noix de Saint-Jacques avec leur coquille
+- 50 g de vermicelles de haricot mungo
+- 3 ou 4 gousses d'ail
+- 4 cuil. à soupe de sauce soja claire
+- 2 cuil. à soupe de vin de riz shaoxing ou vin de Xérès
+- 5 cuil. à soupe d'huile végétale
+- Sel
+
+## Déroulé de la recette
+
+1. Faites tremper les vermicelles de haricot mungo dans un bol d'eau chaude (environ 60 °C) pendant 30 minutes.
+2. Décoquillez les noix de Saint-Jacques, rincez-les et essuyez-les avec du papier absorbant. Lavez la partie creuse de la coquille et réservez. Déposez les noix de Saint-Jacques sur un plat. Arrosez-les avec le vin et salez-les légèrement.
+3. Écrasez les gousses d'ail et réduisez-les en purée. Faites-les revenir dans une casserole avec l'huile 5 minutes à feu moyen. Déposez cette purée d'ail et son huile dans un petit bol. Ajoutez la sauce soja et mélangez.
+4. Égouttez les vermicelles et répartissez-les dans les coquilles. Ajoutez un peu de sauce d'ail puis déposez les noix de Saint-Jacques par-dessus. Badigeonnez-les de sauce d'ail.
+5. Placez les coquilles dans un cuit-vapeur et faites cuire 5 minutes à feu vif à partir de l'ébullition. Servez aussitôt.
+
+## Noms ingrédients
+
+noix de saint-jacques. haricots mungo. ail
+---
+
+# Cuisson du riz parfumé
+
+## Catégorie
+
+Asiatique. Non testé. Végé
+
+## Commentaire
+
+Recette de base vietnamienne.
+
+Préparation : 5 min | Cuisson : 15 à 20 min
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 500 g de riz parfumé
+
+## Déroulé de la recette
+
+1. Lavez le riz 3 fois dans une passoire afin de retirer l'excédent d'amidon, jusqu'à ce que l'eau soit claire, puis égouttez-le.
+2. **Cuisson à l'autocuiseur** : déposez le riz lavé et égoutté dans la cuve de l'autocuiseur. Ajoutez de l'eau à hauteur d'une phalange au-dessus du niveau du riz. Fermez le couvercle et faites cuire 20 minutes sous pression.
+3. **Cuisson à l'eau** : déposez le riz lavé et égoutté dans une grande casserole d'eau bouillante. Remuez, couvrez et laissez cuire 15 minutes à feu doux.
+
+## Noms ingrédients
+
+---
+
+# Riz gluant
+
+## Catégorie
+
+Asiatique. Non testé. Végé
+
+## Commentaire
+
+Recette de base vietnamienne. Trois méthodes de cuisson sont proposées : à la vapeur dans des paniers en bambou, dans une feuille de bananier, ou dans un autocuiseur à riz.
+
+Trempage : 1 nuit + 10 min | Préparation : 5 min | Cuisson : 25 à 35 min
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 250 g de riz gluant
+
+## Déroulé de la recette
+
+1. Faites tremper le riz gluant dans un saladier d'eau froide pendant une nuit. Brassez et lavez le riz soigneusement dans de l'eau froide à trois reprises, puis rincez-le jusqu'à ce que l'eau soit claire. Laissez égoutter pendant 10 minutes.
+2. **Cuisson traditionnelle à la vapeur dans des paniers en bambou** : avec cette méthode, le riz prend le parfum du bambou. Prenez 4 petits paniers en bambou (en forme de boîte de 9 cm de diamètre), mouillez-les généreusement ainsi que leurs couvercles avec de l'eau chaude. Cela rend les paniers plus durables et le riz colle moins. Répartissez le riz dans les paniers et posez les couvercles. Disposez les paniers dans un cuiseur-vapeur préalablement rempli de suffisamment d'eau (attention, il ne faut surtout pas que l'eau touche le riz). Portez à ébullition. Sur feu moyen à vif, laissez cuire le riz à la vapeur pendant 30 minutes environ. À mi-cuisson, remuez le riz une fois pour qu'il cuise de manière homogène.
+3. **Cuisson dans une feuille de bananier** : avec cette méthode, le riz prend le parfum de la feuille de bananier. Faites tremper une feuille de bananier dans un saladier d'eau chaude pendant 10 minutes pour la nettoyer et l'assouplir. Laissez égoutter et essuyez avec du papier absorbant. Étalez le riz uniformément sur la feuille. Fermez la feuille en formant une papillote carrée de 20 × 20 cm, puis fixez les extrémités avec des cure-dents. Disposez dans un cuiseur-vapeur préalablement rempli de suffisamment d'eau (sans que l'eau touche le riz). Portez à ébullition. Sur feu moyen à vif, laissez cuire le riz à la vapeur pendant 30 minutes environ. Lorsque le riz est cuit, il devient translucide.
+4. **Cuisson moderne dans un autocuiseur à riz** : mettez le riz dans un autocuiseur avec 15 cl d'eau froide. Démarrez l'appareil et laissez cuire automatiquement pendant 15 minutes environ. Quand le riz est cuit, débranchez l'appareil et laissez le riz reposer pendant 10 minutes sans ouvrir. Quand le riz est prêt, aérez-le bien à l'aide d'une spatule en bois avant de le servir.
+
+## Noms ingrédients
+
+feuilles de bananier
+---
+
+# Riz japonais
+
+## Catégorie
+
+Asiatique. Non testé. Végé
+
+## Commentaire
+
+Recette de base japonaise. En japonais, le mot « riz » (« gohan ») veut également dire repas, d'où l'importance de cette céréale dans la cuisine japonaise. Le riz japonais (japonica) est un riz à grain rond avec beaucoup d'amidon, ce qui lui donne un aspect un peu collant. Pour le remplacer, on peut utiliser fréquemment du riz rond blanc italien vendu en magasin bio. La cuisson à la casserole décrite ici permet d'obtenir un riz d'une très belle consistance, moelleux tout en étant légèrement ferme sous la dent. Si vous avez le temps, laissez reposer 30 minutes votre riz dans son eau de cuisson ; les grains s'humidifient et le riz n'en sera que meilleur.
+
+Préparation : 5 min | Repos : 10 min | Cuisson : 12 min
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 450 g (3 verres) de riz rond blanc (riz japonais ou riz rond italien)
+- 60 cl d'eau (3 verres)
+
+**Variante : takikomi gohan**
+- 3 cuil. à soupe de sauce soja
+- 3 cuil. à soupe de mirin
+- 1 morceau d'algue kombu de 5 cm de long
+- 1 champignon shiitaké séché
+
+## Déroulé de la recette
+
+1. Rincez le riz dans plusieurs eaux jusqu'à ce que l'eau soit limpide.
+2. Égouttez-le et mettez-le dans une casserole avec l'eau.
+3. Couvrez, portez à ébullition puis laissez cuire 12 minutes à feu très doux.
+4. Retirez la casserole du feu et laissez reposer 10 minutes environ à couvert.
+5. **Variante takikomi gohan** : rincez le riz et mettez-le dans la casserole comme expliqué ci-dessus. Ajoutez la sauce soja, le mirin, le morceau d'algue kombu et le champignon shiitaké séché. Versez l'eau, couvrez et procédez à la cuisson décrite plus haut. Vous obtiendrez ainsi un riz très savoureux.
+
+## Noms ingrédients
+
+kombu. champignons shiitaké
+---
+
+# Riz vinaigré pour sushi
+
+## Catégorie
+
+Asiatique. Non testé. Végé
+
+## Commentaire
+
+Recette de base japonaise. Vous pouvez remplacer le vinaigre de riz par du vinaigre de framboise ou de cidre pour un goût plus fruité.
+
+Préparation : 5 min | Cuisson : 2 min
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 4 portions de riz cuit
+- 5 cuil. à soupe de vinaigre de riz
+- 3 cuil. à soupe de sucre semoule
+- 1 cuil. à café de sel
+
+## Déroulé de la recette
+
+1. Dans une casserole, faites fondre le sucre et le sel avec le vinaigre à feu doux (le mélange ne doit pas bouillir).
+2. Déposez le riz cuit dans un grand bol. Ajoutez le vinaigre et mélangez délicatement pour ne pas écraser le riz (tout en le refroidissant avec un éventail si possible) : il aura ainsi un bel aspect brillant.
+3. Laissez reposer le riz sous un torchon humide jusqu'au moment de servir pour éviter qu'il se dessèche.
+
+## Noms ingrédients
+
+---
+
+# Bibimbap
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Recette coréenne. En Corée, manger des aliments aux couleurs variées est synonyme d'une alimentation équilibrée. Le bibimbap en est sans doute le meilleur exemple : peu de produits d'origine animale et beaucoup de légumes variés. À vous de personnaliser les garnitures tout en gardant la présence de vert, rouge, jaune, blanc et noir pour obtenir un plat ludique et sain.
+
+Préparation : 20 min | Cuisson : 15 min
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 450 g de riz rond
+- 150 g de rumsteck
+- 300 g de courgettes
+- 150 g de shiitakés frais ou réhydratés
+- 2 carottes moyennes
+- 2 oignons moyens
+- 4 œufs
+- 2 cuil. à soupe de ciboule émincée
+- 2 cuil. à café de graines de sésame grillées
+- Huile végétale
+- Sel, poivre
+
+**Assaisonnement de la viande**
+- ½ cuil. à café d'ail haché
+- 2 cuil. à café de sucre
+- 2 cuil. à café de sauce soja
+- 1 cuil. à café d'huile de sésame
+- Poivre
+
+**Sauces au choix** (gochujang, sauce soja)
+
+## Déroulé de la recette
+
+1. Préparez le riz.
+2. Coupez la viande en allumettes et mélangez-la avec les ingrédients de l'assaisonnement de la viande. Laissez reposer quelques minutes.
+3. Séparez le blanc du jaune des œufs. Salez les blancs et faites-les cuire sans les colorer dans une poêle à feu très doux, puis coupez-les en lanières.
+4. Émincez finement les champignons et les oignons, coupez les carottes et les courgettes en allumettes. Faites chauffer une poêle, versez 2 cuil. à café d'huile et commencez par faire cuire les courgettes 30 secondes. Salez, poivrez et réservez. Faites cuire de la même manière les carottes (30 secondes), les champignons (2 minutes) et les oignons (2 minutes). Ajoutez la ciboule hachée à la fin de cuisson. Réservez les légumes séparément.
+5. Faites cuire la viande 20 secondes à feu vif dans la même poêle. Dans de grands bols, disposez du riz, puis chacun des éléments de la garniture rangés joliment, et posez 1 jaune d'œuf cru au milieu. Saupoudrez de graines de sésame.
+6. Servez la sauce au gochujang et la sauce soja à part : chacun pourra ainsi choisir la sauce et la doser selon ses goûts.
+
+## Noms ingrédients
+
+bœuf. courgettes. champignons shiitaké. carottes. oignons. œuf. oignons nouveaux
+---
+
+# Chirashi
+
+## Catégorie
+
+Asiatique. Non testé. Poisson
+
+## Commentaire
+
+Recette japonaise. Le tamago yaki (omelette japonaise) se prépare à part.
+
+Préparation : 20 min | Sans cuisson
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 4 grands bols de riz vinaigré
+- 4 grosses noix de Saint-Jacques très fraîches
+- 1 pavé de saumon très frais
+- 1 filet de maquereau très frais
+- 12 crevettes cuites
+- 8 tranches de tamago yaki
+- ¼ de concombre
+- Quelques feuilles de persil
+- 2 cuil. à soupe de graines de sésame
+- Sauce soja
+- Wasabi
+
+## Déroulé de la recette
+
+1. Décortiquez les crevettes en laissant la nageoire caudale (l'extrémité de la queue).
+2. Taillez chaque noix de Saint-Jacques en 3 lamelles dans l'épaisseur.
+3. Retirez la peau et les arêtes des poissons ; détaillez des tranches de ½ cm d'épaisseur.
+4. Pelez le concombre et coupez-le en deux dans la longueur ; émincez chaque moitié en fines lamelles.
+5. Saupoudrez le riz de graines de sésame et mélangez délicatement. Dans chaque bol de riz, disposez 2 tranches de tamago yaki, 3 lamelles de Saint-Jacques, 3 crevettes, des tranches de poisson et des lamelles de concombre. Décorez d'une feuille de persil.
+6. Mélangez dans des coupelles un peu de sauce soja et une pointe de wasabi : chacun arrosera de sauce son bol de riz avant de déguster.
+
+## Noms ingrédients
+
+noix de saint-jacques. saumon. maquereau. crevettes. concombres. persil. œuf
+---
+
+# Riz cantonais
+
+## Catégorie
+
+Asiatique. Non testé. Poisson
+
+## Commentaire
+
+Recette chinoise.
+
+Préparation : 10 min | Cuisson : 10 min
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 600 g de riz cuit
+- 180 g de petits pois écossés
+- 1 boîte de chair de crabe
+- 2 oignons nouveaux émincés
+- 4 œufs
+- Quelques brins de ciboulette ciselée
+- Huile de tournesol
+- Sel, poivre du moulin
+
+## Déroulé de la recette
+
+1. Dans un bol, battez les œufs avec 1 pincée de sel.
+2. Faites chauffer un filet d'huile dans une poêle antiadhésive puis versez les œufs battus. Dès qu'ils commencent à prendre, mélangez avec des baguettes ou une spatule afin d'obtenir des œufs brouillés. Réservez sur une assiette.
+3. Dans un wok, versez un filet d'huile. Faites revenir les oignons et les petits pois à feu vif pendant 4 à 5 minutes. Salez et poivrez.
+4. Ajoutez le riz, faites sauter 2 à 3 minutes. Incorporez les œufs brouillés et le crabe. Mélangez le tout délicatement. Rectifiez l'assaisonnement.
+5. Décorez de ciboulette ciselée et servez aussitôt.
+
+## Noms ingrédients
+
+petits pois. chair de crabe. oignons nouveaux. œuf. ciboulette
+---
+
+# Riz thaï sauté à l'ananas
+
+## Catégorie
+
+Asiatique. Non testé. Végé
+
+## Commentaire
+
+Recette thaïlandaise. Si vous n'avez pas d'ananas frais, vous pouvez utiliser de l'ananas en boîte.
+
+Préparation : 5 min | Cuisson : 10 min
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- ½ oignon rouge
+- 300 g de riz thaï cuit
+- 150 g d'ananas en morceaux
+- 4 cuil. à soupe de sauce thaïe au piment doux ou de sauce Pad Thaï
+
+## Déroulé de la recette
+
+1. Émincez l'oignon.
+2. Dans un wok ou une sauteuse, faites chauffer 1 cuil. à café d'huile végétale ou de coco, puis faites-y revenir l'oignon 2 minutes. Ajoutez le riz et l'ananas et faites cuire le tout 3 minutes à feu vif, en remuant avec une spatule en bois. Ajoutez la sauce et prolongez la cuisson 2 minutes.
+3. Servez aussitôt.
+
+## Noms ingrédients
+
+oignons rouges. ananas
+---
+
+# Riz sauté
+
+## Catégorie
+
+Asiatique. Non testé. Végé
+
+## Commentaire
+
+Recette chinoise. Savez-vous la différence entre la sauce soja claire et la sauce soja noire ? La première n'est, en fait, pas si claire que cela mais marron foncée. La seconde a été fermentée plus longtemps, d'où sa couleur très sombre ; elle est aussi plus sirupeuse et plus dense que la sauce claire ! Vous pouvez alléger la sauce soja avec 2 cuil. à café d'eau et la verser petit à petit dans le wok pour obtenir une couleur homogène.
+
+Préparation : 5 min | Cuisson : 10 min
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 500 g de riz cuit
+- 3 œufs
+- 3 ciboules ou oignons nouveaux
+- 3 cuil. à café de sauce soja noire
+- 2 ou 3 gouttes d'huile de sésame
+- 3 cuil. à soupe d'huile de tournesol
+- Sel, poivre blanc moulu
+
+## Déroulé de la recette
+
+1. Battez les œufs dans un grand bol.
+2. Lavez et coupez les ciboules en rondelles.
+3. Dans un wok, faites chauffer l'huile de tournesol sur feu vif puis faites cuire les œufs battus en omelette en la cassant en petits morceaux. Débarrassez sur une assiette.
+4. Baissez un peu le feu sous le wok. Déposez le riz cuit et, avec la spatule, défaites les gros morceaux. Ajoutez la sauce soja petit à petit en remuant : le riz doit être bien enrobé.
+5. Ajoutez ensuite les ciboules, les œufs cuits et l'huile de sésame. Salez, poivrez et mélangez. Continuez la cuisson 1 minute.
+
+## Noms ingrédients
+
+œuf. oignons nouveaux
+---
+
+# Salade de riz croustillant
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Recette laotienne (Nem thadeua, appelée parfois nem lao ou nem khao). Elle se compose de boulettes de riz frit, cousines éloignées des arancini italiens, parfaites avec les restes de riz de la veille (plus sec et moins collant). Le secret réside dans la noix de coco. Servez avec des feuilles de menthe et de batavia, de shiso ou de piper lolot (phak ilong) qui serviront à envelopper chaque bouchée. Vous pouvez doubler les quantités et congeler les boules frites non utilisées : il suffira de les passer au four 20 minutes à 180 °C (th. 6) pour qu'elles retrouvent leur croustillant.
+
+Préparation : 45 min | Cuisson : 25 min
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+**Pour les boulettes**
+- 500 g de riz parfumé cuit de la veille
+- 1 œuf
+- 1 oignon ciselé
+- 2 cuil. à soupe de coco râpée
+- 2 cuil. à café de piment doux en poudre
+- 25 g de lait de coco en poudre (sinon de la coco râpée)
+- 1 litre d'huile de friture
+- 1 cuil. à café rase de sel
+
+**Pour la salade**
+- 200 g de saucisson de porc fermenté (du commerce)
+- 10 brins de ciboule ciselés
+- 5 brins de menthe effeuillés
+- ½ botte de coriandre ciselée
+- 4 cuil. à soupe de sauce de poisson
+- Le jus de 1 citron
+
+## Déroulé de la recette
+
+1. Mélangez avec les mains le riz, l'oignon, l'œuf, la noix de coco râpée, le lait de coco en poudre, le sel et le piment doux. Gardez un saladier d'eau froide à portée de main pour rincer vos mains. Formez des boules (de la taille d'une petite balle de tennis) et aplatissez-les, pour qu'il y ait un maximum de surface croustillante.
+2. Faites-les frire dans de l'huile chaude (170 °C) jusqu'à obtention de boules dorées et craquantes. Laissez égoutter et refroidir sur une grille.
+3. Dans un saladier, émiettez le saucisson et assaisonnez avec le jus de citron et la sauce de poisson. Émiettez ensuite les boulettes de riz croustillantes et mélangez. Rectifiez l'assaisonnement si nécessaire.
+4. Ajoutez la ciboule et la coriandre, mélangez et versez dans un plat. Parsemez de feuilles de menthe grossièrement ciselées et de petits piments secs frits. On peut ajouter, selon les familles et selon le goût, 2 échalotes émincées très finement, 2 cuil. à soupe de cacahuètes torréfiées ou 1 poignée de riz soufflé nature.
+
+## Noms ingrédients
+
+noix de coco. œuf. oignons. saucisses. oignons nouveaux. menthe. coriandre. citrons. cacahuètes
+---
+
+# Nasi goreng
+
+## Catégorie
+
+Asiatique. Non testé. Poisson
+
+## Commentaire
+
+Recette indonésienne. On adore le nasi goreng en Indonésie. On trouve beaucoup de variantes de cette recette à travers tout le pays : aux crevettes, au poulet, à la viande, aux légumes frais… Voici la version à la javanaise, d'une grande simplicité.
+
+Préparation : 10 min | Cuisson : 10 min
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+**Pour le nasi goreng**
+- 4 bols de riz basmati cuit, froid (600 g)
+- 4 œufs
+- 4 échalotes
+- 2 gousses d'ail
+- 3 piments rouges frais (cabe lombok)
+- 2 cuil. à café de pâte de crevettes indonésienne (belacan)
+- 1 ½ cuil. à soupe de sauce de soja sucrée (kecap manis)
+- 3 cuil. à soupe d'huile d'arachide
+- 1 cuil. à soupe de sucre de palme en poudre
+- Sel
+
+**Pour la sauce de soja**
+- 2 petits piments rouges frais (cabe lombok)
+- 3 cuil. à soupe de sauce de soja sucrée (kecap manis)
+- 1 cuil. à café de jus de citron vert
+
+## Déroulé de la recette
+
+1. Préparez d'abord la sauce de soja. Équeutez, épépinez et émincez finement le piment en biais. Dans un bol, mélangez la sauce de soja, le jus de citron, 1 cuil. à soupe d'eau et le piment. Laissez reposer. Au moment de servir, répartissez dans de petites coupelles.
+2. Préparez ensuite le nasi goreng. Pelez et hachez finement les échalotes et l'ail. Équeutez et épépinez les piments, puis hachez-les finement. Mettez les échalotes, l'ail et le piment dans un mortier et pilez de façon à obtenir une pâte homogène.
+3. Faites chauffer 2 cuil. à soupe d'huile dans une grande poêle. Ajoutez la pâte de crevettes et faites revenir 1 minute sur feu doux à moyen. Incorporez la pâte d'échalote-ail-piment. Faites revenir 2 minutes à feu moyen.
+4. Ajoutez le riz ainsi que le sucre de palme et faites sauter 3 minutes à feu moyen. Versez la sauce de soja kecap manis diluée avec 1 cuil. à soupe d'eau dans le riz. Faites revenir 1 minute. Répartissez le riz dans des assiettes et gardez au chaud.
+5. Nettoyez bien la poêle et essuyez-la. Faites-y chauffer 1 cuil. à soupe d'huile à feu moyen, puis cassez-y délicatement les œufs sans percer le jaune. Salez légèrement. Faites cuire 2 à 3 minutes à feu moyen. Faites glisser un œuf au plat sur le riz de chaque assiette. Dégustez aussitôt accompagné de la sauce de soja.
+
+## Noms ingrédients
+
+œuf. échalotes. ail. piment rouge
+---
+
+# Onigiri
+
+## Catégorie
+
+Asiatique. Non testé. Poisson
+
+## Commentaire
+
+Recette japonaise. Les onigiri sont de véritables en-cas que les Japonais dégustent à tout moment de la journée. Ces sandwichs de riz faciles à emporter sont très pratiques pour finir les restes de riz de la veille. Si le umeboshi est la garniture la plus fréquente, on peut décliner cette recette avec d'autres ingrédients comme du poisson fumé ou des pickles.
+
+Préparation : 5 min | Sans cuisson
+
+## Ingrédients
+
+*Pour 4 onigiri*
+
+**Pour les onigiri au umeboshi**
+- 2 bols de riz cuit
+- 2 umeboshi dénoyautés (prune salée japonaise)
+- ½ feuille de nori coupée en 4 bandes
+- Sel
+
+**Pour les onigiri grillés**
+- 2 bols de riz cuit
+- ¼ de boîte de thon au naturel
+- 3 cuil. à soupe de laitue de mer ou de nori en paillettes
+- 3 cuil. à soupe de sauce soja
+- Sel
+
+## Déroulé de la recette
+
+1. **Onigiri au umeboshi** : saupoudrez d'un peu de sel vos mains humidifiées. Prélevez ¼ du riz en le compactant légèrement afin de former 1 triangle : l'astuce est de tourner le triangle entre ses mains de façon à avoir une pression homogène sur les trois bords (sans compresser le riz, qui ne doit surtout pas être écrasé). Exercez une légère pression au centre du triangle pour y placer ½ umeboshi. Placez 1 bande d'algue nori à la base de l'onigiri. Réalisez 3 autres onigiri avec le reste de riz.
+2. **Onigiri grillé** : déposez le riz dans un bol. Ajoutez le thon égoutté et émietté ainsi que la laitue de mer. Mélangez délicatement afin de ne pas écraser les grains de riz. Saupoudrez d'un peu de sel vos mains humidifiées. Prélevez ¼ du mélange de riz en le compactant légèrement afin de former 1 triangle (même technique que ci-dessus). Réalisez 3 autres onigiri avec le reste de riz.
+3. Disposez les onigiri sur la plaque du four recouverte de papier sulfurisé. Passez-les sous le gril 2 minutes environ ; sortez-les du four et badigeonnez-les de sauce soja à l'aide d'un pinceau ; remettez sous le gril 2 minutes ; badigeonnez-les, retournez-les et badigeonnez-les à nouveau ; faites-les griller encore 2 minutes.
+
+## Noms ingrédients
+
+umeboshi. laitue de mer. thon en boîte
+---
+
+# Plateau de sushi
+
+## Catégorie
+
+Asiatique. Non testé. Poisson
+
+## Commentaire
+
+Recette japonaise. Dégustez vos sushi en les trempant dans la sauce soja (sauf le sushi teriyaki, déjà assaisonné). Le gingembre mariné permet de se nettoyer le palais entre chaque bouchée pour ne pas mélanger les goûts. Vous pouvez aussi utiliser un moule à sushi : faites-le préalablement tremper dans de l'eau, remplissez-le à ras bord et tassez bien avec la cuillère à riz, remettez le couvercle, tassez à nouveau et démoulez ; ajoutez une pointe de wasabi et 1 tranche de poisson sur chaque sushi. Le tamago yaki se prépare à part.
+
+Préparation : 30 min | Sans cuisson
+
+## Ingrédients
+
+*Pour 32 sushi*
+
+- 4 petits bols de riz vinaigré
+- 4 tranches de tamago yaki
+- 8 tranches de filet (ou pavés) de saumon extra-frais
+- 4 tranches de filet de daurade extra-frais
+- 4 tranches de carrelet
+- 1 filet de maquereau
+- 1 brin de ciboule ciselé
+- 2 grosses noix de Saint-Jacques
+- Le zeste de 1 citron vert
+- 1 cuil. à café de gingembre frais râpé
+- 4 cuil. à soupe d'œufs de saumon
+- 1 feuille de nori
+- Wasabi
+
+**Pour la sauce teriyaki**
+- 15 cl de sauce soja
+- 10 cl de mirin
+- 3 cuil. à soupe de sucre semoule
+
+**Pour servir**
+- Sauce soja
+- Gingembre mariné
+
+## Déroulé de la recette
+
+1. **Nigiri sushi au saumon** : retirez la peau et les arêtes du saumon. Coupez le saumon en tranches de ½ cm d'épaisseur. Humidifiez vos mains afin d'éviter au riz de coller. Déposez une petite quantité de riz vinaigré dans le creux de votre main. Pressez légèrement le riz en le faisant rouler afin d'obtenir une boulette ovale. Placez une pointe de wasabi avec votre doigt sur la boulette ou au centre de la tranche de saumon. Déposez la tranche de saumon sur la boulette de riz. À l'aide de deux doigts, exercez une nouvelle pression sur le poisson afin qu'il adhère à la boulette de riz. Déposez le nigiri sushi formé sur le plat de service.
+2. **Nigiri sushi à la daurade** : réalisez 1 boulette de riz ovale. Retirez la peau et les arêtes de la daurade. Coupez des tranches de ½ cm d'épaisseur (tranchez dans le filet quasiment en parallèle de la planche). Procédez comme pour le nigiri sushi au saumon puis décorez d'une pointe de gingembre râpé et de ciboule ciselée.
+3. **Nigiri sushi au maquereau** : réalisez 1 boulette de riz ovale et procédez comme pour le saumon, puis décorez de gingembre râpé. Dégustez avec du gingembre mariné, en trempant dans un filet de sauce soja.
+4. **Gunkan aux œufs de saumon** : réalisez 1 boulette de riz ovale. Coupez 1 bande de nori dont la largeur est supérieure à la hauteur de la boulette de riz. Entourez la boulette avec la bande de nori. Déposez les œufs de saumon sur le riz à l'aide d'une petite cuillère.
+5. **Nigiri sushi au tamago yaki** : réalisez 1 boulette de riz ovale. Procédez comme pour le nigiri au saumon puis décorez d'une fine lamelle de nori.
+6. **Nigiri sushi teriyaki** : préparez la sauce teriyaki : déposez les ingrédients de la sauce dans une casserole. Portez à ébullition puis baissez le feu. Laissez réduire 10 minutes en remuant de temps en temps. Disposez le filet de carrelet sur une grille à rôtir ou sur la plaque du gril. Faites cuire sur feu doux 1 minute puis badigeonnez le filet de sauce teriyaki à l'aide d'un pinceau. Remettez sur le feu 1 minute. Badigeonnez à nouveau le filet de sauce et faites cuire encore 1 minute. Coupez le filet en 20 lamelles d'environ 4 cm de large. Réalisez 1 boulette de riz ovale et procédez comme pour le nigiri au saumon.
+7. **Nigiri sushi aux noix de Saint-Jacques** : réalisez 1 boulette de riz ovale. Taillez les noix de Saint-Jacques en quatre dans l'épaisseur. Procédez comme pour le nigiri au saumon puis décorez de zestes de citron vert coupés en fines lamelles.
+
+## Noms ingrédients
+
+saumon. daurade. maquereau. carrelet. noix de saint-jacques. œufs de saumon. gingembre mariné. citrons verts. gingembre. œuf. oignons nouveaux
+---
+
+# Assortiment de maki
+
+## Catégorie
+
+Asiatique. Non testé. Poisson
+
+## Commentaire
+
+Recette japonaise. Il ne faut surtout pas mouiller la feuille de nori, elle deviendrait trop élastique. Le tamago yaki se prépare à part.
+
+Préparation : 35 min | Sans cuisson
+
+## Ingrédients
+
+*Pour 2 gros maki et 4 maki plus fins*
+
+- 4 petits bols de riz vinaigré
+- 4 feuilles de nori
+- Wasabi et sauce soja
+
+**Pour les futo maki**
+- 80 g de filet de saumon très frais, coupé en lanières
+- ¼ de concombre pelé, épépiné et coupé en gros bâtonnets
+- ¼ de tamago yaki, coupée en bâtonnets
+- 1 poignée de roquette
+
+**Pour les hosso maki**
+- ½ avocat coupé en lamelles
+- 2 cuil. à soupe de graines de sésame noir
+- 1 poignée de roquette
+- 1 poignée de graines germées
+
+## Déroulé de la recette
+
+1. **Le futo maki (2 gros rouleaux = 16 bouchées)** : posez 1 feuille de nori sur la natte à maki, face brillante et lisse contre la natte. Étalez une couche de riz sur les trois quarts de la feuille de nori. Disposez la moitié des ingrédients en une bande sur le riz.
+2. Tout en maintenant avec vos doigts les ingrédients, soulevez le bord de la natte qui se trouve devant vous. Recouvrez tous les ingrédients : le bord de la feuille doit venir toucher la fin de la bande de riz. Pressez la natte avec vos mains afin de former un cylindre. Tout en tirant la natte d'une main, faites rouler le maki petit à petit. À chaque petit roulement, pressez le maki pour que la feuille de nori adhère bien. Retirez la natte et placez le rouleau sur une planche.
+3. Coupez le rouleau en 8 bouchées avec un couteau bien aiguisé. Entre chaque découpe, essuyez la lame de votre couteau avec un torchon humide pour éviter que les grains de riz collent à la lame. Recommencez l'opération avec un autre maki.
+4. **Le hosso maki (4 petits rouleaux = 24 bouchées)** : coupez la feuille de nori en deux. Posez ½ feuille de nori sur la natte à maki, face brillante et lisse contre la natte. Étalez une couche de riz sur les trois quarts de la feuille de nori. Déposez ¼ des ingrédients en une bande sur le riz. Procédez de la même façon que pour le futo maki mais en coupant à la fin le maki en 6 bouchées au lieu de 8. Réalisez ainsi 3 autres maki et coupez-les chacun en 6 bouchées.
+
+## Noms ingrédients
+
+saumon. concombres. avocats. roquette. œuf
+---
+
+# Cuisson des nouilles et vermicelles
+
+## Catégorie
+
+Asiatique. Non testé. Végé
+
+## Commentaire
+
+Recette de base chinoise pour la cuisson des différentes nouilles et vermicelles.
+
+Préparation : 3 min | Cuisson : 3 à 5 min
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 500 g de vermicelles ou de nouilles
+
+## Déroulé de la recette
+
+1. **Vermicelles de soja** : faites tremper les vermicelles de soja dans de l'eau chaude pendant 5 minutes. Passez les vermicelles sous un filet d'eau froide puis égouttez-les. Coupez-les à l'aide d'une paire de ciseaux en tronçons de 10 cm environ.
+2. **Vermicelles de riz** : déposez les vermicelles de riz dans une grande casserole d'eau bouillante et faites cuire 5 minutes. Passez les vermicelles sous un filet d'eau froide afin de stopper la cuisson et égouttez-les.
+3. **Nouilles de blé** : déposez les nouilles de blé dans une grande casserole d'eau bouillante et faites cuire 3 à 5 minutes (selon les indications du paquet). Passez les nouilles sous un filet d'eau froide afin de stopper la cuisson et égouttez-les.
+4. **Nouilles de riz** : déposez les nouilles de riz dans une grande casserole d'eau bouillante et faites cuire 1 à 2 minutes (selon les indications du paquet). Passez les nouilles sous un filet d'eau froide afin de stopper la cuisson et égouttez-les.
+
+## Noms ingrédients
+
+---
+
+# Nouilles Zha Jiang
+
+## Catégorie
+
+Asiatique. Non testé. Végé
+
+## Commentaire
+
+Recette chinoise. Ce plat de nouilles, originaire de Pékin, est aussi très populaire en Corée sous le nom de Jajangmyeon. Vous pouvez utiliser d'autres légumes crus de votre choix à condition qu'ils soient croquants : ce sont ceux qui s'accordent le mieux avec ce plat.
+
+Préparation : 40 min | Cuisson : 10 min
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 250 g de nouilles chinoises sèches sans œufs
+- 2 carottes moyennes
+- 2 petits concombres
+- Quelques fèves de soja poilu (edamame)
+- 1 ciboule
+- 10 g de gingembre frais
+- 60 g de pâte de soja ou de sauce hoisin
+- 16 cl d'eau
+- 4 cuil. à soupe d'huile de tournesol
+- 1 cuil. à café rase de sucre semoule
+
+## Déroulé de la recette
+
+1. Dans un bol, délayez la pâte de soja avec l'eau.
+2. Pelez et hachez le gingembre. Lavez et hachez la ciboule.
+3. Dans un wok, faites chauffer l'huile à feu moyen. Ajoutez le gingembre ainsi que la ciboule et faites-les revenir 1 minute. Versez la pâte de soja délayée et laissez le tout frémir 8 minutes en mélangeant fréquemment. Ajoutez le sucre et continuez la cuisson 2 minutes : lorsque la pâte de soja et l'huile se séparent, la sauce est prête. Réservez.
+4. Faites cuire les nouilles dans une grande casserole d'eau bouillante selon les indications du paquet. Rincez-les sous l'eau froide et égouttez-les.
+5. Pendant la cuisson des nouilles, pelez les carottes et les concombres puis coupez-les en julienne.
+6. Répartissez les nouilles dans 4 grands bols. Ajoutez 1 à 2 cuil. à café de pâte de soja cuite puis déposez les juliennes de légumes et les fèves de soja. Pour déguster, mélangez le tout avec une paire de baguettes.
+
+## Noms ingrédients
+
+carottes. concombres. édamamé. oignons nouveaux. gingembre
+---
+
+# Pad thaï
+
+## Catégorie
+
+Asiatique. Non testé. Poisson
+
+## Commentaire
+
+Recette thaïlandaise. Dégustez aussitôt avec les quartiers de citron.
+
+Repos : 15 min | Marinade : 30 min | Préparation : 10 min | Cuisson : 15 min
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 200 g de queues de crevettes crues
+- 50 g de petites crevettes séchées
+- 400 g de pâtes de riz larges et plates fraîches
+- 200 g de germes de soja
+- 1 citron vert
+- 3 brins de ciboulette
+- 2 gousses d'ail
+- 10 g de gingembre frais
+- 2 cuil. à soupe de cacahuètes sans peau, torréfiées, hachées
+- 1 cuil. à soupe de pâte de tamarin
+- 3 cuil. à soupe d'huile de tournesol
+- 1 cuil. à soupe d'huile de coco
+
+**Pour la marinade**
+- 2 cuil. à café de pâte de crevettes
+- 1 cuil. à soupe de sauce de poisson (nuoc-mâm)
+- ½ cuil. à soupe de sauce de soja claire
+- 1 cuil. à soupe de sucre de palme
+
+## Déroulé de la recette
+
+1. Faites tremper la pâte de tamarin dans 5 cl d'eau chaude pendant 15 minutes, puis malaxez la pulpe et filtrez le jus. Décortiquez les crevettes en gardant leurs derniers anneaux. Incisez le dos, puis enlevez les éventuels filaments noirs. Rincez les crevettes sous l'eau froide et égouttez.
+2. Dans un saladier, mettez tous les ingrédients de la marinade ainsi que les crevettes, puis mélangez bien. Laissez mariner 30 minutes au frais.
+3. Coupez la ciboulette en tronçons de 3 cm. Pelez et hachez finement l'ail et le gingembre. Coupez le citron en quartiers. Faites tremper les pâtes de riz pendant 5 minutes dans un saladier d'eau bien chaude. Sortez-les de l'eau et passez-les sous l'eau froide avant de les égoutter.
+4. Dans un wok, faites chauffer une cuil. à soupe d'huile de tournesol. À feu vif, faites revenir les crevettes séchées pendant 1 minute, puis ajoutez les crevettes marinées avec la marinade. Faites revenir rapidement pendant 3 minutes. Retirez les crevettes et la sauce du wok. Gardez-les au chaud.
+5. Faites chauffer une cuil. à soupe d'huile de tournesol dans le wok, puis faites-y parfumer la moitié de l'ail et du gingembre. À feu vif, ajoutez les germes de soja et faites sauter 1 minute. Retirez et gardez au chaud.
+6. Dans le wok, ajoutez une cuil. à soupe d'huile de tournesol ainsi qu'une autre d'huile de coco et faites parfumer le reste de l'ail et du gingembre. Ajoutez les pâtes de riz et faites sauter pendant 2 minutes, toujours à feu vif. Ajoutez les crevettes et leur sauce, les germes de soja, la ciboulette et 2 cuil. à soupe de jus de tamarin. Faites sauter à feu vif pendant 1 minute environ jusqu'à ce que la pâte ait bien absorbé la sauce.
+7. Répartissez le pad thaï dans des assiettes. Parsemez de cacahuètes. Dégustez aussitôt avec les quartiers de citron.
+
+## Noms ingrédients
+
+crevettes. crevettes séchées. pousses de soja. citrons verts. ciboulette. ail. gingembre. cacahuètes. tamarin
+---
+
+# Nouilles aux légumes et au bœuf
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Recette coréenne (Japchae). Une valeur sûre de la cuisine coréenne, un plat aimé unanimement en Corée et dans le monde. Vous pouvez varier les légumes et cuisiner sans viande.
+
+Préparation : 30 min | Marinade : 10 min | Trempage : 30 min | Cuisson : 20 min
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 100 g de nouilles de fécule de patate douce (dang-myeon)
+- 60 g de culotte de bœuf
+- 100 g d'épinards
+- 60 g de shiitakés frais ou réhydratés
+- 1 petite carotte
+- 1 petit poivron rouge ou jaune
+- 1 petit oignon
+- ½ cuil. à café d'ail haché
+- 2 cuil. à café de sucre
+- 2 cuil. à soupe de sauce soja
+- 2 cuil. à soupe d'huile de sésame grillé
+- Huile végétale
+- Filaments de piment (facultatif)
+- Sel, poivre
+
+**Assaisonnement de la viande**
+- ½ cuil. à café d'ail haché
+- 1 cuil. à café de sésame grillé écrasé
+- 1 cuil. à café de sucre
+- 2 cuil. à café de sauce soja
+- 1 cuil. à café d'huile de sésame grillé
+- Sel, poivre
+
+## Déroulé de la recette
+
+1. Faites tremper les nouilles dans 1 litre d'eau tiède pendant 30 minutes. Coupez la viande en allumettes et mélangez-la avec les ingrédients de l'assaisonnement de la viande. Réservez.
+2. Lavez les épinards. Faites-les blanchir environ 2 minutes dans 1,5 litre d'eau bouillante avec 1 cuil. à café de sel, puis rincez-les brièvement à l'eau froide. Évacuez l'eau en les pressant fermement entre vos mains. Coupez-les en lanières de 7 à 10 cm de longueur et réservez.
+3. Émincez les champignons et l'oignon, coupez la carotte et le poivron en bâtonnets de 4 mm d'épaisseur sur 6 cm de longueur. Faites chauffer une poêle sur feu moyen, versez 2 cuil. à café d'huile et commencez par faire cuire l'oignon 1 minute. Salez, poivrez et réservez. Faites cuire de la même manière la carotte (1 minute), le poivron (2 minutes) et les champignons (2 minutes). Réservez.
+4. Faites cuire la viande pendant 20 secondes à feu vif dans la même poêle. Égouttez les nouilles, découpez-les en tronçons de 20 cm de longueur. Dans une casserole, faites bouillir 200 ml d'eau avec 2 cuil. à soupe de sauce soja, 1 cuil. à soupe d'huile de sésame et 2 cuil. à café de sucre. Versez les nouilles et faites-les cuire à feu moyen en remuant souvent jusqu'à totale absorption de l'eau. Éteignez le feu, incorporez les légumes et la viande et mélangez le tout délicatement. Saupoudrez de graines de sésame et décorez avec des filaments de piment si vous le souhaitez.
+
+## Noms ingrédients
+
+bœuf. épinards. champignons shiitaké. carottes. poivron. oignons
+---
+
+# Nouilles aux raviolis
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Recette vietnamienne (Mì hoành thánh). Le paleron de bœuf qui a servi au bouillon fera une excellente garniture pour une bolognaise ou un hachis !
+
+Préparation : 20 min | Trempage : 20 min | Cuisson : 1 h 30
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 200 g de paleron de bœuf coupé en dés
+- 1 os à moelle
+- 1 kg de crevettes crues
+- 400 g de nouilles de blé
+- 150 g de champignons noirs séchés
+- 1 paquet de pâtes à ravioles chinoises
+- 10 cuil. à soupe de sauce nuoc-mâm
+- 40 g de germes de soja
+- 2 oignons pelés
+- 1 œuf
+- 1 botte de coriandre
+- 1 botte de ciboule
+- 1 badiane
+- 1 bâton de cannelle
+
+## Déroulé de la recette
+
+1. Piquez 1 oignon avec une fourchette et faites-le noircir au-dessus d'une flamme.
+2. Dans une marmite, versez 2 litres d'eau. Ajoutez le paleron de bœuf, l'os à moelle, la badiane, l'oignon grillé et la cannelle. Faites cuire 1 heure à feu doux en écumant régulièrement. Éteignez le feu, filtrez le bouillon et versez-le dans une casserole. Réservez.
+3. Faites tremper les champignons noirs dans de l'eau tiède pendant 20 minutes. Égouttez-les et émincez-les.
+4. Mixez les crevettes décortiquées avec l'autre oignon, les champignons, les ciboules et la sauce nuoc-mâm.
+5. Fouettez l'œuf avec une fourchette. Disposez 1 feuille de raviole dans la paume de votre main puis badigeonnez les bords avec l'œuf battu à l'aide d'un pinceau. Placez au milieu 1 cuil. à soupe de farce aux crevettes. Repliez la raviole en triangle et pincez-la afin de bien souder les bords. Confectionnez ainsi les autres ravioles.
+6. Dans une casserole d'eau bouillante, plongez les ravioles : elles sont cuites dès qu'elles remontent à la surface. Récupérez-les à l'aide d'une araignée.
+7. Faites cuire les nouilles dans une grande casserole d'eau bouillante pendant 5 minutes. Passez-les sous un filet d'eau froide et égouttez-les.
+8. Faites réchauffer le bouillon jusqu'à ébullition. Servez avec les nouilles et les ravioles. Parsemez de coriandre effeuillée et de germes de soja.
+
+## Noms ingrédients
+
+bœuf. moelle de bœuf. crevettes. champignons. pousses de soja. oignons. œuf. coriandre. oignons nouveaux
+---
+
+# Nouilles pékinoises
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Recette chinoise (Zha jiang).
+
+Préparation : 15 min | Repos : 15 min | Cuisson : 15 min
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 300 g de nouilles chinoises sans œufs
+- 300 g de poitrine de porc hachée
+- 50 g de petites crevettes séchées
+- 200 g de carottes
+- 200 g de germes de soja
+- ½ concombre
+- ⅓ de poireau (le blanc)
+- 4 gousses d'ail
+- 5 g de gingembre
+- 50 g de pâte de soja
+- 1 cuil. à café de farine de maïs
+- 1 cuil. à soupe de vin jaune chinois
+- ½ cuil. à soupe de sauce de soja noire
+- 2 cuil. à soupe de vinaigre de riz noir
+- 1 cuil. à soupe d'huile végétale
+- ½ cuil. à café de sucre semoule
+- Sel
+
+## Déroulé de la recette
+
+1. Dans un bol, mélangez la poitrine hachée, la farine de maïs, le sucre, le vin jaune et la sauce de soja, puis laissez mariner 15 minutes. Dans un autre bol, mélangez la pâte de soja avec 15 cl d'eau froide.
+2. Hachez les petites crevettes, le gingembre et l'ail séparément. Coupez les carottes et le concombre en julienne et le poireau en petits morceaux.
+3. Dans une casserole d'eau bouillante, plongez rapidement les germes de soja, puis passez-les sous l'eau froide. Égouttez et réservez.
+4. Dans un wok, préchauffez l'huile. Faites-y parfumer le gingembre et le poireau. Incorporez la poitrine marinée et les petites crevettes hachées, puis faites revenir 3 minutes environ à feu vif. Ajoutez la pâte de soja délayée et laissez mijoter 7 minutes environ à feu doux avec un couvercle. Remuez de temps en temps. En fin de cuisson, la sauce doit avoir épaissi. Sinon, augmentez le feu pour que la sauce soit sirupeuse. Salez selon votre goût. Retirez du wok et réservez.
+5. Dans une casserole, faites cuire les nouilles d'après les indications figurant sur l'emballage.
+6. Pour servir : dans un bol, disposez un peu de nouilles, puis ajoutez un peu de chacun des ingrédients (carotte, concombre, germes de soja, ail haché, mélange porc-crevettes, vinaigre) par-dessus. Mélangez et servez aussitôt.
+
+## Noms ingrédients
+
+poitrine de porc. crevettes séchées. carottes. pousses de soja. concombres. poireau. ail. gingembre
+---
+
+# Nouilles sautées au bœuf
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Recette vietnamienne (Mì xào thịt bò).
+
+Préparation : 10 min | Cuisson : 10 min
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 200 g de nouilles de blé
+- 400 g de bavette de bœuf
+- 1 oignon
+- 1 gousse d'ail
+- 2 tiges de ciboule
+- 2 cuil. à soupe de sauce soja
+
+## Déroulé de la recette
+
+1. Faites cuire les nouilles dans une grande casserole d'eau bouillante pendant 3 à 5 minutes (selon les indications du paquet). Passez-les sous un filet d'eau froide et égouttez-les.
+2. Coupez la bavette en fines lamelles. Épluchez et émincez l'oignon et l'ail. Ciselez la ciboule.
+3. Dans une poêle, faites chauffer un filet d'huile de tournesol puis faites dorer l'oignon et l'ail. Ajoutez la viande puis les sauces nuoc-mâm et soja. Faites revenir 3 minutes à feu vif. Salez et poivrez généreusement.
+4. Ajoutez les nouilles dans la poêle et faites sauter encore 3 minutes. Dressez et parsemez de ciboule.
+
+## Noms ingrédients
+
+bœuf. oignons. ail. oignons nouveaux
+---
+
+# Nouilles sautées aux crevettes
+
+## Catégorie
+
+Asiatique. Non testé. Poisson
+
+## Commentaire
+
+Recette vietnamienne (Mì xào tôm).
+
+Préparation : 10 min | Cuisson : 10 min
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 200 g de nouilles de riz
+- 400 g de crevettes crues
+- 1 oignon haché
+- 2 gousses d'ail hachées
+- 4 brins d'aneth ciselés
+- 1 cuil. à soupe de poudre de saté
+- 2 cuil. à soupe de sauce nuoc-mâm
+- Huile de tournesol
+
+## Déroulé de la recette
+
+1. Faites cuire les nouilles dans une grande casserole d'eau bouillante pendant 1 à 2 minutes (selon les indications du paquet). Passez-les ensuite sous un filet d'eau froide puis égouttez-les.
+2. Décortiquez les crevettes.
+3. Dans une poêle, faites dorer l'oignon et l'ail avec un filet d'huile de tournesol à feu vif. Ajoutez les crevettes avec la sauce nuoc-mâm et le saté puis faites sauter 3 minutes. Ajoutez les nouilles de riz et faites encore sauter 3 minutes.
+4. Dressez et parsemez d'aneth.
+
+## Noms ingrédients
+
+crevettes. oignons. ail. aneth
+---
+
+# Curry thaï
+
+## Catégorie
+
+Asiatique. Non testé. Végé
+
+## Commentaire
+
+Recette thaïlandaise. Il existe plusieurs variétés de pâte de curry thaï : le curry vert est légèrement plus pimenté que le curry rouge, plus aromatique. Servez accompagné de riz gluant.
+
+Préparation : 25 min | Trempage : 1 nuit | Cuisson : 45 min
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 200 g de riz thaï gluant
+- 160 g de tofu ferme
+- 1 oignon rouge
+- 1 courgette
+- 5 mini-maïs (ou 4 cuil. à soupe de grains de maïs cuits)
+- 1 poignée de pois mange-tout
+- 1 tige de citronnelle
+- Le jus de 1 citron vert
+- 4 feuilles de citronnier ou le zeste de 1 citron vert râpé
+- Quelques brins de basilic thaï (ou de basilic)
+- 1 cuil. à soupe de pâte de curry rouge
+- 60 cl de lait de coco
+- 1 cuil. à soupe de sauce soja
+- 1 cuil. à café d'huile de coco (ou de tournesol)
+- 1 ½ cuil. à café de sel
+- 1 cuil. à soupe de sucre semoule
+
+## Déroulé de la recette
+
+1. La veille, mettez le riz gluant à tremper dans un grand volume d'eau froide pour la nuit.
+2. Le jour même, rincez le riz et égouttez-le. Déposez-le dans une gaze, puis dans le panier d'un cuit-vapeur. Fermez complètement la gaze sur le riz, couvrez et faites cuire à la vapeur pendant 30 minutes. Laissez reposer 5 minutes.
+3. Égouttez le tofu et coupez-le en cubes. Épluchez et émincez l'oignon. Coupez la courgette en rondelles. Coupez les mini-maïs en quatre et les pois mange-tout en deux. Ôtez les premières feuilles de la citronnelle et écrasez la tige.
+4. Faites chauffer l'huile de coco dans un wok, puis faites revenir la pâte de curry 1 minute à feu vif. Ajoutez le tofu, l'oignon, les feuilles de citronnier, la citronnelle, le sucre et le sel. Mélangez et faites sauter le tout 2 ou 3 minutes.
+5. Versez le lait de coco et la sauce soja. Incorporez ensuite la courgette, les mini-maïs et les pois mange-tout. Portez à ébullition puis laissez mijoter 10 minutes à feu doux.
+6. Retirez le wok du feu, ajoutez le basilic thaï et mélangez. Assaisonnez de jus de citron vert et servez accompagné du riz gluant.
+
+## Noms ingrédients
+
+tofu ferme. oignons rouges. courgettes. épis de maïs. pois mange-tout. citronnelle. citrons verts. feuilles de kaffir. basilic. noix de coco
+---
+
+# Trois délices de la terre
+
+## Catégorie
+
+Asiatique. Non testé. Végé
+
+## Commentaire
+
+Recette chinoise.
+
+Préparation : 20 min | Repos : 1 heure | Cuisson : 35 min
+
+## Ingrédients
+
+*Pour 4 petites portions*
+
+- 400 g d'aubergines chinoises
+- 2 petites pommes de terre
+- 1 poivron vert
+- 2 gousses d'ail
+- 1 ciboule ou oignon nouveau
+- ½ cuil. à café de fécule de pomme de terre
+- 2 ½ cuil. à soupe de sauce soja claire
+- 8 cl d'eau
+- 3 cuil. à soupe d'huile végétale
+- 1 cuil. à café de sucre semoule
+- Sel
+
+## Déroulé de la recette
+
+1. Lavez les aubergines et coupez-les en lamelles (sans les éplucher). Faites-les dégorger dans une grande passoire, saupoudrées de sel, pendant 1 heure.
+2. Épluchez les pommes de terre. Coupez-les ainsi que le poivron en lamelles de la même taille que les aubergines. Rincez les pommes de terre sous l'eau claire.
+3. Pelez et hachez l'ail. Lavez et hachez la ciboule.
+4. Pressez les aubergines avec les mains pour extraire le maximum de jus.
+5. Faites chauffer 1 cuil. à soupe d'huile dans un wok à feu moyen. Ajoutez les pommes de terre et faites-les dorer doucement pendant 5 minutes environ. Déposez le poivron et continuez la cuisson 2 minutes. Débarrassez le tout sur une assiette.
+6. Faites chauffer le reste d'huile dans le wok puis faites cuire les aubergines 20 minutes environ à feu moyen jusqu'à ce qu'elles soient tendres, en remuant de temps en temps. Ajoutez 1 cuil. à soupe de sauce soja, les pommes de terre et le poivron, l'ail et la ciboule. Mélangez le tout. Versez ensuite le reste de sauce soja et le sucre. Mélangez à nouveau et laissez cuire 3 minutes.
+7. Dans un bol, diluez la fécule avec l'eau. Augmentez le feu au maximum sous le wok. Versez la fécule délayée et remuez vivement : la sauce épaissit en quelques secondes. Arrêtez la cuisson et servez.
+
+## Noms ingrédients
+
+aubergines. pomme de terre. poivron vert. ail. oignons nouveaux
+---
+
+# Liserons d'eau sautés
+
+## Catégorie
+
+Asiatique. Non testé. Végé
+
+## Commentaire
+
+Recette laotienne (Khoua phak bong). Le liseron d'eau, ou épinard aquatique, est une plante très commune en Asie, reconnaissable à ses fines feuilles allongées et à ses fleurs blanches en forme d'entonnoir au cœur violet. Délicieuse cueillie jeune et mangée crue en accompagnement de la salade de papaye verte, ou sautée.
+
+Préparation : 10 min | Cuisson : 10 min
+
+## Ingrédients
+
+*Pour 4 à 6 personnes*
+
+- 1 botte de liserons d'eau
+- 2 gousses d'ail
+- 1 cuil. à soupe de fécule de pomme de terre
+- 3 cuil. à soupe de sauce d'huître (ou de sauce soja salée à défaut)
+- 1 cuil. à soupe d'huile neutre
+- Sel, poivre
+
+## Déroulé de la recette
+
+1. Lavez les liserons d'eau et retirez la base des tiges, plus dures, sur environ 10-15 cm. Coupez ensuite les tiges en tronçons de 10 cm. Épluchez et émincez l'ail.
+2. Dans un wok, faites chauffer l'huile à feu vif, puis faites rissoler l'ail.
+3. Quand il commence à dorer, faites sauter les liserons d'eau avec la sauce d'huître.
+4. Dans un bol, délayez la fécule avec 3 cuil. à soupe d'eau. Quand tous les liserons ont « fondu » dans le wok, ajoutez la fécule délayée.
+5. Laissez épaissir la sauce, puis rectifiez l'assaisonnement en sel et poivre.
+6. Servez immédiatement, parsemé de piment frais en rondelles si vous le souhaitez.
+
+## Noms ingrédients
+
+ail
+---
+
+# Gado gado
+
+## Catégorie
+
+Asiatique. Non testé. Végé
+
+## Commentaire
+
+Recette indonésienne. C'est un grand classique de la cuisine indonésienne. On le déguste dans tout le pays avec la célèbre sauce aux cacahuètes (sauce satay), qui se prépare à part.
+
+Préparation : 20 min | Cuisson : 25 min
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 300 g de riz basmati ou de riz thaï cuit
+- 2 œufs
+- 150 g de germes de soja
+- 150 g de pois gourmands
+- 100 g de tofu frit (tout prêt en sachet)
+- 100 g de haricots verts
+- 12 asperges vertes
+- 2 tomates
+- ½ concombre
+- 3 échalotes
+- 50 g de chips de crevettes
+- 20 cl d'huile pour friture
+- Sel
+- Sauce satay
+
+## Déroulé de la recette
+
+1. Préparez la sauce satay.
+2. Faites cuire les œufs 10 minutes dans une casserole d'eau bouillante, puis retirez-les de la casserole et faites refroidir dans de l'eau froide. Écalez-les et coupez-les en deux.
+3. Pelez et hachez les échalotes. Faites chauffer l'huile dans un wok puis faites-y frire les échalotes 2 à 3 minutes à feu vif jusqu'à ce qu'elles soient bien croustillantes et dorées. Retirez-les du wok avec une écumoire et égouttez-les sur du papier absorbant.
+4. Coupez les tomates en quartiers, le concombre en quatre dans la longueur puis en biais, le tofu frit en lamelles, les haricots et les asperges en tronçons de 3 cm de long. Ôtez à la main les extrémités des pois gourmands et le fil central éventuel.
+5. Portez 1 litre d'eau salée à ébullition dans une cocotte. Chacun leur tour, à feu vif et sans couvercle, faites cuire légèrement les légumes suivants : les haricots verts et les asperges pendant 2 minutes, les germes de soja et les pois gourmands pendant 1 minute. Plongez ensuite aussitôt les légumes dans de l'eau froide pour stopper la cuisson et garder leur couleur verte et leur croquant. Égouttez et disposez sur du papier absorbant.
+6. Répartissez le riz au centre de 4 assiettes, puis parsemez les échalotes frites par-dessus. Tout autour du riz, disposez le reste des ingrédients. Dégustez avec la sauce satay.
+
+## Noms ingrédients
+
+œuf. pousses de soja. pois gourmands. tofu. haricots verts. asperges. tomate. concombres. échalotes. cacahuètes
+---
+
+# Kimchi de chou chinois pimenté
+
+## Catégorie
+
+Asiatique. Non testé. Végé
+
+## Commentaire
+
+Recette coréenne (Baechu kimchi). C'est le kimchi le plus consommé en Corée et le plus connu dans le monde ! Le remplissage final du bocal ne doit pas dépasser 80 %. Le kimchi pourra être dégusté au bout de 1 semaine, mais sera meilleur au bout de 2 à 3 semaines.
+
+Préparation : 15 min | Marinade : entre 2 et 4 heures | Fermentation et conservation : de 1 semaine à plusieurs mois
+
+## Ingrédients
+
+*Pour 1 bocal de 1 litre*
+
+- 700 g de chou chinois
+- 120 g de radis blanc asiatique épluché
+- 1 litre d'eau
+- 170 g de sel de mer
+
+**Assaisonnement**
+- 30 g de ciboule
+- 1 grosse gousse d'ail hachée
+- 15 à 25 g de gochugaru (flocons de piment coréen)
+- ½ cuil. à café de gingembre
+- 1 cuil. à soupe de sauce de poisson fermenté
+- 2 cuil. à café de sucre
+
+## Déroulé de la recette
+
+1. **Découpage** : à l'exception d'une petite feuille que vous laisserez entière, coupez le reste du chou en morceaux de 3 ou 4 cm, et le radis en tronçons de 5 mm d'épaisseur. Coupez la ciboule en morceaux de 3 cm (si la ciboule est large, fendez-la en deux).
+2. **Salage** : dans un bac, faites fondre 150 g de sel dans l'eau. Versez le chou, y compris la feuille entière réservée, et laissez-le pendant 2 à 4 heures en remuant de temps en temps. Le chou va progressivement s'immerger. Dans un bol, mélangez le radis avec 20 g de sel, laissez-le reposer 20 minutes, puis laissez-le s'égoutter pendant 10 minutes dans une passoire. Pendant le salage, prenez un morceau bien charnu de côte de chou et essayez de le courber. S'il est souple, rincez 3 fois le chou à l'eau claire, puis placez-le dans une passoire et laissez-le s'égoutter pendant 10 minutes. Dans un grand bol, mélangez tous les ingrédients de l'assaisonnement. Versez-y le chou et le radis et mélangez délicatement à la main.
+3. **Remplissage** : remplissez le bocal petit à petit avec les légumes tout en appuyant dessus pour chasser l'air. Finissez en les couvrant avec la feuille gardée entière. S'il reste du jus dans le bol, versez-le sur le kimchi. Fermez le bocal.
+4. **Fermentation** : laissez fermenter pendant 2 jours à température ambiante, puis placez au réfrigérateur.
+
+## Noms ingrédients
+
+chou chinois. daïkon. oignons nouveaux. ail. gingembre
+---
+
+# Wok de légumes
+
+## Catégorie
+
+Asiatique. Non testé. Végé
+
+## Commentaire
+
+Recette thaïlandaise. Pour plus de saveur, vous pouvez ajouter un peu de sauce soja pendant la cuisson.
+
+Préparation : 5 min | Cuisson : 10 min
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 6 champignons de Paris ou shiitakés
+- 2 carottes
+- ½ chou chinois ou chou blanc
+- Quelques brins de coriandre
+- 4 ou 5 cuil. à soupe de sauce thaïe au piment et à l'ail (garlic chilli sauce)
+
+## Déroulé de la recette
+
+1. Coupez les champignons en 4 et les carottes en fins bâtonnets. Émincez le chou en lanières.
+2. Faites chauffer 1 filet d'huile végétale dans un wok. Ajoutez les carottes et faites-les cuire 1 ou 2 minutes à feu vif, en remuant vivement. Ajoutez le chou et mélangez encore 1 ou 2 minutes, puis ajoutez les champignons et la sauce thaïe. Remuez et laissez cuire encore 3 ou 4 minutes.
+3. Parsemez le wok de coriandre fraîche ciselée et servez.
+
+## Noms ingrédients
+
+champignons de Paris. carottes. chou chinois. coriandre
+---
+
+# Aubergines sautées à la sauce soja
+
+## Catégorie
+
+Asiatique. Non testé. Végé
+
+## Commentaire
+
+Recette chinoise. Dégustez les aubergines avec du riz nature ou en accompagnement d'un autre plat. À défaut d'aubergines chinoises, utilisez des aubergines normales, mais il faudra les éplucher.
+
+Préparation : 5 min | Repos : 1 heure | Cuisson : 35 min
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 500 g d'aubergines chinoises
+- 1 ciboule ou oignon nouveau
+- 2 gousses d'ail
+- 1 fleur d'anis étoilé
+- 2 ½ cuil. à soupe de sauce soja claire
+- 3 cuil. à soupe d'huile de tournesol
+- 1 cuil. à café de sucre semoule
+- Sel
+
+## Déroulé de la recette
+
+1. Lavez les aubergines et coupez-les en lamelles de 6 cm de long environ (sans les éplucher). Faites-les dégorger dans une passoire, saupoudrées de sel, pendant 1 heure.
+2. Lavez la ciboule et coupez-la en rondelles. Pelez et hachez l'ail.
+3. Pressez les aubergines avec les mains pour extraire le maximum de jus.
+4. Faites chauffer l'huile de tournesol dans un wok à feu moyen. Déposez l'anis étoilé et les aubergines puis mélangez pour qu'elles soient bien enrobées. Laissez cuire à feu doux pendant 30 minutes environ, en remuant de temps en temps, jusqu'à ce qu'elles soient tendres et un peu caramélisées.
+5. Ajoutez enfin le sucre, la sauce soja, la ciboule et l'ail. Continuez la cuisson 5 minutes à feu doux.
+
+## Noms ingrédients
+
+aubergines. oignons nouveaux. ail
+---
+
+# Œufs à la vapeur
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Recette vietnamienne (Trứng hấp). Pour tester la cuisson de l'omelette, plantez un couteau dedans : celui-ci doit en ressortir propre. Dégustez l'omelette, chaude ou froide, avec du riz.
+
+Préparation : 15 min | Trempage : 20 min | Cuisson : 30 min
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 8 œufs
+- 400 g de porc haché
+- 50 g de vermicelles de soja
+- 10 g de champignons noirs séchés
+- 1 botte de ciboule
+- 30 g de germes de soja
+- 2 cuil. à soupe de sauce nuoc-mâm
+- Sel, poivre
+
+## Déroulé de la recette
+
+1. Faites tremper les champignons noirs dans un bol d'eau tiède pendant 20 minutes. Égouttez-les et émincez-les.
+2. Faites tremper les vermicelles dans de l'eau chaude pendant 5 minutes. Égouttez-les puis coupez-les en tronçons de 2 cm à l'aide de ciseaux.
+3. Dans un cul-de-poule, mélangez le porc haché, les champignons, les vermicelles, les germes de soja et la sauce nuoc-mâm. Ajoutez les œufs et mélangez pour obtenir une texture homogène. Salez et poivrez.
+4. Déposez le cul-de-poule contenant la préparation au-dessus d'une grande casserole d'eau bouillante pour faire un bain-marie. Couvrez et laissez cuire 20 minutes.
+5. Effeuillez la ciboule et parsemez-la sur l'omelette avant de servir.
+
+## Noms ingrédients
+
+œuf. porc haché. haricots mungo. champignons. oignons nouveaux. pousses de soja
+---
+
+# Mangue et riz gluant au lait de coco
+
+## Catégorie
+
+Asiatique. Non testé. Dessert
+
+## Commentaire
+
+Recette thaïlandaise (Khao niew ma muang).
+
+Préparation : 15 min | Trempage : 2 h 10 à 1 nuit | Repos : 1 heure | Cuisson : 1 h 15
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 1 belle mangue bien mûre de 600 g
+- 200 g de riz gluant
+- 300 g de lait de coco
+- 2 cuil. à soupe de graines de sésame ou de cacahuètes non salées torréfiées (facultatif)
+- 120 g de sucre semoule
+- 2 pincées de sel
+
+## Déroulé de la recette
+
+1. Préparez le riz gluant : dans un saladier d'eau chaude, faites tremper le riz pendant 2 heures (ou, mieux, une nuit dans de l'eau froide). Rincez-le jusqu'à ce que l'eau soit claire puis égouttez pendant 10 minutes.
+2. Tapissez un panier en bambou de 20 cm de papier cuisson préalablement troué, étalez le riz gluant et faites cuire à la vapeur à feu moyen. À compter de l'ébullition, comptez 1 heure si le riz a trempé 2 heures et seulement 30 minutes s'il a trempé une nuit. Pendant la cuisson, remuez trois fois le riz pour qu'il cuise de manière homogène. Lorsque le riz est cuit, laissez reposer pendant 15 minutes dans le panier avec le couvercle.
+3. Mettez le lait de coco, le sucre et le sel dans une petite casserole. Portez à ébullition. Laissez frémir 3 minutes environ en remuant de temps en temps jusqu'à ce que le sucre soit complètement dissous.
+4. Transférez le riz dans un récipient et versez-y deux tiers du lait de coco préparé. Mélangez bien à l'aide d'une fourchette pour que les grains de riz se séparent. Couvrez et laissez refroidir pendant 1 heure environ jusqu'à ce que le riz ait complètement absorbé le lait.
+5. Pelez la mangue, puis coupez sa chair en lamelles ou en morceaux selon votre goût. Mouillez une petite coupelle du lait de coco restant, puis utilisez comme moule pour servir le riz.
+6. Dans des assiettes à dessert, répartissez la mangue et le riz au lait de coco moulé. Nappez du reste de lait de coco et parsemez de graines de sésame ou de cacahuètes. Dégustez aussitôt.
+
+## Noms ingrédients
+
+mangue. noix de coco
+---
+
+# Soupe sucrée de tapioca et de papaye
+
+## Catégorie
+
+Asiatique. Non testé. Dessert
+
+## Commentaire
+
+Recette laotienne et thaïlandaise.
+
+Préparation : 10 min | Cuisson : 1 h 10
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 200 g de lait de coco
+- 1 petite papaye mûre (d'environ 450 g)
+- 100 g de grosses billes de tapioca (de 8 mm de diamètre)
+- 50 g de sucre semoule
+
+## Déroulé de la recette
+
+1. Préparez les billes de tapioca : versez 2,5 litres d'eau dans une cocotte à fond épais et portez à ébullition. Ajoutez les billes de tapioca et, sur feu moyen à vif et à couvert, faites cuire pendant 1 heure environ jusqu'à ce qu'elles soient translucides. Raclez deux fois le fond de la cocotte pendant la cuisson pour qu'elles n'accrochent pas.
+2. Quand les billes de tapioca sont cuites, versez dans une passoire et passez deux fois sous l'eau froide avant de les plonger 5 minutes dans un saladier d'eau froide. Égouttez.
+3. Versez le sucre et 30 cl d'eau dans une casserole. Portez à ébullition et laissez frémir 5 minutes.
+4. Pendant ce temps, pelez la papaye et retirez les graines. Coupez la chair (environ 300 g) en petits cubes.
+5. Ajoutez les billes de tapioca et les cubes de papaye dans la casserole, puis portez à ébullition. Éteignez le feu, incorporez le lait de coco et mélangez.
+6. Répartissez la soupe sucrée dans 4 coupelles en verre ou 4 bols. Dégustez tiède ou frais.
+
+## Noms ingrédients
+
+tapioca. papaye. noix de coco
+---
+
+# Fruits au sel et au piment
+
+## Catégorie
+
+Asiatique. Non testé. Dessert
+
+## Commentaire
+
+Vietnam. Trái cây muối ớt. Pour découvrir et apprécier cette nouvelle manière de déguster des fruits, goûtez d'abord un morceau de pomme fraîche après l'avoir saupoudré avec un peu de sel. Si le goût vous plaît, vous risquez de ne plus pouvoir vous passer de sel au piment !
+
+Préparation : 10 min | Cuisson : 20 min
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- ½ ananas Victoria
+- 1 mangue
+- 1 piment rouge
+- 2 cuil. à soupe de sel
+
+## Déroulé de la recette
+
+1. Pelez la mangue et coupez-la en quadrillage.
+2. Pelez l'ananas en veillant à ôter les yeux puis détaillez-le en bâtonnets.
+3. Coupez grossièrement le piment. Dans un mortier, écrasez le piment avec le sel. Déposez-le dans un ramequin.
+4. Répartissez les fruits dans des coupelles. Dégustez en trempant les fruits dans le sel au piment.
+
+## Noms ingrédients
+
+ananas. mangue. piment rouge
+---
+
+# Dorayaki
+
+## Catégorie
+
+Asiatique. Non testé. Dessert
+
+## Commentaire
+
+Japon. Petits pancakes moelleux fourrés à la pâte de haricots rouges sucrée.
+
+Préparation : 10 min | Cuisson : 20 min
+
+## Ingrédients
+
+*Pour 6 dorayaki*
+
+- 320 g de pâte de haricots anko
+- 2 œufs
+- 140 g de farine
+- 1 cuil. à café de levure chimique
+- 1 cuil. à soupe de miel
+- 1 filet d'huile végétale
+- 70 g de sucre semoule
+- 1 pincée de sel
+
+## Déroulé de la recette
+
+1. Dans un saladier, mélangez les œufs, le sucre, le miel et la pincée de sel. Fouettez énergiquement l'ensemble pendant 2 minutes afin d'obtenir un mélange mousseux.
+2. Diluez la levure dans 1 cuil. à soupe d'eau, puis versez le mélange dans le saladier. Fouettez. Tamisez la farine et incorporez-la au mélange.
+3. Faites chauffer un filet d'huile dans une poêle. Versez une demi-louche de pâte dans la poêle. Étalez légèrement la pâte avec le dos de la louche pour obtenir un petit cercle. Laissez cuire à feu moyen et, dès que des bulles apparaissent, retournez le pancake. Laissez cuire environ 3 minutes. Réservez sous un linge propre.
+4. Étalez un peu de pâte anko sur un pancake. Recouvrez-le d'un deuxième pancake. Pressez légèrement. Faites de même jusqu'à épuisement de la pâte à pancake. Dégustez tiède ou conservez dans un film alimentaire.
+
+## Noms ingrédients
+
+œuf. miel
+---
+
+# Tartelettes aux œufs de Hong-Kong
+
+## Catégorie
+
+Asiatique. Non testé. Dessert
+
+## Commentaire
+
+Chine. Petites tartes à la crème aux œufs, spécialité emblématique de Hong-Kong.
+
+Préparation : 30 min | Cuisson : 20 min | Repos : 50 min
+
+## Ingrédients
+
+*Pour 30 tartelettes*
+
+**Pour la pâte sablée**
+- 200 g de farine
+- 1 œuf battu
+- 140 g de beurre à température ambiante
+- 1 cuil. à soupe de sucre semoule
+- 1 pincée de sel
+
+**Pour la pâte à l'eau**
+- 1 jaune d'œuf
+- 200 g de farine
+- 80 ml d'eau
+- 1 pincée de sel
+
+**Pour la crème aux œufs**
+- 3 œufs
+- 25 cl de lait
+- Quelques gouttes d'extrait de vanille
+- 100 g de sucre semoule
+
+## Déroulé de la recette
+
+1. Préparez la pâte sablée. Dans un saladier, mélangez la farine, le sucre et le sel. Coupez le beurre en dés. Incorporez-les au mélange en vous aidant d'une spatule. Ajoutez l'œuf battu. Mélangez et formez une boule. Enveloppez-la d'un film alimentaire. Réservez au réfrigérateur pendant 20 minutes.
+2. Préparez la pâte à l'eau en disposant tous les ingrédients dans le bol d'un mixeur. Mixez afin d'obtenir une pâte. Étalez-la entre deux films alimentaires. Déposez dessus la pâte sablée retirée de son film et étalez-la grossièrement avec la paume de la main. Rabattez les 2 côtés vers le centre et aplatissez la pâte à l'aide d'un rouleau à pâtisserie afin d'obtenir un rectangle. Tournez la pâte obtenue de 90° puis rabattez à nouveau les deux côtés vers le centre et aplatissez. Tournez encore la pâte de 90° et procédez de même en répétant 3 fois ce procédé. Enveloppez le rectangle de pâte obtenu dans un film alimentaire et réservez 30 minutes au réfrigérateur. Préchauffez le four à 200 °C (th. 6-7).
+3. Pendant ce temps, préparez la crème aux œufs. Versez le lait dans une casserole avec le sucre. Faites chauffer à feu doux pour dissoudre le sucre. Dans un saladier, battez les œufs. Versez le lait chaud en fouettant sans cesse. Filtrez la crème dans une passoire fine.
+4. Sortez la pâte du réfrigérateur. Étalez-la légèrement entre 2 films alimentaires. Découpez des cercles de 10 cm de diamètre et déposez-les dans des moules à tartelettes de 8 cm de diamètre beurrés (sauf s'ils sont en silicone). Répartissez la crème aux œufs dans les moules.
+5. Enfournez les tartelettes pour 20 minutes. À mi-cuisson, abaissez la température du four à 160 °C (th. 5-6) afin d'éviter que la crème ne gonfle. Dégustez tiède.
+
+## Noms ingrédients
+
+œuf
+---
+
+# Sakura mochi
+
+## Catégorie
+
+Asiatique. Non testé. Dessert
+
+## Commentaire
+
+Japon. Le sakura mochi est une sucrerie dégustée au printemps, pendant la période de floraison des cerisiers, « sakura » signifiant « cerisier » en japonais.
+
+Préparation : 15 min | Cuisson : 15 min | Repos : 1 h 30
+
+## Ingrédients
+
+*Pour environ 10 sakura mochi*
+
+- 250 g de pâte de haricots anko
+- 250 g de riz gluant
+- 35 cl d'eau
+- 10 feuilles de cerisier salées (à acheter en épicerie japonaise ou sur Internet)
+- 2 gouttes de colorant rouge
+- 2 cuil. à soupe de sucre semoule
+
+## Déroulé de la recette
+
+1. Rincez le riz dans plusieurs eaux jusqu'à ce que l'eau soit limpide. Égouttez-le et déposez-le dans une casserole avec le sucre, le colorant et l'eau. Laissez tremper pendant 1 heure.
+2. Couvrez la casserole, portez à ébullition puis laissez cuire pendant 12 minutes à feu doux. Retirez la casserole du feu et laissez reposer pendant 15 minutes à couvert.
+3. Pendant ce temps, formez 10 boulettes de pâte anko. Réservez-les au réfrigérateur.
+4. Faites tremper les feuilles de cerisier dans un saladier d'eau pendant 15 minutes afin de les dessaler. Égouttez et essuyez délicatement avec du papier absorbant.
+5. Débarrassez le riz cuit dans un mortier et écrasez-le grossièrement pour former une pâte.
+6. Déposez 1 grosse cuil. à soupe de riz sur un film alimentaire. À l'aide de vos doigts humidifiés (pour éviter au riz de coller), étalez légèrement le riz. Disposez au centre une boulette de pâte anko et refermez le mochi à l'aide du film alimentaire.
+7. Retirez le film alimentaire et enveloppez le mochi dans une feuille de cerisier.
+8. Astuce : si vous ne trouvez pas de feuilles de cerisier salées, ajoutez 1 pincée de sel dans l'eau de cuisson du riz pour avoir un petit côté salé, caractéristique de cette recette.
+
+## Noms ingrédients
+
+---
+
+# Flan coco
+
+## Catégorie
+
+Asiatique. Non testé. Dessert
+
+## Commentaire
+
+Vietnam. Bánh gan. Ce flan est encore meilleur si vous le laissez reposer une nuit au réfrigérateur avant de le déguster.
+
+Préparation : 15 min | Cuisson : 1 heure
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 6 œufs
+- 40 cl de lait de coco
+- 3 étoiles de badiane
+- 2 pincées de bicarbonate de soude
+- 220 g de sucre de canne
+
+## Déroulé de la recette
+
+1. Préchauffez le four à 180 °C (th. 6) avec, sur la grille, un moule à gâteau déposé dans un plat au bain-marie.
+2. Dans une casserole, faites chauffer à feu doux le lait de coco avec le sucre et la badiane pendant 10 minutes. Retirez la badiane.
+3. Dans un cul-de-poule, fouettez les œufs. Versez doucement le lait de coco. Ajoutez le bicarbonate de soude.
+4. Sortez le moule du four. Versez l'appareil à flan, enfournez et faites cuire pendant 1 heure.
+
+## Noms ingrédients
+
+œuf. noix de coco
+---
+
+# Perles de coco
+
+## Catégorie
+
+Asiatique. Non testé. Dessert
+
+## Commentaire
+
+Chine. Petites boules de pâte de riz gluant fourrées à la purée de haricots mungo et enrobées de noix de coco. Pour garder leur moelleux, enveloppez-les individuellement dans du film alimentaire et conservez-les 2 jours maximum à température ambiante.
+
+Préparation : 30 min | Cuisson : 35 min | Repos : 1 h 15
+
+## Ingrédients
+
+*Pour 12 perles de coco*
+
+**Pour la pâte**
+- 240 g de farine de riz gluant
+- 20 cl d'eau
+- 60 g de sucre semoule
+- 1 pincée de sel
+
+**Pour la purée de soja**
+- 150 g de haricots mungo jaunes décortiqués
+- 60 g de noix de coco râpée
+- 80 g de sucre semoule
+- 1 pincée de sel
+
+## Déroulé de la recette
+
+1. Préparez la purée de soja. Faites tremper les haricots mungo dans de l'eau chaude pendant 1 heure. Rincez, égouttez et faites-les cuire dans 3 fois leur volume d'eau pendant 25 minutes. Écumez à mi-cuisson. À la fin de la cuisson, laissez égoutter les haricots pendant 15 minutes.
+2. Dans une casserole, mélangez les haricots cuits avec le sucre, le sel et 20 g de noix de coco râpée ; réservez le reste de noix de coco pour la finition. Faites cuire sur feu doux pendant 5 minutes en remuant sans cesse avec une spatule afin de dessécher le mélange. Vous allez obtenir une consistance proche de la crème de marron. Laissez refroidir. Formez 10 boulettes.
+3. Dans un saladier, mélangez tous les ingrédients de la pâte. Formez 10 boules.
+4. Aplatissez chaque boule de pâte pour former un disque d'environ 5 cm de diamètre. Déposez sur chaque disque une boulette de pâte de soja. Refermez le disque.
+5. Dans une casserole, portez de l'eau à ébullition. Plongez une à une les boules formées, en procédant en plusieurs « fournées ». Laissez-les cuire quelques minutes. Lorsqu'elles remontent à la surface, laissez-les cuire encore 2 minutes. Égouttez les boules et déposez-les dans la noix de coco râpée réservée.
+6. Enrobez chaque boule de noix de coco. Dégustez tiède.
+
+## Noms ingrédients
+
+haricots mungo. noix de coco
+---
+
+# Galettes fourrées au sucre noir
+
+## Catégorie
+
+Asiatique. Non testé. Dessert
+
+## Commentaire
+
+Corée. Hotteok. Le hotteok est la street food la plus populaire de l'hiver. On adore le sirop coulant !
+
+Préparation : 20 min | Repos : 1 h 30 | Cuisson : 20 min
+
+## Ingrédients
+
+*Pour une dizaine de galettes de 8 cm*
+
+**Pour la pâte**
+- 200 g de farine de blé T55
+- 40 g de farine de riz gluant
+- 4 g de levure boulangère
+- 170 ml d'eau tiède + 25 ml pour la levure
+- Huile végétale
+- 2 cuil. à café de sucre
+- ½ cuil. à café de sel
+
+**Pour la farce**
+- 75 g de sucre muscovado
+- 15 g de cacahuètes grillées concassées finement
+- ½ à 1 cuil. à café de cannelle en poudre
+
+**Ustensile**
+- Presseur rond
+
+## Déroulé de la recette
+
+1. Délayez la levure dans 2 cuil. à soupe d'eau tiède et laissez 10 minutes au chaud pour l'activer.
+2. Tamisez les farines de blé et de riz. Dans un saladier, mélangez tous les ingrédients de la pâte et pétrissez jusqu'à l'obtention d'un appareil uniforme — c'est normal si la pâte est collante. Laissez lever la pâte à couvert au chaud.
+3. Dans un grand bol, mélangez tous les ingrédients de la farce et réservez.
+4. Quand le volume de la pâte a doublé, faites chauffer une poêle à feu doux et huilez-la généreusement.
+5. Enduisez également vos mains d'huile, prélevez une boule de pâte de la taille d'un œuf, posez-la au creux de votre main, creusez le milieu et mettez-y une bonne cuil. à soupe de farce. Tirez la pâte et soudez-la pour enfermer la farce. Déposez la boule dans la poêle, faites-la cuire 30 secondes, retournez-la et aplatissez-la avec un presseur. Poursuivez la cuisson pendant 2 ou 3 minutes, jusqu'à ce que la galette soit bien dorée. Vous pouvez la retourner plusieurs fois pendant la cuisson.
+
+## Noms ingrédients
+
+cacahuètes
+---
+
+# Asiatique Sauce - Sauce aigre-douce
+
+## Catégorie
+
+Asiatique. Non testé
+
+## Commentaire
+
+Préparation : 5 min. Cuisson : 5 min. Pour 20 cl de sauce.
+
+## Ingrédients
+
+- 1 cuil. à café de concentré de tomate
+- 10 cl de bouillon de volaille
+- 1 cuil. à café de sauce soja
+- 1 cuil. à café de sauce au piment
+- 1 petite gousse d'ail
+- 1 citron vert
+- ½ cuil. à café de fécule de maïs
+- 1 cuil. à café de vinaigre de riz
+- 1 cuil. à café de sucre semoule
+
+## Déroulé de la recette
+
+Pelez et hachez la gousse d'ail. Pressez le citron vert. Dans une casserole, déposez tous les ingrédients et faites chauffer la sauce 5 minutes à feu doux en fouettant.
+
+## Noms ingrédients
+
+ail. citrons verts. concentré de tomate. piment
+---
+
+# Asiatique Sauce - Sauce au gingembre
+
+## Catégorie
+
+Asiatique. Non testé
+
+## Commentaire
+
+Préparation : 5 min. Pour 20 cl de sauce.
+
+## Ingrédients
+
+- 20 g de gingembre frais
+- 2 gousses d'ail
+- 1 piment rouge
+- 10 cl de sauce nuoc-mâm
+- 10 cl de jus de citron vert
+- 1 cuil. à café de sucre semoule
+
+## Déroulé de la recette
+
+Pelez le gingembre et les gousses d'ail. Dans un mortier, écrasez au pilon les gousses d'ail, le gingembre et le piment avec le sucre, le nuoc-mâm et le jus de citron vert.
+
+## Noms ingrédients
+
+gingembre. ail. piment rouge. citrons verts
+---
+
+# Asiatique Sauce - Sauce aux cacahuètes
+
+## Catégorie
+
+Asiatique. Non testé
+
+## Commentaire
+
+Préparation : 5 min. Cuisson : 5 min. Pour 20 cl de sauce.
+
+## Ingrédients
+
+- 5 g de cacahuètes grillées salées
+- 2 gousses d'ail
+- Le jus de 1 citron vert
+- 2 cuil. à soupe de sauce hoisin
+- 1 cuil. à soupe de beurre de cacahuètes
+- 1 cuil. à soupe d'huile d'arachide
+
+## Déroulé de la recette
+
+Pelez et hachez les gousses d'ail. Concassez les cacahuètes. Dans une casserole, faites légèrement dorer l'ail avec l'huile d'arachide. Ajoutez la sauce hoisin et le beurre de cacahuètes. Mélangez et faites revenir à feu doux 5 minutes. Éteignez le feu et ajoutez le jus de citron vert. Parsemez de cacahuètes concassées.
+
+## Noms ingrédients
+
+cacahuètes. ail. citrons verts
+---
+
+# Asiatique Sauce - Sauce saté
+
+## Catégorie
+
+Asiatique. Non testé
+
+## Commentaire
+
+Préparation : 5 min. Cuisson : 5 min. Pour 20 cl de sauce.
+
+## Ingrédients
+
+- 1 cuil. à café de poudre de saté
+- 2 cuil. à café de sauce nuoc-mâm
+- 1 cuil. à café de sauce soja
+- 5 cl de bouillon de poulet
+- ½ oignon jaune
+- 10 cl d'eau
+- 1 cuil. à café d'huile d'arachide
+
+## Déroulé de la recette
+
+Pelez et ciselez l'oignon. Dans un wok, faites revenir l'oignon avec l'huile d'arachide jusqu'à ce qu'il soit doré. Ajoutez l'eau, le bouillon, la poudre de saté, les sauces soja et nuoc-mâm. Fouettez et laissez réduire 5 minutes à feu vif.
+
+## Noms ingrédients
+
+oignons
+---
+
+# Asiatique Sauce - Sauce au caramel
+
+## Catégorie
+
+Asiatique. Non testé
+
+## Commentaire
+
+Préparation : 5 min. Cuisson : 10 min. Pour 20 cl de sauce.
+
+## Ingrédients
+
+- 10 cl d'eau
+- 10 cl de jus de coco
+- 150 g de sucre semoule
+
+## Déroulé de la recette
+
+Dans une casserole, versez l'eau et le sucre puis faites caraméliser à feu moyen sans remuer. Dès que le caramel est légèrement brun, versez doucement le jus de coco et fouettez. Débarrassez immédiatement dans un bol.
+
+## Noms ingrédients
+
+noix de coco
+---
+
+# Asiatique Sauce - Sauce au tamarin
+
+## Catégorie
+
+Asiatique. Non testé
+
+## Commentaire
+
+Préparation : 5 min. Cuisson : 5 min. Pour 20 cl de sauce.
+
+## Ingrédients
+
+- 30 g de purée de tamarin
+- 3 cuil. à soupe de sauce nuoc-mâm
+- 1 gousse d'ail
+- 1 piment rouge
+- 2 cuil. à soupe de sucre semoule
+
+## Déroulé de la recette
+
+Pelez et hachez la gousse d'ail et le piment rouge. Dans une casserole, déposez tous les ingrédients et faites chauffer la sauce 5 minutes à feu doux en fouettant.
+
+## Noms ingrédients
+
+tamarin. ail. piment rouge
+---
+
+# Asiatique Sauce - Sauce barbecue
+
+## Catégorie
+
+Asiatique. Non testé
+
+## Commentaire
+
+Préparation : 5 min. Pour 20 cl de sauce.
+
+## Ingrédients
+
+- 3 cl de sauce hoisin
+- 1 cuil. à soupe de sauce soja
+- 1 cuil. à soupe d'eau
+- 5 g de cacahuètes salées grillées
+- 1 piment rouge
+- 1 cuil. à café de miel liquide
+- 1 cuil. à soupe d'huile de sésame
+
+## Déroulé de la recette
+
+Concassez les cacahuètes. Hachez le piment. Dans un bol, mélangez les cacahuètes et le piment avec le reste des ingrédients.
+
+## Noms ingrédients
+
+cacahuètes. miel. piment rouge
+---
+
+# Asiatique Sauce - Sauce nuoc-mâm diluée
+
+## Catégorie
+
+Asiatique. Non testé
+
+## Commentaire
+
+Préparation : 5 min. Pour 20 cl de sauce.
+
+## Ingrédients
+
+- 10 cl de sauce nuoc-mâm pure
+- 10 cl d'eau tiède
+- 1 cuil. à café de vinaigre de riz
+- Le jus de 2 citrons verts
+- 1 gousse d'ail
+- 15 g de sucre semoule
+
+## Déroulé de la recette
+
+Pelez et hachez la gousse d'ail. Dans un bol, mélangez l'eau, le jus de citron vert, le vinaigre de riz et le sucre jusqu'à ce que l'ensemble soit parfaitement homogène. Ajoutez la sauce nuoc-mâm pure et l'ail haché.
+
+## Noms ingrédients
+
+ail. citrons verts
+---
+
+# Asiatique Sauce - Goma daré
+
+## Catégorie
+
+Asiatique. Non testé
+
+## Commentaire
+
+Sauce japonaise à base de sésame, onctueuse et savoureuse, qui accompagne idéalement les nouilles froides, les légumes vapeur ou les salades. Elle se conserve au réfrigérateur pendant 2 semaines. Préparation : 5 min. Pour 25 cl de sauce.
+
+## Ingrédients
+
+- 120 g de purée de sésame (tahin)
+- 12 cl de bouillon dashi (ou de lait de soja)
+- 2 cuil. à soupe de vinaigre de riz
+- 4 cuil. à soupe de sauce soja
+
+## Déroulé de la recette
+
+Dans un bol, délayez la purée de sésame dans ¼ du bouillon. Versez petit à petit le reste de bouillon en remuant sans cesse comme pour monter une mayonnaise. Ajoutez ensuite la sauce soja et le vinaigre. Mélangez pour obtenir une sauce onctueuse.
+
+## Noms ingrédients
+
+purée de sésame. dashi
+---
+
+# Asiatique Sauce - Sauce miso
+
+## Catégorie
+
+Asiatique. Non testé
+
+## Commentaire
+
+Sauce japonaise simple et polyvalente, à utiliser en accompagnement de légumes grillés, de tofu ou de viande. Elle se conserve 2 semaines au réfrigérateur. Préparation : 5 min. Pour 15 cl de sauce.
+
+## Ingrédients
+
+- 30 g de miso
+- 2 cuil. à soupe de bouillon dashi (ou d'eau)
+- 1 cuil. à soupe de mirin
+- 1 cuil. à soupe de purée de sésame (tahin)
+
+## Déroulé de la recette
+
+Dans un bol, mélangez le miso avec le reste des ingrédients. Filtrez le tout.
+
+## Noms ingrédients
+
+purée de sésame. dashi
+---
+
+# Asiatique Sauce - Sauce ponzu
+
+## Catégorie
+
+Asiatique. Non testé
+
+## Commentaire
+
+Sauce japonaise citronnée, légèrement sucrée, aux notes iodées de la bonite et du kombu. Idéale en accompagnement de sashimis, de tofu ou de nouilles. Elle se conserve 2 semaines au réfrigérateur. Préparation : 5 min (+ infusion une nuit). Pour 25 cl de sauce.
+
+## Ingrédients
+
+- 1 petite poignée de bonite séchée (ou 1 shiitaké séché)
+- 5 cm de kombu séché
+- 4 cuil. à soupe de jus de citron
+- 4 cuil. à soupe de jus de mandarine
+- 4 cuil. à soupe de mirin
+- 12 cl de sauce soja
+
+## Déroulé de la recette
+
+La veille, déposez la bonite séchée et le kombu dans un bocal puis recouvrez de sauce soja. Fermez le bocal et laissez infuser toute une nuit au réfrigérateur. Le jour même, filtrez la sauce puis ajoutez le reste des ingrédients.
+
+## Noms ingrédients
+
+bonite séchée. kombu. mandarine. citron (jus)
+---
+
+# Asiatique Sauce - Sauce yakitori
+
+## Catégorie
+
+Asiatique. Non testé
+
+## Commentaire
+
+Sauce japonaise caramélisée indispensable pour les brochettes yakitori. Elle se conserve 1 semaine au réfrigérateur. Préparation : 5 min. Cuisson : 15 min. Pour 20 cl de sauce.
+
+## Ingrédients
+
+- 12 cl de saké
+- 5 cuil. à soupe de mirin
+- ½ cuil. à café de bouillon de poulet en poudre
+- 15 cl de sauce soja
+- 3 cuil. à soupe de sucre semoule
+
+## Déroulé de la recette
+
+Déposez tous les ingrédients dans une casserole. Portez à ébullition en remuant pour dissoudre le sucre et le bouillon, puis laissez mijoter 15 minutes environ à feu doux afin d'obtenir une consistance sirupeuse.
+
+## Noms ingrédients
+
+volaille
+---
+
+# Asiatique Sauce - Sauce tonkatsu
+
+## Catégorie
+
+Asiatique. Non testé
+
+## Commentaire
+
+Sauce japonaise épaisse et sucrée-acidulée, incontournable pour accompagner le tonkatsu (porc pané). Elle se conserve 2 semaines au réfrigérateur. Préparation : 5 min. Cuisson : 5 min. Pour 20 cl de sauce.
+
+## Ingrédients
+
+- 4 cuil. à soupe de compote de pommes
+- 1 cuil. à soupe de gingembre frais râpé
+- 1 gousse d'ail râpée
+- 4 cuil. à soupe de mirin
+- 4 cuil. à soupe de concentré de tomates
+- 1 cuil. à soupe de vinaigre de riz
+- 2 cuil. à soupe de sauce soja
+- 4 cuil. à soupe de sucre semoule
+
+## Déroulé de la recette
+
+Déposez tous les ingrédients dans une casserole. Portez à ébullition en remuant pour dissoudre le sucre, puis laissez mijoter 5 minutes environ à feu doux afin d'obtenir une consistance sirupeuse.
+
+## Noms ingrédients
+
+gingembre. ail. concentré de tomate. pomme
+---
+
+# Asiatique Sauce - Sauce teriyaki
+
+## Catégorie
+
+Asiatique. Non testé
+
+## Commentaire
+
+La sauce teriyaki est un classique de la cuisine japonaise. Elle laque à merveille les viandes, poissons et légumes. Elle se conserve 2 semaines au réfrigérateur. Préparation : 2 min. Cuisson : 5 min. Pour 30 cl de sauce.
+
+## Ingrédients
+
+- 20 cl de sauce soja
+- 15 cl de mirin
+- 4 cuil. à soupe de sucre semoule
+
+## Déroulé de la recette
+
+Déposez tous les ingrédients dans une casserole. Portez à ébullition puis baissez le feu et laissez réduire 5 minutes en remuant de temps en temps.
+
+## Noms ingrédients
+
+---
+
+# Asiatique Sauce - Tsuyu (sauce tempura)
+
+## Catégorie
+
+Asiatique. Non testé
+
+## Commentaire
+
+Sauce japonaise légère pour tremper les beignets tempura. Elle se conserve 1 semaine au réfrigérateur. Préparation : 2 min. Cuisson : 5 min. Pour 30 cl de sauce.
+
+## Ingrédients
+
+- 1 petite poignée de bonite séchée
+- 6 cuil. à soupe de mirin
+- 6 cuil. à soupe de sauce soja
+- 20 cl d'eau
+
+## Déroulé de la recette
+
+Versez l'eau dans une casserole puis ajoutez le reste des ingrédients. Faites chauffer sur feu moyen jusqu'à ébullition. Arrêtez le feu et laissez refroidir. Filtrez la sauce.
+
+## Noms ingrédients
+
+bonite séchée
+---
+
+# Asiatique Sauce - Sauce ume
+
+## Catégorie
+
+Asiatique. Non testé
+
+## Commentaire
+
+Sauce japonaise à base d'umeboshi (prunes fermentées), acidulée et légèrement sucrée. Elle se conserve 3 semaines au réfrigérateur. Préparation : 2 min. Pour 9 cl de sauce.
+
+## Ingrédients
+
+- 2 cuil. à soupe de purée de umeboshi
+- 2 cuil. à soupe de saké
+- 2 cuil. à soupe de mirin
+
+## Déroulé de la recette
+
+Dans un bol, mélangez l'ensemble des ingrédients.
+
+## Noms ingrédients
+
+umeboshi
+---
+
+# Asiatique Sauce - Sauce au curry indonésien
+
+## Catégorie
+
+Asiatique. Non testé
+
+## Commentaire
+
+Cette sauce est l'âme de nombreux plats indonésiens et agrémente le poisson, la viande ou les légumes. Préparation : 15 min. Repos : 6 heures. Pour environ 400 g de sauce.
+
+## Ingrédients
+
+- 100 g d'échalotes
+- 80 g d'ail
+- 4 piments oiseaux
+- 50 g de curcuma frais
+- 50 g de galanga frais
+- 25 g de gingembre frais
+- 12 noix de macadamia (30 g)
+- 3 tiges de citronnelle
+- 3 feuilles de combava
+- 3 feuilles de laurier
+- 10 g de graines de coriandre
+- 10 g de grains de poivre noir
+- 30 g de pâte de crevettes (terasi)
+- 10 cl d'huile de coco
+- 15 g de sucre de palme
+
+## Déroulé de la recette
+
+Coupez le gingembre, le curcuma et le galanga en tranches. Pelez et dégermez l'ail. Pelez et émincez l'échalote. Coupez les piments oiseaux en deux, puis ôtez les graines. Enlevez les couches extérieures fibreuses de la citronnelle, puis émincez la partie blanche des tiges. Ciselez les feuilles de combava et de laurier.
+
+Dans une petite casserole, faites parfumer la citronnelle, les feuilles de combava et de laurier dans l'huile de coco pendant 3 minutes à feu doux. Laissez tiédir. Mettez tous les ingrédients dans un mixeur et mixez jusqu'à ce que la sauce soit homogène. Transférez dans un bocal. Avant d'utiliser la sauce, gardez-la au moins 6 heures au frais pour que son arôme s'épanouisse.
+
+## Noms ingrédients
+
+échalotes. ail. piment oiseau. galanga. gingembre. citronnelle. feuilles de combava. coriandre
+---
+
+# Asiatique Sauce - Sauce satay indonésienne
+
+## Catégorie
+
+Asiatique. Non testé
+
+## Commentaire
+
+Le satay est un plat classique indonésien généralement servi avec cette sauce du même nom. Préparation : 15 min. Cuisson : 25 min. Pour environ 500 g de sauce.
+
+## Ingrédients
+
+- 150 g de cacahuètes sans peau, non salées
+- 2 tiges de citronnelle
+- 10 g de galanga
+- 1 piment oiseau
+- 10 g d'ail
+- 1 feuille de combava (ou le zeste d'un combava)
+- 2 cuil. à soupe de pâte de crevettes
+- 2 cuil. à café de curcuma rouge en poudre
+- ½ cuil. à café de bouillon de volaille en poudre
+- 200 g de lait de coco
+- 1 cuil. à soupe de jus de citron vert
+- 50 g d'huile d'arachide
+- 1 cuil. à soupe de sucre de palme en poudre
+- 2 pincées de sel fin
+
+## Déroulé de la recette
+
+Dans une poêle, faites torréfier les cacahuètes à sec pendant environ 10 minutes sur feu doux à moyen. Retirez-les de la poêle et laissez refroidir complètement.
+
+Enlevez les couches extérieures fibreuses de la citronnelle, puis émincez la partie blanche des tiges. Coupez le galanga en tranches. Pelez et dégermez l'ail. Épépinez le piment. Mettez tous les ingrédients solides dans un mortier ou un mixeur et réduisez en pâte. Transférez dans une casserole, puis ajoutez le reste des ingrédients et mélangez. Portez à ébullition. Laissez frémir à feu doux pendant 12 minutes en remuant de temps en temps de façon à obtenir une sauce onctueuse.
+
+Retirez la casserole du feu et laissez refroidir. Versez la sauce satay dans un bocal et réservez au réfrigérateur.
+
+## Noms ingrédients
+
+cacahuètes. citronnelle. galanga. piment oiseau. ail. feuilles de combava. noix de coco. citrons verts
+---
+
+# Pâtés chauds vietnamiens (Bánh patê sô)
+
+## Catégorie
+
+Asiatique. Non testé
+
+## Commentaire
+
+Magnifique recette vide-frigo ! N'hésitez pas à utiliser vos ingrédients préférés pour la farce. Préparation : 15 min. Trempage : 20 min. Cuisson : 12 min.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 250 g de pâte feuilletée
+- 1 œuf
+- ½ carotte
+- 2 ciboules
+- 5 champignons noirs séchés
+- 20 g de vermicelles de soja
+- 2 cuil. à soupe de sauce nuoc-mâm
+- 1 cuil. à café de poivre moulu
+
+## Déroulé de la recette
+
+Faites tremper les champignons noirs dans de l'eau tiède pendant 20 minutes. Faites tremper les vermicelles dans de l'eau chaude pendant 5 minutes. Passez-les ensuite sous un filet d'eau froide et égouttez-les. Préchauffez le four à 170 °C. Pelez la demi-carotte. Séparez le blanc d'œuf du jaune. Égouttez les champignons.
+
+Mixez grossièrement la carotte, les ciboules, les champignons et les vermicelles avec la sauce nuoc-mâm et le poivre. Ajoutez le blanc d'œuf et mélangez pour avoir une farce homogène.
+
+À l'aide d'un emporte-pièce, découpez des disques dans la pâte feuilletée. Déposez sur un disque 1 cuillerée à soupe de farce. Fermez avec un autre disque puis soudez la pâte à l'aide d'une fourchette. Badigeonnez au jaune d'œuf avec un pinceau. Enfournez et faites cuire 12 minutes.
+
+## Noms ingrédients
+
+carottes. champignons. œuf
+---
+
+# Rouleaux de printemps chinois
+
+## Catégorie
+
+Asiatique. Non testé
+
+## Commentaire
+
+Il ne faut pas confondre le rouleau de printemps chinois et le rouleau vietnamien. La pâte du rouleau vietnamien est à base de farine de riz et sa farce est composée de crevettes, de vermicelles et de légumes crus ; on le déguste froid. Le rouleau de printemps chinois a une pâte à base de blé et une farce cuite de légumes ; on le déguste chaud (frit). Préparation : 40 min. Cuisson : 20 min. Repos : 10 min.
+
+## Ingrédients
+
+*Pour 20 rouleaux*
+
+- ½ paquet de galettes de blé surgelées (spring roll pastry)
+- 250 g de pousses de soja
+- 120 g de ciboulettes chinoises
+- 2 œufs entiers + 1 jaune
+- 1 cuil. à soupe de sauce soja claire
+- 2 cuil. à soupe d'huile végétale
+- 1 cuil. à soupe d'huile de sésame
+- Sel
+- Huile neutre pour la cuisson
+
+## Déroulé de la recette
+
+Faites décongeler les galettes de blé 2 heures à température ambiante (ou placez le paquet au réfrigérateur la veille sans l'ouvrir).
+
+Dans un bol, battez les œufs entiers en omelette. Faites-les cuire dans un wok avec 1 cuil. à soupe d'huile végétale en les cassant en petits morceaux à l'aide d'une paire de baguettes ou d'une fourchette. Débarrassez sur une assiette.
+
+Lavez les ciboulettes et émincez-les finement. Faites chauffer le reste d'huile dans le wok puis faites revenir les pousses de soja jusqu'à ce qu'elles soient tendres. Réservez sur une assiette. Déposez les ciboulettes dans le wok et faites-les sauter 1 minute. Remettez les pousses de soja. Ajoutez la sauce soja, l'huile de sésame et du sel. Mélangez le tout. Laissez cette farce refroidir 10 minutes.
+
+Placez 1 galette de blé décongelée sur le plan de travail en positionnant un des angles vers vous. Déposez 1 cuil. à café bombée de farce au centre. Rabattez l'angle inférieur vers le centre de la feuille, puis l'angle gauche et l'angle droit. Enroulez. Déposez un peu de jaune d'œuf battu sur le dernier angle et fermez le rouleau. Réalisez ainsi les autres rouleaux. Faites chauffer l'huile dans une poêle à feu vif puis faites dorer les rouleaux 2 à 3 minutes.
+
+## Noms ingrédients
+
+pousses de soja. ciboulette. œuf
+---
+
+# Palets de riz gluant aux œufs (Khao tchee)
+
+## Catégorie
+
+Asiatique. Non testé
+
+## Commentaire
+
+C'est un classique de la street food : au Laos, on en trouve sous forme de brochettes composées de deux petits palets ovales côte à côte, grillés plutôt que frits (d'ailleurs "tchee" veut dire "grillé"). Servez arrosé d'arôme Maggi, ou de sauce soja salée avec des rondelles de piment. Préparation : 15 min. Cuisson : 5 min.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 600 g de riz gluant cuit de la veille
+- 2 œufs battus
+- Huile neutre
+- Sel, poivre
+
+## Déroulé de la recette
+
+Façonnez avec vos mains des palets, ovales ou ronds, à l'aide d'un emporte-pièce ou pas, à votre guise.
+
+Battez les œufs en omelette et assaisonnez avec un peu de sel et de poivre moulu.
+
+Faites chauffer à feu moyen 2 cuil. à soupe d'huile dans une poêle antiadhésive.
+
+Trempez les palets dans l'omelette et faites-les frire. Une fois la première face dorée, retournez-les et terminez la cuisson pendant 1 minute.
+
+## Noms ingrédients
+
+œuf
+---
+
+# Nems impériaux (Chả giò)
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Pour tester la température de l'huile de friture, trempez le bout d'une baguette en bois dans l'huile. Si celle-ci se met à buller autour de la baguette, c'est que la température est bonne ! Égouttez toujours les nems sur un papier absorbant pour retirer l'excédent de matière grasse. Pour une version sans viande, remplacez le porc haché par 2 boîtes de crabe. Préparation : 30 min. Trempage : 20 min. Cuisson : 8 min.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 12 grandes galettes de riz rondes
+- 100 g de porc haché
+- 50 g de crevettes crues
+- 70 g de germes de soja
+- 70 g d'oignon jaune
+- 10 g de champignons noirs séchés
+- 30 g de carotte
+- 10 g de vermicelles de soja
+- 12 feuilles de batavia
+- 1 botte de menthe
+- 10 cl de sauce nuoc-mâm pure ou diluée
+- 10 g de sucre semoule
+- 5 g de sel
+- Huile de friture
+
+## Déroulé de la recette
+
+Faites tremper les champignons noirs dans de l'eau tiède pendant 20 minutes. Faites tremper les vermicelles dans de l'eau chaude 5 minutes. Passez-les sous un filet d'eau froide puis égouttez-les. Coupez-les en tronçons de 2 cm à l'aide de ciseaux.
+
+Égouttez les champignons. Pelez la carotte et l'oignon. À l'aide d'un robot, hachez grossièrement les germes de soja, la carotte, l'oignon et les champignons.
+
+Dans un saladier, mélangez le porc haché, les vermicelles, les crevettes, le hachis à base de champignons, le sucre, le sel et la sauce nuoc-mâm.
+
+Confectionnez les rouleaux : sur 1 galette de riz humidifiée à l'eau froide, disposez 1 grosse cuil. à soupe de farce. Rabattez les extrémités et roulez fermement.
+
+Faites chauffer de l'huile de friture dans une casserole puis faites cuire les nems pendant environ 8 minutes jusqu'à ce qu'ils soient bien dorés.
+
+Dégustez les nems avec les feuilles de batavia et la menthe, accompagnés de sauce nuoc-mâm.
+
+## Noms ingrédients
+
+porc haché. crevettes. pousses de soja. oignons. champignons. carottes. menthe
+---
+
+# Rouleaux de printemps (Gỏi cuốn)
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Dégustez ces rouleaux avec de la sauce nuoc-mâm diluée ou de la sauce aux cacahuètes encore tiède ! Préparation : 30 min. Trempage : 20 min. Cuisson : 5 min.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 12 grandes galettes de riz rondes
+- 200 g de vermicelles de riz
+- 12 crevettes roses cuites
+- 300 g de porc laqué
+- 1 sachet de couenne de porc séché
+- 12 feuilles de batavia
+- 1 concombre
+- 1 botte de menthe
+- 1 botte de ciboulette
+- 20 g de poudre de riz grillé
+- Sel, poivre
+
+## Déroulé de la recette
+
+Faites tremper la couenne de porc séché 20 minutes dans de l'eau froide puis égouttez-la. Émincez le porc laqué en petits bâtonnets. Mélangez la couenne de porc au porc laqué et à la poudre de riz. Salez et poivrez.
+
+Faites cuire les vermicelles de riz dans une casserole d'eau bouillante pendant 5 minutes. Passez-les ensuite sous un filet d'eau froide pour stopper la cuisson.
+
+Décortiquez les crevettes et coupez-les en deux dans la longueur. Pelez le concombre et détaillez-le en bâtonnets. Effeuillez la menthe. Coupez les tiges de ciboulette en deux. Lavez la salade.
+
+Confectionnez les rouleaux : sur chaque galette de riz humidifiée à l'eau froide, disposez 1 feuille de salade. Ajoutez 1 cuil. à soupe du mélange de porc, des bâtonnets de concombre, des vermicelles de riz et des feuilles de menthe. Roulez sur un tour. Placez les tiges de ciboulette pour qu'elles ressortent du rouleau puis ajoutez 2 demi-crevettes. Fermez le rouleau sur les côtés et terminez de rouler.
+
+## Noms ingrédients
+
+crevettes. porc haché. concombres. menthe. ciboulette
+---
+
+# Won ton
+
+## Catégorie
+
+Asiatique. Non testé. Végé
+
+## Commentaire
+
+Vous pouvez déguster les won ton tels quels ou bien dans un bouillon léger de légumes ou de volaille. Préparation : 1 heure. Trempage : 30 min. Cuisson : 10 min.
+
+## Ingrédients
+
+*Pour 40 won ton*
+
+- 40 feuilles de won ton
+
+**Pour la farce au pak choï et champignons parfumés**
+- 600 g de chou pak choï
+- 60 g de champignons parfumés séchés (shiitakés)
+- 2 ciboules
+- 3 lamelles de gingembre frais
+- 2 cuil. à café d'huile de sésame
+- 2 cuil. à soupe d'huile de tournesol
+- Gros sel
+- Sel, poivre du moulin
+
+## Déroulé de la recette
+
+Préparez la farce : faites tremper les champignons séchés dans un bol d'eau très chaude (80 à 90 °C) pendant 30 minutes.
+
+Hachez les ciboules et le gingembre. Séparez les branches du pak choï et lavez-les. Blanchissez-les 1 minute dans un faitout d'eau bouillante avec une poignée de gros sel. Plongez les branches dans de l'eau bien froide, égouttez-les et essuyez-les. Coupez-les en brunoise. Égouttez les champignons et coupez-les en brunoise.
+
+Dans un saladier, mélangez le chou, les champignons, les ciboules et le gingembre ; salez et poivrez. Ajoutez les deux huiles et mélangez à nouveau.
+
+Procédez au pliage des won ton : déposez 1 cuil. à café bombée de farce au centre d'une feuille de won ton ; mouillez les bords avec un peu d'eau froide puis pliez la feuille en deux ; soudez bien le contour. Prenez le won ton dans les mains et rabattez le côté droit vers le côté gauche pour former un triangle ; pincez fort pour souder. Réalisez ainsi les autres won ton.
+
+Faites cuire les won ton 5 minutes dans une casserole d'eau bouillante. Récupérez-les avec une écumoire.
+
+## Noms ingrédients
+
+pak choï. champignons shiitaké. gingembre. oignons nouveaux
+---
+
+# Raviolis vietnamiens (Bánh cuốn)
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Dégustez ces raviolis arrosés d'huile de ciboule : faites chauffer 5 cuil. à soupe d'huile de tournesol dans une casserole pendant quelques minutes ; hors du feu, ajoutez 5 tiges de ciboule émincées finement. Préparation : 40 min. Trempage : 20 min. Cuisson : 15 min.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 1 sachet de pâte à bánh cuốn
+- 400 g de porc haché
+- 200 g d'oignons jaunes
+- 20 g de champignons noirs séchés
+- 10 tranches de saucisse chả lụa (mortadelle vietnamienne)
+- 50 cl d'eau
+- 2 cuil. à soupe de sauce nuoc-mâm
+- 1 cuil. à café d'échalotes frites
+- Huile de tournesol
+
+## Déroulé de la recette
+
+Faites tremper les champignons noirs dans de l'eau tiède pendant 20 minutes. Égouttez-les et émincez-les. Épluchez et ciselez les oignons.
+
+Dans un cul-de-poule, mélangez le porc haché avec les oignons, les champignons et la sauce nuoc-mâm. Dans une poêle à feu vif, versez un filet d'huile de tournesol puis faites dorer la farce 10 minutes en remuant régulièrement.
+
+Dans un saladier, mélangez la pâte à bánh cuốn avec l'eau à l'aide d'un fouet. Faites chauffer une poêle bien huilée à feu moyen. Versez 1 louche de pâte et étalez-la. Couvrez avec un torchon et laissez cuire 30 secondes (sans retourner la crêpe).
+
+Badigeonnez une assiette d'huile. À l'aide d'une spatule, récupérez la crêpe et disposez-la sur l'assiette. Garnissez avec 1 cuil. à soupe de farce et rabattez les côtés de la raviole. Parsemez de saucisse chả lụa et d'échalotes frites. Réalisez ainsi les autres ravioles et servez.
+
+## Noms ingrédients
+
+porc haché. oignons. champignons. échalotes frites
+---
+
+# Raviolis Guo tie
+
+## Catégorie
+
+Asiatique. Non testé. Végé
+
+## Commentaire
+
+Guo Tie signifie "collé à la poêle" : c'est exactement ce que nous allons faire pour cette recette ! Utilise la farce au pak choï et champignons parfumés. Préparation : 1 heure. Repos : 15 à 30 min. Cuisson : 10 min.
+
+## Ingrédients
+
+*Pour 40 raviolis*
+
+- 650 g de farce au pak choï et champignons parfumés
+
+**Pour la pâte**
+- 250 g de farine de blé
+- 12,5 cl d'eau à température ambiante
+- 1 pincée de sel
+
+## Déroulé de la recette
+
+Préparez la pâte : déposez la farine et le sel dans un saladier. Versez l'eau à température ambiante petit à petit en mélangeant avec une paire de baguettes ou une fourchette de façon à obtenir des petits grumeaux. Pétrissez la pâte à la main pendant 5 minutes environ jusqu'à ce qu'elle soit lisse et homogène. Couvrez-la d'un linge humide. Laissez reposer la pâte à température ambiante 15 à 30 minutes.
+
+Préparez les feuilles de raviolis : avec la pâte, formez un boudin fin. Coupez celui-ci en petits berlingots : après avoir coupé le premier morceau, tournez le boudin d'un quart de tour pour éviter qu'il ne s'écrase. Aplatissez chaque berlingot en petite galette. À l'aide d'un rouleau pour raviolis, étalez chaque galette en un disque très fin (1 mm d'épaisseur et 7 cm de diamètre).
+
+Procédez au pliage des Guo Tie : déposez 1 cuil. à café bombée de farce au centre de chaque feuille de ravioli, ramenez les deux côtés vers le centre et pincez fort pour souder. Laissez les deux extrémités légèrement ouvertes pour que la vapeur s'échappe pendant la cuisson.
+
+Versez une fine couche d'huile dans une poêle et faites-la chauffer à feu vif. Déposez les raviolis côte à côte dans la poêle et faites-les dorer 1 minute environ. Dans un petit bol, mélangez l'eau, le vinaigre de riz et la farine. Versez ce mélange dans la poêle, couvrez et laissez cuire les raviolis 7 à 8 minutes à feu moyen jusqu'à évaporation totale de l'eau.
+
+## Noms ingrédients
+
+pak choï. champignons shiitaké. gingembre
+---
+
+# Dim sum au cabillaud
+
+## Catégorie
+
+Asiatique. Non testé. Poisson
+
+## Commentaire
+
+À chaque étape du pliage, pincez bien la pâte pour vous assurer que le dim sum ne s'ouvre pas pendant la cuisson. Préparation : 35 min. Cuisson : 6 min.
+
+## Ingrédients
+
+*Pour 24 pièces*
+
+**Pour la pâte**
+- 130 g de farine de froment
+- 17 g de farine de maïs
+- 40 g d'huile végétale
+- 19,5 cl d'eau bouillante
+
+**Pour la farce**
+- 120 g de cabillaud sans arêtes
+- 80 g de porc haché
+- ½ chou de Shanghai (50 g)
+- 1 botte de coriandre (30 g)
+- 1 cuil. à café de gingembre frais râpé (5 g)
+- 4 tours de baies roses du moulin
+- 1 cuil. à café de sauce soja claire
+- 1 cuil. à café de sauce nuoc-mâm
+- 1 cuil. à soupe d'huile végétale
+- 1 cuil. à café d'huile de sésame
+- ½ cuil. à café de sucre semoule
+- ½ cuil. à café de sel fin
+
+**Pour le décor**
+- 1 cuil. à soupe de baies roses concassées
+
+## Déroulé de la recette
+
+Commencez par préparer la farce. Coupez d'abord le cabillaud en tout petits dés. Lavez et taillez le chou de Shanghai et la coriandre en tout petits morceaux. Dans un saladier, mélangez bien tous les ingrédients de la farce. Réservez au réfrigérateur pendant la préparation de la pâte.
+
+Placez un disque de pâte dans une main, puis déposez une cuil. à soupe de farce au milieu du disque. Pliez le disque en deux. Avec l'index et le pouce, pincez les bords sur un tiers pour fermer le disque. Pour fermer le dim sum en étoile à trois branches, rabattez un autre bord du disque, puis pincez bien pour enfermer la farce. Répétez l'opération pour la troisième branche et fermez parfaitement.
+
+Disposez les dim sum dans un panier tapissé de papier sulfurisé préalablement troué. Faites cuire à la vapeur, sur feu vif, pendant 6 minutes. Décorez de baies roses concassées et dégustez chaud.
+
+## Noms ingrédients
+
+cabillaud. porc haché. chou chinois. coriandre. gingembre
+---
+
+# Brochettes de tempeh au satay
+
+## Catégorie
+
+Asiatique. Non testé. Végé
+
+## Commentaire
+
+Originaire d'Indonésie, le tempeh est composé de fèves de soja fermentées. Très riche en protéines, il peut être cuisiné comme le tofu. Dans cette recette, la sauce satay à base de cacahuètes et de coco lui donne une belle saveur. Trempez préalablement les piques à brochettes en bois dans de l'eau pour éviter qu'elles brûlent à la cuisson. Préparation : 20 min. Marinade : 1 heure. Cuisson : 20 min.
+
+## Ingrédients
+
+*Pour 24 pièces*
+
+- 250 g de tempeh
+- Le jus de 1 citron vert
+- 8 feuilles de salade
+- Quelques brins de coriandre
+
+**Pour la sauce satay**
+- 1 tige de citronnelle
+- ½ échalote
+- 1 petit piment rouge
+- 2 gousses d'ail râpées
+- 1 cuil. à café de gingembre frais râpé
+- 1 cuil. à soupe d'huile de coco (ou d'huile végétale)
+- 3 cuil. à soupe de beurre de cacahuètes
+- 1 cuil. à soupe de sauce soja
+- 10 cl de lait de coco
+- 1 cuil. à soupe de sucre semoule
+- ½ cuil. à café de sel
+- 8 piques à brochettes en bois
+
+## Déroulé de la recette
+
+Préparez la sauce satay. Hachez finement la tige de citronnelle et l'échalote. Retirez les graines du piment et hachez la chair. Dans une casserole, faites revenir la citronnelle, l'ail, le gingembre, le piment et l'échalote avec l'huile de coco pendant 3 minutes. Ajoutez le beurre de cacahuètes, la sauce soja, le lait de coco et le sucre. Salez et laissez cuire pendant 5 minutes.
+
+Coupez le tempeh en 8 rectangles. Badigeonnez-les de la moitié de la sauce satay et laissez-les mariner au réfrigérateur pendant 1 heure.
+
+Enfilez les rectangles de tempeh sur les piques et faites-les cuire sous le gril du four 3 à 5 minutes de chaque côté. Les brochettes doivent être bien dorées. Arrosez du jus du citron vert.
+
+Servez avec les feuilles de salade, la coriandre et le reste de sauce satay.
+
+## Noms ingrédients
+
+cacahuètes. citronnelle. ail. gingembre. piment rouge. noix de coco. citrons verts. coriandre. échalotes
+---
+
+# Banh bao
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Pour plus de gourmandise, remplacez le porc haché cru par du porc laqué ! Préparation : 1 heure. Repos : 2 h 20. Cuisson : 30 min.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+**Pour la pâte**
+- 150 g de farine
+- 40 g de fécule de maïs
+- 3 g de levure sèche boulangère
+- 12,5 cl de lait
+- Huile de tournesol
+- 25 g de sucre semoule
+- ½ cuil. à café de sel
+
+**Pour la garniture**
+- 80 g de porc haché
+- 1 saucisse chinoise lap xuong
+- 5 shiitakés
+- 1 oignon
+- 2 œufs
+
+## Déroulé de la recette
+
+Réalisez la pâte : faites tiédir le lait dans une casserole. Dans un cul-de-poule, diluez la levure avec le lait. Ajoutez la moitié de la farine et le sucre puis mélangez. Recouvrez d'un torchon et laissez reposer 20 minutes. Ajoutez ensuite le reste de farine, la fécule de maïs, le sel et 1 cuil. à soupe d'huile de tournesol. Pétrissez jusqu'à obtenir une pâte homogène. Recouvrez à nouveau d'un torchon et laissez reposer 2 heures.
+
+Faites cuire les œufs dans une casserole d'eau bouillante pendant 6 minutes. Égouttez-les doucement et coupez-les en quartiers. Coupez la saucisse en rondelles. Émincez finement les shiitakés. Pelez et ciselez l'oignon.
+
+Dans un saladier, mélangez le porc haché avec la saucisse, les shiitakés et l'oignon. Formez 6 boulettes de viande puis garnissez chaque boulette avec 1 quartier d'œuf.
+
+Coupez 6 carrés de papier sulfurisé de 12 × 12 cm. Pétrissez la pâte et partagez-la en six. Étalez les boules de pâte en petits disques sur le plan de travail fariné. Disposez 1 boulette de farce au milieu de chaque disque et rabattez la pâte pour former une bourse.
+
+Placez chaque brioche sur un morceau de papier sulfurisé et fermez hermétiquement. Faites cuire 15 minutes dans un panier vapeur.
+
+## Noms ingrédients
+
+porc haché. champignons shiitaké. oignons. œuf
+---
+
+# Potage pékinois
+
+## Catégorie
+
+Asiatique. Non testé. Végé
+
+## Commentaire
+
+S'il est connu en Occident sous le nom de "potage pékinois", les Chinois l'appellent en réalité "potage au vinaigre et au poivre". Son mode de préparation correspond typiquement aux traditions du Sichuan. On adore ce parfum caractéristique, un peu acide, un peu épicé, mais tout doux. Voici une version revisitée pour les végétariens. Préparation : 10 min. Cuisson : 10 min.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 1 œuf
+- 50 g de tofu japonais nature
+- 100 g de pousses de bambou en boîte ou sous vide
+- 80 g de carotte
+- 30 g de champignons parfumés séchés
+- 10 g de champignons noirs séchés
+- 1 petit oignon (50 g environ)
+- 2 tiges de coriandre fraîche
+- 1 cuil. à café de poivre blanc moulu
+- 2 cuil. à soupe de farine de maïs
+- 1 cube de bouillon de volaille
+- 3 cuil. à soupe de vinaigre de riz chinois
+- 1 cuil. à soupe de sauce soja claire
+- ½ cuil. à soupe d'huile végétale
+- Quelques gouttes d'huile de sésame
+- Sel
+
+## Déroulé de la recette
+
+Réhydratez les champignons parfumés et les champignons noirs dans de l'eau tiède pendant au moins 30 minutes. Pressez les champignons et coupez-les en fines lamelles.
+
+Rincez les pousses de bambou sous l'eau froide, puis faites-les bouillir dans de l'eau pendant 40 secondes. Égouttez-les et coupez-les en fines lamelles.
+
+Taillez la carotte et l'oignon en fine julienne, et le tofu en petits dés. Ciselez la coriandre. Délayez la farine de maïs dans 2 cuil. à soupe d'eau froide. Battez l'œuf dans un petit bol.
+
+Faites chauffer une cocotte avec l'huile végétale et faites-y revenir l'oignon, puis ajoutez la carotte, les deux types de champignons et les pousses de bambou. Faites revenir avec la sauce soja pendant 2 minutes à feu vif. Ajoutez 80 cl d'eau froide, le tofu et le cube de bouillon de volaille. Portez à ébullition et laissez mijoter 3 minutes.
+
+À feu vif, incorporez la farine délayée en mélangeant jusqu'à ce que le contenu s'épaississe légèrement. Éteignez le feu de suite, puis ajoutez l'œuf battu en un fin filet tout en mélangeant.
+
+Ajoutez le vinaigre, le poivre blanc et l'huile de sésame. Mélangez. Salez selon votre goût. Servez dans des bols en parsemant de coriandre ciselée.
+
+## Noms ingrédients
+
+tofu. carottes. champignons. oignons. œuf. coriandre
+---
+
+# Soupe de curry rouge au poulet (Khao poun naam kaï)
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Le khao poun à base de lait de coco est, avec le laab, un plat national au Laos. C'est une soupe qui se sert habituellement avec des vermicelles de riz fermentés. Pour réaliser des portions de vermicelles de riz, prélevez une boucle de vermicelles avec l'index et le pouce gauche. Avec l'autre main, enroulez les vermicelles autour de votre index, pressez et posez dans une passoire. Préparation : 1 heure. Cuisson : 30 min.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 500 g de cuisses de poulet désossées et émincées
+- 150 g de pousses de bambou en lamelles en conserve
+- 1 échalote émincée
+- 3 cm de galanga
+- 2 cuil. à soupe de pâte de curry rouge
+- 2 cuil. à soupe de piment doux en poudre
+- 1 tige de citronnelle
+- 3 feuilles de combava
+- 1 cuil. à soupe de sucre en poudre
+- 1 litre de lait de coco
+- 10 cl de sauce de poisson
+- 4 cuil. à soupe d'huile neutre
+
+**Pour le service**
+- 200 g de vermicelles de riz
+- 200 g de pousses de haricots mungo
+- 200 g de haricots kilomètres ou verts finement ciselés
+- 200 g de chou rouge ou blanc émincé
+- Feuilles de coriandre
+- Feuilles de menthe
+
+## Déroulé de la recette
+
+Faites cuire les vermicelles dans de l'eau bouillante pendant 3 minutes, puis rincez-les à l'eau froide pour en stopper la cuisson. Réservez dans un saladier avec de l'eau froide. Rincez les pousses de bambou à l'eau bouillante. Égouttez et réservez.
+
+Remplissez un faitout avec 1,5 litre d'eau, le galanga, les feuilles de combava et la tige de citronnelle nouée. À ébullition, ajoutez le poulet. Réduisez à feu doux et ajoutez le lait de coco.
+
+Dans un wok, faites revenir l'échalote, la pâte de curry et le piment doux dans l'huile pendant 5 minutes à feu moyen, jusqu'à ce que l'huile prenne une belle couleur rouge. Ajoutez cette préparation au bouillon, assaisonnez avec la sauce de poisson et le sucre. Ajoutez les pousses de bambou et laissez mijoter à feu doux 20 minutes. Rectifiez l'assaisonnement si nécessaire.
+
+Pour servir, répartissez dans de grands bols les crudités et les vermicelles de riz. Arrosez de bouillon chaud jusqu'à hauteur des vermicelles, avec des morceaux de poulet et de bambou, et parsemez de feuilles de coriandre et de menthe.
+
+## Noms ingrédients
+
+cuisses de poulet. galanga. citronnelle. feuilles de combava. échalotes. noix de coco. haricots mungo. haricots verts. chou rouge. coriandre. menthe. piment
+---
+
+# Soupe froide de concombre (Oi-nengguk)
+
+## Catégorie
+
+Asiatique. Non testé. Végé
+
+## Commentaire
+
+L'été en Corée est très chaud et humide, et ça fait du bien de manger des plats froids. Certaines soupes sont carrément servies avec des glaçons, qui flottent dans le bouillon. Pour cette soupe de concombre, vous pouvez ajouter des algues crues réhydratées (kim ou miyeok) pour obtenir une fraîcheur iodée supplémentaire. Ou quelques flocons de piment pour apporter du peps. Préparation : 5 min.
+
+## Ingrédients
+
+*Pour 4 bols*
+
+- 300 g de concombre
+- ½ piment rouge ou 30 g de poivron rouge
+- 3 cuil. à soupe de ciboule hachée
+- 2 cuil. à café de graines de sésame écrasées
+- 800 ml d'eau glacée
+- 3 cuil. à soupe de sauce soja claire
+- 1 cuil. à soupe de vinaigre de riz
+- 1 cuil. à café de sucre
+- Sel
+
+## Déroulé de la recette
+
+Épluchez le concombre en laissant partiellement la peau, puis coupez-le en allumettes de 2 mm d'épaisseur et 5 cm de longueur. Salez.
+
+Émincez le piment ou le poivron en lamelles de 2 mm d'épaisseur.
+
+Dans un grand bol, versez l'eau et ajoutez la sauce soja, le vinaigre, la ciboule, le sucre et le concombre. Mélangez et rectifiez l'assaisonnement en sel. Saupoudrez de graines de sésame et servez frais.
+
+## Noms ingrédients
+
+concombres. piment rouge. oignons verts. poivron rouge
+---
+
+# Soupe de riz au poulet (Khao piek)
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Vous pouvez ajouter du poivre moulu, 1 cuil. à café d'arôme Maggi et du piment en poudre, c'est la meilleure façon de la dévorer. Préparation : 20 min. Cuisson : 1 h 15.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 200 g de riz parfumé cru
+- 1 belle cuisse de poulet (ou 300 g d'échine de porc hachée)
+- 4 œufs
+- 1 cm de gingembre
+- 2 litres de bouillon de volaille
+- Sel
+
+**Pour le service**
+- Oignons frits, ciboule et coriandre ciselées, piment de Cayenne en poudre
+
+## Déroulé de la recette
+
+Rincez le riz, égouttez-le et versez-le dans une grande casserole avec le bouillon de volaille, la cuisse de poulet, le gingembre et 1 cuil. à café de sel. Le volume vous paraît peut-être très important, mais c'est normal, le riz va fortement gonfler.
+
+Après ébullition, baissez le feu et laissez cuire à couvert 1 heure à feu doux, en remuant de temps en temps. Retirez la cuisse de poulet et effilochez la viande à la fourchette.
+
+Pour servir, reportez la soupe à ébullition – ajustez la consistance avec un peu d'eau si nécessaire –, puis cassez les œufs délicatement dans le bouillon et faites-les cuire 4 minutes pour qu'ils soient pochés.
+
+Servez le riz dans de grands bols, avec un œuf poché, du poulet effiloché, des oignons frits, de la ciboule et de la coriandre ciselées.
+
+## Noms ingrédients
+
+cuisses de poulet. gingembre. œuf. échalotes frites. coriandre. piment de Cayenne
+---
+
+# Soupe de nouilles Khao Soy aux crevettes
+
+## Catégorie
+
+Asiatique. Non testé. Poisson
+
+## Commentaire
+
+Soupe thaïlandaise crémeuse et parfumée, rapide à préparer. Préparation : 20 min. Cuisson : 15 min.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 100 g de nouilles de riz
+- 20 cl de lait de coco
+- 200 g de queues de crevettes crues
+- 3 cuil. à soupe de sauce saté pour soupe
+
+## Déroulé de la recette
+
+Mettez les nouilles de riz dans un saladier, arrosez-les de 1 litre d'eau bouillante et laissez cuire 10 minutes. Égouttez.
+
+Dans une grande casserole, faites chauffer la sauce saté pour soupe. Ajoutez le lait de coco et 2 verres d'eau environ. Portez à ébullition, puis ajoutez les crevettes décortiquées et prolongez la cuisson 5 minutes.
+
+Répartissez les nouilles de riz dans des bols et versez la soupe par-dessus.
+
+## Noms ingrédients
+
+crevettes. noix de coco
+---
+
+# Soupe minute aux fleurs d'œufs
+
+## Catégorie
+
+Asiatique. Non testé. Végé
+
+## Commentaire
+
+En Chine, on termine souvent un repas du quotidien avec une soupe légère et vite préparée. Les ingrédients de cette soupe varient selon les saisons : chou en hiver, carottes au printemps, tomates en été. Après avoir versé les œufs battus, ne remuez plus la soupe, sinon les œufs vont se casser en tout petits morceaux. Préparation : 5 min. Cuisson : 10 min.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 2 œufs
+- 2 tomates moyennes (ou autres légumes)
+- 1 ciboule
+- 2 ou 3 gouttes d'huile de sésame
+- 80 cl d'eau
+- Sel, poivre blanc moulu
+
+## Déroulé de la recette
+
+Lavez les tomates et coupez-les en quartiers. Lavez et émincez la ciboule en rondelles. Battez les œufs dans un bol.
+
+Versez l'eau dans une casserole et portez à ébullition. Ajoutez les tomates, baissez le feu et laissez frémir pendant 1 minute. Salez et poivrez.
+
+Arrêtez la cuisson et déposez les œufs battus en filet très fin en vous aidant de baguettes chinoises. Ajoutez la ciboule et l'huile de sésame. Servez aussitôt.
+
+## Noms ingrédients
+
+œuf. tomate. oignons verts
+---
+
+# Soupe au sésame noir (Heukimja-juk)
+
+## Catégorie
+
+Asiatique. Non testé. Végé
+
+## Commentaire
+
+Cette soupe est aussi belle que bonne pour la santé. Après avoir passé le sésame et le riz au mixeur, filtrez-les (séparément) à travers un tamis pour ne garder que le liquide soyeux. La soupe sera plus veloutée et aura une présentation plus soignée. Préparation : 10 min. Trempage : 2 heures. Cuisson : 30 min.
+
+## Ingrédients
+
+*Pour 4 bols*
+
+- 160 g de riz rond
+- 80 g de sésame noir
+- Sel
+
+**Décoration (facultative)**
+- Quelques pignons de pin
+- Jujube séché
+
+## Déroulé de la recette
+
+Lavez le riz et faites-le tremper dans 600 ml d'eau pendant 2 heures minimum.
+
+Lavez le sésame dans un tamis pour filtrer les impuretés, égouttez-le, puis épongez-le dans un linge propre en appuyant dessus.
+
+Faites griller le sésame noir dans une poêle à feu vif pendant 2 minutes en remuant sans cesse avec une spatule en bois. Poursuivez la cuisson en baissant progressivement le feu jusqu'à feu très doux encore une dizaine de minutes. Les graines de sésame commencent à éclater, et dès que vous sentez une bonne odeur qui ressemble à celle de la noisette grillée, sortez-les immédiatement. Réservez-les sur une assiette et laissez-les refroidir. Mixez finement le sésame avec 350 ml d'eau et réservez.
+
+Égouttez le riz et mixez-le très finement avec 200 ml d'eau. Dans une casserole, versez 900 ml d'eau et le riz mixé. Portez le mélange à l'ébullition sur feu vif en remuant sans cesse, puis baissez le feu à feu doux et laissez cuire à couvert 20 minutes en remuant souvent. Ajoutez le sésame mixé et poursuivez la cuisson quelques minutes de plus. Salez.
+
+Servez la soupe chaude, éventuellement décorée de pignons et de lamelles de jujube séché.
+
+## Noms ingrédients
+
+purée de sésame. noisettes
+---
+
+# Soupe au porc et aux cacahuètes (Mee kathi)
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Soupe laotienne épaisse et parfumée, presque une sauce. Les nouilles n'ont pas besoin d'être immergées dans le bouillon. Préparation : 45 min. Cuisson : 1 heure.
+
+## Ingrédients
+
+*Pour 4 à 6 personnes*
+
+- 300 g d'échine de porc désossée et hachée
+- 50 g de cacahuètes hachées
+- 2 œufs battus
+- 1 échalote
+- 1 tige de citronnelle
+- 1 cm de galanga
+- 2 cuil. à soupe de piment doux
+- 1 cuil. à soupe de pâte de curry rouge
+- 2 feuilles de combava
+- 3 cuil. à soupe de sucre
+- 40 cl de lait de coco
+- 3 cuil. à soupe de sauce de poisson
+- Le jus de ½ citron
+- 2 cuil. à soupe d'huile neutre
+
+**Pour le service**
+- 400 g de nouilles de riz plates (ou des vermicelles de riz)
+- 250 g de pousses de haricots mungo
+- 250 g de haricots kilomètres ou verts finement ciselés
+- Ciboule, coriandre et menthe
+
+## Déroulé de la recette
+
+Portez à ébullition 80 cl d'eau avec la tige de citronnelle écrasée, les feuilles de combava et le galanga. Ajoutez la viande en l'écrasant à la fourchette pour l'émietter, écumez, puis baissez à feu doux. Ajoutez 1 pincée de sel, couvrez et laissez mijoter 30 minutes.
+
+Dans un wok, faites revenir l'échalote émincée, la pâte de curry et le piment doux dans l'huile pendant 5 minutes à feu moyen, puis ajoutez 15 cl de lait de coco et laissez mijoter à feu doux jusqu'à ce que le gras, bien rouge, se sépare du reste et remonte à la surface.
+
+Ajoutez cette préparation dans le bouillon, puis ajoutez la sauce de poisson, le sucre, le jus de citron et le reste de lait de coco. Laissez mijoter à feu très doux pendant 20 minutes. Pendant ce temps, faites cuire les nouilles de riz à l'eau bouillante pendant 3 ou 10 minutes selon le format. Rincez, égouttez et réservez.
+
+Portez le bouillon à frémissement et ajoutez les œufs tout en mélangeant le bouillon à la fourchette. Les œufs seront brouillés et vont ainsi épaissir le bouillon. Ajoutez les cacahuètes hachées.
+
+Répartissez les haricots mungo, les haricots kilomètres et les nouilles dans des bols, puis versez ce bouillon épais.
+
+## Noms ingrédients
+
+échine de porc. cacahuètes. œuf. échalotes. citronnelle. galanga. feuilles de combava. noix de coco. haricots mungo. haricots verts. coriandre. menthe. piment
+---
+
+# Soupe pimentée au bœuf et ciboule (Yukgaejang)
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Soupe coréenne robuste et généreuse. La préparation du bouillon se fait la veille. Préparation : 20 min. Trempage : 1 nuit. Cuisson : 1 h 40.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 200 g de pousses de mungo
+- 150 g de ciboule
+- 100 g de pleurotes émincées
+- 1 cuil. à café d'ail haché
+- 2 cuil. à soupe de flocons de piment coréen (gochugaru)
+- 70 ml d'huile végétale
+- 2 pincées de sel
+
+**Sauce d'assaisonnement**
+- 1 cuil. à soupe de ciboule émincée
+- 2 cuil. à café d'ail haché
+- 2 cuil. à café de flocons de piment coréen (gochugaru)
+- 2 cuil. à soupe de sauce soja claire
+- 1 cuil. à soupe d'huile de sésame
+- 2 cuil. à café de sel
+- Poivre
+
+**Pour le bouillon de bœuf**
+- 450 g de poitrine de bœuf
+- 120 g de ciboule ou de poireau émincé
+- 4 gousses d'ail épluchées
+- 4,5 litres d'eau
+- Poivre
+
+## Déroulé de la recette
+
+La veille, préparez le bouillon : dans un grand faitout, versez l'eau et plongez-y la viande. Portez à ébullition sur feu vif, puis baissez le feu sur moyen-doux et laissez cuire à couvert 1 heure. Ajoutez l'ail et la ciboule et laissez cuire à couvert 30 minutes. Retirez la viande et filtrez le bouillon.
+
+Le jour même, préparez la sauce en mélangeant tous les ingrédients. Faites chauffer 70 ml d'huile dans une poêle, ajoutez-y l'ail et laissez-le frire 5 secondes. Incorporez les flocons de piment, et dès que l'huile mousse, versez-les immédiatement dans un bol. Filtrez et réservez l'huile.
+
+Faites blanchir les pousses de mungo 1 minute dans 500 ml d'eau bouillante avec 1 cuil. à café de sel. Égouttez-les, rincez-les à l'eau froide et pressez-les. Faites blanchir la ciboule 10 secondes de la même manière. Coupez les légumes en bâtonnets de 5 cm de longueur. Dans un bol, mélangez tous les légumes avec la moitié de la sauce d'assaisonnement.
+
+Taillez la viande cuite en bâtonnets de 5 cm de longueur sur 0,7 cm d'épaisseur en la déchiquetant dans le sens des fibres. Ajoutez-y la sauce restante et 2 cuil. à soupe d'huile de piment réservée.
+
+Portez le bouillon à ébullition. Plongez-y les légumes et laissez-les cuire 1 minute, puis ajoutez la viande. Rectifiez l'assaisonnement avec la sauce soja claire. Servez chaud, avec l'huile de piment restante à part.
+
+## Noms ingrédients
+
+poitrine de bœuf. ail. oignons verts. pleurotes. haricots mungo. piment
+---
+
+# Soupe acidulée au poisson (Canh chua cá)
+
+## Catégorie
+
+Asiatique. Non testé. Poisson
+
+## Commentaire
+
+Pour déguster le poisson, disposez une assiette creuse avec quelques gouttes de sauce nuoc-mâm et placez le poisson délicatement dans l'assiette. Servez la soupe accompagnée d'un bol de riz. N'hésitez pas à mouiller le riz avec la soupe. Préparation : 20 min. Cuisson : 30 min.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 4 tronçons de bar
+- 100 g de purée de tamarin
+- 4 cuil. à soupe de sauce nuoc-mâm
+- ½ ananas Victoria
+- 2 tomates
+- 10 gombos
+- 2 tiges de taro
+- 100 g de germes de soja
+- 1 oignon jaune
+- 2 gousses d'ail
+- 1 botte de basilic thaï
+- 2 cuil. à soupe de sucre semoule
+- 1 cuil. à café de sel
+- Huile de tournesol
+
+## Déroulé de la recette
+
+Pelez et hachez les gousses d'ail. Pelez et émincez l'oignon jaune. Pelez l'ananas et coupez-le en dés. Coupez la tomate en quartiers. Pelez les tiges de taro et découpez-les en biseaux.
+
+Dans une grande casserole, faites suer l'ail et l'oignon avec un filet d'huile de tournesol. Ajoutez le poisson, les tomates, le tamarin, l'ananas et 150 cl d'eau. Portez à ébullition, puis ajoutez la sauce nuoc-mâm, les gombos, les tiges de taro, les germes de soja, le sucre et le sel. Terminez la cuisson pendant 10 minutes.
+
+Parsemez cette soupe de basilic thaï.
+
+## Noms ingrédients
+
+bar. tamarin. ananas. tomate. gombos. pousses de soja. oignons. ail. basilic
+---
+
+# Tom kha kai
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Soupe thaïlandaise crémeuse au lait de coco, parfumée de galanga et citronnelle. Dégustez parsemé de coriandre et de piment avec du riz blanc nature. Préparation : 15 min. Cuisson : 20 min.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 300 g de blancs de poulet émincés
+- 100 g de champignons de paille (ou de Paris coupés en quatre)
+- 2 échalotes pelées et émincées
+- 3 tiges de citronnelle
+- 15 g de galanga (ou de gingembre)
+- 4 feuilles de combava
+- 20 g de coriandre ciselée
+- 2 petits piments rouges frais coupés en biais
+- 80 cl de lait de coco
+- 4 cuil. à soupe de sauce de poisson (nuoc-mâm)
+- 2 cuil. à soupe de jus de citron vert
+- 1 cuil. à café de sucre
+- Sel
+
+## Déroulé de la recette
+
+Enlevez les couches extérieures fibreuses de la citronnelle et coupez la partie blanche en tronçons de 3 cm, puis recoupez-les en quatre morceaux dans la longueur. Coupez le galanga en fines tranches, les feuilles de combava en 3 lamelles.
+
+Dans une casserole, versez le lait de coco et ajoutez l'échalote, la citronnelle, le galanga et les feuilles de combava. Portez à ébullition. Laissez frémir à couvert pendant 15 minutes. Ajoutez les blancs de poulet, les champignons, la sauce de poisson, le jus de citron et le sucre dans le bouillon. Portez à ébullition puis laissez bouillir à couvert pendant 5 minutes sur feu doux à moyen. Ajustez l'assaisonnement avec du sel selon votre goût.
+
+Dégustez parsemé de coriandre et de piment avec du riz blanc nature.
+
+## Noms ingrédients
+
+blancs de poulet. champignons de Paris. échalotes. citronnelle. galanga. feuilles de combava. coriandre. piment rouge frais. noix de coco. citrons verts
+---
+
+# Tom yam kung
+
+## Catégorie
+
+Asiatique. Non testé. Poisson
+
+## Commentaire
+
+Soupe thaïlandaise épicée et acidulée aux crevettes. Dégustez parsemé de coriandre. Préparation : 15 min. Cuisson : 20 min.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 20 queues de crevettes crues décortiquées
+- 150 g de champignons de paille (ou de Paris coupés en quatre)
+- 100 g de pâtes de riz larges et plates fraîches
+- 3 tiges de citronnelle
+- 20 g de galanga
+- 6 feuilles de combava (ou le zeste d'un combava)
+- 20 g de coriandre ciselée
+- 2 cuil. à café de piment en poudre (facultatif)
+- 1 cube de bouillon de volaille
+- 5 cuil. à soupe de sauce de poisson (nuoc-mâm)
+- 1 ½ cuil. à soupe de jus de citron vert
+- 1 cuil. à café de sucre
+
+## Déroulé de la recette
+
+Enlevez les couches extérieures fibreuses de la citronnelle et émincez finement la partie blanche. Coupez le galanga en fines tranches et les feuilles de combava en 3 lamelles.
+
+Dans une casserole, versez 80 cl d'eau et ajoutez le cube de bouillon, la citronnelle, le galanga et les feuilles de combava. Portez à ébullition. Laissez frémir à couvert pendant 15 minutes sur feu doux à moyen.
+
+Décortiquez les crevettes en gardant leurs derniers anneaux. Incisez le dos pour les déveiner. Coupez les champignons en quatre. Ciselez la coriandre.
+
+Ajoutez les crevettes, les champignons, les pâtes de riz, le piment en poudre, la sauce de poisson, le jus de citron et le sucre. Portez à ébullition puis laissez bouillir sans couvercle pendant 4 minutes sur feu doux à moyen.
+
+Dégustez parsemé de coriandre.
+
+## Noms ingrédients
+
+crevettes. champignons de Paris. citronnelle. galanga. feuilles de combava. coriandre. piment. citrons verts
+---
+
+# Phở Bò
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Accompagnez ce plat de sauce hoisin, de purée de piment et de jus de citron vert directement pressé au-dessus de son assiette. Préparation : 30 min. Cuisson : 3 h 30.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 400 g de nouilles de riz
+- 500 g de jarret de bœuf
+- 500 g de plat de côtes avec os
+- 1 queue de bœuf
+- 3 os à moelle
+- 8 boulettes de bœuf bò viên
+- 400 g de filet de bœuf
+- 3 oignons jaunes
+- 1 oignon blanc
+- 100 g de germes de soja
+- 10 clous de girofle
+- 6 badianes
+- 2 bâtons de cannelle
+- 1 botte de basilic thaï
+- 1 botte de coriandre
+- 1 botte de ciboule
+- 1 noix de muscade noire
+- 1 cuil. à soupe de graines de coriandre
+- 1 cuil. à soupe de poivre noir
+- 4 cuil. à soupe de sauce nuoc-mâm
+
+## Déroulé de la recette
+
+Coupez le jarret de bœuf en dés. Dans une marmite, faites bouillir 4 litres d'eau puis déposez le plat de côtes, le jarret, la queue de bœuf et les os à moelle. Laissez bouillir 10 minutes. Égouttez et rincez les viandes.
+
+Faites à nouveau bouillir 4 litres d'eau dans la marmite puis remettez les viandes et les os. Laissez mijoter 1 heure à feu doux en écumant régulièrement.
+
+Pelez les oignons jaunes, piquez-les avec une fourchette et brûlez-les au-dessus du gaz ou d'une flamme jusqu'à ce qu'ils noircissent. Piquez les clous de girofle sur les oignons. Dans le bouillon, déposez les oignons grillés, les badianes, les bâtons de cannelle, les graines de coriandre et de poivre noir ainsi que la muscade. Continuez la cuisson 2 heures à feu doux en écumant régulièrement.
+
+À l'aide d'une écumoire, retirez les viandes, les épices et les oignons. Ajoutez la sauce nuoc-mâm et les boulettes. Laissez mijoter 10 minutes.
+
+Faites cuire les nouilles dans une grande casserole d'eau bouillante pendant 1 à 2 minutes. Passez-les ensuite sous un filet d'eau froide puis égouttez-les.
+
+Coupez le filet de bœuf en fines tranches. Ciselez la ciboule et effeuillez les herbes. Émincez l'oignon blanc.
+
+Dans les bols, disposez les nouilles, le filet de bœuf cru, un peu d'oignon blanc et des germes de soja. Arrosez de bouillon brûlant puis ajoutez des morceaux de viandes cuites et des boulettes. Parsemez d'herbes et dégustez.
+
+## Noms ingrédients
+
+bœuf. oignons. pousses de soja. basilic. coriandre. oignons verts. moelle de bœuf
+---
+
+# Salade de papaye (Tâm mak houng)
+
+## Catégorie
+
+Asiatique. Non testé. Végé
+
+## Commentaire
+
+On réalise cette salade dans un mortier, car le pilon permet de casser la fibre pour la rendre plus souple et plus digeste (tâm signifie "pilonner"). On peut remplacer la papaye par du haricot kilomètre, de la courgette, de la carotte, du radis blanc ou du concombre. On mange parfois même du tâm de vermicelles de riz ! Dans ce cas, préparez l'assaisonnement dans le mortier puis ajoutez-y les nouilles cuites et mélangez à la cuillère pour ne pas les réduire en bouillie. Préparation : 20 min.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 1 papaye verte de 600 g
+- 10 tomates cerise coupées en deux
+- 2 carottes
+- 2 gousses d'ail
+- 1 piment rouge thaï (ou 3, ou 10 selon votre goût !)
+- 2 cuil. à soupe de sucre
+- Le jus de 1 citron vert
+- 3 cuil. à soupe de sauce de poisson
+- 1 cuil. à soupe de pâte de crevettes (kapi)
+- Sel
+- En option : 2 haricots kilomètres coupés en tronçons de 3 cm ou 2 aubergines rondes coupées en quartiers
+
+## Déroulé de la recette
+
+Épluchez et lavez la papaye et les carottes, puis taillez-les en julienne avec un grand couteau ou un économe dentelé (n'utilisez pas de râpe classique, il faut que les filaments de papaye soient longs). Jetez tous les pépins.
+
+Dans le mortier, écrasez l'ail avec le(s) piment(s), 1 pincée de sel et le sucre. Ajoutez les assaisonnements liquides et mélangez.
+
+Ajoutez les filaments de papaye et de carottes mélangés, éventuellement les tronçons de haricots ou les quartiers d'aubergines rondes. D'une main, avec le pilon, frappez les légumes pour qu'ils s'assouplissent. De l'autre main, avec une cuillère à soupe, mélangez la salade au fur et à mesure pour répartir la sauce.
+
+Goûtez et rectifiez l'assaisonnement si nécessaire. Cette salade doit atteindre l'équilibre entre sucré, salé, acide, pimenté. Ajoutez les tomates cerise et frappez/mélangez 3 ou 4 fois (pour que les tomates rendent un peu de leur jus, sans les écraser).
+
+Servez avec de la couenne de porc soufflée, des haricots dentelés, des branches de liseron d'eau cru, des quartiers de chou blanc ou des aubergines rondes.
+
+## Noms ingrédients
+
+papaye. carottes. ail. piment rouge frais. tomates cerise. citrons verts. aubergines. haricots verts
+---
+
+# Salade de nouilles, sauce au sésame
+
+## Catégorie
+
+Asiatique. Non testé. Végé
+
+## Commentaire
+
+Salade froide de nouilles chinoises aux deux sauces : sésame onctueuse et soja au poivre de Sichuan. Préparation : 20 min. Cuisson : 10 min.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 250 g de nouilles chinoises sèches sans œufs
+- 1 cuil. à soupe de sauce au sésame
+
+**Pour la sauce de soja au poivre de Sichuan**
+- 3 cuil. à soupe de sauce soja claire
+- 1 cuil. à café de poivre de Sichuan
+- 1 cuil. à café d'huile de tournesol
+- 1 cuil. à café de vinaigre de riz foncé
+
+**Pour la sauce au sésame**
+- 2 grosses cuil. à soupe de pâte de sésame
+- 2 cuil. à café de sauce soja claire
+- 10 cl d'eau froide
+- 1 pincée de sucre semoule
+- 1 pincée de sel
+
+**Pour la garniture**
+- 2 petits concombres
+- 1 carotte
+- Quelques fèves de soja poilu (édamamé)
+
+## Déroulé de la recette
+
+Réalisez la sauce au sésame : déposez la pâte de sésame dans un bol. Versez l'eau progressivement en mélangeant constamment (au début, la pâte est compacte, puis elle va se détendre petit à petit). Ajoutez le sel, la sauce soja et le sucre. Mélangez bien le tout et réservez.
+
+Réalisez la sauce de soja au poivre de Sichuan : faites chauffer l'huile à feu vif dans une petite casserole. Ajoutez le poivre de Sichuan et faites frire 30 secondes. Versez la sauce soja et laissez cuire encore 30 secondes. Hors du feu, ajoutez le vinaigre de riz et mélangez. Réservez.
+
+Faites cuire les nouilles dans une grande casserole d'eau bouillante selon les indications du paquet. Passez-les sous l'eau froide et égouttez-les. Laissez-les refroidir.
+
+Pendant la cuisson des nouilles, pelez les concombres et la carotte puis coupez-les en julienne.
+
+Déposez les nouilles froides dans un saladier. Ajoutez la sauce au sésame, la sauce de soja au poivre de Sichuan, les juliennes de légumes et les fèves de soja. Mélangez bien le tout et servez.
+
+## Noms ingrédients
+
+purée de sésame. concombres. carottes. édamamé
+---
+
+# Salade de bœuf à la citronnelle
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Délicatement parfumée par la citronnelle, cette salade est très populaire au Laos et au Cambodge. Elle est souvent accompagnée d'un bol de riz gluant et d'une bière très fraîche. Préparation : 20 min. Cuisson : 5 min.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 300 g de filet de bœuf (rumsteck)
+- 2 tiges de citronnelle
+- 2 échalotes
+- 1 petit oignon
+- 1 petit morceau de galanga (5 g)
+- 2 petits piments rouges frais
+- 1 citron vert
+- ½ batavia
+- 4 feuilles de basilic thaï
+- 2 cuil. à soupe de cacahuètes torréfiées, salées, sans peau, hachées
+
+**Pour la sauce**
+- 2 cuil. à soupe de sauce de poisson (nuoc-mâm)
+- 2 cuil. à soupe de jus de citron vert
+- 1 cuil. à soupe de sucre semoule
+- 1 pincée de sel
+- 1 pincée de poivre
+
+## Déroulé de la recette
+
+Préparez la sauce : mélangez tous les ingrédients dans un bol et laissez reposer.
+
+Pendant ce temps, faites chauffer un wok à feu vif et faites-y griller le bœuf à sec (sans huile) sur chaque face pendant 2 minutes environ. Le bœuf doit être saignant. Laissez refroidir pendant 10 minutes, puis coupez en fines lamelles de la taille d'une bouchée.
+
+Enlevez les couches extérieures fibreuses de la citronnelle et émincez finement les parties blanches. Pelez et émincez finement les échalotes et l'oignon. Pelez et hachez finement le galanga. Coupez les piments en biais. Ciselez finement les feuilles de basilic. Lavez la salade, essorez-la et coupez-la en lanières. Coupez le citron en quartiers.
+
+Dans un saladier, mélangez le bœuf et la sauce préparée, puis ajoutez la citronnelle, l'échalote, l'oignon et le galanga. Mélangez de nouveau.
+
+Répartissez la salade dans 4 assiettes ou 4 bols, puis ajoutez le mélange de bœuf. Terminez par les feuilles de basilic, le piment et les cacahuètes, avant d'ajouter un quartier de citron vert.
+
+## Noms ingrédients
+
+bœuf. citronnelle. échalotes. oignons. galanga. piment rouge frais. citrons verts. cacahuètes. basilic
+---
+
+# Salade de poisson (Koï pa)
+
+## Catégorie
+
+Asiatique. Non testé. Poisson
+
+## Commentaire
+
+C'est une variante du laab, mais avec des morceaux de poisson légèrement pochés. On peut réaliser cette recette avec du poisson cru, qui rappellera sans aucun doute le ceviche péruvien. L'équilibre doit se faire entre l'acidité (mais pas trop), le salé et la fraîcheur des herbes. Dégustez aussitôt avec du riz gluant et des légumes croquants. Préparation : 30 min. Cuisson : 5 min.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 1 poisson de 800 g (dorade, bar, mulet...) bien gratté, en filets
+- 200 g de haricots kilomètres
+- 2 piments
+- 1 tige de citronnelle
+- 10 brins de ciboule
+- 1 botte de menthe effeuillée et grossièrement ciselée
+- 3 cuil. à soupe de poudre de riz grillé
+- Le jus de ½ citron vert
+- 2 cuil. à soupe de sauce de poisson
+- 1 cuil. à soupe de pâte de poisson fermenté (padaek)
+- Sel
+
+## Déroulé de la recette
+
+Coupez les filets de poisson, avec la peau, en deux dans la longueur, puis dans la largeur en lamelles de 3 mm d'épaisseur.
+
+Dans une casserole, faites bouillir 2 litres d'eau avec la tige de citronnelle écrasée, 1 piment et 2 pincées de sel. À ébullition, plongez-y les morceaux de poisson 10 secondes puis sortez-les immédiatement avec une écumoire — il s'agit juste de les saisir. Réservez dans un saladier.
+
+Ciselez finement en rondelles le piment restant, la ciboule et les haricots kilomètres.
+
+Assaisonnez le poisson avec le jus de citron vert, la sauce de poisson, le padaek, puis ajoutez la poudre de riz grillée, la ciboule et la menthe.
+
+Rectifiez l'assaisonnement avec du piment frais émincé (selon votre goût) et du sel si nécessaire.
+
+## Noms ingrédients
+
+daurade. haricots verts. piment. citronnelle. oignons verts. menthe. citrons verts
+---
+
+# Salade de porc épicée (Laab moo)
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Dégustez aussitôt ce laab moo accompagné de riz, de concombres ou de tomates. Préparation : 40 min. Cuisson : 15 min.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 350 g de porc haché
+- 4 cuil. à soupe de riz thaï
+- 2 tiges de citronnelle
+- 1 petit oignon rouge
+- 2 échalotes
+- 2 tiges de ciboule
+- ¼ de botte de coriandre
+- 16 feuilles de menthe fraîches
+- 2 petits piments rouges frais (facultatif)
+- 2 cuil. à café de piment en poudre
+- 2 cuil. à soupe de jus de citron vert
+- 3 cuil. à soupe de sauce de poisson (nuoc-mâm)
+- 30 cl d'huile pour friture
+- 2 cuil. à soupe de sucre de palme en poudre
+
+## Déroulé de la recette
+
+Dans un saladier, mettez le porc haché, 1 cuil. à soupe de jus de citron, 1 cuil. à soupe de sauce de poisson et autant de sucre de palme. Mélangez bien et laissez reposer pendant 15 minutes.
+
+Dans un wok, faites torréfier le riz à sec à feu doux jusqu'à ce qu'il devienne un peu ambré. Retirez-le du wok et laissez refroidir complètement, puis réduisez-le en poudre fine dans un mortier.
+
+Enlevez les couches extérieures fibreuses de la citronnelle, puis émincez finement la partie blanche des tiges. Pelez les échalotes et l'oignon, puis émincez-les. Coupez la ciboule et la coriandre en petits morceaux et le piment frais en biais.
+
+Dans le wok, faites chauffer l'huile pour friture à 140 °C environ. Ajoutez le porc mariné et mélangez rapidement pendant 3 minutes environ en l'écrasant à l'aide d'une spatule pour que la viande se dissocie en petits morceaux. Retirez-la du wok et disposez sur du papier absorbant. Videz l'huile du wok.
+
+À feu vif, faites parfumer la citronnelle, l'oignon et l'échalote pendant 30 secondes environ. Ajoutez le porc frit, la ciboule, 1 cuil. à soupe de jus de citron, 2 cuil. à soupe de sauce de poisson, 1 cuil. à soupe de sucre de palme et 2 cuil. à café de piment en poudre. Faites sauter énergiquement sur feu bien vif pendant 2 minutes. Incorporez la coriandre et remuez pendant 20 secondes.
+
+Répartissez dans des assiettes de service. Parsemez le piment frais (selon votre goût) et les feuilles de menthe.
+
+## Noms ingrédients
+
+porc haché. citronnelle. oignons rouges. échalotes. coriandre. menthe. piment rouge frais. citrons verts. oignons verts
+---
+
+# Porc laqué (Thịt nướng xá xíu)
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Pour ne pas détacher la peau croustillante de la poitrine, coupez le porc laqué d'un coup sec à l'aide d'un couperet. Préparation : 10 min. Marinade : 1 nuit. Cuisson : 2 heures.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 1 kg de poitrine de porc
+- 1 cuil. à soupe de sauce soja
+- 2 cuil. à soupe de sauce nuoc-mâm
+- 2 cuil. à café de poudre de saté
+- 1 cuil. à café de poivre moulu
+
+## Déroulé de la recette
+
+La veille, préparez une marinade : dans un bol, mélangez les sauces soja et nuoc-mâm, le saté et le poivre.
+
+Déposez la poitrine dans un plat allant au four et ajoutez la marinade. Enrobez la poitrine de manière uniforme. Filmez et réservez une nuit au réfrigérateur.
+
+Le jour même, égouttez la viande et récupérez la marinade. Préchauffez le four à 210 °C. À l'aide d'un pinceau, laquez la peau de la poitrine avec la marinade. Enfournez côté peau vers le haut, et laissez cuire pendant 15 minutes.
+
+Retournez la poitrine, laquez-la et faites cuire encore 15 minutes. Répétez l'action toutes les 15 minutes jusqu'à obtenir 2 heures de cuisson.
+
+## Noms ingrédients
+
+poitrine de porc
+---
+
+# Porc caramélisé Hongshao
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Savez-vous que cette recette était le plat préféré de Mao Zedong ? C'est un plat assez nourrissant : on le sert en petites portions. La quantité de vin de riz shaoxing est importante dans cette recette, elle donne du parfum et caramélise la viande. Vous trouverez ce vin dans les magasins asiatiques ou sur Internet. Préparation : 15 min. Cuisson : 2 heures.
+
+## Ingrédients
+
+*Pour 4 petites portions*
+
+- 600 g de poitrine ou d'échine de porc
+- 2 ciboules ou oignons nouveaux
+- 10 g de gingembre frais
+- 2 cuil. à soupe de sauce soja claire
+- 1 cuil. à soupe de sauce soja noire
+- 20 cl de vin de riz shaoxing (ou vin de Xérès)
+- 1 cuil. à soupe de vinaigre de riz blanc (facultatif)
+- 25 g de sucre candi
+
+## Déroulé de la recette
+
+Coupez la poitrine de porc dans la longueur puis en grands morceaux. Dans une casserole, portez 30 cl d'eau à ébullition. Puis blanchissez la viande 2 minutes en écumant la surface. Égouttez-la.
+
+Lavez les ciboules et coupez-les en deux. Pelez le gingembre et coupez-le en lamelles.
+
+Dans une cocotte, faites colorer la viande (sans matière grasse) pendant 2 minutes environ. Ajoutez les deux sauces soja et mélangez. Versez le vin de riz puis couvrez la viande d'eau chaude. Ajoutez le gingembre, les ciboules et le sucre candi. Mélangez et laissez mijoter à feu doux pendant 1 h 30 à 2 heures, sous couvert, jusqu'à ce que la viande soit bien tendre.
+
+Faites ensuite réduire la sauce sur feu vif en remuant doucement de temps en temps. Quand il n'y a presque plus de sauce dans le fond de la cocotte, déglacez avec le vinaigre de riz blanc et arrêtez aussitôt la cuisson.
+
+## Noms ingrédients
+
+poitrine de porc. oignons nouveaux. gingembre
+---
+
+# Porc char siu à la hongkongaise
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Apprécié un peu partout dans le monde, ce mets est un classique des classiques de la cuisine cantonaise. Le porc char siu est mariné et rôti à la broche dans un four traditionnel. On adore sa saveur très parfumée d'épices et de miel, et sa texture fondante et moelleuse en même temps. Demandez à votre boucher de couper l'échine de porc en lanières de 2 × 4 × 22 cm, la taille traditionnelle du char siu. Préparation : 15 min. Repos : 1 nuit. Cuisson : 26 min.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 500 g d'échine de porc sans os
+- 2 gousses d'ail
+
+**Pour la sauce char siu**
+- 1 cuil. à café de cinq-épices chinois
+- ½ cuil. à café de girofle en poudre
+- ¼ de cuil. à café de cannelle en poudre
+- 1 cuil. à café de fond de volaille en poudre
+- 5 grosses pincées de bicarbonate alimentaire
+- 50 g de sauce hoisin
+- 45 g de sauce soja claire
+- 60 g de miel
+- 1 cuil. à café d'huile de sésame
+
+**Pour le glaçage**
+- 1 cuil. à soupe de miel liquide
+- ½ cuil. à soupe d'eau
+
+## Déroulé de la recette
+
+Dans une petite casserole, mettez tous les ingrédients de la sauce char siu. Mélangez intimement et portez à ébullition à feu doux, puis retirez du feu aussitôt. Incorporez l'huile de sésame. Mélangez et laissez refroidir.
+
+Pelez et écrasez l'ail. Mettez les lanières de porc et l'ail écrasé dans un saladier. Ajoutez la sauce char siu. Mélangez bien pour que la viande soit enrobée généreusement de sauce. Couvrez le saladier de film alimentaire. Laissez mariner une nuit au réfrigérateur. Au cours de la marinade, remuez deux ou trois fois la viande pour qu'elle absorbe bien la sauce.
+
+Le lendemain, préchauffez le four à 220 °C. Installez une grille dans une lèchefrite préalablement chemisée de papier d'aluminium. Sortez la viande du réfrigérateur et remuez bien. Disposez les lanières de porc sur la grille et faites cuire au four à mi-hauteur, en chaleur tournante, pendant 23 minutes :
+- au bout de 10 minutes, retournez la viande et badigeonnez généreusement de la sauce restante ;
+- au bout de 20 minutes, retournez de nouveau la viande et badigeonnez-la généreusement du glaçage (mélange de miel et d'eau) pour que la viande soit encore meilleure et plus luisante. Poursuivez la cuisson encore 3 minutes et servez.
+
+## Noms ingrédients
+
+échine de porc. ail. miel
+---
+
+# Porc mariné à la sauce piquante (Jeyuk-bokkeum)
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Si vous constatez que la sauce brûle pendant la cuisson, n'hésitez pas à ajouter un peu d'eau. En Corée, la viande se déguste avec beaucoup de salade verte. En effet, une bouchée de viande se complète la plupart du temps d'une feuille de salade. Préparation : 15 min. Marinade : 20 min. Cuisson : 5 à 9 min.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 500 g d'échine de porc
+- 2 piments verts ou 1 petit poivron vert
+- Une quinzaine de feuilles de salade verte
+- 1 cuil. à café de graines de sésame grillées
+- Huile végétale
+
+**Assaisonnement**
+- 1 cuil. à soupe de ciboule hachée
+- 1 cuil. à café d'ail haché
+- 1 ou 2 cuil. à soupe de gochujang (pâte au piment)
+- ¾ de cuil. à soupe de gochugaru (flocons de piment coréen)
+- 1 pincée de gingembre haché
+- 1 ½ cuil. à soupe de sucre
+- 2 cuil. à soupe de sauce soja
+- 2 cuil. à soupe de vin de riz
+- 2 cuil. à soupe d'huile de sésame grillé
+
+## Déroulé de la recette
+
+Coupez la viande en morceaux de 4 × 3 cm sur 3 mm d'épaisseur. Coupez les piments en morceaux de 2 × 3 cm.
+
+Dans un bol, mélangez tous les ingrédients de l'assaisonnement, puis incorporez-y la viande. Malaxez le tout pour faire pénétrer la sauce. Ajoutez-y les piments et mélangez. Laissez mariner 20 minutes.
+
+Faites chauffer une poêle sur feu moyen, versez un peu d'huile végétale et faites griller la viande de 5 à 9 minutes selon votre préférence. Retournez souvent la viande, pour éviter que la sauce ne brûle.
+
+Saupoudrez de graines de sésame et servez sans attendre avec la salade verte.
+
+## Noms ingrédients
+
+échine de porc. piment vert. ail. gingembre. oignons verts. piment
+---
+
+# Tofu au porc épicé (Ma po tofu)
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Ce mets très apprécié est typique de la cuisine du Sichuan. Avec le tofu fondant et la sauce au porc, vous découvrirez toutes les caractéristiques de la cuisine sichuanaise, relevée et pimentée. Préparation : 15 min. Repos : 15 min. Cuisson : 15 min.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 500 g de tofu ferme
+- 200 g de porc haché
+- 2 oignons (120 g environ)
+- 2 tiges de ciboulette chinoise (20 g)
+- 1 gousse d'ail
+- 1 tranche de gingembre (5 g)
+- 1 ½ cuil. à café de poivre du Sichuan en poudre
+- 1 ½ cuil. à café de piment rouge en poudre
+- 2 cuil. à soupe de pâte de soja pimentée (douban jiang)
+- 1 cube de bouillon de volaille
+- 1 cuil. à soupe de fécule de maïs
+- 1 ½ cuil. à soupe d'huile végétale
+- 1 cuil. à café de sucre semoule
+- Sel
+
+**Pour la marinade**
+- 1 cuil. à soupe de fécule de maïs
+- 2 cuil. à café de sauce soja claire
+- ½ cuil. à café de sauce soja foncée
+- 1 cuil. à soupe de vin de Shaoxing
+- 1 cuil. à café d'huile de sésame
+- ½ cuil. à café de sucre semoule
+
+## Déroulé de la recette
+
+Dans un saladier, mélangez la viande hachée avec tous les ingrédients de la marinade. Laissez reposer 15 minutes. Coupez le bloc de tofu en cubes de 2 cm. Émincez les oignons. Pelez l'ail et le gingembre, puis hachez-les. Ciselez la ciboulette.
+
+Faites chauffer une demi-cuil. à soupe d'huile dans un wok à feu moyen. Faites-y parfumer l'ail, le gingembre ainsi que la moitié de la ciboulette. Ajoutez le porc mariné et faites revenir à feu vif pendant 1 minute. Incorporez le piment rouge et le sucre semoule. Faites revenir encore 3 à 4 minutes. Retirez du wok et réservez au chaud.
+
+Versez une cuil. à soupe d'huile dans le wok. Faites parfumer la pâte de soja pimentée pendant 20 secondes, puis incorporez les oignons et le poivre du Sichuan. Faites revenir pendant 30 secondes environ à feu moyen. Incorporez 25 cl d'eau chaude et le cube de bouillon. Portez à ébullition. Ajoutez les morceaux de tofu et laissez mijoter pendant 4 minutes à couvert sur feu doux. La sauce doit réduire de presque un tiers.
+
+Ajoutez la viande. Remuez et laissez mijoter 30 secondes environ à couvert. Délayez la fécule de maïs dans 3 cl d'eau froide et versez dans le wok. À feu vif, faites épaissir la sauce rapidement en remuant délicatement, afin d'éviter de briser le tofu. Salez selon votre goût. Servez aussitôt parsemé du reste de ciboulette ciselée.
+
+## Noms ingrédients
+
+tofu ferme. porc haché. oignons. ail. gingembre. ciboulette. piment
+---
+
+# Bánh mì
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Au Vietnam, on ajoute 2 gouttes de colorant rouge dans la marinade : la couleur rendrait la viande plus gourmande ! Vous pouvez également ajouter quelques fines rondelles de piment rouge. Préparation : 20 min. Marinade : 1 nuit. Cuisson : 1 h 30.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- ⅓ de baguette de pain par personne
+- 500 g de poitrine de porc
+- 200 g de chả lụa finement tranché (mortadelle vietnamienne)
+- 80 g de carottes râpées marinées (do chua)
+- 100 g de concombre coupé en bâtonnets
+- 80 g de mayonnaise maison
+- 1 botte de coriandre effeuillée
+- Sauce Maggi ou sauce soja
+
+**Pour la marinade**
+- 1 cuil. à café de cinq-épices
+- 1 cuil. à café de poivre blanc moulu
+- 3 gousses d'ail
+- 1 cuil. à café de sel
+- 1 cuil. à café de sauce soja
+- 1 cuil. à café d'huile d'arachide ou de tournesol
+
+## Déroulé de la recette
+
+La veille, préparez la marinade : hachez les gousses d'ail. Dans un plat creux, déposez la poitrine de porc. Ajoutez l'ail haché, le cinq-épices, le poivre, le sel, la sauce soja et l'huile d'arachide. Filmez le plat et laissez mariner toute une nuit au réfrigérateur.
+
+Le jour même, sortez la poitrine de porc et faites-la cuire 1 h 30 à la vapeur. Laissez-la refroidir complètement puis tranchez-la finement.
+
+Ouvrez le pain sur la longueur. Tartinez une face de mayonnaise. Arrosez l'autre face de sauce Maggi. Disposez des tranches de chả lụa et de poitrine de porc mariné. Ajoutez des bâtonnets de concombre et des carottes râpées. Parsemez de coriandre.
+
+## Noms ingrédients
+
+poitrine de porc. ail. carottes. concombres. coriandre. pain
+---
+
+# Têtes de lion (Hong shao)
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Ce plat est un grand classique de la cuisine du Jiangsu pour le banquet du Nouvel An chinois. On l'appelle aussi "boulettes des quatre bonheurs", mais elles ne contiennent pas de lion, seulement de la viande de porc ! Préparation : 15 min. Repos : 1 heure. Cuisson : 1 h 20.
+
+## Ingrédients
+
+*Pour 16 boulettes*
+
+**Pour les boulettes**
+- 350 g de poitrine de porc hachée
+- 1 œuf
+- 16 châtaignes d'eau pelées (80 g)
+- 2 brins de ciboulette chinoise (30 g)
+- 1 cuil. à café de gingembre râpé
+- 1 cuil. à café de poivre blanc
+- 2 cuil. à soupe de fécule de pomme de terre
+- 1 cuil. à café de fond de volaille
+- 1 cuil. à soupe de sauce soja claire
+- 1 cuil. à soupe de vin de Shaoxing
+- 50 cl d'huile pour friture
+- 1 cuil. à soupe d'huile de tournesol
+- 1 cuil. à café de sucre semoule
+- 2 cuil. à café de sel fin
+
+**Pour la sauce hong shao**
+- 4 tranches de gingembre (15 g)
+- 2 étoiles de badiane
+- 1 bâton de cannelle
+- ½ cuil. à soupe de fécule de maïs
+- ½ cube de bouillon de volaille
+- 2 cuil. à soupe de sauce soja claire
+- 1 cuil. à soupe de sauce soja foncée
+- 1 cuil. à soupe de vinaigre de riz noir
+- 30 g de sucre candi
+- 3 cl de vin de Shaoxing
+- 50 cl d'eau chaude
+
+## Déroulé de la recette
+
+Hachez les châtaignes d'eau grossièrement. Ciselez la ciboulette. Dans un saladier, battez l'œuf en omelette. Incorporez tous les ingrédients des boulettes (sauf l'huile pour friture) en gardant une cuil. à café de ciboulette. Mélangez énergiquement (toujours dans le même sens) jusqu'à ce que la préparation soit homogène.
+
+Prélevez une cuil. à soupe de la préparation (35 g environ) et roulez-la en boulette entre vos mains. Disposez les boulettes dans une assiette et laissez reposer 1 heure au frais. Faites frire légèrement les boulettes. Retirez-les à l'aide d'une écumoire et posez-les sur du papier absorbant. Réservez au chaud.
+
+Sur feu moyen, faites parfumer 2 cuil. à soupe de l'huile de friture utilisée précédemment avec les tranches de gingembre, les étoiles de badiane et la cannelle, pendant 40 secondes environ. Incorporez le reste des ingrédients de la sauce (sauf la fécule de maïs) et portez à ébullition. Laissez mijoter à couvert pendant 40 minutes à feu doux. Retirez tous les ingrédients solides.
+
+Incorporez les boulettes et laissez mijoter à couvert pendant 30 minutes sur feu doux à moyen. Retournez les boulettes deux ou trois fois afin qu'elles absorbent la sauce. En fin de cuisson, la sauce aura réduit de trois quarts. Délayez la fécule de maïs avec 3 cl d'eau froide et versez sur les boulettes. Remuez jusqu'à ce que la sauce s'épaississe. Disposez les boulettes dans une assiette et parsemez de la ciboulette ciselée restante.
+
+## Noms ingrédients
+
+poitrine de porc. œuf. gingembre. ciboulette. châtaignes
+---
+
+# Vermicelles et boulettes (Bún chả)
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Arrosez ce plat avec de la sauce nuoc-mâm diluée. Préparation : 15 min. Cuisson : 30 min.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 200 g de vermicelles de riz
+- 400 g de porc haché
+- 1 oignon jaune
+- 4 tiges de ciboule
+- 1 carotte
+- 1 botte de menthe
+- 1 botte de coriandre
+- 20 g de cacahuètes grillées salées
+- 10 cl de sauce caramel
+- 2 cuil. à soupe de sauce nuoc-mâm
+- 1 cuil. à soupe de sauce soja
+- Sel, poivre
+
+## Déroulé de la recette
+
+Préchauffez le four à 180 °C. Pelez et émincez l'oignon. Ciselez la ciboule. Épluchez la carotte et coupez-la en fins bâtonnets.
+
+Dans un saladier, mélangez le porc haché avec l'oignon, la ciboule et les trois sauces. Salez et poivrez. Confectionnez des boulettes de 4 cm de diamètre.
+
+Déposez les boulettes dans un plat allant au four. Enfournez et faites cuire pendant 30 minutes.
+
+Faites cuire les vermicelles dans une grande casserole d'eau bouillante 1 à 2 minutes. Passez-les ensuite sous un filet d'eau froide et égouttez-les.
+
+Concassez les cacahuètes. Effeuillez les herbes.
+
+Servez les boulettes avec les vermicelles et les bâtonnets de carotte, parsemées généreusement de cacahuètes et d'herbes.
+
+## Noms ingrédients
+
+porc haché. oignons. carottes. menthe. coriandre. cacahuètes. oignons verts
+---
+
+# Porc aigre-doux à l'ananas
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Ce mets est un grand classique de la cuisine cantonaise. Traditionnellement on réalise ce plat avec un morceau de poitrine de porc sans couenne et peu gras, c'est bien meilleur qu'avec du filet mignon. La préparation consiste à d'abord frire le porc, puis à ajouter une sauce aigre-douce qui viendra le sublimer. Préparation : 20 min. Repos : 30 min. Cuisson : 15 min.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 350 g de poitrine de porc sans couenne
+- 1 poivron vert (100 g environ)
+- 1 carotte (150 g environ)
+- 200 g de chair d'un demi-ananas
+- ½ gousse d'ail
+- 30 cl d'huile pour friture
+- Sel
+
+**Pour la marinade**
+- ½ cuil. à soupe de vin de riz shaoxing (ou vin de Xérès)
+- 1 cuil. à café de sauce soja claire
+- 1 pincée de sel
+- 3 tours de poivre du moulin
+
+**Pour la pâte**
+- 1 œuf
+- 60 g de farine
+- 3 cl d'eau froide
+
+**Pour la sauce aigre-douce**
+- 10 g de fécule de maïs
+- 50 g de ketchup
+- 2 cuil. à soupe de vinaigre de riz blanc chinois
+- 1 cuil. à café de sauce soja claire
+- 8 cl d'eau froide
+- 1 cuil. à soupe d'huile végétale
+- 60 g de sucre semoule
+- 1 pincée de sel fin
+
+## Déroulé de la recette
+
+Découpez le porc en petits morceaux de 1,5 cm et disposez-les dans un grand bol. Incorporez les ingrédients de la marinade et mélangez. Laissez reposer 30 minutes.
+
+Lavez le poivron, retirez le pédoncule et épépinez-le. Taillez-le en petits dés. Coupez la chair d'ananas en petits cubes. Épluchez la carotte et taillez-la en fines lamelles, en biais.
+
+Préparez la pâte pour friture : dans un grand bol, battez l'œuf en omelette, puis ajoutez la fécule de maïs et l'eau froide. Mélangez. Versez-la sur le porc mariné et mélangez.
+
+Dans un wok, préchauffez l'huile pour friture à 160 °C. Ajoutez les morceaux de porc et remuez sans cesse. La cuisson dure 6 minutes environ. Égouttez-les sur du papier absorbant. Ôtez l'huile de friture du wok en gardant juste une cuil. à soupe. À feu vif, faites parfumer l'ail quelques secondes. Ajoutez le poivron, la carotte ainsi que l'ananas. Faites revenir 1 minute. Salez et retirez du wok.
+
+Pour réaliser la sauce, faites chauffer l'huile à feu moyen. Mélangez tous les ingrédients de la sauce aigre-douce dans un bol, puis incorporez dans le wok. À feu vif, ajoutez les morceaux de porc, le poivron, la carotte ainsi que l'ananas. Mélangez rapidement jusqu'à ce que la sauce enrobe bien les ingrédients solides. Servez aussitôt avec un bol de riz blanc parfumé.
+
+## Noms ingrédients
+
+poitrine de porc. poivron vert. carottes. ananas. ail. œuf
+---
+
+# Yakitori de porc au gingembre
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Le sirop d'agave remplace avantageusement le sucre. Vous en trouverez facilement dans les magasins bio. Servez aussitôt sur le riz bien chaud parsemé de bâtonnets de concombre et de graines germées. Préparation : 20 min. Marinade : 30 min. Cuisson : 10 min.
+
+## Ingrédients
+
+*Pour 12 brochettes*
+
+- 400 g de filet mignon de porc
+- ¼ de concombre
+- Quelques graines germées (facultatif)
+- 4 bols de riz cuit chaud
+
+**Pour la marinade**
+- 2 gousses d'ail
+- 1 cuil. à soupe de gingembre frais
+- 4 cuil. à soupe de sauce soja
+- 1 cuil. à soupe de sirop d'agave ou de miel liquide
+- 1 cuil. à soupe de vinaigre de riz
+- 1 cuil. à café d'huile de sésame toasté
+
+## Déroulé de la recette
+
+Préparez la marinade : pelez le gingembre et râpez-le. Pelez et râpez les gousses d'ail puis déposez-les dans un bol. Ajoutez le reste des ingrédients et mélangez.
+
+Coupez le filet mignon en 36 cubes et déposez-les dans un plat creux. Versez la marinade par-dessus et réservez 30 minutes au réfrigérateur.
+
+Pendant ce temps, pelez le concombre, coupez-le en deux et épépinez-le ; détaillez-le en bâtonnets.
+
+Égouttez les cubes de viande. Sur chaque pique à brochette, enfilez 3 cubes. Faites chauffer le barbecue puis faites griller les brochettes 10 minutes, en les retournant à mi-cuisson.
+
+Trempez les brochettes dans la marinade et servez-les aussitôt sur le riz bien chaud parsemé de bâtonnets de concombre et de graines germées.
+
+## Noms ingrédients
+
+échine de porc. ail. gingembre. concombres. miel. radis germés
+---
+
+# Curry de bœuf aux aubergines
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Curry thaïlandais simple et rapide. Parsemez de coriandre et servez aussitôt, accompagné de riz gluant. Préparation : 10 min. Cuisson : 25 min.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 250 g d'aubergines
+- 500 g de bœuf à braiser
+- 2 cuil. à soupe de pâte de curry jaune ou rouge
+- 1 litre de lait de coco
+- Huile de coco
+
+## Déroulé de la recette
+
+Taillez les aubergines en bâtonnets. Coupez le bœuf en lamelles.
+
+Dans une sauteuse ou un wok, versez 1 goutte d'huile de coco ou de sésame, puis ajoutez la pâte de curry. Mélangez et faites revenir à feu vif 2 minutes, puis ajoutez les aubergines et le bœuf. Faites cuire le tout 5 minutes à feu moyen.
+
+Versez le lait de coco et portez à ébullition, puis laissez mijoter 20 minutes à feu doux.
+
+## Noms ingrédients
+
+bœuf. aubergines. noix de coco
+---
+
+# Steak tartare à la coréenne (Yukhoe)
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Une recette cousine du steak tartare français. Pour simplifier la recette, vous pouvez utiliser de la viande déjà hachée. Si vous ajoutez 2 ou 3 cuil. à soupe de ce steak tartare dans un bibimbap classique, vous obtenez un yukhoe-bibimbap. Pour l'assaisonnement, utilisez des œufs bio extra-frais. Préparation : 20 min.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 400 g de rond de gîte de bœuf
+- 1 poire asiatique moyenne
+- 1 gousse d'ail
+- 1 ½ cuil. à soupe de pignons de pin
+- 4 jaunes d'œufs de petit calibre (facultatif)
+
+**Assaisonnement**
+- 1 cuil. à soupe de ciboule hachée
+- 2 cuil. à café d'ail haché
+- 1 cuil. à soupe de graines de sésame grillées écrasées
+- 2 cuil. à soupe de sucre
+- 4 cuil. à soupe de sauce soja
+- 1 ½ cuil. à soupe d'huile de sésame
+- Poivre
+
+## Déroulé de la recette
+
+Coupez la viande dans le sens opposé des fibres musculaires en allumettes de 3 mm d'épaisseur sur 5 cm de longueur. Faites dégorger le sang en les étalant un moment sur du papier absorbant.
+
+Dans un bol, mélangez tous les ingrédients de l'assaisonnement, puis incorporez-y la viande. Malaxez le tout pour faire pénétrer la sauce.
+
+Étalez les pignons entre deux feuilles de papier absorbant, puis écrasez-les avec un rouleau à pâtisserie afin d'obtenir une poudre sèche.
+
+Coupez la poire en allumettes de 3 mm d'épaisseur sur 5 cm de longueur. Émincez très finement la gousse d'ail.
+
+Étalez les allumettes de poire sur des assiettes et disposez dessus la viande. Saupoudrez de poudre de pignons, puis déposez joliment les tranches d'ail. Vous pouvez ajouter un jaune d'œuf cru sur chaque portion.
+
+## Noms ingrédients
+
+bœuf. poire. ail. jaunes d'œuf. oignons verts
+---
+
+# Bœuf lok lak
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Très savoureux et facile à réaliser, ce plat est un grand classique de la cuisine cambodgienne. En fait, le bœuf lok lak est un plat importé du Vietnam mais qui utilise une technique de marinade chinoise. Préparation : 10 min. Repos : 1 heure. Cuisson : 5 min.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 500 g de filet de bœuf (ou de rumsteck)
+- 2 tomates
+- Quelques feuilles de salade
+- 2 oignons
+- 2 gousses d'ail
+- Quelques pincées de paprika
+- 1 cuil. à soupe de cacahuètes grillées concassées
+- 1 cuil. à soupe d'huile de tournesol
+
+**Pour la marinade**
+- 2 cuil. à café de paprika
+- ¼ de cuil. à café de poivre moulu
+- 1 cuil. à soupe de fécule de maïs
+- 2 cuil. à soupe de sauce de poisson (nuoc-mâm)
+- 1 cuil. à soupe de sauce soja claire
+- 1 cuil. à soupe d'huile de tournesol
+- 1 cuil. à soupe de sucre semoule
+
+**Pour la sauce**
+- 2 cuil. à soupe de jus de citron vert
+- 1 cuil. à soupe de sauce de poisson (nuoc-mâm)
+- 1 cuil. à soupe d'eau chaude
+- 1 cuil. à soupe de sucre semoule
+- ¼ de cuil. à café de poivre noir moulu
+
+## Déroulé de la recette
+
+Mélangez les ingrédients de la sauce dans un bol et laissez reposer. Coupez le bœuf en morceaux de la taille d'une bouchée. Pelez et émincez finement les oignons. Pelez et hachez finement l'ail. Coupez les tomates en fines rondelles. Lavez et essorez les feuilles de salade.
+
+Mettez tous les ingrédients de la marinade dans un saladier, ainsi que le bœuf et l'ail. Mélangez. Couvrez le saladier et laissez mariner 1 heure au réfrigérateur.
+
+Faites chauffer une cuil. à soupe d'huile de tournesol à feu moyen dans un wok. Faites-y revenir l'oignon émincé jusqu'à ce qu'il devienne ambré.
+
+Incorporez le bœuf mariné et faites revenir rapidement pendant 1 minute à feu très vif. Ajoutez la marinade. Mélangez vivement pendant 2 minutes environ (le bœuf doit rester à peine rosé).
+
+Disposez les feuilles de salade dans 4 assiettes de service, puis répartissez le bœuf par-dessus. Parsemez de paprika et de cacahuètes concassées. Dégustez avec les rondelles de tomates, accompagné de riz blanc et de la sauce.
+
+## Noms ingrédients
+
+bœuf. tomate. oignons. ail. cacahuètes. citrons verts
+---
+
+# Bò bún
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Arrosez ce plat avec de la sauce nuoc-mâm diluée et du jus de citron vert. Vous pouvez l'accompagner de pickles de carottes et de nems impériaux. Préparation : 20 min. Marinade : 1 nuit. Cuisson : 10 min.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 600 g de filet de bœuf
+- 200 g de vermicelles de riz
+- 1 concombre
+- 1 sucrine
+- 2 oignons
+- 2 gousses d'ail
+- 20 g de cacahuètes grillées salées
+- 1 bâton de cannelle
+- 1 étoile de badiane
+- 1 botte de menthe
+- 1 botte de coriandre
+- 1 botte de basilic thaï
+- 6 cl de sauce huître
+- 2 cl de sauce soja
+- 2 cl de sauce nuoc-mâm
+- 75 g de sucre semoule
+- 15 g de sel
+- Huile de tournesol
+
+## Déroulé de la recette
+
+La veille, coupez le filet de bœuf en très fines tranches. Déposez-les dans un grand plat creux. Pelez et hachez les oignons et l'ail. Déposez-les dans le plat de viande puis ajoutez les sauces huître, soja et nuoc-mâm, la cannelle, la badiane, le sucre et le sel. Filmez et laissez mariner toute la nuit au réfrigérateur.
+
+Le jour même, faites cuire les vermicelles de riz dans une casserole d'eau bouillante pendant 5 minutes. Passez-les ensuite sous un filet d'eau froide puis égouttez-les.
+
+Coupez la sucrine en chiffonnade. Effeuillez les herbes. Pelez le concombre et détaillez-le en petits dés. Concassez les cacahuètes.
+
+Égouttez la viande de la marinade. Dans une poêle, faites chauffer un filet d'huile de tournesol puis faites dorer la viande 2 minutes de chaque côté à feu vif.
+
+Servez la viande avec les vermicelles, les dés de concombre et la sucrine. Parsemez de cacahuètes et d'herbes.
+
+## Noms ingrédients
+
+bœuf. concombres. oignons. ail. cacahuètes. menthe. coriandre. basilic. laitue romaine
+---
+
+# Bœuf aux oignons et poivre noir
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Les quantités données ici étant pour 4 petites portions, prévoyez un second plat. Sinon, si vous doublez les quantités, réalisez ce plat en deux fois. Préparation : 10 min. Marinade : 30 min. Cuisson : 15 min.
+
+## Ingrédients
+
+*Pour 4 petites portions*
+
+- 250 g de poire ou merlan de bœuf
+- 200 g d'oignons
+- 2 cuil. à soupe de sauce soja claire
+- 1 cuil. à café de sauce soja noire
+- 3 cuil. à soupe d'huile végétale
+- Sel, poivre noir moulu
+
+**Pour la marinade**
+- 1 cuil. à soupe de vin de riz shaoxing (ou vin de Xérès)
+- 1 cuil. à soupe de sauce soja claire
+- 1 cuil. à café rase de fécule de pomme de terre
+- 1 cuil. à café d'huile végétale
+
+## Déroulé de la recette
+
+Coupez la viande en très fines lamelles. Préparez la marinade : mélangez la sauce soja et le vin de riz dans un petit saladier. Déposez les lamelles de viande et mélangez. Ajoutez la fécule de pomme de terre et mélangez à nouveau. Versez l'huile et mélangez encore une fois. Réservez 30 minutes au réfrigérateur.
+
+Pelez les oignons et coupez-les en très fines lamelles.
+
+Faites chauffer 2 cuil. à soupe d'huile dans un wok à feu moyen puis faites revenir les lamelles de bœuf en remuant constamment pour les séparer. Dès que la viande commence à changer de couleur, débarrassez-la sur une assiette.
+
+Versez le reste d'huile dans le wok puis déposez les lamelles d'oignon. Faites-les suer doucement jusqu'à ce qu'elles deviennent translucides. Ajoutez les deux sauces soja et mélangez. Remettez le bœuf et faites cuire le tout 1 à 2 minutes à feu moyen. Salez si nécessaire et parfumez avec le poivre noir.
+
+Servez aussitôt.
+
+## Noms ingrédients
+
+bœuf. oignons
+---
+
+# Bœuf au saté (Thịt bò sốt sa tế)
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Parsemez le bœuf au saté de cacahuètes concassées et de coriandre ou de ciboule ciselée. Servez avec du riz parfumé. Préparation : 5 min. Cuisson : 7 min.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 500 g de tende de tranche
+- 1 cuil. à soupe de poudre de saté
+- 1 oignon jaune
+- 2 gousses d'ail
+- 2 cuil. à soupe de sauce nuoc-mâm
+- 1 cuil. à soupe de sauce soja
+- Huile de tournesol
+
+## Déroulé de la recette
+
+Coupez la viande en fines tranches. Pelez et émincez l'oignon. Pelez et hachez les gousses d'ail.
+
+Dans une poêle, faites chauffer un filet d'huile de tournesol puis faites dorer l'oignon et l'ail. Ajoutez la viande, le saté, les sauces nuoc-mâm et soja. Faites revenir le tout pendant 5 minutes.
+
+## Noms ingrédients
+
+bœuf. oignons. ail. cacahuètes. coriandre. oignons verts
+---
+
+# Laab de bœuf (Laab dip)
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+C'est la recette de laab la plus courante, servie en toute occasion et toujours préparée en grandes quantités. C'est un tartare de bœuf cru, qui s'assaisonne au dernier moment avant d'être servi. Il se mélange toujours à la main, on dit d'ailleurs que c'est la main de la cuisinière qui fait tout son goût. On utilise dans cette recette des tripes de bœuf émincées (la partie appelée "feuillet" de préférence). On le sert parfois légèrement cuit, passé quelques instants à la poêle. Préparation : 45 min. Cuisson : 5 min.
+
+## Ingrédients
+
+*Pour 4 à 6 personnes*
+
+- 500 g de viande de bœuf maigre (rond, gîte, tende de tranche, jumeau...)
+- 250 g de feuillet de bœuf
+- 3 échalotes
+- 10 g de galanga
+- 2 tiges de citronnelle
+- 3 cuil. à soupe de poudre de riz grillé
+- 1 cuil. à café de piment de Cayenne en poudre
+- Quelques piments thaïs frais, rouges ou verts
+- 10 brins de ciboule
+- 10 brins de coriandre
+- 10 brins de menthe
+- Le jus de 1 citron vert
+- 2 cuil. à soupe de sauce de poisson
+- 1 cuil. à soupe de pâte de poisson fermenté (padaek)
+- Sel
+
+**Pour le service**
+- Radis, concombre, endive, aubergine ronde, haricot kilomètre...
+
+## Déroulé de la recette
+
+Lavez les feuillets (tripes) de bœuf, puis placez-les dans une casserole et recouvrez-les d'eau. Portez à ébullition pendant 5 minutes, puis égouttez et rincez à l'eau froide. Taillez en fines lamelles.
+
+Épluchez et émincez les échalotes en fines lamelles. Hachez le galanga et ciselez finement les bulbes de citronnelle, après avoir retiré la première peau et le pédoncule. Lavez et ciselez les herbes.
+
+Hachez finement le bœuf façon tartare, au couteau. Dans un saladier, mélangez, avec les mains, la viande et les tripes, puis assaisonnez avec la sauce de poisson, le padaek et le jus du citron vert. Mélangez à nouveau.
+
+Ajoutez la poudre de riz, le piment en poudre, les échalotes, le galanga et la citronnelle. Mélangez et rectifiez l'assaisonnement avec du sel ou du citron si nécessaire.
+
+Ajoutez les herbes ciselées et servez aussitôt dans un plat, sur lequel vous ajouterez quelques feuilles de menthe et des piments pour que chacun en croque à sa guise.
+
+## Noms ingrédients
+
+bœuf. échalotes. galanga. citronnelle. coriandre. menthe. oignons verts. citrons verts. piment de Cayenne. radis. concombres. aubergines. haricots verts
+---
+
+# Canard au vin de riz et à la patate douce
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Plat mijoté chinois aux saveurs sucrées-salées. Servez avec du riz nature. Préparation : 15 min. Cuisson : 1 h 30.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 4 cuisses de canette
+- 400 g de patate douce
+- 10 jujubes séchés
+- 4 lamelles de gingembre
+- 2 ciboules ou oignons nouveaux
+- 10 cl de vin de riz shaoxing (ou vin de Xérès)
+- 4 cuil. à soupe de sauce soja claire
+- Sel
+
+## Déroulé de la recette
+
+Pelez et lavez la patate douce puis coupez-la en grosses frites.
+
+Dans une cocotte sans matière grasse, faites dorer les cuisses de canette, en les plaçant côté peau contre le fond. Débarrassez sur une assiette en conservant la graisse dans la cocotte.
+
+Déposez les frites de patate douce dans la cocotte et faites-les dorer 5 minutes environ à feu vif. Égouttez-les sur un papier absorbant.
+
+Pendant ce temps, lavez les ciboules et coupez-les en deux. Déposez le gingembre et les ciboules dans la cocotte. Ajoutez les cuisses de canette, le vin et la sauce soja. Mélangez pour bien enrober les cuisses. Couvrez d'eau chaude puis laissez mijoter 1 heure à feu doux, sous couvert, en ajoutant les jujubes à mi-cuisson.
+
+Remettez les frites de patate douce dans la cocotte, salez et poursuivez la cuisson 15 minutes. Faites réduire la sauce à feu vif jusqu'à l'obtention d'une texture sirupeuse.
+
+## Noms ingrédients
+
+canard. patate douce. gingembre. oignons nouveaux
+---
+
+# Canard laqué (Vịt quay)
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Accompagnez le canard laqué de sauce hoisin et de légumes frais. Un régal ! Préparation : 10 min. Marinade : 1 nuit. Cuisson : 1 heure.
+
+## Ingrédients
+
+*Pour 6 personnes*
+
+- 1 canard entier vidé
+- 4 gousses d'ail
+- 10 g de gingembre frais
+- 2 cuil. à soupe de cinq-épices
+- 5 cuil. à soupe de miel liquide
+- 2 cuil. à soupe d'huile de tournesol
+
+## Déroulé de la recette
+
+La veille, préparez une marinade : pelez et hachez l'ail et le gingembre. Dans un bol, mélangez le miel, l'ail, le gingembre, le cinq-épices et l'huile. Déposez le canard dans un plat allant au four et enduisez-le de marinade. Réservez une nuit au réfrigérateur.
+
+Le jour même, égouttez le canard et récupérez la marinade. Préchauffez le four à 180 °C.
+
+À l'aide d'un pinceau, laquez le canard avec la marinade. Enfournez et laissez cuire pendant 20 minutes. Retournez le canard, laquez-le et faites cuire encore 20 minutes. Retournez-le à nouveau, laquez-le une dernière fois et poursuivez la cuisson 20 minutes.
+
+## Noms ingrédients
+
+canard. ail. gingembre. miel
+---
+
+# Poulet grillé à la thaïe
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Dégustez dès la sortie du four avec de la sauce au piment doux. Servez cette recette avec des germes de haricots mungo et de la laitue. Préparation : 10 min. Marinade : 2 heures. Cuisson : 30 min.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 4 cuisses de poulet
+- 3 cuil. à soupe de pâte de curry jaune
+- 3 cuil. à soupe de sauce soja
+- 1 tige de citronnelle
+- 3 cuil. à soupe d'huile de sésame
+
+## Déroulé de la recette
+
+Mettez les cuisses de poulet dans un plat à four. Dans un bol, mélangez le curry jaune, la sauce soja, la citronnelle finement ciselée et ajoutez l'huile de sésame au mélange.
+
+Enduisez les cuisses de poulet de cette marinade et réservez 2 heures ou une nuit au réfrigérateur.
+
+Préchauffez le four à 210 °C. Enfournez le poulet 30 minutes.
+
+## Noms ingrédients
+
+cuisses de poulet. citronnelle. haricots mungo
+---
+
+# Poulet mijoté aux champignons parfumés
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Plat chinois mijoté aux saveurs profondes de champignons shiitakés et de sauce d'huître. Préparation : 20 min. Repos : 1 heure. Cuisson : 30 min.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 4 cuisses de poulet (800 g)
+- 8 champignons parfumés séchés (60 g)
+- 5 tranches de gingembre frais (10 g)
+- 1 gousse d'ail hachée
+- 1 tige de ciboulette chinoise (15 g)
+- 10 brins de coriandre (10 g)
+- 1 cuil. à café de fécule de maïs
+- 1 cuil. à soupe de sauce d'huître
+- 1 cuil. à soupe d'huile d'arachide
+- Sel
+
+**Pour la marinade**
+- 1 cuil. à soupe de fécule de maïs
+- 1 cuil. à soupe de sauce soja claire
+- ½ cuil. à soupe de sauce soja foncée
+- 1 cuil. à soupe de vin de Shaoxing
+- 1 cuil. à soupe d'huile d'arachide
+- 1 cuil. à café de sucre semoule
+- ½ cuil. à café de poivre blanc moulu
+
+## Déroulé de la recette
+
+Faites réhydrater les champignons séchés pendant 1 heure dans un grand bol d'eau tiède. Essorez-les et coupez-les en petits morceaux de 2,5 cm.
+
+Fendez les cuisses de poulet en deux. À l'aide d'un couteau tranchant, enlevez tous les os. Découpez la chair des cuisses en cubes de 3 cm de côté. Ajoutez l'ensemble des ingrédients de la marinade et mélangez. Laissez reposer 30 minutes.
+
+Coupez la ciboulette et la coriandre en petits tronçons de 2,5 cm de longueur.
+
+Dans un wok, faites parfumer l'ail et le gingembre avec une cuil. à soupe d'huile d'arachide pendant 20 secondes. À feu vif, incorporez les morceaux de poulet marinés et faites revenir pendant 4 minutes. Ajoutez les morceaux de champignons et la sauce d'huître. Poursuivez la cuisson pendant 3 minutes tout en mélangeant. Ajoutez 15 cl d'eau chaude puis laissez mijoter à couvert pendant 20 minutes environ, jusqu'à ce que la sauce ait réduit de deux tiers.
+
+Incorporez la ciboulette. Délayez une cuil. à café de fécule de maïs dans 4 cl d'eau froide, puis versez dans le wok et mélangez quelques secondes jusqu'à ce que la sauce soit épaissie. Assaisonnez selon votre goût. Disposez le poulet dans des assiettes et parsemez de coriandre. Servez aussitôt.
+
+## Noms ingrédients
+
+cuisses de poulet. champignons shiitaké. gingembre. ail. ciboulette. coriandre
+---
+
+# Poulet au curry vert (Kaeng kiew wan kai)
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Il s'agit d'un curry très doux, peu pimenté. La pâte de curry verte est toujours meilleure fait maison. Et en plus, vous pouvez ajuster le piquant selon votre goût. La pâte de curry se conserve très bien dans un pot bien fermé et placé au frais, jusqu'à 3 semaines. Préparation : 20 min. Cuisson : 40 min.
+
+## Ingrédients
+
+*Pour 8 personnes*
+
+**Pour la pâte de curry vert thaï**
+- 7 piments jalapeños verts séchés
+- 2 piments oiseaux rouges
+- 3 tiges de citronnelle
+- 5 feuilles de combava
+- 3 racines de coriandre avec tige
+- 3 échalotes
+- 10 g d'ail
+- 10 g de galanga frais
+- 15 g de curcuma jaune frais
+- 1 cuil. à soupe de grains de cumin
+- 1 cuil. à soupe de grains de poivre blanc
+- 1 cuil. à soupe de pâte de crevettes
+- 50 g d'huile de tournesol
+- 1 pincée de sel
+
+**Pour le curry**
+- 1 kg de hauts de cuisse de poulet (sans peau et désossés)
+- 6 petites aubergines rondes thaï
+- 150 g de mini-aubergines thaï
+- 2 gros piments rouges frais
+- 60 g de feuilles de basilic thaï
+- 5 feuilles de combava
+- 60 cl de lait de coco
+- 4 cuil. à soupe de sauce de poisson (nuoc-mâm)
+- 2 cuil. à soupe de sucre de palme en poudre
+- Sel
+
+## Déroulé de la recette
+
+Préparez la pâte de curry : faites tremper les piments jalapeños pendant 30 minutes dans un petit saladier d'eau chaude. Égouttez, équeutez et épépinez-les. Épépinez le piment oiseau. Dans une poêle, faites griller à sec le cumin et le poivre pendant 1 minute à feu moyen. Laissez refroidir. Enlevez les couches extérieures fibreuses de la citronnelle, puis hachez grossièrement les parties blanches. Pelez et hachez les échalotes, l'ail, le galanga et le curcuma.
+
+Mettez tous les ingrédients (sauf l'huile) dans un petit mixeur et réduisez en une pâte homogène. Faites chauffer l'huile dans un wok. Faites-y frire la pâte de curry pendant 8 minutes environ à feu doux, jusqu'à ce que l'huile soit totalement absorbée.
+
+Préparez maintenant le curry. Coupez les petites aubergines en quartiers. Ciselez chaque feuille de combava en 4 lamelles. Équeutez, épépinez et coupez le piment en lamelles.
+
+Faites bouillir la pâte de curry dans le wok avec l'aubergine, les mini-aubergines thaï, les feuilles de combava, le piment, le sucre de palme, la moitié du lait de coco et 5 cl d'eau. Laissez frémir pendant 10 minutes à découvert sur feu doux à moyen.
+
+Ajoutez les cuisses de poulet, la sauce de poisson et le reste de lait de coco. Portez à ébullition. Sur feu doux à moyen, laissez mijoter à couvert pendant 20 à 25 minutes jusqu'à ce que la sauce épaississe. Salez selon votre goût. Ajoutez le basilic thaï et mélangez.
+
+## Noms ingrédients
+
+cuisses de poulet. aubergines. citronnelle. feuilles de combava. échalotes. ail. galanga. coriandre. piment jalapeño. piment oiseau. piment rouge frais. noix de coco. basilic
+---
+
+# Poulet poché et riz cuit au bouillon (Khao man kaï)
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Cette recette rappellera peut-être aux voyageurs le fameux chicken rice de Singapour. Le riz prend toute la saveur et le gras du bouillon. Servez le poulet tiède découpé en morceaux avec la sauce pimentée de tous les jours ou tout simplement de la sauce soja avec des rondelles de piment. Accompagnez de tranches de concombre et d'une soupe claire réalisée à partir du reste de bouillon de cuisson du poulet. Préparation : 10 min. Cuisson : 1 h 30 + 20 min.
+
+## Ingrédients
+
+*Pour 4 à 6 personnes*
+
+- 1 poulet fermier d'environ 1,5 kg
+- 400 g de riz parfumé
+- 2 oignons nouveaux (ou 4 brins de ciboule)
+- 5 tranches de gingembre
+- Gros sel
+
+**Pour la sauce piquante de tous les jours**
+- 2 gousses d'ail
+- 1 à 3 piments thaïs rouges selon le goût
+- 5 cl de sauce de poisson
+- Le jus de ¼ de citron vert
+- 1 cuil. à soupe de sucre en poudre
+
+## Déroulé de la recette
+
+Préparez la sauce piquante : faites chauffer le sucre mélangé à 5 cl d'eau dans une casserole. Quand le mélange est homogène, ajoutez les gousses d'ail épluchées, dégermées et hachées menu, le jus de citron, 1 piment rouge taillé en rondelles et la sauce de poisson.
+
+Placez le poulet entier dans une casserole et recouvrez-le d'eau. Ajoutez le gingembre, les oignons nouveaux et 1 cuil. à café bombée de gros sel. Portez à ébullition, écumez, puis baissez le feu et laissez mijoter à couvert à feu doux pendant 1 heure à 1 h 30. Passé ce temps, retirez le poulet de son bouillon et réservez sous un papier cuisson pour le garder au chaud.
+
+Lavez et égouttez 400 g de riz, puis faites-le cuire avec 1,5 fois son volume de bouillon pendant 15 minutes.
+
+Servez le poulet tiède découpé en morceaux avec la sauce pimentée ou de la sauce soja avec des rondelles de piment.
+
+## Noms ingrédients
+
+poulet. oignons nouveaux. gingembre. ail. piment rouge frais. citrons verts. concombres
+---
+
+# Poulet aux trois tasses
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Pourquoi cette appellation de poulet aux trois tasses ? Parce que, traditionnellement, on prépare ce plat avec 1 tasse de vin jaune chinois, 1 tasse de sauce soja et 1 tasse d'huile de sésame. Préparation : 10 min. Cuisson : 1 h 30.
+
+## Ingrédients
+
+*Pour 4 à 6 personnes*
+
+- 800 g de poulet jaune fermier coupé en morceaux
+- 2 ciboules ou oignons nouveaux
+- 4 gousses d'ail
+- 20 g de gingembre frais
+- 1 fleur d'anis étoilé
+- 15 cl de sauce soja claire
+- 5 cl de sauce soja noire
+- 20 cl de vin de riz shaoxing (ou vin de Xérès)
+- 3 cl d'huile de sésame
+- 20 g de sucre candi
+
+## Déroulé de la recette
+
+Dans une grande cocotte, saisissez les morceaux de poulet en les plaçant côté peau contre le fond du récipient (ajoutez un filet d'huile si le poulet est maigre).
+
+Pendant ce temps, pelez le gingembre puis coupez-le ainsi que les ciboules en gros morceaux. Pelez les gousses d'ail.
+
+Quand les morceaux de poulet sont dorés de tous côtés, ajoutez le gingembre, les gousses d'ail, les ciboules et l'anis étoilé. Continuez la cuisson 1 minute en remuant. Ajoutez le vin de riz, les deux sauces soja, le sucre candi et mélangez bien. Baissez sur feu doux et laissez cuire à l'étouffée pendant 1 heure à 1 h 30.
+
+En fin de cuisson, augmentez le feu pour réduire la sauce en remuant de temps en temps. Ajoutez l'huile de sésame et mélangez à nouveau.
+
+## Noms ingrédients
+
+poulet. ail. gingembre. oignons nouveaux
+---
+
+# Poulet au caramel (Khoua kaï vaan)
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+L'astuce pour le caramel : il doit être liquide, uniforme, faire des bulles et commencer tout juste à sentir le brûlé. Servez aussitôt avec du riz blanc et une petite soupe bouillon. Préparation : 15 min. Cuisson : 10 min.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 2 cuisses de poulet désossées
+- 2 blancs de poulet
+- 2 gousses d'ail hachées
+- 2 brins de ciboule coupés en tronçons de 2 cm
+- 100 g de sucre en poudre
+- 1 cuil. à soupe d'huile
+- Sauce soja
+- Sel
+
+## Déroulé de la recette
+
+Détaillez la viande en dés de 2 × 2 cm, en gardant la peau afin que le plat ne soit pas trop sec.
+
+Versez l'huile et le sucre dans un wok et faites chauffer à feu moyen. Sans rien toucher, attendez que le sucre caramélise. Il doit être liquide, uniforme, faire des bulles et commencer tout juste à sentir le brûlé.
+
+Quand le caramel est prêt, saisissez les dés de poulet avec l'ail émincé et mélangez vivement avec une spatule en faisant attention aux projections.
+
+Une fois le caramel bien réparti et les dés de poulet saisis de tous les côtés, ajoutez un peu d'eau et laissez cuire 3 à 5 minutes à cœur. Assaisonnez avec du sel ou de la sauce soja.
+
+Ajoutez les tronçons de ciboule, mélangez et servez aussitôt avec du riz blanc et une petite soupe bouillon.
+
+## Noms ingrédients
+
+blancs de poulet. cuisses de poulet. ail. oignons verts
+---
+
+# Poulet sauté aux noix de cajou
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Vous pouvez remplacer la fécule de pomme de terre par la Maïzena, mais elle donne une sauce moins brillante et moins transparente. Servez sans attendre. Préparation : 15 min. Marinade : 30 min. Cuisson : 10 min.
+
+## Ingrédients
+
+*Pour 4 petites portions*
+
+- 250 g de filet de poulet
+- 50 g de noix de cajou grillées
+- 1 ciboule ou oignon nouveau
+- 3 tranches de gingembre
+- 1 gousse d'ail
+- 1 cuil. à soupe de sauce soja claire
+- 2 cuil. à soupe d'huile végétale
+
+**Pour la marinade**
+- 1 cuil. à soupe de sauce soja claire
+- 1 cuil. à café de fécule de pomme de terre
+- 1 cuil. à soupe de vin de riz shaoxing (ou vin de Xérès)
+
+**Pour la sauce**
+- 1 cuil. à soupe de sauce soja claire
+- 5 cuil. à soupe d'eau
+- 1 cuil. à café de fécule de pomme de terre
+- 2 cuil. à café de vinaigre de riz
+- 1 cuil. à café de sucre
+- Sel
+
+## Déroulé de la recette
+
+Coupez le filet de poulet en petits cubes. Mélangez-les avec la marinade. Réservez 30 minutes au réfrigérateur.
+
+Hachez l'ail, la ciboule et le gingembre.
+
+Dans un wok, faites chauffer l'huile à feu moyen puis faites revenir le poulet jusqu'à ce qu'il change de couleur. Ajoutez l'ail, la ciboule et le gingembre. Continuez la cuisson en mélangeant pendant 1 minute.
+
+Mélangez tous les éléments de la sauce puis versez-la dans le wok en remuant constamment. Une fois la sauce liée, arrêtez aussitôt la cuisson. Ajoutez les noix de cajou grillées et mélangez. Servez sans attendre.
+
+## Noms ingrédients
+
+blancs de poulet. noix de cajou. ail. gingembre. oignons nouveaux
+---
+
+# Brochettes de poulet au satay (Saté Ayam)
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Dégustez aussitôt avec du riz blanc nature parsemé d'oignons frits. Trempez préalablement les piques à brochettes en bois dans de l'eau froide pendant 15 minutes, pour éviter qu'ils ne brûlent pendant la cuisson. Préparation : 20 min. Repos : 3 heures. Cuisson : 10 min.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 500 g de blancs de poulet
+- 2 cuil. à soupe d'huile d'arachide
+- Sauce satay indonésienne (voir recette)
+
+**Pour la marinade**
+- 15 g de gingembre frais
+- 3 cuil. à soupe de sauce soja salée
+- 2 cuil. à soupe de sauce soja sucrée
+- 2 cuil. à café de jus de citron vert
+- 2 cuil. à soupe d'huile d'arachide
+- 1 cuil. à soupe de sucre de palme en poudre
+
+## Déroulé de la recette
+
+Préparez la marinade : pelez et hachez finement le gingembre. Dans un saladier, mélangez tous les ingrédients de la marinade. Réservez au frais.
+
+Coupez les blancs de poulet en deux dans leur épaisseur. Sur le plan de travail, aplatissez la viande jusqu'à une épaisseur de 0,5 cm environ, pour que la chair soit plus tendre. Coupez le poulet en petits cubes de 2 cm.
+
+Faites tremper une vingtaine de piques en bois dans de l'eau froide pendant 15 minutes. Séchez-les avec du papier absorbant, puis huilez-les légèrement.
+
+Répartissez les petits cubes de poulet sur les piques. Disposez les brochettes dans le saladier de marinade et laissez mariner pendant au moins 3 heures au frais. Pendant la marinade, retournez les brochettes deux ou trois fois.
+
+Huilez légèrement une plancha ou une poêle antiadhésive. Faites-y griller les brochettes sur feu doux à moyen pendant 10 minutes environ. Pendant la cuisson, retournez les brochettes régulièrement et badigeonnez-les généreusement de marinade.
+
+Au moment de servir, nappez les brochettes de sauce satay. Dégustez aussitôt avec du riz blanc nature parsemé d'oignons frits.
+
+## Noms ingrédients
+
+blancs de poulet. gingembre. citrons verts. échalotes frites
+---
+
+# Bœuf au fromage
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Cette recette, très peu répandue au Japon, a été occidentalisée. Mais l'intégration d'un fromage français à la brochette yakitori est une réussite. Remplacez le comté par du gruyère, de l'emmental, du gouda... Préparation : 15 min. Marinade : 30 min. Cuisson : 4 min.
+
+## Ingrédients
+
+*Pour 12 brochettes*
+
+- 600 g de carpaccio de bœuf
+- 600 g de comté
+- 10 cl de sauce yakitori
+- Graines de sésame (facultatif)
+
+## Déroulé de la recette
+
+Coupez le comté en longs bâtonnets. Enroulez chaque bâtonnet dans 1 tranche de viande puis enfilez le rouleau sur une pique en bois.
+
+Déposez les brochettes dans un plat creux. Versez la sauce yakitori par-dessus et laissez mariner 30 minutes au réfrigérateur.
+
+Faites chauffer le barbecue. Égouttez les brochettes puis faites-les griller 3 minutes, en les retournant à mi-cuisson. À l'aide d'un pinceau, badigeonnez-les de sauce yakitori et faites-les griller à nouveau 1 minute.
+
+Badigeonnez une dernière fois les brochettes de sauce et servez-les aussitôt saupoudrées de graines de sésame.
+
+## Noms ingrédients
+
+bœuf. comté
+---
+
+# Tsukuné
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+Pour l'assaisonnement, utilisez des œufs bio extra-frais. Préparation : 25 min. Cuisson : 10 min.
+
+## Ingrédients
+
+*Pour 12 brochettes*
+
+**Pour les boulettes**
+- 300 g de poulet haché
+- 150 g de chair à saucisse
+- 1 ciboule ou 1 oignon nouveau
+- ½ cuil. à soupe de miso
+- 1 cuil. à soupe de gingembre frais râpé
+- 1 cuil. à soupe de fécule de pomme de terre
+- 10 cl de sauce yakitori
+
+**Pour servir**
+- 4 jaunes d'œufs
+- Sauce soja
+
+## Déroulé de la recette
+
+Lavez et émincez finement la ciboule.
+
+Dans un saladier, déposez le poulet haché, la chair à saucisse, le miso, le gingembre, la ciboule et la fécule de pomme de terre. Mélangez l'ensemble des ingrédients à la main de façon à obtenir une préparation homogène.
+
+Avec vos mains légèrement huilées, prélevez 2 bonnes cuil. à soupe de préparation à la viande et façonnez 1 boulette ovale. Enfilez-la sur une pique à brochette. Réalisez ainsi les autres brochettes de boulettes.
+
+Faites chauffer le barbecue puis faites griller les brochettes 4 minutes. À l'aide d'un pinceau, badigeonnez-les de sauce yakitori puis faites-les griller à nouveau 4 minutes, en les retournant à mi-cuisson. Badigeonnez-les encore de sauce et faites-les cuire 1 à 2 minutes supplémentaires jusqu'à ce qu'elles soient bien dorées.
+
+Nappez une dernière fois les brochettes de sauce et dégustez-les aussitôt en les trempant dans le jaune d'œuf assaisonné de sauce soja.
+
+## Noms ingrédients
+
+poulet haché. chair à saucisse. gingembre. oignons nouveaux. jaunes d'œuf
+---
+
+# Poulet frit à la sauce aigre-douce (Dak gangjeong)
+
+## Catégorie
+
+Asiatique. Non testé. Viande
+
+## Commentaire
+
+C'est un autre KFC (Korean Fried Chicken), aussi connu et apprécié dans le monde que l'américain ! Préparation : 30 min. Repos : entre 4 et 12 heures. Cuisson : 30 min.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 1 poulet d'environ 1,4-1,5 kg
+- 50 g de carotte hachée
+- 50 g d'oignon haché
+- 40 g de cacahuètes grillées non salées concassées
+- 160 g de fécule de maïs (Maïzena)
+- 80 g de farine de blé type 45
+- 300 ml de lait
+- Sel, poivre
+
+**Sauce**
+- 2 gousses d'ail hachées
+- 100 g de gochujang (pâte au piment)
+- 100 g de ketchup
+- 70 ml de miel
+- 2 cuil. à café de poudre de curry
+- 100 ml d'eau
+- 2 cuil. à soupe de sauce soja
+- 2 cuil. à café de vinaigre de riz
+- 2 cuil. à soupe d'huile de sésame grillé
+
+## Déroulé de la recette
+
+Détaillez le poulet en 14 ou 16 morceaux. Mettez-les dans un saladier, ajoutez le lait, ½ cuil. à café de sel et poivrez. Laissez mariner entre 4 et 12 heures au réfrigérateur.
+
+Mélangez tous les ingrédients de la sauce excepté la carotte et l'oignon et laissez reposer entre 4 et 12 heures à température ambiante.
+
+Amalgamez la fécule de maïs et la farine, mettez-en la moitié dans la marinade du poulet et mélangez. Dans un sachet en plastique, versez le reste de farine et les morceaux de poulet. Fermez le sachet et secouez-le pour que tous les morceaux soient farinés uniformément.
+
+Dans une grande cocotte, faites chauffer l'huile à 170 °C, puis faites frire le poulet entre 3 et 5 minutes selon la grosseur des morceaux. Juste avant de déguster, réalisez une seconde cuisson de 1 à 2 minutes.
+
+Dans une grande casserole, faites sauter la carotte et l'oignon hachés 20 secondes avec un peu d'huile, versez la sauce et portez à l'ébullition. Éteignez le feu, incorporez le poulet frit et mélangez délicatement.
+
+Disposez le poulet sur des assiettes, saupoudrez de cacahuètes concassées et servez sans attendre.
+
+## Noms ingrédients
+
+poulet. carottes. oignons. ail. cacahuètes. miel. piment
+---
+
+# Bouillon dashi
+
+## Catégorie
+
+Asiatique. Non testé. Végé
+
+## Commentaire
+
+Le bouillon dashi est la base indispensable dans la cuisine japonaise. Il sert à la réalisation de nombreux plats comme la fameuse soupe miso mais on l'utilise aussi dans des sauces ou pour cuire des légumes, du poisson ou de la viande. On obtient le dashi à partir d'algue kombu, de bonite séchée, de shiitaké séché ou encore de sardine séchée. L'idéal est de laisser le kombu et le shiitaké parfumer l'eau toute une nuit pour un maximum de saveur. Préparation : 2 min. Repos : 2 heures. Cuisson : 3 min. Pour 1 litre de bouillon.
+
+## Ingrédients
+
+- 5 cm de kombu séché
+- 1 shiitaké séché
+- 1 litre d'eau
+
+## Déroulé de la recette
+
+Mettez tous les ingrédients dans une casserole et laissez reposer à température ambiante pendant au moins 2 heures.
+
+Faites chauffer la casserole sur feu doux. Éteignez le feu juste avant l'ébullition et laissez refroidir. Filtrez le bouillon.
+
+## Noms ingrédients
+
+kombu. champignons shiitaké
+---
+
+# Salade de papaye verte (Tâm mak houng)
+
+## Catégorie
+
+Asiatique. Non testé. Végé
+
+## Commentaire
+
+Salade laotienne pilonnée dans un mortier. Le dosage de piment est à votre convenance. On peut remplacer la papaye par du haricot kilomètre, de la courgette, de la carotte, du radis blanc ou du concombre. Préparation : 20 min.
+
+## Ingrédients
+
+*Pour 4 personnes*
+
+- 1 papaye verte de 600 g
+- 10 tomates cerise coupées en deux
+- 2 carottes
+- 2 gousses d'ail
+- 1 piment rouge thaï
+- 2 cuil. à soupe de sucre
+- Le jus de 1 citron vert
+- 3 cuil. à soupe de sauce de poisson
+- Sel
+
+## Déroulé de la recette
+
+Épluchez et lavez la papaye et les carottes, puis taillez-les en julienne. Dans le mortier, écrasez l'ail avec le piment, 1 pincée de sel et le sucre. Ajoutez les assaisonnements liquides et mélangez.
+
+Ajoutez les filaments de papaye et de carottes mélangés. D'une main, avec le pilon, frappez les légumes pour qu'ils s'assouplissent. De l'autre main, avec une cuillère à soupe, mélangez la salade au fur et à mesure.
+
+Goûtez et rectifiez l'assaisonnement. Ajoutez les tomates cerise et frappez/mélangez 3 ou 4 fois.
+
+## Noms ingrédients
+
+papaye. carottes. ail. piment rouge frais. tomates cerise. citrons verts
+---
+
+# Kinpira
 
 
+## Catégorie
+
+Japonais. Non testé. Végé
+
+## Commentaire
+
+Le kinpira est un plat typiquement japonais dont les légumes sont rapidement saisis puis assaisonnés de sauce soja et de mirin pour leur donner un goût sucré-salé. Pour ce plat, les Japonais utilisent le plus souvent de la carotte, de la bardane ou des algues comme le hijiki. Pour des légumes plus fondants, ajoutez un petit peu d'eau en plus de la sauce soja et du mirin, et laissez mijoter le tout quelques minutes.
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 10 min — Cuisson : 7 min*
+
+- 1/4 de daïkon pelé
+- 2 carottes pelées
+- 4 brins de coriandre ciselés
+- 1 cuillerée à soupe de graines de sésame
+- 1 cuillerée à soupe de mirin
+- 1 ½ cuillerée à soupe de sauce soja
+- 1 cuillerée à soupe d'huile de sésame grillé
+
+---
+
+## Déroulé de la recette
+
+Coupez le daïkon et les carottes en fins bâtonnets.
+
+Faites chauffer l'huile de sésame dans un wok à feu vif, puis faites sauter les légumes 5 ou 6 minutes.
+
+Versez le mirin et la sauce soja, mélangez et retirez du feu.
+
+Servez le kinpira parsemé de graines de sésame et de coriandre.
+
+**Astuce :** Le daïkon peut être remplacé par du navet, du panais ou du topinambour.
+
+## Noms ingrédients
+
+carottes. coriandre. daïkon
+---
+
+# Tofu sukiyaki
+
+
+## Catégorie
+
+Japonais. Non testé. Végé
+
+## Commentaire
+
+Ce plat traditionnel contient habituellement de fines tranches de filet de bœuf. Je vous présente ici une version végétarienne qui devrait vous faire apprécier le tofu. Servez-le avec un bol de riz pour compléter le plat.
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 10 min — Cuisson : 15 min*
+
+- 400 g de tofu ferme égoutté et coupé en gros cubes
+- 1/4 de chou chinois émincé
+- 200 g d'épinards
+- 2 poireaux coupés en tronçons
+- 4 champignons shiitaké coupés en deux
+- 4 œufs bio extra-frais
+- le vert de 1 oignon nouveau finement émincé
+- 20 cl de sauce sukiyaki (voir recette p. 170)
+- 1/2 cuillerée à soupe d'huile végétale
+
+---
+
+## Déroulé de la recette
+
+Dans une cocotte, faites chauffer l'huile, puis déposez le tofu, les poireaux, les shiitaké et le chou. Arrosez de sauce sukiyaki et laissez cuire 5 ou 6 minutes, jusqu'à ce que les poireaux soient tendres.
+
+Ajoutez les épinards dans la cocotte, faites-les tomber, puis retirez aussitôt la cocotte du feu. Parsemez de vert d'oignon.
+
+Servez le tofu sukiyaki accompagné d'un œuf par personne, présenté dans un bol individuel – chacun cassera et battra légèrement son œuf avant d'y tremper le tofu et les légumes au fur et à mesure de la dégustation.
+
+**Astuce :** Comme l'œuf reste cru, il est important qu'il soit bio et extra-frais. Sinon, faites-le cuire au plat.
+
+## Noms ingrédients
+
+champignons shiitaké. chou chinois. épinards. oignons nouveaux. poireau. tofu ferme. œuf
+---
+
+# Tofu steak
+
+
+## Catégorie
+
+Japonais. Non testé. Végé
+
+## Commentaire
+
+Du fait de ses origines bouddhiste et shintoïste, la cuisine japonaise fait la part belle aux protéines végétales, et donc au tofu. Ici, il est cuisiné « comme un steak », c'est-à-dire qu'il est coupé en pavé, puis grillé des deux côtés. L'assaisonnement à la sauce ponzu le rend particulièrement goûteux.
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 5 min — Repos : 15 min — Cuisson : 10 min*
+
+- 300 g de tofu ferme égoutté
+- 1 gousse d'ail dégermée et finement hachée
+- 1 poignée de pousses de soja
+- 4 brins de ciboulette ciselés
+- 2 cuillerées à soupe de farine
+- 10 cl de sauce ponzu (voir recette p. 57)
+- 2 cuillerées à soupe d'huile de sésame grillé
+- sel et poivre du moulin
+
+---
+
+## Déroulé de la recette
+
+Enveloppez le tofu dans du papier absorbant, placez-le entre 2 planches et laissez-le égoutter pendant 15 minutes.
+
+Retirez le papier, puis coupez le tofu en 4 tranches. Salez et poivrez chaque côté. Saupoudrez-les d'ail et enrobez-les légèrement de farine.
+
+Dans une poêle, faites chauffer 1 cuillerée à soupe d'huile de sésame, puis faites revenir les pousses de soja 2 ou 3 minutes à feu vif. Réservez sur une assiette.
+
+Versez le reste d'huile dans la poêle à feu moyen, puis faites dorer les tranches de tofu 3 minutes de chaque côté.
+
+Disposez 1 tranche de tofu dorée et quelques pousses de soja sur chaque assiette. Arrosez de sauce ponzu et parsemez de ciboulette.
+
+## Noms ingrédients
+
+ail. ciboulette. pousses de soja. tofu ferme
+---
+
+# Chawan mushi
+
+
+## Catégorie
+
+Japonais. Non testé. Poisson
+
+## Commentaire
+
+Chawan mushi veut dire « tasse à thé vapeur ». Ce flan salé à la japonaise est cuit à la vapeur dans une tasse munie de son couvercle. C'est un plat incontournable dans la haute gastronomie japonaise. Les ingrédients qui le composent peuvent cependant varier ; ici, la recette propose des crevettes mais on peut aussi la cuisiner avec du poulet ou du crabe, par exemple.
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 5 min — Cuisson : 25 min*
+
+- 3 œufs
+- 60 g de petites crevettes crues décortiquées
+- 12 pois mange-tout
+- 40 cl de bouillon dashi (voir recette p. 46)
+- 2 cuillerées à soupe de mirin
+- 1/2 cuillerée à soupe de sauce soja
+- 1 cuillerée à café de sel
+
+---
+
+## Déroulé de la recette
+
+Préchauffez le four à 150 °C (th. 5).
+
+Dans un saladier, battez les œufs avec le bouillon dashi. Ajoutez la sauce soja, le mirin et le sel.
+
+Répartissez les crevettes et les pois mange-tout dans 4 ramequins – réservez quelques crevettes et pois pour la décoration. Versez le mélange aux œufs dessus.
+
+Couvrez les ramequins de feuilles d'aluminium et déposez-les sur la grille du four. Versez 2 verres d'eau dans la lèchefrite placée sous la grille. Faites cuire 20 minutes au bain-marie.
+
+Garnissez la surface avec les crevettes et les pois réservés, puis enfournez de nouveau pour 5 minutes.
+
+**Astuce :** Vous pouvez également faire cuire les chawan mushi dans un cuit-vapeur. Dans ce cas-là, inutile de recouvrir les ramequins d'aluminium.
+
+## Noms ingrédients
+
+crevettes. dashi. pois mange-tout. œuf
+---
+
+# Tempura de gambas
+
+
+## Catégorie
+
+Japonais. Non testé. Poisson
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 20 min — Cuisson : 10 min*
+
+- 8 gambas
+- 8 champignons shiitaké
+- 12 gombos (ou 1 petit brocoli)
+- 1/4 de daïkon pelé et râpé
+- 4 feuilles de shiso (facultatif)
+- sauce tsuyu (voir recette p. 58)
+- huile pour la friture
+
+### Pour la pâte à tempura
+
+- 1 jaune d'œuf
+- 100 g de farine blanche T45 tamisée
+- 1/2 cuillerée à café de levure chimique
+- 20 cl d'eau glacée
+
+---
+
+## Déroulé de la recette
+
+Préparez la pâte à tempura en mélangeant, de façon bien homogène, tous les ingrédients dans un saladier.
+
+Ôtez les pieds des shiitaké ainsi que le pédoncule des gombos.
+
+Décortiquez les gambas en laissant la nageoire caudale (queue), puis incisez le long du dos et retirez le filament noir avec la pointe d'un couteau.
+
+Faites chauffer l'huile de friture à environ 170 °C – elle est à la bonne température lorsque des bulles apparaissent autour des baguettes trempées dedans.
+
+Trempez successivement les gambas, les champignons et les gombos dans la pâte à tempura, puis plongez-les aussitôt dans le bain de friture. Faites frire jusqu'à obtenir une légère coloration, puis égouttez-les sur du papier absorbant. Procédez en plusieurs fois.
+
+Disposez les beignets de tempura sur un plat avec les feuilles de shiso et un peu de daïkon râpé, puis dégustez, en trempant les beignets dans la sauce tsuyu agrémentée de daïkon râpé.
+
+**Astuce :** Si vous souhaitez réaliser les tempura avec de la farine à tempura, vous n'avez pas besoin d'ajouter le jaune d'œuf ni la levure ; il vous faut juste incorporer la proportion d'eau indiquée sur le paquet.
+
+## Noms ingrédients
+
+champignons shiitaké. daïkon. gambas. gombos. jaunes d'œuf
+---
+
+# Bar vapeur à la sauce ponzu
+
+
+## Catégorie
+
+Japonais. Non testé. Poisson
+
+## Commentaire
+
+Ce plat est très simple à préparer et s'accommode aussi avec d'autres poissons comme la daurade ou la truite. La sauce ponzu se marie particulièrement bien avec le poisson.
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 10 min — Cuisson : 15 min*
+
+- 4 bars d'environ 250 g chacun, grattés et vidés
+- 2 poireaux
+- 15 cl de sauce ponzu (voir recette p. 57)
+- 3 cuillerées à soupe d'huile de sésame grillé
+
+---
+
+## Déroulé de la recette
+
+Retirez la partie dure du vert des poireaux. Coupez le reste en fine julienne. Déposez-le dans un cuit-vapeur et placez les bars dessus. Couvrez et faites cuire 12 à 15 minutes.
+
+Dressez les bars et les poireaux sur un plat de service. Arrosez de sauce ponzu.
+
+Faites chauffer l'huile de sésame dans une casserole jusqu'à ce qu'elle se mette à fumer, puis versez-la sans attendre sur le poisson. Dégustez aussitôt.
+
+**Astuce :** Pour vérifier la cuisson du poisson, plantez une baguette dans la partie la plus épaisse de la chair ; elle doit pénétrer facilement.
+
+## Noms ingrédients
+
+bar. poireau
+---
+
+# Tonkatsu
+
+
+## Catégorie
+
+Japonais. Non testé. Viande
+
+## Commentaire
+
+Le tonkatsu est du porc pané frit. C'est une recette très populaire au Japon. Lorsqu'il est servi sur un bol de riz, le plat s'appelle katsu-don.
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 10 min — Cuisson : 10 min*
+
+- 4 escalopes de porc d'environ 150 g chacune
+- 4 bols de riz blanc cuit (voir recette p. 38)
+- 400 g de chou vert
+- 1 œuf
+- 4 cuillerées à soupe de farine
+- 4 à 6 cuillerées à soupe de chapelure panko (ou de chapelure classique)
+- 1/2 citron coupé en quartiers
+- huile pour la friture
+- sel et poivre du moulin
+
+### Pour la sauce tonkatsu
+
+- 4 cuillerées à soupe de compote de pommes
+- 1 cuillerée à soupe de gingembre frais râpé
+- 1 gousse d'ail râpée
+- 4 cuillerées à soupe de mirin
+- 4 cuillerées à soupe de concentré de tomates
+- 1 cuillerée à soupe de vinaigre de riz
+- 2 cuillerées à soupe de sauce soja
+- 4 cuillerées à soupe de sucre semoule
+
+---
+
+## Déroulé de la recette
+
+Préparez la sauce tonkatsu. Mettez tous les ingrédients dans une casserole. Portez à ébullition en remuant pour dissoudre le sucre, puis laissez mijoter 5 minutes environ à feu doux afin d'obtenir une consistance sirupeuse. Cette sauce peut se conserver 2 semaines au réfrigérateur.
+
+Battez l'œuf dans une assiette creuse. Versez la farine et la chapelure dans deux autres assiettes. Salez et poivrez les escalopes. Passez-les dans la farine puis dans l'œuf battu et enfin dans la chapelure – veillez à ce que la chapelure adhère bien.
+
+Faites chauffer l'huile dans un wok – elle est à la bonne température lorsque des bulles apparaissent autour des baguettes trempées dedans.
+
+Faites frire les escalopes dans l'huile chaude pendant 5 minutes environ, jusqu'à ce qu'elles prennent une belle couleur dorée. Égouttez-les sur du papier absorbant. Procédez en deux fois.
+
+Émincez le chou en fines lanières et répartissez-le sur un plat de service. Coupez les escalopes en tranches et disposez-les dessus. Nappez de la moitié de la sauce tonkatsu et ajoutez les quartiers de citron. Accompagnez d'un bol de riz.
+
+**Astuce :** Si vous manquez de temps pour la préparer vous-même, vous trouverez de la sauce tonkatsu prête à l'emploi dans les épiceries asiatiques.
+
+## Noms ingrédients
+
+ail. chou vert. citrons. concentré de tomate. échine de porc. gingembre. pomme. œuf
+---
+
+# Niku jaga
+
+
+## Catégorie
+
+Japonais. Non testé. Viande
+
+## Commentaire
+
+Niku jaga signifie littéralement « viande et pomme de terre » ; c'est le plat familial par excellence. Au Japon, c'est une recette que l'on apprend de sa maman et qui nous rappelle le goût de l'enfance.
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 10 min — Cuisson : 20 min*
+
+- 180 g de poitrine de porc
+- 3 pommes de terre
+- 2 poireaux
+- 2 navets
+- 1 carotte
+- 1 cuillerée à soupe de saké
+- 3 cuillerées à soupe de sauce soja
+- 2 cuillerées à soupe de sucre semoule
+
+---
+
+## Déroulé de la recette
+
+Épluchez les pommes de terre et coupez-les en cubes de 3 ou 4 cm de côté. Émincez les poireaux. Épluchez la carotte et coupez-la en tronçons de 3 cm. Pelez les navets et coupez-les en 8 morceaux. Taillez la poitrine de porc en fines tranches.
+
+Déposez les légumes et la viande dans une casserole. Ajoutez 40 cl d'eau, portez à ébullition, puis laissez mijoter 10 minutes à feu doux.
+
+Versez la sauce soja, le saké et le sucre, mélangez et laissez réduire 8 minutes – il ne doit presque plus rester de jus.
+
+**Astuce :** Ce plat est encore meilleur réchauffé. Préparez-le en grande quantité pour le resservir lors d'un autre repas.
+
+## Noms ingrédients
+
+carottes. navets. poireau. poitrine de porc. pomme de terre
+---
+
+# Shabu-shabu
+
+
+## Catégorie
+
+Japonais. Non testé. Viande
+
+## Commentaire
+
+« Shabu-shabu » est une onomatopée qui évoque le bruit des lamelles de bœuf que l'on agite, du bout des baguettes, dans le bouillon. Ce plat typique est l'équivalent japonais des fondues chinoises. Pour varier les saveurs, vous pouvez remplacer la sauce goma daré par de la sauce ponzu (voir recette p. 57).
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 15 min — Trempage : 30 min — Cuisson : sur la table, pendant la durée du repas*
+
+- 500 g de filet de bœuf
+- 400 g de tofu ferme
+- 2 poireaux
+- 1 carotte
+- 1/4 de chou chinois
+- 8 champignons shiitaké (ou champignons de Paris)
+- 1 morceau d'algue kombu de 10 cm
+- 30 cl de sauce goma daré (voir recette p. 57)
+
+---
+
+## Déroulé de la recette
+
+Versez 2 litres d'eau dans une casserole et faites infuser le kombu au moins 30 minutes.
+
+Épluchez la carotte et coupez-la en rondelles. Taillez les poireaux en tronçons. Coupez le chou en morceaux de 4 cm. Ôtez les pieds des champignons. Égouttez le tofu et coupez-le en cubes d'environ 4 cm de côté. Coupez le filet de bœuf en très fines tranches à l'aide d'un couteau bien aiguisé.
+
+Disposez les légumes, le tofu et la viande sur un grand plat de service.
+
+Versez le bouillon de kombu dans une petite casserole. Placez-le au milieu de la table sur un réchaud et portez à ébullition. Retirez le kombu.
+
+Au moment de passer à table, plongez les légumes petit à petit dans le bouillon. Dégustez le shabu-shabu en faisant pocher les tranches de viande et le tofu dans le bouillon avant de les tremper dans un petit bol de sauce goma daré.
+
+**Astuce :** À la fin du repas, dégustez le bouillon qui aura pris toutes les saveurs de la recette.
+
+## Noms ingrédients
+
+carottes. champignons shiitaké. chou chinois. faux-filet. kombu. poireau. tofu ferme
+---
+---
+
+# Bouchées azuki
+
+
+## Catégorie
+
+Japonais. Non testé. Dessert
+
+## Commentaire
+
+Le azuki est un haricot rouge dont la texture, une fois cuit, rappelle celle de la châtaigne. Il est principalement consommé sous la forme d'une confiture appelée « anko » qui sert de base à de nombreuses pâtisseries japonaises.
+
+---
+
+## Ingrédients
+
+*Pour 10 bouchées — Préparation : 25 min — Trempage : 1 nuit — Cuisson : 40 min*
+
+- 100 g de haricots azuki
+- 40 g de farine de kinako (poudre de soja grillé)
+- 75 g de sucre semoule
+- 1 pincée de sel
+
+---
+
+## Déroulé de la recette
+
+La veille, mettez les haricots à tremper pour la nuit dans une casserole d'eau froide.
+
+Le jour même, mettez la casserole sur le feu et portez à ébullition. Versez 1 verre d'eau froide, puis, à la reprise de l'ébullition, éteignez le feu et égouttez les haricots.
+
+Remettez les haricots dans la casserole, ajoutez 5 fois leur volume d'eau et portez de nouveau à ébullition. Baissez le feu et laissez cuire 40 minutes environ, jusqu'à ce que les haricots deviennent tendres.
+
+Égouttez les haricots et reversez-les dans la casserole avec le sel et le sucre. Faites chauffer sur feu doux, jusqu'à ce que le sucre soit dissous.
+
+Mixez les haricots azuki cuits pour obtenir une purée épaisse. Laissez refroidir à température ambiante.
+
+Formez des boulettes de la taille d'une balle de ping-pong, puis passez-les dans la farine de kinako juste avant de servir.
+
+## Noms ingrédients
+
+---
+
+# Yokan aux marrons
+
+
+## Catégorie
+
+Japonais. Non testé. Dessert
+
+## Commentaire
+
+Le yokan est une pâtisserie typiquement japonaise à base de haricot rouge et gélifiée à l'agar-agar. Dans cette version, je vous propose de remplacer les haricots rouges par du marron, plus simple à trouver chez nous. N'hésitez pas à déguster ce dessert rafraîchissant avec une tasse de thé vert.
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 5 min — Cuisson : 2 min — Réfrigération : 1 h*
+
+- 180 g de crème de marrons sucrée
+- quelques marrons glacés pour la décoration
+- 1 cuillerée à café d'agar-agar
+- 15 cl d'eau
+
+---
+
+## Déroulé de la recette
+
+Dans une casserole, mélangez l'eau et l'agar-agar. Portez à ébullition et laissez frémir 30 secondes.
+
+Hors du feu, ajoutez la crème de marrons et mélangez au fouet pour obtenir une texture onctueuse.
+
+Versez la préparation dans un moule de 12 cm × 10 cm, laissez refroidir à température ambiante, puis placez au moins 1 heure au réfrigérateur.
+
+Servez le yokan aux marrons coupé en rectangles et décoré de brisures de marrons glacés.
+
+## Noms ingrédients
+
+châtaignes
+---
+
+# Mousse choco-tofu
+
+
+## Catégorie
+
+Japonais. Non testé. Dessert
+
+## Commentaire
+
+Au Japon, le tofu est plutôt cuisiné dans des plats salés. Le tofu soyeux utilisé dans cette variante de mousse au chocolat, à la place de l'œuf, apporte une touche de légèreté et en fait un parfait dessert vegan !
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 10 min — Cuisson : 2 min — Repos : 1 nuit*
+
+- 100 g de chocolat noir
+- 280 g de tofu soyeux
+- 1 cuillerée à café rase de matcha (ou de poudre de noisettes, facultatif)
+- 2 cuillerées à soupe de sirop d'agave (ou de sirop de canne)
+
+---
+
+## Déroulé de la recette
+
+La veille, cassez le chocolat en morceaux et faites-le fondre avec 2 cuillerées à soupe d'eau dans une casserole sur feu très doux. Dès que les carrés commencent à se ramollir, retirez la casserole du feu et laissez le chocolat continuer de fondre.
+
+Ajoutez le tofu coupé en morceaux ainsi que le sirop d'agave. Mixez le tout pendant quelques minutes pour obtenir un mélange mousseux. Placez 1 nuit au réfrigérateur.
+
+Le jour même, juste avant de servir, saupoudrez la mousse de matcha ou de poudre de noisettes.
+
+**Astuce :** Au lieu de saupoudrer la mousse de matcha, vous pouvez directement incorporer la poudre de thé vert dans la préparation. Le chocolat se marie très bien avec le matcha.
+
+## Noms ingrédients
+
+chocolat noir. tofu soyeux
+---
+
+# Gelée de mandarine
+
+
+## Catégorie
+
+Japonais. Non testé. Dessert
+
+---
+
+## Ingrédients
+
+*Pour 4 personnes — Préparation : 10 min — Cuisson : 2 min — Repos : 1 h*
+
+- 4 mandarines
+- 1/2 cuillerée à café d'agar-agar
+- 10 cl d'eau
+- 1 cuillerée à soupe de sirop d'agave (ou de sirop de canne)
+
+---
+
+## Déroulé de la recette
+
+Coupez le haut des mandarines, puis, à l'aide d'une cuillère, retirez délicatement les quartiers en veillant à préserver la peau intacte.
+
+Passez la chair au mixeur, puis filtrez-la en essayant de récupérer le maximum de pulpe.
+
+Dans une petite casserole, mélangez l'eau, le sirop d'agave et l'agar-agar. Portez à ébullition et laissez frémir 30 secondes. Retirez la casserole du feu, puis versez le jus de mandarine sans cesser de mélanger.
+
+Versez la gelée dans l'écorce des mandarines, laissez refroidir à température ambiante, puis 1 heure au réfrigérateur.
+
+**Astuce :** L'agar-agar est un gélifiant très puissant qu'il faut bien doser. Veillez à ne pas trop en mettre afin d'éviter de vous retrouver avec une texture trop ferme.
+
+## Noms ingrédients
+
+mandarine
+---
+
+# Tiramisu au matcha
+
+
+## Catégorie
+
+Japonais. Non testé. Dessert
+
+## Commentaire
+
+Le matcha est la poudre de thé vert qui sert lors de la cérémonie du thé. C'est le seul thé qui se dilue au lieu de s'infuser. Il est de plus en plus utilisé dans les pâtisseries.
+
+---
+
+## Ingrédients
+
+*Pour 8 personnes — Préparation : 20 min — Réfrigération : 4 à 12 h — Sans cuisson*
+
+- 1 poire
+- 16 biscuits à la cuillère
+- 200 g de mascarpone
+- 2 œufs
+- 3 cuillerées à café de thé matcha en poudre
+- 60 g de sucre semoule
+- 1 pincée de sel
+
+---
+
+## Déroulé de la recette
+
+Séparez les blancs d'œufs des jaunes. Dans un saladier, battez les jaunes avec le sucre, puis incorporez le mascarpone jusqu'à obtenir un mélange homogène.
+
+Montez les blancs en neige avec la pincée de sel, puis incorporez-les délicatement au mélange précédent.
+
+Pelez la poire et coupez-la en petits dés.
+
+Infusez 1 cuillerée à café de matcha dans 1 bol de 12 cl d'eau chaude.
+
+Trempez les biscuits au fur et à mesure dans le thé, puis déposez-les côte à côte au fond d'un plat creux. Versez un peu de crème au mascarpone sur les biscuits, ajoutez quelques dés de poire et saupoudrez d'un peu de matcha. Disposez une autre couche de biscuits et couvrez-la d'une couche de crème au mascarpone. Saupoudrez de matcha.
+
+Placez le tiramisu de 4 à 12 heures au réfrigérateur.
+
+## Noms ingrédients
+
+mascarpone. poire. œuf
+---

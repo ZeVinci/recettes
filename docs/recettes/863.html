@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soupe aux oignons de Roscoff</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="manifest" href="../manifest.json">
+    <meta name="theme-color" content="#1b3a5c">
+    <style>
+        body { background: #f0f4f8; }
+        header { background: #1b3a5c; }
+        .bouton-retour { color: rgba(232,240,248,.85) !important; }
+        .bouton-retour:hover { color: #fff !important; }
+    </style>
+
+<style>
+  html.verrouille body > *:not(#porte) { display: none !important; }
+  #porte { display: none; }
+  html.verrouille #porte {
+    display: flex; position: fixed; inset: 0; z-index: 99999;
+    align-items: center; justify-content: center; background: #faf8f5;
+    font-family: -apple-system, system-ui, sans-serif;
+  }
+  #porte .boite { width: 100%; max-width: 300px; padding: 24px; text-align: center; }
+  #porte h2 { margin: 0 0 16px; font-size: 18px; color: #5a3a1a; font-weight: 600; }
+  #porte input { width: 100%; padding: 12px; font-size: 16px; box-sizing: border-box;
+    border: 1px solid #d8cfc4; border-radius: 8px; background: #fff; margin-bottom: 10px; }
+  #porte button { width: 100%; padding: 12px; font-size: 15px; border: none;
+    border-radius: 8px; background: #1b3a5c; color: #fff; cursor: pointer; }
+  #porte .err { color: #c0392b; font-size: 13px; height: 16px; margin-bottom: 8px; }
+</style>
+<script>
+(function () {
+  var HASH = "0721ba9a209534aa3dba860230dc45ed3099223621973dd6f941df4386ab862c";
+  var CLE = "recettes_acces";
+  if (localStorage.getItem(CLE) === HASH) return;        // déjà entré : on laisse passer
+  document.documentElement.classList.add("verrouille");  // sinon on masque tout de suite
+
+  async function sha256(txt) {
+    var buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(txt));
+    return Array.from(new Uint8Array(buf))
+      .map(function (b) { return b.toString(16).padStart(2, "0"); }).join("");
+  }
+
+  function poser() {
+    var d = document.createElement("div");
+    d.id = "porte";
+    d.innerHTML =
+      '<div class="boite">' +
+      '<h2>\uD83D\uDD12 Mes recettes</h2>' +
+      '<div class="err" id="porte-err"></div>' +
+      '<input type="password" id="porte-mdp" placeholder="Mot de passe" autocomplete="current-password">' +
+      '<button id="porte-ok">Entrer</button></div>';
+    document.body.appendChild(d);
+    var inp = document.getElementById("porte-mdp");
+    var err = document.getElementById("porte-err");
+    inp.focus();
+    async function verifier() {
+      var h = await sha256(inp.value);
+      if (h === HASH) {
+        localStorage.setItem(CLE, HASH);
+        document.documentElement.classList.remove("verrouille");
+        d.remove();
+      } else {
+        err.textContent = "Mot de passe incorrect";
+        inp.value = ""; inp.focus();
+      }
+    }
+    document.getElementById("porte-ok").addEventListener("click", verifier);
+    inp.addEventListener("keydown", function (e) { if (e.key === "Enter") verifier(); });
+  }
+  if (document.body) poser();
+  else document.addEventListener("DOMContentLoaded", poser);
+})();
+</script>
+</head>
+<body>
+    <header class="header-recette">
+        <a href="../index.html" class="bouton-retour">← Retour</a>
+    </header>
+    <article class="recette">
+        <h1>Soupe aux oignons de Roscoff</h1>
+<h2>Ingrédients</h2>
+<p><em>Pour 6 personnes</em></p>
+<ul>
+<li>600 g d'oignons</li>
+<li>400 g de pommes de terre</li>
+<li>25 g de beurre</li>
+<li>20 cl de vin blanc (type Muscadet)</li>
+<li>1 litre d'eau</li>
+<li>10 cl de crème fraîche</li>
+<li>1 botte de persil</li>
+<li>Gros sel, sel, poivre</li>
+</ul>
+<h2>Commentaire</h2>
+<p>Au XVIIe siècle, les Roscovites découvrent l'oignon et l'apprécient pour son goût et sa bonne conservation. À la fin du XIXe siècle, les producteurs commencent à l'exporter en Angleterre, vendus en tresses par des groupes de cinq ou six hommes surnommés les « Johnnies ». L'oignon rosé de Roscoff reste aujourd'hui l'oignon préféré des Bretons : doux, juteux, fondant et sucré une fois cuit.</p>
+<p><strong>Nevez :</strong> Trois idées d'accompagnement : (1) saucisses de Molène fumées aux algues cuites 30 min et émincées en rondelles ; (2) dés d'andouille chauffés à la poêle versés sur la soupe au dernier moment ; (3) tranches de lard rôti de la même façon.</p>
+<p><strong>Yec'hed mat :</strong> Pourquoi vouloir accorder un vin sur un potage aussi fin ? À défaut, l'eau de Plancoët rafraîchira le palais.</p>
+<h2>Déroulé de la recette</h2>
+<ol>
+<li>
+<p><strong>Préparation des légumes :</strong> Éplucher, laver et ciseler finement les oignons. Éplucher, laver et tailler les pommes de terre en dés.</p>
+</li>
+<li>
+<p><strong>Cuisson de la soupe :</strong> Dans une cocotte, faire suer les oignons dans le beurre à feu moyen. Quand ils commencent à colorer, ajouter les dés de pommes de terre et mouiller avec le vin blanc. Laisser cuire à découvert 7 min à feu moyen, puis mouiller avec l'eau. Saler, poivrer, porter à ébullition et prolonger la cuisson à feu doux à couvert 40 min. Passer au moulin à légumes, remettre dans la cocotte, porter à ébullition, ajouter la crème, bien mélanger et vérifier l'assaisonnement.</p>
+</li>
+<li>
+<p><strong>Dressage :</strong> Ciseler le persil. Verser la soupe dans une soupière et parsemer de persil. Servir bien chaud.</p>
+</li>
+</ol>
+    </article>
+    <section id="photos-zone"></section>
+    <section id="avis-zone"></section>
+    <script src="../avis.js"></script>
+    <script src="../photos.js"></script>
+    <script>
+        initAvisRecette("soupe-aux-oignons-de-roscoff");
+        initPhotosRecette("soupe-aux-oignons-de-roscoff");
+    </script>
+</body>
+</html>

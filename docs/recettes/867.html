@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soupe de chou frisé au parmesan</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="manifest" href="../manifest.json">
+    <meta name="theme-color" content="#1b3a5c">
+    <style>
+        body { background: #f0f4f8; }
+        header { background: #1b3a5c; }
+        .bouton-retour { color: rgba(232,240,248,.85) !important; }
+        .bouton-retour:hover { color: #fff !important; }
+    </style>
+
+<style>
+  html.verrouille body > *:not(#porte) { display: none !important; }
+  #porte { display: none; }
+  html.verrouille #porte {
+    display: flex; position: fixed; inset: 0; z-index: 99999;
+    align-items: center; justify-content: center; background: #faf8f5;
+    font-family: -apple-system, system-ui, sans-serif;
+  }
+  #porte .boite { width: 100%; max-width: 300px; padding: 24px; text-align: center; }
+  #porte h2 { margin: 0 0 16px; font-size: 18px; color: #5a3a1a; font-weight: 600; }
+  #porte input { width: 100%; padding: 12px; font-size: 16px; box-sizing: border-box;
+    border: 1px solid #d8cfc4; border-radius: 8px; background: #fff; margin-bottom: 10px; }
+  #porte button { width: 100%; padding: 12px; font-size: 15px; border: none;
+    border-radius: 8px; background: #1b3a5c; color: #fff; cursor: pointer; }
+  #porte .err { color: #c0392b; font-size: 13px; height: 16px; margin-bottom: 8px; }
+</style>
+<script>
+(function () {
+  var HASH = "0721ba9a209534aa3dba860230dc45ed3099223621973dd6f941df4386ab862c";
+  var CLE = "recettes_acces";
+  if (localStorage.getItem(CLE) === HASH) return;        // déjà entré : on laisse passer
+  document.documentElement.classList.add("verrouille");  // sinon on masque tout de suite
+
+  async function sha256(txt) {
+    var buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(txt));
+    return Array.from(new Uint8Array(buf))
+      .map(function (b) { return b.toString(16).padStart(2, "0"); }).join("");
+  }
+
+  function poser() {
+    var d = document.createElement("div");
+    d.id = "porte";
+    d.innerHTML =
+      '<div class="boite">' +
+      '<h2>\uD83D\uDD12 Mes recettes</h2>' +
+      '<div class="err" id="porte-err"></div>' +
+      '<input type="password" id="porte-mdp" placeholder="Mot de passe" autocomplete="current-password">' +
+      '<button id="porte-ok">Entrer</button></div>';
+    document.body.appendChild(d);
+    var inp = document.getElementById("porte-mdp");
+    var err = document.getElementById("porte-err");
+    inp.focus();
+    async function verifier() {
+      var h = await sha256(inp.value);
+      if (h === HASH) {
+        localStorage.setItem(CLE, HASH);
+        document.documentElement.classList.remove("verrouille");
+        d.remove();
+      } else {
+        err.textContent = "Mot de passe incorrect";
+        inp.value = ""; inp.focus();
+      }
+    }
+    document.getElementById("porte-ok").addEventListener("click", verifier);
+    inp.addEventListener("keydown", function (e) { if (e.key === "Enter") verifier(); });
+  }
+  if (document.body) poser();
+  else document.addEventListener("DOMContentLoaded", poser);
+})();
+</script>
+</head>
+<body>
+    <header class="header-recette">
+        <a href="../index.html" class="bouton-retour">← Retour</a>
+    </header>
+    <article class="recette">
+        <h1>Soupe de chou frisé au parmesan</h1>
+<h2>Ingrédients</h2>
+<p><em>Pour 4 personnes</em></p>
+<ul>
+<li>1 gros oignon émincé</li>
+<li>1 gousse d'ail écrasée</li>
+<li>½ cuil. à café de graines de carvi (+ quelques pincées pour servir)</li>
+<li>1 chou vert moyen</li>
+<li>1 pomme de terre moyenne épluchée et coupée en dés</li>
+<li>1,1 l de bouillon de légumes</li>
+<li>80 g de talon de parmesan</li>
+<li>½ piment rouge frais épépiné et émincé</li>
+<li>80 g de parmesan râpé (facultatif)</li>
+<li>Huile d'olive</li>
+<li>Gros sel de mer</li>
+</ul>
+<h2>Commentaire</h2>
+<p>Cette recette permet de recycler les talons de parmesan dont on ne sait que faire. Ces restes peuvent être stockés au congélateur. Si on n'en a pas assez, compléter avec du parmesan râpé.</p>
+<h2>Déroulé de la recette</h2>
+<ol>
+<li>Faire chauffer 4 cuil. à soupe d'huile d'olive dans une casserole et faire revenir l'oignon 5 min sur feu moyen sans le laisser colorer. Ajouter l'ail et les graines de carvi, poursuivre 2 min.</li>
+<li>Enlever 4 feuilles extérieures du chou, les couper en lanières fines et réserver. Découper en lanières grossières le reste des feuilles et les ajouter dans la casserole avec la pomme de terre. Remuer régulièrement 2 ou 3 min. Verser suffisamment de bouillon pour couvrir les légumes et porter à ébullition. Ajouter les talons de parmesan, baisser le feu et laisser mijoter 10 min ou jusqu'à ce que la pomme de terre soit tendre. Retirer les talons de parmesan. Goûter et ajouter du sel si besoin.</li>
+<li>Retirer du feu, laisser la soupe refroidir quelques minutes avant de la mixer grossièrement. Allonger avec un peu de bouillon si trop épaisse, puis rectifier l'assaisonnement. Réserver au chaud.</li>
+<li>Faire chauffer 2 cuil. à soupe d'huile dans une poêle et saisir les fines lanières de chou avec le piment 3 à 4 min. Le chou doit rester d'un beau vert vif. Saler légèrement.</li>
+<li>Verser la soupe chaude dans des bols. Ajouter un peu de parmesan râpé si souhaité. Garnir avec les lanières de chou mi-cuit et des graines de carvi.</li>
+</ol>
+    </article>
+    <section id="photos-zone"></section>
+    <section id="avis-zone"></section>
+    <script src="../avis.js"></script>
+    <script src="../photos.js"></script>
+    <script>
+        initAvisRecette("soupe-de-chou-frise-au-parmesan");
+        initPhotosRecette("soupe-de-chou-frise-au-parmesan");
+    </script>
+</body>
+</html>

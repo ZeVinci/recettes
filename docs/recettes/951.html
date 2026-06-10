@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tonkatsu</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="manifest" href="../manifest.json">
+    <meta name="theme-color" content="#1b3a5c">
+    <style>
+        body { background: #f0f4f8; }
+        header { background: #1b3a5c; }
+        .bouton-retour { color: rgba(232,240,248,.85) !important; }
+        .bouton-retour:hover { color: #fff !important; }
+    </style>
+
+<style>
+  html.verrouille body > *:not(#porte) { display: none !important; }
+  #porte { display: none; }
+  html.verrouille #porte {
+    display: flex; position: fixed; inset: 0; z-index: 99999;
+    align-items: center; justify-content: center; background: #faf8f5;
+    font-family: -apple-system, system-ui, sans-serif;
+  }
+  #porte .boite { width: 100%; max-width: 300px; padding: 24px; text-align: center; }
+  #porte h2 { margin: 0 0 16px; font-size: 18px; color: #5a3a1a; font-weight: 600; }
+  #porte input { width: 100%; padding: 12px; font-size: 16px; box-sizing: border-box;
+    border: 1px solid #d8cfc4; border-radius: 8px; background: #fff; margin-bottom: 10px; }
+  #porte button { width: 100%; padding: 12px; font-size: 15px; border: none;
+    border-radius: 8px; background: #1b3a5c; color: #fff; cursor: pointer; }
+  #porte .err { color: #c0392b; font-size: 13px; height: 16px; margin-bottom: 8px; }
+</style>
+<script>
+(function () {
+  var HASH = "0721ba9a209534aa3dba860230dc45ed3099223621973dd6f941df4386ab862c";
+  var CLE = "recettes_acces";
+  if (localStorage.getItem(CLE) === HASH) return;        // déjà entré : on laisse passer
+  document.documentElement.classList.add("verrouille");  // sinon on masque tout de suite
+
+  async function sha256(txt) {
+    var buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(txt));
+    return Array.from(new Uint8Array(buf))
+      .map(function (b) { return b.toString(16).padStart(2, "0"); }).join("");
+  }
+
+  function poser() {
+    var d = document.createElement("div");
+    d.id = "porte";
+    d.innerHTML =
+      '<div class="boite">' +
+      '<h2>\uD83D\uDD12 Mes recettes</h2>' +
+      '<div class="err" id="porte-err"></div>' +
+      '<input type="password" id="porte-mdp" placeholder="Mot de passe" autocomplete="current-password">' +
+      '<button id="porte-ok">Entrer</button></div>';
+    document.body.appendChild(d);
+    var inp = document.getElementById("porte-mdp");
+    var err = document.getElementById("porte-err");
+    inp.focus();
+    async function verifier() {
+      var h = await sha256(inp.value);
+      if (h === HASH) {
+        localStorage.setItem(CLE, HASH);
+        document.documentElement.classList.remove("verrouille");
+        d.remove();
+      } else {
+        err.textContent = "Mot de passe incorrect";
+        inp.value = ""; inp.focus();
+      }
+    }
+    document.getElementById("porte-ok").addEventListener("click", verifier);
+    inp.addEventListener("keydown", function (e) { if (e.key === "Enter") verifier(); });
+  }
+  if (document.body) poser();
+  else document.addEventListener("DOMContentLoaded", poser);
+})();
+</script>
+</head>
+<body>
+    <header class="header-recette">
+        <a href="../index.html" class="bouton-retour">← Retour</a>
+    </header>
+    <article class="recette">
+        <h1>Tonkatsu</h1>
+<h2>Ingrédients</h2>
+<p><em>Pour 4 personnes — Préparation : 10 min — Cuisson : 10 min</em></p>
+<ul>
+<li>4 escalopes de porc d'environ 150 g chacune</li>
+<li>4 bols de riz blanc cuit (voir recette p. 38)</li>
+<li>400 g de chou vert</li>
+<li>1 œuf</li>
+<li>4 cuillerées à soupe de farine</li>
+<li>4 à 6 cuillerées à soupe de chapelure panko (ou de chapelure classique)</li>
+<li>1/2 citron coupé en quartiers</li>
+<li>huile pour la friture</li>
+<li>sel et poivre du moulin</li>
+</ul>
+<h3>Pour la sauce tonkatsu</h3>
+<ul>
+<li>4 cuillerées à soupe de compote de pommes</li>
+<li>1 cuillerée à soupe de gingembre frais râpé</li>
+<li>1 gousse d'ail râpée</li>
+<li>4 cuillerées à soupe de mirin</li>
+<li>4 cuillerées à soupe de concentré de tomates</li>
+<li>1 cuillerée à soupe de vinaigre de riz</li>
+<li>2 cuillerées à soupe de sauce soja</li>
+<li>4 cuillerées à soupe de sucre semoule</li>
+</ul>
+<h2>Commentaire</h2>
+<p>Le tonkatsu est du porc pané frit. C'est une recette très populaire au Japon. Lorsqu'il est servi sur un bol de riz, le plat s'appelle katsu-don.</p>
+<h2>Déroulé de la recette</h2>
+<p>Préparez la sauce tonkatsu. Mettez tous les ingrédients dans une casserole. Portez à ébullition en remuant pour dissoudre le sucre, puis laissez mijoter 5 minutes environ à feu doux afin d'obtenir une consistance sirupeuse. Cette sauce peut se conserver 2 semaines au réfrigérateur.</p>
+<p>Battez l'œuf dans une assiette creuse. Versez la farine et la chapelure dans deux autres assiettes. Salez et poivrez les escalopes. Passez-les dans la farine puis dans l'œuf battu et enfin dans la chapelure – veillez à ce que la chapelure adhère bien.</p>
+<p>Faites chauffer l'huile dans un wok – elle est à la bonne température lorsque des bulles apparaissent autour des baguettes trempées dedans.</p>
+<p>Faites frire les escalopes dans l'huile chaude pendant 5 minutes environ, jusqu'à ce qu'elles prennent une belle couleur dorée. Égouttez-les sur du papier absorbant. Procédez en deux fois.</p>
+<p>Émincez le chou en fines lanières et répartissez-le sur un plat de service. Coupez les escalopes en tranches et disposez-les dessus. Nappez de la moitié de la sauce tonkatsu et ajoutez les quartiers de citron. Accompagnez d'un bol de riz.</p>
+<p><strong>Astuce :</strong> Si vous manquez de temps pour la préparer vous-même, vous trouverez de la sauce tonkatsu prête à l'emploi dans les épiceries asiatiques.</p>
+    </article>
+    <section id="photos-zone"></section>
+    <section id="avis-zone"></section>
+    <script src="../avis.js"></script>
+    <script src="../photos.js"></script>
+    <script>
+        initAvisRecette("tonkatsu");
+        initPhotosRecette("tonkatsu");
+    </script>
+</body>
+</html>

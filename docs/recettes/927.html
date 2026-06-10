@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tempura de tiges, feuilles et herbes</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="manifest" href="../manifest.json">
+    <meta name="theme-color" content="#1b3a5c">
+    <style>
+        body { background: #f0f4f8; }
+        header { background: #1b3a5c; }
+        .bouton-retour { color: rgba(232,240,248,.85) !important; }
+        .bouton-retour:hover { color: #fff !important; }
+    </style>
+
+<style>
+  html.verrouille body > *:not(#porte) { display: none !important; }
+  #porte { display: none; }
+  html.verrouille #porte {
+    display: flex; position: fixed; inset: 0; z-index: 99999;
+    align-items: center; justify-content: center; background: #faf8f5;
+    font-family: -apple-system, system-ui, sans-serif;
+  }
+  #porte .boite { width: 100%; max-width: 300px; padding: 24px; text-align: center; }
+  #porte h2 { margin: 0 0 16px; font-size: 18px; color: #5a3a1a; font-weight: 600; }
+  #porte input { width: 100%; padding: 12px; font-size: 16px; box-sizing: border-box;
+    border: 1px solid #d8cfc4; border-radius: 8px; background: #fff; margin-bottom: 10px; }
+  #porte button { width: 100%; padding: 12px; font-size: 15px; border: none;
+    border-radius: 8px; background: #1b3a5c; color: #fff; cursor: pointer; }
+  #porte .err { color: #c0392b; font-size: 13px; height: 16px; margin-bottom: 8px; }
+</style>
+<script>
+(function () {
+  var HASH = "0721ba9a209534aa3dba860230dc45ed3099223621973dd6f941df4386ab862c";
+  var CLE = "recettes_acces";
+  if (localStorage.getItem(CLE) === HASH) return;        // déjà entré : on laisse passer
+  document.documentElement.classList.add("verrouille");  // sinon on masque tout de suite
+
+  async function sha256(txt) {
+    var buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(txt));
+    return Array.from(new Uint8Array(buf))
+      .map(function (b) { return b.toString(16).padStart(2, "0"); }).join("");
+  }
+
+  function poser() {
+    var d = document.createElement("div");
+    d.id = "porte";
+    d.innerHTML =
+      '<div class="boite">' +
+      '<h2>\uD83D\uDD12 Mes recettes</h2>' +
+      '<div class="err" id="porte-err"></div>' +
+      '<input type="password" id="porte-mdp" placeholder="Mot de passe" autocomplete="current-password">' +
+      '<button id="porte-ok">Entrer</button></div>';
+    document.body.appendChild(d);
+    var inp = document.getElementById("porte-mdp");
+    var err = document.getElementById("porte-err");
+    inp.focus();
+    async function verifier() {
+      var h = await sha256(inp.value);
+      if (h === HASH) {
+        localStorage.setItem(CLE, HASH);
+        document.documentElement.classList.remove("verrouille");
+        d.remove();
+      } else {
+        err.textContent = "Mot de passe incorrect";
+        inp.value = ""; inp.focus();
+      }
+    }
+    document.getElementById("porte-ok").addEventListener("click", verifier);
+    inp.addEventListener("keydown", function (e) { if (e.key === "Enter") verifier(); });
+  }
+  if (document.body) poser();
+  else document.addEventListener("DOMContentLoaded", poser);
+})();
+</script>
+</head>
+<body>
+    <header class="header-recette">
+        <a href="../index.html" class="bouton-retour">← Retour</a>
+    </header>
+    <article class="recette">
+        <h1>Tempura de tiges, feuilles et herbes</h1>
+<h2>Ingrédients</h2>
+<p><em>Pour 6 personnes — En en-cas ou en petite entrée</em></p>
+<ul>
+<li>70 g de tiges et feuilles de betteraves, tiges coupées en tronçons de 8 cm, lavées et bien séchées</li>
+<li>20 g d'aneth, bien séché et coupé en tiges de 8 cm</li>
+<li>10 g de feuilles fraîches de menthe, bien séchées</li>
+<li>½ cuil. à soupe de poivre du Sichuan, pilé dans un mortier</li>
+<li>Sel de Maldon</li>
+</ul>
+<h3>Sauce à la mandarine</h3>
+<ul>
+<li>5 cl de jus de mandarine, avec quelques morceaux de pulpe (2-3 fruits)</li>
+<li>3 cuil. à soupe de jus de citron vert</li>
+<li>1 ½ cuil. à café de sirop d'érable</li>
+<li>½ petite gousse d'ail, finement hachée</li>
+<li>4 feuilles de combava fraîches, tiges jetées et feuilles finement hachées</li>
+<li>½ piment rouge, épépiné et finement haché</li>
+</ul>
+<h3>Pâte à tempura</h3>
+<ul>
+<li>80 g de farine avec levure incorporée</li>
+<li>80 g de fécule de maïs + 50 g pour la friture</li>
+<li>21 cl d'eau pétillante glacée (petits morceaux de glace bienvenus)</li>
+<li>1 ½ cuil. à soupe de graines de sésame noir</li>
+<li>70 cl d'huile de tournesol, pour la friture</li>
+</ul>
+<h2>Commentaire</h2>
+<p>Dans nos restaurants Ottolenghi, nous faisons rôtir des quantités astronomiques de betteraves et sommes toujours en quête d'idées pour recycler les tiges et les feuilles. Cette recette est peut-être la « solution » pour les très populaires betteraves Hasselback de ROVI. Elle est superbe servie seule, avec sa croûte ultra-croustillante et une sauce aigre-douce pour atténuer la saveur grasse.</p>
+<p>Si vous ne disposez pas de tiges et de feuilles de betteraves, différents mélanges d'herbes, de tiges et de feuilles fonctionneront très bien. Essayez par exemple avec des feuilles de basilic, du persil, de la sauge et des bettes. La tempura ne se garde pas bien, il vaut mieux la manger dès qu'elle sort de l'huile.</p>
+<h2>Déroulé de la recette</h2>
+<ol>
+<li>
+<p>Dans un bol de service, mélangez tous les ingrédients de la sauce avec une pincée de sel de Maldon. Réservez.</p>
+</li>
+<li>
+<p>Mettez dans un récipient la farine, 80 g de fécule de maïs, l'eau pétillante, les graines de sésame noir et 1 cuil. à café de sel de Maldon. Fouettez doucement, mais surtout pas vigoureusement : il faut simplement mélanger les ingrédients.</p>
+</li>
+<li>
+<p>Versez l'huile dans une sauteuse de taille moyenne et faites-la chauffer à feu vif. Quand elle est très chaude (un peu moins de 180 °C), baissez à feu moyen et testez la chaleur en déposant un morceau de pâte dedans ; il devrait grésiller, mais sans brunir aussitôt. En procédant en plusieurs tournées, mélangez les herbes, les tiges et les feuilles avec la fécule de maïs, secouez-les pour éliminer le surplus, puis plongez-les dans la pâte. Secouez l'excédent de pâte au-dessus du bol avant de faire tomber les herbes dans l'huile, sans les faire se toucher. Laissez-les frire 30 s à 1 min de chaque côté, jusqu'à ce que la pâte soit croustillante et dorée, puis transférez-les avec une écumoire sur une grille tapissée de papier absorbant. Préparez de la même manière toutes les herbes, puis saupoudrez-les de poivre du Sichuan et assaisonnez-les généreusement au sel de Maldon. Présentez sur un plat de service et dégustez chaud, en proposant la sauce à part.</p>
+</li>
+</ol>
+    </article>
+    <section id="photos-zone"></section>
+    <section id="avis-zone"></section>
+    <script src="../avis.js"></script>
+    <script src="../photos.js"></script>
+    <script>
+        initAvisRecette("tempura-de-tiges-feuilles-et-herbes");
+        initPhotosRecette("tempura-de-tiges-feuilles-et-herbes");
+    </script>
+</body>
+</html>
