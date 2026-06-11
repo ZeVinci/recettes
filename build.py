@@ -132,6 +132,9 @@ TMPL_LISTE = """<!DOCTYPE html>
         .fab .bdg { background: rgba(255,255,255,.3); border-radius: 99px; font-size: 11px;
                     min-width: 18px; height: 18px; display: flex; align-items: center;
                     justify-content: center; padding: 0 4px; }
+        .lien-proposer { display: block; text-align: center; margin: 16px auto 6px;
+                    color: #c05a35; font-size: 13px; font-weight: 600; text-decoration: none; }
+        .lien-proposer:hover { text-decoration: underline; }
 
         .compteur { text-align: center; color: #7a95b0; font-size: .9rem; margin-top: 1.5rem; }
 
@@ -222,6 +225,8 @@ TMPL_LISTE = """<!DOCTYPE html>
     </ul>
 
     <p class="compteur" id="compteur"></p>
+
+    <a class="lien-proposer" href="soumettre.html">✚ Proposer une recette</a>
 
     <div class="fabs" id="fabs">
         <a class="fab fab-menu" href="menu.html">
@@ -902,6 +907,73 @@ TMPL_RECETTE = """<!DOCTYPE html>
 # Le marqueur __HASH__ est remplacé au build par le hash SHA-256 du mot de passe.
 # Le mot de passe en clair n'apparaît donc jamais dans les pages publiées.
 
+TMPL_SOUMETTRE = """<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proposer une recette</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#1b3a5c">
+    <style>
+        body { background: #f0f4f8; }
+        header { background: #1b3a5c; }
+        header h1 { color: #e8f0f8 !important; }
+        .bouton-retour { color: rgba(232,240,248,.85) !important; }
+        .bouton-retour:hover { color: #fff !important; }
+        .soum-intro { font-size: 13.5px; color: #555; padding: 0 1rem;
+                      margin: 6px 0 16px; line-height: 1.5; }
+    </style>
+</head>
+<body>
+    <header class="header-recette">
+        <a href="index.html" class="bouton-retour">← Retour</a>
+        <h1 style="margin-top:8px">Proposer une recette</h1>
+    </header>
+    <p class="soum-intro">Remplissez les champs ci-dessous. Pas besoin d'une mise en forme
+    parfaite : la recette sera relue avant d'être ajoutée au recueil. Les champs marqués * sont obligatoires.</p>
+    <div id="soum-zone"></div>
+    <script src="soumission.js"></script>
+    <script>initFormulaireSoumission();</script>
+</body>
+</html>"""
+
+
+TMPL_SOUMISSIONS = """<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soumissions reçues</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#1b3a5c">
+    <style>
+        body { background: #f0f4f8; }
+        header { background: #1b3a5c; }
+        header h1 { color: #e8f0f8 !important; }
+        .bouton-retour { color: rgba(232,240,248,.85) !important; }
+        .bouton-retour:hover { color: #fff !important; }
+        .rev-intro { font-size: 13.5px; color: #555; padding: 0 1rem;
+                     margin: 6px 0 16px; line-height: 1.5; }
+    </style>
+</head>
+<body>
+    <header class="header-recette">
+        <a href="index.html" class="bouton-retour">← Retour</a>
+        <h1 style="margin-top:8px">Soumissions reçues</h1>
+    </header>
+    <p class="rev-intro">Les recettes proposées, en attente de relecture. « Copier pour Claude »
+    place la recette mise en forme dans le presse-papier : colle-la dans une conversation du projet
+    pour finaliser (catégorie, extraction des « Noms ingrédients »), puis « Marquer traité ».</p>
+    <div id="revue-zone"></div>
+    <script src="soumission.js"></script>
+    <script>initRevueSoumissions();</script>
+</body>
+</html>"""
+
+
 GATE_HTML = """
 <style>
   html.verrouille body > *:not(#porte) { display: none !important; }
@@ -1058,6 +1130,12 @@ def build():
     (DOCS / "courses.html").write_text(
         tmpl.render(recettes_json=recettes_json_str), encoding="utf-8")
 
+    # 9b. soumettre.html (formulaire public) + soumissions.html (revue privée)
+    (DOCS / "soumettre.html").write_text(
+        env.from_string(TMPL_SOUMETTRE).render(), encoding="utf-8")
+    (DOCS / "soumissions.html").write_text(
+        env.from_string(TMPL_SOUMISSIONS).render(), encoding="utf-8")
+
     # 10. Pages recettes individuelles
     tmpl = env.from_string(TMPL_RECETTE)
     for r in recettes:
@@ -1080,7 +1158,7 @@ def build():
     # 11. Service worker v12
     fichiers = (
         ["./index.html", "./style.css", "./avis.js", "./favoris.js", "./photos.js", "./menu.html",
-         "./ingredients.html", "./courses.html"]
+         "./ingredients.html", "./courses.html", "./soumettre.html", "./soumission.js"]
         + [f"./recettes/{r['id']}.html" for r in recettes]
     )
     (DOCS / "service-worker.js").write_text(_genere_sw(fichiers), encoding="utf-8")
@@ -1091,7 +1169,7 @@ def build():
 
 def _genere_sw(fichiers):
     liste = ",\n    ".join(f'"{f}"' for f in fichiers)
-    return f"""const CACHE = "recettes-v12";
+    return f"""const CACHE = "recettes-v13";
 const PRECACHE = [
     {liste}
 ];

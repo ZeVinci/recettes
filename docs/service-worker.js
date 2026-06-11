@@ -1,4 +1,4 @@
-const CACHE = "recettes-v12";
+const CACHE = "recettes-v13";
 const PRECACHE = [
     "./index.html",
     "./style.css",
@@ -8,6 +8,8 @@ const PRECACHE = [
     "./menu.html",
     "./ingredients.html",
     "./courses.html",
+    "./soumettre.html",
+    "./soumission.js",
     "./recettes/0.html",
     "./recettes/1.html",
     "./recettes/2.html",
