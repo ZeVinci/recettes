@@ -15,7 +15,7 @@ RECETTES_MD = Path("recettes.md")
 STATIC_SRC  = Path("static")
 DOCS        = Path("docs")
 
-ORIGINES = ["Ottolenghi", "Japonais", "Gagnaire", "Breton", "Réunion", "Asiatique"]
+ORIGINES = ["Ottolenghi", "Japonais", "Gagnaire", "Breton", "Réunion", "Asiatique", "Friends"]
 TYPES    = ["Végé", "Viande", "Poisson", "Dessert"]
 
 # Mot de passe partagé pour accéder au site. Change-le pour ce que tu veux.

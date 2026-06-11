@@ -45088,3 +45088,57 @@ Placez le tiramisu de 4 à 12 heures au réfrigérateur.
 
 mascarpone. poire. œuf
 ---
+# Soupe crémeuse aux champignons et ras el hanout
+
+## Catégorie
+
+Friends. Non testé. Végé
+
+## Commentaire
+
+Proposé par Caro. Elle fait la recette sans le sirop d'érable et en remplaçant le ras el hanout par des épices au hasard, et c'est très bon !
+
+---
+## Ingrédients
+
+*Pour 2 personnes*
+
+**Bouillon**
+- 3 cuil. à soupe d'huile d'olive
+- 1 grande échalote, finement émincée
+- 3 gousses d'ail, finement tranchées
+- 1 cuil. à soupe de vinaigre de xérès
+- 5 g de cèpes séchés
+- 45 g de pignons de pin, plus 20 g grillés pour la garniture
+
+**Champignons collants ras el hanout**
+- 2 cuil. à soupe de sauce soja
+- 4 cuil. à soupe d'huile d'olive, plus 2 cuil. à soupe pour la garniture
+- 2 cuil. à soupe de sirop d'érable
+- 2 cuil. à café de ras el hanout
+- 200 g de champignons de Paris, tranchés en tranches de 1 cm
+- 150 g de shiitake, pieds retirés, déchirés en morceaux de la taille d'une bouchée
+- 150 g de pleurotes, pieds retirés, déchirés en morceaux de la taille d'une bouchée
+- 1 citron : zeste en 8 lamelles, jus pressé (2 cuil. à soupe)
+- 4 brins d'origan, feuilles cueillies
+- Sel de mer en flocons et poivre
+---
+
+## Déroulé de la recette
+
+Pour le bouillon, faites chauffer 3 cuil. à soupe d'huile dans une casserole moyenne à feu moyen. Ajoutez l'échalote et l'ail avec ⅛ de cuil. à café de sel et faites revenir environ 10 minutes, jusqu'à tendreté. Ajoutez le vinaigre et laissez cuire 1 à 2 minutes jusqu'à évaporation. Ajoutez 650 ml d'eau, les pignons de pin et les cèpes. Couvrez et laissez mijoter doucement environ 20 minutes, jusqu'à ce que les pignons soient bien tendres. Gardez au chaud.
+
+Préchauffez le four à 200 °C.
+
+Dans un grand bol, fouettez la sauce soja, l'huile d'olive, le sirop d'érable, le ras el hanout, ¼ de cuil. à café de sel et quelques tours de moulin à poivre. Ajoutez les champignons, la moitié des feuilles d'origan et les zestes de citron, puis mélangez bien. Étalez en une seule couche sur une grande plaque recouverte de papier sulfurisé et faites rôtir 25 à 30 minutes, en retournant une ou deux fois, jusqu'à ce qu'ils commencent à dorer sur les bords.
+
+Versez la moitié des champignons (sans les zestes) dans un blender avec le bouillon et mixez 5 à 8 minutes jusqu'à consistance bien lisse. Goûtez, rectifiez l'assaisonnement, ajoutez un peu d'eau si vous préférez une soupe plus liquide.
+
+Incorporez le jus et les zestes de citron, les feuilles d'origan restantes et 2 cuil. à soupe d'huile d'olive aux champignons réservés.
+
+Pour servir, répartissez la soupe dans deux bols, garnissez de champignons, de l'huile du bol, et terminez par les pignons de pin grillés.
+
+## Noms ingrédients
+
+ail. échalotes. cèpes séchés. champignons de Paris. champignons shiitaké. pleurotes. citrons. ras-el-hanout
+---
