@@ -194,3 +194,49 @@ function _injecterStylePhotos() {
   st.textContent = css;
   document.head.appendChild(st);
 }
+
+// ============================================================================
+//  BANDEAU "PHOTOS RÉCENTES" (page liste)  —  appeler initBandeauPhotos()
+//  Affiche les photos les plus récentes en vignettes ; la plus récente à
+//  gauche, on scrolle vers la droite pour voir les plus anciennes. Chaque
+//  vignette renvoie vers la recette (repli : photo plein écran).
+// ============================================================================
+
+async function initBandeauPhotos(opts) {
+  const zone = document.getElementById("bandeau-photos");
+  if (!zone || !_phConfigOk()) return;
+  const limite = (opts && opts.limite) || 15;
+
+  let photos = [];
+  try {
+    const r = await fetch(
+      `${_PH_REST}?select=chemin,recette_slug,nom,created_at` +
+      `&order=created_at.desc&limit=${limite}`,
+      { headers: _PH_HEADERS }
+    );
+    if (!r.ok) return;
+    photos = await r.json();
+  } catch (e) {
+    return;                       // hors-ligne : on n'affiche simplement rien
+  }
+  if (!photos.length) return;     // aucune photo : bandeau masqué (CSS :empty)
+
+  // Les données arrivent déjà du plus récent au plus ancien → la plus récente
+  // est à gauche, on scrolle vers la droite pour voir les plus anciennes.
+
+  // Carte slug → page recette, lue depuis la liste déjà rendue dans la page.
+  const lien = {};
+  document.querySelectorAll("#liste-recettes li").forEach(li => {
+    const a = li.querySelector("a[href]");
+    if (li.dataset.slug && a) lien[li.dataset.slug] = a.getAttribute("href");
+  });
+
+  zone.innerHTML = `<div class="bp-piste">` + photos.map(p => {
+    const img   = `${_PH_PUBLIC}/${p.chemin}`;
+    const href  = lien[p.recette_slug] || img;
+    const cible = lien[p.recette_slug] ? "" : ' target="_blank" rel="noopener"';
+    const titre = p.nom ? ` title="Photo de ${_echapPh(p.nom)}"` : "";
+    return `<a class="bp-vignette" href="${href}"${cible}${titre}>` +
+           `<img src="${img}" loading="lazy" alt="Photo récente"></a>`;
+  }).join("") + `</div>`;
+}

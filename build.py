@@ -157,6 +157,17 @@ TMPL_LISTE = """<!DOCTYPE html>
                    background: rgba(255,255,255,.12); color: rgba(232,240,248,.9);
                    cursor: pointer; }
         .fav-btn:active { background: rgba(255,255,255,.25); }
+
+        /* ── Bandeau photos récentes (inline : anti-cache) ── */
+        #bandeau-photos { background: #f0f4f8; padding: 8px 0; }
+        #bandeau-photos:empty { display: none; }
+        .bp-piste { display: flex; gap: 8px; overflow-x: auto; padding: 0 10px;
+                    scrollbar-width: none; -webkit-overflow-scrolling: touch; }
+        .bp-piste::-webkit-scrollbar { display: none; }
+        .bp-vignette { flex: 0 0 auto; width: 64px; height: 64px; border-radius: 10px;
+                       overflow: hidden; background: #e3e9f0; border: 0.5px solid #d4dde8; }
+        .bp-vignette img { width: 100%; height: 100%; object-fit: cover; display: block; }
+        .bp-vignette:active { opacity: .8; }
     </style>
 </head>
 <body>
@@ -198,6 +209,8 @@ TMPL_LISTE = """<!DOCTYPE html>
 
         <div id="fav-controls"></div>
     </header>
+
+    <div id="bandeau-photos"></div>
 
     <a class="lien-proposer" href="soumettre.html">✚ Proposer une recette</a>
 
@@ -431,6 +444,8 @@ TMPL_LISTE = """<!DOCTYPE html>
     </script>
     <script src="avis.js"></script>
     <script>remplirBadgesAvis();</script>
+    <script src="photos.js"></script>
+    <script>initBandeauPhotos();</script>
 </body>
 </html>"""
 
@@ -1169,7 +1184,7 @@ def build():
 
 def _genere_sw(fichiers):
     liste = ",\n    ".join(f'"{f}"' for f in fichiers)
-    return f"""const CACHE = "recettes-v13";
+    return f"""const CACHE = "recettes-v14";
 const PRECACHE = [
     {liste}
 ];
