@@ -45142,3 +45142,55 @@ Pour servir, répartissez la soupe dans deux bols, garnissez de champignons, de 
 
 ail. échalotes. cèpes séchés. champignons de Paris. champignons shiitaké. pleurotes. citrons. ras-el-hanout
 ---
+
+# La pastasciutta antifascista de Casa Cervi
+
+## Catégorie
+
+Friends. Végé
+
+## Commentaire
+
+Recette de fettuccine à la sauce tomate par Floriane Facchini. Vous pouvez réaliser la forme de pâtes que vous aimez le plus ; ici c'est la version aux *fettuccine*.
+
+À propos des farines : les deux références italiennes (farine type 00 et *semola rimacinata*) servent à faire la pâte à pizza. Elles possèdent une valeur boulangère élevée — une farine dite « de force », très riche en gluten. L'équivalent français correspond à de la farine T45-T55, et pour la *semola rimacinata* vous pouvez utiliser de la semoule extra-fine.
+
+Astuce parmesan : pour donner plus de goût à la sauce, ajoutez la croûte d'un bout de parmesan pendant la cuisson — elle libérera progressivement sa saveur et ses nutriments.
+
+---
+
+## Ingrédients
+
+*Pour 3 assiettes de fettuccine à la sauce tomate*
+
+- 300 g de farine : 70 % de farine type 00 (ou une farine locale) mélangée à 30 % de *semola rimacinata*
+- 3 œufs frais, élevés en plein air (1 œuf d'environ 55/58 g pour 100 g de farine)
+- Tomates fraîches du marché ou de chez votre primeur, ou 1 litre de coulis (ou un mélange des deux)
+- 1/4 d'oignon + 1 gousse d'ail (ou plus selon les goûts)
+- Sel, basilic et parmesan (parmigiano reggiano)
+- Huile d'olive
+
+---
+
+## Déroulé de la recette
+
+### Préparation des fettuccine
+
+Mélangez les farines, ajoutez les œufs et une pincée de sel (8 g). Sur une surface plane, de préférence en bois, formez un puits avec un large creux au centre. Cassez les œufs dans un bol et battez-les doucement d'un mouvement régulier. Versez les œufs dans le creux et incorporez-les progressivement à la farine, tout en continuant à mélanger.
+
+Une fois que la pâte est homogène (et résistante !), commencez à pétrir entre 10 et 15 minutes. Vous pouvez, en même temps, répéter l'incantation : « SIAMO TUTTI ANTIFASCISTI » (3 fois au moins, comme un geste de courage et d'espoir qui s'incarne).
+
+Travaillez la pâte jusqu'à obtenir une boule lisse et compacte. Couvrez ensuite le pâton avec un bol et laissez-le reposer dans un endroit sec et frais, entre 20 et 25 minutes.
+
+Étalez la pâte à l'aide d'un rouleau. Une fois la pâte très fine, coupez-la en lanières, puis créez des petits nids qui cuiront dans l'eau bouillante salée entre 3 et 5 minutes (plus ou moins al dente).
+
+### Préparation de la sauce
+
+Coupez l'ail et l'oignon, mettez-les dans une casserole avec de l'huile d'olive et du sel, et laissez mijoter jusqu'à ce que le tout soit bien doré. Versez le coulis de tomate dans la casserole, ajoutez la croûte de parmesan et laissez cuire à feu doux au moins 1 heure, en mélangeant de temps en temps.
+
+Répétez l'incantation si besoin, puis ajoutez du basilic (en fin de cuisson uniquement !). Versez la sauce directement sur les fettuccine et mélangez le tout dans un saladier jusqu'à ce que la sauce soit bien répartie (démocratiquement) sur toutes les pâtes. Servez, sans lésiner sur le parmesan !
+
+## Noms ingrédients
+
+œuf. tomate. oignons. ail. basilic. parmesan
+---
