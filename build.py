@@ -1184,7 +1184,7 @@ def build():
 
 def _genere_sw(fichiers):
     liste = ",\n    ".join(f'"{f}"' for f in fichiers)
-    return f"""const CACHE = "recettes-v14";
+    return f"""const CACHE = "recettes-v16";
 const PRECACHE = [
     {liste}
 ];
@@ -1199,11 +1199,19 @@ self.addEventListener("activate", e => {{
 }});
 self.addEventListener("fetch", e => {{
     const req = e.request;
+    // On ne gère QUE les GET de même origine. Tout le reste — les POST
+    // (Supabase, Web3Forms, upload de photos) et les requêtes vers d'autres
+    // domaines — passe directement au réseau, sans interception. Sinon le SW
+    // enrobe ces appels et les fait échouer ("TypeError: Failed to fetch").
+    let memeOrigine = false;
+    try {{ memeOrigine = new URL(req.url).origin === self.location.origin; }} catch (_) {{}}
+    if (req.method !== "GET" || !memeOrigine) return;
+ 
     const accepteHtml = req.headers.get("accept") &&
                         req.headers.get("accept").includes("text/html");
     // Pages HTML : réseau d'abord (les changements de structure se propagent
     // dès qu'on est en ligne), repli sur le cache si hors-ligne.
-    if (req.method === "GET" && (req.mode === "navigate" || accepteHtml)) {{
+    if (req.mode === "navigate" || accepteHtml) {{
         e.respondWith(
             fetch(req).then(resp => {{
                 const copie = resp.clone();
@@ -1213,11 +1221,10 @@ self.addEventListener("fetch", e => {{
         );
         return;
     }}
-    // CSS / JS / images / JSON : cache d'abord (rapide, hors-ligne).
+    // CSS / JS / images / JSON de même origine : cache d'abord (rapide, hors-ligne).
     e.respondWith(caches.match(req).then(cached => cached || fetch(req)));
 }});
 """
-
 
 if __name__ == "__main__":
     build()
