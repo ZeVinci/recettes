@@ -7,6 +7,11 @@
        l'URL de ton projet Supabase et ta clé "anon public" (voir étape 2 du
        guide). Ces deux valeurs sont publiques : il est NORMAL qu'elles soient
        visibles dans le code du site.
+
+   Notation : demi-étoiles autorisées (0,5 à 5). Sur la rangée de saisie,
+   un clic sur la moitié GAUCHE d'une étoile donne x,5 ; sur la moitié DROITE,
+   x,0. (⚠️ la colonne « note » de la table Supabase doit être de type numeric,
+   pas integer — voir le commentaire en bas de fichier.)
    ============================================================================ */
 
 const SUPABASE_URL = "https://knocsfkgsobpfuddoghx.supabase.co";
@@ -62,7 +67,7 @@ async function initAvisRecette(slug) {
     mesAvis = await r.json();
     const dev = _deviceId();
     monAvis = mesAvis.find(a => a.device_id === dev) || null;
-    if (monAvis) noteChoisie = monAvis.note;
+    if (monAvis) noteChoisie = Number(monAvis.note);
   } catch (e) {
     zone.innerHTML = '<p class="avis-info">Avis indisponibles (hors-ligne ?).</p>';
     return;
@@ -70,14 +75,14 @@ async function initAvisRecette(slug) {
 
   // 2. Construit l'interface
   const nbAvis = mesAvis.length;
-  const moyenne = nbAvis ? (mesAvis.reduce((s, a) => s + a.note, 0) / nbAvis) : 0;
+  const moyenne = nbAvis ? (mesAvis.reduce((s, a) => s + Number(a.note), 0) / nbAvis) : 0;
   const nomSauve = monAvis?.nom || localStorage.getItem("avis_nom") || "";
 
   zone.innerHTML = `
     <h2 class="avis-titre">Avis</h2>
     <div class="avis-resume">
       ${nbAvis
-        ? `<span class="avis-moy">${_etoilesTexte(moyenne)} ${moyenne.toFixed(1)}</span>
+        ? `<span class="avis-moy">${_etoilesHTML(moyenne, 16)} ${moyenne.toFixed(1)}</span>
            <span class="avis-nb">· ${nbAvis} avis</span>`
         : `<span class="avis-nb">Aucun avis pour l'instant.</span>`}
     </div>
@@ -85,7 +90,9 @@ async function initAvisRecette(slug) {
     <div class="avis-form">
       <div class="avis-form-label">${monAvis ? "Modifier votre note" : "Votre note"}</div>
       <div class="avis-stars" id="avis-stars">
-        ${[1,2,3,4,5].map(n => `<span class="avis-star" data-n="${n}">★</span>`).join("")}
+        ${[1,2,3,4,5].map(n =>
+          `<span class="avis-star" data-n="${n}"><span class="avis-star-fill"></span></span>`
+        ).join("")}
       </div>
       <input type="text" id="avis-nom" class="avis-input" placeholder="Votre nom (optionnel)"
              value="${_echap(nomSauve)}">
@@ -100,16 +107,32 @@ async function initAvisRecette(slug) {
     </div>
   `;
 
-  // 3. Étoiles : surbrillance + sélection
-  const stars = zone.querySelectorAll(".avis-star");
-  const peindre = (n) => stars.forEach(s =>
-    s.classList.toggle("on", Number(s.dataset.n) <= n));
+  // 3. Étoiles : surbrillance + sélection (avec demi-étoiles)
+  const widget = zone.querySelector("#avis-stars");
+  const stars = widget.querySelectorAll(".avis-star");
+
+  // Remplit chaque étoile à 0 %, 50 % ou 100 % selon la valeur visée.
+  const peindre = (val) => stars.forEach(s => {
+    const sn = Number(s.dataset.n);
+    const pct = val >= sn ? 100 : (val >= sn - 0.5 ? 50 : 0);
+    s.querySelector(".avis-star-fill").style.width = pct + "%";
+  });
+
+  // Valeur correspondant à la position du curseur/doigt dans une étoile :
+  // moitié gauche → x,5 ; moitié droite → x,0.
+  const valeurAu = (s, ev) => {
+    const n = Number(s.dataset.n);
+    const rect = s.getBoundingClientRect();
+    return (ev.clientX - rect.left) < rect.width / 2 ? n - 0.5 : n;
+  };
+
   peindre(noteChoisie);
   stars.forEach(s => {
-    s.addEventListener("mouseenter", () => peindre(Number(s.dataset.n)));
-    s.addEventListener("click", () => { noteChoisie = Number(s.dataset.n); peindre(noteChoisie); });
+    // Aperçu au survol (sans effet sur écran tactile, où seul le clic compte).
+    s.addEventListener("mousemove", ev => peindre(valeurAu(s, ev)));
+    s.addEventListener("click", ev => { noteChoisie = valeurAu(s, ev); peindre(noteChoisie); });
   });
-  zone.querySelector("#avis-stars").addEventListener("mouseleave", () => peindre(noteChoisie));
+  widget.addEventListener("mouseleave", () => peindre(noteChoisie));
 
   // 4. Envoi (insertion ou mise à jour)
   zone.querySelector("#avis-envoyer").addEventListener("click", async () => {
@@ -147,7 +170,7 @@ function _listeCommentaires(avis) {
     <div class="avis-item">
       <div class="avis-item-haut">
         <span class="avis-item-nom">${_echap(a.nom || "Anonyme")}</span>
-        <span class="avis-item-etoiles">${"★".repeat(a.note)}${"☆".repeat(5 - a.note)}</span>
+        <span class="avis-item-etoiles">${_etoilesHTML(a.note, 12)}</span>
       </div>
       <div class="avis-item-com">${_echap(a.commentaire)}</div>
     </div>`).join("");
@@ -172,7 +195,7 @@ async function remplirBadgesAvis() {
   const agg = {};
   for (const l of lignes) {
     const a = agg[l.recette_slug] || (agg[l.recette_slug] = { somme: 0, n: 0 });
-    a.somme += l.note; a.n += 1;
+    a.somme += Number(l.note); a.n += 1;
   }
   badges.forEach(b => {
     const a = agg[b.dataset.badge];
@@ -184,9 +207,18 @@ async function remplirBadgesAvis() {
 //  Utilitaires
 // ============================================================================
 
-function _etoilesTexte(moy) {
-  const pleines = Math.round(moy);
-  return "★".repeat(pleines) + "☆".repeat(5 - pleines);
+// Rend 5 étoiles avec remplissage partiel (0 / 50 / 100 %) pour afficher une
+// note décimale. `note` peut valoir 4,5 ; on arrondit au demi le plus proche
+// pour le visuel (la valeur chiffrée reste affichée à part, ex. « 4,3 »).
+function _etoilesHTML(note, taillePx) {
+  const px = taillePx || 14;
+  const r = Math.round(Number(note) * 2) / 2; // arrondi au 0,5 le plus proche
+  let html = `<span class="avis-stars-ro" style="font-size:${px}px">`;
+  for (let n = 1; n <= 5; n++) {
+    const pct = r >= n ? 100 : (r >= n - 0.5 ? 50 : 0);
+    html += `<span class="avis-star"><span class="avis-star-fill" style="width:${pct}%"></span></span>`;
+  }
+  return html + "</span>";
 }
 
 function _echap(s) {
@@ -205,9 +237,18 @@ function _injecterStyleAvis() {
     .avis-form { background: #fff; border: 0.5px solid #d4dde8; border-radius: 10px;
                  padding: 14px; margin-bottom: 18px; }
     .avis-form-label { font-size: 12px; color: #888; margin-bottom: 6px; }
-    .avis-stars { font-size: 30px; line-height: 1; user-select: none; margin-bottom: 10px; }
-    .avis-star { color: #d4dde8; cursor: pointer; transition: color .1s; padding: 0 1px; }
-    .avis-star.on { color: #f0a500; }
+
+    /* --- Étoiles (saisie + affichage), avec remplissage partiel --- */
+    .avis-stars, .avis-stars-ro { display: inline-block; line-height: 1;
+                 user-select: none; white-space: nowrap; vertical-align: middle; }
+    .avis-stars { font-size: 30px; margin-bottom: 10px; }
+    .avis-star { position: relative; display: inline-block; color: #d4dde8; margin: 0 1px; }
+    .avis-star::before { content: "\\2605"; }            /* ★ vide (gris) */
+    .avis-star-fill { position: absolute; left: 0; top: 0; width: 0;
+                 overflow: hidden; color: #f0a500; }
+    .avis-star-fill::before { content: "\\2605"; }       /* ★ pleine (orange) */
+    #avis-stars .avis-star { cursor: pointer; }          /* cliquable seulement à la saisie */
+
     .avis-input { width: 100%; box-sizing: border-box; padding: 9px 10px; font-size: 14px;
                   border: 1px solid #ccc; border-radius: 6px; margin-bottom: 8px; }
     .avis-textarea { resize: vertical; font-family: inherit; }
@@ -217,7 +258,7 @@ function _injecterStyleAvis() {
     .avis-item { border-bottom: 0.5px solid #e3e9f0; padding: 10px 0; }
     .avis-item-haut { display: flex; justify-content: space-between; align-items: baseline; }
     .avis-item-nom { font-size: 13px; font-weight: 600; color: #1b3a5c; }
-    .avis-item-etoiles { font-size: 12px; color: #f0a500; }
+    .avis-item-etoiles { line-height: 1; }
     .avis-item-com { font-size: 13px; color: #333; margin-top: 3px; }
     .avis-info { font-size: 12px; color: #aaa; margin: 0 1rem; }
   `;
@@ -226,3 +267,13 @@ function _injecterStyleAvis() {
   st.textContent = css;
   document.head.appendChild(st);
 }
+
+/* ============================================================================
+   ⚠️  CÔTÉ SUPABASE — à faire une seule fois (sinon le 4,5 est refusé) :
+
+   Dans l'éditeur SQL de Supabase, exécuter :
+
+       ALTER TABLE avis ALTER COLUMN note TYPE numeric(2,1);
+
+   Les notes entières déjà enregistrées (4, 5…) restent valides (4.0, 5.0).
+   ============================================================================ */
