@@ -16,7 +16,7 @@
 const SUPABASE_URL_SOUM = "https://knocsfkgsobpfuddoghx.supabase.co";
 const SUPABASE_KEY_SOUM  = "sb_publishable__25rgJincAQ4e7WkPFeXRg_ck6Uo9kZ";
 
-const WEB3FORMS_KEY = "";   // ← colle ici ta clé Web3Forms pour recevoir un mail (sinon laisse vide)
+const WEB3FORMS_KEY = "9274f66b-bc0f-45ea-9ac2-93fce186a3ff";   // ← clé Web3Forms (publique) pour recevoir un mail à chaque soumission ("" pour désactiver)
 
 // --- Réglages internes ------------------------------------------------------
 const _SOUM_API = SUPABASE_URL_SOUM + "/rest/v1/soumissions";
@@ -113,8 +113,13 @@ async function initFormulaireSoumission() {
       });
       if (!r.ok) throw new Error("HTTP " + r.status);
 
-      // Alerte mail facultative (Web3Forms) — n'empêche pas l'enregistrement si elle échoue.
-      if (WEB3FORMS_KEY) { _envoyerMail(corps).catch(() => {}); }
+      // Alerte mail facultative (Web3Forms) — n'empêche pas l'enregistrement si elle échoue,
+      // mais on trace l'échec en console pour pouvoir diagnostiquer (sans alarmer la personne
+      // qui soumet : sa recette est bien enregistrée dans Supabase quoi qu'il arrive).
+      if (WEB3FORMS_KEY) {
+        _envoyerMail(corps).catch(err =>
+          console.warn("[soumission] alerte mail Web3Forms non envoyée :", err.message));
+      }
 
       zone.innerHTML = `
         <div class="soum-merci">
@@ -143,7 +148,7 @@ async function _envoyerMail(corps) {
     `Ingrédients :\n${corps.ingredients}\n\n` +
     `Déroulé :\n${corps.deroule}\n\n` +
     `Commentaire :\n${corps.commentaire || "—"}`;
-  await fetch("https://api.web3forms.com/submit", {
+  const r = await fetch("https://api.web3forms.com/submit", {
     method: "POST",
     headers: { "Content-Type": "application/json", "Accept": "application/json" },
     body: JSON.stringify({
@@ -153,6 +158,12 @@ async function _envoyerMail(corps) {
       message: texte,
     }),
   });
+  // Web3Forms renvoie toujours 200 ; le succès réel est dans le champ JSON "success".
+  let data = {};
+  try { data = await r.json(); } catch (_) {}
+  if (!r.ok || !data.success) {
+    throw new Error(data.message || ("HTTP " + r.status));
+  }
 }
 
 // ============================================================================

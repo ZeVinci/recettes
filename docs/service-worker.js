@@ -1,4 +1,4 @@
-const CACHE = "recettes-v15";
+const CACHE = "recettes-v16";
 const PRECACHE = [
     "./index.html",
     "./style.css",
