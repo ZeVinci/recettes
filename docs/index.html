@@ -12,6 +12,19 @@
         body { background: #f0f4f8; }
         header { background: #1b3a5c; }
         header h1 { color: #e8f0f8 !important; }
+
+        /* ── Ligne titre + icône d'aide ── */
+        .titre-row { display: flex; align-items: center; justify-content: space-between;
+                     gap: 8px; margin-bottom: 0.5rem; }
+        .titre-row h1 { margin: 0 !important; }
+        .aide-btn { flex-shrink: 0; width: 30px; height: 30px; border-radius: 50%;
+                    border: 0.5px solid rgba(232,240,248,.4);
+                    background: rgba(255,255,255,.12); color: #e8f0f8;
+                    font-size: 17px; font-weight: 600; text-decoration: none;
+                    display: flex; align-items: center; justify-content: center;
+                    line-height: 1; }
+        .aide-btn:active { background: rgba(255,255,255,.28); }
+
         #recherche { background: rgba(255,255,255,.12) !important;
                      border-color: rgba(255,255,255,.22) !important;
                      color: #e8f0f8 !important; }
@@ -196,7 +209,10 @@
 </head>
 <body>
     <header>
-        <h1>Mes recettes</h1>
+        <div class="titre-row">
+            <h1>Mes recettes</h1>
+            <a href="aide.html" class="aide-btn" aria-label="Aide" title="Aide">?</a>
+        </div>
         <div style="display:flex;gap:8px;align-items:center;margin-bottom:6px">
             <input type="text" id="recherche" placeholder="Rechercher…"
                    autocomplete="off" style="flex:1">

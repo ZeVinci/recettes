@@ -49,6 +49,19 @@ TMPL_LISTE = """<!DOCTYPE html>
         body { background: #f0f4f8; }
         header { background: #1b3a5c; }
         header h1 { color: #e8f0f8 !important; }
+
+        /* ── Ligne titre + icône d'aide ── */
+        .titre-row { display: flex; align-items: center; justify-content: space-between;
+                     gap: 8px; margin-bottom: 0.5rem; }
+        .titre-row h1 { margin: 0 !important; }
+        .aide-btn { flex-shrink: 0; width: 30px; height: 30px; border-radius: 50%;
+                    border: 0.5px solid rgba(232,240,248,.4);
+                    background: rgba(255,255,255,.12); color: #e8f0f8;
+                    font-size: 17px; font-weight: 600; text-decoration: none;
+                    display: flex; align-items: center; justify-content: center;
+                    line-height: 1; }
+        .aide-btn:active { background: rgba(255,255,255,.28); }
+
         #recherche { background: rgba(255,255,255,.12) !important;
                      border-color: rgba(255,255,255,.22) !important;
                      color: #e8f0f8 !important; }
@@ -172,7 +185,10 @@ TMPL_LISTE = """<!DOCTYPE html>
 </head>
 <body>
     <header>
-        <h1>Mes recettes</h1>
+        <div class="titre-row">
+            <h1>Mes recettes</h1>
+            <a href="aide.html" class="aide-btn" aria-label="Aide" title="Aide">?</a>
+        </div>
         <div style="display:flex;gap:8px;align-items:center;margin-bottom:6px">
             <input type="text" id="recherche" placeholder="Rechercher…"
                    autocomplete="off" style="flex:1">
@@ -989,6 +1005,90 @@ TMPL_SOUMISSIONS = """<!DOCTYPE html>
 </html>"""
 
 
+TMPL_AIDE = """<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aide</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#1b3a5c">
+    <style>
+        body { background: #f0f4f8; }
+        header { background: #1b3a5c; }
+        header h1 { color: #e8f0f8 !important; }
+        .bouton-retour { color: rgba(232,240,248,.85) !important; }
+        .bouton-retour:hover { color: #fff !important; }
+        .aide-contenu { padding: 0 1rem 2.5rem; max-width: 680px; margin: 0 auto;
+                        color: #2a3f54; line-height: 1.6; font-size: 15px; }
+        .aide-intro { font-size: 14px; color: #555; margin: 12px 0 4px; }
+        .aide-contenu h2 { color: #1b3a5c; font-size: 17px; margin: 24px 0 6px;
+                           border-bottom: 0.5px solid #d4dde8; padding-bottom: 5px; }
+        .aide-contenu p  { margin: 6px 0; }
+        .aide-contenu ul { margin: 6px 0; padding-left: 20px; }
+        .aide-contenu li { margin: 5px 0; }
+        .aide-contenu strong { color: #1b3a5c; }
+    </style>
+</head>
+<body>
+    <header class="header-recette">
+        <a href="index.html" class="bouton-retour">← Retour</a>
+        <h1 style="margin-top:8px">Aide</h1>
+    </header>
+    <div class="aide-contenu">
+        <p class="aide-intro">Ce petit guide explique tout ce que l'app sait faire.
+        Pas besoin de le lire en entier : reviens-y quand une question se pose.</p>
+
+        <h2>Trouver une recette</h2>
+        <p>La barre de recherche en haut filtre les recettes par leur nom à mesure que tu tapes.</p>
+        <p>Juste en dessous, les pastilles <strong>Origine</strong> (Ottolenghi, Japonais, Breton…)
+        et <strong>Type</strong> (Végé, Viande, Poisson, Dessert) affinent la liste. Tu peux en
+        cliquer plusieurs : elles se combinent.</p>
+
+        <h2>Cuisiner avec ce qu'il y a dans le frigo</h2>
+        <p>Dans « Ingrédients dans mon frigo », tape un ingrédient (l'app te propose des suggestions)
+        et ajoute-le. Les recettes qui utilisent ces ingrédients remontent en haut de la liste.
+        Pratique pour vider le frigo sans aller faire les courses.</p>
+
+        <h2>Mes favoris ⭐</h2>
+        <p>L'étoile à droite de chaque recette la marque comme favorite. La case
+        « Favoris seulement » n'affiche alors plus que celles-là. Tes favoris restent enregistrés
+        sur ton appareil, et tu peux les exporter/importer pour les retrouver ailleurs.</p>
+
+        <h2>Préparer un menu et une liste de courses</h2>
+        <p>Le bouton <strong>Sélection</strong> fait apparaître une pastille à cocher sur chaque
+        recette. Coche celles que tu veux cuisiner, puis :</p>
+        <ul>
+            <li><strong>Mon menu</strong> récapitule les recettes choisies,</li>
+            <li><strong>Ingrédients</strong> rassemble automatiquement tous les ingrédients en une
+            liste de courses. Tu peux barrer les articles au fur et à mesure, les réordonner,
+            en ajouter, et sauvegarder la liste pour la rouvrir plus tard.</li>
+        </ul>
+
+        <h2>Noter et photographier</h2>
+        <p>En ouvrant une recette, tu peux lui mettre une <strong>note en étoiles</strong>
+        (la moyenne s'affiche dans la liste) et <strong>ajouter une photo</strong> de ton résultat.
+        Les dernières photos apparaissent dans le bandeau en haut de l'accueil.</p>
+
+        <h2>Proposer une recette ✚</h2>
+        <p>Le lien « Proposer une recette » ouvre un formulaire tout simple. Pas besoin d'une mise
+        en forme parfaite : la recette est relue avant d'être ajoutée au recueil.</p>
+
+        <h2>Testées ou à essayer</h2>
+        <p>Les recettes sans mention ont déjà été testées et validées. Celles marquées
+        « Pas testé » viennent de la bibliothèque : elles attendent leur premier essai —
+        à toi de tenter !</p>
+
+        <h2>Installer l'app 📲</h2>
+        <p>Depuis le menu de ton navigateur, « Ajouter à l'écran d'accueil » installe l'app comme
+        une vraie application. Elle fonctionne ensuite même sans connexion (les recettes restent
+        consultables hors-ligne).</p>
+    </div>
+</body>
+</html>"""
+
+
 GATE_HTML = """
 <style>
   html.verrouille body > *:not(#porte) { display: none !important; }
@@ -1151,6 +1251,10 @@ def build():
     (DOCS / "soumissions.html").write_text(
         env.from_string(TMPL_SOUMISSIONS).render(), encoding="utf-8")
 
+    # 9c. aide.html (guide des fonctionnalités)
+    (DOCS / "aide.html").write_text(
+        env.from_string(TMPL_AIDE).render(), encoding="utf-8")
+
     # 10. Pages recettes individuelles
     tmpl = env.from_string(TMPL_RECETTE)
     for r in recettes:
@@ -1173,7 +1277,7 @@ def build():
     # 11. Service worker v12
     fichiers = (
         ["./index.html", "./style.css", "./avis.js", "./favoris.js", "./photos.js", "./menu.html",
-         "./ingredients.html", "./courses.html", "./soumettre.html", "./soumission.js"]
+         "./ingredients.html", "./courses.html", "./soumettre.html", "./soumission.js", "./aide.html"]
         + [f"./recettes/{r['id']}.html" for r in recettes]
     )
     (DOCS / "service-worker.js").write_text(_genere_sw(fichiers), encoding="utf-8")
@@ -1199,19 +1303,11 @@ self.addEventListener("activate", e => {{
 }});
 self.addEventListener("fetch", e => {{
     const req = e.request;
-    // On ne gère QUE les GET de même origine. Tout le reste — les POST
-    // (Supabase, Web3Forms, upload de photos) et les requêtes vers d'autres
-    // domaines — passe directement au réseau, sans interception. Sinon le SW
-    // enrobe ces appels et les fait échouer ("TypeError: Failed to fetch").
-    let memeOrigine = false;
-    try {{ memeOrigine = new URL(req.url).origin === self.location.origin; }} catch (_) {{}}
-    if (req.method !== "GET" || !memeOrigine) return;
- 
     const accepteHtml = req.headers.get("accept") &&
                         req.headers.get("accept").includes("text/html");
     // Pages HTML : réseau d'abord (les changements de structure se propagent
     // dès qu'on est en ligne), repli sur le cache si hors-ligne.
-    if (req.mode === "navigate" || accepteHtml) {{
+    if (req.method === "GET" && (req.mode === "navigate" || accepteHtml)) {{
         e.respondWith(
             fetch(req).then(resp => {{
                 const copie = resp.clone();
@@ -1221,10 +1317,11 @@ self.addEventListener("fetch", e => {{
         );
         return;
     }}
-    // CSS / JS / images / JSON de même origine : cache d'abord (rapide, hors-ligne).
+    // CSS / JS / images / JSON : cache d'abord (rapide, hors-ligne).
     e.respondWith(caches.match(req).then(cached => cached || fetch(req)));
 }});
 """
+
 
 if __name__ == "__main__":
     build()

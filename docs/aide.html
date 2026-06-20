@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aide</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#1b3a5c">
+    <style>
+        body { background: #f0f4f8; }
+        header { background: #1b3a5c; }
+        header h1 { color: #e8f0f8 !important; }
+        .bouton-retour { color: rgba(232,240,248,.85) !important; }
+        .bouton-retour:hover { color: #fff !important; }
+        .aide-contenu { padding: 0 1rem 2.5rem; max-width: 680px; margin: 0 auto;
+                        color: #2a3f54; line-height: 1.6; font-size: 15px; }
+        .aide-intro { font-size: 14px; color: #555; margin: 12px 0 4px; }
+        .aide-contenu h2 { color: #1b3a5c; font-size: 17px; margin: 24px 0 6px;
+                           border-bottom: 0.5px solid #d4dde8; padding-bottom: 5px; }
+        .aide-contenu p  { margin: 6px 0; }
+        .aide-contenu ul { margin: 6px 0; padding-left: 20px; }
+        .aide-contenu li { margin: 5px 0; }
+        .aide-contenu strong { color: #1b3a5c; }
+    </style>
+
+<style>
+  html.verrouille body > *:not(#porte) { display: none !important; }
+  #porte { display: none; }
+  html.verrouille #porte {
+    display: flex; position: fixed; inset: 0; z-index: 99999;
+    align-items: center; justify-content: center; background: #faf8f5;
+    font-family: -apple-system, system-ui, sans-serif;
+  }
+  #porte .boite { width: 100%; max-width: 300px; padding: 24px; text-align: center; }
+  #porte h2 { margin: 0 0 16px; font-size: 18px; color: #5a3a1a; font-weight: 600; }
+  #porte input { width: 100%; padding: 12px; font-size: 16px; box-sizing: border-box;
+    border: 1px solid #d8cfc4; border-radius: 8px; background: #fff; margin-bottom: 10px; }
+  #porte button { width: 100%; padding: 12px; font-size: 15px; border: none;
+    border-radius: 8px; background: #1b3a5c; color: #fff; cursor: pointer; }
+  #porte .err { color: #c0392b; font-size: 13px; height: 16px; margin-bottom: 8px; }
+</style>
+<script>
+(function () {
+  var HASH = "0721ba9a209534aa3dba860230dc45ed3099223621973dd6f941df4386ab862c";
+  var CLE = "recettes_acces";
+  if (localStorage.getItem(CLE) === HASH) return;        // déjà entré : on laisse passer
+  document.documentElement.classList.add("verrouille");  // sinon on masque tout de suite
+
+  async function sha256(txt) {
+    var buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(txt));
+    return Array.from(new Uint8Array(buf))
+      .map(function (b) { return b.toString(16).padStart(2, "0"); }).join("");
+  }
+
+  function poser() {
+    var d = document.createElement("div");
+    d.id = "porte";
+    d.innerHTML =
+      '<div class="boite">' +
+      '<h2>\uD83D\uDD12 Mes recettes</h2>' +
+      '<div class="err" id="porte-err"></div>' +
+      '<input type="password" id="porte-mdp" placeholder="Mot de passe" autocomplete="current-password">' +
+      '<button id="porte-ok">Entrer</button></div>';
+    document.body.appendChild(d);
+    var inp = document.getElementById("porte-mdp");
+    var err = document.getElementById("porte-err");
+    inp.focus();
+    async function verifier() {
+      var h = await sha256(inp.value);
+      if (h === HASH) {
+        localStorage.setItem(CLE, HASH);
+        document.documentElement.classList.remove("verrouille");
+        d.remove();
+      } else {
+        err.textContent = "Mot de passe incorrect";
+        inp.value = ""; inp.focus();
+      }
+    }
+    document.getElementById("porte-ok").addEventListener("click", verifier);
+    inp.addEventListener("keydown", function (e) { if (e.key === "Enter") verifier(); });
+  }
+  if (document.body) poser();
+  else document.addEventListener("DOMContentLoaded", poser);
+})();
+</script>
+</head>
+<body>
+    <header class="header-recette">
+        <a href="index.html" class="bouton-retour">← Retour</a>
+        <h1 style="margin-top:8px">Aide</h1>
+    </header>
+    <div class="aide-contenu">
+        <p class="aide-intro">Ce petit guide explique tout ce que l'app sait faire.
+        Pas besoin de le lire en entier : reviens-y quand une question se pose.</p>
+
+        <h2>Trouver une recette</h2>
+        <p>La barre de recherche en haut filtre les recettes par leur nom à mesure que tu tapes.</p>
+        <p>Juste en dessous, les pastilles <strong>Origine</strong> (Ottolenghi, Japonais, Breton…)
+        et <strong>Type</strong> (Végé, Viande, Poisson, Dessert) affinent la liste. Tu peux en
+        cliquer plusieurs : elles se combinent.</p>
+
+        <h2>Cuisiner avec ce qu'il y a dans le frigo</h2>
+        <p>Dans « Ingrédients dans mon frigo », tape un ingrédient (l'app te propose des suggestions)
+        et ajoute-le. Les recettes qui utilisent ces ingrédients remontent en haut de la liste.
+        Pratique pour vider le frigo sans aller faire les courses.</p>
+
+        <h2>Mes favoris ⭐</h2>
+        <p>L'étoile à droite de chaque recette la marque comme favorite. La case
+        « Favoris seulement » n'affiche alors plus que celles-là. Tes favoris restent enregistrés
+        sur ton appareil, et tu peux les exporter/importer pour les retrouver ailleurs.</p>
+
+        <h2>Préparer un menu et une liste de courses</h2>
+        <p>Le bouton <strong>Sélection</strong> fait apparaître une pastille à cocher sur chaque
+        recette. Coche celles que tu veux cuisiner, puis :</p>
+        <ul>
+            <li><strong>Mon menu</strong> récapitule les recettes choisies,</li>
+            <li><strong>Ingrédients</strong> rassemble automatiquement tous les ingrédients en une
+            liste de courses. Tu peux barrer les articles au fur et à mesure, les réordonner,
+            en ajouter, et sauvegarder la liste pour la rouvrir plus tard.</li>
+        </ul>
+
+        <h2>Noter et photographier</h2>
+        <p>En ouvrant une recette, tu peux lui mettre une <strong>note en étoiles</strong>
+        (la moyenne s'affiche dans la liste) et <strong>ajouter une photo</strong> de ton résultat.
+        Les dernières photos apparaissent dans le bandeau en haut de l'accueil.</p>
+
+        <h2>Proposer une recette ✚</h2>
+        <p>Le lien « Proposer une recette » ouvre un formulaire tout simple. Pas besoin d'une mise
+        en forme parfaite : la recette est relue avant d'être ajoutée au recueil.</p>
+
+        <h2>Testées ou à essayer</h2>
+        <p>Les recettes sans mention ont déjà été testées et validées. Celles marquées
+        « Pas testé » viennent de la bibliothèque : elles attendent leur premier essai —
+        à toi de tenter !</p>
+
+        <h2>Installer l'app 📲</h2>
+        <p>Depuis le menu de ton navigateur, « Ajouter à l'écran d'accueil » installe l'app comme
+        une vraie application. Elle fonctionne ensuite même sans connexion (les recettes restent
+        consultables hors-ligne).</p>
+    </div>
+</body>
+</html>
