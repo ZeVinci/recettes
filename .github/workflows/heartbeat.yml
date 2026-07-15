@@ -1,13 +1,15 @@
 name: Supabase heartbeat
 
 # Maintient le projet Supabase (palier gratuit) actif.
-# Un projet gratuit se met en pause après 7 jours sans activité ; une requête
-# quotidienne suffit largement à réinitialiser ce compteur.
+# Un projet gratuit se met en pause après 7 jours SANS ACTIVITÉ BASE DE DONNÉES.
+# Important : une simple lecture (GET/SELECT) peut être servie depuis le cache
+# et ne compte PAS toujours comme activité. On fait donc une ÉCRITURE (INSERT),
+# qui touche forcément Postgres et n'est jamais mise en cache.
 
 on:
   schedule:
-    # Tous les jours à 06:17 UTC. (On évite pile l'heure ronde : les crons
-    # planifiés à :00 sont souvent retardés par la charge de GitHub.)
+    # Tous les jours à 06:17 UTC. (On évite l'heure ronde : les crons planifiés
+    # à :00 sont souvent retardés par la charge de GitHub.)
     - cron: "17 6 * * *"
   workflow_dispatch:   # permet aussi de le lancer à la main depuis l'onglet Actions
 
@@ -15,18 +17,22 @@ jobs:
   ping:
     runs-on: ubuntu-latest
     steps:
-      - name: Requête de maintien vers Supabase
+      - name: Écriture de maintien vers Supabase
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
         run: |
           code=$(curl -s -o /dev/null -w "%{http_code}" \
-            "${SUPABASE_URL}/rest/v1/avis?select=id&limit=1" \
+            -X POST "${SUPABASE_URL}/rest/v1/keep_alive" \
             -H "apikey: ${SUPABASE_KEY}" \
-            -H "Authorization: Bearer ${SUPABASE_KEY}")
+            -H "Authorization: Bearer ${SUPABASE_KEY}" \
+            -H "Content-Type: application/json" \
+            -H "Prefer: return=minimal" \
+            -d '{}')
           echo "Code HTTP renvoyé : $code"
-          if [ "$code" != "200" ]; then
+          # 201 = ligne créée (insertion réussie).
+          if [ "$code" != "201" ]; then
             echo "::error::Réponse inattendue ($code) — le heartbeat a peut-être échoué."
             exit 1
           fi
-          echo "Supabase a répondu : projet maintenu actif."
+          echo "Insertion OK : projet maintenu actif (activité base de données réelle)."
